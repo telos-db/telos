@@ -1046,18 +1046,17 @@
       "bundleIdentifier": "com.adobe.post",
       "developerName": "Adobe Inc.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AdobeExpress, FilePickerFix, blatantsPatch\n\nAdobe Express: Create Anything\n\n---\nAdobe Express is the quick and easy app to create on-brand content that helps your business stand out and make an impact. Whether you're a beginner or a seasoned creator, Adobe Express empowers you and your team to make high-quality marketing and business materials while maintaining brand consistency.\n\nVIDEO MADE EASY\nLooking for the best free video editor? Adobe Express makes video editing simple. Use customizable templates, upload clips from your camera roll, trim and combine footage, add text",
-      "version": "30.0.0",
-      "versionDate": "2026-03-27T00:00:38-00:00",
-      "versionDescription": "Build 4 from @blatants",
-      "size": 131360897,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/fc/b7/d7fcb745-b31a-5779-b9c6-9d45274ad519/AppIconSpark-0-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Express_Create_Anything_v30_0_0_Subscription_Unlocked_blatant.ipa",
+      "version": "30.3.0",
+      "versionDate": "2026-05-31T15:06:03-00:00",
+      "versionDescription": "Build 2 from @blatants",
+      "size": 139550243,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/90/eb/e890eb28-283e-37b3-17fa-4c94bc18611d/AppIconSpark-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Express_Create_Anything_v30_3_0_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -1065,21 +1064,21 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Adobe_Express_Create_Anything_v30_0_0_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Adobe_Express_Create_Anything_v30_3_0_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
       "name": "Adobe Fresco",
       "bundleIdentifier": "com.adobe.fresco.ios",
       "developerName": "Adobe Inc.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AdobeFresco, FilePickerFix, blatantsPatch\n\nAdobe Fresco: Draw & Paint App\n\n---\nAdobe Fresco is a free drawing and painting app designed for digital artists. Built for iPad and iPhone with Apple Pencil Pro compatibility, Fresco offers a wide variety of brushes and features to help you create your next masterpiece.\n\nTake your artwork to the next level by adding motion with Fresco’s suite of animation and motion path tools. Explore frame-by-frame animation and revolutionary motion paths. Draw and paint with rotational and reflective symmetry guides. Paste photos from your cli",
-      "version": "7.0.1",
-      "versionDate": "2026-03-08T17:01:39-00:00",
-      "versionDescription": "Build 7.0.1.2683 from @blatants",
-      "size": 763318254,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/12/23/1912233a-9216-5331-6743-7701268be059/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Fresco_Draw_._Paint_App_v7_0_1_Subscription_Unlocked_blatant.ipa",
-      "minOSVersion": "16.0",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, SatellaJailed, SideloadSpoofer-08\n\nAdobe Fresco\n\n---\nAdobe Fresco is a free drawing and painting app designed for digital artists. Built for iPad and iPhone with Apple Pencil Pro compatibility, Fresco offers a wide variety of brushes and features to help you create your next masterpiece.\n\nTake your artwork to the next level by adding motion with Fresco’s suite of animation and motion path tools. Explore frame-by-frame animation and revolutionary motion paths. Draw and paint with rotational and reflective symmetry guides. Paste photos from your cli",
+      "version": "7.3.3",
+      "versionDate": "2026-05-31T14:20:28-00:00",
+      "versionDescription": "Build 7.3.3.2917 from @binnichtaktivsipas",
+      "size": 743874574,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/77/fd/0777fdc2-1d88-79b2-2c44-b7d8d317b02f/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Adobe Fresco IAP 7.3.3.ipa",
+      "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -1088,10 +1087,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Adobe_Fresco_Draw_&_Paint_App_v7_0_1_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Adobe Fresco IAP 7.3.3.ipa"
       }
     },
     {
@@ -2299,32 +2298,6 @@
     },
     {
       "name": "Apollo",
-      "bundleIdentifier": "com.food.Apollo",
-      "developerName": "Christian Selig",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: ApolloImprovedCustomApi, CydiaSubstrate, RedditSideloadFix, substrate\n\n---\nApollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accom",
-      "version": "1.15.11",
-      "versionDate": "2025-12-31T04:31:09-00:00",
-      "versionDescription": "Build 285 from @binnichtaktivsipas",
-      "size": 88294649,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Apollo_1.15.11_1721981181.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Apollo_1.15.11_1721981181.ipa"
-      }
-    },
-    {
-      "name": "Apollo",
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Christian Selig",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: ApolloImprovedCustomApi, CydiaSubstrate, FLEX\n\n---\nApollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accom",
@@ -2347,6 +2320,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Apollo-1.15.11_ImprovedCustomApi-2.2.1.ipa"
+      }
+    },
+    {
+      "name": "Apollo",
+      "bundleIdentifier": "com.food.Apollo",
+      "developerName": "Christian Selig",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: ApolloImprovedCustomApi, CydiaSubstrate, RedditSideloadFix, substrate\n\n---\nApollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accom",
+      "version": "1.15.11",
+      "versionDate": "2025-12-31T04:31:09-00:00",
+      "versionDescription": "Build 285 from @binnichtaktivsipas",
+      "size": 88294649,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Apollo_1.15.11_1721981181.ipa",
+      "minOSVersion": "10.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Apollo_1.15.11_1721981181.ipa"
       }
     },
     {
@@ -4390,6 +4389,32 @@
     },
     {
       "name": "BlackHole",
+      "bundleIdentifier": "com.progmore.blackhole-splitter",
+      "developerName": "PROGMORE FOR WEB DESIGN AND MANAGEMENT",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Ad, loaderfix, substrate\n\n---\nSplit long videos to smaller videos for social media apps",
+      "version": "15",
+      "versionDate": "2026-02-05T20:01:34-00:00",
+      "versionDescription": "Build 1 from @binnichtaktivsipas",
+      "size": 12375527,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/9f/0d/c69f0d95-2014-abdc-7534-b3cb7a61ad50/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/BlackHole_15_1766722385.ipa",
+      "minOSVersion": "10.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "BlackHole_15_1766722385.ipa"
+      }
+    },
+    {
+      "name": "BlackHole",
       "bundleIdentifier": "com.shadow.blackhole.ios.15.10",
       "developerName": "PROGMORE FOR WEB DESIGN AND MANAGEMENT",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nSplit long videos to smaller videos for social media apps",
@@ -4438,32 +4463,6 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "BlackHole-v1.15.11-ios.ipa"
-      }
-    },
-    {
-      "name": "BlackHole",
-      "bundleIdentifier": "com.progmore.blackhole-splitter",
-      "developerName": "PROGMORE FOR WEB DESIGN AND MANAGEMENT",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Ad, loaderfix, substrate\n\n---\nSplit long videos to smaller videos for social media apps",
-      "version": "15",
-      "versionDate": "2026-02-05T20:01:34-00:00",
-      "versionDescription": "Build 1 from @binnichtaktivsipas",
-      "size": 12375527,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/9f/0d/c69f0d95-2014-abdc-7534-b3cb7a61ad50/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/BlackHole_15_1766722385.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "BlackHole_15_1766722385.ipa"
       }
     },
     {
@@ -4574,27 +4573,26 @@
       "name": "Block Blast!",
       "bundleIdentifier": "com.blockpuzzle.us.ios",
       "developerName": "Hungry Studio",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nBlock Blast!\n\n---\nEnter the world of Block Blast, where every move is a test of your brain and strategy. Dive into the thrill of block crush gameplay—watch vibrant cubes explode in color as you solve each puzzle. With fresh daily puzzle challenges that keep your mind engaged and an endless high score system that rewards your best strategies, Block Blast delivers nonstop excitement for casual players and puzzle masters alike.\n\nWhy You'll Love Block Blast\n• Daily Puzzle Variety: Every day brings a new puzzle twist,",
-      "version": "6.9.0",
-      "versionDate": "2026-03-27T00:01:35-00:00",
-      "versionDescription": "Build 6904 from @riftysIPAlibrary",
-      "size": 136014627,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/de/3f/a8de3fa7-433b-46b5-3177-bc3e383693f7/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Block.Blast.-v6.9.0-riftysipas.ipa",
-      "minOSVersion": "15.0",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: ADsBlocker, Adblock 1, Adblock 2, CydiaSubstrate\n\nBlock Blast!\n\n---\nEnter the world of Block Blast, where every move is a test of your brain and strategy. Dive into the thrill of block crush gameplay—watch vibrant cubes explode in color as you solve each puzzle. With fresh daily puzzle challenges that keep your mind engaged and an endless high score system that rewards your best strategies, Block Blast delivers nonstop excitement for casual players and puzzle masters alike.\n\nWhy You'll Love Block Blast\n• Daily Puzzle Variety: Every day brings a new puzzle twist,",
+      "version": "7.1.1",
+      "versionDate": "2026-05-31T14:02:28-00:00",
+      "versionDescription": "Build 7111 from @binnichtaktivsipas",
+      "size": 79629885,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/f0/1c/d7f01cec-d388-cece-0faa-685c3ce3f2d2/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Block Blast noads 7.1.1.ipa",
+      "minOSVersion": "13.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
       "metadata": {
-        "sourceChannel": "@riftysIPAlibrary",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Block Blast!-v6.9.0-riftysipas.ipa"
+        "originalFile": "Block Blast noads 7.1.1.ipa"
       }
     },
     {
@@ -4758,13 +4756,13 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BoldVoice, blatantsPatch\n\nBoldVoice: Accent Training\n\n---\nBoldVoice is the top-rated English speaking and pronunciation app, with over 2 million global users. Our Hollywood accent coaches and AI-powered feedback will help you achieve clear, confident pronunciation, with only 10 minutes of daily practice.\n\nWHY CHOOSE BOLDVOICE:\nLearn from professional accent coaches who train Hollywood actors\nRecord your voice and receive instant, AI-powered pronunciation feedback\nPractice with daily-life scenarios and professional conversations\nMonitor progress through",
-      "version": "3.6.9",
-      "versionDate": "2026-03-26T21:00:21-00:00",
-      "versionDescription": "Build 1 from @blatants",
-      "size": 140962628,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/35/c5/a835c5e1-c4e8-08f9-fed2-de4a6c15e5d0/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v3_6_9_Subscription_Unlocked_blatant_Patched.ipa",
-      "minOSVersion": "15.1",
+      "version": "3.9.8",
+      "versionDate": "2026-05-31T15:10:00-00:00",
+      "versionDescription": "Build 7 from @blatants",
+      "size": 146912295,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/54/3e/5d543e2c-51bb-1d38-261b-2f75ad39987c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v3_9_8_Subscription_Unlocked_blatant_Patched.ipa",
+      "minOSVersion": "15.5",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -4776,7 +4774,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "BoldVoice_Accent_Training_v3_6_9_Subscription_Unlocked_blatant_Patched.ipa"
+        "originalFile": "BoldVoice_Accent_Training_v3_9_8_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -5803,32 +5801,6 @@
     },
     {
       "name": "Canary",
-      "bundleIdentifier": "Mailroom.Canary-iOS",
-      "developerName": "Cartasec Pte. Ltd.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nOne inbox for Gmail, Outlook & iCloud.\nAI Copilot drafts, replies, and summarizes.\nRead receipts + email tracking built in.\n\n▶ WRITE EMAILS WITH AI ◀\n\n[ INTELLIGENT AI EMAIL WRITING ]\n• Let Canary’s AI Copilot write and proofread your emails for clarity and professionalism.\n\n[ AI COPILOT ]\n• Get AI-generated email suggestions, automated replies, AI summaries, and priority inbox insights.\n\n[ EMAIL TEMPLATES ]\n• Save and reuse your favorite email drafts with one tap.\n\n▶ STREAMLINED INBOX CONTROL ◀",
-      "version": "5.18.0",
-      "versionDate": "2026-03-08T14:30:08-00:00",
-      "versionDescription": "Build 2090 from @thescholarslounge",
-      "size": 85375564,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/8e/a3/f48ea392-42ee-4a45-83c0-f3ff6b969612/iOS_App_Icons-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Mailroom.Canary-iOS-5.18-eeveedecrypter.ipa",
-      "minOSVersion": "13.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@thescholarslounge",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Mailroom.Canary-iOS-5.18-eeveedecrypter.ipa"
-      }
-    },
-    {
-      "name": "Canary",
       "bundleIdentifier": "Mailroom.Canary-iOS.5AF666",
       "developerName": "Canary Connect",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CanaryUnlocked, CydiaSubstrate\n\n---\nCanary is home security made simple. The Canary app works with our security devices to connect your home to your phone, allowing you to view and protect those that matter most.\n\nMonitor your home: Watch live or recorded HD videos day or night. Access Canary’s timeline for a living history of your home. Save and bookmark your favorite clips.\n\nIntelligent notifications: When Canary identifies something out of the ordinary, you’ll get a notification with recorded HD video of the event, as well as t",
@@ -5851,6 +5823,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Canary_4.96.0_1754333728.ipa"
+      }
+    },
+    {
+      "name": "Canary",
+      "bundleIdentifier": "Mailroom.Canary-iOS",
+      "developerName": "Cartasec Pte. Ltd.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nOne inbox for Gmail, Outlook & iCloud.\nAI Copilot drafts, replies, and summarizes.\nRead receipts + email tracking built in.\n\n▶ WRITE EMAILS WITH AI ◀\n\n[ INTELLIGENT AI EMAIL WRITING ]\n• Let Canary’s AI Copilot write and proofread your emails for clarity and professionalism.\n\n[ AI COPILOT ]\n• Get AI-generated email suggestions, automated replies, AI summaries, and priority inbox insights.\n\n[ EMAIL TEMPLATES ]\n• Save and reuse your favorite email drafts with one tap.\n\n▶ STREAMLINED INBOX CONTROL ◀",
+      "version": "5.18.0",
+      "versionDate": "2026-03-08T14:30:08-00:00",
+      "versionDescription": "Build 2090 from @thescholarslounge",
+      "size": 85375564,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/8e/a3/f48ea392-42ee-4a45-83c0-f3ff6b969612/iOS_App_Icons-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Mailroom.Canary-iOS-5.18-eeveedecrypter.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Mailroom.Canary-iOS-5.18-eeveedecrypter.ipa"
       }
     },
     {
@@ -5936,26 +5934,24 @@
       "bundleIdentifier": "boomer.Smart-Video",
       "developerName": "Captions, LLC (US)",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, Captions, CydiaSubstrate, blatantsPatch\n\nCaptions: AI Edits Your Video\n\n---\nAI EDIT THAT EDITS LIKE A PROFESSIONAL VIDEO EDITOR\n\nBuilt by Mirage™, Captions is an AI video generator and video editor that makes it easy to go from idea to ready-to-share content, no experience needed.\n\nGet started by importing a video or generating engaging content from scratch using text to video. You can create an AI actor or upload a selfie to create a personal avatar, allowing you to produce polished footage of yourself without ever needing to record again.\n\nFrom there, skip the hours s",
-      "version": "13.10.1",
-      "versionDate": "2026-03-28T05:09:29-00:00",
-      "versionDescription": "Build 545 from @blatants",
-      "size": 414593425,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/d9/7c/64d97c57-602c-b2b3-7e4e-3bf3ba47e8d6/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Captions_AI_Edits_Your_Video_v13_10_1_Scale_Subscription_Unlocked.ipa",
+      "version": "13.19.0",
+      "versionDate": "2026-05-31T14:45:56-00:00",
+      "versionDescription": "Build 576 from @blatants",
+      "size": 107634467,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/1c/9b/471c9b97-d1e5-ddcf-5906-5f61e4036fce/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Captions_AI_Edits_Your_Video_v13_19_0_Scale_Subscription_Unlocked.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Captions_AI_Edits_Your_Video_v13_10_1_Scale_Subscription_Unlocked.ipa"
+        "originalFile": "Captions_AI_Edits_Your_Video_v13_19_0_Scale_Subscription_Unlocked.ipa"
       }
     },
     {
@@ -6224,27 +6220,26 @@
       "name": "CARROT",
       "bundleIdentifier": "com.grailr.CARROTweather",
       "developerName": "Grailr LLC",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CarrotWeatherAlertsRadarPatch, blatantsPatch\n\nCARROT Weather: Alerts & Radar\n\n---\nCARROT Weather is a crazy-powerful (and privacy-conscious) weather app that delivers hilariously twisted forecasts.\n\n Winner of Apple's App of the Year, Apple Design Award, and App Store Editors' Choice. Featured by The New York Times, Good Morning America, CNN, Wired, & more!\n\nOverflowing With Personality\nChoose one of five personalities for CARROT, from the straitlaced “professional” to the profanity-laden “overkill.” You’ll actually be looking forward to a torrential downpour just to see what",
-      "version": "6.5",
-      "versionDate": "2026-03-27T19:12:37-00:00",
-      "versionDescription": "Build 6.5.0 from @binnichtaktivsipas",
-      "size": 272005419,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/3a/02/583a021e-c479-e001-aeed-453caf55c2bb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/CARROT.Weather.Premium.6.5.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Carrot, blatantsPatch\n\nCARROT Weather: Alerts & Radar\n\n---\nCARROT Weather is a crazy-powerful (and privacy-conscious) weather app that delivers hilariously twisted forecasts.\n\n Winner of Apple's App of the Year, Apple Design Award, and App Store Editors' Choice. Featured by The New York Times, Good Morning America, CNN, Wired, & more!\n\nOverflowing With Personality\nChoose one of five personalities for CARROT, from the straitlaced “professional” to the profanity-laden “overkill.” You’ll actually be looking forward to a torrential downpour just to see what",
+      "version": "6.6",
+      "versionDate": "2026-05-31T16:17:49-00:00",
+      "versionDescription": "Build 6.6.0 from @blatants",
+      "size": 287975844,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/e8/0d/29e80d73-4a90-2f5e-f6c9-f325da74b6dc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/CARROT_Weather_Alerts_&_Radar_v6_6_Premium_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
       "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
+        "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "CARROT Weather Premium 6.5.ipa"
+        "originalFile": "CARROT_Weather_Alerts_&_Radar_v6_6_Premium_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -6353,6 +6348,31 @@
     },
     {
       "name": "Cash App",
+      "bundleIdentifier": "com.squareup.cash",
+      "developerName": "Block, Inc.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nThe easy way to spend, save, and invest.\n\nPay anyone in cash or bitcoin instantly and enjoy free Lightning Network transfers with compatible wallets. Start saving by rounding up spare change to the nearest dollar or invest in stocks, ETFs, or bitcoin.\n\nExperience a faster, simpler way to bank. Set up direct deposit and get your paycheck up to 2 days early. Order a customizable debit card for free and add it to your digital wallet. Save on everyday spending with exclusive offers.\n\nDownload Cash A",
+      "version": "5.24.0",
+      "versionDate": "2026-03-01T15:33:23-00:00",
+      "versionDescription": "Build 5240165 from @thescholarslounge",
+      "size": 172032422,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/07/6f/21076f82-fa4a-6067-310e-10634b5f8dff/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.squareup.cash-5.24-eeveedecrypter.ipa",
+      "minOSVersion": "16.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.squareup.cash-5.24-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "Cash App",
       "bundleIdentifier": "appsbywokk.bitcoin-screen",
       "developerName": "Block, Inc.",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: __preview, bitcoin screen.debug\n\n---\nCash App is the easy way to spend, save, and invest your money.\n\nPay anyone in cash or bitcoin instantly and enjoy Cash App's free Lightning Network transfers with compatible wallets. Start saving by rounding up your spare change to the nearest dollar or invest in stocks, ETFs, or bitcoin.\n\nExperience a faster, simpler way to bank. Set up direct deposits and access your paycheck up to 2 days early. Receive a prepaid, customizable debit card for free that you can add to your digital wallet. Save",
@@ -6375,31 +6395,6 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "WokkFakeSend.ipa"
-      }
-    },
-    {
-      "name": "Cash App",
-      "bundleIdentifier": "com.squareup.cash",
-      "developerName": "Block, Inc.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nThe easy way to spend, save, and invest.\n\nPay anyone in cash or bitcoin instantly and enjoy free Lightning Network transfers with compatible wallets. Start saving by rounding up spare change to the nearest dollar or invest in stocks, ETFs, or bitcoin.\n\nExperience a faster, simpler way to bank. Set up direct deposit and get your paycheck up to 2 days early. Order a customizable debit card for free and add it to your digital wallet. Save on everyday spending with exclusive offers.\n\nDownload Cash A",
-      "version": "5.24.0",
-      "versionDate": "2026-03-01T15:33:23-00:00",
-      "versionDescription": "Build 5240165 from @thescholarslounge",
-      "size": 172032422,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/07/6f/21076f82-fa4a-6067-310e-10634b5f8dff/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.squareup.cash-5.24-eeveedecrypter.ipa",
-      "minOSVersion": "16.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1
-      ],
-      "metadata": {
-        "sourceChannel": "@thescholarslounge",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "com.squareup.cash-5.24-eeveedecrypter.ipa"
       }
     },
     {
@@ -7077,6 +7072,32 @@
     },
     {
       "name": "Clarity",
+      "bundleIdentifier": "me.clarityapp",
+      "developerName": "YuanJing Co.,Ltd.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nCreate, explore and share elegant iPhone wallpapers.\nClarity Wallpaper is the ultimate wallpaper library for all of your Apple devices.\n\n”Create the Perfect Wallpaper”\n”Find the Perfect Wallpaper”\n- Featured on App Store Today\n\nClarity Wallpaper is your ultimate wallpaper library in which you can:\n\n- Change wallpapers automatically with Shortcuts.]\n- Preview wallpapers right on your Home Screen widgets.\n- Create gradient backgrounds for your home screen.\n- Create blurry wallpapers for your home",
+      "version": "8.0.0",
+      "versionDate": "2026-03-01T09:39:39-00:00",
+      "versionDescription": "Build 38 from @thescholarslounge",
+      "size": 225465264,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/2b/da/bd2bda18-2b7a-5862-7a6f-65ace9548113/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/me.clarityapp-8.0-eeveedecrypter.ipa",
+      "minOSVersion": "12.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "me.clarityapp-8.0-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "Clarity",
       "bundleIdentifier": "com.moodtools.thoughtdiary",
       "developerName": "Inquiry Health LLC",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Clarity, blatantsPatch\n\nClarity: Mental Health Journal\n\n---\nClarity is your all-in-one mental health hub for managing stress, anxiety, and low mood. Harness the power of Cognitive Behavioral Therapy (CBT) to transform your mental well-being. Learn what affects your mood, develop healthier thought patterns, problem solve with the AI chatbot, practice effective coping skills, build resilience, and foster personal growth.\n\nHOW IT WORKS\nCBT is a proven method that's been rigorously studied and widely endorsed in the world of mental health. Its core principle",
@@ -7100,32 +7121,6 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Clarity_Mental_Health_Journal_v5_5_17_Pro_Unlocked_blatant_Patched.ipa"
-      }
-    },
-    {
-      "name": "Clarity",
-      "bundleIdentifier": "me.clarityapp",
-      "developerName": "YuanJing Co.,Ltd.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nCreate, explore and share elegant iPhone wallpapers.\nClarity Wallpaper is the ultimate wallpaper library for all of your Apple devices.\n\n”Create the Perfect Wallpaper”\n”Find the Perfect Wallpaper”\n- Featured on App Store Today\n\nClarity Wallpaper is your ultimate wallpaper library in which you can:\n\n- Change wallpapers automatically with Shortcuts.]\n- Preview wallpapers right on your Home Screen widgets.\n- Create gradient backgrounds for your home screen.\n- Create blurry wallpapers for your home",
-      "version": "8.0.0",
-      "versionDate": "2026-03-01T09:39:39-00:00",
-      "versionDescription": "Build 38 from @thescholarslounge",
-      "size": 225465264,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/2b/da/bd2bda18-2b7a-5862-7a6f-65ace9548113/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/me.clarityapp-8.0-eeveedecrypter.ipa",
-      "minOSVersion": "12.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@thescholarslounge",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "me.clarityapp-8.0-eeveedecrypter.ipa"
       }
     },
     {
@@ -8019,6 +8014,32 @@
     },
     {
       "name": "Compress",
+      "bundleIdentifier": "com.newmarketinglab.ImageCompressor",
+      "developerName": "New Marketing Lab, Inc",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Compress, blatantsPatch\n\nCompress Photos & Pictures\n\n---\nSave storage space on your iPhone or iPad by compressing your photos and reducing their size without reducing their quality.\n\n6 REASONS TO USE COMPRESS PHOTOS\n\n- Save space on your iPhone or iPad by reducing photos file size\n- Optimized for best image quality possible\n- Shrink photos to share them faster with friends and family\n- Quickly compress photos before posting them to social media\n- Very easy to use\n- Highly rated with an average of 4.5 stars\n\nREVIEWS FROM USERS\n\n\"Thank God for this app.",
+      "version": "3.3",
+      "versionDate": "2026-03-07T23:24:43-00:00",
+      "versionDescription": "Build 1 from @blatants",
+      "size": 4518272,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/32/7e/cf327e2e-2b6b-c711-94e6-3feb1b45fecc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Compress_Photos_._Pictures_v3_3_Premium_Unlocked_blatant_Patched.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@blatants",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Compress_Photos_&_Pictures_v3_3_Premium_Unlocked_blatant_Patched.ipa"
+      }
+    },
+    {
+      "name": "Compress",
       "bundleIdentifier": "com.newmarketinglab.CompressVideos",
       "developerName": "New Marketing Lab, Inc",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Compress, blatantsPatch\n\nCompress Videos & Resize Video\n\n---\nSave storage space on your iPhone or iPad by compressing your videos and reducing their size without reducing their quality.\n\n9 REASONS TO USE COMPRESS VIDEOS\n\n- Highly rated with an average of 4.7 stars\n- Save space on your iPhone or iPad by reducing videos file size\n- Optimized for best video quality possible\n- Very easy to use\n- Shrink videos to share them faster with friends and family\n- Quickly and easily compress videos before posting them to social media\n- No watermarks on your compressed",
@@ -8042,32 +8063,6 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Compress_Videos_&_Resize_Video_v2_15_Subscription_Unlocked_blatant.ipa"
-      }
-    },
-    {
-      "name": "Compress",
-      "bundleIdentifier": "com.newmarketinglab.ImageCompressor",
-      "developerName": "New Marketing Lab, Inc",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Compress, blatantsPatch\n\nCompress Photos & Pictures\n\n---\nSave storage space on your iPhone or iPad by compressing your photos and reducing their size without reducing their quality.\n\n6 REASONS TO USE COMPRESS PHOTOS\n\n- Save space on your iPhone or iPad by reducing photos file size\n- Optimized for best image quality possible\n- Shrink photos to share them faster with friends and family\n- Quickly compress photos before posting them to social media\n- Very easy to use\n- Highly rated with an average of 4.5 stars\n\nREVIEWS FROM USERS\n\n\"Thank God for this app.",
-      "version": "3.3",
-      "versionDate": "2026-03-07T23:24:43-00:00",
-      "versionDescription": "Build 1 from @blatants",
-      "size": 4518272,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/32/7e/cf327e2e-2b6b-c711-94e6-3feb1b45fecc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Compress_Photos_._Pictures_v3_3_Premium_Unlocked_blatant_Patched.ipa",
-      "minOSVersion": "13.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@blatants",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Compress_Photos_&_Pictures_v3_3_Premium_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -10401,12 +10396,12 @@
       "bundleIdentifier": "net.mkswap.Dropshare-iOS",
       "developerName": "Timo Josten",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Dropshare, blatantsPatch\n\nDropshare - File Sharing Tool\n\n---\nDropshare makes it easy to upload and share files from your iPhone or iPad using storage you already trust.\n\nUpload files, photos, videos, and more, then instantly get a download link you can share anywhere. Whether you want to use your own server, S3-compatible storage, or popular cloud services, Dropshare gives you a faster and more flexible file sharing workflow on iOS.\n\nWhy Dropshare:\n• Share files quickly via download URL\n• Upload from Photos, Files, or the Share Extension\n• Upload one file",
-      "version": "3.62",
-      "versionDate": "2026-05-31T04:15:33-00:00",
-      "versionDescription": "Build 4244 from @blatants",
-      "size": 68600874,
+      "version": "3.61",
+      "versionDate": "2026-05-31T14:38:58-00:00",
+      "versionDescription": "Build 4243 from @blatants",
+      "size": 68540693,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/b2/cd/88b2cdec-37ac-a0a0-76f6-dee9589aebca/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Dropshare_File_Sharing_Tool_v3_62_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Dropshare_File_Sharing_Tool_v3_61_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "14.5",
       "supportedPlatforms": [
         "iOS"
@@ -10419,7 +10414,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Dropshare_File_Sharing_Tool_v3_62_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Dropshare_File_Sharing_Tool_v3_61_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -11313,32 +11308,6 @@
     },
     {
       "name": "ESign",
-      "bundleIdentifier": "KZ8MJR464R.k.xyz.yyyue.esign",
-      "developerName": "Beijing Xiaoxiong Bowang Technology Co., Ltd.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nES File Explorer is a local and network file management tool that can help you manage files easily.\n\n【The main function】\n-File management\nYou can create new directories, rename, move, delete files, etc.\nSupport file sorting by name, date, size\nThe iPad version supports features such as split screen, picture-in-picture, and drag-and-drop operations between apps\n\n- file transfer\nWiFi transmission function: support the transfer of files between the mobile terminal and the computer terminal\nFace-to-",
-      "version": "5.0.0",
-      "versionDate": "2025-12-31T04:11:24-00:00",
-      "versionDescription": "Build 1 from @binnichtaktivsipas",
-      "size": 15024026,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/be/54/dfbe5444-5035-8ec3-c243-97ce0554bb60/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/ESign_5.0.0_1725982229.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "ESign_5.0.0_1725982229.ipa"
-      }
-    },
-    {
-      "name": "ESign",
       "bundleIdentifier": "p3.xyz.yyyue.esign",
       "developerName": "Beijing Xiaoxiong Bowang Technology Co., Ltd.",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nES File Explorer is a local and network file management tool that can help you manage files easily.\n\n【The main function】\n-File management\nYou can create new directories, rename, move, delete files, etc.\nSupport file sorting by name, date, size\nThe iPad version supports features such as split screen, picture-in-picture, and drag-and-drop operations between apps\n\n- file transfer\nWiFi transmission function: support the transfer of files between the mobile terminal and the computer terminal\nFace-to-",
@@ -11387,6 +11356,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Esign-5.0NoLogs-1.1-zx.ipa"
+      }
+    },
+    {
+      "name": "ESign",
+      "bundleIdentifier": "KZ8MJR464R.k.xyz.yyyue.esign",
+      "developerName": "Beijing Xiaoxiong Bowang Technology Co., Ltd.",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nES File Explorer is a local and network file management tool that can help you manage files easily.\n\n【The main function】\n-File management\nYou can create new directories, rename, move, delete files, etc.\nSupport file sorting by name, date, size\nThe iPad version supports features such as split screen, picture-in-picture, and drag-and-drop operations between apps\n\n- file transfer\nWiFi transmission function: support the transfer of files between the mobile terminal and the computer terminal\nFace-to-",
+      "version": "5.0.0",
+      "versionDate": "2025-12-31T04:11:24-00:00",
+      "versionDescription": "Build 1 from @binnichtaktivsipas",
+      "size": 15024026,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/be/54/dfbe5444-5035-8ec3-c243-97ce0554bb60/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/ESign_5.0.0_1725982229.ipa",
+      "minOSVersion": "10.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "ESign_5.0.0_1725982229.ipa"
       }
     },
     {
@@ -11803,32 +11798,6 @@
     },
     {
       "name": "Facebook",
-      "bundleIdentifier": "com.facebook.Facebook",
-      "developerName": "Meta Platforms, Inc.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nWhere real people propel your curiosity. Whether you’re thrifting gear, showing reels to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.\n\nExplore and expand your interests:\n Shop Marketplace for hidden gems and take your hobbies to the next level\n Personalize your Feed to see more of what you like, less of what you don’t\n Ask Meta AI for information and get answers instantly\n Drive into reels that ref",
-      "version": "554.0.0",
-      "versionDate": "2026-03-25T11:59:05-00:00",
-      "versionDescription": "Build 917646558 from @thescholarslounge",
-      "size": 199319447,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/dd/ea/e7ddeaa1-8a5f-afe4-72e3-fae43b514c3c/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.facebook.Facebook-554.0.0-eeveedecrypter.ipa",
-      "minOSVersion": "15.1",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@thescholarslounge",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "com.facebook.Facebook-554.0.0-eeveedecrypter.ipa"
-      }
-    },
-    {
-      "name": "Facebook",
       "bundleIdentifier": "com.facebook.Facebookfhhgfnnfgj22",
       "developerName": "Meta Platforms, Inc.",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Glow\n\n---\nWhere real people propel your curiosity. Whether you’re thrifting gear, showing reels to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.\n\nExplore and expand your interests:\n Shop Marketplace for hidden gems and take your hobbies to the next level\n Personalize your Feed to see more of what you like, less of what you don’t\n Ask Meta AI for information and get answers instantly\n Drive into reels that ref",
@@ -11851,6 +11820,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Glow_FB_v1.3.1.ipa"
+      }
+    },
+    {
+      "name": "Facebook",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "Meta Platforms, Inc.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nWhere real people propel your curiosity. Whether you’re thrifting gear, showing reels to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.\n\nExplore and expand your interests:\n Shop Marketplace for hidden gems and take your hobbies to the next level\n Personalize your Feed to see more of what you like, less of what you don’t\n Ask Meta AI for information and get answers instantly\n Drive into reels that ref",
+      "version": "554.0.0",
+      "versionDate": "2026-03-25T11:59:05-00:00",
+      "versionDescription": "Build 917646558 from @thescholarslounge",
+      "size": 199319447,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/dd/ea/e7ddeaa1-8a5f-afe4-72e3-fae43b514c3c/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.facebook.Facebook-554.0.0-eeveedecrypter.ipa",
+      "minOSVersion": "15.1",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.facebook.Facebook-554.0.0-eeveedecrypter.ipa"
       }
     },
     {
@@ -12845,26 +12840,24 @@
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Fitia, blatantsPatch\n\nFitia: Calorie Counter & Diet\n\n---\nTrusted by 10+ million users and rated 4.9/5.0 stars\n\n • The fastest & most accurate calorie counter\n • Track calories by photo, voice, or typing (like notes)\n • Personalized meal plans for weight loss or muscle gain\n • AI coach that adapts to your progress\n • Grocery list, recipes & smart food logging\n • Weight, body fat & measurement tracking\n • Intermittent fasting tracker\n • Syncs with Apple Health and third party apps\n\nWHY FITIA WORKS FOR WEIGHT LOSS OR MUSCLE GAIN\n• Fitia creates a plan th",
-      "version": "22.3.5",
-      "versionDate": "2026-03-28T14:08:31-00:00",
-      "versionDescription": "Build 976 from @blatants",
-      "size": 101881509,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/21/12/7c2112cc-a1f6-f95a-ebfe-b410e8945cac/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_._Diet_v22_3_5_Subscription_Unlocked_blatant.ipa",
+      "version": "23.1.4",
+      "versionDate": "2026-05-31T14:46:51-00:00",
+      "versionDescription": "Build 1003 from @blatants",
+      "size": 109524283,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/18/c2/8e18c267-859b-7791-b7ca-d2fbc39d887e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_4_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "16",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Fitia_Calorie_Counter_&_Diet_v22_3_5_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Fitia_Calorie_Counter_&_Diet_v23_1_4_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -14021,27 +14014,26 @@
       "name": "FotMob",
       "bundleIdentifier": "com.mobilefootie.fotmobpro",
       "developerName": "FotMob AS",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nFotMob - Soccer Live Scores\n\n---\nJoin over 20 million fans who trust FotMob to keep them informed.\n\nFotMob gives you all the live scores, stats, and news you need to keep up with football from anywhere in the world. With personalized alerts and lightning fast match updates, you'll always stay informed about your favorite teams and players. Our mission is simple: We're changing the way the world follows football.\n\nKey features include:\n• Live scores with instant goal notifications\n• Personalized news and alerts for your favorite",
-      "version": "1229.0",
-      "versionDate": "2026-03-24T01:46:07-00:00",
-      "versionDescription": "Build 16168 from @riftysIPAlibrary",
-      "size": 63651790,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/c0/93/b4c09388-e860-d02a-e55a-b103a0f0a8f7/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/FotMob.-.Soccer.Live.Scores-v1229.0-riftysipas.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26, blatantsPatch\n\nFotMob - Soccer Live Scores\n\n---\nJoin over 20 million fans who trust FotMob to keep them informed.\n\nFotMob gives you all the live scores, stats, and news you need to keep up with football from anywhere in the world. With personalized alerts and lightning fast match updates, you'll always stay informed about your favorite teams and players. Our mission is simple: We're changing the way the world follows football.\n\nKey features include:\n• Live scores with instant goal notifications\n• Personalized news and alerts for your favorite",
+      "version": "1235.0",
+      "versionDate": "2026-05-31T13:53:43-00:00",
+      "versionDescription": "Build 16371 from @binnichtaktivsipas",
+      "size": 71497603,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/0d/65/4a0d65ed-68d8-2af3-735b-24c1f0b1bee9/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/FotMob+ 1235.0.ipa",
       "minOSVersion": "17.6",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
       "metadata": {
-        "sourceChannel": "@riftysIPAlibrary",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "FotMob - Soccer Live Scores-v1229.0-riftysipas.ipa"
+        "originalFile": "FotMob+ 1235.0.ipa"
       }
     },
     {
@@ -16453,18 +16445,17 @@
       "bundleIdentifier": "com.hevyapp.hevy",
       "developerName": "Hevy Studios S.L.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Hevy, blatantsPatch\n\nHevy - Workout Tracker Gym Log\n\n---\nFeatured by Apple Join +10 million users!\nHevy is the most intuitive workout tracker & planner in the world. No ads and free. Plan your weight lifting routines, log your workouts and track your exercise progress. Join a growing community and get started today - for free!\n\nWHAT USERS ARE SAYING\n• \"Seriously the best workout tracker I've ever used. Simple. Free. Tons of graphs. Amazing quality videos\" - Sam Ilelaboye\n• \"Seeing what my friends and other athletes are working out at the gym has total",
-      "version": "3.0.4",
-      "versionDate": "2026-03-25T19:08:40-00:00",
-      "versionDescription": "Build 1962340 from @blatants",
-      "size": 127868835,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/94/b0/c094b0eb-80de-0cb4-fec4-35a751dd1afd/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_0_4_Subscription_Unlocked_blatant.ipa",
-      "minOSVersion": "15.0",
+      "version": "3.0.14",
+      "versionDate": "2026-05-31T14:56:01-00:00",
+      "versionDescription": "Build 2044512 from @blatants",
+      "size": 122592124,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/cc/93/40cc931e-d7f4-8c1b-c848-2a4421c34ffb/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_0_14_Subscription_Unlocked_blatant.ipa",
+      "minOSVersion": "14.1",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -16472,7 +16463,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Hevy_Workout_Tracker_Gym_Log_v3_0_4_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Hevy_Workout_Tracker_Gym_Log_v3_0_14_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -17233,31 +17224,6 @@
       }
     },
     {
-      "name": "Icons",
-      "bundleIdentifier": "com.noahgilmore.transparent-icons",
-      "developerName": "Noah Gilmore",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTransparent App Icons\n\n---\nUpdated for iPhone 16 and iOS 18.1 with support for large icons mode! Transparent App Icons is the easiest, simplest way to customize your iOS 14+ Home Screen with icons that are set against the background wallpaper to look like they’re transparent. Transparent App Icons lets you create images to use as Shortcuts and bookmarks on your Home Screen, so you can achieve previously impossible Home Screen layouts and custom icon spacing, using a simulated transparent background.\n\nFeatures:\n- Upload wa",
-      "version": "1.6.0",
-      "versionDate": "2026-02-06T14:18:45-00:00",
-      "versionDescription": "Build 120 from @binnichtaktivsipas",
-      "size": 15394202,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/f2/2a/4ff22a4d-fd03-75cb-8a45-0554fa334aee/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/TransparentAppIcons_1.6.0.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "TransparentAppIcons_1.6.0.ipa"
-      }
-    },
-    {
       "name": "iCons",
       "bundleIdentifier": "com.frenchTwinsIllusion.icons",
       "developerName": "French Twins Illusion",
@@ -17280,6 +17246,31 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "com.frenchTwinsIllusion.icons-1.1.8-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "Icons",
+      "bundleIdentifier": "com.noahgilmore.transparent-icons",
+      "developerName": "Noah Gilmore",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTransparent App Icons\n\n---\nUpdated for iPhone 16 and iOS 18.1 with support for large icons mode! Transparent App Icons is the easiest, simplest way to customize your iOS 14+ Home Screen with icons that are set against the background wallpaper to look like they’re transparent. Transparent App Icons lets you create images to use as Shortcuts and bookmarks on your Home Screen, so you can achieve previously impossible Home Screen layouts and custom icon spacing, using a simulated transparent background.\n\nFeatures:\n- Upload wa",
+      "version": "1.6.0",
+      "versionDate": "2026-02-06T14:18:45-00:00",
+      "versionDescription": "Build 120 from @binnichtaktivsipas",
+      "size": 15394202,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/f2/2a/4ff22a4d-fd03-75cb-8a45-0554fa334aee/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/TransparentAppIcons_1.6.0.ipa",
+      "minOSVersion": "10.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "TransparentAppIcons_1.6.0.ipa"
       }
     },
     {
@@ -20364,18 +20355,17 @@
       "bundleIdentifier": "co.lovetap.Female-by-Design",
       "developerName": "Life Fertility Tracker IVS",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, LifePatch\n\nLife - Period Tracker Calendar\n\n---\nLife Period Tracker lets you track your period, predict your ovulation, schedule cycle reminders, track your symptoms, moods, and more! Upgrade to Premium and track your health using all nine new health trackers! Track sex, fertility, weight, nutrition, fitness, sleep, medication, health, and even keep a diary! Download the best and most customizable women's health tracker on the App Store!\n\nWe take your privacy very seriously! Unlike many other women's health apps, we don't require your email a",
-      "version": "6.6.2",
-      "versionDate": "2026-03-20T07:28:45-00:00",
-      "versionDescription": "Build 472 from @binnichtaktivsipas",
-      "size": 37922411,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/93/0d/0e930d67-160b-8671-4355-b260f1430ec2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Life.-.Period.Tracker.Calendar.Premium.6.6.2.ipa",
+      "version": "6.7.0",
+      "versionDate": "2026-05-31T13:35:26-00:00",
+      "versionDescription": "Build 482 from @binnichtaktivsipas",
+      "size": 40455321,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/9a/02/849a0210-cf5b-61ea-d4c2-aae1270cb7ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Life - Period Tracker Calendar Premium 6.7.0.ipa",
       "minOSVersion": "13.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -20383,7 +20373,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Life - Period Tracker Calendar Premium 6.6.2.ipa"
+        "originalFile": "Life - Period Tracker Calendar Premium 6.7.0.ipa"
       }
     },
     {
@@ -21146,26 +21136,24 @@
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "Locket Labs, Inc.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nLocket Widget\n\n---\nLocket is a widget that shows live photos from your best friends, right to your Home Screen. You and your best friends will see new pictures from each other every time you unlock your phone. It’s a little glimpse of what everyone’s up to throughout the day.\n\nHOW IT WORKS\n1. Add the Locket widget to your Home Screen\n2. When a friend sends you a photo, it instantly appears on your Locket widget!\n3. To share a pic back, tap into the widget, take a pic with the camera, and then hit send! It appears",
-      "version": "2.39.1",
-      "versionDate": "2026-03-29T17:54:08-00:00",
+      "version": "2.49.0",
+      "versionDate": "2026-05-31T16:42:06-00:00",
       "versionDescription": "Build 1 from @blatants",
-      "size": 331251579,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/57/0b/51570bc2-74d2-ea46-3117-ad145b1a83b1/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Locket.Widget.v2.39.1.Locket.Gold.blatant.Patched.ipa",
-      "minOSVersion": "18.0",
+      "size": 337972675,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/fe/ab/9cfeab99-6119-c8b2-4147-30535afb3f78/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.49.0 Locket Gold blatant Patched.ipa",
+      "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Locket Widget v2.39.1 Locket Gold blatant Patched.ipa"
+        "originalFile": "Locket Widget v2.49.0 Locket Gold blatant Patched.ipa"
       }
     },
     {
@@ -21351,19 +21339,18 @@
       "name": "Luminar",
       "bundleIdentifier": "com.skylum.luminaripad",
       "developerName": "Skylum",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FilePickerFix, Luminar, blatantsPatch\n\nLuminar Mobile AI Photo Editor\n\n---\nLuminar — Your all-in-one, on-the-go photo editor and creative companion for iPhone, iPad and Vision Pro. Explore powerful AI-driven tools and an interactive interface that responds to your touch, delivering a uniquely engaging photo editing experience.\n\nStreamlined design with unparalleled control\n\nLuminar's user-friendly design allows you to edit your photos with intuitive gestures, featuring smoothly gliding sliders and spinning dials that respond realistically to your touch with motion and s",
-      "version": "3.3",
-      "versionDate": "2026-03-26T21:15:39-00:00",
-      "versionDescription": "Build 3003 from @blatants",
-      "size": 487123100,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/66/22/036622f6-6411-03e8-f45d-0a1d11489835/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Mobile_AI_Photo_Editor_v3_3_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FilePickerFix, Luminar, blatantsPatch\n\nLuminar: Image Editor&Enhancer\n\n---\nLuminar — Your all-in-one, on-the-go photo editor and creative companion for iPhone, iPad and Vision Pro. Explore powerful AI-driven tools and an interactive interface that responds to your touch, delivering a uniquely engaging photo editing experience.\n\nStreamlined design with unparalleled control\n\nLuminar's user-friendly design allows you to edit your photos with intuitive gestures, featuring smoothly gliding sliders and spinning dials that respond realistically to your touch with motion and s",
+      "version": "3.6.1",
+      "versionDate": "2026-05-31T17:43:23-00:00",
+      "versionDescription": "Build 3167 from @blatants",
+      "size": 536147498,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/1a/6e/b01a6e0f-f061-2ca4-9d3a-44be7d2bf8b9/LuminarLogo-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v3_6_1_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -21371,7 +21358,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Luminar_Mobile_AI_Photo_Editor_v3_3_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Luminar_Image_Editor&Enhancer_v3_6_1_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -21720,18 +21707,17 @@
       "bundleIdentifier": "com.amanotes.magictiles",
       "developerName": "Amanotes Pte. Ltd.",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, MagicTiles3Patch\n\nMagic Tiles 3: Piano Game\n\n---\nHow fun is it to capture the most precious moments of the year with a wink of rhythms? Let’s MUSIC your soul with the beat of hit songs.\n\nWith Magic Tiles 3, you can play various types of music: pop, rap, acappella, EDM, jazz, instrumental. A thousand of songs is waiting for you. Let's explore more to find the rainbow in your mind.\n\nMagic Tiles 3 key features:\n\n1. Appealing, modern and diverse music genres to satisfy every music taste! We have over 1000 songs waiting for you to conquer.\n2. Finel",
-      "version": "13.021.002",
-      "versionDate": "2026-03-02T15:01:32-00:00",
-      "versionDescription": "Build 2602260420 from @binnichtaktivsipas",
-      "size": 268775417,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/74/b5/0574b5f7-e62b-a139-2c01-bd9bdbd99e76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Magic.Tiles.3.Vip.13.021.002.ipa",
+      "version": "13.055.105",
+      "versionDate": "2026-05-31T14:14:02-00:00",
+      "versionDescription": "Build 2605271404 from @binnichtaktivsipas",
+      "size": 303910180,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/2b/7b/d62b7bfd-6b30-e8c2-a906-910b5011005e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Magic Tiles 3 Vip 13.055.105.ipa",
       "minOSVersion": "15.6",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -21739,7 +21725,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Magic Tiles 3 Vip 13.021.002.ipa"
+        "originalFile": "Magic Tiles 3 Vip 13.055.105.ipa"
       }
     },
     {
@@ -24074,19 +24060,18 @@
       "name": "MyFitnessPal",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "MyFitnessPal, Inc.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nMyFitnessPal: Calorie Counter\n\n---\nAchieve your nutrition, calorie, macro, and fitness goals with MyFitnessPal. MyFitnessPal is a comprehensive food and fitness tracker, with everything you need to reach your goals. Macros, calories, food, and workouts – track it all in one place.\n\nChange your habits with fitness and food. Download our health and nutrition app and start your free Premium trial today. With MyFitnessPal, you have access to exclusive food inspiration, an intermittent fasting tracker, fitness logging tools, expert gu",
-      "version": "26.12.0",
-      "versionDate": "2026-03-25T06:16:15-00:00",
-      "versionDescription": "Build 71607 from @blatants",
-      "size": 179136619,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/5f/ad/7c5fad01-895c-8540-1202-9145e27bcf64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal_Calorie_Counter_v26_12_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nMyFitnessPal: Calorie Counter\n\n---\nAchieve your nutrition, calorie, macro & fitness goals with MyFitnessPal – the AI-powered food & fitness tracker with everything you need. Calories, macros, food, workouts – track it all in one place with one of the most comprehensive health, nutrition & fitness tracking apps available. Now with a built-in AI nutrition Coach for personalized guidance based on your goals and history. Plus GLP-1 journey support - log doses and set reminders in the app.\n\nCreate personalized fitness & nutrition goal",
+      "version": "26.21.0",
+      "versionDate": "2026-05-31T17:20:19-00:00",
+      "versionDescription": "Build 74403 from @blatants",
+      "size": 339074438,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/32/c4/be32c467-6794-cd80-0446-539c429dce5f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal_Calorie_Counter_v26_21_1_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -24094,7 +24079,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "MyFitnessPal_Calorie_Counter_v26_12_0_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "MyFitnessPal_Calorie_Counter_v26_21_1_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -25256,15 +25241,15 @@
     {
       "name": "Nutri Coach",
       "bundleIdentifier": "nutrition.coach",
-      "developerName": "Luni",
+      "developerName": "Eclipse Studios",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NutriCoach, blatantsPatch\n\nNutrition Coach: Food tracker\n\n---\nEffortless calories counter, customized meals plan, and delicious recipes. Loose or gain weight in a sustainable way to achieve your objective.\n\nNutrition Coach is the result of 3 years of work by a team of passionate nutritionists. Our programs and calorie counter have been tested for months and approved with visible and sustainable results.\n\nHave you ever experienced a very restrictive diet almost impossible to sustain for more than a couple of days?\nHave you ever experienced weight loss follo",
-      "version": "1.7.0",
-      "versionDate": "2026-02-05T06:06:24-00:00",
-      "versionDescription": "Build 3 from @blatants",
-      "size": 45989466,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/4b/23/764b230b-9d84-ac69-e7d6-0dd192fc1895/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v1_7_0_Subscription_Unlocked_blatant.ipa",
-      "minOSVersion": "15.0",
+      "version": "1.9.5",
+      "versionDate": "2026-05-31T14:40:04-00:00",
+      "versionDescription": "Build 75 from @blatants",
+      "size": 72328304,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/11/b3/1511b3e4-a114-2d56-8fbf-d60a8807e2ea/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v1_9_5_Subscription_Unlocked_blatant.ipa",
+      "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -25275,7 +25260,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Nutrition_Coach_Food_tracker_v1_7_0_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Nutrition_Coach_Food_tracker_v1_9_5_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -26095,13 +26080,13 @@
       "name": "OrNET Browser",
       "bundleIdentifier": "ch.b-eng.tor",
       "developerName": "Stronger Apps",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, TORBrowserPatch, sideloadKeychainfix, zxPluginsInject\n\nTor 3.8.8 Pro (patched)\n\n---\nOrNET Browser is the best app featuring a high performance Deep Web browser. It is a secure web browsing app that allows users to access the deep and dark web without leaving any fingerprints.\n\nFeatures you get in the app\n\n- Securely Browsing the Internet.\n-Protection of your online activity.\n-Unlimited session time and high bandwidth tunneling.\n-Secure your traffic from unsafe wireless networks and ISPs.\n-Ads-Free experience..\n-Regular updates of the app and new exciting features.\n\nHow to Use?",
-      "version": "3.8.8",
-      "versionDate": "2026-02-28T05:17:35-00:00",
-      "versionDescription": "Build 3.8.8 from @thescholarslounge",
-      "size": 73697468,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/77/9a/da779a53-8dfc-c2e3-2c3f-b37bcb6f67e0/AppIcon-Old-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tor3.8.8ProMoePatched.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, TORBrowserPatch\n\nTOR Browser: OrNET Onion + VPN\n\n---\nOrNET Browser is the best app featuring a high performance Deep Web browser. It is a secure web browsing app that allows users to access the deep and dark web without leaving any fingerprints.\n\nFeatures you get in the app\n\n- Securely Browsing the Internet.\n-Protection of your online activity.\n-Unlimited session time and high bandwidth tunneling.\n-Secure your traffic from unsafe wireless networks and ISPs.\n-Ads-Free experience..\n-Regular updates of the app and new exciting features.\n\nHow to Use?",
+      "version": "4.0.6",
+      "versionDate": "2026-05-31T14:01:19-00:00",
+      "versionDescription": "Build 4.0.6 from @binnichtaktivsipas",
+      "size": 129040093,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/08/cc/4608cce8-c59c-5250-c6c8-fd8145a57388/AppIcon-Old-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tor Browser Premium 4.0.6.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -26111,10 +26096,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@thescholarslounge",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Tor3.8.8ProMoePatched.ipa"
+        "originalFile": "Tor Browser Premium 4.0.6.ipa"
       }
     },
     {
@@ -26172,33 +26157,6 @@
     },
     {
       "name": "Osmosis",
-      "bundleIdentifier": "com.osmose-it.osmosis",
-      "developerName": "Knowledge Diffusion",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, OsmosisPatch\n\nOsmosis: Medical School Notes\n\n---\nStruggling to understand complex medical concepts, keep up in medical school, or remember what you studied for exams? Osmosis is a medical learning app built for medical students who want to learn faster, retain more, and feel more confident in class, on rotations, and on test day.\n\nWhether you are studying anatomy, physiology, pathology, pharmacology, or clinical practice, Osmosis helps turn overwhelming medical content into clear, visual learning. Use videos, flashcards, notes, quizzes, and bo",
-      "version": "6.0.4",
-      "versionDate": "2026-03-27T21:01:37-00:00",
-      "versionDescription": "Build 117 from @binnichtaktivsipas",
-      "size": 25352711,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/7c/22/727c22e9-357f-53cc-f93a-6b9beef68d66/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis.Full.Access.6.0.4.ipa",
-      "minOSVersion": "15.1",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        0,
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Osmosis Full Access 6.0.4.ipa"
-      }
-    },
-    {
-      "name": "Osmosis",
       "bundleIdentifier": "com.osmose-it.nursing",
       "developerName": "Knowledge Diffusion",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, OsmosisNursing, blatantsPatch\n\nOsmosis Nursing Videos & Notes\n\n---\nOsmosis from Elsevier is a powerful learning platform that helps nursing and nurse practitioner students learn smarter and retain more information in a visual way. Whether you’re studying for school, clinicals, or the NCLEX-RN® exam, you can count on Osmosis to help you excel as both a student and a professional. The study app offers videos, questions, med tables, and other resources on a range of nursing and health topics, from nursing process, clinical nursing care, nursing pharmacology, physi",
@@ -26222,6 +26180,33 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Osmosis_Nursing_Videos_&_Notes_v6_0_4_Subscription_Unlocked_blatant.ipa"
+      }
+    },
+    {
+      "name": "Osmosis",
+      "bundleIdentifier": "com.osmose-it.osmosis",
+      "developerName": "Knowledge Diffusion",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, OsmosisPatch\n\nOsmosis: Medical School Notes\n\n---\nStruggling to understand complex medical concepts, keep up in medical school, or remember what you studied for exams? Osmosis is a medical learning app built for medical students who want to learn faster, retain more, and feel more confident in class, on rotations, and on test day.\n\nWhether you are studying anatomy, physiology, pathology, pharmacology, or clinical practice, Osmosis helps turn overwhelming medical content into clear, visual learning. Use videos, flashcards, notes, quizzes, and bo",
+      "version": "6.0.4",
+      "versionDate": "2026-03-27T21:01:37-00:00",
+      "versionDescription": "Build 117 from @binnichtaktivsipas",
+      "size": 25352711,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/7c/22/727c22e9-357f-53cc-f93a-6b9beef68d66/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis.Full.Access.6.0.4.ipa",
+      "minOSVersion": "15.1",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        0,
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Osmosis Full Access 6.0.4.ipa"
       }
     },
     {
@@ -26488,26 +26473,24 @@
       "bundleIdentifier": "io.betterhalf.app",
       "developerName": "Better Half Limited",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, PairedPatch\n\nPaired: Couples & Relationship\n\n---\nWelcome to Paired: the app that brings couples closer. Life can be messy, but your relationship doesn’t have to be. Paired helps you build better communication, manage conflict, and deepen your connection in just 5 minutes a day.\n\n- 8 million downloads\n- Apple App of the Day, January 2024\n- Scientifically proven to increase relationship satisfaction\n- Featured in The New York Times, BBC News, Bustle, and more\n\nWith Paired, you can:\n\n- Make connection a daily habit: Daily questions allow you to e",
-      "version": "2.75.0",
-      "versionDate": "2026-03-24T01:33:31-00:00",
-      "versionDescription": "Build 13931 from @binnichtaktivsipas",
-      "size": 42745393,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/6d/44/5d6d445f-5a91-cc1e-94fa-ba4f15d2406d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Paired.Premium.2.75.0.ipa",
+      "version": "2.84.0",
+      "versionDate": "2026-05-31T13:43:00-00:00",
+      "versionDescription": "Build 14524 from @binnichtaktivsipas",
+      "size": 54227260,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/d9/98/27d99813-4667-4d1b-1594-04b65290a5ca/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Paired Premium 2.84.0.ipa",
       "minOSVersion": "15.5",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Paired Premium 2.75.0.ipa"
+        "originalFile": "Paired Premium 2.84.0.ipa"
       }
     },
     {
@@ -28848,27 +28831,25 @@
       "name": "Polish",
       "bundleIdentifier": "com.photoeditor.polish",
       "developerName": "SHANTANU PTE. LTD.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Polish, blatantsPatch\n\nPolish - AI Photo Editor\n\n---\nPolish - Your All-in-one & Powerful AI Photo Editor\n\nSupported by AI photo generator and cutting-edge AI model along with easy-to-use photo editing tools to retouch photos, enhance photos, generate realistic AI portraits, and make creative designs with AI filters and effects.\n\nUnlock your creativity with our all-in-one Free AI photo editor, packed with over 500+ stunning effects, filters for photos, AI templates, backgrounds, fonts, and more.\n\nEdit Photos with AI\n• Erase, swap & change backgroun",
-      "version": "2.1.7",
-      "versionDate": "2026-03-28T18:02:36-00:00",
-      "versionDescription": "Build 1 from @blatants",
-      "size": 129549978,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/76/99/d5769914-1873-17db-00da-1135215b423d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Polish_AI_Photo_Editor_v2_1_7_Premium_Unlocked_blatant_Patched.ipa",
-      "minOSVersion": "15.0",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Polish, blatantsPatch\n\nPolish - AI Photo Editor\n\n---\nPolish is your go-to photo editor for anyone who wants natural, realistic results—fast and easy. With our user-friendly features and powerful tools, you can create eye-catching photos in just a few taps. Enjoy natural-looking edits without complicated tools or an overedited look!\n\nEveryday Photo Editing\n• Magic AI Remove: Seamlessly erase unwanted objects, people, or background clutter in seconds.\n• AI Photo Enhancer: Improve clarity, sharpen details, and save your photos in high quality.\n• Filt",
+      "version": "2.4.1",
+      "versionDate": "2026-05-31T18:14:59-00:00",
+      "versionDescription": "Build 1.0 from @blatants",
+      "size": 143508268,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/1f/39/571f3975-c3ed-d2e7-2695-b6255daff2db/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Polish_AI_Photo_Editor_v2_4_1_Premium_Unlocked_blatant_Patched.ipa",
+      "minOSVersion": "14.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Polish_AI_Photo_Editor_v2_1_7_Premium_Unlocked_blatant_Patched.ipa"
+        "originalFile": "Polish_AI_Photo_Editor_v2_4_1_Premium_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -29582,26 +29563,24 @@
       "bundleIdentifier": "com.ADPTVLTD.push",
       "developerName": "ADPTV LIMITED",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nPUSH Workout & Gym Tracker\n\n---\nPUSH is about building muscle as fast as possible - with science. We achieve this with an algorithm built based strictly on published peer-reviewed research. You don't have to take our word for it, you can tap the referenced articles throughout the app as you use it.\n\n- Our workouts are based on scientific research and your training data over time. You can view exactly how everything works in the app and read the references for yourself.\n\n- PUSH generates a program based on your experience, slee",
-      "version": "3.10.4",
-      "versionDate": "2026-03-19T04:54:44-00:00",
-      "versionDescription": "Build 2 from @blatants",
-      "size": 44347048,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/c3/7a/37c37af5-a78e-4857-5330-bfd9cfae7df6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/PUSH_Workout_._Gym_Tracker_v3_10_4_Subscription_Unlocked_blatant.ipa",
+      "version": "3.12.5",
+      "versionDate": "2026-05-31T13:44:15-00:00",
+      "versionDescription": "Build 1 from @blatants",
+      "size": 71458343,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/cc/d3/5bccd320-4e17-bcf0-db1c-a18aab91d9d5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/PUSH_Workout_&_Gym_Tracker_v3_12_5_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "15.1",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "PUSH_Workout_&_Gym_Tracker_v3_10_4_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "PUSH_Workout_&_Gym_Tracker_v3_12_5_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -33353,26 +33332,24 @@
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SnapEdit, blatantsPatch\n\nSnapEdit: Photo Editor AI\n\n---\nSnapEdit is one of the best photo editing apps using AI with a mission to make your editing easy, smooth and fun.\n\nTransform your photos like never before with SnapEdit, the ultimate photo editing app designed to effortlessly remove unwanted objects, enhance image quality, and create stunning visual masterpieces. Download SnapEdit now and unlock a world of possibilities for your photos!\n\nKEY FEATURES:\n\nONE-TOUCH OBJECT REMOVAL: Say goodbye to photobombers, unwanted elements, or distracting objec",
-      "version": "6.4.7",
-      "versionDate": "2026-03-30T17:01:31-00:00",
-      "versionDescription": "Build 1738 from @blatants",
-      "size": 100135468,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/2f/1a/b42f1a3a-9a96-c08d-9945-05555ebeb8c8/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_4_7_Pro_Unlocked_blatant_Patched.ipa",
-      "minOSVersion": "18.0",
+      "version": "6.9",
+      "versionDate": "2026-05-31T13:59:21-00:00",
+      "versionDescription": "Build 1913 from @blatants",
+      "size": 108674771,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/91/fe/9b91fe48-1611-705a-fb61-64dc25461aaf/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.9 Pro Unlocked blatant Patched.ipa",
+      "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "SnapEdit_Photo_Editor_AI_v6_4_7_Pro_Unlocked_blatant_Patched.ipa"
+        "originalFile": "SnapEdit  Photo Editor AI v6.9 Pro Unlocked blatant Patched.ipa"
       }
     },
     {
@@ -38000,31 +37977,6 @@
     },
     {
       "name": "Things",
-      "bundleIdentifier": "com.culturedcode.ThingsiPhone",
-      "developerName": "Cultured Code GmbH & Co. KG",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2\n\nThings 3\n\n---\nGet things done! The award-winning Things app helps you plan your day, manage your projects, and make real progress toward your goals.\n\nBest of all, it’s easy to use. Within the hour, you’ll have everything off your mind and neatly organized—from routine tasks to your biggest life goals—and you can start focusing on what matters today.\n\n“Things offers the best combination of design and functionality of any app we tested, with nearly all the features of other power user applications and a delight",
-      "version": "3.22.9",
-      "versionDate": "2026-03-27T18:53:08-00:00",
-      "versionDescription": "Build 32209001 from @binnichtaktivsipas",
-      "size": 23364543,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/1e/fe/d01efe6f-a09d-713e-0b02-b75c2865c215/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Things.3.3.22.9.ipa",
-      "minOSVersion": "15.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Things 3 3.22.9.ipa"
-      }
-    },
-    {
-      "name": "Things",
       "bundleIdentifier": "com.culturedcode.ThingsiPad",
       "developerName": "Cultured Code GmbH & Co. KG",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2\n\nThings 3 for iPad\n\n---\nGet things done! The award-winning Things app helps you plan your day, manage your projects, and make real progress toward your goals.\n\nBest of all, it’s easy to use. Within the hour, you’ll have everything off your mind and neatly organized—from routine tasks to your biggest life goals—and you can start focusing on what matters today.\n\n“Things offers the best combination of design and functionality of any app we tested, with nearly all the features of other power user applications and a delight",
@@ -38046,6 +37998,31 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Things 3 for iPad 3.22.9.ipa"
+      }
+    },
+    {
+      "name": "Things",
+      "bundleIdentifier": "com.culturedcode.ThingsiPhone",
+      "developerName": "Cultured Code GmbH & Co. KG",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2\n\nThings 3\n\n---\nGet things done! The award-winning Things app helps you plan your day, manage your projects, and make real progress toward your goals.\n\nBest of all, it’s easy to use. Within the hour, you’ll have everything off your mind and neatly organized—from routine tasks to your biggest life goals—and you can start focusing on what matters today.\n\n“Things offers the best combination of design and functionality of any app we tested, with nearly all the features of other power user applications and a delight",
+      "version": "3.22.9",
+      "versionDate": "2026-03-27T18:53:08-00:00",
+      "versionDescription": "Build 32209001 from @binnichtaktivsipas",
+      "size": 23364543,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/1e/fe/d01efe6f-a09d-713e-0b02-b75c2865c215/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Things.3.3.22.9.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Things 3 3.22.9.ipa"
       }
     },
     {
@@ -38445,32 +38422,6 @@
     },
     {
       "name": "Timetable",
-      "bundleIdentifier": "izzyumkim.Timetable",
-      "developerName": "RAISIN APPS LTD",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nᵕ̈ Class schedule - Timetable ᵕ̈\n\n---\nTibly — the smart way to keep your schedule, events, and tasks under control. It brings everything into one place, helps you plan ahead with timely reminders, and adapts to any routine — from simple weekly repeats to complex rotating shifts.\n\nBuilt for flexibility and clarity, it’s easy to add events, set precise alerts, track progress, and stay focused with live countdowns and clean stats. With iCloud and Apple Calendar, your plans stay synced and ready wherever you are, and sharing a schedule",
-      "version": "1.6.4",
-      "versionDate": "2026-01-11T23:45:20-00:00",
-      "versionDescription": "Build 1 from @binnichtaktivsipas",
-      "size": 40423142,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/96/cd/c496cda4-93b9-3cd8-06bd-2cc16f058bf5/AppIconGrid1-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Timetable_1.6.4_tg@Sa1y0miii.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Timetable_1.6.4_tg@Sa1y0miii.ipa"
-      }
-    },
-    {
-      "name": "Timetable",
       "bundleIdentifier": "fr.adriencarvalot.Timetable",
       "developerName": "Kodeon, Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMy Timetable - Quick & Simple\n\n---\nWith My Timetable - Quick & Simple, create and personalize your weekly schedule in less than 5 minutes.\nVisualize your upcoming events at a glance!\n\nAccessible, fast and efficient, My Timetable - Quick & Simple supports you in your efforts, whether it be for lessons, appointments, your work and more.\nAdd color to your week with the different shades available and make your schedule unique by adding your own images or using the various themes.\n\n- FEATURES -\n\n• Create your schedules easily in less",
@@ -38494,6 +38445,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "My Timetable - Quick & Simple-v2.8.0-riftysipas.ipa"
+      }
+    },
+    {
+      "name": "Timetable",
+      "bundleIdentifier": "izzyumkim.Timetable",
+      "developerName": "RAISIN APPS LTD",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nᵕ̈ Class schedule - Timetable ᵕ̈\n\n---\nTibly — the smart way to keep your schedule, events, and tasks under control. It brings everything into one place, helps you plan ahead with timely reminders, and adapts to any routine — from simple weekly repeats to complex rotating shifts.\n\nBuilt for flexibility and clarity, it’s easy to add events, set precise alerts, track progress, and stay focused with live countdowns and clean stats. With iCloud and Apple Calendar, your plans stay synced and ready wherever you are, and sharing a schedule",
+      "version": "1.6.4",
+      "versionDate": "2026-01-11T23:45:20-00:00",
+      "versionDescription": "Build 1 from @binnichtaktivsipas",
+      "size": 40423142,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/96/cd/c496cda4-93b9-3cd8-06bd-2cc16f058bf5/AppIconGrid1-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Timetable_1.6.4_tg@Sa1y0miii.ipa",
+      "minOSVersion": "10.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Timetable_1.6.4_tg@Sa1y0miii.ipa"
       }
     },
     {
@@ -40189,18 +40166,17 @@
       "bundleIdentifier": "com.ibit.UNPOSED",
       "developerName": "OMJ Holdings Pty Ltd",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26\n\nUNSCRIPTED Photography Poses\n\n---\nPHOTOGRAPHERS! Everything you need to run your business on the go!\nTurn your passion into a dream business with our All-In-One solution!\n\n-Poses\n-Bookings & availability\n-Contracts\n-Invoices\n-Questionnaires\n-Online Payments\n-Automated Emails\n-Client Guides\n-A growing education library\n-Sun Tracker\n-Camera Settings\n\n+ Just Launched: Client Galleries!\n\nGo ahead and delete all your other subscriptions as Unscripted offers all the tools you need to grow your business and book your dream shoots!\n\n“GA",
-      "version": "4.8.2",
-      "versionDate": "2026-03-27T23:09:22-00:00",
-      "versionDescription": "Build 7172 from @binnichtaktivsipas",
-      "size": 166572390,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/8d/ff/648dffbf-4486-bf81-1199-2e75f97d7085/AppIcon-0-1x_U007epad-0-1-0-85-220-0.jpeg/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/UNSCRIPTED.Photography.Poses.Pro.4.8.2.ipa",
-      "minOSVersion": "18.0",
+      "version": "4.8.9",
+      "versionDate": "2026-05-31T13:58:41-00:00",
+      "versionDescription": "Build 7548 from @binnichtaktivsipas",
+      "size": 116332591,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/26/f8/a426f84e-4867-de30-ac7c-8ef0135e393e/AppIcon-1x_U007epad-0-1-0-85-220-0.jpeg/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/UNSCRIPTED Photography Poses Pro 4.8.9.ipa",
+      "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -40208,7 +40184,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "UNSCRIPTED Photography Poses Pro 4.8.2.ipa"
+        "originalFile": "UNSCRIPTED Photography Poses Pro 4.8.9.ipa"
       }
     },
     {
@@ -41370,19 +41346,18 @@
       "name": "VSCO",
       "bundleIdentifier": "co.visualsupply.cam",
       "developerName": "Visual Supply Company",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nVSCO: Photo Editor & Presets\n\n---\nVSCO — community, tools, and exposure for all photographers.\n\nVSCO is a community-driven platform that equips photographers to expand creatively and professionally. We empower photographers to connect with other creatives and businesses with our suite of creative tools that spans from mobile to desktop and across our global community.\n\nFREE PHOTO EDITOR\n\nTake your photography to the next level with free VSCO presets. Easily import and edit your RAW photos. Use editing tools like Contrast and Sat",
-      "version": "459.0.1",
-      "versionDate": "2026-03-29T20:52:18-00:00",
-      "versionDescription": "Build 31142 from @blatants",
-      "size": 212263591,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/83/1a/d3831ab8-5ca8-eb39-5d23-718d9c05a819/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_Editor_._Presets_v459_0_1_Subscription_Unlocked_blatant.ipa",
-      "minOSVersion": "26.0",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nVSCO: Photo & Video Editor\n\n---\nWelcome to VSCO — your complete photography platform solution for unmatched photo filters, AI photo editing, video editing, portfolio sites, client workflows, and community. VSCO is where photographers turn pro.\n\nGet access to a premium AI photo editor that provides precision and quality. From editing with our photo presets that match your style to delivering stunning client photo galleries, the VSCO photo and video editing app is a seamless way to run your photography business in one place. Dow",
+      "version": "461.3.0",
+      "versionDate": "2026-05-31T15:32:17-00:00",
+      "versionDescription": "Build 32658 from @blatants",
+      "size": 212968435,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/e3/9d/2ce39da1-9621-b119-9851-be6c0b3b2a3a/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_3_0_Subscription_Unlocked_blatant.ipa",
+      "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -41390,7 +41365,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "VSCO_Photo_Editor_&_Presets_v459_0_1_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "VSCO_Photo_&_Video_Editor_v461_3_0_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -41449,32 +41424,6 @@
     },
     {
       "name": "Wallpapers",
-      "bundleIdentifier": "com.apalonapps.wallpaperspys",
-      "developerName": "Mosaic S.r.l.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, WallpapersForMe, sideloadKeychainfix\n\nWallpapers & Themes for Me\n\n---\nBeautify your screen with unique themes and wallpapers! Let your device become a source of self-expression, joy, and inspiration!\n\nLots of things to enjoy:\n· Pixel-perfect wallpapers in retina and standard resolutions\n· 12 categories of marvelous images: Abstract, Animals, Nature, Masterpieces, Minimal, Cartoon, Cities, 3D, Sci-fi, Sports, Holidays, and Zen\n· Cool themes to help you create a stylish and harmonious look for both your Home & Lock Screen\n· Easy navigation: check out the New tab to",
-      "version": "5.22.18",
-      "versionDate": "2026-03-09T08:00:48-00:00",
-      "versionDescription": "Build 1000021 from @blatants",
-      "size": 67942958,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/c6/99/d1c699b5-0ab4-4216-41d8-beb09a5dea1b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Wallpapers.v5.22.18.Subscription.Unlocked.blatant.ipa",
-      "minOSVersion": "13.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@blatants",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Wallpapers v5.22.18 Subscription Unlocked blatant.ipa"
-      }
-    },
-    {
-      "name": "Wallpapers",
       "bundleIdentifier": "com.ispazio.Wallpapers-Central",
       "developerName": "iSpazio S.r.l.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: WallpapersCentral, blatantsPatch\n\nWallpapers Central\n\n---\nDiscover our ultimate Wallpapers app.\n\nWallpapers Central is the iSpazio service entirely dedicated to personalizing your devices. This means: traditional wallpapers, animated wallpapers (LIVE Wallpapers), Depth Effect wallpapers, Spatial Scene 3D wallpapers, and lots of ringtones!\n\nFrom the HOME section you can browse and download every wallpaper available on the platform and add them to your FAVORITES. We’ve built a solid infrastructure that lets you FOLLOW CREATORS who share their work on Wal",
@@ -41498,6 +41447,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Wallpapers_Central_v2_4_Subscription_Unlocked_blatant_Patched.ipa"
+      }
+    },
+    {
+      "name": "Wallpapers",
+      "bundleIdentifier": "com.apalonapps.wallpaperspys",
+      "developerName": "Mosaic S.r.l.",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, WallpapersForMe, sideloadKeychainfix\n\nWallpapers & Themes for Me\n\n---\nBeautify your screen with unique themes and wallpapers! Let your device become a source of self-expression, joy, and inspiration!\n\nLots of things to enjoy:\n· Pixel-perfect wallpapers in retina and standard resolutions\n· 12 categories of marvelous images: Abstract, Animals, Nature, Masterpieces, Minimal, Cartoon, Cities, 3D, Sci-fi, Sports, Holidays, and Zen\n· Cool themes to help you create a stylish and harmonious look for both your Home & Lock Screen\n· Easy navigation: check out the New tab to",
+      "version": "5.22.18",
+      "versionDate": "2026-03-09T08:00:48-00:00",
+      "versionDescription": "Build 1000021 from @blatants",
+      "size": 67942958,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/c6/99/d1c699b5-0ab4-4216-41d8-beb09a5dea1b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Wallpapers.v5.22.18.Subscription.Unlocked.blatant.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@blatants",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Wallpapers v5.22.18 Subscription Unlocked blatant.ipa"
       }
     },
     {
@@ -43910,31 +43885,6 @@
     },
     {
       "name": "‎WA Business",
-      "bundleIdentifier": "com.fouadraheb.watusiSMB",
-      "developerName": "WhatsApp Inc.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: ContactSync, OnlineNotify, Stalky, Watusi, WatusiToolsSL\n\n---\nAbout this app\n\nEverything you love about WhatsApp plus built-in tools for business\nWhatsApp Business is a free-to-download app with built-in tools to help you work smarter, build trust, and grow your business.\n\nYou get free calls and free international messaging plus business features to help you do more with conversations.\n\nDownload the app to get business benefits like these:\n\n• Work smarter. Save time by letting the app do the work for you! Send customers automated quick replies and away mes",
-      "version": "25.22.79",
-      "versionDate": "2026-02-28T05:50:13-00:00",
-      "versionDescription": "Build 778537069 from @thescholarslounge",
-      "size": 117258172,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/41/e1/5341e1a1-23af-a363-1b65-12ff98667b35/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/WhatsApp.Business.v25.22.79.+.Watusi.3.v1.2.83.Duplicate.ipa",
-      "minOSVersion": "15.1",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1
-      ],
-      "metadata": {
-        "sourceChannel": "@thescholarslounge",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "WhatsApp Business v25.22.79 + Watusi 3 v1.2.83 (Duplicate).ipa"
-      }
-    },
-    {
-      "name": "‎WA Business",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB.2TL3L98KKA",
       "developerName": "WhatsApp Inc.",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Cycript, CydiaSubstrate, WhatsAppRevael\n\nWhatsApp Business 26.8.76 injected with Raveal\n\n---\nAbout this app\n\nEverything you love about WhatsApp plus built-in tools for business\nWhatsApp Business is a free-to-download app with built-in tools to help you work smarter, build trust, and grow your business.\n\nYou get free calls and free international messaging plus business features to help you do more with conversations.\n\nDownload the app to get business benefits like these:\n\n• Work smarter. Save time by letting the app do the work for you! Send customers automated quick replies and away mes",
@@ -43985,6 +43935,31 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "WABusiness_WhatsApp_Raveal_26-9-75.ipa"
+      }
+    },
+    {
+      "name": "‎WA Business",
+      "bundleIdentifier": "com.fouadraheb.watusiSMB",
+      "developerName": "WhatsApp Inc.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: ContactSync, OnlineNotify, Stalky, Watusi, WatusiToolsSL\n\n---\nAbout this app\n\nEverything you love about WhatsApp plus built-in tools for business\nWhatsApp Business is a free-to-download app with built-in tools to help you work smarter, build trust, and grow your business.\n\nYou get free calls and free international messaging plus business features to help you do more with conversations.\n\nDownload the app to get business benefits like these:\n\n• Work smarter. Save time by letting the app do the work for you! Send customers automated quick replies and away mes",
+      "version": "25.22.79",
+      "versionDate": "2026-02-28T05:50:13-00:00",
+      "versionDescription": "Build 778537069 from @thescholarslounge",
+      "size": 117258172,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/41/e1/5341e1a1-23af-a363-1b65-12ff98667b35/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/WhatsApp.Business.v25.22.79.+.Watusi.3.v1.2.83.Duplicate.ipa",
+      "minOSVersion": "15.1",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "WhatsApp Business v25.22.79 + Watusi 3 v1.2.83 (Duplicate).ipa"
       }
     },
     {
