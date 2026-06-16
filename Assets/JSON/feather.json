@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.wirevpn.free",
-    "jp.naver.linecamera",
-    "com.sfun.snapedit",
-    "com.kinemaster.kios",
-    "com.christianselig.Apollo"
+    "com.google.ios.youtube",
+    "com.voidlinkextreme.iOS",
+    "com.ulisesolave.Fitia",
+    "com.photoeditor.polish",
+    "com.wakdev.wdnfc"
   ],
   "apps": [
     {
@@ -8188,14 +8188,14 @@
       "bundleIdentifier": "com.bpmhealth.boostfitness",
       "developerName": "BPM Health Co.",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "260",
-      "versionDate": "2026-06-08",
+      "version": "261",
+      "versionDate": "2026-06-16",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Boostcamp_Workout_Programs_v260_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Boostcamp_Workout_Programs_v261_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nBoostcamp: Workout Programs\n\n---\nTrusted by over 1,000,000 lifters. 300M+ workouts logged. 4.8 stars.\n\nBoostcamp is the only app with the world's most popular strength training & muscle building programs built right in — nSuns, GZCLP, 5/3/1, Reddit PPL, PHUL, PHAT, and 100+ more. Pick a proven program, show up, and follow it. No spreadsheets, no guessing.\n\n\"Boostcamp has all the features of Strong and Hevy, but what puts Boostcamp decidedly #1 is that it features a library of programs from some of the most recognizable figures",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/cb/b4/2dcbb419-b912-df7c-1e43-f5f78d5e8f30/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 80864505,
+      "size": 91072035,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/cb/3a/69cb3a43-c195-9e66-2dc2-1dae4095d085/Frame_1153__U00281_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/88/f7/6188f7f3-f938-648d-8f5e-640580704de4/Frame_1148.png/392x696bb.png",
@@ -8224,11 +8224,11 @@
       },
       "versions": [
         {
-          "version": "260",
-          "date": "2026-06-08",
+          "version": "261",
+          "date": "2026-06-16",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Boostcamp_Workout_Programs_v260_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 80864505
+          "downloadURL": "https://telos.ftp.sh/ipas/Boostcamp_Workout_Programs_v261_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 91072035
         }
       ],
       "category": "health-&-fitness"
@@ -22537,23 +22537,24 @@
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
       "subtitle": "Tweaked with Fitia, blatantsPatch",
-      "version": "22.3.6",
-      "versionDate": "2026-06-14",
+      "version": "23.1.11",
+      "versionDate": "2026-06-16",
       "versionDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v22_3_6_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_11_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Fitia, blatantsPatch\n\nFitia: Calorie Counter & Diet\n\n---\nTrusted by 10+ million users and rated 4.9/5.0 stars\n\n • The fastest & most accurate calorie counter\n • Track calories by photo, voice, or typing (like notes)\n • Personalized meal plans for weight loss or muscle gain\n • AI coach that adapts to your progress\n • Grocery list, recipes & smart food logging\n • Weight, body fat & measurement tracking\n • Intermittent fasting tracker\n • Syncs with Apple Health and third party apps\n\nWHY FITIA WORKS FOR WEIGHT LOSS OR MUSCLE GAIN\n• Fitia creates a plan th",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/18/c2/8e18c267-859b-7791-b7ca-d2fbc39d887e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 101931550,
+      "size": 105108378,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
-          "com.apple.developer.healthkit.background-delivery",
+          "com.apple.developer.usernotifications.communication",
           "aps-environment",
           "com.apple.developer.usernotifications.time-sensitive",
           "com.apple.developer.associated-domains",
           "com.apple.developer.healthkit",
           "com.apple.developer.applesignin",
+          "com.apple.developer.healthkit.background-delivery",
           "com.apple.developer.healthkit.access",
           "com.apple.security.application-groups"
         ],
@@ -22561,6 +22562,7 @@
           "NSPhotoLibraryUsageDescription": "Access is required to save your images",
           "NSCameraUsageDescription": "Fitia needs access to the camera in order to scan barcodes and take photos of your meals and progress",
           "NSMicrophoneUsageDescription": "Fitia needs microphone access to log meals with your voice.",
+          "NSLocationWhenInUseUsageDescription": "Fitia needs your location to provide nearby results",
           "NSHealthShareUsageDescription": "Allow Fitia to import activity and progress data",
           "NSHealthUpdateUsageDescription": "Allow Fitia to save records of your progress",
           "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you",
@@ -22569,11 +22571,11 @@
       },
       "versions": [
         {
-          "version": "22.3.6",
-          "date": "2026-06-14",
+          "version": "23.1.11",
+          "date": "2026-06-16",
           "localizedDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v22_3_6_Subscription_Unlocked_blatant.ipa",
-          "size": 101931550
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_11_Subscription_Unlocked_blatant.ipa",
+          "size": 105108378
         }
       ],
       "category": "health-&-fitness"
@@ -44003,14 +44005,14 @@
       "bundleIdentifier": "com.wakdev.wdnfc",
       "developerName": "wakdev",
       "subtitle": "Tweaked with NFCTools, blatantsPatch",
-      "version": "2.39.1",
-      "versionDate": "2026-06-14",
+      "version": "2.40",
+      "versionDate": "2026-06-16",
       "versionDescription": "Tweaks: NFCTools, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/NFC Tools v2.39.1 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/NFC Tools v2.40 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NFCTools, blatantsPatch\n\nNFC Tools\n\n---\nNFC Tools can read and write your NFC tags with a simple and lightweight user interface.\nBy passing your device near an NFC chip, you can read the data it contains and interact with the content.\n\nThe \"Read\" section allows you to see data such as:\n- the maker of the tag\n- the type of tag (ex : Mifare Ultralight, NTAG213)\n- the norm of the tag (ex : NFC Forum Type 2)\n- the available technology (ex: NFC A)\n- its serial number (ex : 04:85:c8:5a:40:2b:80)\n- the size of the tag and of the data on it\n-",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/44/e3/bf44e3fb-8b9e-e8bc-cb4c-6dee2ccba3ef/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 5274806,
+      "size": 5336232,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -44026,11 +44028,11 @@
       },
       "versions": [
         {
-          "version": "2.39.1",
-          "date": "2026-06-14",
+          "version": "2.40",
+          "date": "2026-06-16",
           "localizedDescription": "Tweaks: NFCTools, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/NFC Tools v2.39.1 Pro Unlocked blatant Patched.ipa",
-          "size": 5274806
+          "downloadURL": "https://telos.ftp.sh/ipas/NFC Tools v2.40 Pro Unlocked blatant Patched.ipa",
+          "size": 5336232
         }
       ],
       "category": "utilities"
@@ -51580,14 +51582,14 @@
       "bundleIdentifier": "com.photoeditor.polish",
       "developerName": "SHANTANU PTE. LTD.",
       "subtitle": "Tweaked with Polish, blatantsPatch",
-      "version": "2.2.0",
-      "versionDate": "2026-06-06",
+      "version": "2.5.0",
+      "versionDate": "2026-06-16",
       "versionDescription": "Tweaks: Polish, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Polish_AI_Photo_Editor_v2_2_0_Premium_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Polish_AI_Photo_Editor_v2_5_0_Premium_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Polish, blatantsPatch\n\nPolish - AI Photo Editor\n\n---\nPolish is your go-to photo editor for anyone who wants natural, realistic results—fast and easy. With our user-friendly features and powerful tools, you can create eye-catching photos in just a few taps. Enjoy natural-looking edits without complicated tools or an overedited look!\n\nEveryday Photo Editing\n• Magic AI Remove: Seamlessly erase unwanted objects, people, or background clutter in seconds.\n• AI Photo Enhancer: Improve clarity, sharpen details, and save your photos in high quality.\n• Filt",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/1f/39/571f3975-c3ed-d2e7-2695-b6255daff2db/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 134135693,
+      "size": 145664452,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/99/a4/4399a421-16d6-be8a-9097-01610d52f168/1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/1b/ab/901babdd-3d10-16ac-e0ba-a9436f82b9f5/2.png/392x696bb.png",
@@ -51609,11 +51611,11 @@
       },
       "versions": [
         {
-          "version": "2.2.0",
-          "date": "2026-06-06",
+          "version": "2.5.0",
+          "date": "2026-06-16",
           "localizedDescription": "Tweaks: Polish, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Polish_AI_Photo_Editor_v2_2_0_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 134135693
+          "downloadURL": "https://telos.ftp.sh/ipas/Polish_AI_Photo_Editor_v2_5_0_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 145664452
         }
       ],
       "category": "photo-&-video"
@@ -73712,19 +73714,19 @@
       "bundleIdentifier": "com.voidlinkextreme.iOS",
       "developerName": "伟敏 张",
       "subtitle": "VoidLink - Extreme for iOS",
-      "version": "3.3.8",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/VoidLink Extreme-3.3.8.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nVoidLink - Extreme\n\n---\nVoidLink is a project developed & maintained by Sunshine - Moonlight game streaming community players. After long term development and iterations, it has been refined into a powerful and feature rich game streaming tool.\n\nMore details about VoidLink including our community support is available on the app support web page.\n\nKey Features of VoidLink\n\n1. Better performance\n - Fine tuned video rendering enables enhanced streaming performance for most iOS devices. Check our app support web page for d",
+      "version": "3.4.4",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/VoidLink Extreme-3.4.4.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nVoidLink is a project developed & maintained by Sunshine - Moonlight game streaming community players. After long term development and iterations, it has been refined into a powerful and feature rich game streaming tool.\n\nMore details about VoidLink including our community support is available on the app support web page.\n\nKey Features of VoidLink\n\n1. Better performance\n - Fine tuned video rendering enables enhanced streaming performance for most iOS devices. Check our app support web page for d",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/c5/8b/32c58bc8-7ebe-c893-378c-d759872119e9/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 9079460,
+      "size": 9332772,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSMicrophoneUsageDescription": "VoidLink需要麦克风访问权限。现阶段，麦克风重定向仅支持Sunshine基地版，且麦克风音频流【未经加密】。\n\nVoidLink uses microphone to stream your voice to gaming PC. Microphone redirection currently works with Sunshine-Foundation (a fork of Sunshine) only, and the mic audio stream is NOT ENCRYPTED at this stage.",
+          "NSMicrophoneUsageDescription": "麦克风访问权限允许VoidLink 实现麦克风重定向。麦克风重定向仅支持Sunshine基地版。\n\nVoidLink uses microphone to stream your voice to PC host. Microphone redirection works with Sunshine-Foundation (a fork of Sunshine) only.",
           "NSMotionUsageDescription": "VoidLink uses the device Gyro and Acceleration data to emulate motion controls when streaming.",
           "NSBluetoothAlwaysUsageDescription": "Bluetooth access allows Moonlight to connect to Citrix X1 mice.",
           "NSBluetoothPeripheralUsageDescription": "Bluetooth access allows Moonlight to connect to Citrix X1 mice.",
@@ -73733,11 +73735,11 @@
       },
       "versions": [
         {
-          "version": "3.3.8",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/VoidLink Extreme-3.3.8.ipa",
-          "size": 9079460
+          "version": "3.4.4",
+          "date": "2026-06-16",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/VoidLink Extreme-3.4.4.ipa",
+          "size": 9332772
         }
       ],
       "category": "games"
@@ -77143,14 +77145,14 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
       "subtitle": "Tweaked with Alderis, CydiaSubstrate",
-      "version": "21.13.6",
+      "version": "21.22.4",
       "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: Alderis, CydiaSubstrate, DontEatMyContent, Gonerino, IAmYouTube\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/YTLitePlusEXTRA_21.13.6_v5.2b4_MORE_TWEAKS.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Alderis, CydiaSubstrate, DontEatMyContent, Gonerino, IAmYouTube\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
+      "versionDescription": "Tweaks: Alderis, CydiaSubstrate, DontEatMyContent, MadeByMohkg, YTABConfig\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Youtube21.22.04YTPlus5.2.1TestMondayMoePatched.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Alderis, CydiaSubstrate, DontEatMyContent, MadeByMohkg, YTABConfig\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 130001745,
+      "size": 139099396,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -77163,13 +77165,13 @@
           "com.apple.developer.usernotifications.communication",
           "com.apple.developer.declared-age-range",
           "com.apple.developer.group-session",
-          "com.apple.developer.device-information.user-assigned-device-name",
-          "aps-environment",
-          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
-          "com.apple.developer.associated-domains",
           "com.apple.developer.networking.wifi-info",
-          "com.apple.developer.siri",
+          "aps-environment",
           "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.device-information.user-assigned-device-name",
+          "com.apple.developer.siri",
+          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
           "com.apple.security.application-groups"
         ],
         "privacy": {
@@ -77186,11 +77188,11 @@
       },
       "versions": [
         {
-          "version": "21.13.6",
+          "version": "21.22.4",
           "date": "2026-06-16",
-          "localizedDescription": "Tweaks: Alderis, CydiaSubstrate, DontEatMyContent, Gonerino, IAmYouTube\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/YTLitePlusEXTRA_21.13.6_v5.2b4_MORE_TWEAKS.ipa",
-          "size": 130001745
+          "localizedDescription": "Tweaks: Alderis, CydiaSubstrate, DontEatMyContent, MadeByMohkg, YTABConfig\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Youtube21.22.04YTPlus5.2.1TestMondayMoePatched.ipa",
+          "size": 139099396
         }
       ],
       "category": "photo-&-video"
