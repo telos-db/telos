@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.wirevpn.free",
-    "jp.naver.linecamera",
-    "com.sfun.snapedit",
-    "com.kinemaster.kios",
-    "com.christianselig.Apollo"
+    "com.google.ios.youtube",
+    "com.voidlinkextreme.iOS",
+    "com.ulisesolave.Fitia",
+    "com.photoeditor.polish",
+    "com.wakdev.wdnfc"
   ],
   "apps": [
     {
@@ -8143,14 +8143,14 @@
       "bundleIdentifier": "com.bpmhealth.boostfitness",
       "developerName": "BPM Health Co.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "260",
-      "versionDate": "2026-06-08",
+      "version": "261",
+      "versionDate": "2026-06-16",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Boostcamp_Workout_Programs_v260_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Boostcamp_Workout_Programs_v261_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nBoostcamp: Workout Programs",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/cb/b4/2dcbb419-b912-df7c-1e43-f5f78d5e8f30/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 80864505,
+      "size": 91072035,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/cb/3a/69cb3a43-c195-9e66-2dc2-1dae4095d085/Frame_1153__U00281_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/88/f7/6188f7f3-f938-648d-8f5e-640580704de4/Frame_1148.png/392x696bb.png",
@@ -8179,11 +8179,11 @@
       },
       "versions": [
         {
-          "version": "260",
-          "date": "2026-06-08",
+          "version": "261",
+          "date": "2026-06-16",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Boostcamp_Workout_Programs_v260_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 80864505
+          "downloadURL": "https://telos.ftp.sh/ipas/Boostcamp_Workout_Programs_v261_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 91072035
         }
       ],
       "category": "health-&-fitness"
@@ -22273,14 +22273,14 @@
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "23.1.10",
-      "versionDate": "2026-06-14",
+      "version": "23.1.11",
+      "versionDate": "2026-06-16",
       "versionDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_10_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_11_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFitia: Calorie Counter & Diet",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/18/c2/8e18c267-859b-7791-b7ca-d2fbc39d887e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 105093195,
+      "size": 105108378,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -22307,11 +22307,11 @@
       },
       "versions": [
         {
-          "version": "23.1.10",
-          "date": "2026-06-14",
+          "version": "23.1.11",
+          "date": "2026-06-16",
           "localizedDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_10_Subscription_Unlocked_blatant.ipa",
-          "size": 105093195
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_11_Subscription_Unlocked_blatant.ipa",
+          "size": 105108378
         }
       ],
       "category": "health-&-fitness"
@@ -43586,14 +43586,14 @@
       "bundleIdentifier": "com.wakdev.wdnfc",
       "developerName": "wakdev",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "2.39.1",
-      "versionDate": "2026-06-14",
+      "version": "2.40",
+      "versionDate": "2026-06-16",
       "versionDescription": "Tweaks: NFCTools, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/NFC Tools v2.39.1 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/NFC Tools v2.40 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nNFC Tools",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/44/e3/bf44e3fb-8b9e-e8bc-cb4c-6dee2ccba3ef/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 5274806,
+      "size": 5336232,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -43609,11 +43609,11 @@
       },
       "versions": [
         {
-          "version": "2.39.1",
-          "date": "2026-06-14",
+          "version": "2.40",
+          "date": "2026-06-16",
           "localizedDescription": "Tweaks: NFCTools, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/NFC Tools v2.39.1 Pro Unlocked blatant Patched.ipa",
-          "size": 5274806
+          "downloadURL": "https://telos.ftp.sh/ipas/NFC Tools v2.40 Pro Unlocked blatant Patched.ipa",
+          "size": 5336232
         }
       ],
       "category": "utilities"
@@ -51141,14 +51141,14 @@
       "bundleIdentifier": "com.photoeditor.polish",
       "developerName": "SHANTANU PTE. LTD.",
       "subtitle": "Premium Unlocked | Patched",
-      "version": "2.4.1",
-      "versionDate": "2026-05-31",
+      "version": "2.5.0",
+      "versionDate": "2026-06-16",
       "versionDescription": "Tweaks: Polish, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Polish_AI_Photo_Editor_v2_4_1_Premium_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Polish_AI_Photo_Editor_v2_5_0_Premium_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nPolish - AI Photo Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/1f/39/571f3975-c3ed-d2e7-2695-b6255daff2db/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 143508268,
+      "size": 145664452,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/99/a4/4399a421-16d6-be8a-9097-01610d52f168/1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/1b/ab/901babdd-3d10-16ac-e0ba-a9436f82b9f5/2.png/392x696bb.png",
@@ -51170,11 +51170,11 @@
       },
       "versions": [
         {
-          "version": "2.4.1",
-          "date": "2026-05-28",
+          "version": "2.5.0",
+          "date": "2026-06-16",
           "localizedDescription": "Tweaks: Polish, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Polish_AI_Photo_Editor_v2_4_1_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 143508268
+          "downloadURL": "https://telos.ftp.sh/ipas/Polish_AI_Photo_Editor_v2_5_0_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 145664452
         }
       ],
       "category": "photo-&-video"
@@ -72621,19 +72621,19 @@
       "bundleIdentifier": "com.voidlinkextreme.iOS",
       "developerName": "伟敏 张",
       "subtitle": "VoidLink - Extreme for iOS",
-      "version": "3.3.9",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/VoidLink Extreme-3.3.9.ipa",
-      "localizedDescription": "VoidLink - Extreme",
+      "version": "3.4.4",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/VoidLink Extreme-3.4.4.ipa",
+      "localizedDescription": "VoidLink - Extreme for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/c5/8b/32c58bc8-7ebe-c893-378c-d759872119e9/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 9120318,
+      "size": 9332772,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSMicrophoneUsageDescription": "VoidLink需要麦克风访问权限。现阶段，麦克风重定向仅支持Sunshine基地版，且麦克风音频流【未经加密】。\n\nVoidLink uses microphone to stream your voice to gaming PC. Microphone redirection currently works with Sunshine-Foundation (a fork of Sunshine) only, and the mic audio stream is NOT ENCRYPTED at this stage.",
+          "NSMicrophoneUsageDescription": "麦克风访问权限允许VoidLink 实现麦克风重定向。麦克风重定向仅支持Sunshine基地版。\n\nVoidLink uses microphone to stream your voice to PC host. Microphone redirection works with Sunshine-Foundation (a fork of Sunshine) only.",
           "NSMotionUsageDescription": "VoidLink uses the device Gyro and Acceleration data to emulate motion controls when streaming.",
           "NSBluetoothAlwaysUsageDescription": "Bluetooth access allows Moonlight to connect to Citrix X1 mice.",
           "NSBluetoothPeripheralUsageDescription": "Bluetooth access allows Moonlight to connect to Citrix X1 mice.",
@@ -72642,11 +72642,11 @@
       },
       "versions": [
         {
-          "version": "3.3.9",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/VoidLink Extreme-3.3.9.ipa",
-          "size": 9120318
+          "version": "3.4.4",
+          "date": "2026-06-14",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/VoidLink Extreme-3.4.4.ipa",
+          "size": 9332772
         }
       ],
       "category": "games"
@@ -78006,7 +78006,7 @@
     {
       "title": "⚙️ Telos Update 6.16",
       "identifier": "telos-update-2026-06-16",
-      "caption": "230 Apps Updated:\n• 74 Photo & Video\n• 25 Health & Fitness\n• 21 Music\n• 19 Productivity\n• 13 Utilities\n• 13 Games\n• 11 Education\n• 11 Entertainment\n• 10 News\n• 7 Lifestyle\n• 6 Reference\n• 4 Sports\n• 4 Navigation\n• 4 Social Networking\n• 2 Food & Drink\n• 2 Weather\n• 2 Medical\n• 2 Graphics & Design",
+      "caption": "254 Apps Updated:\n• 82 Photo & Video\n• 33 Health & Fitness\n• 21 Music\n• 19 Productivity\n• 17 Utilities\n• 17 Games\n• 11 Education\n• 11 Entertainment\n• 10 News\n• 7 Lifestyle\n• 6 Reference\n• 4 Sports\n• 4 Navigation\n• 4 Social Networking\n• 2 Food & Drink\n• 2 Weather\n• 2 Medical\n• 2 Graphics & Design",
       "date": "2026-06-16",
       "tintColor": "#02433b",
       "notify": true,
