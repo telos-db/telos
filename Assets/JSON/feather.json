@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.netease.yysls",
-    "com.google.ios.youtubemusic",
-    "com.sbs.train",
-    "com.zhiliaoapp.musically",
-    "com.facebook.Facebook"
+    "com.burbn.instagram",
+    "com.facebook.Messenger",
+    "com.google.ios.youtube",
+    "com.jakemor.firness-ai",
+    "archery.storify"
   ],
   "apps": [
     {
@@ -22589,14 +22589,14 @@
       "bundleIdentifier": "com.jakemor.firness-ai",
       "developerName": "FitnessAI Inc.",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "20.0",
-      "versionDate": "2026-06-10",
+      "version": "20.1",
+      "versionDate": "2026-06-16",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v20_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v20_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nFitness AI Gym Workout Planner\n\n---\nWorkout at home or at the gym with FitnessAI’s advanced training algorithm to guide you through the perfect set, rep and weight combination to reach your fitness goals.\n\n● Get results with whatever equipment you have available to you. Whether your fitness goals are to build muscle, get toned or lose weight fast, FitnessAI is the simplest way to access a world class training regiment.\n\n● Our easy to follow gym and home workouts are backed by data, not intuition. FitnessAI’s simple layout allows f",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/1b/f6/7d1bf61c-4f64-1779-871a-3e7fbddf5c7a/AppIcon-0-1x_U007ephone-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 42381984,
+      "size": 65294124,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -22624,11 +22624,11 @@
       },
       "versions": [
         {
-          "version": "20.0",
-          "date": "2026-06-10",
+          "version": "20.1",
+          "date": "2026-06-16",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v20_0_Subscription_Unlocked_blatant.ipa",
-          "size": 42381984
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v20_1_Subscription_Unlocked_blatant.ipa",
+          "size": 65294124
         }
       ],
       "category": "health-&-fitness"
@@ -31636,15 +31636,15 @@
       "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram, Inc.",
-      "subtitle": "Instagram for iOS",
-      "version": "423.1.0",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.burbn.instagram-423.1.0-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
+      "subtitle": "Tweaked with CydiaSubstrate, FLEXing",
+      "version": "426.0.0",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: CydiaSubstrate, FLEXing, RyukGram, flex, zxPluginsInject\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/RyukGram_sideloaded_v1.2.2.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, FLEXing, RyukGram, flex, zxPluginsInject\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/27/d5/0827d502-4f9c-106e-9086-63fbfef56ca6/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 268154976,
+      "size": 323994423,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/c5/c7/b9c5c720-07ca-29c7-a67f-8fd2e2cd2b72/2_iOS_5.5.jpg/392x696bb.jpg",
@@ -31686,11 +31686,11 @@
       },
       "versions": [
         {
-          "version": "423.1.0",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.burbn.instagram-423.1.0-eeveedecrypter.ipa",
-          "size": 268154976
+          "version": "426.0.0",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: CydiaSubstrate, FLEXing, RyukGram, flex, zxPluginsInject\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/RyukGram_sideloaded_v1.2.2.ipa",
+          "size": 323994423
         }
       ],
       "category": "photo-&-video"
@@ -32079,15 +32079,15 @@
       "name": "Instagram [Regram]",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram, Inc.",
-      "subtitle": "Tweaked with Regram, RegramExtension",
-      "version": "426.0.0",
+      "subtitle": "Tweaked with Regram, RegramCrack",
+      "version": "423.0.0",
       "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: Regram, RegramExtension\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Instagram-426-Regram_patch_zarzel.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Regram, RegramExtension\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
+      "versionDescription": "Tweaks: Regram, RegramCrack, zxPluginsInject\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/com_burbn_instagram_423_0_0_@iosdecrypted_patched_@iosdecrypted.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Regram, RegramCrack, zxPluginsInject\n\nAnyone try this ipa?\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/27/d5/0827d502-4f9c-106e-9086-63fbfef56ca6/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 303378155,
+      "size": 295693642,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/c5/c7/b9c5c720-07ca-29c7-a67f-8fd2e2cd2b72/2_iOS_5.5.jpg/392x696bb.jpg",
@@ -32098,19 +32098,18 @@
       "appPermissions": {
         "entitlements": [
           "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.avfoundation.multitasking-camera-access",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.networking.HotspotConfiguration",
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-appclip-app-identifiers",
           "com.apple.developer.declared-age-range",
-          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.avfoundation.multitasking-camera-access",
           "aps-environment",
           "com.apple.developer.icloud-container-environment",
           "com.apple.developer.usernotifications.time-sensitive",
           "com.apple.developer.associated-domains",
-          "com.apple.developer.networking.wifi-info"
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
@@ -32129,11 +32128,11 @@
       },
       "versions": [
         {
-          "version": "426.0.0",
+          "version": "423.0.0",
           "date": "2026-06-16",
-          "localizedDescription": "Tweaks: Regram, RegramExtension\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Instagram-426-Regram_patch_zarzel.ipa",
-          "size": 303378155
+          "localizedDescription": "Tweaks: Regram, RegramCrack, zxPluginsInject\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/com_burbn_instagram_423_0_0_@iosdecrypted_patched_@iosdecrypted.ipa",
+          "size": 295693642
         }
       ],
       "category": "photo-&-video"
@@ -40105,55 +40104,31 @@
       "category": "health-&-fitness"
     },
     {
-      "name": "Messenger",
+      "name": "Messenger ",
       "bundleIdentifier": "com.facebook.Messenger",
       "developerName": "Meta Platforms, Inc.",
-      "subtitle": "Messenger for iOS",
-      "version": "555.0.0",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.facebook.Messenger-555.0.0-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nMessenger is a free messaging app that helps you connect with anyone, anywhere. Stay in touch with your friends and family, explore your interests with people like you, build your community, and share your vibe beyond words, all in one app.\n\nCHAT AND CALL ANYONE, ANYWHERE\nFind and connect with your friends and family on Facebook and Messenger, no phone number needed.\n\nGET INSTANT ANSWERS FROM YOUR AI ASSISTANT\nMeta AI is your assistant that can answer any questions, give you advice, help with ho",
+      "subtitle": "Tweaked with CydiaSubstrate, Flow",
+      "version": "523.0.0",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: CydiaSubstrate, Flow\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Facebook Messenger Flow 523.0.0.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Flow\n\n---\nMessenger is a free messaging app that helps you connect with anyone, anywhere. Stay in touch with your friends and family, explore your interests with people like you, build your community, and share your vibe beyond words, all in one app.\n\nCHAT AND CALL ANYONE, ANYWHERE\nFind and connect with your friends and family on Facebook and Messenger, no phone number needed.\n\nGET INSTANT ANSWERS FROM YOUR AI ASSISTANT\nMeta AI is your assistant that can answer any questions, give you advice, help with ho",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/3b/aa/e03baa11-f46f-b14a-ff54-3332d76cd808/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 92974406,
+      "size": 63284198,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/55/0f/3c550fec-22df-f962-0f68-53f398392554/7f6fd0a2-ee06-4b01-b04a-d9fec7b1c6de_iPad_2nd_Gen-_Screen_1.jpg/552x414bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/3e/69/a03e6957-ff40-d65e-0ec8-cd81c205a9d3/c937f0f4-9f1f-4b81-8186-ea5d90618f1f_iPad_2nd_Gen_-_Screen_3.jpg/552x414bb.jpg"
       ],
       "appPermissions": {
         "entitlements": [
-          "com.apple.developer.avfoundation.multitasking-camera-access",
-          "com.apple.developer.networking.wifi-info",
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.authentication-services.autofill-credential-provider",
-          "com.apple.developer.ClassKit-environment",
-          "com.apple.developer.healthkit",
-          "com.apple.developer.healthkit.access",
-          "com.apple.developer.homekit",
-          "com.apple.developer.networking.HotspotConfiguration",
-          "com.apple.developer.icloud-container-development-container-identifiers",
           "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "inter-app-audio",
-          "com.apple.developer.networking.multipath",
-          "com.apple.developer.networking.networkextension",
-          "com.apple.developer.nfc.readersession.formats",
+          "com.apple.developer.avfoundation.multitasking-camera-access",
           "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.associated-domains",
           "com.apple.developer.siri",
-          "com.apple.external-accessory.wireless-configuration",
-          "com.apple.developer.coremedia.hls.low-latency",
-          "com.apple.developer.devicecheck.appattest-environment",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.healthkit.recalibrate-estimates",
-          "com.apple.developer.weatherkit",
-          "com.apple.developer.kernel.increased-debugging-memory-limit",
-          "com.apple.developer.game-center",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "com.apple.developer.healthkit.background-delivery",
-          "com.apple.developer.user-fonts",
-          "com.apple.developer.applesignin"
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Messenger uses your device’s photo library from your camera roll so you can do things like share photos and videos.",
@@ -40175,11 +40150,11 @@
       },
       "versions": [
         {
-          "version": "555.0.0",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.facebook.Messenger-555.0.0-eeveedecrypter.ipa",
-          "size": 92974406
+          "version": "523.0.0",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Flow\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Facebook Messenger Flow 523.0.0.ipa",
+          "size": 63284198
         }
       ],
       "category": "social-networking"
@@ -41165,14 +41140,14 @@
       "bundleIdentifier": "archery.storify",
       "developerName": "Archery Inc.",
       "subtitle": "Tweaked with Mojo, blatantsPatch",
-      "version": "1.269.0",
+      "version": "1.269.1",
       "versionDate": "2026-06-16",
       "versionDescription": "Tweaks: Mojo, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Mojo_AI_Video_&_Reels_Editor_v1_269_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Mojo_AI_Video_&_Reels_Editor_v1_269_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Mojo, blatantsPatch\n\nMojo: AI Video & Reels Editor\n\n---\nCreating trending social content has never been simpler. Mojo is an app designed to help you make amazing video content for Instagram and TikTok and more. Mojo is made in Paris and has already been downloaded by over 40 million people worldwide.\n\nTo use Mojo, simply download the app and start exploring one of our 1,200+ unique templates. After selecting the template you’d like to edit, choose from a number of our editing features to create the perfect video. You can then easily resize and share",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/e1/44/73e144ae-71a6-0c18-388b-65b9604c80ce/AppIcon-AppStore-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 194675249,
+      "size": 194672823,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/b4/b5/e5b4b5bd-71b5-2a36-d21d-b12fb4d8c1b4/01_iphone_8.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/95/c1/9495c198-fb21-332f-c192-d2f95b2e85ed/02_iphone_8.jpg/392x696bb.jpg",
@@ -41200,11 +41175,11 @@
       },
       "versions": [
         {
-          "version": "1.269.0",
+          "version": "1.269.1",
           "date": "2026-06-16",
           "localizedDescription": "Tweaks: Mojo, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Mojo_AI_Video_&_Reels_Editor_v1_269_0_Subscription_Unlocked_blatant.ipa",
-          "size": 194675249
+          "downloadURL": "https://telos.ftp.sh/ipas/Mojo_AI_Video_&_Reels_Editor_v1_269_1_Subscription_Unlocked_blatant.ipa",
+          "size": 194672823
         }
       ],
       "category": "photo-&-video"
@@ -58664,15 +58639,15 @@
       "name": "Sketchar",
       "bundleIdentifier": "tech.sketchar.ios",
       "developerName": "SketchAR",
-      "subtitle": "Tweaked with CachefixPatch, CydiaSubstrate",
-      "version": "10.6",
-      "versionDate": "2026-06-09",
-      "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, NewFix1, NewFix2, Sideloadbypass1\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sketchar__AR_Drawing_App_10.6_1778828964.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, NewFix1, NewFix2, Sideloadbypass1\n\n[[P] Sketchar: AR Drawing App](\n\n---\nSketchar is for you if you want to improve your drawing skills, express yourself through art, impress friends and family with stunning artwork, collaborate with peers, relieve stress, or become a Pro.\n\nWe have merged AR and AI together to speed up your learning experience and make it more entertaining.\n\nHere are the unique features that can only be found on the Sketchar app:\n\n1.COURSES\n550+ drawing lessons based on characters you love.\n\nYou can start with a beginner set or delve deeper into a sp",
+      "subtitle": "Tweaked with Sketchar, blatantsPatch",
+      "version": "10.7",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: Sketchar, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sketchar_AR_Drawing_App_v10_7_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Sketchar, blatantsPatch\n\nSketchar: AR Drawing App\n\n---\nSketchar is for you if you want to improve your drawing skills, express yourself through art, impress friends and family with stunning artwork, collaborate with peers, relieve stress, or become a Pro.\n\nWe have merged AR and AI together to speed up your learning experience and make it more entertaining.\n\nHere are the unique features that can only be found on the Sketchar app:\n\n1.COURSES\n550+ drawing lessons based on characters you love.\n\nYou can start with a beginner set or delve deeper into a sp",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/5a/89/985a89e6-9d2a-fe12-2479-971c2e687526/sketchar-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 118078857,
+      "size": 180627506,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/51/f1/2951f1ff-36b9-0a4c-f7d5-fac89f79133b/387e1b1d-4dab-44d3-8ad8-1aebb8438be4_En-5.5-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/2c/6a/b22c6a42-209b-54ee-21f1-8d0c32553209/d58b0569-4af3-45d7-bcfa-300fc1e95740_En-5.5-02.jpg/392x696bb.jpg",
@@ -58696,11 +58671,11 @@
       },
       "versions": [
         {
-          "version": "10.6",
-          "date": "2026-06-09",
-          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, NewFix1, NewFix2, Sideloadbypass1\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Sketchar__AR_Drawing_App_10.6_1778828964.ipa",
-          "size": 118078857
+          "version": "10.7",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: Sketchar, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Sketchar_AR_Drawing_App_v10_7_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 180627506
         }
       ],
       "category": "graphics-&-design"
@@ -65447,6 +65422,42 @@
         }
       ],
       "category": "games"
+    },
+    {
+      "name": "Sweet MIDI",
+      "bundleIdentifier": "com.ronimusic.SMPiOS",
+      "developerName": "Roni Music",
+      "subtitle": "Sweet MIDI for iOS",
+      "version": "4.9.7",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.ronimusic.SMPiOS-4.9.7-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nSweet MIDI Player is a MIDI player for not only auditioning all types of MIDI files, but for modifying the MIDI files themselves.\n\nUse its mixer-like interface to easily edit the control messages, transpose the music, change the tempo, mute desired MIDI channels, and save the end results to disk.\n\nView lyrics synchronized with the music (MIDI Karaoke files).\n\nIt also includes a playlist function which allows you to create and manage playlists.\n\nBuilt in MIDI sound library with support for DLS/SF",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/6e/8e/d36e8e28-84a8-9fe5-f9a0-06abdc5680e4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 2898284,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/82/6e/f6/826ef6b0-c7eb-2e9a-9a86-752c37c1be88/mzl.hmkqgklv.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d2/40/9d/d2409d5a-cfd4-6247-db96-becf40d00065/mzl.qlxrtgkq.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/53/f3/00/53f300e9-b8d3-988d-233c-3bc063637083/mzl.pegelveh.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c8/59/9a/c8599aa8-d275-184e-1fff-63b7c7cb0c4c/mzl.neaumaig.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "SweetMIDI Player needs access in order to use BlueTooth MIDI devices."
+        }
+      },
+      "versions": [
+        {
+          "version": "4.9.7",
+          "date": "2026-06-16",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.ronimusic.SMPiOS-4.9.7-eeveedecrypter.ipa",
+          "size": 2898284
+        }
+      ],
+      "category": "music"
     },
     {
       "name": "Swiftfin iOS",
@@ -77043,15 +77054,15 @@
       "name": "YouTube [YTLite]",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "subtitle": "Tweaked with CydiaSubstrate, DontEatMyContent",
-      "version": "21.24.3",
+      "subtitle": "Tweaked with Alderis, CydiaSubstrate",
+      "version": "21.13.6",
       "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/YouTubePlus_21.24.3_5.2.1.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nYouTube 21.24.3\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
+      "versionDescription": "Tweaks: Alderis, CydiaSubstrate, DontEatMyContent, Gonerino, IAmYouTube\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/YTLitePlusEXTRA_21.13.6_v5.2b4_MORE_TWEAKS.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Alderis, CydiaSubstrate, DontEatMyContent, Gonerino, IAmYouTube\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 128957068,
+      "size": 130001745,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -77064,13 +77075,13 @@
           "com.apple.developer.usernotifications.communication",
           "com.apple.developer.declared-age-range",
           "com.apple.developer.group-session",
-          "com.apple.developer.networking.wifi-info",
-          "aps-environment",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.associated-domains",
           "com.apple.developer.device-information.user-assigned-device-name",
-          "com.apple.developer.siri",
+          "aps-environment",
           "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.siri",
+          "com.apple.developer.usernotifications.time-sensitive",
           "com.apple.security.application-groups"
         ],
         "privacy": {
@@ -77087,11 +77098,11 @@
       },
       "versions": [
         {
-          "version": "21.24.3",
+          "version": "21.13.6",
           "date": "2026-06-16",
-          "localizedDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/YouTubePlus_21.24.3_5.2.1.ipa",
-          "size": 128957068
+          "localizedDescription": "Tweaks: Alderis, CydiaSubstrate, DontEatMyContent, Gonerino, IAmYouTube\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/YTLitePlusEXTRA_21.13.6_v5.2b4_MORE_TWEAKS.ipa",
+          "size": 130001745
         }
       ],
       "category": "photo-&-video"
