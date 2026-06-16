@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.wirevpn.free",
+    "jp.naver.linecamera",
+    "com.sfun.snapedit",
     "com.kinemaster.kios",
-    "com.christianselig.Apollo",
-    "com.anthropic.claude",
-    "com.burbn.instagram",
-    "com.facebook.Messenger"
+    "com.christianselig.Apollo"
   ],
   "apps": [
     {
@@ -36605,14 +36605,14 @@
       "bundleIdentifier": "jp.naver.linecamera",
       "developerName": "SNOW Corporation",
       "subtitle": "Tweaked with LINECamera, blatantsPatch",
-      "version": "18.2.5",
-      "versionDate": "2026-06-06",
+      "version": "18.3.2",
+      "versionDate": "2026-06-16",
       "versionDescription": "Tweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_2_5_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_3_2_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: LINECamera, blatantsPatch\n\nLINE Camera - Photo editor\n\n---\nA photo editing camera app used by over 200 million people worldwide! 『LINE Camera』\n\n- Over 30,000 stickers and frames\nFrom decorations to face covers, the possibilities are endless.\nA wide variety of items is updated weekly.\n\n- Cute, sleek filters\nHighly customizable filters let you make your photos look just how you like them.\n\n- Make your own original stickers!\nUse your own illustrations, text, or photos to make your own stickers.\n\n- Use the Beauty feature to bring out the natural beauty in y",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/4f/4f/3b4f4fbe-ba07-4208-1147-9066229d47c7/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 192286616,
+      "size": 200576501,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/27/8f/39278fe6-038f-45b8-f616-2b00cd9b4329/1242x2208_filter.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/68/b3/c968b397-9270-cd57-6a02-1728925d0c44/1242x2208_blur.png/392x696bb.png",
@@ -36629,16 +36629,17 @@
           "NSCameraUsageDescription": "Your camera is used to take photos and videos.",
           "NSMicrophoneUsageDescription": "Your microphone is used to record sound when taking videos.",
           "NSLocationWhenInUseUsageDescription": "Your location is used to save location info when taking photos and videos.",
+          "NSLocalNetworkUsageDescription": "We need to access to your local network to communicate with local servers and devices.",
           "NSUserTrackingUsageDescription": "Please allow permission to provide service and personalized marketing."
         }
       },
       "versions": [
         {
-          "version": "18.2.5",
-          "date": "2026-06-06",
+          "version": "18.3.2",
+          "date": "2026-06-16",
           "localizedDescription": "Tweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_2_5_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 192286616
+          "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_3_2_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 200576501
         }
       ],
       "category": "photo-&-video"
@@ -59737,14 +59738,14 @@
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
       "subtitle": "Tweaked with SnapEdit, blatantsPatch",
-      "version": "6.14",
+      "version": "6.14.1",
       "versionDate": "2026-06-16",
       "versionDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.14 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_14_1_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SnapEdit, blatantsPatch\n\nSnapEdit: Photo Editor AI\n\n---\nSnapEdit is one of the best photo editing apps using AI with a mission to make your editing easy, smooth and fun.\n\nTransform your photos like never before with SnapEdit, the ultimate photo editing app designed to effortlessly remove unwanted objects, enhance image quality, and create stunning visual masterpieces. Download SnapEdit now and unlock a world of possibilities for your photos!\n\nKEY FEATURES:\n\nONE-TOUCH OBJECT REMOVAL: Say goodbye to photobombers, unwanted elements, or distracting objec",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/91/fe/9b91fe48-1611-705a-fb61-64dc25461aaf/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 98166355,
+      "size": 98170950,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -59763,11 +59764,11 @@
       },
       "versions": [
         {
-          "version": "6.14",
+          "version": "6.14.1",
           "date": "2026-06-16",
           "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.14 Pro Unlocked blatant Patched.ipa",
-          "size": 98166355
+          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_14_1_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 98170950
         }
       ],
       "category": "photo-&-video"
@@ -75771,6 +75772,49 @@
           "localizedDescription": "Tweaks: FixIpa, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://telos.ftp.sh/ipas/Wipr_byKace.ipa",
           "size": 4166196
+        }
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "Wirevpn",
+      "bundleIdentifier": "com.wirevpn.free",
+      "developerName": "WEILAI NETWORK TECHNOLOGY CO., LIMITED",
+      "subtitle": "Tweaked with ADsBlocker, Adblock 1",
+      "version": "4.2.0",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: ADsBlocker, Adblock 1, Adblock 2, CydiaSubstrate, G adblock\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/com_wirevpn_free_4_2_0_patched.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: ADsBlocker, Adblock 1, Adblock 2, CydiaSubstrate, G adblock\n\n---\nWirevpn is a fast secure VPN.Insist on putting user privacy and security first, give full respect and protection, and never force your user name, email address and any payment information to be recorded.\n\nSuper many server nodes, you can choose,Wherever you are, Wirevpn will automatically find nearby servers with high bandwidth and low latency.There is no pop-up window and no soft broadcasting. We are committed to providing you with a zero advertising application environment.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/61/58/906158fd-18d4-d203-f896-f4d2f40a79ec/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 23511193,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/b7/50/95b750fe-f6a3-6f71-175e-585831bad8cb/750e080e-6351-4356-9f5d-afb10b57dc33__U82f1_U6587.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/66/7f/12667fac-11af-9c75-25d1-44615d39db56/644e0c4f-f3c6-4582-9472-8e131fb933c6__U753b_U677f_U5907_U4efd_111.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/ed/03/a5ed03d6-1865-a18d-8710-309bb3275232/29a1f03a-0050-4a4b-b148-cfdf3c6a181d__U753b_U677f_U5907_U4efd_112.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/ba/da/debada18-c645-477b-3838-b209676bf781/2a76ac9b-e9e5-4e59-b568-0a8ecd43cac6__U753b_U677f_U5907_U4efd_11.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.networking.networkextension",
+          "aps-environment",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "We need your consent to access the photo album for communication with customer service.",
+          "NSCameraUsageDescription": "We need your permission to access the camera for communication with customer service.",
+          "NSMicrophoneUsageDescription": "We need your permission to access the microphone for communication with customer service.",
+          "NSPhotoLibraryAddUsageDescription": "We need your permission to save images to your photo library"
+        }
+      },
+      "versions": [
+        {
+          "version": "4.2.0",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: ADsBlocker, Adblock 1, Adblock 2, CydiaSubstrate, G adblock\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/com_wirevpn_free_4_2_0_patched.ipa",
+          "size": 23511193
         }
       ],
       "category": "productivity"
