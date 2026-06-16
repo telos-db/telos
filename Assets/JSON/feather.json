@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.anthropic.claude",
     "com.burbn.instagram",
     "com.facebook.Messenger",
     "com.google.ios.youtube",
-    "com.jakemor.firness-ai",
-    "archery.storify"
+    "com.jakemor.firness-ai"
   ],
   "apps": [
     {
@@ -12558,6 +12558,50 @@
         }
       ],
       "category": "education"
+    },
+    {
+      "name": "Claude",
+      "bundleIdentifier": "com.anthropic.claude",
+      "developerName": "Anthropic PBC",
+      "subtitle": "Claude for iOS",
+      "version": "1.260611.1",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.anthropic.claude-1.260611.1-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nMeet Claude, your AI problem solver and thinking partner. Claude works with you to write, research, code, and tackle complex problems with depth and precision. It enhances your thinking and expands what you're capable of, right from your phone.\n\nAI WRITING ASSISTANT\n\nTurn rough thinking into polished work. Whether you're crafting social media posts, professional emails, or complex reports, Claude refines tone, structure, and clarity — iterating with you until your voice comes through. Get writin",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/59/49/06594946-0b1b-f865-9c98-3d1629184eec/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 80782164,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/1d/08/191d0858-1c47-b3d4-44e8-cc3bff2a1406/iPhone5.5_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/35/bd/ad35bd57-d256-9423-8ead-b5e1078ca46a/iPhone5.5_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ac/de/27acdefc-15c8-2121-93ae-dd5d26a628da/iPhone_5.5-dispatch.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/64/85/836485da-88f3-b2f6-c020-1b08e65c6be9/iPhone5.5_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/46/25/1b462504-184b-3281-ef57-a89d0420171b/iPhone5.5_4.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Claude can show your recent photos so you can attach them quickly.",
+          "NSCameraUsageDescription": "You can take photos in this app to include in your conversation with Claude.",
+          "NSMicrophoneUsageDescription": "Audio is recorded while we transcribe your message to Claude. Audio recordings are discarded after transcription.",
+          "NSLocationWhenInUseUsageDescription": "Claude needs access to your location to provide location-based assistance when you ask for it.",
+          "NSHealthShareUsageDescription": "Claude can access your health data when asked to provide insights into your wellbeing.",
+          "NSHealthUpdateUsageDescription": "Claude can update your health data when asked to log health information.",
+          "NSFaceIDUsageDescription": "Claude uses Face ID to verify it's you before accessing remote control sessions.",
+          "NSPhotoLibraryAddUsageDescription": "Claude can save images to your photo library when you share them."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.260611.1",
+          "date": "2026-06-16",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.anthropic.claude-1.260611.1-eeveedecrypter.ipa",
+          "size": 80782164
+        }
+      ],
+      "category": "productivity"
     },
     {
       "name": "CLCracker",
