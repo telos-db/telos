@@ -5239,12 +5239,12 @@
       "bundleIdentifier": "com.bpmhealth.boostfitness",
       "developerName": "BPM Health Co.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nBoostcamp: Workout Programs\n\n---\nTrusted by over 1,000,000 lifters. 300M+ workouts logged. 4.8 stars.\n\nBoostcamp is the only app with the world's most popular strength training & muscle building programs built right in — nSuns, GZCLP, 5/3/1, Reddit PPL, PHUL, PHAT, and 100+ more. Pick a proven program, show up, and follow it. No spreadsheets, no guessing.\n\n\"Boostcamp has all the features of Strong and Hevy, but what puts Boostcamp decidedly #1 is that it features a library of programs from some of the most recognizable figures",
-      "version": "260",
-      "versionDate": "2026-06-08T00:12:30-00:00",
-      "versionDescription": "Build 3 from @blatants",
-      "size": 80864505,
+      "version": "261",
+      "versionDate": "2026-06-16T19:30:54-00:00",
+      "versionDescription": "Build 5 from @blatants",
+      "size": 91072035,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/cb/b4/2dcbb419-b912-df7c-1e43-f5f78d5e8f30/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Boostcamp_Workout_Programs_v260_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Boostcamp_Workout_Programs_v261_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "15.1",
       "supportedPlatforms": [
         "iOS"
@@ -5257,7 +5257,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Boostcamp_Workout_Programs_v260_Subscription_Unlocked_blatant_Patched.ipa"
+        "originalFile": "Boostcamp_Workout_Programs_v261_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -14195,26 +14195,24 @@
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Fitia, blatantsPatch\n\nFitia: Calorie Counter & Diet\n\n---\nTrusted by 10+ million users and rated 4.9/5.0 stars\n\n • The fastest & most accurate calorie counter\n • Track calories by photo, voice, or typing (like notes)\n • Personalized meal plans for weight loss or muscle gain\n • AI coach that adapts to your progress\n • Grocery list, recipes & smart food logging\n • Weight, body fat & measurement tracking\n • Intermittent fasting tracker\n • Syncs with Apple Health and third party apps\n\nWHY FITIA WORKS FOR WEIGHT LOSS OR MUSCLE GAIN\n• Fitia creates a plan th",
-      "version": "22.3.6",
-      "versionDate": "2026-06-14T20:17:44-00:00",
-      "versionDescription": "Build 978 from @blatants",
-      "size": 101931550,
+      "version": "23.1.11",
+      "versionDate": "2026-06-16T19:35:45-00:00",
+      "versionDescription": "Build 1015 from @blatants",
+      "size": 105108378,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/18/c2/8e18c267-859b-7791-b7ca-d2fbc39d887e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v22_3_6_Subscription_Unlocked_blatant.ipa",
-      "minOSVersion": "18.0",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_11_Subscription_Unlocked_blatant.ipa",
+      "minOSVersion": "16",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Fitia_Calorie_Counter_&_Diet_v22_3_6_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Fitia_Calorie_Counter_&_Diet_v23_1_11_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -27596,12 +27594,12 @@
       "bundleIdentifier": "com.wakdev.wdnfc",
       "developerName": "wakdev",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NFCTools, blatantsPatch\n\nNFC Tools\n\n---\nNFC Tools can read and write your NFC tags with a simple and lightweight user interface.\nBy passing your device near an NFC chip, you can read the data it contains and interact with the content.\n\nThe \"Read\" section allows you to see data such as:\n- the maker of the tag\n- the type of tag (ex : Mifare Ultralight, NTAG213)\n- the norm of the tag (ex : NFC Forum Type 2)\n- the available technology (ex: NFC A)\n- its serial number (ex : 04:85:c8:5a:40:2b:80)\n- the size of the tag and of the data on it\n-",
-      "version": "2.39.1",
-      "versionDate": "2026-06-14T02:47:50-00:00",
-      "versionDescription": "Build 61 from @blatants",
-      "size": 5274806,
+      "version": "2.40",
+      "versionDate": "2026-06-16T19:31:16-00:00",
+      "versionDescription": "Build 62 from @blatants",
+      "size": 5336232,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/44/e3/bf44e3fb-8b9e-e8bc-cb4c-6dee2ccba3ef/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/NFC Tools v2.39.1 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/NFC Tools v2.40 Pro Unlocked blatant Patched.ipa",
       "minOSVersion": "15.6",
       "supportedPlatforms": [
         "iOS"
@@ -27613,7 +27611,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "NFC Tools v2.39.1 Pro Unlocked blatant Patched.ipa"
+        "originalFile": "NFC Tools v2.40 Pro Unlocked blatant Patched.ipa"
       }
     },
     {
@@ -32429,26 +32427,24 @@
       "bundleIdentifier": "com.photoeditor.polish",
       "developerName": "SHANTANU PTE. LTD.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Polish, blatantsPatch\n\nPolish - AI Photo Editor\n\n---\nPolish is your go-to photo editor for anyone who wants natural, realistic results—fast and easy. With our user-friendly features and powerful tools, you can create eye-catching photos in just a few taps. Enjoy natural-looking edits without complicated tools or an overedited look!\n\nEveryday Photo Editing\n• Magic AI Remove: Seamlessly erase unwanted objects, people, or background clutter in seconds.\n• AI Photo Enhancer: Improve clarity, sharpen details, and save your photos in high quality.\n• Filt",
-      "version": "2.2.0",
-      "versionDate": "2026-06-06T22:23:29-00:00",
+      "version": "2.5.0",
+      "versionDate": "2026-06-16T19:33:49-00:00",
       "versionDescription": "Build 1.0 from @blatants",
-      "size": 134135693,
+      "size": 145664452,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/1f/39/571f3975-c3ed-d2e7-2695-b6255daff2db/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Polish_AI_Photo_Editor_v2_2_0_Premium_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Polish_AI_Photo_Editor_v2_5_0_Premium_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "14.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Polish_AI_Photo_Editor_v2_2_0_Premium_Unlocked_blatant_Patched.ipa"
+        "originalFile": "Polish_AI_Photo_Editor_v2_5_0_Premium_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -46112,13 +46108,13 @@
       "name": "VoidLink - Extreme",
       "bundleIdentifier": "com.voidlinkextreme.iOS",
       "developerName": "伟敏 张",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nVoidLink - Extreme\n\n---\nVoidLink is a project developed & maintained by Sunshine - Moonlight game streaming community players. After long term development and iterations, it has been refined into a powerful and feature rich game streaming tool.\n\nMore details about VoidLink including our community support is available on the app support web page.\n\nKey Features of VoidLink\n\n1. Better performance\n - Fine tuned video rendering enables enhanced streaming performance for most iOS devices. Check our app support web page for d",
-      "version": "3.3.8",
-      "versionDate": "2026-06-15T16:00:21-00:00",
-      "versionDescription": "Build 67 from @thescholarslounge",
-      "size": 9079460,
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nVoidLink is a project developed & maintained by Sunshine - Moonlight game streaming community players. After long term development and iterations, it has been refined into a powerful and feature rich game streaming tool.\n\nMore details about VoidLink including our community support is available on the app support web page.\n\nKey Features of VoidLink\n\n1. Better performance\n - Fine tuned video rendering enables enhanced streaming performance for most iOS devices. Check our app support web page for d",
+      "version": "3.4.4",
+      "versionDate": "2026-06-16T19:35:59-00:00",
+      "versionDescription": "Build 96 from @binnichtaktivsipas",
+      "size": 9332772,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/c5/8b/32c58bc8-7ebe-c893-378c-d759872119e9/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/VoidLink Extreme-3.3.8.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/VoidLink Extreme-3.4.4.ipa",
       "minOSVersion": "12.0",
       "supportedPlatforms": [
         "iOS"
@@ -46128,10 +46124,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@thescholarslounge",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "VoidLink Extreme-3.3.8.ipa"
+        "originalFile": "VoidLink Extreme-3.4.4.ipa"
       }
     },
     {
@@ -48235,13 +48231,13 @@
       "name": "YouTube [YTLite]",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Alderis, CydiaSubstrate, DontEatMyContent, Gonerino, IAmYouTube\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
-      "version": "21.13.6",
-      "versionDate": "2026-06-16T13:58:48-00:00",
-      "versionDescription": "Build 21.13.6 from @binnichtaktivsipas",
-      "size": 130001745,
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Alderis, CydiaSubstrate, DontEatMyContent, MadeByMohkg, YTABConfig\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
+      "version": "21.22.4",
+      "versionDate": "2026-06-16T19:37:08-00:00",
+      "versionDescription": "Build 21.22.4 from @binnichtaktivsipas",
+      "size": 139099396,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/YTLitePlusEXTRA_21.13.6_v5.2b4_MORE_TWEAKS.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Youtube21.22.04YTPlus5.2.1TestMondayMoePatched.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -48254,7 +48250,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "YTLitePlusEXTRA_21.13.6_v5.2b4_MORE_TWEAKS.ipa"
+        "originalFile": "Youtube21.22.04YTPlus5.2.1TestMondayMoePatched.ipa"
       }
     },
     {
