@@ -7973,6 +7973,32 @@
       }
     },
     {
+      "name": "Claude",
+      "bundleIdentifier": "com.anthropic.claude",
+      "developerName": "Anthropic PBC",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nMeet Claude, your AI problem solver and thinking partner. Claude works with you to write, research, code, and tackle complex problems with depth and precision. It enhances your thinking and expands what you're capable of, right from your phone.\n\nAI WRITING ASSISTANT\n\nTurn rough thinking into polished work. Whether you're crafting social media posts, professional emails, or complex reports, Claude refines tone, structure, and clarity — iterating with you until your voice comes through. Get writin",
+      "version": "1.260611.1",
+      "versionDate": "2026-06-16T14:20:45-00:00",
+      "versionDescription": "Build 27595752627 from @thescholarslounge",
+      "size": 80782164,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/59/49/06594946-0b1b-f865-9c98-3d1629184eec/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.anthropic.claude-1.260611.1-eeveedecrypter.ipa",
+      "minOSVersion": "18.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.anthropic.claude-1.260611.1-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "CLCracker",
       "bundleIdentifier": "com.retr0dev.cracker",
       "developerName": "Aljohn Paul Barundia",
