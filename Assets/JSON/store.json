@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.kinemaster.kios",
+    "com.christianselig.Apollo",
     "com.anthropic.claude",
     "com.burbn.instagram",
-    "com.facebook.Messenger",
-    "com.google.ios.youtube",
-    "com.jakemor.firness-ai"
+    "com.facebook.Messenger"
   ],
   "apps": [
     {
@@ -3765,12 +3765,12 @@
       "subtitle": "Tweaked with ApolloOpenInFix, ApolloReborn",
       "version": "3.2.0",
       "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Apollo for Reddit Liquid Glass 3.2.0.ipa",
-      "localizedDescription": "Apollo-Reborn Liquid Glass",
+      "versionDescription": "Tweaks: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.2.0.ipa",
+      "localizedDescription": "Apollo for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 111308292,
+      "size": 89292182,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/392x696bb.png",
@@ -3799,9 +3799,9 @@
         {
           "version": "3.2.0",
           "date": "2026-06-16",
-          "localizedDescription": "Tweaks: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Apollo for Reddit Liquid Glass 3.2.0.ipa",
-          "size": 111308292
+          "localizedDescription": "Tweaks: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.2.0.ipa",
+          "size": 89292182
         }
       ],
       "category": "news"
@@ -33430,14 +33430,14 @@
       "bundleIdentifier": "com.kinemaster.kios",
       "developerName": "KineMaster Corporation",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "8.1.12",
+      "version": "8.1.13",
       "versionDate": "2026-06-16",
       "versionDescription": "Tweaks: KineMaster, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_12_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_13_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nKineMaster - Video Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/27/1c/d5271c57-bf47-4c69-66c2-57ea3a49b1ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 116763395,
+      "size": 116764451,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/14/bc/a114bcc9-d975-363e-08ec-6284db7fbdc0/01.The_Best_Video_Editor.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/04/84/2d0484cc-4f81-9815-18ee-57fa40f0bf9a/02.High_Quality_Templates.jpg/392x696bb.jpg",
@@ -33462,11 +33462,11 @@
       },
       "versions": [
         {
-          "version": "8.1.12",
+          "version": "8.1.13",
           "date": "2026-06-16",
           "localizedDescription": "Tweaks: KineMaster, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_12_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 116763395
+          "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_13_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 116764451
         }
       ],
       "category": "photo-&-video"
@@ -77963,7 +77963,7 @@
     {
       "title": "⚙️ Telos Update 6.16",
       "identifier": "telos-update-2026-06-16",
-      "caption": "220 Apps Updated:\n• 68 Photo & Video\n• 25 Health & Fitness\n• 21 Music\n• 19 Productivity\n• 13 Utilities\n• 13 Games\n• 11 Education\n• 11 Entertainment\n• 7 Lifestyle\n• 6 Reference\n• 6 News\n• 4 Sports\n• 4 Navigation\n• 4 Social Networking\n• 2 Food & Drink\n• 2 Weather\n• 2 Medical\n• 2 Graphics & Design",
+      "caption": "230 Apps Updated:\n• 72 Photo & Video\n• 25 Health & Fitness\n• 21 Music\n• 17 Productivity\n• 14 News\n• 13 Utilities\n• 13 Games\n• 11 Education\n• 11 Entertainment\n• 7 Lifestyle\n• 6 Reference\n• 4 Sports\n• 4 Navigation\n• 4 Social Networking\n• 2 Food & Drink\n• 2 Weather\n• 2 Medical\n• 2 Graphics & Design",
       "date": "2026-06-16",
       "tintColor": "#02433b",
       "notify": true,
