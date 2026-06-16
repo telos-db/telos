@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "su.ffg.happ.plus",
+    "co.bazaart.app",
     "com.myfitnesspal.mfp",
     "com.tranzmate.tranzmate1",
-    "com.firecore.infuse",
-    "com.testa.aodottomanempire",
-    "com.google.ios.youtube"
+    "com.firecore.infuse"
   ],
   "apps": [
     {
@@ -6205,14 +6205,14 @@
       "bundleIdentifier": "co.bazaart.app",
       "developerName": "Bazaart Ltd.",
       "subtitle": "Premium Unlocked | Patched",
-      "version": "26.3.5",
-      "versionDate": "2026-06-14",
+      "version": "26.3.6",
+      "versionDate": "2026-06-16",
       "versionDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bazaart_AI_Photo_Editor_Design_v26_3_5_Premium_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bazaart_AI_Photo_Editor_Design_v26_3_6_Premium_Unlocked_blatant.ipa",
       "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nBazaart AI Photo Editor Design",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/36/5e/2c365e0a-3c3f-821c-08f7-09531a512ced/Bazaart_Icon_v3-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 104831502,
+      "size": 105001541,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -6234,11 +6234,11 @@
       },
       "versions": [
         {
-          "version": "26.3.5",
-          "date": "2026-06-14",
+          "version": "26.3.6",
+          "date": "2026-06-16",
           "localizedDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bazaart_AI_Photo_Editor_Design_v26_3_5_Premium_Unlocked_blatant.ipa",
-          "size": 104831502
+          "downloadURL": "https://telos.ftp.sh/ipas/Bazaart_AI_Photo_Editor_Design_v26_3_6_Premium_Unlocked_blatant.ipa",
+          "size": 105001541
         }
       ],
       "category": "photo-&-video"
@@ -27886,6 +27886,43 @@
           "localizedDescription": "Source: @thescholarslounge",
           "downloadURL": "https://telos.ftp.sh/ipas/su.ffg.happ-4.4.3-eeveedecrypter.ipa",
           "size": 152222134
+        }
+      ],
+      "category": "utilities"
+    },
+    {
+      "name": "Happ Plus",
+      "bundleIdentifier": "su.ffg.happ.plus",
+      "developerName": "Flyfrog LLC",
+      "subtitle": "Happ Plus for iOS",
+      "version": "4.11.0",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/su.ffg.happ.plus-4.11.0.ipa",
+      "localizedDescription": "Happ Plus for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/a6/b6/cda6b693-96fc-3698-78dd-3d5e12b7b9f4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 244250069,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/a1/d6/6da1d66d-5624-9e56-f2dc-810cf3687ebc/0a66431e-3139-4a5c-86c4-81fc33d34fdd_6s.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/4f/60/8a4f60cc-09c3-8c60-e53c-d08c8d962ad6/1d8283e2-cb3e-4724-b45e-7dfa6974a972_6s-2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/91/ee/f691ee8b-465a-1d5e-b9b4-298a0b6fb849/7f10e7f4-4708-40f4-93fa-d9702ffb4caf_6s-3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/b1/9c/69b19cc5-6e95-5c68-c321-950578c9732a/2e9bea68-9dfa-44bd-915f-e6d080ea88fa_6s-4.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "For qr scaning",
+          "NSLocalNetworkUsageDescription": "We use your local network to connect and share data with your TV."
+        }
+      },
+      "versions": [
+        {
+          "version": "4.11.0",
+          "date": "2026-06-08",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/su.ffg.happ.plus-4.11.0.ipa",
+          "size": 244250069
         }
       ],
       "category": "utilities"
@@ -78035,7 +78072,7 @@
     {
       "title": "⚙️ Telos Update 6.16",
       "identifier": "telos-update-2026-06-16",
-      "caption": "256 Apps Updated:\n• 78 Photo & Video\n• 33 Health & Fitness\n• 21 Music\n• 19 Productivity\n• 17 Games\n• 15 Utilities\n• 15 Entertainment\n• 11 Education\n• 10 News\n• 8 Navigation\n• 7 Lifestyle\n• 6 Reference\n• 4 Sports\n• 4 Social Networking\n• 2 Food & Drink\n• 2 Weather\n• 2 Medical\n• 2 Graphics & Design",
+      "caption": "258 Apps Updated:\n• 82 Photo & Video\n• 31 Health & Fitness\n• 21 Music\n• 19 Utilities\n• 19 Productivity\n• 17 Games\n• 13 Entertainment\n• 11 Education\n• 10 News\n• 7 Lifestyle\n• 6 Navigation\n• 6 Reference\n• 4 Sports\n• 4 Social Networking\n• 2 Food & Drink\n• 2 Weather\n• 2 Medical\n• 2 Graphics & Design",
       "date": "2026-06-16",
       "tintColor": "#02433b",
       "notify": true,
