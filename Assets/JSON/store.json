@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.testa.aodottomanempire",
     "com.google.ios.youtube",
     "com.voidlinkextreme.iOS",
     "com.ulisesolave.Fitia",
-    "com.photoeditor.polish",
-    "com.wakdev.wdnfc"
+    "com.photoeditor.polish"
   ],
   "apps": [
     {
@@ -3685,6 +3685,35 @@
         }
       ],
       "category": "entertainment"
+    },
+    {
+      "name": "AoS: Ottoman Empire",
+      "bundleIdentifier": "com.testa.aodottomanempire",
+      "developerName": "RoboBot Studio",
+      "subtitle": "AoS: Ottoman Empire for iOS",
+      "version": "4.2.0",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.testa.aodottomanempire-4.2.0-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/0a/91/7f0a91c4-28ad-c276-ce6b-a8fc14660cd4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 137183790,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "4.2.0",
+          "date": "2025-11-12",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.testa.aodottomanempire-4.2.0-eeveedecrypter.ipa",
+          "size": 137183790
+        }
+      ],
+      "category": "games"
     },
     {
       "name": "APEX Racer",
@@ -78006,7 +78035,7 @@
     {
       "title": "⚙️ Telos Update 6.16",
       "identifier": "telos-update-2026-06-16",
-      "caption": "254 Apps Updated:\n• 82 Photo & Video\n• 33 Health & Fitness\n• 21 Music\n• 19 Productivity\n• 17 Utilities\n• 17 Games\n• 11 Education\n• 11 Entertainment\n• 10 News\n• 7 Lifestyle\n• 6 Reference\n• 4 Sports\n• 4 Navigation\n• 4 Social Networking\n• 2 Food & Drink\n• 2 Weather\n• 2 Medical\n• 2 Graphics & Design",
+      "caption": "246 Apps Updated:\n• 78 Photo & Video\n• 29 Health & Fitness\n• 21 Music\n• 19 Games\n• 19 Productivity\n• 15 Utilities\n• 11 Education\n• 11 Entertainment\n• 10 News\n• 7 Lifestyle\n• 6 Reference\n• 4 Sports\n• 4 Navigation\n• 4 Social Networking\n• 2 Food & Drink\n• 2 Weather\n• 2 Medical\n• 2 Graphics & Design",
       "date": "2026-06-16",
       "tintColor": "#02433b",
       "notify": true,
