@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.christianselig.Apollo",
-    "com.spotify.client",
+    "com.netease.yysls",
+    "com.google.ios.youtubemusic",
+    "com.sbs.train",
     "com.zhiliaoapp.musically",
-    "com.agent.super.extension.safari",
-    "com.calculated.laurene"
+    "com.facebook.Facebook"
   ],
   "apps": [
     {
@@ -14456,6 +14456,41 @@
       "category": "lifestyle"
     },
     {
+      "name": "CrimeBot",
+      "bundleIdentifier": "com.testa.crimebot",
+      "developerName": "RoboBot Studio",
+      "subtitle": "CrimeBot for iOS",
+      "version": "2.0.8",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.testa.crimebot-2.0.8-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/af/19/c5af1986-13f3-b5c6-7a86-93e073af9939/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 23599549,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/25/7a/9f/257a9f43-877a-5a4f-2f8d-ac51afa113e0/mzl.iaumwxsz.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f2/07/8f/f2078f56-c30b-2206-06be-8669183def1a/mzl.aawmzane.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a1/e6/70/a1e67030-4cfa-758a-20ce-7e75db676be8/mzl.mlwqzfof.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9d/1d/01/9d1d0155-2380-cd5b-de36-3b3199e2a513/mzl.rivkbdlm.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/65/cd/92/65cd9293-f2a6-1c20-face-d8eb98ce1f99/mzl.vztccgyu.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.0.8",
+          "date": "2024-07-30",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.testa.crimebot-2.0.8-eeveedecrypter.ipa",
+          "size": 23599549
+        }
+      ],
+      "category": "games"
+    },
+    {
       "name": "Crossword",
       "bundleIdentifier": "mobi.redstonegames.crossword.en",
       "developerName": "REDSTONE GAMES LTDA",
@@ -23545,6 +23580,44 @@
       "category": "education"
     },
     {
+      "name": "Fluently",
+      "bundleIdentifier": "com.emrecanacer.AILanguage",
+      "developerName": "Engcraft, LLC",
+      "subtitle": "Tweaked with CydiaSubstrate, StopReviews",
+      "version": "1.1.2",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Al Language Tutor_v1.1.2_tg@Sa1y0miii.ipa",
+      "localizedDescription": "Fluently for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/ee/ab/42eeab70-8f65-c52e-824f-7324a34d319e/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 33341792,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/e6/82/79e682b0-0a83-b4de-f01b-e72b64e9d7cd/3dc39309-0474-4374-bec4-e0df71be9c7b_Slice_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/75/3a/1d753ac0-92c5-1aae-0126-98701fc5747e/2c216312-bb59-494c-9b9c-4f2d99f0726d_Slice_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/a3/71/5ba37185-6175-db4e-7e49-82cd95da395c/cfd8aa8d-e08e-461c-956c-3ca9f19f5a20_Slice_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/62/ea/9262ea99-b8e5-7c60-47a0-66bc76e97fe5/e5e8c7a8-976f-4318-b511-0f4550e5ae3b_Slice_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/97/e5/f597e5c0-64d9-bead-7789-5086d8bd883d/ee1d981e-f698-4966-a610-c53329375e9f_Slice_5.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "We need access to your microphone to provide voice input functionality during conversations. Your microphone will only be used when you choose to speak to the AI by tapping the microphone button.",
+          "NSSpeechRecognitionUsageDescription": "We need access to speech recognition to provide voice input functionality during conversations. It will only be used when you choose to speak to the AI by tapping the microphone button."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.1.2",
+          "date": "2024-07-13",
+          "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Al Language Tutor_v1.1.2_tg@Sa1y0miii.ipa",
+          "size": 33341792
+        }
+      ],
+      "category": "education"
+    },
+    {
       "name": "Flux",
       "bundleIdentifier": "com.jessejanderson.fluxapp",
       "developerName": "Jesse J. Anderson",
@@ -26353,14 +26426,14 @@
       "bundleIdentifier": "com.google.Maps",
       "developerName": "Google",
       "subtitle": "Google Maps for iOS",
-      "version": "6.53.0",
-      "versionDate": "2026-02-28",
+      "version": "26.24.1",
+      "versionDate": "2026-06-16",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Google.Maps-6.53.0.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.google.Maps-26.24.1-eeveedecrypter.ipa",
       "localizedDescription": "Google Maps for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/21/79/b2217900-7bd2-c3f3-caa3-6c8a3c58119b/maps-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/0a/68/510a68b4-e133-3e4e-e139-68353814fb5f/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 67299967,
+      "size": 172718526,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -26382,11 +26455,11 @@
       },
       "versions": [
         {
-          "version": "6.53.0",
-          "date": "2026-02-28",
+          "version": "26.24.1",
+          "date": "2026-06-12",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Google.Maps-6.53.0.ipa",
-          "size": 67299967
+          "downloadURL": "https://telos.ftp.sh/ipas/com.google.Maps-26.24.1-eeveedecrypter.ipa",
+          "size": 172718526
         }
       ],
       "category": "navigation"
@@ -33968,14 +34041,14 @@
       "bundleIdentifier": "de.komoot.berlinbikeapp",
       "developerName": "komoot GmbH",
       "subtitle": "Tweaked with CydiaSubstrate, KomootPatch",
-      "version": "2026.22.3",
-      "versionDate": "2026-06-01",
+      "version": "2026.24.1",
+      "versionDate": "2026-06-16",
       "versionDescription": "Tweaks: CydiaSubstrate, KomootPatch, SideloadSpoofer-08, blatantsPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/komoot Premium 2026.22.3.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/komoot Premium 2026.24.1.ipa",
       "localizedDescription": "komoot - hike, bike & run",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/93/95/c593950b-b171-98fc-829e-902106458a4d/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 106615794,
+      "size": 108232256,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/32/af/3132af68-9df0-16da-1363-93f88fb557da/89f34834-4833-45bc-8093-bcb0e22b3cd2_1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/e8/b5/20e8b5ed-b6c0-7428-6a99-61ffa02f473d/9f169a8e-07fd-4379-80b9-358ddc3b989c_2.jpg/576x768bb.jpg",
@@ -34010,11 +34083,11 @@
       },
       "versions": [
         {
-          "version": "2026.22.3",
-          "date": "2026-05-29",
+          "version": "2026.24.1",
+          "date": "2026-06-16",
           "localizedDescription": "Tweaks: CydiaSubstrate, KomootPatch, SideloadSpoofer-08, blatantsPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/komoot Premium 2026.22.3.ipa",
-          "size": 106615794
+          "downloadURL": "https://telos.ftp.sh/ipas/komoot Premium 2026.24.1.ipa",
+          "size": 108232256
         }
       ],
       "category": "health-&-fitness"
@@ -44621,14 +44694,14 @@
       "bundleIdentifier": "nutrition.coach",
       "developerName": "Eclipse Studios",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "2.1.0",
-      "versionDate": "2026-06-12",
+      "version": "2.1.1",
+      "versionDate": "2026-06-16",
       "versionDescription": "Tweaks: NutriCoach, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nNutrition Coach: Food tracker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/11/b3/1511b3e4-a114-2d56-8fbf-d60a8807e2ea/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 73173884,
+      "size": 73173992,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5c/7d/c65c7d42-9758-a9f6-b97b-864d52e346df/41392711-be29-4b4a-81aa-f2631d6bffd1_Nutricoach-screenshot-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/21/c6/9221c666-c6e9-cb68-430d-b07e70d8dce5/5f6ea8ed-ee1c-4a9c-9ac4-98f42fce78d0_Nutricoach-screenshot-02.jpg/392x696bb.jpg",
@@ -44653,11 +44726,11 @@
       },
       "versions": [
         {
-          "version": "2.1.0",
-          "date": "2026-06-12",
+          "version": "2.1.1",
+          "date": "2026-06-16",
           "localizedDescription": "Tweaks: NutriCoach, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_0_Subscription_Unlocked_blatant.ipa",
-          "size": 73173884
+          "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_1_Subscription_Unlocked_blatant.ipa",
+          "size": 73173992
         }
       ],
       "category": "health-&-fitness"
@@ -44723,6 +44796,42 @@
           "localizedDescription": "Source: @thescholarslounge",
           "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-0.1.0.ipa",
           "size": 31433500
+        }
+      ],
+      "category": "health-&-fitness"
+    },
+    {
+      "name": "Nuvio",
+      "bundleIdentifier": "com.nuvio.hub",
+      "developerName": "RGN VENTURES LTD",
+      "subtitle": "Nuvio for iOS",
+      "version": "1.4.2",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stable_1-4-2.ipa",
+      "localizedDescription": "Nuvio for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 38765502,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains"
+        ],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "This app does not require microphone access.",
+          "NSLocalNetworkUsageDescription": "Nuvio uses the local network to discover Cast-enabled devices on your WiFi network and to connect to local media servers."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.4.2",
+          "date": "2026-06-16",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Stable_1-4-2.ipa",
+          "size": 38765502
         }
       ],
       "category": "health-&-fitness"
@@ -48608,20 +48717,21 @@
       "name": "Photoroom",
       "bundleIdentifier": "com.dr1ven.eraser",
       "developerName": "Photoroom",
-      "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "2026.25.01",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "2026.25.02",
       "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.25.01-riftysipas.ipa",
-      "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nPhotoroom: AI Photo Editor",
+      "versionDescription": "Tweaks: Photoroom, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Photoroom_AI_Photo_Editor_v2026_25_02_Max_Subscription_Unlocked.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPhotoroom: AI Photo Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/65/e0/2165e04b-567a-cf7d-1dcb-a2fc8ab699e9/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 165829894,
+      "size": 176559728,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
           "com.apple.developer.usernotifications.communication",
           "com.apple.developer.applesignin",
+          "com.apple.developer.kernel.extended-virtual-addressing",
           "com.apple.developer.kernel.increased-memory-limit",
           "aps-environment",
           "com.apple.developer.associated-domains",
@@ -48637,11 +48747,11 @@
       },
       "versions": [
         {
-          "version": "2026.25.01",
+          "version": "2026.25.02",
           "date": "2026-06-16",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.25.01-riftysipas.ipa",
-          "size": 165829894
+          "localizedDescription": "Tweaks: Photoroom, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Photoroom_AI_Photo_Editor_v2026_25_02_Max_Subscription_Unlocked.ipa",
+          "size": 176559728
         }
       ],
       "category": "photo-&-video"
@@ -57615,6 +57725,45 @@
       "category": "productivity"
     },
     {
+      "name": "SideStore",
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "developerName": "Download Apps",
+      "subtitle": "SideStore for iOS",
+      "version": "0.6.3",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/SideStore 2.ipa",
+      "localizedDescription": "SideStore for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/08/88/f1/0888f1e3-da8d-9c44-187a-dee92acdf2e7/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 28632252,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/8a/6c/02/8a6c0299-dccc-51f6-95e0-23ea9f8ff6cc/mzl.yfbkjifp.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f8/a9/b1/f8a9b1f3-8600-df44-5b0d-b038d6f4d47e/mzl.uwakbdhi.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f7/09/62/f70962f0-e297-e6dd-4803-d36dde6ffd82/mzl.hgelrktx.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/67/01/ae/6701aea2-7bfb-8ab7-134a-9548bfe4884e/mzl.vcajfwck.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f1/11/c4/f111c4b2-17b2-9075-fbec-5753e1208098/mzl.sfrhhzyb.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "SideStore uses the local network to find and communicate with your device."
+        }
+      },
+      "versions": [
+        {
+          "version": "0.6.3",
+          "date": "2026-06-16",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/SideStore 2.ipa",
+          "size": 28632252
+        }
+      ],
+      "category": "utilities"
+    },
+    {
       "name": "Signal",
       "bundleIdentifier": "org.whispersystems.signal",
       "developerName": "Signal Messenger, LLC",
@@ -59386,15 +59535,15 @@
       "name": "SnoreLab",
       "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
       "developerName": "Reviva Softworks Ltd",
-      "subtitle": "*Tweak:** Satella Injected For Unlocking Subscription | *Patched ✓**",
-      "version": "6.3.7",
-      "versionDate": "2026-06-05",
-      "versionDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab : Record Your Snoring-v6.3.7-riftysipas.ipa",
-      "localizedDescription": "*Tweak:** Satella Injected For Unlocking Subscription | *Patched ✓**\n\nSnoreLab : Record Your Snoring",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "6.3.8",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab_Record_Your_Snoring_v6_3_8_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSnoreLab : Record Your Snoring",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/8e/11/568e118f-f5cf-acde-89ba-c930d18b6b29/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 155104800,
+      "size": 158522052,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -59415,11 +59564,11 @@
       },
       "versions": [
         {
-          "version": "6.3.7",
-          "date": "2026-06-05",
-          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab : Record Your Snoring-v6.3.7-riftysipas.ipa",
-          "size": 155104800
+          "version": "6.3.8",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab_Record_Your_Snoring_v6_3_8_Subscription_Unlocked_blatant.ipa",
+          "size": 158522052
         }
       ],
       "category": "medical"
@@ -73841,6 +73990,44 @@
       "category": "games"
     },
     {
+      "name": "Where Winds Meet ",
+      "bundleIdentifier": "com.netease.yysls",
+      "developerName": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD",
+      "subtitle": "Tweaked with CydiaSubstrate, WhereWindsMeet",
+      "version": "15.0.7",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: CydiaSubstrate, WhereWindsMeet\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Where Winds Meet - KamoHacks [15.0.7].ipa",
+      "localizedDescription": "Where Winds Meet  for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/6e/3a/126e3a6a-9e42-d2c9-650d-29beb6ee3544/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 3448838963,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "\"Where Winds Meet\" will use your storage to save or upload in-game screenshots and videos",
+          "NSCameraUsageDescription": "\"Where Winds Meet\" will use your camera for scanning QR codes (including login, payment, sharing, following, and character binding), intelligent character customization, taking photos, or recording videos",
+          "NSMicrophoneUsageDescription": "\"Where Winds Meet\" will use your microphone for voice messages, real-time voice chat, intelligent teammate voice, voice red packets, or voice-based character customization",
+          "NSLocationWhenInUseUsageDescription": "\"Where Winds Meet\" will use your network during gameplay",
+          "NSSpeechRecognitionUsageDescription": "\"Where Winds Meet\" will use your microphone for voice messages, real-time voice chat, intelligent teammate voice, voice red packets, or voice-based character customization",
+          "NSLocalNetworkUsageDescription": "\"Where Winds Meet\" will use your network during gameplay",
+          "NSUserTrackingUsageDescription": "Your data will be used to enhance your gaming experience, and you can revoke this authorization at any time in the settings",
+          "NSPhotoLibraryAddUsageDescription": "\"Where Winds Meet\" will use your storage to save or upload in-game screenshots and videos"
+        }
+      },
+      "versions": [
+        {
+          "version": "15.0.7",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: CydiaSubstrate, WhereWindsMeet\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Where Winds Meet - KamoHacks [15.0.7].ipa",
+          "size": 3448838963
+        }
+      ],
+      "category": "games"
+    },
+    {
       "name": "Whisper",
       "bundleIdentifier": "com.goodsnooze.MacWhisper",
       "developerName": "Good Snooze",
@@ -77696,7 +77883,7 @@
     {
       "title": "⚙️ Telos Update 6.16",
       "identifier": "telos-update-2026-06-16",
-      "caption": "220 Apps Updated:\n• 76 Photo & Video\n• 26 Music\n• 18 Health & Fitness\n• 16 Productivity\n• 16 Entertainment\n• 14 Utilities\n• 10 Games\n• 10 Education\n• 10 News\n• 8 Lifestyle\n• 6 Reference\n• 4 Sports\n• 2 Food & Drink\n• 2 Weather\n• 2 Navigation",
+      "caption": "234 Apps Updated:\n• 68 Photo & Video\n• 30 Health & Fitness\n• 20 Music\n• 16 Utilities\n• 16 Games\n• 16 Productivity\n• 12 Education\n• 12 Entertainment\n• 8 Lifestyle\n• 6 Navigation\n• 6 Reference\n• 6 News\n• 6 Social Networking\n• 4 Sports\n• 4 Medical\n• 2 Food & Drink\n• 2 Weather",
       "date": "2026-06-16",
       "tintColor": "#02433b",
       "notify": true,
