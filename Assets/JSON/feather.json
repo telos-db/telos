@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.testa.aodottomanempire",
     "com.google.ios.youtube",
     "com.voidlinkextreme.iOS",
     "com.ulisesolave.Fitia",
-    "com.photoeditor.polish",
-    "com.wakdev.wdnfc"
+    "com.photoeditor.polish"
   ],
   "apps": [
     {
@@ -3720,6 +3720,35 @@
         }
       ],
       "category": "entertainment"
+    },
+    {
+      "name": "AoS: Ottoman Empire",
+      "bundleIdentifier": "com.testa.aodottomanempire",
+      "developerName": "RoboBot Studio",
+      "subtitle": "AoS: Ottoman Empire for iOS",
+      "version": "4.2.0",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.testa.aodottomanempire-4.2.0-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nStep into the Golden Age of the Ottoman Empire with Age of Sultans: Ottoman Empire, the new chapter of the critically acclaimed Age of Dynasties series. Immerse yourself in the splendor of the imperial palace, experience the intrigue of royal courts, and rise as the most legendary Sultan or Sultanah of history.\n\nMaster the art of governance, forge strategic alliances, and shape the destiny of your empire turn by turn. But power alone is not enough—only a ruler who nurtures their family ties and",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/0a/91/7f0a91c4-28ad-c276-ce6b-a8fc14660cd4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 137183790,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "4.2.0",
+          "date": "2026-06-16",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.testa.aodottomanempire-4.2.0-eeveedecrypter.ipa",
+          "size": 137183790
+        }
+      ],
+      "category": "games"
     },
     {
       "name": "APEX Racer",
