@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.christianselig.Apollo",
-    "com.spotify.client",
+    "com.netease.yysls",
+    "com.google.ios.youtubemusic",
+    "com.sbs.train",
     "com.zhiliaoapp.musically",
-    "com.agent.super.extension.safari",
-    "com.calculated.laurene"
+    "com.facebook.Facebook"
   ],
   "apps": [
     {
@@ -12719,14 +12719,14 @@
       "bundleIdentifier": "com.codeway.cleanerplus",
       "developerName": "DEEP FLOW SOFTWARE SERVICES",
       "subtitle": "Tweaked with Cleanup, blatantsPatch",
-      "version": "6.13.0",
-      "versionDate": "2026-06-06",
-      "versionDescription": "Tweaks: Cleanup, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Cleanup_Phone_Storage_Cleaner_v6_13_0_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Cleanup, blatantsPatch\n\nCleanup: Phone Storage Cleaner\n\n---\nClean up your iPhone and optimize storage in seconds.\n\nRemove duplicate photos, videos, and junk emails. Cleanup helps you clear your camera roll, merge duplicate contacts, compress videos, and organize storage — all in one app.\n\nOPTIMIZE STORAGE – FREE UP SPACE WITH ONE TAP\nRunning low on space? Cleanup gives you powerful tools to take control:\n- Delete duplicate photos and videos\n- Remove similar screenshots and lookalike videos\n- Compress large files without losing quality\n- Clean up spam and",
+      "version": "6.14.1",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: Cleanup, blatantsPatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Cleanup_Phone_Storage_Cleaner_v6_14_1_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Cleanup, blatantsPatch\n\nSimilar?\n\n---\nClean up your iPhone and optimize storage in seconds.\n\nRemove duplicate photos, videos, and junk emails. Cleanup helps you clear your camera roll, merge duplicate contacts, compress videos, and organize storage — all in one app.\n\nOPTIMIZE STORAGE – FREE UP SPACE WITH ONE TAP\nRunning low on space? Cleanup gives you powerful tools to take control:\n- Delete duplicate photos and videos\n- Remove similar screenshots and lookalike videos\n- Compress large files without losing quality\n- Clean up spam and",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/53/34/3e5334e4-e9d9-b8b7-e6bf-9f6764595e84/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 116178552,
+      "size": 116412371,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -12748,11 +12748,11 @@
       },
       "versions": [
         {
-          "version": "6.13.0",
-          "date": "2026-06-06",
-          "localizedDescription": "Tweaks: Cleanup, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Cleanup_Phone_Storage_Cleaner_v6_13_0_Subscription_Unlocked_blatant.ipa",
-          "size": 116178552
+          "version": "6.14.1",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: Cleanup, blatantsPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Cleanup_Phone_Storage_Cleaner_v6_14_1_Subscription_Unlocked_blatant.ipa",
+          "size": 116412371
         }
       ],
       "category": "utilities"
@@ -14522,6 +14522,41 @@
         }
       ],
       "category": "lifestyle"
+    },
+    {
+      "name": "CrimeBot",
+      "bundleIdentifier": "com.testa.crimebot",
+      "developerName": "RoboBot Studio",
+      "subtitle": "CrimeBot for iOS",
+      "version": "2.0.8",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.testa.crimebot-2.0.8-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nYear 2049. The best detectives have been reunited to face the rapidly spreading crime.\nMany detective agency have failed or, worse still, bought from crime.\nScotland yard has created CrimeBot detective agency to help the police with the criminal investigation.\n\nThe CrimeBots are detective with technological grafts capable of analyzing the crime scene, collecting clues and finding the culprit of a criminal case more effective than true detective.\nThanks to them, police can apply investigation, di",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/af/19/c5af1986-13f3-b5c6-7a86-93e073af9939/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 23599549,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/25/7a/9f/257a9f43-877a-5a4f-2f8d-ac51afa113e0/mzl.iaumwxsz.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f2/07/8f/f2078f56-c30b-2206-06be-8669183def1a/mzl.aawmzane.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a1/e6/70/a1e67030-4cfa-758a-20ce-7e75db676be8/mzl.mlwqzfof.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9d/1d/01/9d1d0155-2380-cd5b-de36-3b3199e2a513/mzl.rivkbdlm.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/65/cd/92/65cd9293-f2a6-1c20-face-d8eb98ce1f99/mzl.vztccgyu.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.0.8",
+          "date": "2026-06-16",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.testa.crimebot-2.0.8-eeveedecrypter.ipa",
+          "size": 23599549
+        }
+      ],
+      "category": "games"
     },
     {
       "name": "Crossword",
@@ -20629,14 +20664,14 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Meta Platforms, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Glow",
-      "version": "555.0.0",
-      "versionDate": "2026-06-14",
+      "version": "560.1.0",
+      "versionDate": "2026-06-16",
       "versionDescription": "Tweaks: CydiaSubstrate, Glow\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Facebook Glow 555.0.0.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Glow\n\nFacebook\n\n---\nWhere real people propel your curiosity. Whether you’re thrifting gear, showing reels to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.\n\nExplore and expand your interests:\n Shop Marketplace for hidden gems and take your hobbies to the next level\n Personalize your Feed to see more of what you like, less of what you don’t\n Ask Meta AI for information and get answers instantly\n Drive into reels that ref",
+      "downloadURL": "https://telos.ftp.sh/ipas/FB_560.1_Glow_1.3.1.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Glow\n\n---\nWhere real people propel your curiosity. Whether you’re thrifting gear, showing reels to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.\n\nExplore and expand your interests:\n Shop Marketplace for hidden gems and take your hobbies to the next level\n Personalize your Feed to see more of what you like, less of what you don’t\n Ask Meta AI for information and get answers instantly\n Drive into reels that ref",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/f6/e9/3bf6e9f2-c756-8ab4-f1f5-0dfac3836636/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 178930243,
+      "size": 207222674,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/c0/fa/e2c0faf7-2613-0ead-3c3a-193d992e3930/f254967c-6ef9-4cc6-b4bf-e89cf016337c_1-iOS-5.5-Home.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/d9/9b/6ad99bf8-e769-1fd2-0ac7-f9f0553978a2/c795c58d-ec37-463c-9ab9-ba0b8bc00ddd_2-iOS-5.5-Reels.png/392x696bb.png",
@@ -20683,11 +20718,11 @@
       },
       "versions": [
         {
-          "version": "555.0.0",
-          "date": "2026-06-14",
+          "version": "560.1.0",
+          "date": "2026-06-16",
           "localizedDescription": "Tweaks: CydiaSubstrate, Glow\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Facebook Glow 555.0.0.ipa",
-          "size": 178930243
+          "downloadURL": "https://telos.ftp.sh/ipas/FB_560.1_Glow_1.3.1.ipa",
+          "size": 207222674
         }
       ],
       "category": "social-networking"
@@ -20864,15 +20899,15 @@
       "name": "Facetune",
       "bundleIdentifier": "com.lightricks.Facetune2",
       "developerName": "Lightricks Ltd.",
-      "subtitle": "Tweaked with Facetune, blatantsPatch",
-      "version": "26.16",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_16_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Facetune, blatantsPatch, sideloadKeychainfix\n\nFacetune: Photo & Video Editor\n\n---\nWelcome to Facetune, where every photo hits.\nYour camera captures the moment. Facetune makes it unforgettable. From quick touch-ups to full transformations, we've built the tools that let you show up exactly how you want.\n‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿\n\nKey Features:\n\nRetouch & Refine:\n Smooth: Achieve a natural, flawless complexion by removing blemishes and imperfections instantly.\n Reshape: Subtly enhance your features with precise, natural-looking adjustments.\n Whiten: Brighten your s",
+      "subtitle": "Tweaked with 00_iApps, 01_iApps",
+      "version": "3.83.2",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: 00_iApps, 01_iApps, CydiaSubstrate, Lightrix_iApps, pro\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Facetune Pro 3.83.2.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: 00_iApps, 01_iApps, CydiaSubstrate, Lightrix_iApps, pro\n\n---\nWelcome to Facetune, where every photo hits.\nYour camera captures the moment. Facetune makes it unforgettable. From quick touch-ups to full transformations, we've built the tools that let you show up exactly how you want.\n‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿\n\nKey Features:\n\nRetouch & Refine:\n Smooth: Achieve a natural, flawless complexion by removing blemishes and imperfections instantly.\n Reshape: Subtly enhance your features with precise, natural-looking adjustments.\n Whiten: Brighten your s",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/bd/0b/24bd0ba0-1648-a278-f6f6-173fe83ef2f8/AppIconLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 426317692,
+      "size": 333566723,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/e1/25/81e125c3-0cff-38ab-c643-3cc8ebd60281/FT-250819-ASO-Baseline-5.5-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/52/66/e1526682-7c10-2655-d24a-0f0047c6fe71/FT-250819-ASO-Baseline-5.5-02.jpg/392x696bb.jpg",
@@ -20899,11 +20934,11 @@
       },
       "versions": [
         {
-          "version": "26.16",
-          "date": "2026-06-15",
-          "localizedDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_16_Subscription_Unlocked_blatant.ipa",
-          "size": 426317692
+          "version": "3.83.2",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: 00_iApps, 01_iApps, CydiaSubstrate, Lightrix_iApps, pro\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Facetune Pro 3.83.2.ipa",
+          "size": 333566723
         }
       ],
       "category": "photo-&-video"
@@ -23813,6 +23848,44 @@
       "category": "education"
     },
     {
+      "name": "Fluently",
+      "bundleIdentifier": "com.emrecanacer.AILanguage",
+      "developerName": "Engcraft, LLC",
+      "subtitle": "Tweaked with CydiaSubstrate, StopReviews",
+      "version": "1.1.2",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Al Language Tutor_v1.1.2_tg@Sa1y0miii.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\n---\nLooking to improve your language skills and speak fluently like a native? Look no further than Fluently, your ultimate AI language practicing and learning app.\n\nWith Fluently, you can practice with 20+ AI language partners and engage in real-life based conversations and scenarios with instant feedback on your mistakes. Whether you're looking to practice daily speaking, improve your speaking skills, or engage in language exchange with native speakers, Fluently has you covered.\n\nPractice speaking",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/ee/ab/42eeab70-8f65-c52e-824f-7324a34d319e/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 33341792,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/e6/82/79e682b0-0a83-b4de-f01b-e72b64e9d7cd/3dc39309-0474-4374-bec4-e0df71be9c7b_Slice_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/75/3a/1d753ac0-92c5-1aae-0126-98701fc5747e/2c216312-bb59-494c-9b9c-4f2d99f0726d_Slice_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/a3/71/5ba37185-6175-db4e-7e49-82cd95da395c/cfd8aa8d-e08e-461c-956c-3ca9f19f5a20_Slice_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/62/ea/9262ea99-b8e5-7c60-47a0-66bc76e97fe5/e5e8c7a8-976f-4318-b511-0f4550e5ae3b_Slice_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/97/e5/f597e5c0-64d9-bead-7789-5086d8bd883d/ee1d981e-f698-4966-a610-c53329375e9f_Slice_5.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "We need access to your microphone to provide voice input functionality during conversations. Your microphone will only be used when you choose to speak to the AI by tapping the microphone button.",
+          "NSSpeechRecognitionUsageDescription": "We need access to speech recognition to provide voice input functionality during conversations. It will only be used when you choose to speak to the AI by tapping the microphone button."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.1.2",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Al Language Tutor_v1.1.2_tg@Sa1y0miii.ipa",
+          "size": 33341792
+        }
+      ],
+      "category": "education"
+    },
+    {
       "name": "Flux",
       "bundleIdentifier": "com.jessejanderson.fluxapp",
       "developerName": "Jesse J. Anderson",
@@ -26660,14 +26733,14 @@
       "bundleIdentifier": "com.google.Maps",
       "developerName": "Google",
       "subtitle": "Google Maps for iOS",
-      "version": "6.53.0",
-      "versionDate": "2026-02-28",
+      "version": "26.24.1",
+      "versionDate": "2026-06-16",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Google.Maps-6.53.0.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.google.Maps-26.24.1-eeveedecrypter.ipa",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nExplore and navigate the world with confidence using Google Maps. Find the best routes with live traffic data and real-time GPS navigation for driving, walking, cycling, and public transport. Discover over 250 million businesses and places - from restaurants and shops to everyday essentials – with photos, reviews, and helpful information.\n\nNavigate the world, the way you want:\n• Get to where you need to go with fuel-efficient route options\n• Find the best route with real-time, turn-by-turn voice",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/21/79/b2217900-7bd2-c3f3-caa3-6c8a3c58119b/maps-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/0a/68/510a68b4-e133-3e4e-e139-68353814fb5f/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 67299967,
+      "size": 172718526,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -26689,11 +26762,11 @@
       },
       "versions": [
         {
-          "version": "6.53.0",
-          "date": "2026-02-28",
+          "version": "26.24.1",
+          "date": "2026-06-16",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Google.Maps-6.53.0.ipa",
-          "size": 67299967
+          "downloadURL": "https://telos.ftp.sh/ipas/com.google.Maps-26.24.1-eeveedecrypter.ipa",
+          "size": 172718526
         }
       ],
       "category": "navigation"
@@ -32006,15 +32079,15 @@
       "name": "Instagram [Regram]",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram, Inc.",
-      "subtitle": "Tweaked with Beegram, CydiaSubstrate",
-      "version": "434.0.0",
+      "subtitle": "Tweaked with Regram, RegramExtension",
+      "version": "426.0.0",
       "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: Beegram, CydiaSubstrate, RegramExtension, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@igbeta_ipa]_434.0.0_BE.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: Beegram, CydiaSubstrate, RegramExtension, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
+      "versionDescription": "Tweaks: Regram, RegramExtension\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Instagram-426-Regram_patch_zarzel.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Regram, RegramExtension\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/27/d5/0827d502-4f9c-106e-9086-63fbfef56ca6/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 304635174,
+      "size": 303378155,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/c5/c7/b9c5c720-07ca-29c7-a67f-8fd2e2cd2b72/2_iOS_5.5.jpg/392x696bb.jpg",
@@ -32056,11 +32129,11 @@
       },
       "versions": [
         {
-          "version": "434.0.0",
+          "version": "426.0.0",
           "date": "2026-06-16",
-          "localizedDescription": "Tweaks: Beegram, CydiaSubstrate, RegramExtension, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/[TG@igbeta_ipa]_434.0.0_BE.ipa",
-          "size": 304635174
+          "localizedDescription": "Tweaks: Regram, RegramExtension\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Instagram-426-Regram_patch_zarzel.ipa",
+          "size": 303378155
         }
       ],
       "category": "photo-&-video"
@@ -34498,14 +34571,14 @@
       "bundleIdentifier": "de.komoot.berlinbikeapp",
       "developerName": "komoot GmbH",
       "subtitle": "Tweaked with CydiaSubstrate, KomootPatch",
-      "version": "2026.13.4",
-      "versionDate": "2026-06-14",
-      "versionDescription": "Tweaks: CydiaSubstrate, KomootPatch, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/komoot Premium 2026.13.4.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, KomootPatch, SideloadSpoofer-08\n\nkomoot - hike, bike & run\n\n---\nTurn your next ride, hike, or run into an adventure with komoot. Get inspired by tapping into shared community knowledge and recommendations, then bring your adventures to life with the easy route planner.\n\nPLAN YOUR PERFECT HIKING, MOUNTAIN BIKING OR ROAD CYCLING ADVENTURE\nGet the route perfect for your sport—be it smooth asphalt for your road bike, singletracks for your mountain bike, silent cycling paths for touring or natural trails for your hikes. Plan down to the last detail with at-your-f",
+      "version": "2026.24.1",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: CydiaSubstrate, KomootPatch, SideloadSpoofer-08, blatantsPatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/komoot Premium 2026.24.1.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, KomootPatch, SideloadSpoofer-08, blatantsPatch\n\nkomoot - hike, bike & run\n\n---\nTurn your next ride, hike, or run into an adventure with komoot. Get inspired by tapping into shared community knowledge and recommendations, then bring your adventures to life with the easy route planner.\n\nPLAN YOUR PERFECT HIKING, MOUNTAIN BIKING OR ROAD CYCLING ADVENTURE\nGet the route perfect for your sport—be it smooth asphalt for your road bike, singletracks for your mountain bike, silent cycling paths for touring or natural trails for your hikes. Plan down to the last detail with at-your-f",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/93/95/c593950b-b171-98fc-829e-902106458a4d/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 111675847,
+      "size": 108232256,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/32/af/3132af68-9df0-16da-1363-93f88fb557da/89f34834-4833-45bc-8093-bcb0e22b3cd2_1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/e8/b5/20e8b5ed-b6c0-7428-6a99-61ffa02f473d/9f169a8e-07fd-4379-80b9-358ddc3b989c_2.jpg/576x768bb.jpg",
@@ -34540,11 +34613,11 @@
       },
       "versions": [
         {
-          "version": "2026.13.4",
-          "date": "2026-06-14",
-          "localizedDescription": "Tweaks: CydiaSubstrate, KomootPatch, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/komoot Premium 2026.13.4.ipa",
-          "size": 111675847
+          "version": "2026.24.1",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: CydiaSubstrate, KomootPatch, SideloadSpoofer-08, blatantsPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/komoot Premium 2026.24.1.ipa",
+          "size": 108232256
         }
       ],
       "category": "health-&-fitness"
@@ -43979,14 +44052,14 @@
       "bundleIdentifier": "fun.ask",
       "developerName": "NGL Labs, LLC",
       "subtitle": "Tweaked with CydiaSubstrate, autoRevenuecat 3",
-      "version": "6.2.107",
+      "version": "6.2.106",
       "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: CydiaSubstrate, autoRevenuecat 3\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/NGL-6.2.107.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, autoRevenuecat 3\n\nNGL\n\n---\nHow to use NGL:\n1. Share your NGL Link\n2. Friends answer right on your story\n3. Get responses on NGL\n\nTo ensure the safety of our users, NGL leverages Hive Moderation’s automated moderation solution as the first line of defense to scan messages for inappropriate content.\n\n-\n\nNGL Pro members have access to:\n- Exclusive access to Pro games\n- Hints about who sent each of their messages\n- Early access to new features\n\nNGL Pro is a paid renewable subscription.\n\n-\n\nTerms of service:\nPrivacy policy:",
+      "versionDescription": "Tweaks: CydiaSubstrate, autoRevenuecat 3\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/NGL-6.2.106.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, autoRevenuecat 3\n\n---\nHow to use NGL:\n1. Share your NGL Link\n2. Friends answer right on your story\n3. Get responses on NGL\n\nTo ensure the safety of our users, NGL leverages Hive Moderation’s automated moderation solution as the first line of defense to scan messages for inappropriate content.\n\n-\n\nNGL Pro members have access to:\n- Exclusive access to Pro games\n- Hints about who sent each of their messages\n- Early access to new features\n\nNGL Pro is a paid renewable subscription.\n\n-\n\nTerms of service:\nPrivacy policy:",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/db/3c/f8db3c70-b46d-6107-d6f0-d640627b1f91/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 118734878,
+      "size": 118340956,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/75/97/bc759778-e2dd-82fa-10bc-47f3895e9dd6/1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/39/9d/1c399de4-a860-db01-9a22-ad8915be40f9/2.png/392x696bb.png",
@@ -44009,11 +44082,11 @@
       },
       "versions": [
         {
-          "version": "6.2.107",
+          "version": "6.2.106",
           "date": "2026-06-16",
-          "localizedDescription": "Tweaks: CydiaSubstrate, autoRevenuecat 3\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/NGL-6.2.107.ipa",
-          "size": 118734878
+          "localizedDescription": "Tweaks: CydiaSubstrate, autoRevenuecat 3\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/NGL-6.2.106.ipa",
+          "size": 118340956
         }
       ],
       "category": "lifestyle"
@@ -44266,15 +44339,15 @@
       "name": "No Fusion",
       "bundleIdentifier": "com.grey.swiftcamera",
       "developerName": "Raster Field Co., Ltd.",
-      "subtitle": "Tweaked with NoFusionPowerfulProCamPatch",
-      "version": "2.5.53",
-      "versionDate": "2026-06-11",
-      "versionDescription": "Tweaks: NoFusionPowerfulProCamPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/No Fusion Pro 2.5.53.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: NoFusionPowerfulProCamPatch\n\nNo Fusion-Powerful Pro Cam\n\n---\nUnlock all the possibilities of your iPhone camera.\nRemove the over-sharpen, and bring you the natural photos.\nLive Photo and Portrait Mode? We have you covered.\nNo Fusion supports shooting Live Photo and Portrait Mode in any format.\nFilm simulation, multiple recipes built-in.\nIn manual mode, try every setting you want.\nTerms of Use:",
+      "subtitle": "Tweaked with NoFusion, blatantsPatch",
+      "version": "2.5.54",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: NoFusion, blatantsPatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/No_Fusion_Powerful_Pro_Cam_v2_5_54_Pro_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: NoFusion, blatantsPatch\n\n---\nUnlock all the possibilities of your iPhone camera.\nRemove the over-sharpen, and bring you the natural photos.\nLive Photo and Portrait Mode? We have you covered.\nNo Fusion supports shooting Live Photo and Portrait Mode in any format.\nFilm simulation, multiple recipes built-in.\nIn manual mode, try every setting you want.\nTerms of Use:",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/36/cf/7136cfb5-c73f-49f4-8ff4-0c29caba8e3b/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 107076919,
+      "size": 112886057,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -44292,11 +44365,11 @@
       },
       "versions": [
         {
-          "version": "2.5.53",
-          "date": "2026-06-11",
-          "localizedDescription": "Tweaks: NoFusionPowerfulProCamPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/No Fusion Pro 2.5.53.ipa",
-          "size": 107076919
+          "version": "2.5.54",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: NoFusion, blatantsPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/No_Fusion_Powerful_Pro_Cam_v2_5_54_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 112886057
         }
       ],
       "category": "photo-&-video"
@@ -45062,14 +45135,14 @@
       "bundleIdentifier": "nutrition.coach",
       "developerName": "Eclipse Studios",
       "subtitle": "Tweaked with NutriCoach, blatantsPatch",
-      "version": "2.1.0",
-      "versionDate": "2026-06-12",
+      "version": "2.1.1",
+      "versionDate": "2026-06-16",
       "versionDescription": "Tweaks: NutriCoach, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NutriCoach, blatantsPatch\n\nNutrition Coach: Food tracker\n\n---\nEffortless calories counter, customized meals plan, and delicious recipes. Loose or gain weight in a sustainable way to achieve your objective.\n\nNutrition Coach is the result of 3 years of work by a team of passionate nutritionists. Our programs and calorie counter have been tested for months and approved with visible and sustainable results.\n\nHave you ever experienced a very restrictive diet almost impossible to sustain for more than a couple of days?\nHave you ever experienced weight loss follo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/11/b3/1511b3e4-a114-2d56-8fbf-d60a8807e2ea/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 73173884,
+      "size": 73173992,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5c/7d/c65c7d42-9758-a9f6-b97b-864d52e346df/41392711-be29-4b4a-81aa-f2631d6bffd1_Nutricoach-screenshot-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/21/c6/9221c666-c6e9-cb68-430d-b07e70d8dce5/5f6ea8ed-ee1c-4a9c-9ac4-98f42fce78d0_Nutricoach-screenshot-02.jpg/392x696bb.jpg",
@@ -45094,11 +45167,11 @@
       },
       "versions": [
         {
-          "version": "2.1.0",
-          "date": "2026-06-12",
+          "version": "2.1.1",
+          "date": "2026-06-16",
           "localizedDescription": "Tweaks: NutriCoach, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_0_Subscription_Unlocked_blatant.ipa",
-          "size": 73173884
+          "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_1_Subscription_Unlocked_blatant.ipa",
+          "size": 73173992
         }
       ],
       "category": "health-&-fitness"
@@ -45163,6 +45236,42 @@
           "localizedDescription": "Source: @thescholarslounge",
           "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-0.1.0.ipa",
           "size": 31433500
+        }
+      ],
+      "category": "health-&-fitness"
+    },
+    {
+      "name": "Nuvio",
+      "bundleIdentifier": "com.nuvio.hub",
+      "developerName": "RGN VENTURES LTD",
+      "subtitle": "Nuvio for iOS",
+      "version": "1.4.2",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stable_1-4-2.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nNuvio – Master Your Cold Plunge Routine\nTake control of your recovery like never before. The Nuvio app seamlessly connects to your Recovery Chiller, giving you full command over your cold plunge experience—anytime, anywhere. No ice. No hassle. Just cold, clean performance on your schedule.\nPERSONALIZED CONTROL. PEAK PERFORMANCE.\nDial in your perfect temperature, schedule sessions in advance, activate purification, and monitor your plunge history—all from your phone. Nuvio is designed to fit your",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 38765502,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains"
+        ],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "This app does not require microphone access.",
+          "NSLocalNetworkUsageDescription": "Nuvio uses the local network to discover Cast-enabled devices on your WiFi network and to connect to local media servers."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.4.2",
+          "date": "2026-06-16",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Stable_1-4-2.ipa",
+          "size": 38765502
         }
       ],
       "category": "health-&-fitness"
@@ -49073,20 +49182,21 @@
       "name": "Photoroom",
       "bundleIdentifier": "com.dr1ven.eraser",
       "developerName": "Photoroom",
-      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2026.25.01",
+      "subtitle": "Tweaked with Photoroom, blatantsPatch",
+      "version": "2026.25.02",
       "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.25.01-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPhotoroom: AI Photo Editor\n\n---\nPhotoroom is the ultimate AI-powered photo editing app, trusted by over 300 million users.\n\nCreate studio-quality product photos in seconds with Photoroom’s advanced AI photo editing technology. No design skills required.\n\nWHY CHOOSE PHOTOROOM?\n\nENHANCE PRODUCT LISTINGS. Showcase clothing on virtual models, ghost mannequins, and flat lay. No studio required.\n\nREMOVE, REPLACE, AND RECOLOR. Remove backgrounds, swap for AI-generated edits, and recolor products in seconds.\n\nSAVE TIME WITH BATCH EDIT",
+      "versionDescription": "Tweaks: Photoroom, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Photoroom_AI_Photo_Editor_v2026_25_02_Max_Subscription_Unlocked.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Photoroom, blatantsPatch\n\nPhotoroom: AI Photo Editor\n\n---\nPhotoroom is the ultimate AI-powered photo editing app, trusted by over 300 million users.\n\nCreate studio-quality product photos in seconds with Photoroom’s advanced AI photo editing technology. No design skills required.\n\nWHY CHOOSE PHOTOROOM?\n\nENHANCE PRODUCT LISTINGS. Showcase clothing on virtual models, ghost mannequins, and flat lay. No studio required.\n\nREMOVE, REPLACE, AND RECOLOR. Remove backgrounds, swap for AI-generated edits, and recolor products in seconds.\n\nSAVE TIME WITH BATCH EDIT",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/65/e0/2165e04b-567a-cf7d-1dcb-a2fc8ab699e9/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 165829894,
+      "size": 176559728,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
           "com.apple.developer.usernotifications.communication",
           "com.apple.developer.applesignin",
+          "com.apple.developer.kernel.extended-virtual-addressing",
           "com.apple.developer.kernel.increased-memory-limit",
           "aps-environment",
           "com.apple.developer.associated-domains",
@@ -49102,11 +49212,11 @@
       },
       "versions": [
         {
-          "version": "2026.25.01",
+          "version": "2026.25.02",
           "date": "2026-06-16",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.25.01-riftysipas.ipa",
-          "size": 165829894
+          "localizedDescription": "Tweaks: Photoroom, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Photoroom_AI_Photo_Editor_v2026_25_02_Max_Subscription_Unlocked.ipa",
+          "size": 176559728
         }
       ],
       "category": "photo-&-video"
@@ -58077,6 +58187,45 @@
       "category": "productivity"
     },
     {
+      "name": "SideStore",
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "developerName": "Download Apps",
+      "subtitle": "SideStore for iOS",
+      "version": "0.6.3",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/SideStore 2.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nDownload and browse files and documents on your iPhone, iPod or iPad like on your computer.\nNo limits on storage or downloads!\n\n√ Full-featured Download Manager\nAuto-correct file name, fast speed, safe pause and resume downloads. Background modes support.\n\n√ Web-browser like Safari with bookmarks\nTap and hold to start download, or simply click the link. Private browsing by default. Multiple tabs. Custom search engine and user-agent. Favourites grid.\n\n√ File Manager\nEdit files, organize files in",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/08/88/f1/0888f1e3-da8d-9c44-187a-dee92acdf2e7/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 28632252,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/8a/6c/02/8a6c0299-dccc-51f6-95e0-23ea9f8ff6cc/mzl.yfbkjifp.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f8/a9/b1/f8a9b1f3-8600-df44-5b0d-b038d6f4d47e/mzl.uwakbdhi.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f7/09/62/f70962f0-e297-e6dd-4803-d36dde6ffd82/mzl.hgelrktx.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/67/01/ae/6701aea2-7bfb-8ab7-134a-9548bfe4884e/mzl.vcajfwck.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f1/11/c4/f111c4b2-17b2-9075-fbec-5753e1208098/mzl.sfrhhzyb.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "SideStore uses the local network to find and communicate with your device."
+        }
+      },
+      "versions": [
+        {
+          "version": "0.6.3",
+          "date": "2026-06-16",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/SideStore 2.ipa",
+          "size": 28632252
+        }
+      ],
+      "category": "utilities"
+    },
+    {
       "name": "Signal",
       "bundleIdentifier": "org.whispersystems.signal",
       "developerName": "Signal Messenger, LLC",
@@ -59853,15 +60002,15 @@
       "name": "SnoreLab",
       "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
       "developerName": "Reviva Softworks Ltd",
-      "subtitle": "Tweaked with SatellaJailed, Sideloadbypass1",
-      "version": "6.3",
-      "versionDate": "2026-06-14",
-      "versionDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab : Record Your Snoring-v6.3-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSnoreLab : Record Your Snoring\n\n---\nThe most popular and innovative app of its kind, SnoreLab records, measures and tracks your snoring and helps you to discover effective ways to reduce it.\n\nSnoreLab has monitored more than 50 million nights of sleep and has helped millions of people to better understand or even eliminate their snoring problem.\n\nThe app is very easy to use: simply set SnoreLab running next to your bed whilst you sleep. In the morning you will discover your Snore Score, exactly when and how loudly you snored, and",
+      "subtitle": "Tweaked with SnoreLab, blatantsPatch",
+      "version": "6.3.8",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab_Record_Your_Snoring_v6_3_8_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSnoreLab : Record Your Snoring\n\n---\nThe most popular and innovative app of its kind, SnoreLab records, measures and tracks your snoring and helps you to discover effective ways to reduce it.\n\nSnoreLab has monitored more than 50 million nights of sleep and has helped millions of people to better understand or even eliminate their snoring problem.\n\nThe app is very easy to use: simply set SnoreLab running next to your bed whilst you sleep. In the morning you will discover your Snore Score, exactly when and how loudly you snored, and",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/8e/11/568e118f-f5cf-acde-89ba-c930d18b6b29/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 153980529,
+      "size": 158522052,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -59882,11 +60031,11 @@
       },
       "versions": [
         {
-          "version": "6.3",
-          "date": "2026-06-14",
-          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab : Record Your Snoring-v6.3-riftysipas.ipa",
-          "size": 153980529
+          "version": "6.3.8",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab_Record_Your_Snoring_v6_3_8_Subscription_Unlocked_blatant.ipa",
+          "size": 158522052
         }
       ],
       "category": "medical"
@@ -61748,18 +61897,18 @@
       "category": "sports"
     },
     {
-      "name": "SpotiFLAC",
+      "name": "SpotiFLAC Mobile",
       "bundleIdentifier": "com.zarz.spotiflacAndroid",
-      "developerName": "Stanislav Minchev",
-      "subtitle": "SpotiFLAC for iOS",
-      "version": "4.2.1",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/SpotiFLAC-v4.2.1-ios-unsigned.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nSpotiFLAC\n\n---\nListen offline, everywhere—no limits.\nImport your tracks in seconds, craft the perfect playlist, and enjoy studio-quality sound even without an internet connection.\n\nWhy you’ll love Offline Music Player\nTotal control of your library\nAuto-organises songs by artist, album and title. Lightning-fast search helps you locate any track in moments—by name, artist or genre.\n\nUnlimited playlists\nCreate as many playlists as you want, sort them your way, and browse ready-made mixes for every mood or activit",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/1f/2f/8f1f2f3e-f8dd-0cb2-486c-f31bd447e9ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "developerName": "Visible Service, LLC",
+      "subtitle": "SpotiFLAC Mobile for iOS",
+      "version": "4.5.6",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/SpotiFLAC-v4.5.6-ios-unsigned.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nThe Visible app makes managing your service easy - you can make a payment, upgrade your plan and get 24/7 assistance in just a few taps. Here’s a glimpse of what else you can do in the app:\n\nJoin Visible\n· Shop phones & wearables\n· Bring your own device\n· Explore Visible and Visible+ plans\n· Get paid to trade in your phone\n· Get a new phone on us with “Visible Payback”\n\nActivate and Port\n· Activate with eSIM or physical SIM card\n· Transfer your phone number from another carrier\n· Switch your ser",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/f4/59/cdf459ef-85d3-0856-8e28-fd6171768cc3/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 34584653,
+      "size": 34059797,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/d1/20/f0d120d0-fa25-248e-e2f8-b45fd73f47ed/Apple-SE-Account-5.5.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/a0/d7/7aa0d7c2-2b24-2906-f445-e6f9645c8d78/Apple-SE-Shop-5.5.jpg/392x696bb.jpg",
@@ -61770,16 +61919,16 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSPhotoLibraryUsageDescription": "SpotiFLAC needs access to save album artwork"
+          "NSPhotoLibraryUsageDescription": "SpotiFLAC Mobile needs access to save album artwork"
         }
       },
       "versions": [
         {
-          "version": "4.2.1",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/SpotiFLAC-v4.2.1-ios-unsigned.ipa",
-          "size": 34584653
+          "version": "4.5.6",
+          "date": "2026-06-16",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/SpotiFLAC-v4.5.6-ios-unsigned.ipa",
+          "size": 34059797
         }
       ],
       "category": "utilities"
@@ -67572,25 +67721,49 @@
       "name": "Threads",
       "bundleIdentifier": "com.burbn.barcelona",
       "developerName": "Instagram, Inc.",
-      "subtitle": "Threads for iOS",
-      "version": "429.0.0",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.burbn.barcelona-429.0-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nDiscover new perspectives and connect through conversation on Threads.\n\nSee what people are talking about right now—from niche interests to big moments. With communities, you can find people who also care about your interests on Threads. Reply, listen, share or just follow along.\n\nHere’s what you can do on Threads:\n\n■ Start a thread, share your take\nHave something on your mind? Take it to Threads. Share a thought, ask a question or open up a conversation. There’s more than one way to kick things",
+      "subtitle": "Tweaked with Sideloadbypass1, Sideloadbypass2",
+      "version": "431.0.0",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, ThreadSaver, blatantsPatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Threads_431.0.0_ThreadSaver.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2, ThreadSaver, blatantsPatch\n\n---\nDiscover new perspectives and connect through conversation on Threads.\n\nSee what people are talking about right now—from niche interests to big moments. With communities, you can find people who also care about your interests on Threads. Reply, listen, share or just follow along.\n\nHere’s what you can do on Threads:\n\n■ Start a thread, share your take\nHave something on your mind? Take it to Threads. Share a thought, ask a question or open up a conversation. There’s more than one way to kick things",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/8d/03/828d0384-e59f-86a9-6d60-7d9d99ce7a82/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 93700072,
+      "size": 95855801,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
-          "com.apple.developer.associated-appclip-app-identifiers",
-          "com.apple.developer.declared-age-range",
-          "aps-environment",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.associated-domains",
+          "com.apple.developer.avfoundation.multitasking-camera-access",
+          "com.apple.developer.networking.wifi-info",
           "com.apple.security.application-groups",
-          "com.apple.developer.usernotifications.communication"
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.authentication-services.autofill-credential-provider",
+          "com.apple.developer.ClassKit-environment",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.access",
+          "com.apple.developer.homekit",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.icloud-container-development-container-identifiers",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "inter-app-audio",
+          "com.apple.developer.networking.multipath",
+          "com.apple.developer.networking.networkextension",
+          "com.apple.developer.nfc.readersession.formats",
+          "aps-environment",
+          "com.apple.developer.siri",
+          "com.apple.external-accessory.wireless-configuration",
+          "com.apple.developer.coremedia.hls.low-latency",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.healthkit.recalibrate-estimates",
+          "com.apple.developer.weatherkit",
+          "com.apple.developer.kernel.increased-debugging-memory-limit",
+          "com.apple.developer.game-center",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.healthkit.background-delivery",
+          "com.apple.developer.user-fonts",
+          "com.apple.developer.applesignin"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "This lets you share photos from your library and save photos to your Camera Roll.",
@@ -67606,11 +67779,11 @@
       },
       "versions": [
         {
-          "version": "429.0.0",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.burbn.barcelona-429.0-eeveedecrypter.ipa",
-          "size": 93700072
+          "version": "431.0.0",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, ThreadSaver, blatantsPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Threads_431.0.0_ThreadSaver.ipa",
+          "size": 95855801
         }
       ],
       "category": "social-networking"
@@ -67850,15 +68023,15 @@
       "name": "Tiimo",
       "bundleIdentifier": "com.tiimo.app",
       "developerName": "tiimo",
-      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.48.0",
-      "versionDate": "2026-06-14",
-      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tiimo: AI Plan, Focus & To-do-v3.48.0-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nTiimo: AI Plan, Focus & To-do\n\n---\niPhone App of the Year 2025\n Apple Design Awards Finalist 2024\n Best Assistive Technology 2022 (Neurodiversity Awards)\n 3+ Million downloads worldwide\n\nMeet Tiimo: Your AI planning partner that simplifies executive function, focus and productivity.\n\nWhether you are building routines, navigating time agnosia, or just trying to make it through a busy week, Tiimo helps reduce mental load and makes it easier to follow through. Planning becomes something that supports you, not something that drains y",
+      "subtitle": "Tweaked with RevenueCatFix26",
+      "version": "3.50.0",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tiimo Pro 3.50.0.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26\n\nThis just crashes whenever I login using paid cert with feather\n\n---\niPhone App of the Year 2025\n Apple Design Awards Finalist 2024\n Best Assistive Technology 2022 (Neurodiversity Awards)\n 3+ Million downloads worldwide\n\nMeet Tiimo: Your AI planning partner that simplifies executive function, focus and productivity.\n\nWhether you are building routines, navigating time agnosia, or just trying to make it through a busy week, Tiimo helps reduce mental load and makes it easier to follow through. Planning becomes something that supports you, not something that drains y",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/d5/57/a7d5573f-35ca-9504-0d59-a93013f3d5f2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 95186819,
+      "size": 94140006,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -67886,11 +68059,11 @@
       },
       "versions": [
         {
-          "version": "3.48.0",
-          "date": "2026-06-14",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tiimo: AI Plan, Focus & To-do-v3.48.0-riftysipas.ipa",
-          "size": 95186819
+          "version": "3.50.0",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Tiimo Pro 3.50.0.ipa",
+          "size": 94140006
         }
       ],
       "category": "productivity"
@@ -67899,15 +68072,15 @@
       "name": "TikTok",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok Ltd.",
-      "subtitle": "TikTok for iOS",
-      "version": "42.7.0",
-      "versionDate": "2026-03-01",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/TikTok-42.7.0.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nNext time pay for Eevee Decrypter\n\n---\nTikTok is the global discovery platform for videos, streaming on LIVE, shopping, and more. Our mission is to inspire creativity and bring joy. Over a billion people come to TikTok to share what they love, learn new things, and find ideas that make everyday life more interesting.\n\nYour experience on TikTok is built around what you're into, not who you know. Just watch, like, and scroll to discover videos, creators, and communities you are delighted to discover. From quick recipes to game highligh",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7c/c0/7e7cc0ef-43f4-ee30-70da-a70aab7fa814/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "subtitle": "Tweaked with FLEX, FLEXing",
+      "version": "43.9.0",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: FLEX, FLEXing, ___RXTikTok, substrate\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/RXTikTok-v1.6.6_43.9.0_patch_zarzel.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: FLEX, FLEXing, ___RXTikTok, substrate\n\nRXTikTok has been cracked\n\n---\nTikTok is the global discovery platform for videos, streaming on LIVE, shopping, and more. Our mission is to inspire creativity and bring joy. Over a billion people come to TikTok to share what they love, learn new things, and find ideas that make everyday life more interesting.\n\nYour experience on TikTok is built around what you're into, not who you know. Just watch, like, and scroll to discover videos, creators, and communities you are delighted to discover. From quick recipes to game highligh",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c5/9f/6bc59f11-c2c3-1009-e18b-0033c4ef4d61/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 354074753,
+      "size": 361489053,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/392x696bb.png",
@@ -67917,15 +68090,16 @@
       ],
       "appPermissions": {
         "entitlements": [
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.group-session",
           "aps-environment",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.siri",
           "com.apple.developer.applesignin",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.declared-age-range",
+          "com.apple.developer.group-session",
           "com.apple.developer.kernel.extended-virtual-addressing",
           "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.siri",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
           "com.apple.security.application-groups"
         ],
         "privacy": {
@@ -67946,11 +68120,11 @@
       },
       "versions": [
         {
-          "version": "42.7.0",
-          "date": "2026-03-01",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/TikTok-42.7.0.ipa",
-          "size": 354074753
+          "version": "43.9.0",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: FLEX, FLEXing, ___RXTikTok, substrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/RXTikTok-v1.6.6_43.9.0_patch_zarzel.ipa",
+          "size": 361489053
         }
       ],
       "category": "entertainment"
@@ -70584,15 +70758,15 @@
       "name": "Twitch",
       "bundleIdentifier": "tv.twitch",
       "developerName": "Twitch Interactive, Inc.",
-      "subtitle": "Twitch for iOS",
-      "version": "29.3",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/tv.twitch-29.3-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nTwitch is where thousands of communities come together for our favorite streamers, for the games we love, for the lulz, for each other, for whatever. Download Twitch and join millions enjoying live games, music, sports, esports, podcasts, cooking shows, IRL streams, and whatever else crosses our community’s wonderfully absurd minds. We’ll see you in chat.\n\nHere’s a convenient list of other awesome things about Twitch:\n\nEveryone is “about” community. We actually are one: Whatever you nerd out abo",
+      "subtitle": "Tweaked with tweak",
+      "version": "29.7",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: tweak\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Twitch_29.7_TwitchControl_0.0.5.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: tweak\n\n---\nTwitch is where thousands of communities come together for our favorite streamers, for the games we love, for the lulz, for each other, for whatever. Download Twitch and join millions enjoying live games, music, sports, esports, podcasts, cooking shows, IRL streams, and whatever else crosses our community’s wonderfully absurd minds. We’ll see you in chat.\n\nHere’s a convenient list of other awesome things about Twitch:\n\nEveryone is “about” community. We actually are one: Whatever you nerd out abo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/ff/a3/13ffa38f-fd46-e714-6b78-8b011f398817/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 149871984,
+      "size": 148762857,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/48/80/234880cc-db04-7d86-a3d5-70a0b46d6896/37b30cee-8c44-4162-944b-4def125308cf_01-1242x2208.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/aa/4e/60aa4eec-76de-e4dd-77b6-390b4bd323f7/121623e7-1287-49f0-9ea7-068ffc760e1f_02-1242x2208.jpg/392x696bb.jpg",
@@ -70622,11 +70796,11 @@
       },
       "versions": [
         {
-          "version": "29.3",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/tv.twitch-29.3-eeveedecrypter.ipa",
-          "size": 149871984
+          "version": "29.7",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: tweak\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Twitch_29.7_TwitchControl_0.0.5.ipa",
+          "size": 148762857
         }
       ],
       "category": "photo-&-video"
@@ -74931,6 +75105,44 @@
       "category": "games"
     },
     {
+      "name": "Where Winds Meet ",
+      "bundleIdentifier": "com.netease.yysls",
+      "developerName": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD",
+      "subtitle": "Tweaked with CydiaSubstrate, WhereWindsMeet",
+      "version": "15.0.7",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: CydiaSubstrate, WhereWindsMeet\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Where Winds Meet - KamoHacks [15.0.7].ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, WhereWindsMeet\n\n---\nStep into an open-world action-adventure RPG set in ancient China. Uncover the secrets of your own identity as you rise from a humble village wanderer to the sword master of the imperial capital. Learn martial arts and build your reputation as a hero or a bringer of chaos in this free wuxia world.\n\nJianghu knows no bounds. Play free across PS5, PC, and mobile with full cross-play and cross-progression. No pay-to-win.\nGameplay content is entirely free, with monetization limited to cosmetic items.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/6e/3a/126e3a6a-9e42-d2c9-650d-29beb6ee3544/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 3448838963,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "\"Where Winds Meet\" will use your storage to save or upload in-game screenshots and videos",
+          "NSCameraUsageDescription": "\"Where Winds Meet\" will use your camera for scanning QR codes (including login, payment, sharing, following, and character binding), intelligent character customization, taking photos, or recording videos",
+          "NSMicrophoneUsageDescription": "\"Where Winds Meet\" will use your microphone for voice messages, real-time voice chat, intelligent teammate voice, voice red packets, or voice-based character customization",
+          "NSLocationWhenInUseUsageDescription": "\"Where Winds Meet\" will use your network during gameplay",
+          "NSSpeechRecognitionUsageDescription": "\"Where Winds Meet\" will use your microphone for voice messages, real-time voice chat, intelligent teammate voice, voice red packets, or voice-based character customization",
+          "NSLocalNetworkUsageDescription": "\"Where Winds Meet\" will use your network during gameplay",
+          "NSUserTrackingUsageDescription": "Your data will be used to enhance your gaming experience, and you can revoke this authorization at any time in the settings",
+          "NSPhotoLibraryAddUsageDescription": "\"Where Winds Meet\" will use your storage to save or upload in-game screenshots and videos"
+        }
+      },
+      "versions": [
+        {
+          "version": "15.0.7",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: CydiaSubstrate, WhereWindsMeet\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Where Winds Meet - KamoHacks [15.0.7].ipa",
+          "size": 3448838963
+        }
+      ],
+      "category": "games"
+    },
+    {
       "name": "Whisper",
       "bundleIdentifier": "com.goodsnooze.MacWhisper",
       "developerName": "Good Snooze",
@@ -75921,14 +76133,14 @@
       "bundleIdentifier": "com.sbs.train",
       "developerName": "Stronger By Science Technologies LLC",
       "subtitle": "Tweaked with MacroFactorWorkouts, blatantsPatch",
-      "version": "1.2.0",
-      "versionDate": "2026-06-03",
-      "versionDescription": "Tweaks: MacroFactorWorkouts, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/MacroFactor_Workouts_Tracker_v1_2_0_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MacroFactorWorkouts, blatantsPatch\n\nMacroFactor Workouts - Tracker\n\n---\nMacroFactor Workouts combines innovative coaching algorithms with science-based workout routines customized to your goals, fitness level, and gym equipment.\n\nEffortlessly track your strength training routines with an intuitive workout planner, and easily monitor your PRs and progress with charts and data insights.\n\nMacroFactor Workouts uses progressive overload to automatically adjust your strength training workouts based on your progress, helping you break through plateaus and reach your fitnes",
+      "version": "1.1.8",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: MacroFactorWorkouts, blatantsPatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/MacroFactor_Workouts_Tracker_v1_1_8_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: MacroFactorWorkouts, blatantsPatch\n\n---\nMacroFactor Workouts combines innovative coaching algorithms with science-based workout routines customized to your goals, fitness level, and gym equipment.\n\nEffortlessly track your strength training routines with an intuitive workout planner, and easily monitor your PRs and progress with charts and data insights.\n\nMacroFactor Workouts uses progressive overload to automatically adjust your strength training workouts based on your progress, helping you break through plateaus and reach your fitnes",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/a5/39/90a539fe-f1d6-f851-63fc-f2fe6bb91dd3/WorkoutsAppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 202663064,
+      "size": 186577857,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -75952,11 +76164,11 @@
       },
       "versions": [
         {
-          "version": "1.2.0",
-          "date": "2026-06-03",
-          "localizedDescription": "Tweaks: MacroFactorWorkouts, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/MacroFactor_Workouts_Tracker_v1_2_0_Subscription_Unlocked_blatant.ipa",
-          "size": 202663064
+          "version": "1.1.8",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: MacroFactorWorkouts, blatantsPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/MacroFactor_Workouts_Tracker_v1_1_8_Subscription_Unlocked_blatant.ipa",
+          "size": 186577857
         }
       ],
       "category": "health-&-fitness"
@@ -76399,14 +76611,14 @@
       "bundleIdentifier": "com.yazio.ios.YAZIO",
       "developerName": "YAZIO",
       "subtitle": "Tweaked with Yazio, blatantsPatch",
-      "version": "12.89.0",
+      "version": "12.85.1",
       "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v12_89_0_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Yazio, blatantsPatch\n\nAI Calorie Tracker by Yazio\n\n---\nWelcome to Yazio, the most effective AI calorie tracker, intermittent fasting app and food tracker for losing weight without dieting!\n\nTrack calories, eat better and reach your goals with Yazio’s free calorie counter app!\nYazio is your all-in-one solution, whether you're aiming for a calorie deficit, tracking meals or looking for an advanced AI calorie tracker. Designed to support sustainable weight loss, muscle gain and weight maintenance, Yazio empowers you to make smart food choices with the",
+      "versionDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v12_85_1_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Yazio, blatantsPatch\n\n---\nWelcome to Yazio, the most effective AI calorie tracker, intermittent fasting app and food tracker for losing weight without dieting!\n\nTrack calories, eat better and reach your goals with Yazio’s free calorie counter app!\nYazio is your all-in-one solution, whether you're aiming for a calorie deficit, tracking meals or looking for an advanced AI calorie tracker. Designed to support sustainable weight loss, muscle gain and weight maintenance, Yazio empowers you to make smart food choices with the",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/f5/53/69f55376-d2af-5f99-ece4-0427b0aa4a87/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 149131377,
+      "size": 142141168,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/1b/ed/dd1bed03-d11e-5e69-88b3-10c1b502e14e/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a8/03/01a803c9-f793-71e8-02c8-b0a84d66334b/ea43d2d8-5944-4881-b46a-1cca3413f608_1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
@@ -76435,11 +76647,11 @@
       },
       "versions": [
         {
-          "version": "12.89.0",
+          "version": "12.85.1",
           "date": "2026-06-16",
-          "localizedDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v12_89_0_Subscription_Unlocked_blatant.ipa",
-          "size": 149131377
+          "localizedDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v12_85_1_Subscription_Unlocked_blatant.ipa",
+          "size": 142141168
         }
       ],
       "category": "health-&-fitness"
@@ -76888,15 +77100,15 @@
       "name": "YouTube Music",
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Google",
-      "subtitle": "Tweaked with CydiaSubstrate, ReturnYouTubeMusicDislikes",
-      "version": "9.24.2",
+      "subtitle": "Tweaked with CydiaSubstrate, YTMusicUltimate",
+      "version": "9.16.4",
       "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMABConfig, YTMusicUltimate, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]YM_9.24.2_YU.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMABConfig, YTMusicUltimate, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\nBuild of YouTube Music 📀\n\n---\nConnecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs",
+      "versionDescription": "Tweaks: CydiaSubstrate, YTMusicUltimate\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/YTMusicUltimate_v9.16.4.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, YTMusicUltimate\n\n---\nConnecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/77/a5/c777a50a-7115-02c7-5987-c932b877fbcb/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 97579144,
+      "size": 101757109,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a9/e6/bca9e6a9-ecc1-035c-2a5b-b42b38684977/APP_IPHONE_55-0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/b0/e8/c5b0e871-f0de-f914-15aa-5323c4099b92/APP_IPHONE_55-1.png/392x696bb.png",
@@ -76927,11 +77139,11 @@
       },
       "versions": [
         {
-          "version": "9.24.2",
+          "version": "9.16.4",
           "date": "2026-06-16",
-          "localizedDescription": "Tweaks: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMABConfig, YTMusicUltimate, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]YM_9.24.2_YU.ipa",
-          "size": 97579144
+          "localizedDescription": "Tweaks: CydiaSubstrate, YTMusicUltimate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/YTMusicUltimate_v9.16.4.ipa",
+          "size": 101757109
         }
       ],
       "category": "music"
