@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.predictivefitness.tridot-v2",
-    "com.picsart.studio",
-    "com.newchat.hai",
-    "com.aone.Keka-iOS",
-    "tech.sketchar.ios"
+    "com.aoklab.fewerphotos",
+    "com.djitlabs.pixelcolor",
+    "eu.gowod",
+    "nutrition.coach",
+    "com.predictivefitness.tridot-v2"
   ],
   "apps": [
     {
@@ -26620,15 +26620,15 @@
       "name": "GOWOD",
       "bundleIdentifier": "eu.gowod",
       "developerName": "Mobility First Group",
-      "subtitle": "Tweaked with gowod",
-      "version": "5.9.0",
-      "versionDate": "2026-06-11",
-      "versionDescription": "Tweaks: gowod\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/GOWOD Premium 5.9.0.ipa",
-      "localizedDescription": "GOWOD",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "5.10.0",
+      "versionDate": "2026-06-17",
+      "versionDescription": "Tweaks: blatantsPatch, gowod\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/GOWOD_–_Mobility_&_Stretching_v5_10_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nGOWOD – Mobility & Stretching",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/19/c8/9a19c852-6f12-0310-f6cb-b7615df143d7/icon_liquid-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 57685156,
+      "size": 61471979,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/3e/c9/d03ec9dd-91ab-0464-08e8-3fad8159dbe3/01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/25/4c/47254c74-61b1-1d30-fdcc-820b70e40932/02.jpg/392x696bb.jpg",
@@ -26657,11 +26657,11 @@
       },
       "versions": [
         {
-          "version": "5.9.0",
-          "date": "2026-06-11",
-          "localizedDescription": "Tweaks: gowod\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/GOWOD Premium 5.9.0.ipa",
-          "size": 57685156
+          "version": "5.10.0",
+          "date": "2026-06-17",
+          "localizedDescription": "Tweaks: blatantsPatch, gowod\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/GOWOD_–_Mobility_&_Stretching_v5_10_0_Subscription_Unlocked_blatant.ipa",
+          "size": 61471979
         }
       ],
       "category": "health-&-fitness"
@@ -44838,14 +44838,14 @@
       "bundleIdentifier": "nutrition.coach",
       "developerName": "Eclipse Studios",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "2.1.1",
-      "versionDate": "2026-06-16",
+      "version": "2.1.2",
+      "versionDate": "2026-06-17",
       "versionDescription": "Tweaks: NutriCoach, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nNutrition Coach: Food tracker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/11/b3/1511b3e4-a114-2d56-8fbf-d60a8807e2ea/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 73173992,
+      "size": 73178217,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5c/7d/c65c7d42-9758-a9f6-b97b-864d52e346df/41392711-be29-4b4a-81aa-f2631d6bffd1_Nutricoach-screenshot-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/21/c6/9221c666-c6e9-cb68-430d-b07e70d8dce5/5f6ea8ed-ee1c-4a9c-9ac4-98f42fce78d0_Nutricoach-screenshot-02.jpg/392x696bb.jpg",
@@ -44870,11 +44870,11 @@
       },
       "versions": [
         {
-          "version": "2.1.1",
-          "date": "2026-06-16",
+          "version": "2.1.2",
+          "date": "2026-06-17",
           "localizedDescription": "Tweaks: NutriCoach, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_1_Subscription_Unlocked_blatant.ipa",
-          "size": 73173992
+          "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_2_Subscription_Unlocked_blatant.ipa",
+          "size": 73178217
         }
       ],
       "category": "health-&-fitness"
@@ -50202,14 +50202,14 @@
       "bundleIdentifier": "com.djitlabs.pixelcolor",
       "developerName": "MWM",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "5.53.01",
-      "versionDate": "2026-06-08",
+      "version": "5.53.02",
+      "versionDate": "2026-06-17",
       "versionDescription": "Tweaks: PixelColor, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Pixel_Color_Paint_by_Number_v5_53_01_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Pixel_Color_Paint_by_Number_v5_53_02_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPixel Color: Paint by Number",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/1c/67/821c678c-5d21-f1d0-ab4f-8fd85b52fc35/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 93792567,
+      "size": 93794063,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/90/56/629056e7-1758-87e1-7cc6-1181b7012210/en-ipad-01.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/50/04/585004c6-fc53-3e85-4251-fff0895dc45d/en-ipad-02.jpg/576x768bb.jpg",
@@ -50234,11 +50234,11 @@
       },
       "versions": [
         {
-          "version": "5.53.01",
-          "date": "2026-06-08",
+          "version": "5.53.02",
+          "date": "2026-06-17",
           "localizedDescription": "Tweaks: PixelColor, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Pixel_Color_Paint_by_Number_v5_53_01_Subscription_Unlocked_blatant.ipa",
-          "size": 93792567
+          "downloadURL": "https://telos.ftp.sh/ipas/Pixel_Color_Paint_by_Number_v5_53_02_Subscription_Unlocked_blatant.ipa",
+          "size": 93794063
         }
       ],
       "category": "entertainment"
@@ -65300,14 +65300,14 @@
       "bundleIdentifier": "com.aoklab.fewerphotos",
       "developerName": "MWM",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "3.4.3",
-      "versionDate": "2026-06-12",
+      "version": "3.4.4",
+      "versionDate": "2026-06-17",
       "versionDescription": "Tweaks: SwipeWipe, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Photo Cleaner  Swipewipe v3.4.3 Pro Unlocked blatant Patched.ipa",
-      "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nPhoto Cleaner: Swipewipe",
+      "downloadURL": "https://telos.ftp.sh/ipas/Swipewipe  Photo Cleaner v3.4.4 Pro Unlocked blatant Patched.ipa",
+      "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nSwipewipe: Photo Cleaner",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/b9/7d/80b97d59-8e01-a990-b4cb-4677278644fa/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 146703414,
+      "size": 161517842,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/56/6c/6a566cd1-ef9d-fbd3-c7a8-d6ab33a93216/EN_ipad_01.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/55/b0/aa55b0fc-daaa-7d07-7ead-c87254da1c85/EN_ipad_02.png/576x768bb.png",
@@ -65330,11 +65330,11 @@
       },
       "versions": [
         {
-          "version": "3.4.3",
-          "date": "2026-06-12",
+          "version": "3.4.4",
+          "date": "2026-06-17",
           "localizedDescription": "Tweaks: SwipeWipe, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Photo Cleaner  Swipewipe v3.4.3 Pro Unlocked blatant Patched.ipa",
-          "size": 146703414
+          "downloadURL": "https://telos.ftp.sh/ipas/Swipewipe  Photo Cleaner v3.4.4 Pro Unlocked blatant Patched.ipa",
+          "size": 161517842
         }
       ],
       "category": "utilities"
@@ -78191,7 +78191,7 @@
     {
       "title": "⚙️ Telos Update 6.17",
       "identifier": "telos-update-2026-06-17",
-      "caption": "16 Apps Updated:\n• 8 Health & Fitness\n• 2 Photo & Video\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Utilities",
+      "caption": "30 Apps Updated:\n• 14 Health & Fitness\n• 6 Utilities\n• 4 Entertainment\n• 2 Photo & Video\n• 2 Graphics & Design\n• 2 Social Networking",
       "date": "2026-06-17",
       "tintColor": "#02433b",
       "notify": true,
