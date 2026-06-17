@@ -36070,6 +36070,31 @@
       }
     },
     {
+      "name": "setlog",
+      "bundleIdentifier": "com.newchat.hai",
+      "developerName": "new chat",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\ncom.newchat.hai\n\n---\nshare everyday moments with your friends\n@setlog_app",
+      "version": "2.3.1",
+      "versionDate": "2026-06-17T05:22:25-00:00",
+      "versionDescription": "Build 2 from @binnichtaktivsipas",
+      "size": 58207853,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/31/f2/bc31f2f9-1e32-127d-6265-f5978d1faafe/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/‎    setlog_v2.3.1-AppAssassin.ipa",
+      "minOSVersion": "17.6",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "‎    setlog_v2.3.1-AppAssassin.ipa"
+      }
+    },
+    {
       "name": "sh:z E-Paper",
       "bundleIdentifier": "de.shz.tageszeitung",
       "developerName": "medien holding:nord gmbh",
