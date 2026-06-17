@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.joytunes.Draw",
+    "com.frontrow.vlog",
     "com.picretouch.photoeditor",
     "com.joytunes.asla",
-    "jp.naver.linecamera",
-    "com.wikiloc.wikiloc",
-    "com.evolve.helm"
+    "jp.naver.linecamera"
   ],
   "apps": [
     {
@@ -58148,14 +58148,14 @@
       "bundleIdentifier": "com.joytunes.Draw",
       "developerName": "Simply Ltd",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "1.6.33",
-      "versionDate": "2026-06-10",
+      "version": "1.6.34",
+      "versionDate": "2026-06-17",
       "versionDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_33_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_34_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSimply Draw: Learn to Draw",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/1c/b4/1f1cb47a-7c46-e5c0-5d41-01e445152aca/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 118733298,
+      "size": 131486074,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -58174,11 +58174,11 @@
       },
       "versions": [
         {
-          "version": "1.6.33",
-          "date": "2026-06-10",
+          "version": "1.6.34",
+          "date": "2026-06-17",
           "localizedDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_33_Subscription_Unlocked_blatant.ipa",
-          "size": 118733298
+          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_34_Subscription_Unlocked_blatant.ipa",
+          "size": 131486074
         }
       ],
       "category": "education"
@@ -72592,14 +72592,14 @@
       "bundleIdentifier": "com.frontrow.vlog",
       "developerName": "Ubiquiti Labs, LLC",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "2.5.0",
-      "versionDate": "2026-06-10",
+      "version": "2.5.1",
+      "versionDate": "2026-06-17",
       "versionDescription": "Tweaks: VlogNow, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/VN：Photo_&_Video_Editor_v2_5_0_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nVN：Photo & Video Editor",
+      "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_5_1_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nVN: Photo & Video Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/9a/b4/cb9ab4ff-ba1e-6766-6b54-c5f9d60979b1/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 413615062,
+      "size": 453299274,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/7b/a8/177ba862-5fce-c8b0-7ad1-a848dc96383c/en_plus_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/c1/36/f1c136c9-23de-894e-7cb2-6f2222a4a985/en_plus_04.png/392x696bb.png",
@@ -72628,11 +72628,11 @@
       },
       "versions": [
         {
-          "version": "2.5.0",
-          "date": "2026-06-10",
+          "version": "2.5.1",
+          "date": "2026-06-17",
           "localizedDescription": "Tweaks: VlogNow, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/VN：Photo_&_Video_Editor_v2_5_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 413615062
+          "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_5_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 453299274
         }
       ],
       "category": "photo-&-video"
@@ -78221,7 +78221,7 @@
     {
       "title": "⚙️ Telos Update 6.17",
       "identifier": "telos-update-2026-06-17",
-      "caption": "56 Apps Updated:\n• 14 Health & Fitness\n• 12 Photo & Video\n• 4 Utilities\n• 4 Navigation\n• 4 Business\n• 4 Education\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Lifestyle\n• 2 Weather\n• 2 Medical\n• 2 Reference",
+      "caption": "62 Apps Updated:\n• 14 Photo & Video\n• 14 Health & Fitness\n• 8 Education\n• 4 Utilities\n• 4 Navigation\n• 4 Business\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Lifestyle\n• 2 Weather\n• 2 Medical\n• 2 Reference",
       "date": "2026-06-17",
       "tintColor": "#02433b",
       "notify": true,
