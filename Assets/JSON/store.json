@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.picretouch.photoeditor",
     "com.joytunes.asla",
     "jp.naver.linecamera",
     "com.wikiloc.wikiloc",
-    "com.evolve.helm",
-    "com.hitpaw.photoenhancer"
+    "com.evolve.helm"
   ],
   "apps": [
     {
@@ -2223,14 +2223,14 @@
       "bundleIdentifier": "com.picretouch.photoeditor",
       "developerName": "SHANTANU PTE. LTD.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "1.1.7",
-      "versionDate": "2026-06-02",
+      "version": "1.1.8",
+      "versionDate": "2026-06-17",
       "versionDescription": "Tweaks: AIRetouch, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Remove_Objects_Pic_Retouch_AI_v1_1_7_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nRemove Objects: Pic Retouch AI",
+      "downloadURL": "https://telos.ftp.sh/ipas/Remove_Objects_AI_Retouch_v1_1_8_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nRemove Objects: AI Retouch",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/6a/a0/2d6aa073-3059-4be0-3118-a305e1493861/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 54986971,
+      "size": 56010618,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/97/6c/e9976c26-348d-c623-82da-7c6aaee894af/f1f8c85d-7fa2-4357-81e2-a5b53d15a2bf_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/d6/b8/b7d6b890-2044-e008-50a3-8da2c34f791d/e521df29-410a-439d-ba68-e04a454f6611_2.jpg/392x696bb.jpg",
@@ -2248,11 +2248,11 @@
       },
       "versions": [
         {
-          "version": "1.1.7",
-          "date": "2026-05-18",
+          "version": "1.1.8",
+          "date": "2026-06-17",
           "localizedDescription": "Tweaks: AIRetouch, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Remove_Objects_Pic_Retouch_AI_v1_1_7_Subscription_Unlocked_blatant.ipa",
-          "size": 54986971
+          "downloadURL": "https://telos.ftp.sh/ipas/Remove_Objects_AI_Retouch_v1_1_8_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 56010618
         }
       ],
       "category": "photo-&-video"
@@ -78221,7 +78221,7 @@
     {
       "title": "⚙️ Telos Update 6.17",
       "identifier": "telos-update-2026-06-17",
-      "caption": "54 Apps Updated:\n• 14 Health & Fitness\n• 8 Photo & Video\n• 6 Education\n• 4 Utilities\n• 4 Navigation\n• 4 Business\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Lifestyle\n• 2 Weather\n• 2 Medical\n• 2 Reference",
+      "caption": "56 Apps Updated:\n• 14 Health & Fitness\n• 12 Photo & Video\n• 4 Utilities\n• 4 Navigation\n• 4 Business\n• 4 Education\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Lifestyle\n• 2 Weather\n• 2 Medical\n• 2 Reference",
       "date": "2026-06-17",
       "tintColor": "#02433b",
       "notify": true,
