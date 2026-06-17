@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.newchat.hai",
     "com.aone.Keka-iOS",
     "tech.sketchar.ios",
     "com.calm.calmapp",
-    "com.LEMO.LemoFM",
-    "su.ffg.happ.plus"
+    "com.LEMO.LemoFM"
   ],
   "apps": [
     {
@@ -56991,6 +56991,41 @@
       "category": "lifestyle"
     },
     {
+      "name": "setlog",
+      "bundleIdentifier": "com.newchat.hai",
+      "developerName": "new chat",
+      "subtitle": "setlog for iOS",
+      "version": "2.3.1",
+      "versionDate": "2026-06-17",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/‎    setlog_v2.3.1-AppAssassin.ipa",
+      "localizedDescription": "com.newchat.hai",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/31/f2/bc31f2f9-1e32-127d-6265-f5978d1faafe/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 58207853,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "newchat needs access to your photos so you can choose pictures to share with your close friends.",
+          "NSCameraUsageDescription": "setlog uses the camera so you can quickly take and share photos and videos with your close friends.",
+          "NSMicrophoneUsageDescription": "newchat uses the microphone so you can record audio with your videos.",
+          "NSLocationWhenInUseUsageDescription": "newchat uses your location to show the current temperature on the photos and videos you share with friends.",
+          "NSPhotoLibraryAddUsageDescription": "newchat needs permission to save your photos and videos to your library."
+        }
+      },
+      "versions": [
+        {
+          "version": "2.3.1",
+          "date": "2026-06-15",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/‎    setlog_v2.3.1-AppAssassin.ipa",
+          "size": 58207853
+        }
+      ],
+      "category": "social-networking"
+    },
+    {
       "name": "sh:z E-Paper",
       "bundleIdentifier": "de.shz.tageszeitung",
       "developerName": "medien holding:nord gmbh",
@@ -78106,7 +78141,7 @@
     {
       "title": "⚙️ Telos Update 6.17",
       "identifier": "telos-update-2026-06-17",
-      "caption": "10 Apps Updated:\n• 4 Health & Fitness\n• 4 Utilities\n• 2 Graphics & Design",
+      "caption": "12 Apps Updated:\n• 4 Health & Fitness\n• 4 Social Networking\n• 2 Graphics & Design\n• 2 Utilities",
       "date": "2026-06-17",
       "tintColor": "#02433b",
       "notify": true,
