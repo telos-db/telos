@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.readdle.Scanner",
+    "com.duolingo.DuolingoMobile",
     "com.mobisystems.OxfordDictionaryOfEnglishFree",
     "com.itwcalculator.worldradarfree",
-    "com.amf.tiba",
-    "com.elevateapp.kamino.kamino",
-    "com.dopedevelopment.Panels"
+    "com.amf.tiba"
   ],
   "apps": [
     {
@@ -18460,14 +18460,14 @@
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "Duolingo",
       "subtitle": "Tweaked with CachefixPatch, CydiaSubstrate",
-      "version": "7.127.0",
-      "versionDate": "2026-06-16",
+      "version": "7.127.1",
+      "versionDate": "2026-06-17",
       "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_127_0_Duolingo_MAX_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_127_1_Duolingo_MAX_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nDuolingo: Language Lessons\n\n---\nLearn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n\nDesigned by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n\nAnd now, you can learn",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/a9/fc/f5a9fc8b-90a2-560e-1482-7c9fc708497e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 204529248,
+      "size": 204528551,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/16/35/0d16355e-7b7a-4903-aa0a-ecfefdaa7e08/b715d679-c25d-41c1-8b55-6c00114fa81e_en_iphone5.5_screen_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/14/cd/f814cd12-cb2b-baeb-2870-404d9186defb/93f4d1c8-4144-44de-8b57-a5a091c838f4_iPhone_5.5_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_3.png/392x696bb.png",
@@ -18500,11 +18500,11 @@
       },
       "versions": [
         {
-          "version": "7.127.0",
-          "date": "2026-06-16",
+          "version": "7.127.1",
+          "date": "2026-06-17",
           "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_127_0_Duolingo_MAX_Unlocked_blatant.ipa",
-          "size": 204529248
+          "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_127_1_Duolingo_MAX_Unlocked_blatant.ipa",
+          "size": 204528551
         }
       ],
       "category": "education"
@@ -56856,15 +56856,15 @@
       "name": "Scanner Pro",
       "bundleIdentifier": "com.readdle.Scanner",
       "developerName": "Readdle Technologies Limited",
-      "subtitle": "Tweaked with AutoRevenueCat, FilePickerFix",
-      "version": "8.36.1",
-      "versionDate": "2026-06-14",
-      "versionDescription": "Tweaks: AutoRevenueCat, FilePickerFix, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Scanner Pro - Scan Documents-v8.36.1-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: AutoRevenueCat, FilePickerFix, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nScanner Pro - Scan Documents\n\n---\nEffortlessly scan, organize, and share documents on the go to have everything you need at your fingertips. Scanner Pro brings you high-quality document scan technology in a convenient and simple mobile app. Scan agreements, receipts, IDs, books, and more using your device to convert them into PDFs in seconds. Safely store and share your documents with anyone in just a few taps with Scanner Pro.\n\nExperience the simplicity of on-the-go document scanning. Scan travel expenses, convert sketches into",
+      "subtitle": "Tweaked with ScannerPro, blatantsPatch",
+      "version": "8.37.0",
+      "versionDate": "2026-06-17",
+      "versionDescription": "Tweaks: ScannerPro, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Scanner_Pro・Scan_PDF_Documents_v8_37_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ScannerPro, blatantsPatch\n\nScanner Pro・Scan PDF Documents\n\n---\nEffortlessly scan, organize, and share documents on the go to have everything you need at your fingertips. Scanner Pro brings you high-quality document scan technology in a convenient and simple mobile app. Scan agreements, receipts, IDs, books, and more using your device to convert them into PDFs in seconds. Safely store and share your documents with anyone in just a few taps with Scanner Pro.\n\nExperience the simplicity of on-the-go document scanning. Scan travel expenses, convert sketches into",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/49/36/fe49363f-a905-bad1-24d6-d2b2ff08cff8/ScannerPro-NoFlag-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 181146549,
+      "size": 188071083,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -56882,11 +56882,11 @@
       },
       "versions": [
         {
-          "version": "8.36.1",
-          "date": "2026-06-14",
-          "localizedDescription": "Tweaks: AutoRevenueCat, FilePickerFix, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Scanner Pro - Scan Documents-v8.36.1-riftysipas.ipa",
-          "size": 181146549
+          "version": "8.37.0",
+          "date": "2026-06-17",
+          "localizedDescription": "Tweaks: ScannerPro, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Scanner_Pro・Scan_PDF_Documents_v8_37_Subscription_Unlocked_blatant.ipa",
+          "size": 188071083
         }
       ],
       "category": "business"
