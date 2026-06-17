@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.tripleglazedstudios.Weather",
+    "com.campmobile.snow",
+    "com.wellocution.iosapp",
     "com.itwcalculator.calculatorforipadfree",
-    "com.joytunes.Draw",
-    "com.frontrow.vlog",
-    "com.picretouch.photoeditor",
-    "com.joytunes.asla"
+    "com.joytunes.Draw"
   ],
   "apps": [
     {
@@ -8051,14 +8051,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Tweaked with BoldVoice, blatantsPatch",
-      "version": "3.7.0",
-      "versionDate": "2026-06-14",
+      "version": "4.0.2",
+      "versionDate": "2026-06-17",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v3_7_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_2_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BoldVoice, blatantsPatch\n\nBoldVoice: Accent Training\n\n---\nBoldVoice is the top-rated English speaking and pronunciation app, with over 2 million global users. Our Hollywood accent coaches and AI-powered feedback will help you achieve clear, confident pronunciation, with only 10 minutes of daily practice.\n\nWHY CHOOSE BOLDVOICE:\nLearn from professional accent coaches who train Hollywood actors\nRecord your voice and receive instant, AI-powered pronunciation feedback\nPractice with daily-life scenarios and professional conversations\nMonitor progress through",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/54/3e/5d543e2c-51bb-1d38-261b-2f75ad39987c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 140965961,
+      "size": 147186945,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8068,19 +8068,20 @@
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Allow BoldVoice to access your photo library so you can choose an image to use as your profile picture",
-          "NSCameraUsageDescription": "Allow BoldVoice to access your camera so that you can take a photo to use as your profile picture",
+          "NSCameraUsageDescription": "Allow BoldVoice to access your camera so you can take a profile photo and/or use Mirror Mode to see your mouth while practicing pronunciation.",
           "NSMicrophoneUsageDescription": "Allow BoldVoice to access your microphone so you can record your pronounciation and get personalized feedback",
           "NSCalendarsUsageDescription": "This allows us to save your upcoming SpeechScan to your calendar",
+          "NSSpeechRecognitionUsageDescription": "Allow BoldVoice to use speech recognition so the text can highlight in real time as you read aloud",
           "NSUserTrackingUsageDescription": "This helps us personalize your learning experience. We will never show any ads inside of BoldVoice."
         }
       },
       "versions": [
         {
-          "version": "3.7.0",
-          "date": "2026-06-14",
+          "version": "4.0.2",
+          "date": "2026-06-17",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v3_7_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 140965961
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_2_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 147186945
         }
       ],
       "category": "education"
@@ -40098,15 +40099,15 @@
       "name": "Mercury",
       "bundleIdentifier": "com.tripleglazedstudios.Weather",
       "developerName": "Triple Glazed Studios LLC",
-      "subtitle": "Tweaked with Mercury1, Mercury2",
-      "version": "3.4.7",
-      "versionDate": "2026-06-11",
-      "versionDescription": "Tweaks: Mercury1, Mercury2\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Mercury Weather Pro 3.4.7.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Mercury1, Mercury2\n\nMercury Weather\n\n---\n\"It's a weather app. How much is there to say?\"\n– Malin from Triple Glazed Studios' crack product marketing team\n\nTOP FEATURES\n– Beautiful weather charts\n– Detailed daily forecast\n– Trip Forecast\n– Incredibly accurate rain forecast\n– Hurricane and storm tracking\n– Tide forecasts\n– Weather notifications\n– Radar map\n– Simple yet powerful Apple Watch app\n– Easy to glance home screen and lock screen widgets\n– Weather normals\n\nPrivacy policy:\nTerms of use:",
+      "subtitle": "Tweaked with MercuryWeather, blatantsPatch",
+      "version": "3.5.2",
+      "versionDate": "2026-06-17",
+      "versionDescription": "Tweaks: MercuryWeather, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Mercury Weather v3.5.2 Premium Unlocked blatant Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MercuryWeather, blatantsPatch\n\nMercury Weather\n\n---\n\"It's a weather app. How much is there to say?\"\n– Malin from Triple Glazed Studios' crack product marketing team\n\nTOP FEATURES\n– Beautiful weather charts\n– Detailed daily forecast\n– Trip Forecast\n– Incredibly accurate rain forecast\n– Hurricane and storm tracking\n– Tide forecasts\n– Weather notifications\n– Radar map\n– Simple yet powerful Apple Watch app\n– Easy to glance home screen and lock screen widgets\n– Weather normals\n\nPrivacy policy:\nTerms of use:",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/f1/9b/2df19b14-e202-c27e-72c3-a85546b7b100/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 56691790,
+      "size": 73375176,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/bb/15/51bb154c-42a2-3d13-0332-bd1f579ffd2f/a82e0142-1870-4263-803d-2171428787e1_Screen_1.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/1e/b0/d21eb0db-2b53-ba39-cec4-5ed2c8f2de6f/60a27770-4683-4b4d-a3cb-f43bc602daf4_Screen_2.png/552x414bb.png",
@@ -40126,11 +40127,11 @@
       },
       "versions": [
         {
-          "version": "3.4.7",
-          "date": "2026-06-11",
-          "localizedDescription": "Tweaks: Mercury1, Mercury2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Mercury Weather Pro 3.4.7.ipa",
-          "size": 56691790
+          "version": "3.5.2",
+          "date": "2026-06-17",
+          "localizedDescription": "Tweaks: MercuryWeather, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Mercury Weather v3.5.2 Premium Unlocked blatant Patched.ipa",
+          "size": 73375176
         }
       ],
       "category": "weather"
@@ -60201,14 +60202,14 @@
       "bundleIdentifier": "com.campmobile.snow",
       "developerName": "SNOW Corporation",
       "subtitle": "Tweaked with SNOW, blatantsPatch",
-      "version": "15.2.0",
-      "versionDate": "2026-06-16",
+      "version": "15.2.1",
+      "versionDate": "2026-06-17",
       "versionDescription": "Tweaks: SNOW, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SNOW_AI_Profile_v15_2_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SNOW_AI_Profile_v15_2_1_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SNOW, blatantsPatch\n\nSNOW - AI Profile\n\n---\nSNOW is a camera app used by over 200 million people around the world.\n\n- Find your favorite version of yourself by creating and saving custom beauty effects.\n- Take profile-worthy selfies with stylish AR makeup features.\n- Explore thousands of stickers with updates every day.\n- Don't miss exclusive seasonal filters that add color to your daily life.\n- Professional photo edits with just a few taps.\n\n[SNOW VIP]\nYour App Store account will be charged when subscribing to SNOW VIP. The subscription",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/e0/d6/30e0d6a8-9253-583b-f057-6caf2f73c7b6/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 149920821,
+      "size": 149920670,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/37/ca/d237cad8-e57f-cefa-8a66-b576cbe65834/haircolor_en__U00282_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/2d/b8/362db83a-6f35-e6fe-c79d-48e68191ffe7/_U110b_U1161_U110b_U1175_U1111_U1169_U11ab_EN.png/392x696bb.png",
@@ -60238,11 +60239,11 @@
       },
       "versions": [
         {
-          "version": "15.2.0",
-          "date": "2026-06-16",
+          "version": "15.2.1",
+          "date": "2026-06-17",
           "localizedDescription": "Tweaks: SNOW, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SNOW_AI_Profile_v15_2_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 149920821
+          "downloadURL": "https://telos.ftp.sh/ipas/SNOW_AI_Profile_v15_2_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 149920670
         }
       ],
       "category": "photo-&-video"
