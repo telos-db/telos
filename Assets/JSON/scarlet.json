@@ -21225,6 +21225,32 @@
       }
     },
     {
+      "name": "Keka",
+      "bundleIdentifier": "com.aone.Keka-iOS",
+      "developerName": "Jorge Garcia Armero",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nKeka is a full featured file archiver, as easy as it can be.\n\nWith Keka you can compress as many files as you want in a bunch of formats. You can also encrypt them to store and share securely and with privacy.\n\nKeka can also browse and extract lots of compressed files, from ZIP and 7Z to RAR archives. Whether they are encrypted or encoded in with old charsets this is not a problem for Keka.\n\nCompression formats supported:\n7Z, ZIP, TAR, ZSTD, GZIP, BZIP2 and AppleArchive (AAR)\n\nExtraction formats",
+      "version": "1.6.4",
+      "versionDate": "2026-06-17T04:21:17-00:00",
+      "versionDescription": "Build 1690 from @binnichtaktivsipas",
+      "size": 25121987,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/19/a3/9119a39e-9d86-d90d-693a-7d719b471ab3/Keka-iOS-Smile-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.aone.Keka-iOS_1.6.4_decrypted.ipa",
+      "minOSVersion": "15.5",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.aone.Keka-iOS_1.6.4_decrypted.ipa"
+      }
+    },
+    {
       "name": "Kelo",
       "bundleIdentifier": "thirteendoots.kelo.com",
       "developerName": "Jose Pedro Franco Moreno",
