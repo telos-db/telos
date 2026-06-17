@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.itwcalculator.calculatorforipadfree",
     "com.joytunes.Draw",
     "com.frontrow.vlog",
     "com.picretouch.photoeditor",
-    "com.joytunes.asla",
-    "jp.naver.linecamera"
+    "com.joytunes.asla"
   ],
   "apps": [
     {
@@ -66679,14 +66679,14 @@
       "bundleIdentifier": "com.itwcalculator.calculatorforipadfree",
       "developerName": "Impala Studios",
       "subtitle": "Subscription Unlocked | Adfree",
-      "version": "9.26.3",
-      "versionDate": "2026-06-05",
+      "version": "9.26.4",
+      "versionDate": "2026-06-17",
       "versionDescription": "Tweaks: Calculator+, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Calculator₊ v9.26.3 Subscription Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Calculator₊ v9.26.4 Subscription Unlocked blatant Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Adfree | Patched | Tweaked\n\nCalculator₊",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/3c/b2/b83cb2d8-028b-f3cf-1a39-35f00c8cf03b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 56729988,
+      "size": 93534470,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -66708,11 +66708,11 @@
       },
       "versions": [
         {
-          "version": "9.26.3",
-          "date": "2026-06-02",
+          "version": "9.26.4",
+          "date": "2026-06-17",
           "localizedDescription": "Tweaks: Calculator+, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Calculator₊ v9.26.3 Subscription Unlocked blatant Patched.ipa",
-          "size": 56729988
+          "downloadURL": "https://telos.ftp.sh/ipas/Calculator₊ v9.26.4 Subscription Unlocked blatant Patched.ipa",
+          "size": 93534470
         }
       ],
       "category": "utilities"
@@ -78221,7 +78221,7 @@
     {
       "title": "⚙️ Telos Update 6.17",
       "identifier": "telos-update-2026-06-17",
-      "caption": "62 Apps Updated:\n• 14 Photo & Video\n• 14 Health & Fitness\n• 8 Education\n• 4 Utilities\n• 4 Navigation\n• 4 Business\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Lifestyle\n• 2 Weather\n• 2 Medical\n• 2 Reference",
+      "caption": "62 Apps Updated:\n• 14 Health & Fitness\n• 12 Photo & Video\n• 8 Utilities\n• 6 Education\n• 4 Navigation\n• 4 Business\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Lifestyle\n• 2 Weather\n• 2 Medical\n• 2 Reference",
       "date": "2026-06-17",
       "tintColor": "#02433b",
       "notify": true,
