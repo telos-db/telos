@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.readdle.Scanner",
-    "com.duolingo.DuolingoMobile",
-    "com.mobisystems.OxfordDictionaryOfEnglishFree",
-    "com.itwcalculator.worldradarfree",
-    "com.amf.tiba"
+    "jp.naver.linecamera",
+    "com.wikiloc.wikiloc",
+    "com.evolve.helm",
+    "com.hitpaw.photoenhancer",
+    "com.readdle.Scanner"
   ],
   "apps": [
     {
@@ -2144,14 +2144,14 @@
       "bundleIdentifier": "com.hitpaw.photoenhancer",
       "developerName": "HITPAW CO.,LIMITED",
       "subtitle": "AI Marvels for iOS",
-      "version": "1.103.0",
-      "versionDate": "2026-06-15",
+      "version": "2.7.0",
+      "versionDate": "2026-06-17",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.hitpaw.photoenhancer-1.103.0-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nAI Marvels is an advanced, powerful, all-in-one AI photo editor and video generation tool. With dozens of creative templates, you can transform your photos into anime characters, action figures, sketches, and other trending AI styles with just one tap. Our exclusive \"Image-to-Video\" feature allows you to turn a single picture into the trendiest videos of the moment. Simply upload your photo, enter your idea or choose a ready-made template, and generate stunning, trending AI videos in seconds. AI",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.hitpaw.photoenhancer-2.7.0-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nAI Marvels is an advanced, powerful, all-in-one AI photo editor and video generation tool. With dozens of creative templates, you can transform your photos into anime characters, action figures, sketches, and other trending AI styles with just one tap. Our exclusive \"Image-to-Video\" feature allows you to turn a single picture into the trendiest videos of the moment. Simply upload your photo, enter your idea or choose a ready-made template, and generate stunning, trending AI videos in seconds. AI",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/66/82/13668257-ba90-6dec-b3c8-ff9dbc1f9203/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 178821817,
+      "size": 171515890,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -2170,11 +2170,11 @@
       },
       "versions": [
         {
-          "version": "1.103.0",
-          "date": "2026-06-15",
+          "version": "2.7.0",
+          "date": "2026-06-17",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.hitpaw.photoenhancer-1.103.0-eeveedecrypter.ipa",
-          "size": 178821817
+          "downloadURL": "https://telos.ftp.sh/ipas/com.hitpaw.photoenhancer-2.7.0-eeveedecrypter.ipa",
+          "size": 171515890
         }
       ],
       "category": "photo-&-video"
@@ -36707,14 +36707,14 @@
       "bundleIdentifier": "jp.naver.linecamera",
       "developerName": "SNOW Corporation",
       "subtitle": "Tweaked with LINECamera, blatantsPatch",
-      "version": "18.3.2",
-      "versionDate": "2026-06-16",
+      "version": "18.3.3",
+      "versionDate": "2026-06-17",
       "versionDescription": "Tweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_3_2_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_3_3_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: LINECamera, blatantsPatch\n\nLINE Camera - Photo editor\n\n---\nA photo editing camera app used by over 200 million people worldwide! 『LINE Camera』\n\n- Over 30,000 stickers and frames\nFrom decorations to face covers, the possibilities are endless.\nA wide variety of items is updated weekly.\n\n- Cute, sleek filters\nHighly customizable filters let you make your photos look just how you like them.\n\n- Make your own original stickers!\nUse your own illustrations, text, or photos to make your own stickers.\n\n- Use the Beauty feature to bring out the natural beauty in y",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/4f/4f/3b4f4fbe-ba07-4208-1147-9066229d47c7/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 200576501,
+      "size": 200582993,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/27/8f/39278fe6-038f-45b8-f616-2b00cd9b4329/1242x2208_filter.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/68/b3/c968b397-9270-cd57-6a02-1728925d0c44/1242x2208_blur.png/392x696bb.png",
@@ -36737,11 +36737,11 @@
       },
       "versions": [
         {
-          "version": "18.3.2",
-          "date": "2026-06-16",
+          "version": "18.3.3",
+          "date": "2026-06-17",
           "localizedDescription": "Tweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_3_2_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 200576501
+          "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_3_3_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 200582993
         }
       ],
       "category": "photo-&-video"
@@ -55125,15 +55125,15 @@
       "name": "Rest",
       "bundleIdentifier": "com.evolve.helm",
       "developerName": "Evolve Global, Inc.",
-      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.179.0",
-      "versionDate": "2026-06-14",
-      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Rest: Fix Your Sleep For Good-v3.179.0-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nRest: Fix Your Sleep For Good\n\n---\nSleeping well is really hard. Maybe it’s time to get help.\nFiguring out how to improve your sleep on your own can take months of frustrating trial and error, spending countless hours on Google trying to discern good advice from bad.\n\nWorking with a sleep expert may get you results faster, but top experts can be expensive or have lengthy waiting lists, and you need results now.\n\nIdeally, you could take the expertise of a professional and apply it to your sleep tonight. While having 24/7 availabil",
+      "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
+      "version": "3.191.0",
+      "versionDate": "2026-06-17",
+      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Rest_Fix_Your_Sleep_For_Good_v3_191_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nRest: Fix Your Sleep For Good\n\n---\nSleeping well is really hard. Maybe it’s time to get help.\nFiguring out how to improve your sleep on your own can take months of frustrating trial and error, spending countless hours on Google trying to discern good advice from bad.\n\nWorking with a sleep expert may get you results faster, but top experts can be expensive or have lengthy waiting lists, and you need results now.\n\nIdeally, you could take the expertise of a professional and apply it to your sleep tonight. While having 24/7 availabil",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/b7/6a/f7b76af7-fa30-3da2-05c5-12e04d3fd0bd/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 168122599,
+      "size": 130931944,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c6/dd/74c6dd2c-8270-353b-e06c-51365da28c06/5.5_-_Slide_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/77/d9/8177d9cf-9598-cc3c-b752-2d2b19bd1041/5.5_-_Slide_2.png/392x696bb.png",
@@ -55165,11 +55165,11 @@
       },
       "versions": [
         {
-          "version": "3.179.0",
-          "date": "2026-06-14",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Rest: Fix Your Sleep For Good-v3.179.0-riftysipas.ipa",
-          "size": 168122599
+          "version": "3.191.0",
+          "date": "2026-06-17",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Rest_Fix_Your_Sleep_For_Good_v3_191_0_Subscription_Unlocked_blatant.ipa",
+          "size": 130931944
         }
       ],
       "category": "health-&-fitness"
@@ -75664,14 +75664,14 @@
       "bundleIdentifier": "com.wikiloc.wikiloc",
       "developerName": "Wikiloc Outdoor SL",
       "subtitle": "Tweaked with Wikiloc, blatantsPatch",
-      "version": "3.29.1",
+      "version": "3.29.2",
       "versionDate": "2026-06-17",
       "versionDescription": "Tweaks: Wikiloc, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Wikiloc_Trails_of_the_World_v3_29_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Wikiloc_Trails_of_the_World_v3_29_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Wikiloc, blatantsPatch, sideloadKeychainfix\n\nWikiloc - Trails of the World\n\n---\nDiscover millions of outdoor trails around the world. Choose between hiking, running, bike, MTB, kayak, ski or up to 80 different types of activities.\n\nRecord your own routes on a map, add waypoints, take pictures along the itinerary and upload them to your Wikiloc account from your phone.\n\nEnjoy free offline topographic maps from all over the world for you to use without coverage or data. Great when you're out in the mountains or traveling without Internet connection.\n\nWant to take your outdoor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/be/c1/e9bec1db-3c5c-bcfc-4b29-94bfda8d31ec/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 101731075,
+      "size": 101761976,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/91/ac/2d91ac3f-b859-9ed9-f90b-b7460d90bb6d/1._5.5__EN.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/00/e6/8200e6f8-664e-c4cb-68ae-749e29b7fe03/2._5.5__EN.png/392x696bb.png",
@@ -75700,11 +75700,11 @@
       },
       "versions": [
         {
-          "version": "3.29.1",
+          "version": "3.29.2",
           "date": "2026-06-17",
           "localizedDescription": "Tweaks: Wikiloc, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Wikiloc_Trails_of_the_World_v3_29_1_Subscription_Unlocked_blatant.ipa",
-          "size": 101731075
+          "downloadURL": "https://telos.ftp.sh/ipas/Wikiloc_Trails_of_the_World_v3_29_2_Subscription_Unlocked_blatant.ipa",
+          "size": 101761976
         }
       ],
       "category": "navigation"
