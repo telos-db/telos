@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.picsart.studio",
     "com.newchat.hai",
     "com.aone.Keka-iOS",
     "tech.sketchar.ios",
-    "com.calm.calmapp",
-    "com.LEMO.LemoFM"
+    "com.calm.calmapp"
   ],
   "apps": [
     {
@@ -49841,14 +49841,14 @@
       "bundleIdentifier": "com.picsart.studio",
       "developerName": "PicsArt, Inc.",
       "subtitle": "Tweaked with Picsart, blatantsPatch",
-      "version": "30.1.1",
-      "versionDate": "2026-06-16",
+      "version": "30.1.3",
+      "versionDate": "2026-06-17",
       "versionDescription": "Tweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_1_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_1_3_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Picsart, blatantsPatch, sideloadKeychainfix\n\nPicsart AI Photo Editor, Video\n\n---\nIgnite your creative potential with Picsart — the all-in-one AI photo editor, AI video editor, and design studio that’s free and easy to use. From business designs to AI art, go from inspiration to creation fast. Create with an AI photo generator and AI video generator, edit with an AI image editor, remove backgrounds with Background Remover (BG remover), erase objects with Object Remover (Object Eraser), apply AI effects, filters, and retouch tools, and turn ideas into designs with templates, c",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/86/9e/0f869ee2-ca40-a713-6cc4-4cb2bcdc82de/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 111968371,
+      "size": 111971460,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/19/4f/0c194fdc-8f88-0792-c4f8-e37c39f85265/072cbf42-fad7-40f4-b11e-015732e61666_1._Multiple_Use_Cases___iPhone_12.9_.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/b9/fd/deb9fdf2-7120-98a3-9443-618a3eec4b0e/c3a88056-d203-42c4-9fbd-56c9797d3eb7_2._Multiple_Use_Cases___iPhone_12.9_.png/576x768bb.png",
@@ -49880,11 +49880,11 @@
       },
       "versions": [
         {
-          "version": "30.1.1",
-          "date": "2026-06-16",
+          "version": "30.1.3",
+          "date": "2026-06-17",
           "localizedDescription": "Tweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_1_1_Subscription_Unlocked_blatant.ipa",
-          "size": 111968371
+          "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_1_3_Subscription_Unlocked_blatant.ipa",
+          "size": 111971460
         }
       ],
       "category": "photo-&-video"
