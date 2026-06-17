@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.LEMO.LemoFM",
     "su.ffg.happ.plus",
     "co.bazaart.app",
     "com.myfitnesspal.mfp",
-    "com.tranzmate.tranzmate1",
-    "com.firecore.infuse"
+    "com.tranzmate.tranzmate1"
   ],
   "apps": [
     {
@@ -35925,14 +35925,14 @@
       "bundleIdentifier": "com.LEMO.LemoFM",
       "developerName": "FocusPomo Apps",
       "subtitle": "Tweaked with LemoFM, blatantsPatch",
-      "version": "1.11.1",
-      "versionDate": "2026-03-08",
+      "version": "1.11.2",
+      "versionDate": "2026-06-17",
       "versionDescription": "Tweaks: LemoFM, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/LEMO_FM_relax_._sleep_sound_v1_11_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LEMO_FM_relax_&_sleep_sound_v1_11_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: LemoFM, blatantsPatch\n\nLEMO FM - relax & sleep sound\n\n---\nLEMO FM is an ultra-simple, elegant white noise App designed to help users achieve better sleep quality, resolve insomnia and anxiety issues and ultimately lead healthier lives. By playing high-definition natural sounds, it allows you to focus, relax, or fall asleep quickly, and achieve a healthier lifestyle and sleep. Under the philosophy of \"Less is more,\" we designed LEMO FM. Its interface is a simple and elegant radio design. When your finger touches the radio button, natural sounds start pl",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/43/2a/64432ac2-dd65-b9d0-a35d-c9a0230c9629/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/90/02/72900222-e3d9-34f6-e3fc-1e0e26c71c1c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 103668362,
+      "size": 101861825,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f7/06/fc/f706fce8-5a94-d5ea-ca56-5bf02c890cf1/d36b8b67-851e-4b5c-bc99-7da3b6d6cb6e__U82f1-_U5956_U9879.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/07/e7/23/07e72313-bd00-dc17-0f7c-1e573dcd9b96/e90bd5f5-2a6d-4a40-81c3-a326f3bfc836__U753b_U677f_U5907_U4efd_6.jpg/392x696bb.jpg",
@@ -35941,16 +35941,21 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/de/fe/7a/defe7a47-a06d-6b59-2321-6f63fdfa2fe3/7e048cb2-209f-4fbd-9995-8cdd81a5d615__U753b_U677f_U5907_U4efd_9.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.security.application-groups",
+          "aps-environment"
+        ],
         "privacy": {}
       },
       "versions": [
         {
-          "version": "1.11.1",
-          "date": "2026-03-08",
+          "version": "1.11.2",
+          "date": "2026-06-17",
           "localizedDescription": "Tweaks: LemoFM, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/LEMO_FM_relax_._sleep_sound_v1_11_1_Subscription_Unlocked_blatant.ipa",
-          "size": 103668362
+          "downloadURL": "https://telos.ftp.sh/ipas/LEMO_FM_relax_&_sleep_sound_v1_11_2_Subscription_Unlocked_blatant.ipa",
+          "size": 101861825
         }
       ],
       "category": "health-&-fitness"
