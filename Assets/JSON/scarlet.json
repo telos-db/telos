@@ -10657,18 +10657,17 @@
       "bundleIdentifier": "com.mobisystems.OxfordDictionaryOfEnglishFree",
       "developerName": "MobiSystems, Inc.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, OxfordDictionary, blatantsPatch\n\nOxford Dictionary & Thesaurus\n\n---\nDiscover the power of words with the Oxford Dictionary, the definitive language resource trusted by millions worldwide. This comprehensive app, powered by Oxford Languages, offers a wealth of linguistic tools to help you achieve your language goals.\n\n■ 15 OXFORD DICTIONARIES AT YOUR FINGERTIPS:\n• Access a vast collection of dictionaries for English, French, German, Spanish, Russian, Chinese, Italian, Hindi, Urdu, Portuguese, Japanese, Greek, Bulgarian, and Thai.\n\n■ UNMATCHED LANGUAGE CONTENT:\n•",
-      "version": "15.22",
-      "versionDate": "2026-06-06T09:27:11-00:00",
-      "versionDescription": "Build 650 from @blatants",
-      "size": 44775817,
+      "version": "16.2",
+      "versionDate": "2026-06-17T13:28:25-00:00",
+      "versionDescription": "Build 672 from @blatants",
+      "size": 45681821,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/dd/a4/e8dda46b-c976-af5d-557a-f9418e414679/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Oxford_Dictionary_&_Thesaurus_v15_22_Premium_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Oxford_Dictionary_&_Thesaurus_v16_2_Premium_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -10676,7 +10675,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Oxford_Dictionary_&_Thesaurus_v15_22_Premium_Unlocked_blatant_Patched.ipa"
+        "originalFile": "Oxford_Dictionary_&_Thesaurus_v16_2_Premium_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -27921,33 +27920,6 @@
       }
     },
     {
-      "name": "NOAA Radar",
-      "bundleIdentifier": "com.itwcalculator.worldradarfree",
-      "developerName": "Impala Studios",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: WeatherRadar, blatantsPatch\n\nWeather Radar - Channel\n\n---\nUnpredictable rain. Sudden storms. Missed alerts.\n\nThe weather can change everything - your plans, your safety, your day. Whether you’re heading out for a jog, planning a trip, or keeping an eye on a nearby hurricane, staying informed should be easy.\n\nWeather Radar brings everything you need into one simple, powerful app - a live radar map, storm tracker, and accurate forecast tool designed to help you plan better, stay safe, and feel in control.\n\nWITH WEATHER RADAR YOU CAN:\n ▶ See live radar ma",
-      "version": "5.17.3",
-      "versionDate": "2026-06-06T07:03:50-00:00",
-      "versionDescription": "Build 13685 from @blatants",
-      "size": 143991228,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/7a/53/847a53a3-25bd-d483-2611-083ad8c01a9b/appIcon_2025-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Weather_Radar_Channel_v5_17_3_Subscription_Unlocked_blatant_Patched.ipa",
-      "minOSVersion": "16.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        0,
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@blatants",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Weather_Radar_Channel_v5_17_3_Subscription_Unlocked_blatant_Patched.ipa"
-      }
-    },
-    {
       "name": "Noblemen",
       "bundleIdentifier": "com.foursakenmedia.civilwar",
       "developerName": "Foursaken Media",
@@ -29275,6 +29247,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "com.handy.optus-1.7.5-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "Ora Weather",
+      "bundleIdentifier": "com.itwcalculator.worldradarfree",
+      "developerName": "Impala Studios",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: WeatherRadar, blatantsPatch\n\nOra Weather - Radar Channel\n\n---\nUnpredictable rain. Sudden storms. Missed alerts.\n\nThe weather can change everything - your plans, your safety, your day. Whether you’re heading out for a jog, planning a trip, or keeping an eye on a nearby hurricane, staying informed should be easy.\n\nWeather Radar brings everything you need into one simple, powerful app - a live radar map, storm tracker, and accurate forecast tool designed to help you plan better, stay safe, and feel in control.\n\nWITH WEATHER RADAR YOU CAN:\n ▶ See live radar ma",
+      "version": "6.0.0",
+      "versionDate": "2026-06-17T13:27:03-00:00",
+      "versionDescription": "Build 1190 from @blatants",
+      "size": 102841920,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/7a/53/847a53a3-25bd-d483-2611-083ad8c01a9b/appIcon_2025-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Ora_Weather_Radar_Channel_v6_0_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "minOSVersion": "18.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@blatants",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Ora_Weather_Radar_Channel_v6_0_0_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -42679,6 +42677,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Good Things gratitude journal-v6.3.2-riftysipas.ipa"
+      }
+    },
+    {
+      "name": "Tiba",
+      "bundleIdentifier": "com.amf.tiba",
+      "developerName": "ABDEL KHALEK MAHMOUD ABDEL KHALEK FOUDA",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nTIBA is the trusted drug index for healthcare professionals in Egypt. Whether you need to check a dose, verify drug interactions, or find medication details, TIBA keeps an eye on everything you need. Built by Egy medical experts at AMF.\n\nKEY FEATURES\n\nComprehensive Drug Database\n- Browse Egypt's complete approved medications index\n- Check accurate dose information, pricing, and availability\n- Access detailed clinical profiles and prescribing guidelines\n\nAI-Powered Assistant\n- Ask questions natur",
+      "version": "1.59",
+      "versionDate": "2026-06-17T13:24:12-00:00",
+      "versionDescription": "Build 85 from @thescholarslounge",
+      "size": 18883743,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/37/fe/f337fe9f-9416-aae4-f979-4bff9f12a3d4/AppIcon-Tiba-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.amf.tiba-1.59-eeveedecrypter.ipa",
+      "minOSVersion": "15.6",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.amf.tiba-1.59-eeveedecrypter.ipa"
       }
     },
     {
