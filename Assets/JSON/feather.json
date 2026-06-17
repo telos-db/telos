@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.aone.Keka-iOS",
     "tech.sketchar.ios",
     "com.calm.calmapp",
     "com.LEMO.LemoFM",
-    "su.ffg.happ.plus",
-    "co.bazaart.app"
+    "su.ffg.happ.plus"
   ],
   "apps": [
     {
@@ -33895,6 +33895,35 @@
         }
       ],
       "category": "education"
+    },
+    {
+      "name": "Keka",
+      "bundleIdentifier": "com.aone.Keka-iOS",
+      "developerName": "Jorge Garcia Armero",
+      "subtitle": "Keka for iOS",
+      "version": "1.6.4",
+      "versionDate": "2026-06-17",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.aone.Keka-iOS_1.6.4_decrypted.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nKeka is a full featured file archiver, as easy as it can be.\n\nWith Keka you can compress as many files as you want in a bunch of formats. You can also encrypt them to store and share securely and with privacy.\n\nKeka can also browse and extract lots of compressed files, from ZIP and 7Z to RAR archives. Whether they are encrypted or encoded in with old charsets this is not a problem for Keka.\n\nCompression formats supported:\n7Z, ZIP, TAR, ZSTD, GZIP, BZIP2 and AppleArchive (AAR)\n\nExtraction formats",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/19/a3/9119a39e-9d86-d90d-693a-7d719b471ab3/Keka-iOS-Smile-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 25121987,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.6.4",
+          "date": "2026-06-17",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.aone.Keka-iOS_1.6.4_decrypted.ipa",
+          "size": 25121987
+        }
+      ],
+      "category": "utilities"
     },
     {
       "name": "Kelo",
