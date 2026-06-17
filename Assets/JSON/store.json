@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.readdle.Scanner",
+    "com.duolingo.DuolingoMobile",
     "com.mobisystems.OxfordDictionaryOfEnglishFree",
     "com.itwcalculator.worldradarfree",
-    "com.amf.tiba",
-    "com.elevateapp.kamino.kamino",
-    "com.dopedevelopment.Panels"
+    "com.amf.tiba"
   ],
   "apps": [
     {
@@ -18318,14 +18318,14 @@
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "Duolingo",
       "subtitle": "All Features | Patched",
-      "version": "7.127.0",
-      "versionDate": "2026-06-16",
+      "version": "7.127.1",
+      "versionDate": "2026-06-17",
       "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_127_0_Duolingo_MAX_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_127_1_Duolingo_MAX_Unlocked_blatant.ipa",
       "localizedDescription": "All Features | Patched | Tweaked\n\nDuolingo: Language Lessons",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/a9/fc/f5a9fc8b-90a2-560e-1482-7c9fc708497e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 204529248,
+      "size": 204528551,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/16/35/0d16355e-7b7a-4903-aa0a-ecfefdaa7e08/b715d679-c25d-41c1-8b55-6c00114fa81e_en_iphone5.5_screen_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/14/cd/f814cd12-cb2b-baeb-2870-404d9186defb/93f4d1c8-4144-44de-8b57-a5a091c838f4_iPhone_5.5_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_3.png/392x696bb.png",
@@ -18358,11 +18358,11 @@
       },
       "versions": [
         {
-          "version": "7.127.0",
-          "date": "2026-06-16",
+          "version": "7.127.1",
+          "date": "2026-06-17",
           "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_127_0_Duolingo_MAX_Unlocked_blatant.ipa",
-          "size": 204529248
+          "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_127_1_Duolingo_MAX_Unlocked_blatant.ipa",
+          "size": 204528551
         }
       ],
       "category": "education"
@@ -56416,15 +56416,15 @@
       "name": "Scanner Pro",
       "bundleIdentifier": "com.readdle.Scanner",
       "developerName": "Readdle Technologies Limited",
-      "subtitle": "*Tweak:** Plus Unlocked | *Patched ✓**",
-      "version": "8.36.4",
-      "versionDate": "2026-06-08",
-      "versionDescription": "Tweaks: AutoRevenueCat, FilePickerFix, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Scanner Pro - Scan Documents-v8.36.4-riftysipas.ipa",
-      "localizedDescription": "*Tweak:** Plus Unlocked | *Patched ✓**\n\nScanner Pro - Scan Documents",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "8.37.0",
+      "versionDate": "2026-06-17",
+      "versionDescription": "Tweaks: ScannerPro, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Scanner_Pro・Scan_PDF_Documents_v8_37_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nScanner Pro・Scan PDF Documents",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/49/36/fe49363f-a905-bad1-24d6-d2b2ff08cff8/ScannerPro-NoFlag-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 180978460,
+      "size": 188071083,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -56442,11 +56442,11 @@
       },
       "versions": [
         {
-          "version": "8.36.4",
-          "date": "2026-06-03",
-          "localizedDescription": "Tweaks: AutoRevenueCat, FilePickerFix, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Scanner Pro - Scan Documents-v8.36.4-riftysipas.ipa",
-          "size": 180978460
+          "version": "8.37.0",
+          "date": "2026-06-17",
+          "localizedDescription": "Tweaks: ScannerPro, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Scanner_Pro・Scan_PDF_Documents_v8_37_Subscription_Unlocked_blatant.ipa",
+          "size": 188071083
         }
       ],
       "category": "business"
@@ -78221,7 +78221,7 @@
     {
       "title": "⚙️ Telos Update 6.17",
       "identifier": "telos-update-2026-06-17",
-      "caption": "38 Apps Updated:\n• 12 Health & Fitness\n• 4 Photo & Video\n• 4 Utilities\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Navigation\n• 2 Business\n• 2 Lifestyle\n• 2 Weather\n• 2 Medical\n• 2 Reference",
+      "caption": "46 Apps Updated:\n• 12 Health & Fitness\n• 6 Business\n• 4 Photo & Video\n• 4 Utilities\n• 4 Education\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Navigation\n• 2 Lifestyle\n• 2 Weather\n• 2 Medical\n• 2 Reference",
       "date": "2026-06-17",
       "tintColor": "#02433b",
       "notify": true,
