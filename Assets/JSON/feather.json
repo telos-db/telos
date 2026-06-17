@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.yazio.ios.YAZIO",
+    "com.linecorp.b612",
+    "com.google.ios.youtube",
     "com.tripleglazedstudios.Weather",
-    "com.campmobile.snow",
-    "com.wellocution.iosapp",
-    "com.itwcalculator.calculatorforipadfree",
-    "com.joytunes.Draw"
+    "com.campmobile.snow"
   ],
   "apps": [
     {
@@ -5559,14 +5559,14 @@
       "bundleIdentifier": "com.linecorp.b612",
       "developerName": "SNOW Corporation",
       "subtitle": "Tweaked with B612, blatantsPatch",
-      "version": "15.1.6",
-      "versionDate": "2026-06-10",
+      "version": "15.2.1",
+      "versionDate": "2026-06-17",
       "versionDescription": "Tweaks: B612, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/B612_AI_Photo&Video_Editor_v15_1_6_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/B612_AI_Photo&Video_Editor_v15_2_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: B612, blatantsPatch\n\nB612 AI Photo&Video Editor\n\n---\nB612 is the best all-in-one camera & photo/video editing app. We offer various free features and tools to make every moment more special.\nMeet trendy effects, filters, and stickers that are updated every day!\n\n=== Main features ===\n\nCreate your own filters\n- Create a one-of-a-kind filter and share it with friends\n- No problem even if it's your first time creating a filter. Filters are easily completed with just a few touches.\n- Meet the creative and diverse filters of B612 creators.\n\nSmarter CAM",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/51/61/40516193-9b1e-0f21-37f1-3cba4e676853/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 144552817,
+      "size": 149336213,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/90/af/ca/90afcae4-5ffc-c03b-bd81-68160de39fba/c602a0cc-9168-4dca-b0e0-443e76620fb3_01_2__U00283_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/60/02/0a/60020af4-6784-d55a-1d6d-ff3dbbd42acf/48553c9d-ffb9-4da2-a91a-3c254eb038dd_02.png/392x696bb.png",
@@ -5595,11 +5595,11 @@
       },
       "versions": [
         {
-          "version": "15.1.6",
-          "date": "2026-06-10",
+          "version": "15.2.1",
+          "date": "2026-06-17",
           "localizedDescription": "Tweaks: B612, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/B612_AI_Photo&Video_Editor_v15_1_6_Subscription_Unlocked_blatant.ipa",
-          "size": 144552817
+          "downloadURL": "https://telos.ftp.sh/ipas/B612_AI_Photo&Video_Editor_v15_2_1_Subscription_Unlocked_blatant.ipa",
+          "size": 149336213
         }
       ],
       "category": "photo-&-video"
@@ -76928,14 +76928,14 @@
       "bundleIdentifier": "com.yazio.ios.YAZIO",
       "developerName": "YAZIO",
       "subtitle": "Tweaked with Yazio, blatantsPatch",
-      "version": "12.85.1",
-      "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v12_85_1_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Yazio, blatantsPatch\n\n---\nWelcome to Yazio, the most effective AI calorie tracker, intermittent fasting app and food tracker for losing weight without dieting!\n\nTrack calories, eat better and reach your goals with Yazio’s free calorie counter app!\nYazio is your all-in-one solution, whether you're aiming for a calorie deficit, tracking meals or looking for an advanced AI calorie tracker. Designed to support sustainable weight loss, muscle gain and weight maintenance, Yazio empowers you to make smart food choices with the",
+      "version": "12.89.1",
+      "versionDate": "2026-06-17",
+      "versionDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v12_89_1_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Yazio, blatantsPatch\n\nAI Calorie Tracker by Yazio\n\n---\nWelcome to Yazio, the most effective AI calorie tracker, intermittent fasting app and food tracker for losing weight without dieting!\n\nTrack calories, eat better and reach your goals with Yazio’s free calorie counter app!\nYazio is your all-in-one solution, whether you're aiming for a calorie deficit, tracking meals or looking for an advanced AI calorie tracker. Designed to support sustainable weight loss, muscle gain and weight maintenance, Yazio empowers you to make smart food choices with the",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/f5/53/69f55376-d2af-5f99-ece4-0427b0aa4a87/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 142141168,
+      "size": 149178329,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/1b/ed/dd1bed03-d11e-5e69-88b3-10c1b502e14e/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a8/03/01a803c9-f793-71e8-02c8-b0a84d66334b/ea43d2d8-5944-4881-b46a-1cca3413f608_1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
@@ -76964,11 +76964,11 @@
       },
       "versions": [
         {
-          "version": "12.85.1",
-          "date": "2026-06-16",
-          "localizedDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v12_85_1_Subscription_Unlocked_blatant.ipa",
-          "size": 142141168
+          "version": "12.89.1",
+          "date": "2026-06-17",
+          "localizedDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v12_89_1_Subscription_Unlocked_blatant.ipa",
+          "size": 149178329
         }
       ],
       "category": "health-&-fitness"
@@ -77258,13 +77258,13 @@
       "developerName": "Google",
       "subtitle": "Tweaked with CydiaSubstrate, DontEatMyContent",
       "version": "21.24.3",
-      "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/YTKillerPlus_21.24.3_5.5.6.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
+      "versionDate": "2026-06-17",
+      "versionDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/YTKillerPlus_21.24.3_5.6.1.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nYouTube 21.24.3\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 132227745,
+      "size": 132408540,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -77301,10 +77301,10 @@
       "versions": [
         {
           "version": "21.24.3",
-          "date": "2026-06-16",
-          "localizedDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/YTKillerPlus_21.24.3_5.5.6.ipa",
-          "size": 132227745
+          "date": "2026-06-17",
+          "localizedDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/YTKillerPlus_21.24.3_5.6.1.ipa",
+          "size": 132408540
         }
       ],
       "category": "photo-&-video"
