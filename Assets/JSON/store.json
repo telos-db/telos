@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.mobisystems.OxfordDictionaryOfEnglishFree",
+    "com.itwcalculator.worldradarfree",
+    "com.amf.tiba",
     "com.elevateapp.kamino.kamino",
-    "com.dopedevelopment.Panels",
-    "com.wikiloc.wikiloc",
-    "com.moonly.Moonly",
-    "scannerapp.free"
+    "com.dopedevelopment.Panels"
   ],
   "apps": [
     {
@@ -16663,14 +16663,14 @@
       "bundleIdentifier": "com.mobisystems.OxfordDictionaryOfEnglishFree",
       "developerName": "MobiSystems, Inc.",
       "subtitle": "Premium Unlocked | Patched",
-      "version": "16.1",
-      "versionDate": "2026-06-02",
+      "version": "16.2",
+      "versionDate": "2026-06-17",
       "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OxfordDictionary, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Oxford_Dictionary_&_Thesaurus_v16_1_Premium_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Oxford_Dictionary_&_Thesaurus_v16_2_Premium_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nOxford Dictionary & Thesaurus",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/dd/a4/e8dda46b-c976-af5d-557a-f9418e414679/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 45641645,
+      "size": 45681821,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/39/34/d139348d-39cc-f79f-3620-7d56ae73cd85/11779ef8-3f67-41bf-99b8-75fab9a32ef0_ODE_8_EN_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/23/d2/d523d26a-a69e-189f-2b80-3a7f45060ffa/20781f65-338d-4c95-90e7-32cba079befb_ODE_8_EN_02.png/392x696bb.png",
@@ -16693,11 +16693,11 @@
       },
       "versions": [
         {
-          "version": "16.1",
-          "date": "2026-05-20",
+          "version": "16.2",
+          "date": "2026-06-17",
           "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OxfordDictionary, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Oxford_Dictionary_&_Thesaurus_v16_1_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 45641645
+          "downloadURL": "https://telos.ftp.sh/ipas/Oxford_Dictionary_&_Thesaurus_v16_2_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 45681821
         }
       ],
       "category": "reference"
@@ -44078,52 +44078,6 @@
       "category": "photo-&-video"
     },
     {
-      "name": "NOAA Radar",
-      "bundleIdentifier": "com.itwcalculator.worldradarfree",
-      "developerName": "Impala Studios",
-      "subtitle": "Subscription Unlocked | Patched",
-      "version": "5.17.3",
-      "versionDate": "2026-06-06",
-      "versionDescription": "Tweaks: WeatherRadar, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Weather_Radar_Channel_v5_17_3_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nWeather Radar - Channel",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/7a/53/847a53a3-25bd-d483-2611-083ad8c01a9b/appIcon_2025-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 143991228,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/2e/b0/282eb076-e49b-5770-c533-9d985ca845d5/d4728989-f20d-4c8b-aea9-4416524952fa_iPhone5.5_01.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/d8/f5/ded8f574-2bf0-e8e2-7031-d9d276817f36/3f20bc18-77a9-417f-a7a7-36fccb4a11e7_iPhone5.5_02.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/4f/ab/ad4fab05-71d3-06cc-3b6b-af2379a741a8/8b637c52-4fe4-40d8-b84d-376b7d1fc3a3_iPhone5.5_10.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/5d/0b/b95d0bfb-c0b2-e02f-faf6-8ae453dd646c/80b3d651-4d9f-417b-b905-8eed524f1d93_iPhone5.5_04.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/a4/f8/22a4f891-8276-f7f9-2a58-7e9ccbdf5bb9/88dfdd53-3b56-4d1b-96a4-4fd8f744e34e_iPhone5.5_03.png/392x696bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "aps-environment",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.associated-domains",
-          "com.apple.security.application-groups"
-        ],
-        "privacy": {
-          "NSLocationWhenInUseUsageDescription": "We use your location to show you the local weather.",
-          "NSLocationAlwaysUsageDescription": "We use your location to show you the local weather.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "We use your location to show you the local weather.",
-          "NSUserTrackingUsageDescription": "By tapping ‘Allow’, we and our partners may access specific identifiers on your device, provide personalized ads, perform ad and content measurement, and gather audience insights. For more information, see our Privacy Policy & Terms and Conditions.",
-          "NSPhotoLibraryAddUsageDescription": "NOAA Radar needs to access your photo library in order to export warnings."
-        }
-      },
-      "versions": [
-        {
-          "version": "5.17.3",
-          "date": "2026-04-16",
-          "localizedDescription": "Tweaks: WeatherRadar, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Weather_Radar_Channel_v5_17_3_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 143991228
-        }
-      ],
-      "category": "weather"
-    },
-    {
       "name": "Noblemen",
       "bundleIdentifier": "com.foursakenmedia.civilwar",
       "developerName": "Foursaken Media",
@@ -46238,6 +46192,51 @@
         }
       ],
       "category": "entertainment"
+    },
+    {
+      "name": "Ora Weather",
+      "bundleIdentifier": "com.itwcalculator.worldradarfree",
+      "developerName": "Impala Studios",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "6.0.0",
+      "versionDate": "2026-06-17",
+      "versionDescription": "Tweaks: WeatherRadar, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Ora_Weather_Radar_Channel_v6_0_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nOra Weather - Radar Channel",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/7a/53/847a53a3-25bd-d483-2611-083ad8c01a9b/appIcon_2025-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 102841920,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/2e/b0/282eb076-e49b-5770-c533-9d985ca845d5/d4728989-f20d-4c8b-aea9-4416524952fa_iPhone5.5_01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/d8/f5/ded8f574-2bf0-e8e2-7031-d9d276817f36/3f20bc18-77a9-417f-a7a7-36fccb4a11e7_iPhone5.5_02.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/4f/ab/ad4fab05-71d3-06cc-3b6b-af2379a741a8/8b637c52-4fe4-40d8-b84d-376b7d1fc3a3_iPhone5.5_10.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/5d/0b/b95d0bfb-c0b2-e02f-faf6-8ae453dd646c/80b3d651-4d9f-417b-b905-8eed524f1d93_iPhone5.5_04.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/a4/f8/22a4f891-8276-f7f9-2a58-7e9ccbdf5bb9/88dfdd53-3b56-4d1b-96a4-4fd8f744e34e_iPhone5.5_03.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "We use your location to provide you a better app experience.",
+          "NSLocationAlwaysUsageDescription": "We use your location to provide you a better app experience.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "We use your location to provide you a better app experience.",
+          "NSUserTrackingUsageDescription": "By tapping ‘Allow’, we and our partners may access specific identifiers on your device, provide personalized ads, perform ad and content measurement, and gather audience insights. For more information, see our Privacy Policy & Terms and Conditions."
+        }
+      },
+      "versions": [
+        {
+          "version": "6.0.0",
+          "date": "2026-06-17",
+          "localizedDescription": "Tweaks: WeatherRadar, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Ora_Weather_Radar_Channel_v6_0_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 102841920
+        }
+      ],
+      "category": "weather"
     },
     {
       "name": "Orange Phone",
@@ -67350,6 +67349,37 @@
       "category": "health-&-fitness"
     },
     {
+      "name": "Tiba",
+      "bundleIdentifier": "com.amf.tiba",
+      "developerName": "ABDEL KHALEK MAHMOUD ABDEL KHALEK FOUDA",
+      "subtitle": "Tiba for iOS",
+      "version": "1.59",
+      "versionDate": "2026-06-17",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.amf.tiba-1.59-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/37/fe/f337fe9f-9416-aae4-f979-4bff9f12a3d4/AppIcon-Tiba-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 18883743,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSUserTrackingUsageDescription": "This helps us understand how you found our app and improve your experience."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.59",
+          "date": "2026-06-15",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.amf.tiba-1.59-eeveedecrypter.ipa",
+          "size": 18883743
+        }
+      ],
+      "category": "medical"
+    },
+    {
       "name": "TickTick",
       "bundleIdentifier": "com.TickTick.task",
       "developerName": "Appest Limited",
@@ -78191,7 +78221,7 @@
     {
       "title": "⚙️ Telos Update 6.17",
       "identifier": "telos-update-2026-06-17",
-      "caption": "36 Apps Updated:\n• 14 Health & Fitness\n• 6 Photo & Video\n• 4 Utilities\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Navigation\n• 2 Business\n• 2 Lifestyle",
+      "caption": "44 Apps Updated:\n• 12 Health & Fitness\n• 4 Photo & Video\n• 4 Utilities\n• 4 Weather\n• 4 Medical\n• 4 Reference\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Navigation\n• 2 Business\n• 2 Lifestyle",
       "date": "2026-06-17",
       "tintColor": "#02433b",
       "notify": true,
