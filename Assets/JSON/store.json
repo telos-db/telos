@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.aone.Keka-iOS",
     "tech.sketchar.ios",
     "com.calm.calmapp",
     "com.LEMO.LemoFM",
-    "su.ffg.happ.plus",
-    "co.bazaart.app"
+    "su.ffg.happ.plus"
   ],
   "apps": [
     {
@@ -33362,6 +33362,35 @@
         }
       ],
       "category": "education"
+    },
+    {
+      "name": "Keka",
+      "bundleIdentifier": "com.aone.Keka-iOS",
+      "developerName": "Jorge Garcia Armero",
+      "subtitle": "Keka for iOS",
+      "version": "1.6.4",
+      "versionDate": "2026-06-17",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.aone.Keka-iOS_1.6.4_decrypted.ipa",
+      "localizedDescription": "Keka for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/19/a3/9119a39e-9d86-d90d-693a-7d719b471ab3/Keka-iOS-Smile-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 25121987,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.6.4",
+          "date": "2026-05-04",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.aone.Keka-iOS_1.6.4_decrypted.ipa",
+          "size": 25121987
+        }
+      ],
+      "category": "utilities"
     },
     {
       "name": "Kelo",
@@ -78077,7 +78106,7 @@
     {
       "title": "⚙️ Telos Update 6.17",
       "identifier": "telos-update-2026-06-17",
-      "caption": "10 Apps Updated:\n• 6 Health & Fitness\n• 4 Graphics & Design",
+      "caption": "10 Apps Updated:\n• 4 Health & Fitness\n• 4 Utilities\n• 2 Graphics & Design",
       "date": "2026-06-17",
       "tintColor": "#02433b",
       "notify": true,
