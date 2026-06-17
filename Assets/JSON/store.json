@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.predictivefitness.tridot-v2",
     "com.picsart.studio",
     "com.newchat.hai",
     "com.aone.Keka-iOS",
-    "tech.sketchar.ios",
-    "com.calm.calmapp"
+    "tech.sketchar.ios"
   ],
   "apps": [
     {
@@ -69334,6 +69334,56 @@
       "category": "photo-&-video"
     },
     {
+      "name": "TriDot",
+      "bundleIdentifier": "com.predictivefitness.tridot-v2",
+      "developerName": "Predictive Fitness, Inc.",
+      "subtitle": "TriDot for iOS",
+      "version": "1.1.2",
+      "versionDate": "2026-06-17",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.predictivefitness.tridot-v2-1.1.2-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/c7/b4/f8c7b4f7-554f-68b8-5458-8dc720871f97/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 38051375,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/3b/ed/b13bed12-c05d-eb2c-9ec4-4ddcc36a5a09/TriDot-App-Store-Preview-5.5-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/97/77/a397772f-8dc1-eefc-94d4-6f4dec1ab773/TriDot-App-Store-Preview-5.5-2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/47/0f/88470f8d-eb70-dee7-6317-1107b5681403/TriDot-App-Store-Preview-5.5-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/d5/91/57d59105-2e8c-a260-2245-594dd0993f48/TriDot-App-Store-Preview-5.5-4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/34/e9/3a34e93c-c0a4-385e-0939-885c5307772b/TriDot-App-Store-Preview-5.5-5.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "TriDot needs access to your photo library to select profile images.",
+          "NSCameraUsageDescription": "TriDot will access the camera only to update a profile image.",
+          "NSMicrophoneUsageDescription": "Allow TriDot to use the microphone.",
+          "NSLocationWhenInUseUsageDescription": "Allow TriDot to use your location to provide weather information for your workouts.",
+          "NSLocationAlwaysUsageDescription": "Allow TriDot to access your location",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Allow TriDot to access your location",
+          "NSContactsUsageDescription": "Allow TriDot to access your contacts to find friends who are already using the app.",
+          "NSMotionUsageDescription": "TriDot needs to access the barometer on your phone.",
+          "NSHealthShareUsageDescription": "TriDot needs to read your workout data from Apple Health to sync your activities.",
+          "NSHealthUpdateUsageDescription": "TriDot needs to write your workout data to Apple Health.",
+          "NSSiriUsageDescription": "TriDot can use Siri to help with your workouts.",
+          "NSSpeechRecognitionUsageDescription": "Allow TriDot to use speech recognition.",
+          "NSFaceIDUsageDescription": "Allow TriDot to access your Face ID biometric data.",
+          "NSBluetoothAlwaysUsageDescription": "TriDot uses Bluetooth to connect to your fitness devices."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.1.2",
+          "date": "2026-06-09",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.predictivefitness.tridot-v2-1.1.2-eeveedecrypter.ipa",
+          "size": 38051375
+        }
+      ],
+      "category": "health-&-fitness"
+    },
+    {
       "name": "Tripsy",
       "bundleIdentifier": "app.tripsy.ios",
       "developerName": "Tripsy LLC",
@@ -78141,7 +78191,7 @@
     {
       "title": "⚙️ Telos Update 6.17",
       "identifier": "telos-update-2026-06-17",
-      "caption": "14 Apps Updated:\n• 4 Photo & Video\n• 4 Health & Fitness\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Utilities",
+      "caption": "16 Apps Updated:\n• 8 Health & Fitness\n• 2 Photo & Video\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Utilities",
       "date": "2026-06-17",
       "tintColor": "#02433b",
       "notify": true,
