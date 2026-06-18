@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.burbn.instagram",
+    "com.fouadraheb.regram",
     "com.wellocution.iosapp",
     "com.adobe.fresco.ios",
-    "com.apalonapps.wlf",
-    "fun.ask",
-    "com.frameoneapps.Crsel"
+    "com.apalonapps.wlf"
   ],
   "apps": [
     {
@@ -31542,15 +31542,15 @@
       "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram, Inc.",
-      "subtitle": "Tweaked with Beegram, CydiaSubstrate",
+      "subtitle": "Cracked",
       "version": "434.0.0",
-      "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: Beegram, CydiaSubstrate, RegramExtension, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@igbeta_ipa]_434.0.0_BE.ipa",
-      "localizedDescription": "Instagram for iOS",
+      "versionDate": "2026-06-18",
+      "versionDescription": "Tweaks: Regram, RegramExtension\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.burbn.instagram_434.0.0_regram_5.0_sl.ipa",
+      "localizedDescription": "Cracked\n\nRegram for Instagram",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/27/d5/0827d502-4f9c-106e-9086-63fbfef56ca6/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 304635174,
+      "size": 323647006,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/c5/c7/b9c5c720-07ca-29c7-a67f-8fd2e2cd2b72/2_iOS_5.5.jpg/392x696bb.jpg",
@@ -31561,19 +31561,18 @@
       "appPermissions": {
         "entitlements": [
           "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.avfoundation.multitasking-camera-access",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.networking.HotspotConfiguration",
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-appclip-app-identifiers",
           "com.apple.developer.declared-age-range",
-          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.avfoundation.multitasking-camera-access",
           "aps-environment",
           "com.apple.developer.icloud-container-environment",
           "com.apple.developer.usernotifications.time-sensitive",
           "com.apple.developer.associated-domains",
-          "com.apple.developer.networking.wifi-info"
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
@@ -31593,10 +31592,10 @@
       "versions": [
         {
           "version": "434.0.0",
-          "date": "2026-06-16",
-          "localizedDescription": "Tweaks: Beegram, CydiaSubstrate, RegramExtension, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/[TG@igbeta_ipa]_434.0.0_BE.ipa",
-          "size": 304635174
+          "date": "2026-06-15",
+          "localizedDescription": "Tweaks: Regram, RegramExtension\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.burbn.instagram_434.0.0_regram_5.0_sl.ipa",
+          "size": 323647006
         }
       ],
       "category": "photo-&-video"
@@ -31606,14 +31605,14 @@
       "bundleIdentifier": "com.fouadraheb.regram",
       "developerName": "Instagram, Inc.",
       "subtitle": "Cracked",
-      "version": "431.0.0",
-      "versionDate": "2026-06-15",
+      "version": "434.0.0",
+      "versionDate": "2026-06-18",
       "versionDescription": "Tweaks: Regram, RegramExtension\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.fouadraheb.regram_431.0.0_regram_4.1_sl.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.fouadraheb.regram_434.0.0_regram_5.0_sl.ipa",
       "localizedDescription": "Cracked\n\nRegram for Instagram Duplicate",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/cd/d6/68cdd6cf-a186-a0b0-b90b-cc98516c8404/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/a5/94/8da594e9-38e1-f757-45c7-f78856992264/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 257561654,
+      "size": 262553201,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/c5/c7/b9c5c720-07ca-29c7-a67f-8fd2e2cd2b72/2_iOS_5.5.jpg/392x696bb.jpg",
@@ -31640,11 +31639,11 @@
       },
       "versions": [
         {
-          "version": "431.0.0",
-          "date": "2026-06-15",
+          "version": "434.0.0",
+          "date": "2026-06-18",
           "localizedDescription": "Tweaks: Regram, RegramExtension\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.fouadraheb.regram_431.0.0_regram_4.1_sl.ipa",
-          "size": 257561654
+          "downloadURL": "https://telos.ftp.sh/ipas/com.fouadraheb.regram_434.0.0_regram_5.0_sl.ipa",
+          "size": 262553201
         }
       ],
       "category": "photo-&-video"
@@ -78282,7 +78281,7 @@
     {
       "title": "⚙️ Telos Update 6.18",
       "identifier": "telos-update-2026-06-18",
-      "caption": "40 Apps Updated:\n• 8 Health & Fitness\n• 6 Photo & Video\n• 4 Graphics & Design\n• 4 Lifestyle\n• 4 Education\n• 2 Finance\n• 2 Music\n• 2 Travel\n• 2 Productivity\n• 2 Shopping\n• 2 News\n• 2 Weather",
+      "caption": "52 Apps Updated:\n• 22 Photo & Video\n• 8 Health & Fitness\n• 4 Lifestyle\n• 2 Finance\n• 2 Graphics & Design\n• 2 Music\n• 2 Travel\n• 2 Productivity\n• 2 Shopping\n• 2 News\n• 2 Weather\n• 2 Education",
       "date": "2026-06-18",
       "tintColor": "#02433b",
       "notify": true,
