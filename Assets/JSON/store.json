@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.ulisesolave.Fitia",
     "com.pixite.pigment",
     "com.google.ios.youtube",
     "com.yazio.ios.YAZIO",
-    "com.linecorp.b612",
-    "com.tripleglazedstudios.Weather"
+    "com.linecorp.b612"
   ],
   "apps": [
     {
@@ -22302,14 +22302,14 @@
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "23.1.11",
-      "versionDate": "2026-06-16",
+      "version": "23.1.12",
+      "versionDate": "2026-06-18",
       "versionDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_11_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_12_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFitia: Calorie Counter & Diet",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/18/c2/8e18c267-859b-7791-b7ca-d2fbc39d887e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 105108378,
+      "size": 105108658,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -22336,11 +22336,11 @@
       },
       "versions": [
         {
-          "version": "23.1.11",
-          "date": "2026-06-16",
+          "version": "23.1.12",
+          "date": "2026-06-18",
           "localizedDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_11_Subscription_Unlocked_blatant.ipa",
-          "size": 105108378
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_12_Subscription_Unlocked_blatant.ipa",
+          "size": 105108658
         }
       ],
       "category": "health-&-fitness"
@@ -78221,7 +78221,7 @@
     {
       "title": "⚙️ Telos Update 6.18",
       "identifier": "telos-update-2026-06-18",
-      "caption": "4 Apps Updated:\n• 4 Lifestyle",
+      "caption": "6 Apps Updated:\n• 4 Health & Fitness\n• 2 Lifestyle",
       "date": "2026-06-18",
       "tintColor": "#02433b",
       "notify": true,
