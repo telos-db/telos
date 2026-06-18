@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.iPwners.Plonkan",
-    "com.ulisesolave.Fitia",
-    "com.pixite.pigment",
-    "com.google.ios.youtube",
-    "com.yazio.ios.YAZIO"
+    "com.sfun.snapedit",
+    "overlook.fing",
+    "videoeditor.app",
+    "com.cleandayapp.cleanday",
+    "com.iPwners.Plonkan"
   ],
   "apps": [
     {
@@ -12605,14 +12605,14 @@
       "bundleIdentifier": "com.cleandayapp.cleanday",
       "developerName": "AV PRO GROUP LTD",
       "subtitle": "Premium Unlocked | Patched",
-      "version": "4.3.17",
-      "versionDate": "2026-03-26",
+      "version": "4.3.18",
+      "versionDate": "2026-06-18",
       "versionDescription": "Tweaks: CleanDay, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Clean_Day_._Sobriety_Counter_v4_3_17_Premium_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nClean Day — Sobriety Counter\n\n---\n\nStay clean every day with Clean Day!\n\nA new app for recovering addicts. Your mate in clean life.\n\nAvailable in English, Deutsch, French, Spanish, Latvian, Chinese, Persian and Russian\n\nStart out by customizing the app, and choose the clean life timekeeping format you prefer (seconds, days, months, or years).\n\nThe app will welcome you first by sending personal greetings to your email right after the installation and when reaching your milestones.\n\nOur ultimate design and beautiful background pict",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/06/53/5906530d-7254-627b-488b-950014b4a6dd/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Clean_Day_—_Sobriety_Counter_v4_3_18_Premium_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nClean Day — Sobriety Counter",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/bf/4d/7ebf4d09-0e1f-6e14-e456-ed421e3cec06/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 106355021,
+      "size": 106364964,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/5b/f0/a15bf085-fa14-472f-20b9-047faf786b71/5aa73647-b5f8-476f-9aeb-a2ff52ae3eaf_iPhone_7Plus_EN_-_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/5c/74/b45c7417-552d-048e-9326-042033ca2ef3/5550db47-a42a-4535-b7cc-8101d7196b5a_iPhone_7Plus_EN_-_2.png/392x696bb.png",
@@ -12632,11 +12632,11 @@
       },
       "versions": [
         {
-          "version": "4.3.17",
-          "date": "2026-03-26",
+          "version": "4.3.18",
+          "date": "2026-06-18",
           "localizedDescription": "Tweaks: CleanDay, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Clean_Day_._Sobriety_Counter_v4_3_17_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 106355021
+          "downloadURL": "https://telos.ftp.sh/ipas/Clean_Day_—_Sobriety_Counter_v4_3_18_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 106364964
         }
       ],
       "category": "health-&-fitness"
@@ -22030,14 +22030,14 @@
       "bundleIdentifier": "overlook.fing",
       "developerName": "Fing Limited",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "12.12.0",
-      "versionDate": "2026-06-03",
+      "version": "12.13.0",
+      "versionDate": "2026-06-18",
       "versionDescription": "Tweaks: CydiaSubstrate, Fing, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fing_Network_Scanner_v12_12_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fing_Network_Scanner_v12_13_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFing - Network Scanner",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/68/f4/1168f4c7-6be0-5754-c45e-e8d19e4e1280/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 176349060,
+      "size": 175140214,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/be/cf/41/becf4148-cecf-cd8a-2807-630e71262fc1/f3e629e9-12c2-4ad6-82aa-d107bf818dfe_app_store_phone_55_01_en.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/83/38/53/83385366-50df-ff8e-13aa-7d846467a65b/8c05ee5a-2901-446f-b390-ef99c174d5b9_app_store_phone_55_02_en.png/392x696bb.png",
@@ -22067,11 +22067,11 @@
       },
       "versions": [
         {
-          "version": "12.12.0",
-          "date": "2026-05-05",
+          "version": "12.13.0",
+          "date": "2026-06-18",
           "localizedDescription": "Tweaks: CydiaSubstrate, Fing, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fing_Network_Scanner_v12_12_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 176349060
+          "downloadURL": "https://telos.ftp.sh/ipas/Fing_Network_Scanner_v12_13_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 175140214
         }
       ],
       "category": "productivity"
@@ -59434,14 +59434,14 @@
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "6.14.1",
-      "versionDate": "2026-06-16",
+      "version": "6.14.2",
+      "versionDate": "2026-06-18",
       "versionDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_14_1_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_14_2_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nSnapEdit: Photo Editor AI",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/91/fe/9b91fe48-1611-705a-fb61-64dc25461aaf/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 98170950,
+      "size": 97866716,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -59460,11 +59460,11 @@
       },
       "versions": [
         {
-          "version": "6.14.1",
-          "date": "2026-06-16",
+          "version": "6.14.2",
+          "date": "2026-06-18",
           "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_14_1_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 98170950
+          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_14_2_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 97866716
         }
       ],
       "category": "photo-&-video"
@@ -71828,14 +71828,14 @@
       "bundleIdentifier": "videoeditor.app",
       "developerName": "Luni",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "3.21.1",
-      "versionDate": "2026-06-05",
+      "version": "3.21.2",
+      "versionDate": "2026-06-18",
       "versionDescription": "Tweaks: VideoStudio, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Video_Editor_·_v3_21_1_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Video_Editor_·_v3_21_2_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nVideo Editor ·",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/a9/cd/d6a9cdd4-e1d8-de96-ce2d-d4fbd7622a38/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 211389825,
+      "size": 211572339,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/e7/f5/9be7f5ba-a680-f2a7-f44a-f285e6aaa8ee/1a347d5e-46d2-465f-aa09-5d541862d0e7_V1-8-Screenshot-01-EN.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/58/9e/3a589e6e-80f8-9dc8-61fd-6080c365729d/bfd88dbd-d55d-4af4-a95e-07ce5d5858ea_V1-8-Screenshot-02-EN.png/392x696bb.png",
@@ -71857,11 +71857,11 @@
       },
       "versions": [
         {
-          "version": "3.21.1",
-          "date": "2026-06-05",
+          "version": "3.21.2",
+          "date": "2026-06-18",
           "localizedDescription": "Tweaks: VideoStudio, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Video_Editor_·_v3_21_1_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 211389825
+          "downloadURL": "https://telos.ftp.sh/ipas/Video_Editor_·_v3_21_2_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 211572339
         }
       ],
       "category": "photo-&-video"
@@ -78221,7 +78221,7 @@
     {
       "title": "⚙️ Telos Update 6.18",
       "identifier": "telos-update-2026-06-18",
-      "caption": "8 Apps Updated:\n• 4 Finance\n• 2 Lifestyle\n• 2 Health & Fitness",
+      "caption": "22 Apps Updated:\n• 8 Photo & Video\n• 6 Health & Fitness\n• 4 Productivity\n• 2 Finance\n• 2 Lifestyle",
       "date": "2026-06-18",
       "tintColor": "#02433b",
       "notify": true,
