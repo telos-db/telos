@@ -49428,6 +49428,32 @@
       }
     },
     {
+      "name": "淘宝",
+      "bundleIdentifier": "com.taobao.taobao4iphone",
+      "developerName": "浙江淘宝网络有限公司",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nNew upgrade: Taobao English is now available in Malaysia, Singapore, Australia, Thailand, Canada, Cambodia, New Zealand, Hong Kong, Taiwan, Macau, Kazakhstan, Uzbekistan, Kyrgyzstan, Georgia and Mongolia!For other regions, stay tuned! We're working hard to upgrade for you, in the meantime, you can still shop in our Chinese interface!\n\nTaobao (iPhone version) offers a convenient and engaging shopping experience, specifically designed for iPhone users.\n\nAs a leading e-commerce platform in China, T",
+      "version": "10.62.10",
+      "versionDate": "2026-06-18T09:21:21-00:00",
+      "versionDescription": "Build 55604475 from @thescholarslounge",
+      "size": 120784203,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/8b/ce/068bce4a-71c6-a64d-fdd9-bab0b5bf0da6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.taobao.taobao4iphone-10.62.10-eeveedecrypter.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.taobao.taobao4iphone-10.62.10-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "美图秀秀",
       "bundleIdentifier": "com.meitu.mtxx",
       "developerName": "Xiamen Meitu Technology Co., Ltd.",
