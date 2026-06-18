@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.wellocution.iosapp",
+    "com.adobe.fresco.ios",
     "com.apalonapps.wlf",
     "fun.ask",
-    "com.frameoneapps.Crsel",
-    "com.risesci.nyx",
-    "com.reddit.Reddit"
+    "com.frameoneapps.Crsel"
   ],
   "apps": [
     {
@@ -1684,14 +1684,14 @@
       "bundleIdentifier": "com.adobe.fresco.ios",
       "developerName": "Adobe Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "7.4.0",
-      "versionDate": "2026-06-11",
+      "version": "7.4.1",
+      "versionDate": "2026-06-18",
       "versionDescription": "Tweaks: AdobeFresco, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Fresco_Draw_&_Paint_App_v7_4_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Fresco_Draw_&_Paint_App_v7_4_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nAdobe Fresco: Draw & Paint App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/77/fd/0777fdc2-1d88-79b2-2c44-b7d8d317b02f/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 653559818,
+      "size": 679398557,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/01/1e/8d011ed1-bbc9-e5e5-6930-d0b6cc5df1d9/96345c11-0e8f-4fc4-95c1-967ebbf1eac2_A_01_Adobe_Fresco_iPad12.9_2ndGen_DrawingTool_2732x2048_CA.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/ca/45/2bca45db-b1ab-803d-2ae5-b43c78f67a99/9a611307-3da9-404c-b932-64123aab1653_A_02_Adobe_Fresco_iPad12.9_2ndGen_Precision_2732x2048_CA.png/576x768bb.png",
@@ -1716,11 +1716,11 @@
       },
       "versions": [
         {
-          "version": "7.4.0",
-          "date": "2026-06-11",
+          "version": "7.4.1",
+          "date": "2026-06-18",
           "localizedDescription": "Tweaks: AdobeFresco, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Fresco_Draw_&_Paint_App_v7_4_0_Subscription_Unlocked_blatant.ipa",
-          "size": 653559818
+          "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Fresco_Draw_&_Paint_App_v7_4_1_Subscription_Unlocked_blatant.ipa",
+          "size": 679398557
         }
       ],
       "category": "graphics-&-design"
@@ -8005,14 +8005,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.0.2",
-      "versionDate": "2026-06-17",
+      "version": "4.0.3",
+      "versionDate": "2026-06-18",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_2_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_3_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nBoldVoice: Accent Training",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/54/3e/5d543e2c-51bb-1d38-261b-2f75ad39987c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 147186945,
+      "size": 147186931,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8031,11 +8031,11 @@
       },
       "versions": [
         {
-          "version": "4.0.2",
-          "date": "2026-06-17",
+          "version": "4.0.3",
+          "date": "2026-06-18",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_2_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 147186945
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_3_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 147186931
         }
       ],
       "category": "education"
@@ -78282,7 +78282,7 @@
     {
       "title": "⚙️ Telos Update 6.18",
       "identifier": "telos-update-2026-06-18",
-      "caption": "36 Apps Updated:\n• 8 Health & Fitness\n• 6 Lifestyle\n• 6 Photo & Video\n• 4 Weather\n• 2 Finance\n• 2 Music\n• 2 Travel\n• 2 Productivity\n• 2 Shopping\n• 2 News",
+      "caption": "40 Apps Updated:\n• 8 Health & Fitness\n• 6 Photo & Video\n• 4 Graphics & Design\n• 4 Lifestyle\n• 4 Education\n• 2 Finance\n• 2 Music\n• 2 Travel\n• 2 Productivity\n• 2 Shopping\n• 2 News\n• 2 Weather",
       "date": "2026-06-18",
       "tintColor": "#02433b",
       "notify": true,
