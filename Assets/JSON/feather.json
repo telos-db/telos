@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.neybox.Pillow",
+    "se.resenatverket.FlightRadar24-Free",
     "com.edjing.edjingdjturntable",
     "com.taobao.taobao4iphone",
-    "com.sfun.snapedit",
-    "overlook.fing",
-    "videoeditor.app"
+    "com.sfun.snapedit"
   ],
   "apps": [
     {
@@ -23256,14 +23256,14 @@
       "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
       "developerName": "Flightradar24 AB",
       "subtitle": "Tweaked with FlightRadar24, blatantsPatch",
-      "version": "11.6.0",
-      "versionDate": "2026-06-11",
+      "version": "11.6.1",
+      "versionDate": "2026-06-18",
       "versionDescription": "Tweaks: FlightRadar24, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Flightradar24_Flight_Tracker_v11_6_0_Gold_Lifetime_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Flightradar24_Flight_Tracker_v11_6_1_Gold_Lifetime_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FlightRadar24, blatantsPatch\n\nFlightradar24 | Flight Tracker\n\n---\nThe world's best flight tracker app - #1 Travel app in over 150 countries.\n\nTurn your iPhone or iPad into a live flight tracker and see planes around the world move in real-time on a detailed map. Or point your device at a plane to find out where it’s going and what kind of aircraft it is. Download for free today and discover why millions are already tracking flights and checking flight status with Flightradar24.\n\n• Watch aircraft move around the world in real-time\n• Identify flights overhead &",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/99/9f/6a999fe6-8406-d4a3-bc10-32a4941b8730/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 188002756,
+      "size": 225111742,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/71/9c/5f719ce8-180f-b06c-f4c0-1b690dd63013/04ad4938-e8c5-4469-9ea7-a01168421d68_iphone8_screenshot_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/f8/02/0bf80293-7322-217f-b4ff-394b3c98d296/ccb55067-54dd-4aae-8aa1-e6a345501bb0_iphone8_screenshot_2.jpg/392x696bb.jpg",
@@ -23289,11 +23289,11 @@
       },
       "versions": [
         {
-          "version": "11.6.0",
-          "date": "2026-06-11",
+          "version": "11.6.1",
+          "date": "2026-06-18",
           "localizedDescription": "Tweaks: FlightRadar24, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Flightradar24_Flight_Tracker_v11_6_0_Gold_Lifetime_blatant_Patched.ipa",
-          "size": 188002756
+          "downloadURL": "https://telos.ftp.sh/ipas/Flightradar24_Flight_Tracker_v11_6_1_Gold_Lifetime_blatant_Patched.ipa",
+          "size": 225111742
         }
       ],
       "category": "travel"
@@ -50182,15 +50182,15 @@
       "name": "Pillow",
       "bundleIdentifier": "com.neybox.Pillow",
       "developerName": "Neybox Digital Ltd.",
-      "subtitle": "Tweaked with Sideloadbypass1, Sideloadbypass2",
-      "version": "6.2.12",
-      "versionDate": "2026-06-14",
-      "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Pillow: Sleep Tracker-v6.2.12-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nPillow: Sleep Tracker\n\n---\nSleep trouble? Sleep better with Pillow, your smart sleep tracker. Pillow can analyze your sleep cycles automatically using your Apple Watch, iPhone or iPad.\n\nUse Pillow as a smart alarm clock to wake up at the lightest possible sleep stage and start your day refreshed and relaxed. Record important audio events such as snoring, sleep apnea, and sleep talking. Explore trends about your sleep and compare your sleep quality with many Apple Health metrics that affect sleep.\n\nAs seen on:\nThe New York",
+      "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
+      "version": "6.4.4",
+      "versionDate": "2026-06-18",
+      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Pillow_Sleep_Tracker_v6_4_4_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nPillow: Sleep Tracker\n\n---\nSleep trouble? Sleep better with Pillow, your smart sleep tracker. Pillow can analyze your sleep cycles automatically using your Apple Watch, iPhone or iPad.\n\nUse Pillow as a smart alarm clock to wake up at the lightest possible sleep stage and start your day refreshed and relaxed. Record important audio events such as snoring, sleep apnea, and sleep talking. Explore trends about your sleep and compare your sleep quality with many Apple Health metrics that affect sleep.\n\nAs seen on:\nThe New York",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/f4/97/03f49716-1ea6-5b62-313b-c4f2a07802ea/AppIcon-v5-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 555722967,
+      "size": 562962848,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -50218,11 +50218,11 @@
       },
       "versions": [
         {
-          "version": "6.2.12",
-          "date": "2026-06-14",
-          "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Pillow: Sleep Tracker-v6.2.12-riftysipas.ipa",
-          "size": 555722967
+          "version": "6.4.4",
+          "date": "2026-06-18",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Pillow_Sleep_Tracker_v6_4_4_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 562962848
         }
       ],
       "category": "health-&-fitness"
