@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.bravolol.bravoLang.chineseDictionary",
     "com.shantanu.YouCut",
     "com.damtechdesigns.wa.story",
     "app.swiftgram.ios",
-    "com.qatarairways.qrmobile",
-    "com.burbn.instagram"
+    "com.qatarairways.qrmobile"
   ],
   "apps": [
     {
@@ -70620,14 +70620,14 @@
       "bundleIdentifier": "com.bravolol.bravoLang.chineseDictionary",
       "developerName": "Bravolol Limited",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "35.3",
-      "versionDate": "2026-03-08",
+      "version": "35.4",
+      "versionDate": "2026-06-18",
       "versionDescription": "Tweaks: UnifiedDictionary, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Dictionary_._Translator_v35_3_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nDictionary & Translator\n\n---\n\nGet trusted definitions, thesaurus and pronunciations from Dictionary & Translator app designed for foreign language learners! The following bilingual dictionaries are available for download:\n\n▸ English Dictionary\n▸ Chinese English Dictionary\n▸ Japanese English Dictionary\n▸ Korean English Dictionary\n▸ Spanish English Dictionary\n▸ French English Dictionary\n▸ German English Dictionary\n▸ Italian English Dictionary\n▸ Russian English Dictionary\n▸ Portuguese English Dictionary\n▸ Dutch English Dictiona",
+      "downloadURL": "https://telos.ftp.sh/ipas/Dictionary_&_Translator_v35_4_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nDictionary & Translator",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/94/64/f19464ff-6009-c6be-4c14-018bd017857c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 21198518,
+      "size": 21044654,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/52/bc/9652bc48-de94-af62-0268-4b15dd64303e/40dbdff4-634e-453e-8ea8-a5ea3772af96_iPhone-Plus-02.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/4b/91/394b9125-a3d5-af51-409f-ddb078a31fc0/52e2b53d-44e9-4cdc-ba1e-e1faf57c479d_iPhone-Plus-03.png/392x696bb.png",
@@ -70652,11 +70652,11 @@
       },
       "versions": [
         {
-          "version": "35.3",
-          "date": "2026-01-29",
+          "version": "35.4",
+          "date": "2026-06-18",
           "localizedDescription": "Tweaks: UnifiedDictionary, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Dictionary_._Translator_v35_3_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 21198518
+          "downloadURL": "https://telos.ftp.sh/ipas/Dictionary_&_Translator_v35_4_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 21044654
         }
       ],
       "category": "education"
@@ -78329,7 +78329,7 @@
     {
       "title": "⚙️ Telos Update 6.18",
       "identifier": "telos-update-2026-06-18",
-      "caption": "54 Apps Updated:\n• 20 Photo & Video\n• 8 Health & Fitness\n• 4 Lifestyle\n• 4 Travel\n• 2 Finance\n• 2 Graphics & Design\n• 2 Music\n• 2 Productivity\n• 2 Shopping\n• 2 News\n• 2 Weather\n• 2 Education\n• 2 Social Networking",
+      "caption": "56 Apps Updated:\n• 18 Photo & Video\n• 8 Health & Fitness\n• 6 Education\n• 4 Lifestyle\n• 4 Travel\n• 2 Finance\n• 2 Graphics & Design\n• 2 Music\n• 2 Productivity\n• 2 Shopping\n• 2 News\n• 2 Weather\n• 2 Social Networking",
       "date": "2026-06-18",
       "tintColor": "#02433b",
       "notify": true,
