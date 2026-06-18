@@ -34135,13 +34135,13 @@
       "name": "Reddit",
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "REDDIT, INC.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nWelcome to Reddit, the heart of the internet.\n\nReddit is a social network with something for everyone: trending topics, diverse discussions, engaging communities and comment threads.\n\nRedditors have authentic and interesting conversations around all sorts of curated content. You’ll find gaming communities, bloggers, meme-makers, fandoms, travel enthusiasts, support groups, AI forums, news junkies, artists, and creators of all types.\n\nReddit has over 100,000 online communities (forums where membe",
-      "version": "2026.13.0",
-      "versionDate": "2026-06-15T22:20:33-00:00",
-      "versionDescription": "Build 626174 from @thescholarslounge",
-      "size": 158248029,
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nRedditDeluxe 2026.24.0\n\n---\nWelcome to Reddit, the heart of the internet.\n\nReddit is a social network with something for everyone: trending topics, diverse discussions, engaging communities and comment threads.\n\nRedditors have authentic and interesting conversations around all sorts of curated content. You’ll find gaming communities, bloggers, meme-makers, fandoms, travel enthusiasts, support groups, AI forums, news junkies, artists, and creators of all types.\n\nReddit has over 100,000 online communities (forums where membe",
+      "version": "2026.24.0",
+      "versionDate": "2026-06-18T15:24:26-00:00",
+      "versionDescription": "Build 632152 from @thescholarslounge",
+      "size": 146743141,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a6/0d/e6a60d60-e30f-e9b7-5499-38fc8e294a51/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.reddit.Reddit-2026.13.0-eeveedecrypter.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.24.0_Jacks_Apps.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -34154,7 +34154,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "com.reddit.Reddit-2026.13.0-eeveedecrypter.ipa"
+        "originalFile": "RedditDeluxes_2026.24.0_Jacks_Apps.ipa"
       }
     },
     {
@@ -34815,12 +34815,12 @@
       "bundleIdentifier": "com.risesci.nyx",
       "developerName": "Rise Science Inc",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nRISE: Sleep Tracker\n\n---\nJoin over 10 million users! Become a better sleeper and morning person thanks to 100 years of sleep science with RISE, the only sleep tracker that also measures your sleep debt and energy levels.\n\nRecommended by the Sleep Foundation and trusted by teams in the NFL, MLB, and NBA, and top Fortune 500 companies, RISE makes it easy to improve your sleep and energy.\n\nBut RISE is more than a sleep and energy tracker. Users can access widgets, calendar integration, sleeping sounds, meditation guides, s",
-      "version": "1.602.0",
-      "versionDate": "2026-06-12T18:55:39-00:00",
-      "versionDescription": "Build 1781125248 from @blatants",
-      "size": 145474524,
+      "version": "1.603.0",
+      "versionDate": "2026-06-18T15:26:51-00:00",
+      "versionDescription": "Build 1781731189 from @blatants",
+      "size": 145488307,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/ff/33/8cff334a-586f-3542-85e0-0fada7905929/App-Icon-Glass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_602_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_603_0_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "15.1",
       "supportedPlatforms": [
         "iOS"
@@ -34833,7 +34833,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "RISE_Sleep_Tracker_v1_602_0_Subscription_Unlocked_blatant_Patched.ipa"
+        "originalFile": "RISE_Sleep_Tracker_v1_603_0_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
