@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.damtechdesigns.wa.story",
+    "app.swiftgram.ios",
+    "com.qatarairways.qrmobile",
     "com.burbn.instagram",
-    "com.fouadraheb.regram",
-    "com.wellocution.iosapp",
-    "com.adobe.fresco.ios",
-    "com.apalonapps.wlf"
+    "com.fouadraheb.regram"
   ],
   "apps": [
     {
@@ -52974,14 +52974,14 @@
       "bundleIdentifier": "com.damtechdesigns.wa.story",
       "developerName": "DamTech Designs",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "2026.02",
-      "versionDate": "2026-06-16",
+      "version": "2026.03",
+      "versionDate": "2026-06-18",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/PureStatus_ByeBye_Blur_Status_v2026_02_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/PureStatus_ByeBye_Blur_Status_v2026_03_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nPureStatus: ByeBye Blur Status\n\n---\n• Introducing PureStatus: Bye Bye Blurry Status: Revolutionize Your WhatsApp Status Experience\n\nAre you tired of Blurry, Low- Quality videos & Photos in WhatsApp status? Then the “PureStatus” App is made just for you, When you upload a video status, WhatsApp reduces the video size, resulting in reduced video quality, but “PureStatus” will reduce the size of your video very precisely so that there will be the highest possible HD Video Quality on your WhatsApp status.\n\n• Crystal Clear Status Video",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/d6/a4/add6a498-c992-e4ae-b1e2-e54624c56305/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 64391377,
+      "size": 64469454,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/99/57/65/995765e4-14cc-8cde-937b-cde04e1fa673/3e4f617d-fbd7-41a6-bc65-be9dc5b5089e_ScreenshotNew0.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1e/9a/6b/1e9a6b5e-8268-2fbf-8d1a-be9918c71418/132394e8-f6c7-4f6e-91b2-a4f9d00829d1_ScreenshotNew1.jpg/392x696bb.jpg",
@@ -53002,11 +53002,11 @@
       },
       "versions": [
         {
-          "version": "2026.02",
-          "date": "2026-06-16",
+          "version": "2026.03",
+          "date": "2026-06-18",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/PureStatus_ByeBye_Blur_Status_v2026_02_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 64391377
+          "downloadURL": "https://telos.ftp.sh/ipas/PureStatus_ByeBye_Blur_Status_v2026_03_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 64469454
         }
       ],
       "category": "photo-&-video"
@@ -53194,6 +53194,54 @@
         }
       ],
       "category": "developer-tools"
+    },
+    {
+      "name": "Qatar Airways",
+      "bundleIdentifier": "com.qatarairways.qrmobile",
+      "developerName": "Qatar Airways",
+      "subtitle": "Qatar Airways for iOS",
+      "version": "26.04",
+      "versionDate": "2026-06-18",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.qatarairways.qrmobile-26.04-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nAt Qatar Airways, we believe your journey should be as rewarding as the destination itself. That’s why we’ve designed our mobile app to put you in complete charge – with everything you need for a seamless journey right in the palm of your hand.\nGet the most out of our app by becoming a Privilege Club member. It’s not just about being part of the ‘club’ – it’s about embracing a new lifestyle, a passport to more of everything you love. Think bigger rewards, better benefits and a richer travel expe",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/65/7e/94657e0f-6e5a-53bc-b167-c6236124b95a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 276718617,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/58/81/565881c6-d5f3-9cdc-124a-7bcc63f4dfd9/bc8b9c9c-0208-41c0-b20e-745e5f3cc431_iOS-EN-Small-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/2d/d0/c62dd01b-4a90-e455-494f-3b1f8dbe3d2e/aa2120ac-1d74-4a5b-b800-9be019b289f9_iOS-EN-Small-2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/7f/a3/2d7fa34d-3302-7ba4-7576-76dedc86a02a/cec80f12-f95b-4557-9f4d-273f22a4454e_iOS-EN-Small-3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/97/e1/9b97e1d8-5599-d014-0f26-c08c6641a8b3/677fb13f-42bb-4b75-92c0-df9cde092484_iOS-EN-Small-4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/cc/28/23cc280d-de1f-fe2a-3292-d19a3c8db704/1a4cbf0e-060d-46b9-b9aa-6009e39191a4_iOS-EN-Small-5.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This app requires Photo library access to store Privilege Club membership card",
+          "NSCameraUsageDescription": "Access to your camera is required to scan your passport.",
+          "NSMicrophoneUsageDescription": "Please allow access to your device's microphone to use this feature.",
+          "NSLocationWhenInUseUsageDescription": "You'll get flight updates, personalised alerts and special offers.",
+          "NSLocationAlwaysUsageDescription": "Qatar Airways would like to use location services for iBeacon monitoring.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "You'll get flight updates, personalised alerts and special offers.",
+          "NSSpeechRecognitionUsageDescription": "Please allow access to speech recognition to use this feature.",
+          "NSFaceIDUsageDescription": "Qatar Airways will use Face ID to authenticate login info.",
+          "NSBluetoothAlwaysUsageDescription": "Help the user to navigate within Doha HIA Airport using iBeacons.",
+          "NSBluetoothPeripheralUsageDescription": "for detecting current location in HIA Airport region",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you",
+          "NSPhotoLibraryAddUsageDescription": "This app requires Photos access to store Privilege Club membership card"
+        }
+      },
+      "versions": [
+        {
+          "version": "26.04",
+          "date": "2026-06-18",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.qatarairways.qrmobile-26.04-eeveedecrypter.ipa",
+          "size": 276718617
+        }
+      ],
+      "category": "travel"
     },
     {
       "name": "Qobuz",
@@ -65686,15 +65734,15 @@
       "name": "Swiftgram",
       "bundleIdentifier": "app.swiftgram.ios",
       "developerName": "Akentech Ltd",
-      "subtitle": "Swiftgram for iOS",
-      "version": "12.6.2",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/app.swiftgram.ios-12.6.2-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nSwiftgram is a modded client for Telegram with Lots of features, focus on Privacy, No Limits, No Ads.\nCompletelly Open Source and includes all latest updates from Telegram plus\n\nUNLIMITED ACCOUNTS: Add as many numbers as you want for FREE.\n\nACCOUNTS BACKUP: Log-in to your accounts without SMS-code. Restore all Sessions that are still Active on Telegram servers.\n\nMESSAGE FILTER: Reduce visibility of SPAM, promotions and annoying messages.\n\nFORMATTING PANEL: Bold, Italic, Links? Formatting with ju",
+      "subtitle": "Tweaked with SwiftgramEntitlementsFix, TGExtra",
+      "version": "12.8",
+      "versionDate": "2026-06-18",
+      "versionDescription": "Tweaks: SwiftgramEntitlementsFix, TGExtra, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Swiftgram_Telegram_mod_client_v12_8_TGExtra_v1_7_5_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SwiftgramEntitlementsFix, TGExtra, blatantsPatch\n\nSwiftgram: Telegram mod client\n\n---\nSwiftgram is a modded client for Telegram with Lots of features, focus on Privacy, No Limits, No Ads.\nCompletelly Open Source and includes all latest updates from Telegram plus\n\nUNLIMITED ACCOUNTS: Add as many numbers as you want for FREE.\n\nACCOUNTS BACKUP: Log-in to your accounts without SMS-code. Restore all Sessions that are still Active on Telegram servers.\n\nMESSAGE FILTER: Reduce visibility of SPAM, promotions and annoying messages.\n\nFORMATTING PANEL: Bold, Italic, Links? Formatting with ju",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/90/cb/a390cb78-e707-4e48-7b35-071cf75a3f97/Swiftgram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 80903498,
+      "size": 83179791,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/99/fc/be99fc56-675f-d3be-836b-25e22595270b/33a91d32-a749-467d-abc5-309c1d008023_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/d5/a6/87d5a6de-7521-895d-8e24-9d57fcf0ed87/1ec71ec7-3132-4188-b61e-5e4be9e79d15_2.png/392x696bb.png",
@@ -65704,41 +65752,14 @@
       ],
       "appPermissions": {
         "entitlements": [
-          "com.apple.developer.avfoundation.multitasking-camera-access",
-          "com.apple.developer.networking.wifi-info",
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.authentication-services.autofill-credential-provider",
-          "com.apple.developer.ClassKit-environment",
-          "com.apple.developer.healthkit",
-          "com.apple.developer.healthkit.access",
-          "com.apple.developer.homekit",
-          "com.apple.developer.networking.HotspotConfiguration",
-          "com.apple.developer.icloud-container-development-container-identifiers",
           "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "inter-app-audio",
-          "com.apple.developer.networking.multipath",
-          "com.apple.developer.networking.networkextension",
-          "com.apple.developer.nfc.readersession.formats",
-          "aps-environment",
-          "com.apple.developer.siri",
-          "com.apple.external-accessory.wireless-configuration",
-          "com.apple.developer.coremedia.hls.low-latency",
-          "com.apple.developer.devicecheck.appattest-environment",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.healthkit.recalibrate-estimates",
-          "com.apple.developer.weatherkit",
-          "com.apple.developer.kernel.increased-debugging-memory-limit",
-          "com.apple.developer.game-center",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "com.apple.developer.healthkit.background-delivery",
-          "com.apple.developer.user-fonts",
-          "com.apple.developer.applesignin",
           "com.apple.developer.carplay-messaging",
+          "aps-environment",
           "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.siri",
           "com.apple.developer.usernotifications.filtering",
-          "com.apple.developer.background-tasks.continued-processing.gpu"
+          "com.apple.developer.background-tasks.continued-processing.gpu",
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "We need this so that you can share photos and videos from your photo library.",
@@ -65756,11 +65777,11 @@
       },
       "versions": [
         {
-          "version": "12.6.2",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/app.swiftgram.ios-12.6.2-eeveedecrypter.ipa",
-          "size": 80903498
+          "version": "12.8",
+          "date": "2026-06-18",
+          "localizedDescription": "Tweaks: SwiftgramEntitlementsFix, TGExtra, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Swiftgram_Telegram_mod_client_v12_8_TGExtra_v1_7_5_blatant_Patched.ipa",
+          "size": 83179791
         }
       ],
       "category": "social-networking"
