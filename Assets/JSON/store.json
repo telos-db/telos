@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.locket.Locket",
     "com.bravolol.bravoLang.chineseDictionary",
     "com.shantanu.YouCut",
     "com.damtechdesigns.wa.story",
-    "app.swiftgram.ios",
-    "com.qatarairways.qrmobile"
+    "app.swiftgram.ios"
   ],
   "apps": [
     {
@@ -37226,14 +37226,14 @@
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "Locket Labs, Inc.",
       "subtitle": "Patched | Tweaked",
-      "version": "2.51.0",
-      "versionDate": "2026-06-14",
+      "version": "2.52.0",
+      "versionDate": "2026-06-18",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.51.0 Locket Gold blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.52.0 Locket Gold blatant Patched.ipa",
       "localizedDescription": "Patched | Tweaked\n\nLocket Widget",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/fe/ab/9cfeab99-6119-c8b2-4147-30535afb3f78/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 337184216,
+      "size": 337263328,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -37261,11 +37261,11 @@
       },
       "versions": [
         {
-          "version": "2.51.0",
-          "date": "2026-06-14",
+          "version": "2.52.0",
+          "date": "2026-06-18",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.51.0 Locket Gold blatant Patched.ipa",
-          "size": 337184216
+          "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.52.0 Locket Gold blatant Patched.ipa",
+          "size": 337263328
         }
       ],
       "category": "social-networking"
@@ -78329,7 +78329,7 @@
     {
       "title": "⚙️ Telos Update 6.18",
       "identifier": "telos-update-2026-06-18",
-      "caption": "56 Apps Updated:\n• 18 Photo & Video\n• 8 Health & Fitness\n• 6 Education\n• 4 Lifestyle\n• 4 Travel\n• 2 Finance\n• 2 Graphics & Design\n• 2 Music\n• 2 Productivity\n• 2 Shopping\n• 2 News\n• 2 Weather\n• 2 Social Networking",
+      "caption": "58 Apps Updated:\n• 18 Photo & Video\n• 8 Health & Fitness\n• 6 Social Networking\n• 4 Lifestyle\n• 4 Travel\n• 4 Education\n• 2 Finance\n• 2 Graphics & Design\n• 2 Music\n• 2 Productivity\n• 2 Shopping\n• 2 News\n• 2 Weather",
       "date": "2026-06-18",
       "tintColor": "#02433b",
       "notify": true,
