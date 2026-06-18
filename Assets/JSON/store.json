@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.apalonapps.wlf",
+    "fun.ask",
     "com.frameoneapps.Crsel",
     "com.risesci.nyx",
-    "com.reddit.Reddit",
-    "com.neybox.Pillow",
-    "se.resenatverket.FlightRadar24-Free"
+    "com.reddit.Reddit"
   ],
   "apps": [
     {
@@ -43755,14 +43755,14 @@
       "bundleIdentifier": "fun.ask",
       "developerName": "NGL Labs, LLC",
       "subtitle": "Pro Unlocked",
-      "version": "6.2.107",
-      "versionDate": "2026-06-16",
+      "version": "6.2.108",
+      "versionDate": "2026-06-18",
       "versionDescription": "Tweaks: CydiaSubstrate, autoRevenuecat 3\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/NGL-6.2.107.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/NGL-6.2.108.ipa",
       "localizedDescription": "Pro Unlocked\n\nNGL",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/db/3c/f8db3c70-b46d-6107-d6f0-d640627b1f91/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 118734878,
+      "size": 121788718,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/75/97/bc759778-e2dd-82fa-10bc-47f3895e9dd6/1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/39/9d/1c399de4-a860-db01-9a22-ad8915be40f9/2.png/392x696bb.png",
@@ -43785,11 +43785,11 @@
       },
       "versions": [
         {
-          "version": "6.2.107",
-          "date": "2026-06-16",
+          "version": "6.2.108",
+          "date": "2026-06-18",
           "localizedDescription": "Tweaks: CydiaSubstrate, autoRevenuecat 3\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/NGL-6.2.107.ipa",
-          "size": 118734878
+          "downloadURL": "https://telos.ftp.sh/ipas/NGL-6.2.108.ipa",
+          "size": 121788718
         }
       ],
       "category": "lifestyle"
@@ -73777,14 +73777,14 @@
       "bundleIdentifier": "com.apalonapps.wlf",
       "developerName": "Mosaic S.r.l.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "7.24.42",
-      "versionDate": "2026-03-28",
+      "version": "7.24.43",
+      "versionDate": "2026-06-18",
       "versionDescription": "Tweaks: WeatherLive, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Weather_Live._Local_Forecast_v7_24_42_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Weather_Live°_Local_Forecast_v7_24_43_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nWeather Live° - Local Forecast",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/22/3f/a0223fed-389a-b508-434c-c1abc1cc7eb7/AppIcon-free-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/3b/33/8c3b3340-dda9-ae00-5e10-77b107564c85/AppIcon-free-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 174102756,
+      "size": 175874210,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/5b/45/7d/5b457d0b-b944-c47e-ef9f-faf93eb9adae/f994ecfd-43f4-4740-b4ea-f36c087417ae_iphone5.5_s1_en-US.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d5/75/57/d57557d0-b334-f745-68c6-79d9d8480e4a/5ce3ff81-6675-442c-ae46-4be53667ee2a_iphone5.5_s2_en-US.jpg/392x696bb.jpg",
@@ -73795,8 +73795,8 @@
       "appPermissions": {
         "entitlements": [
           "aps-environment",
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-domains"
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "It will let you share weather forecast screenshots. You can always change it in your device Settings.",
@@ -73813,11 +73813,11 @@
       },
       "versions": [
         {
-          "version": "7.24.42",
-          "date": "2026-03-28",
+          "version": "7.24.43",
+          "date": "2026-06-18",
           "localizedDescription": "Tweaks: WeatherLive, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Weather_Live._Local_Forecast_v7_24_42_Subscription_Unlocked_blatant.ipa",
-          "size": 174102756
+          "downloadURL": "https://telos.ftp.sh/ipas/Weather_Live°_Local_Forecast_v7_24_43_Subscription_Unlocked_blatant.ipa",
+          "size": 175874210
         }
       ],
       "category": "weather"
@@ -78282,7 +78282,7 @@
     {
       "title": "⚙️ Telos Update 6.18",
       "identifier": "telos-update-2026-06-18",
-      "caption": "30 Apps Updated:\n• 8 Health & Fitness\n• 8 Photo & Video\n• 2 Finance\n• 2 Lifestyle\n• 2 Music\n• 2 Travel\n• 2 Productivity\n• 2 Shopping\n• 2 News",
+      "caption": "36 Apps Updated:\n• 8 Health & Fitness\n• 6 Lifestyle\n• 6 Photo & Video\n• 4 Weather\n• 2 Finance\n• 2 Music\n• 2 Travel\n• 2 Productivity\n• 2 Shopping\n• 2 News",
       "date": "2026-06-18",
       "tintColor": "#02433b",
       "notify": true,
