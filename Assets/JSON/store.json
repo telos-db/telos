@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.iPwners.Plonkan",
     "com.ulisesolave.Fitia",
     "com.pixite.pigment",
     "com.google.ios.youtube",
-    "com.yazio.ios.YAZIO",
-    "com.linecorp.b612"
+    "com.yazio.ios.YAZIO"
   ],
   "apps": [
     {
@@ -9291,14 +9291,14 @@
       "bundleIdentifier": "com.iPwners.Plonkan",
       "developerName": "Buddy Budgeting AB",
       "subtitle": "Premium Unlocked | Patched",
-      "version": "13.39",
-      "versionDate": "2026-06-11",
+      "version": "13.40",
+      "versionDate": "2026-06-18",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Buddy_Budget_Planner_App_v13_39_Premium_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Buddy_Budget_Planner_App_v13_40_Premium_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nBuddy: Budget Planner App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/53/a4/8753a4ec-4957-cce9-0c2c-2135d4583987/Buddy-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 86238470,
+      "size": 113394726,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/71/9e/7a719e75-ebba-da24-1e16-f2d45da2d5cc/c3f46a54-d917-4cf8-a638-586ce11d81b4_Frame_1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/30/84/4030847b-f184-20d5-4da7-405a3f41a5f4/adba6412-ff7e-4b17-9e4d-96af8c7ee39f_Frame_2.png/576x768bb.png",
@@ -9321,11 +9321,11 @@
       },
       "versions": [
         {
-          "version": "13.39",
-          "date": "2026-06-11",
+          "version": "13.40",
+          "date": "2026-06-18",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Buddy_Budget_Planner_App_v13_39_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 86238470
+          "downloadURL": "https://telos.ftp.sh/ipas/Buddy_Budget_Planner_App_v13_40_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 113394726
         }
       ],
       "category": "finance"
@@ -78221,11 +78221,11 @@
     {
       "title": "⚙️ Telos Update 6.18",
       "identifier": "telos-update-2026-06-18",
-      "caption": "4 Apps Updated:\n• 2 Lifestyle\n• 2 Health & Fitness",
+      "caption": "8 Apps Updated:\n• 4 Finance\n• 2 Lifestyle\n• 2 Health & Fitness",
       "date": "2026-06-18",
       "tintColor": "#02433b",
       "notify": true,
-      "appID": "com.pixite.pigment"
+      "appID": "com.iPwners.Plonkan"
     },
     {
       "title": "⚙️ Telos Update 6.17",
