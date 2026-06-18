@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.frameoneapps.Crsel",
     "com.risesci.nyx",
     "com.reddit.Reddit",
     "com.neybox.Pillow",
-    "se.resenatverket.FlightRadar24-Free",
-    "com.edjing.edjingdjturntable"
+    "se.resenatverket.FlightRadar24-Free"
   ],
   "apps": [
     {
@@ -14814,14 +14814,14 @@
       "bundleIdentifier": "com.frameoneapps.Crsel",
       "developerName": "Crsel Sp. z o.o.",
       "subtitle": "Tweaked with Crsel, blatantsPatch",
-      "version": "1.3.713",
-      "versionDate": "2026-06-16",
+      "version": "1.3.714",
+      "versionDate": "2026-06-18",
       "versionDescription": "Tweaks: Crsel, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_3_713_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_3_714_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Crsel, blatantsPatch\n\nCrsel: Carousel, Collage Maker\n\n---\nCrsel is the all-in-one app for creating aesthetic Instagram carousels, collages, stories, and Reels covers. Designed for creators who care about storytelling and style.\n\n• Use our seamless Instagram Carousel Maker. Design multi-slide posts that connect visually. Align elements across frames and preview the full swipe effect. Perfect for photo series, lookbooks, tutorials, or storytelling posts.\n\n•From clean, minimal layouts to bold, layered collages, Crsel gives you everything you need to desig",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/f5/3f/edf53f92-35a8-5301-4662-6ed9e7f67a50/AppIcon-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 147419694,
+      "size": 147419522,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -14835,11 +14835,11 @@
       },
       "versions": [
         {
-          "version": "1.3.713",
-          "date": "2026-06-16",
+          "version": "1.3.714",
+          "date": "2026-06-18",
           "localizedDescription": "Tweaks: Crsel, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_3_713_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 147419694
+          "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_3_714_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 147419522
         }
       ],
       "category": "photo-&-video"
