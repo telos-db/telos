@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.pixite.pigment",
     "com.google.ios.youtube",
     "com.yazio.ios.YAZIO",
     "com.linecorp.b612",
-    "com.tripleglazedstudios.Weather",
-    "com.campmobile.snow"
+    "com.tripleglazedstudios.Weather"
   ],
   "apps": [
     {
@@ -49608,15 +49608,15 @@
       "name": "Pigment",
       "bundleIdentifier": "com.pixite.pigment",
       "developerName": "Pixite Inc.",
-      "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "3.12.1",
-      "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.12.1-riftysipas.ipa",
-      "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nAdult Coloring Book - Pigment",
+      "subtitle": "Premium Unlocked | Patched",
+      "version": "3.12.2",
+      "versionDate": "2026-06-18",
+      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Adult_Coloring_Book_Pigment_v3_12_2_Premium_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nAdult Coloring Book - Pigment",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/b5/38/9cb538ef-8540-21ee-22d2-ddf8644cf03a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 136251778,
+      "size": 141471374,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -49637,11 +49637,11 @@
       },
       "versions": [
         {
-          "version": "3.12.1",
-          "date": "2026-06-16",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.12.1-riftysipas.ipa",
-          "size": 136251778
+          "version": "3.12.2",
+          "date": "2026-06-18",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Adult_Coloring_Book_Pigment_v3_12_2_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 141471374
         }
       ],
       "category": "lifestyle"
@@ -78219,11 +78219,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 6.18",
+      "identifier": "telos-update-2026-06-18",
+      "caption": "4 Apps Updated:\n• 4 Lifestyle",
+      "date": "2026-06-18",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "com.pixite.pigment"
+    },
+    {
       "title": "⚙️ Telos Update 6.17",
       "identifier": "telos-update-2026-06-17",
-      "caption": "76 Apps Updated:\n• 22 Photo & Video\n• 16 Health & Fitness\n• 8 Education\n• 6 Utilities\n• 4 Navigation\n• 4 Business\n• 4 Weather\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Lifestyle\n• 2 Medical\n• 2 Reference",
+      "caption": "74 Apps Updated:\n• 20 Photo & Video\n• 16 Health & Fitness\n• 8 Education\n• 6 Utilities\n• 4 Navigation\n• 4 Business\n• 4 Weather\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Lifestyle\n• 2 Medical\n• 2 Reference",
       "date": "2026-06-17",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.picsart.studio"
     },
@@ -78232,7 +78241,7 @@
       "identifier": "telos-update-2026-06-16",
       "caption": "254 Apps Updated:\n• 80 Photo & Video\n• 31 Health & Fitness\n• 21 Music\n• 19 Productivity\n• 17 Utilities\n• 17 Games\n• 13 Entertainment\n• 11 Education\n• 10 News\n• 7 Lifestyle\n• 6 Navigation\n• 6 Reference\n• 4 Sports\n• 4 Social Networking\n• 2 Food & Drink\n• 2 Weather\n• 2 Medical\n• 2 Graphics & Design",
       "date": "2026-06-16",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.genau.MoneyCircle"
     },
@@ -78241,7 +78250,7 @@
       "identifier": "telos-update-2026-06-15",
       "caption": "845 Apps Updated:\n• 169 Photo & Video\n• 160 News\n• 94 Social Networking\n• 62 Utilities\n• 60 Games\n• 50 Productivity\n• 50 Music\n• 38 Business\n• 24 Entertainment\n• 20 Reference\n• 18 Lifestyle\n• 14 Education\n• 12 Health & Fitness\n• 12 Sports\n• 10 Finance\n• 10 Shopping\n• 10 Food & Drink\n• 8 Travel\n• 6 Navigation\n• 6 Developer Tools\n• 4 Graphics & Design\n• 2 Weather\n• 2 Medical\n• 2 Books\n• 2 Other",
       "date": "2026-06-15",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.condor.digital.Tide-Over"
     },
@@ -78250,7 +78259,7 @@
       "identifier": "telos-update-2026-06-14",
       "caption": "401 Apps Updated:\n• 79 Health & Fitness\n• 76 Photo & Video\n• 40 Games\n• 39 Education\n• 32 Productivity\n• 20 Lifestyle\n• 18 Utilities\n• 15 Finance\n• 12 Music\n• 11 Sports\n• 9 Food & Drink\n• 9 Medical\n• 8 Entertainment\n• 7 Navigation\n• 7 Social Networking\n• 6 Weather\n• 5 Graphics & Design\n• 3 Business\n• 2 Reference\n• 2 News\n• 1 Travel",
       "date": "2026-06-14",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.SixThree.POV"
     },
@@ -78259,7 +78268,7 @@
       "identifier": "telos-update-2026-06-13",
       "caption": "360 Apps Updated:\n• 85 Health & Fitness\n• 46 Games\n• 40 Lifestyle\n• 35 Photo & Video\n• 34 Productivity\n• 24 Education\n• 13 Utilities\n• 12 Food & Drink\n• 11 Sports\n• 11 Business\n• 11 Finance\n• 9 Music\n• 8 Navigation\n• 6 Medical\n• 6 Weather\n• 3 News\n• 2 Reference\n• 2 Graphics & Design\n• 1 Entertainment\n• 1 Travel",
       "date": "2026-06-13",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.pungme.combyne"
     },
@@ -78268,7 +78277,7 @@
       "identifier": "telos-update-2026-06-12",
       "caption": "414 Apps Updated:\n• 85 Health & Fitness\n• 55 Games\n• 52 Photo & Video\n• 39 Lifestyle\n• 39 Productivity\n• 26 Utilities\n• 25 Education\n• 19 Music\n• 11 Medical\n• 10 Food & Drink\n• 10 Finance\n• 8 Weather\n• 8 Sports\n• 6 Graphics & Design\n• 5 Business\n• 4 Navigation\n• 3 Developer Tools\n• 3 Reference\n• 2 Travel\n• 2 Entertainment\n• 1 Books\n• 1 News",
       "date": "2026-06-12",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.northstar.gratitude"
     },
@@ -78277,7 +78286,7 @@
       "identifier": "telos-update-2026-06-11",
       "caption": "605 Apps Updated:\n• 154 Photo & Video\n• 97 Health & Fitness\n• 57 Games\n• 47 Productivity\n• 36 Music\n• 27 Entertainment\n• 26 Graphics & Design\n• 26 Lifestyle\n• 26 Education\n• 24 Social Networking\n• 19 Utilities\n• 8 Navigation\n• 8 Developer Tools\n• 7 Books\n• 7 Sports\n• 6 Travel\n• 6 Weather\n• 6 Finance\n• 5 Reference\n• 5 Food & Drink\n• 4 Medical\n• 3 Business\n• 1 News",
       "date": "2026-06-11",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.mwm.stems"
     },
@@ -78286,7 +78295,7 @@
       "identifier": "telos-update-2026-06-10",
       "caption": "305 Apps Updated:\n• 79 Photo & Video\n• 50 Health & Fitness\n• 35 Education\n• 30 Productivity\n• 17 Lifestyle\n• 13 Music\n• 12 Games\n• 12 Entertainment\n• 11 Graphics & Design\n• 6 News\n• 5 Social Networking\n• 5 Utilities\n• 4 Books\n• 4 Food & Drink\n• 4 Business\n• 4 Navigation\n• 4 Medical\n• 4 Travel\n• 3 Weather\n• 2 Reference\n• 1 Sports",
       "date": "2026-06-10",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.nekki.shadowfight.paid"
     },
@@ -78295,18 +78304,9 @@
       "identifier": "telos-update-2026-06-09",
       "caption": "235 Apps Updated:\n• 62 Photo & Video\n• 33 Health & Fitness\n• 29 Productivity\n• 16 Music\n• 15 Games\n• 10 Entertainment\n• 10 Graphics & Design\n• 9 Social Networking\n• 8 Education\n• 8 Utilities\n• 7 Lifestyle\n• 5 Navigation\n• 4 Weather\n• 4 Travel\n• 4 Books\n• 3 News\n• 2 Sports\n• 2 Medical\n• 1 Finance\n• 1 Reference\n• 1 Business\n• 1 Developer Tools",
       "date": "2026-06-09",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "com.locket.Locket"
-    },
-    {
-      "title": "⚙️ Telos Update 6.8",
-      "identifier": "telos-update-2026-06-08",
-      "caption": "203 Apps Updated:\n• 48 Photo & Video\n• 34 Health & Fitness\n• 17 Productivity\n• 15 Education\n• 12 Games\n• 10 Utilities\n• 9 Entertainment\n• 9 Sports\n• 9 Lifestyle\n• 6 Music\n• 5 Graphics & Design\n• 4 Reference\n• 4 Business\n• 4 News\n• 3 Medical\n• 3 Social Networking\n• 2 Finance\n• 2 Navigation\n• 2 Food & Drink\n• 2 Travel\n• 2 Weather\n• 1 Developer Tools",
-      "date": "2026-06-08",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.dopedevelopment.Panels"
+      "appID": "com.locket.Locket"
     }
   ]
 }
