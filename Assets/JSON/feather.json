@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.risesci.nyx",
+    "com.reddit.Reddit",
     "com.neybox.Pillow",
     "se.resenatverket.FlightRadar24-Free",
-    "com.edjing.edjingdjturntable",
-    "com.taobao.taobao4iphone",
-    "com.sfun.snapedit"
+    "com.edjing.edjingdjturntable"
   ],
   "apps": [
     {
@@ -54350,15 +54350,15 @@
       "name": "Reddit",
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "REDDIT, INC.",
-      "subtitle": "Reddit for iOS",
-      "version": "2026.13.0",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.reddit.Reddit-2026.13.0-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nWelcome to Reddit, the heart of the internet.\n\nReddit is a social network with something for everyone: trending topics, diverse discussions, engaging communities and comment threads.\n\nRedditors have authentic and interesting conversations around all sorts of curated content. You’ll find gaming communities, bloggers, meme-makers, fandoms, travel enthusiasts, support groups, AI forums, news junkies, artists, and creators of all types.\n\nReddit has over 100,000 online communities (forums where membe",
+      "subtitle": "Tweaked with CydiaSubstrate, RedditFilter",
+      "version": "2026.24.0",
+      "versionDate": "2026-06-18",
+      "versionDescription": "Tweaks: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.24.0_Jacks_Apps.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nRedditDeluxe 2026.24.0\n\n---\nWelcome to Reddit, the heart of the internet.\n\nReddit is a social network with something for everyone: trending topics, diverse discussions, engaging communities and comment threads.\n\nRedditors have authentic and interesting conversations around all sorts of curated content. You’ll find gaming communities, bloggers, meme-makers, fandoms, travel enthusiasts, support groups, AI forums, news junkies, artists, and creators of all types.\n\nReddit has over 100,000 online communities (forums where membe",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a6/0d/e6a60d60-e30f-e9b7-5499-38fc8e294a51/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 158248029,
+      "size": 146743141,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/b1/d4/5ab1d42a-6b46-14e8-0a42-e36651ee36cb/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/29/b6/0b29b650-0ac2-1a8b-fa99-0140c0e95608/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/392x696bb.png",
@@ -54386,11 +54386,11 @@
       },
       "versions": [
         {
-          "version": "2026.13.0",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.reddit.Reddit-2026.13.0-eeveedecrypter.ipa",
-          "size": 158248029
+          "version": "2026.24.0",
+          "date": "2026-06-18",
+          "localizedDescription": "Tweaks: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.24.0_Jacks_Apps.ipa",
+          "size": 146743141
         }
       ],
       "category": "news"
@@ -55474,14 +55474,14 @@
       "bundleIdentifier": "com.risesci.nyx",
       "developerName": "Rise Science Inc",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "1.602.0",
-      "versionDate": "2026-06-12",
+      "version": "1.603.0",
+      "versionDate": "2026-06-18",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_602_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_603_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nRISE: Sleep Tracker\n\n---\nJoin over 10 million users! Become a better sleeper and morning person thanks to 100 years of sleep science with RISE, the only sleep tracker that also measures your sleep debt and energy levels.\n\nRecommended by the Sleep Foundation and trusted by teams in the NFL, MLB, and NBA, and top Fortune 500 companies, RISE makes it easy to improve your sleep and energy.\n\nBut RISE is more than a sleep and energy tracker. Users can access widgets, calendar integration, sleeping sounds, meditation guides, s",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/ff/33/8cff334a-586f-3542-85e0-0fada7905929/App-Icon-Glass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 145474524,
+      "size": 145488307,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/fe/b7/f5feb7b6-0c2d-3758-7ecd-21e4553cd2c7/a457da92-9a8d-48e8-8150-8f355011e70e_5.5_SS1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/32/1f/ee321f6f-dd06-60b8-533c-19d00ca084f9/6c0d466d-dd53-4e7e-a3e7-fe3bdb1f5f29_5.5_SS2.png/392x696bb.png",
@@ -55515,11 +55515,11 @@
       },
       "versions": [
         {
-          "version": "1.602.0",
-          "date": "2026-06-12",
+          "version": "1.603.0",
+          "date": "2026-06-18",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_602_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 145474524
+          "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_603_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 145488307
         }
       ],
       "category": "health-&-fitness"
