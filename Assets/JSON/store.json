@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.taobao.taobao4iphone",
     "com.sfun.snapedit",
     "overlook.fing",
     "videoeditor.app",
-    "com.cleandayapp.cleanday",
-    "com.iPwners.Plonkan"
+    "com.cleandayapp.cleanday"
   ],
   "apps": [
     {
@@ -78053,6 +78053,67 @@
       "category": "games"
     },
     {
+      "name": "淘宝",
+      "bundleIdentifier": "com.taobao.taobao4iphone",
+      "developerName": "浙江淘宝网络有限公司",
+      "subtitle": "淘宝 for iOS",
+      "version": "10.62.10",
+      "versionDate": "2026-06-18",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.taobao.taobao4iphone-10.62.10-eeveedecrypter.ipa",
+      "localizedDescription": "淘宝 for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/8b/ce/068bce4a-71c6-a64d-fdd9-bab0b5bf0da6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 120784203,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.networking.multipath",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.nfc.readersession.formats",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "“淘宝”想访问您的照片，为了帮您实现晒买家秀等上传照片的功能",
+          "NSCameraUsageDescription": "“淘宝”想访问您的相机，为了帮您扫描二维码或商品和互动等功能",
+          "NSMicrophoneUsageDescription": "“淘宝”想访问您的麦克风，为了帮您使用语音搜索、语音输入、语音客服等功能",
+          "NSLocationWhenInUseUsageDescription": "“淘宝”想访问您的位置，为了提供附近的商品、店铺及优惠资讯",
+          "NSLocationAlwaysUsageDescription": "“淘宝”想访问您的位置，为了提供附近的商品、店铺及优惠资讯",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "“淘宝”想访问您的位置，为了提供附近的商品、店铺及优惠资讯",
+          "NSContactsUsageDescription": "可以找到更多通讯录好友，与他们分享互动、购买宝贝、充值话费及参与活动",
+          "NSCalendarsUsageDescription": "“淘宝”想访问您的日历，为了在日历上提醒您优惠等活动",
+          "NSMotionUsageDescription": "“淘宝”想访问您的运动，为了从行走步数来参加有意思的活动",
+          "NSHealthShareUsageDescription": "“淘宝”想访问您的健康数据，为了根据您的健康情况并推荐健康服务和商品",
+          "NSHealthUpdateUsageDescription": "“淘宝”想访问您的健康数据，为了根据您的健康情况并推荐健康服务和商品",
+          "NSSpeechRecognitionUsageDescription": "“淘宝”想访问您的语音识别，为了帮您用语音搜索卖家商品等功能",
+          "NSFaceIDUsageDescription": "如不允许，您将无法使用面容 ID 完成相应操作",
+          "NSBluetoothAlwaysUsageDescription": "“淘宝”想访问您的蓝牙，为了让设备间互通互用",
+          "NSBluetoothPeripheralUsageDescription": "“淘宝”想访问您的蓝牙，为了让设备间互通互用",
+          "NSLocalNetworkUsageDescription": "为了投屏功能正常使用，需开启本地网络权限，是否允许？",
+          "NSUserTrackingUsageDescription": "为了向您推荐更优质、喜欢的商品服务",
+          "NSPhotoLibraryAddUsageDescription": "“淘宝”想访问您的相册，为了把您想要下载的图片存到你手机里"
+        }
+      },
+      "versions": [
+        {
+          "version": "10.62.10",
+          "date": "2026-06-10",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.taobao.taobao4iphone-10.62.10-eeveedecrypter.ipa",
+          "size": 120784203
+        }
+      ],
+      "category": "shopping"
+    },
+    {
       "name": "美图秀秀",
       "bundleIdentifier": "com.meitu.mtxx",
       "developerName": "Xiamen Meitu Technology Co., Ltd.",
@@ -78221,7 +78282,7 @@
     {
       "title": "⚙️ Telos Update 6.18",
       "identifier": "telos-update-2026-06-18",
-      "caption": "22 Apps Updated:\n• 8 Photo & Video\n• 6 Health & Fitness\n• 4 Productivity\n• 2 Finance\n• 2 Lifestyle",
+      "caption": "18 Apps Updated:\n• 4 Health & Fitness\n• 4 Photo & Video\n• 4 Shopping\n• 2 Finance\n• 2 Lifestyle\n• 2 Productivity",
       "date": "2026-06-18",
       "tintColor": "#02433b",
       "notify": true,
