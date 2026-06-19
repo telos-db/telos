@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "co.detail.duo",
-    "com.maplepop.bmcx",
-    "co.noteplan.NotePlan3",
-    "com.risesci.nyx",
-    "com.chengzu.book"
+    "com.thewayapp.mobile",
+    "com.uqxuwtxbbu.parkingjam",
+    "com.tickettothemoon.video.persona",
+    "com.neybox.Pillow",
+    "com.toyopagroup.picaboo"
   ],
   "apps": [
     {
@@ -47376,14 +47376,14 @@
       "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
       "developerName": "Popcore GmbH",
       "subtitle": "*Tweak:** No Ads, Unlimited Coins | *Patched ✓**",
-      "version": "232.0.3",
-      "versionDate": "2026-06-12",
+      "version": "232.0.4",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, parkingjam3drifty, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v232.0.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v232.0.4-riftysipas.ipa",
       "localizedDescription": "*Tweak:** No Ads, Unlimited Coins | *Patched ✓**\n\nParking Jam 3D",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/ce/c5/0ecec593-d4b5-740c-42ab-8fde6650f2c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 225900194,
+      "size": 226871564,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/67/26/7567264b-c0bc-8ea6-fa05-d06100d5e54b/4__U00282_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/1b/57/601b57c4-89f9-8fc5-14eb-8e4ab86f8386/5__U00282_U0029.png/392x696bb.png",
@@ -47408,11 +47408,11 @@
       },
       "versions": [
         {
-          "version": "232.0.3",
-          "date": "2026-06-12",
+          "version": "232.0.4",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, parkingjam3drifty, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v232.0.3-riftysipas.ipa",
-          "size": 225900194
+          "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v232.0.4-riftysipas.ipa",
+          "size": 226871564
         }
       ],
       "category": "games"
@@ -48224,15 +48224,15 @@
       "name": "Persona",
       "bundleIdentifier": "com.tickettothemoon.video.persona",
       "developerName": "Ticket To The Moon, Inc.",
-      "subtitle": "Tweaked with RevenueCatFix26",
-      "version": "1.15.38",
-      "versionDate": "2026-06-10",
-      "versionDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Persona VIP 1.15.38.ipa",
-      "localizedDescription": "Persona: Beauty Camera",
+      "subtitle": "*Tweak:** Subscription Unlocked | *Notes:** Restart App If Subscription Isn'T Unlocked",
+      "version": "1.15.40",
+      "versionDate": "2026-06-19",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.40-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Subscription Unlocked | *Notes:** Restart App If Subscription Isn'T Unlocked | *Patched ✓**\n\nPersona: Beauty Camera",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/c0/40/2fc040d4-f7ce-f0c0-2743-147d41eb8b54/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 171353327,
+      "size": 188577879,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/e8/3f/86e83fd9-a8a2-d374-093c-5cf9db87038f/1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/96/ea/5896ea61-9d97-835e-e869-654385f1af2e/5.jpg/392x696bb.jpg",
@@ -48256,11 +48256,11 @@
       },
       "versions": [
         {
-          "version": "1.15.38",
-          "date": "2026-06-06",
-          "localizedDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Persona VIP 1.15.38.ipa",
-          "size": 171353327
+          "version": "1.15.40",
+          "date": "2026-06-19",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.40-riftysipas.ipa",
+          "size": 188577879
         }
       ],
       "category": "photo-&-video"
@@ -49779,14 +49779,14 @@
       "bundleIdentifier": "com.neybox.Pillow",
       "developerName": "Neybox Digital Ltd.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "6.4.4",
+      "version": "6.4.5",
       "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Pillow: Sleep Tracker-v6.4.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Pillow: Sleep Tracker-v6.4.5-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nPillow: Sleep Tracker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/f4/97/03f49716-1ea6-5b62-313b-c4f2a07802ea/AppIcon-v5-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 556914516,
+      "size": 556915028,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -49814,11 +49814,11 @@
       },
       "versions": [
         {
-          "version": "6.4.4",
+          "version": "6.4.5",
           "date": "2026-06-19",
           "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Pillow: Sleep Tracker-v6.4.4-riftysipas.ipa",
-          "size": 556914516
+          "downloadURL": "https://telos.ftp.sh/ipas/Pillow: Sleep Tracker-v6.4.5-riftysipas.ipa",
+          "size": 556915028
         }
       ],
       "category": "health-&-fitness"
@@ -59464,14 +59464,14 @@
       "bundleIdentifier": "com.toyopagroup.picaboo",
       "developerName": "Snap, Inc.",
       "subtitle": "Snapchat for iOS",
-      "version": "13.85.0",
-      "versionDate": "2026-06-11",
-      "versionDescription": "Source: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnapZero 20.2.0.ipa",
-      "localizedDescription": "anyone know how to bypass the license key screen?",
+      "version": "14.11.0",
+      "versionDate": "2026-06-19",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.toyopagroup.picaboo-14.11.0.47-eeveedecrypter.ipa",
+      "localizedDescription": "Snapchat for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/ee/1d/41ee1d5e-1c60-b51a-6c94-c32d7edea3f2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 189912763,
+      "size": 158930287,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/a2/13/7aa213d1-841b-8bab-55ac-5758d5f55630/762b1643-82ac-445a-8500-c4c4f86102b1_Screenshot1_Snap_USA_Apple_1242x2208.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/c4/4d/0fc44df7-46cb-5db8-bee5-db42e9be698f/370a4e0e-0bcb-42b9-a20c-7aea1c32c1b4_Screenshot2_Chat_USA_Apple_1242x2208.jpg/392x696bb.jpg",
@@ -59504,11 +59504,11 @@
       },
       "versions": [
         {
-          "version": "13.85.0",
-          "date": "2026-06-11",
-          "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnapZero 20.2.0.ipa",
-          "size": 189912763
+          "version": "14.11.0",
+          "date": "2026-06-19",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.toyopagroup.picaboo-14.11.0.47-eeveedecrypter.ipa",
+          "size": 158930287
         }
       ],
       "category": "photo-&-video"
@@ -67011,14 +67011,14 @@
       "bundleIdentifier": "com.thewayapp.mobile",
       "developerName": "The Way App Inc",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "1.20.2",
+      "version": "1.20.3",
       "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.20.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.20.3-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nThe Way: Meditation Path",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/2c/d5/452cd5fc-13c4-9c34-63f3-ba7480d43e25/app-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 97054209,
+      "size": 97283281,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/ee/4f/18ee4f16-774c-831b-b0f7-cad9f715bb7e/ipad-appstore-12.9-INCH-2048_U00d72732-screen-1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/06/43/cd0643eb-907d-8aba-a63d-93f70d937998/ipad-appstore-12.9-INCH-2048_U00d72732-screen-2.png/576x768bb.png",
@@ -67048,11 +67048,11 @@
       },
       "versions": [
         {
-          "version": "1.20.2",
+          "version": "1.20.3",
           "date": "2026-06-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.20.2-riftysipas.ipa",
-          "size": 97054209
+          "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.20.3-riftysipas.ipa",
+          "size": 97283281
         }
       ],
       "category": "lifestyle"
@@ -78439,7 +78439,7 @@
     {
       "title": "⚙️ Telos Update 6.19",
       "identifier": "telos-update-2026-06-19",
-      "caption": "148 Apps Updated:\n• 32 Health & Fitness\n• 16 Photo & Video\n• 16 Lifestyle\n• 16 Games\n• 10 Productivity\n• 8 Navigation\n• 6 Utilities\n• 6 Education\n• 4 Food & Drink\n• 4 Music\n• 4 Weather\n• 4 News\n• 4 Business\n• 4 Sports\n• 4 Books\n• 2 Social Networking\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools\n• 2 Entertainment",
+      "caption": "164 Apps Updated:\n• 38 Health & Fitness\n• 22 Photo & Video\n• 20 Lifestyle\n• 20 Games\n• 8 Navigation\n• 8 Productivity\n• 6 Utilities\n• 6 Education\n• 4 Food & Drink\n• 4 Music\n• 4 Weather\n• 4 News\n• 4 Business\n• 4 Sports\n• 2 Social Networking\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools\n• 2 Entertainment\n• 2 Books",
       "date": "2026-06-19",
       "tintColor": "#02433b",
       "notify": true,
