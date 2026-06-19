@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "boomer.Smart-Video",
+    "com.saltycrackers.daygram",
+    "com.wellocution.iosapp",
     "com.genau.MoneyCircle",
-    "com.genau.JournalCircle",
-    "com.ulisesolave.Fitia",
-    "com.burbn.instagram",
-    "com.ld.TakeBrowser"
+    "com.genau.JournalCircle"
   ],
   "apps": [
     {
@@ -8051,14 +8051,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Tweaked with BoldVoice, blatantsPatch",
-      "version": "4.0.3",
-      "versionDate": "2026-06-18",
+      "version": "4.0.4",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_3_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_4_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BoldVoice, blatantsPatch\n\nBoldVoice: Accent Training\n\n---\nBoldVoice is the top-rated English speaking and pronunciation app, with over 2 million global users. Our Hollywood accent coaches and AI-powered feedback will help you achieve clear, confident pronunciation, with only 10 minutes of daily practice.\n\nWHY CHOOSE BOLDVOICE:\nLearn from professional accent coaches who train Hollywood actors\nRecord your voice and receive instant, AI-powered pronunciation feedback\nPractice with daily-life scenarios and professional conversations\nMonitor progress through",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/54/3e/5d543e2c-51bb-1d38-261b-2f75ad39987c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 147186931,
+      "size": 147188898,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8077,11 +8077,11 @@
       },
       "versions": [
         {
-          "version": "4.0.3",
-          "date": "2026-06-18",
+          "version": "4.0.4",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_3_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 147186931
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_4_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 147188898
         }
       ],
       "category": "education"
@@ -10546,14 +10546,14 @@
       "bundleIdentifier": "boomer.Smart-Video",
       "developerName": "Captions, LLC (US)",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "13.11.0",
-      "versionDate": "2026-06-14",
+      "version": "13.22.0",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.11.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.22.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nCaptions: For Talking Videos\n\n---\nAI EDIT THAT EDITS LIKE A PROFESSIONAL VIDEO EDITOR\n\nBuilt by Mirage™, Captions is an AI video generator and video editor that makes it easy to go from idea to ready-to-share content, no experience needed.\n\nGet started by importing a video or generating engaging content from scratch using text to video. You can create an AI actor or upload a selfie to create a personal avatar, allowing you to produce polished footage of yourself without ever needing to record again.\n\nFrom there, skip the hours s",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/1c/9b/471c9b97-d1e5-ddcf-5906-5f61e4036fce/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 399116666,
+      "size": 103541642,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/5b/87/b05b8741-4960-1913-3f58-eb3cf3bff922/2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/2a/a6/942aa6f7-e910-aab9-be7f-1ff8d5de1a95/3.png/392x696bb.png",
@@ -10583,11 +10583,11 @@
       },
       "versions": [
         {
-          "version": "13.11.0",
-          "date": "2026-06-14",
+          "version": "13.22.0",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.11.0-riftysipas.ipa",
-          "size": 399116666
+          "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.22.0-riftysipas.ipa",
+          "size": 103541642
         }
       ],
       "category": "photo-&-video"
@@ -15623,14 +15623,14 @@
       "bundleIdentifier": "com.saltycrackers.daygram",
       "developerName": "EUIHYUNG JUNG",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "5.6.5",
-      "versionDate": "2026-06-14",
+      "version": "5.6.9",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdaygram, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.6.5-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.6.9-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdaygram, zxPluginsInject\n\nDaygram: Daily Journal\n\n---\n• App Store Best of the Year • Best New App • Featured in App Store Stories\nDayGram is a beautifully minimal journal and diary app with an elegant E-Ink style display. Write one line a day, keep a daily journal, or create a private digital memoir.\n\n◆ WHY DAYGRAM?\n\n- Distraction-free writing with a clean, paper-like interface\n- No ads, no subscriptions – one-time purchase for Premium\n- Password & Face ID protection for complete privacy\n- iCloud sync keeps your diary safe across all devices\n\n◆ FEA",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/e8/75/c4e875b4-fe09-51c9-e086-060edae54603/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 30259893,
+      "size": 30350726,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/2f/e9/4a2fe921-332c-01bb-3b52-06f662c15feb/6e903ad4-5910-409e-9df2-b33c130e5a8c_old_ipad_en_0.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/ca/cf/59cacf18-57da-f9dc-a90b-92599c37046e/mzl.qksssrcf.png/576x768bb.png",
@@ -15655,11 +15655,11 @@
       },
       "versions": [
         {
-          "version": "5.6.5",
-          "date": "2026-06-14",
+          "version": "5.6.9",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdaygram, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.6.5-riftysipas.ipa",
-          "size": 30259893
+          "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.6.9-riftysipas.ipa",
+          "size": 30350726
         }
       ],
       "category": "lifestyle"
