@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.camerasideas.Peachy",
     "com.N2BunpouApp.yuki",
     "org.reactjs.native.example.rootd",
     "com.mfagency.nurture",
-    "com.frameoneapps.Crsel",
-    "boomer.Smart-Video"
+    "com.frameoneapps.Crsel"
   ],
   "apps": [
     {
@@ -47818,15 +47818,15 @@
       "name": "Peachy",
       "bundleIdentifier": "com.camerasideas.Peachy",
       "developerName": "SHANTANU PTE. LTD.",
-      "subtitle": "Pro Features Unlocked",
-      "version": "2.11.2",
-      "versionDate": "2026-06-11",
-      "versionDescription": "Tweaks: CydiaSubstrate, PeachyPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Peachy Pro 2.11.2.ipa",
-      "localizedDescription": "Pro Features Unlocked\n\nPeachy - AI Face & Body Editor",
+      "subtitle": "Premium Unlocked | Patched",
+      "version": "2.12.0",
+      "versionDate": "2026-06-19",
+      "versionDescription": "Tweaks: Peachy, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Peachy_AI_Face_&_Body_Editor_v2_12_0_Premium_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nPeachy - AI Face & Body Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/7b/1b/6f7b1b3a-865d-d799-7732-7e0c2cde750a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 173734466,
+      "size": 190787073,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -47840,11 +47840,11 @@
       },
       "versions": [
         {
-          "version": "2.11.2",
-          "date": "2026-04-27",
-          "localizedDescription": "Tweaks: CydiaSubstrate, PeachyPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Peachy Pro 2.11.2.ipa",
-          "size": 173734466
+          "version": "2.12.0",
+          "date": "2026-06-19",
+          "localizedDescription": "Tweaks: Peachy, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Peachy_AI_Face_&_Body_Editor_v2_12_0_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 190787073
         }
       ],
       "category": "photo-&-video"
@@ -78440,7 +78440,7 @@
     {
       "title": "⚙️ Telos Update 6.19",
       "identifier": "telos-update-2026-06-19",
-      "caption": "190 Apps Updated:\n• 40 Health & Fitness\n• 30 Photo & Video\n• 22 Lifestyle\n• 18 Games\n• 12 Productivity\n• 12 Education\n• 10 Utilities\n• 8 Navigation\n• 4 Food & Drink\n• 4 Music\n• 4 Weather\n• 4 News\n• 4 Business\n• 4 Sports\n• 4 Entertainment\n• 2 Social Networking\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools\n• 2 Books",
+      "caption": "186 Apps Updated:\n• 38 Health & Fitness\n• 32 Photo & Video\n• 22 Lifestyle\n• 18 Games\n• 10 Productivity\n• 10 Utilities\n• 10 Education\n• 8 Navigation\n• 4 Food & Drink\n• 4 Music\n• 4 Weather\n• 4 News\n• 4 Business\n• 4 Sports\n• 4 Entertainment\n• 2 Social Networking\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools\n• 2 Books",
       "date": "2026-06-19",
       "tintColor": "#02433b",
       "notify": true,
