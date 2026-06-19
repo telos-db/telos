@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.app.phlow",
+    "com.linecorp.Foodie",
     "com.videobrowser.ios",
     "com.camerasideas.Peachy",
-    "com.N2BunpouApp.yuki",
-    "org.reactjs.native.example.rootd",
-    "com.mfagency.nurture"
+    "com.N2BunpouApp.yuki"
   ],
   "apps": [
     {
@@ -24400,14 +24400,14 @@
       "bundleIdentifier": "com.linecorp.Foodie",
       "developerName": "SNOW Corporation",
       "subtitle": "Tweaked with Foodie, blatantsPatch",
-      "version": "8.2.0",
-      "versionDate": "2026-06-14",
+      "version": "8.2.1",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: Foodie, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Foodie_Filter_&_Film_Camera_v8_2_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Foodie_Filter_&_Film_Camera_v8_2_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Foodie, blatantsPatch\n\nFoodie - Filter & Film Camera\n\n---\nLive life according to your tastes.\nThe Foodie camera app is the essential companion for the modern sociable foodie.\nDiscover a fun and fast way to spice up the perfect memory of a perfect meal.\n\n+ Over 30 professional quality live filters\nIncluding the Yum, Positano, Tropical, Picnic, Sweet, Fresh, BBQ, Romantic, Crispy, and Chewy filter series.\n+ Easy and accurate smart guide feature for taking top-down photos of food\nCapture the perfect atmosphere and mood when taking food photos from above.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/cf/88/7fcf8898-4c8b-3799-bd71-dd73aaa30afc/GlobalAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 113991777,
+      "size": 115645550,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/38/c4/cc38c4af-d93b-c021-ea64-d86df374d22c/cd903448-4fde-4eac-8691-085c4fd80ef9_03.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/8f/42/dd8f4279-d032-173a-e413-7d9934cc0605/a402489f-de97-47af-b91b-cd7520f6df1d_01.png/392x696bb.png",
@@ -24433,11 +24433,11 @@
       },
       "versions": [
         {
-          "version": "8.2.0",
-          "date": "2026-06-14",
+          "version": "8.2.1",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: Foodie, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Foodie_Filter_&_Film_Camera_v8_2_0_Subscription_Unlocked_blatant.ipa",
-          "size": 113991777
+          "downloadURL": "https://telos.ftp.sh/ipas/Foodie_Filter_&_Film_Camera_v8_2_1_Subscription_Unlocked_blatant.ipa",
+          "size": 115645550
         }
       ],
       "category": "photo-&-video"
@@ -48758,14 +48758,14 @@
       "bundleIdentifier": "com.app.phlow",
       "developerName": "Phlow, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.1.8",
-      "versionDate": "2026-06-14",
+      "version": "2.1.17",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Phlow: Camera & Photo Editor-v2.1.8-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Phlow: Camera & Photo Editor-v2.1.17-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nPhlow: Camera & Photo Editor\n\n---\nHere's everything you get when you subscribe today (we think it's a steal):\n\n PHLOWSYNC™: A world first! Never before have you been able to go from capture to professionally colored photo straight to Photos App in full RAW non-destructively. No more exporting or duplicate files. Just shoot photos with Phlow and edit them as you normally would. All changes sync back to that file in Photos App.\n\n PRO (RAW) CAMERA:\n\nNo Fusion. No Jpgs (unless you want them)… The heart of Phlow is our raw camera. Sh",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/2a/2a/bf2a2ae5-a6a2-c51c-a5e1-0660d3668782/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 189838811,
+      "size": 192064175,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -48786,11 +48786,11 @@
       },
       "versions": [
         {
-          "version": "2.1.8",
-          "date": "2026-06-14",
+          "version": "2.1.17",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Phlow: Camera & Photo Editor-v2.1.8-riftysipas.ipa",
-          "size": 189838811
+          "downloadURL": "https://telos.ftp.sh/ipas/Phlow: Camera & Photo Editor-v2.1.17-riftysipas.ipa",
+          "size": 192064175
         }
       ],
       "category": "photo-&-video"
