@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "co.detail.duo",
-    "com.maplepop.bmcx",
-    "co.noteplan.NotePlan3",
-    "com.risesci.nyx",
-    "com.chengzu.book"
+    "com.thewayapp.mobile",
+    "com.uqxuwtxbbu.parkingjam",
+    "com.tickettothemoon.video.persona",
+    "com.neybox.Pillow",
+    "com.toyopagroup.picaboo"
   ],
   "apps": [
     {
@@ -47826,14 +47826,14 @@
       "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
       "developerName": "Popcore GmbH",
       "subtitle": "Tweaked with CydiaSubstrate, fixipa1",
-      "version": "231.0.11",
-      "versionDate": "2026-06-14",
+      "version": "232.0.4",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, parkingjam3drifty, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v231.0.11-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v232.0.4-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, fixipa1, fixipa2, parkingjam3drifty, popuprifty\n\nParking Jam 3D\n\n---\nParking Jam 3D is one of the most downloaded Puzzle Board games with more than 50,000,000 installs.\n\nParking Jam is a fun and addictive puzzle board game. It’s more than just parking - it's a fun driving experience that'll take you to another level!\n\nJams in parking lots, challenging parking situations, angry grannies and much more. Experience one of the best parking board games, get rewarded and unlock skins, solve puzzles which get harder each level, choose which car to move so you can find sm",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/ce/c5/0ecec593-d4b5-740c-42ab-8fde6650f2c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 226787293,
+      "size": 226871564,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/67/26/7567264b-c0bc-8ea6-fa05-d06100d5e54b/4__U00282_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/1b/57/601b57c4-89f9-8fc5-14eb-8e4ab86f8386/5__U00282_U0029.png/392x696bb.png",
@@ -47842,6 +47842,7 @@
       ],
       "appPermissions": {
         "entitlements": [
+          "com.apple.developer.declared-age-range",
           "aps-environment",
           "com.apple.developer.associated-domains"
         ],
@@ -47857,11 +47858,11 @@
       },
       "versions": [
         {
-          "version": "231.0.11",
-          "date": "2026-06-14",
+          "version": "232.0.4",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, parkingjam3drifty, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v231.0.11-riftysipas.ipa",
-          "size": 226787293
+          "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v232.0.4-riftysipas.ipa",
+          "size": 226871564
         }
       ],
       "category": "games"
@@ -48674,14 +48675,14 @@
       "bundleIdentifier": "com.tickettothemoon.video.persona",
       "developerName": "Ticket To The Moon, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.15.14",
-      "versionDate": "2026-06-14",
+      "version": "1.15.40",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.14-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.40-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPersona: Beauty Camera\n\n---\nMaster your look with Persona - a professional beauty camera and editor crafted for perfection. Smart AI and powerful tools deliver flawless photos and videos effortlessly, live or in edits.\n\nMAIN FEATURES:\n\n • Face Beauty Filters: Choose from dozens of filters to smooth skin, add a bright glow, or perfect your look naturally - instant with one click, for photos and videos.\n • Hair Upgrades: Boost volume or switch to new hairstyles fast, works on any shot.\n • Body Tuning: Shape your figure a bit",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/c0/40/2fc040d4-f7ce-f0c0-2743-147d41eb8b54/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 169675613,
+      "size": 188577879,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/e8/3f/86e83fd9-a8a2-d374-093c-5cf9db87038f/1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/96/ea/5896ea61-9d97-835e-e869-654385f1af2e/5.jpg/392x696bb.jpg",
@@ -48705,11 +48706,11 @@
       },
       "versions": [
         {
-          "version": "1.15.14",
-          "date": "2026-06-14",
+          "version": "1.15.40",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.14-riftysipas.ipa",
-          "size": 169675613
+          "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.40-riftysipas.ipa",
+          "size": 188577879
         }
       ],
       "category": "photo-&-video"
@@ -50226,14 +50227,14 @@
       "bundleIdentifier": "com.neybox.Pillow",
       "developerName": "Neybox Digital Ltd.",
       "subtitle": "Tweaked with Sideloadbypass1, Sideloadbypass2",
-      "version": "6.4.4",
+      "version": "6.4.5",
       "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Pillow: Sleep Tracker-v6.4.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Pillow: Sleep Tracker-v6.4.5-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nPillow: Sleep Tracker\n\n---\nSleep trouble? Sleep better with Pillow, your smart sleep tracker. Pillow can analyze your sleep cycles automatically using your Apple Watch, iPhone or iPad.\n\nUse Pillow as a smart alarm clock to wake up at the lightest possible sleep stage and start your day refreshed and relaxed. Record important audio events such as snoring, sleep apnea, and sleep talking. Explore trends about your sleep and compare your sleep quality with many Apple Health metrics that affect sleep.\n\nAs seen on:\nThe New York",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/f4/97/03f49716-1ea6-5b62-313b-c4f2a07802ea/AppIcon-v5-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 556914516,
+      "size": 556915028,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -50261,11 +50262,11 @@
       },
       "versions": [
         {
-          "version": "6.4.4",
+          "version": "6.4.5",
           "date": "2026-06-19",
           "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Pillow: Sleep Tracker-v6.4.4-riftysipas.ipa",
-          "size": 556914516
+          "downloadURL": "https://telos.ftp.sh/ipas/Pillow: Sleep Tracker-v6.4.5-riftysipas.ipa",
+          "size": 556915028
         }
       ],
       "category": "health-&-fitness"
@@ -59908,14 +59909,14 @@
       "bundleIdentifier": "com.toyopagroup.picaboo",
       "developerName": "Snap, Inc.",
       "subtitle": "Snapchat for iOS",
-      "version": "13.85.0",
-      "versionDate": "2026-06-11",
-      "versionDescription": "Source: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnapZero 20.2.0.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nanyone know how to bypass the license key screen?\n\n---\nSnapchat is a fast and fun way to share the moment with your friends and family\n\nSNAP\n• Snapchat opens right to the Camera — just tap to take a photo, or press and hold for video.\n• Express yourself with Lenses, Filters, Bitmoji and more!\n• Try out new Lenses daily created by the Snapchat community!\n\nCHAT\n• Stay in touch with friends through live messaging, or share your day with Group Stories.\n• Video Chat with up to 16 friends at once — you can even use Lenses and Filters when chatting!\n• Expr",
+      "version": "14.11.0",
+      "versionDate": "2026-06-19",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.toyopagroup.picaboo-14.11.0.47-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nSnapchat is a fast and fun way to share the moment with your friends and family\n\nSNAP\n• Snapchat opens right to the Camera — just tap to take a photo, or press and hold for video.\n• Express yourself with Lenses, Filters, Bitmoji and more!\n• Try out new Lenses daily created by the Snapchat community!\n\nCHAT\n• Stay in touch with friends through live messaging, or share your day with Group Stories.\n• Video Chat with up to 16 friends at once — you can even use Lenses and Filters when chatting!\n• Expr",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/ee/1d/41ee1d5e-1c60-b51a-6c94-c32d7edea3f2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 189912763,
+      "size": 158930287,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/a2/13/7aa213d1-841b-8bab-55ac-5758d5f55630/762b1643-82ac-445a-8500-c4c4f86102b1_Screenshot1_Snap_USA_Apple_1242x2208.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/c4/4d/0fc44df7-46cb-5db8-bee5-db42e9be698f/370a4e0e-0bcb-42b9-a20c-7aea1c32c1b4_Screenshot2_Chat_USA_Apple_1242x2208.jpg/392x696bb.jpg",
@@ -59948,11 +59949,11 @@
       },
       "versions": [
         {
-          "version": "13.85.0",
-          "date": "2026-06-11",
-          "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnapZero 20.2.0.ipa",
-          "size": 189912763
+          "version": "14.11.0",
+          "date": "2026-06-19",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.toyopagroup.picaboo-14.11.0.47-eeveedecrypter.ipa",
+          "size": 158930287
         }
       ],
       "category": "photo-&-video"
@@ -67678,14 +67679,14 @@
       "bundleIdentifier": "com.thewayapp.mobile",
       "developerName": "The Way App Inc",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.20.2",
+      "version": "1.20.3",
       "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.20.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.20.3-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nThe Way: Meditation Path\n\n---\nTHE WAY is a new kind of meditation app: a single path, led by an authorized Zen master, that guides you on a deep meditation training program. Study alongside Zen master Henry Shukman as you uncover the deep peace, love, insight and awakening that meditation can bring.\n\nThe simple path to deeper meditation.\n\nWith THE WAY, you will:\n\n Never feel overwhelmed by choice. The Way guides you step-by-step along a single, linear path through all the key areas of a deep and fulfilling meditation practic",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/2c/d5/452cd5fc-13c4-9c34-63f3-ba7480d43e25/app-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 97054209,
+      "size": 97283281,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/ee/4f/18ee4f16-774c-831b-b0f7-cad9f715bb7e/ipad-appstore-12.9-INCH-2048_U00d72732-screen-1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/06/43/cd0643eb-907d-8aba-a63d-93f70d937998/ipad-appstore-12.9-INCH-2048_U00d72732-screen-2.png/576x768bb.png",
@@ -67715,11 +67716,11 @@
       },
       "versions": [
         {
-          "version": "1.20.2",
+          "version": "1.20.3",
           "date": "2026-06-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.20.2-riftysipas.ipa",
-          "size": 97054209
+          "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.20.3-riftysipas.ipa",
+          "size": 97283281
         }
       ],
       "category": "lifestyle"
