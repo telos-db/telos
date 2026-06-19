@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "ST.VALPAW",
+    "Kr1s.Valorant",
     "com.locket.Locket",
     "com.bravolol.bravoLang.chineseDictionary",
-    "com.shantanu.YouCut",
-    "com.damtechdesigns.wa.story",
-    "app.swiftgram.ios"
+    "com.shantanu.YouCut"
   ],
   "apps": [
     {
@@ -15174,6 +15174,43 @@
         }
       ],
       "category": "games"
+    },
+    {
+      "name": "DailyVal",
+      "bundleIdentifier": "Kr1s.Valorant",
+      "developerName": "JUI-LIN YU",
+      "subtitle": "DailyVal for iOS",
+      "version": "2.3.0",
+      "versionDate": "2026-06-19",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/Kr1s.Valorant-2.3.0-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/b6/84/36b6845e-c428-bee0-5da4-992b18d04540/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 19059833,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/ff/1a/dfff1aa0-39c5-36da-cded-f9741cb4aace/d8f0cf2f-6e54-4486-81d6-befa3bd47bc2_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-05-05_at_17.40.02.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/46/90/23469002-38db-f617-1efd-eeb60e0ed8ca/ac09d64a-c67e-4522-8973-148e7dee2cc5_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-09-22_at_12.55.56.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/f9/50/a5f95052-90ba-f59d-bf4c-551aa4ba915c/a9da314b-e7f2-4df7-8a4d-882df5805d8d_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-05-05_at_17.40.14.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/02/f3/d702f33e-a311-0365-c6cb-8824bf65b6c3/e98572b1-21f6-4933-9b5c-edc6734201c8_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-02-27_at_18.05.54.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/3d/d0/ff3dd0fd-fdc1-0aae-b6ad-0404e1ee146c/2108fd67-ba80-4ee7-a12f-d4d78d8ab91a_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-09-22_at_12.52.11.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you"
+        }
+      },
+      "versions": [
+        {
+          "version": "2.3.0",
+          "date": "2026-04-29",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/Kr1s.Valorant-2.3.0-eeveedecrypter.ipa",
+          "size": 19059833
+        }
+      ],
+      "category": "social-networking"
     },
     {
       "name": "Damaged Photo Restore 2022",
@@ -71282,6 +71319,35 @@
       "category": "education"
     },
     {
+      "name": "VALPAW",
+      "bundleIdentifier": "ST.VALPAW",
+      "developerName": "Thorben Hamann",
+      "subtitle": "VALPAW for iOS",
+      "version": "2.4",
+      "versionDate": "2026-06-19",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/ST.VALPAW-2.4-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/78/d5/d578d5d5-bacc-2d9f-f40e-f79419a515cc/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 26938620,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.4",
+          "date": "2026-05-18",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/ST.VALPAW-2.4-eeveedecrypter.ipa",
+          "size": 26938620
+        }
+      ],
+      "category": "utilities"
+    },
+    {
       "name": "Vampire Survivors",
       "bundleIdentifier": "com.poncle.VampireSurvivors",
       "developerName": "Poncle",
@@ -78327,11 +78393,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 6.19",
+      "identifier": "telos-update-2026-06-19",
+      "caption": "8 Apps Updated:\n• 4 Social Networking\n• 4 Utilities",
+      "date": "2026-06-19",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "Kr1s.Valorant"
+    },
+    {
       "title": "⚙️ Telos Update 6.18",
       "identifier": "telos-update-2026-06-18",
-      "caption": "58 Apps Updated:\n• 18 Photo & Video\n• 8 Health & Fitness\n• 6 Social Networking\n• 4 Lifestyle\n• 4 Travel\n• 4 Education\n• 2 Finance\n• 2 Graphics & Design\n• 2 Music\n• 2 Productivity\n• 2 Shopping\n• 2 News\n• 2 Weather",
+      "caption": "56 Apps Updated:\n• 18 Photo & Video\n• 8 Health & Fitness\n• 4 Lifestyle\n• 4 Travel\n• 4 Education\n• 4 Social Networking\n• 2 Finance\n• 2 Graphics & Design\n• 2 Music\n• 2 Productivity\n• 2 Shopping\n• 2 News\n• 2 Weather",
       "date": "2026-06-18",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.iPwners.Plonkan"
     },
@@ -78340,7 +78415,7 @@
       "identifier": "telos-update-2026-06-17",
       "caption": "74 Apps Updated:\n• 20 Photo & Video\n• 16 Health & Fitness\n• 8 Education\n• 6 Utilities\n• 4 Navigation\n• 4 Business\n• 4 Weather\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Lifestyle\n• 2 Medical\n• 2 Reference",
       "date": "2026-06-17",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.picsart.studio"
     },
@@ -78349,7 +78424,7 @@
       "identifier": "telos-update-2026-06-16",
       "caption": "254 Apps Updated:\n• 80 Photo & Video\n• 31 Health & Fitness\n• 21 Music\n• 19 Productivity\n• 17 Utilities\n• 17 Games\n• 13 Entertainment\n• 11 Education\n• 10 News\n• 7 Lifestyle\n• 6 Navigation\n• 6 Reference\n• 4 Sports\n• 4 Social Networking\n• 2 Food & Drink\n• 2 Weather\n• 2 Medical\n• 2 Graphics & Design",
       "date": "2026-06-16",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.genau.MoneyCircle"
     },
@@ -78358,7 +78433,7 @@
       "identifier": "telos-update-2026-06-15",
       "caption": "845 Apps Updated:\n• 169 Photo & Video\n• 160 News\n• 94 Social Networking\n• 62 Utilities\n• 60 Games\n• 50 Productivity\n• 50 Music\n• 38 Business\n• 24 Entertainment\n• 20 Reference\n• 18 Lifestyle\n• 14 Education\n• 12 Health & Fitness\n• 12 Sports\n• 10 Finance\n• 10 Shopping\n• 10 Food & Drink\n• 8 Travel\n• 6 Navigation\n• 6 Developer Tools\n• 4 Graphics & Design\n• 2 Weather\n• 2 Medical\n• 2 Books\n• 2 Other",
       "date": "2026-06-15",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.condor.digital.Tide-Over"
     },
@@ -78367,7 +78442,7 @@
       "identifier": "telos-update-2026-06-14",
       "caption": "401 Apps Updated:\n• 79 Health & Fitness\n• 76 Photo & Video\n• 40 Games\n• 39 Education\n• 32 Productivity\n• 20 Lifestyle\n• 18 Utilities\n• 15 Finance\n• 12 Music\n• 11 Sports\n• 9 Food & Drink\n• 9 Medical\n• 8 Entertainment\n• 7 Navigation\n• 7 Social Networking\n• 6 Weather\n• 5 Graphics & Design\n• 3 Business\n• 2 Reference\n• 2 News\n• 1 Travel",
       "date": "2026-06-14",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.SixThree.POV"
     },
@@ -78376,7 +78451,7 @@
       "identifier": "telos-update-2026-06-13",
       "caption": "360 Apps Updated:\n• 85 Health & Fitness\n• 46 Games\n• 40 Lifestyle\n• 35 Photo & Video\n• 34 Productivity\n• 24 Education\n• 13 Utilities\n• 12 Food & Drink\n• 11 Sports\n• 11 Business\n• 11 Finance\n• 9 Music\n• 8 Navigation\n• 6 Medical\n• 6 Weather\n• 3 News\n• 2 Reference\n• 2 Graphics & Design\n• 1 Entertainment\n• 1 Travel",
       "date": "2026-06-13",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.pungme.combyne"
     },
@@ -78385,7 +78460,7 @@
       "identifier": "telos-update-2026-06-12",
       "caption": "414 Apps Updated:\n• 85 Health & Fitness\n• 55 Games\n• 52 Photo & Video\n• 39 Lifestyle\n• 39 Productivity\n• 26 Utilities\n• 25 Education\n• 19 Music\n• 11 Medical\n• 10 Food & Drink\n• 10 Finance\n• 8 Weather\n• 8 Sports\n• 6 Graphics & Design\n• 5 Business\n• 4 Navigation\n• 3 Developer Tools\n• 3 Reference\n• 2 Travel\n• 2 Entertainment\n• 1 Books\n• 1 News",
       "date": "2026-06-12",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.northstar.gratitude"
     },
@@ -78394,7 +78469,7 @@
       "identifier": "telos-update-2026-06-11",
       "caption": "605 Apps Updated:\n• 154 Photo & Video\n• 97 Health & Fitness\n• 57 Games\n• 47 Productivity\n• 36 Music\n• 27 Entertainment\n• 26 Graphics & Design\n• 26 Lifestyle\n• 26 Education\n• 24 Social Networking\n• 19 Utilities\n• 8 Navigation\n• 8 Developer Tools\n• 7 Books\n• 7 Sports\n• 6 Travel\n• 6 Weather\n• 6 Finance\n• 5 Reference\n• 5 Food & Drink\n• 4 Medical\n• 3 Business\n• 1 News",
       "date": "2026-06-11",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.mwm.stems"
     },
@@ -78403,18 +78478,9 @@
       "identifier": "telos-update-2026-06-10",
       "caption": "305 Apps Updated:\n• 79 Photo & Video\n• 50 Health & Fitness\n• 35 Education\n• 30 Productivity\n• 17 Lifestyle\n• 13 Music\n• 12 Games\n• 12 Entertainment\n• 11 Graphics & Design\n• 6 News\n• 5 Social Networking\n• 5 Utilities\n• 4 Books\n• 4 Food & Drink\n• 4 Business\n• 4 Navigation\n• 4 Medical\n• 4 Travel\n• 3 Weather\n• 2 Reference\n• 1 Sports",
       "date": "2026-06-10",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "com.nekki.shadowfight.paid"
-    },
-    {
-      "title": "⚙️ Telos Update 6.9",
-      "identifier": "telos-update-2026-06-09",
-      "caption": "235 Apps Updated:\n• 62 Photo & Video\n• 33 Health & Fitness\n• 29 Productivity\n• 16 Music\n• 15 Games\n• 10 Entertainment\n• 10 Graphics & Design\n• 9 Social Networking\n• 8 Education\n• 8 Utilities\n• 7 Lifestyle\n• 5 Navigation\n• 4 Weather\n• 4 Travel\n• 4 Books\n• 3 News\n• 2 Sports\n• 2 Medical\n• 1 Finance\n• 1 Reference\n• 1 Business\n• 1 Developer Tools",
-      "date": "2026-06-09",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.locket.Locket"
+      "appID": "com.nekki.shadowfight.paid"
     }
   ]
 }
