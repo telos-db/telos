@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.chengzu.book",
-    "com.getmimo.mimo",
-    "eu.gowod",
-    "com.readdle.PDFExpert5",
-    "com.wikiloc.wikiloc"
+    "co.detail.duo",
+    "com.maplepop.bmcx",
+    "co.noteplan.NotePlan3",
+    "com.risesci.nyx",
+    "com.chengzu.book"
   ],
   "apps": [
     {
@@ -16464,15 +16464,15 @@
       "name": "Detail",
       "bundleIdentifier": "co.detail.duo",
       "developerName": "Detail Technologies B.V.",
-      "subtitle": "Subscription Unlocked | Patched",
+      "subtitle": "*Tweak:** Pro Unlocked | *Notes:** Restart App If It Isnt Pro",
       "version": "5.5.22",
       "versionDate": "2026-06-19",
-      "versionDescription": "Tweaks: Detail, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Detail_AI_Video_Editor_v5_5_22_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nDetail: AI Video Editor",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/Detail: Camera & Video Editor-v5.5.22-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Pro Unlocked | *Notes:** Restart App If It Isnt Pro | *Patched ✓**\n\nDetail: Camera & Video Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/3e/89/0c3e8991-a51c-c3a9-bb54-bd418dc9f3f2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 235769951,
+      "size": 228580734,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -16496,9 +16496,9 @@
         {
           "version": "5.5.22",
           "date": "2026-06-19",
-          "localizedDescription": "Tweaks: Detail, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Detail_AI_Video_Editor_v5_5_22_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 235769951
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/Detail: Camera & Video Editor-v5.5.22-riftysipas.ipa",
+          "size": 228580734
         }
       ],
       "category": "photo-&-video"
@@ -38840,13 +38840,13 @@
       "developerName": "Maplepop LLC",
       "subtitle": "Subscription Unlocked | Patched",
       "version": "6.4",
-      "versionDate": "2026-06-03",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: MapleReadCX, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/MapleRead CX v6.4 Subscription Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MapleRead CX v6.4.1 Subscription Unlocked blatant Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nMapleRead CX",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/97/be/f297be91-79a4-acdd-2e0f-98f7ef6ddd36/AppIcon-mpr-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/1f/3f/b01f3f1d-d8f2-afcf-794c-de958701266c/AppIcon-mpr-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 19100982,
+      "size": 19107686,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/15/f0/bf/15f0bf27-7821-c99c-f35b-4950f3782cc5/9fde496e-d60c-4fed-ba16-fbd2ab751ead_library_scenes.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/51/0d/80/510d80ee-4bc4-e4dd-5ac8-3817e50ea048/c1953ac3-9a21-4ae1-baa0-a97dabf49424_magnify_book_cover.png/392x696bb.png",
@@ -38867,10 +38867,10 @@
       "versions": [
         {
           "version": "6.4",
-          "date": "2026-06-03",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: MapleReadCX, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/MapleRead CX v6.4 Subscription Unlocked blatant Patched.ipa",
-          "size": 19100982
+          "downloadURL": "https://telos.ftp.sh/ipas/MapleRead CX v6.4.1 Subscription Unlocked blatant Patched.ipa",
+          "size": 19107686
         }
       ],
       "category": "books"
@@ -44578,14 +44578,14 @@
       "bundleIdentifier": "co.noteplan.NotePlan3",
       "developerName": "NotePlan LLC",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "3.21",
-      "versionDate": "2026-06-14",
-      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/NotePlan_To_Do_List_&_Notes_v3_21_Subscription_Unlocked_blatant.ipa",
+      "version": "3.21.1",
+      "versionDate": "2026-06-19",
+      "versionDescription": "Tweaks: NotePlan, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/NotePlan_To_Do_List_&_Notes_v3_21_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nNotePlan - To-Do List & Notes",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/91/00/42910051-3ce1-4b94-c618-7e995fbb38a2/LGAppIcon4-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 98429069,
+      "size": 118552928,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/ba/56/b9ba563b-e6f5-ec5c-54bb-eb9d68cba7a8/1bd4cfb8-457b-4e8f-a91a-db9049865970_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/3c/be/7a3cbe33-6b4d-eda8-16d6-ccc25ca667c2/99a5b693-ccb4-481f-a74d-00c1c3ba5868_2.png/392x696bb.png",
@@ -44614,11 +44614,11 @@
       },
       "versions": [
         {
-          "version": "3.21",
-          "date": "2026-04-30",
-          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/NotePlan_To_Do_List_&_Notes_v3_21_Subscription_Unlocked_blatant.ipa",
-          "size": 98429069
+          "version": "3.21.1",
+          "date": "2026-06-19",
+          "localizedDescription": "Tweaks: NotePlan, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/NotePlan_To_Do_List_&_Notes_v3_21_1_Subscription_Unlocked_blatant.ipa",
+          "size": 118552928
         }
       ],
       "category": "productivity"
@@ -78439,7 +78439,7 @@
     {
       "title": "⚙️ Telos Update 6.19",
       "identifier": "telos-update-2026-06-19",
-      "caption": "146 Apps Updated:\n• 32 Health & Fitness\n• 16 Lifestyle\n• 16 Games\n• 14 Photo & Video\n• 10 Navigation\n• 8 Education\n• 8 Productivity\n• 6 Utilities\n• 4 Food & Drink\n• 4 Music\n• 4 Weather\n• 4 News\n• 4 Business\n• 4 Sports\n• 4 Entertainment\n• 2 Social Networking\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools",
+      "caption": "148 Apps Updated:\n• 32 Health & Fitness\n• 16 Photo & Video\n• 16 Lifestyle\n• 16 Games\n• 10 Productivity\n• 8 Navigation\n• 6 Utilities\n• 6 Education\n• 4 Food & Drink\n• 4 Music\n• 4 Weather\n• 4 News\n• 4 Business\n• 4 Sports\n• 4 Books\n• 2 Social Networking\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools\n• 2 Entertainment",
       "date": "2026-06-19",
       "tintColor": "#02433b",
       "notify": true,
