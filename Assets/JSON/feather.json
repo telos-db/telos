@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.giacomoballi.FindTower",
     "ST.VALPAW",
     "Kr1s.Valorant",
     "com.locket.Locket",
-    "com.bravolol.bravoLang.chineseDictionary",
-    "com.shantanu.YouCut"
+    "com.bravolol.bravoLang.chineseDictionary"
   ],
   "apps": [
     {
@@ -58511,6 +58511,39 @@
         }
       ],
       "category": "social-networking"
+    },
+    {
+      "name": "SignalFinder",
+      "bundleIdentifier": "com.giacomoballi.FindTower",
+      "developerName": "ZipoApps",
+      "subtitle": "SignalFinder for iOS",
+      "version": "1250000.1.1",
+      "versionDate": "2026-06-19",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.giacomoballi.FindTower-1250000.1.1-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\n++++ Master Your Mobile Connectivity with 69M+ Towers Worldwide ++++\n\nTransform your mobile experience with FindTower, the most comprehensive cell tower locator app that puts the power of 69 million towers at your fingertips. Whether you're troubleshooting weak signals, planning travel routes, or optimizing your mobile setup, FindTower delivers precise tower locations and advanced network insights.\n\n--- Key Features ---\n\nPrecision Navigation\nNavigate directly to towers with our built-in compass",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/8c/88/4f8c88fe-9725-005f-bf04-04a0d9da22f3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 53385629,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "FindTower needs your location to show nearby cell towers.",
+          "NSContactsUsageDescription": "FindTower needs access to your contacts to allow you to select phone numbers for lookup.",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
+        }
+      },
+      "versions": [
+        {
+          "version": "1250000.1.1",
+          "date": "2026-06-19",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.giacomoballi.FindTower-1250000.1.1-eeveedecrypter.ipa",
+          "size": 53385629
+        }
+      ],
+      "category": "navigation"
     },
     {
       "name": "SilProject",
