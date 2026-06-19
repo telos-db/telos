@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.app.phlow",
+    "com.linecorp.Foodie",
     "com.videobrowser.ios",
     "com.camerasideas.Peachy",
-    "com.N2BunpouApp.yuki",
-    "org.reactjs.native.example.rootd",
-    "com.mfagency.nurture"
+    "com.N2BunpouApp.yuki"
   ],
   "apps": [
     {
@@ -24133,14 +24133,14 @@
       "bundleIdentifier": "com.linecorp.Foodie",
       "developerName": "SNOW Corporation",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "8.2.0",
-      "versionDate": "2026-06-14",
+      "version": "8.2.1",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: Foodie, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Foodie_Filter_&_Film_Camera_v8_2_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Foodie_Filter_&_Film_Camera_v8_2_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFoodie - Filter & Film Camera",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/cf/88/7fcf8898-4c8b-3799-bd71-dd73aaa30afc/GlobalAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 113991777,
+      "size": 115645550,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/38/c4/cc38c4af-d93b-c021-ea64-d86df374d22c/cd903448-4fde-4eac-8691-085c4fd80ef9_03.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/8f/42/dd8f4279-d032-173a-e413-7d9934cc0605/a402489f-de97-47af-b91b-cd7520f6df1d_01.png/392x696bb.png",
@@ -24166,11 +24166,11 @@
       },
       "versions": [
         {
-          "version": "8.2.0",
-          "date": "2026-06-14",
+          "version": "8.2.1",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: Foodie, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Foodie_Filter_&_Film_Camera_v8_2_0_Subscription_Unlocked_blatant.ipa",
-          "size": 113991777
+          "downloadURL": "https://telos.ftp.sh/ipas/Foodie_Filter_&_Film_Camera_v8_2_1_Subscription_Unlocked_blatant.ipa",
+          "size": 115645550
         }
       ],
       "category": "photo-&-video"
@@ -48309,14 +48309,14 @@
       "bundleIdentifier": "com.app.phlow",
       "developerName": "Phlow, Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "2.1.16",
-      "versionDate": "2026-06-14",
+      "version": "2.1.17",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Phlow: Camera & Photo Editor-v2.1.16-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Phlow: Camera & Photo Editor-v2.1.17-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nPhlow: Camera & Photo Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/2a/2a/bf2a2ae5-a6a2-c51c-a5e1-0660d3668782/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 191981433,
+      "size": 192064175,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -48337,11 +48337,11 @@
       },
       "versions": [
         {
-          "version": "2.1.16",
-          "date": "2026-06-14",
+          "version": "2.1.17",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Phlow: Camera & Photo Editor-v2.1.16-riftysipas.ipa",
-          "size": 191981433
+          "downloadURL": "https://telos.ftp.sh/ipas/Phlow: Camera & Photo Editor-v2.1.17-riftysipas.ipa",
+          "size": 192064175
         }
       ],
       "category": "photo-&-video"
@@ -78440,7 +78440,7 @@
     {
       "title": "⚙️ Telos Update 6.19",
       "identifier": "telos-update-2026-06-19",
-      "caption": "188 Apps Updated:\n• 38 Health & Fitness\n• 34 Photo & Video\n• 22 Lifestyle\n• 18 Games\n• 10 Productivity\n• 10 Utilities\n• 10 Education\n• 8 Navigation\n• 4 Food & Drink\n• 4 Music\n• 4 Weather\n• 4 News\n• 4 Business\n• 4 Sports\n• 4 Entertainment\n• 2 Social Networking\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools\n• 2 Books",
+      "caption": "194 Apps Updated:\n• 40 Photo & Video\n• 38 Health & Fitness\n• 22 Lifestyle\n• 18 Games\n• 10 Productivity\n• 10 Utilities\n• 10 Education\n• 8 Navigation\n• 4 Food & Drink\n• 4 Music\n• 4 Weather\n• 4 News\n• 4 Business\n• 4 Sports\n• 4 Entertainment\n• 2 Social Networking\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools\n• 2 Books",
       "date": "2026-06-19",
       "tintColor": "#02433b",
       "notify": true,
