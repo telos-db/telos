@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.gunthermarktl.stepapp",
     "com.giacomoballi.FindTower",
     "ST.VALPAW",
     "Kr1s.Valorant",
-    "com.locket.Locket",
-    "com.bravolol.bravoLang.chineseDictionary"
+    "com.locket.Locket"
   ],
   "apps": [
     {
@@ -63005,15 +63005,15 @@
       "name": "StepsApp",
       "bundleIdentifier": "com.gunthermarktl.stepapp",
       "developerName": "StepsApp GmbH",
-      "subtitle": "Tweaked with AutoRc, CydiaSubstrate",
-      "version": "8.7.4",
-      "versionDate": "2026-06-14",
-      "versionDescription": "Tweaks: AutoRc, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer 8.7.4.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: AutoRc, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2\n\nStepsApp Pedometer\n\n---\nThe step counter that actually gets you moving.\n\nJoin over 100 million people building healthier habits with StepsApp. Track your daily activity, stay consistent with streaks, and now compete with friends through leaderboards, group challenges, and social features that make walking surprisingly addictive.\n\nFEATURES\n\n• Automatic step tracking\n• Daily goals and streaks\n• Challenges with friends, family, and coworkers\n• Leaderboards and groups\n• Workout tracking with Heart Rate Zones and Insights\n•",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
+      "version": "8.10.0",
+      "versionDate": "2026-06-19",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.10.0-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nStepsApp Pedometer\n\n---\nThe step counter that actually gets you moving.\n\nJoin over 100 million people building healthier habits with StepsApp. Track your daily activity, stay consistent with streaks, and now compete with friends through leaderboards, group challenges, and social features that make walking surprisingly addictive.\n\nFEATURES\n\n• Automatic step tracking\n• Daily goals and streaks\n• Challenges with friends, family, and coworkers\n• Leaderboards and groups\n• Workout tracking with Heart Rate Zones and Insights\n•",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/98/72/4798721a-55ac-e3bf-dd25-65d9f04d5fb4/AppIconNew-0-1x_U007ephone-0-1-0-sRGB-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 197955305,
+      "size": 217855889,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/94/5e/63945ee0-33a0-de35-a71e-297dd4a183cc/2259ae29-c352-4f85-87ff-2599f6490dd1_0_APP_IPHONE_55_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/07/ff/6d07ff0c-db7e-bf4c-5a2f-489684ed88dc/3fb04dc2-bcb4-4a4d-8001-c7f8172fbdbd_2_APP_IPHONE_55_2.png/392x696bb.png",
@@ -63056,11 +63056,11 @@
       },
       "versions": [
         {
-          "version": "8.7.4",
-          "date": "2026-06-14",
-          "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer 8.7.4.ipa",
-          "size": 197955305
+          "version": "8.10.0",
+          "date": "2026-06-19",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.10.0-riftysipas.ipa",
+          "size": 217855889
         }
       ],
       "category": "health-&-fitness"
