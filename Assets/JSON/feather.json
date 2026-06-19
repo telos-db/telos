@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.thewayapp.mobile",
-    "com.uqxuwtxbbu.parkingjam",
-    "com.tickettothemoon.video.persona",
-    "com.neybox.Pillow",
-    "com.toyopagroup.picaboo"
+    "com.genau.MoneyCircle",
+    "com.genau.JournalCircle",
+    "com.ulisesolave.Fitia",
+    "com.burbn.instagram",
+    "com.ld.TakeBrowser"
   ],
   "apps": [
     {
@@ -3128,14 +3128,14 @@
       "bundleIdentifier": "com.ld.TakeBrowser",
       "developerName": "Baoding Lehuo Network Technology Co., Ltd.",
       "subtitle": "Alook for iOS",
-      "version": "22.0",
-      "versionDate": "2026-06-15",
+      "version": "22.2",
+      "versionDate": "2026-06-19",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.0.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.2.ipa",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nAlook Browser - 8x Speed\n\n---\nAlook is a minimalist yet powerful browser, aiming to be the best for iOS.\n\nCore Features\n- Lightning-fast experience: No push notifications, no news, no ads, millisecond startup.\n- Audio and video features: Floating playback, adjustable speed (0.5x-16.0x), background playback, AirPlay casting, DLNA casting, small window playback, single track loop, picture-in-picture, screenshots, mirroring, long press for speed control, and more.\n- File management: Manual downloads, unzip/compress (zip, rar, 7",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/48/46/5d484629-5050-ec50-2586-6398095fda10/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 11857267,
+      "size": 11890012,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/66/ae/6166aecb-a256-1f0e-38ee-03d31a42b123/mzl.nwwaqpwn.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/59/28/e75928c8-ce3e-a099-c742-ddbeb91451ec/mzl.sksamjyd.png/392x696bb.png",
@@ -3156,11 +3156,11 @@
       },
       "versions": [
         {
-          "version": "22.0",
-          "date": "2026-06-15",
+          "version": "22.2",
+          "date": "2026-06-19",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.0.ipa",
-          "size": 11857267
+          "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.2.ipa",
+          "size": 11890012
         }
       ],
       "category": "utilities"
@@ -22605,14 +22605,14 @@
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
       "subtitle": "Tweaked with Fitia, blatantsPatch",
-      "version": "23.1.12",
-      "versionDate": "2026-06-18",
+      "version": "23.1.13",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_12_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_13_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Fitia, blatantsPatch\n\nFitia: Calorie Counter & Diet\n\n---\nTrusted by 10+ million users and rated 4.9/5.0 stars\n\n • The fastest & most accurate calorie counter\n • Track calories by photo, voice, or typing (like notes)\n • Personalized meal plans for weight loss or muscle gain\n • AI coach that adapts to your progress\n • Grocery list, recipes & smart food logging\n • Weight, body fat & measurement tracking\n • Intermittent fasting tracker\n • Syncs with Apple Health and third party apps\n\nWHY FITIA WORKS FOR WEIGHT LOSS OR MUSCLE GAIN\n• Fitia creates a plan th",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/18/c2/8e18c267-859b-7791-b7ca-d2fbc39d887e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 105108658,
+      "size": 105112630,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -22639,11 +22639,11 @@
       },
       "versions": [
         {
-          "version": "23.1.12",
-          "date": "2026-06-18",
+          "version": "23.1.13",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_12_Subscription_Unlocked_blatant.ipa",
-          "size": 105108658
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_13_Subscription_Unlocked_blatant.ipa",
+          "size": 105112630
         }
       ],
       "category": "health-&-fitness"
@@ -31451,15 +31451,15 @@
       "name": "Infuse",
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "Firecore, LLC",
-      "subtitle": "Tweaked with CydiaSubstrate, InfusePlus",
+      "subtitle": "Infuse for iOS",
       "version": "8.4.7",
-      "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: CydiaSubstrate, InfusePlus, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Infuse v8.4.7 Infuse Plus v2.5 blatant Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, InfusePlus, blatantsPatch\n\nInfuse\n\n---\nIgnite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, Mac, and Vision. No need to convert files! Infuse is optimized for iOS 26, with powerful streaming options, Trakt sync, and unmatched AirPlay & subtitle support. Gorgeous interface. Precise controls. And silky-smooth playback.\n\n- PLAY MORE VIDEO TYPES\nA powerful video player that plays just about anything, including MP4, MKV, M4V and MOV – plus many others. Includes support",
+      "versionDate": "2026-06-19",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.firecore.infuse-8.4.7-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nIgnite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, Mac, and Vision. No need to convert files! Infuse is optimized for iOS 26, with powerful streaming options, Trakt sync, and unmatched AirPlay & subtitle support. Gorgeous interface. Precise controls. And silky-smooth playback.\n\n- PLAY MORE VIDEO TYPES\nA powerful video player that plays just about anything, including MP4, MKV, M4V and MOV – plus many others. Includes support",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/75/2f/e6752f0d-6382-3024-67c7-4f4cdba6d1a6/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 102022476,
+      "size": 100870223,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -31483,10 +31483,10 @@
       "versions": [
         {
           "version": "8.4.7",
-          "date": "2026-06-16",
-          "localizedDescription": "Tweaks: CydiaSubstrate, InfusePlus, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Infuse v8.4.7 Infuse Plus v2.5 blatant Patched.ipa",
-          "size": 102022476
+          "date": "2026-06-19",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.firecore.infuse-8.4.7-eeveedecrypter.ipa",
+          "size": 100870223
         }
       ],
       "category": "entertainment"
@@ -31747,14 +31747,14 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, FLEXing",
-      "version": "426.0.0",
-      "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: CydiaSubstrate, FLEXing, RyukGram, flex, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/RyukGram_sideloaded_v1.2.2.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, FLEXing, RyukGram, flex, zxPluginsInject\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
+      "version": "434.0.0",
+      "versionDate": "2026-06-19",
+      "versionDescription": "Tweaks: CydiaSubstrate, FLEXing, RyukGram, flex, zxPluginsInject\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/RyukGram-1.3.2.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, FLEXing, RyukGram, flex, zxPluginsInject\n\nRyukGram v1.3.2 | Instagram 434\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/27/d5/0827d502-4f9c-106e-9086-63fbfef56ca6/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 323994423,
+      "size": 325069159,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/c5/c7/b9c5c720-07ca-29c7-a67f-8fd2e2cd2b72/2_iOS_5.5.jpg/392x696bb.jpg",
@@ -31796,11 +31796,11 @@
       },
       "versions": [
         {
-          "version": "426.0.0",
-          "date": "2026-06-16",
-          "localizedDescription": "Tweaks: CydiaSubstrate, FLEXing, RyukGram, flex, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/RyukGram_sideloaded_v1.2.2.ipa",
-          "size": 323994423
+          "version": "434.0.0",
+          "date": "2026-06-19",
+          "localizedDescription": "Tweaks: CydiaSubstrate, FLEXing, RyukGram, flex, zxPluginsInject\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/RyukGram-1.3.2.ipa",
+          "size": 325069159
         }
       ],
       "category": "photo-&-video"
@@ -33535,14 +33535,14 @@
       "bundleIdentifier": "com.genau.JournalCircle",
       "developerName": "Genau Factory",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "5.0.0",
-      "versionDate": "2026-06-14",
+      "version": "3.4.1",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v5.0.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nJournalCircle: Diary & Tracker\n\n---\nDiscover JournalCircle, a journaling app featured on the App Store across multiple regions. JournalCircle combines AI-powered journaling, voice notes, mood tracking, and entry analysis to help you record your daily life with clarity. Users often mention that the clean, beautiful design makes them want to journal more consistently.\n\nJournalCircle is a journaling and life log app designed to manage your diary, mood, routines, goals, and daily records in one place.\n\nAI-powered journaling tools\nJour",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/48/33/ed4833dd-86d9-8719-79bf-3cf44589f4bd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13475745,
+      "size": 13512432,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/4a/a9/e84aa9cc-2c5b-1709-f532-d5ee2be4a59f/6f8a71a6-a4e7-4824-b871-faad39c83dea_JC-ipad-1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/c1/92/9bc19287-5539-8310-51da-1b370a854e82/f6757f74-d22d-4973-b8e5-edb64fa626dc_JC-ipad-2.png/576x768bb.png",
@@ -33569,11 +33569,11 @@
       },
       "versions": [
         {
-          "version": "5.0.0",
-          "date": "2026-06-14",
+          "version": "3.4.1",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v5.0.0-riftysipas.ipa",
-          "size": 13475745
+          "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.1-riftysipas.ipa",
+          "size": 13512432
         }
       ],
       "category": "lifestyle"
@@ -41590,14 +41590,14 @@
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "Genau Factory",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.3.2",
+      "version": "3.3.3",
       "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.3-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMoneyCircle: Spending,Expense\n\n---\nTrack your spending with clarity and control — meet MoneyCircle.\n\nMoneyCircle makes it easy to understand where your money goes.\nWith clean design, smart categorization, and intuitive insights,\nyou’ll gain control of your finances and uncover new opportunities to save.\n\nIf you've tried other expense tracking apps but found them cluttered or overwhelming,\nMoneyCircle offers a refreshing alternative — simple, beautiful, and focused on what matters: your spending habits.\n\nKey Features\nSmart Categor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/2a/64/fa2a64b3-0a6b-6fda-3943-7353c92daf49/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13975264,
+      "size": 13973278,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -41613,11 +41613,11 @@
       },
       "versions": [
         {
-          "version": "3.3.2",
+          "version": "3.3.3",
           "date": "2026-06-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.2-riftysipas.ipa",
-          "size": 13975264
+          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.3-riftysipas.ipa",
+          "size": 13973278
         }
       ],
       "category": "utilities"
