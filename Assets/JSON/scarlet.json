@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-06-18",
+  "versionDate": "2026-06-19",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -9709,6 +9709,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "DailyDadish_v1.0.8-riftysipas.ipa"
+      }
+    },
+    {
+      "name": "DailyVal",
+      "bundleIdentifier": "Kr1s.Valorant",
+      "developerName": "JUI-LIN YU",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nDailyVal is your ultimate companion when playing Valorant!\n\n - Browse the complete skin collection and rate your favorites with the community.\n - Search any player's rank, level, and match history.\n - Track your performance with detailed statistics including win rate, headshot accuracy, and playtime.\n - View your career summary and rank progression over time.\n - The social community allows you to connect, find teammates, and share with other players.\n\nTerms of Service:",
+      "version": "2.3.0",
+      "versionDate": "2026-06-19T00:20:10-00:00",
+      "versionDescription": "Build 6 from @thescholarslounge",
+      "size": 19059833,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/b6/84/36b6845e-c428-bee0-5da4-992b18d04540/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Kr1s.Valorant-2.3.0-eeveedecrypter.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Kr1s.Valorant-2.3.0-eeveedecrypter.ipa"
       }
     },
     {
@@ -45269,6 +45295,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "com.studysmarter-14.22.0-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "VALPAW",
+      "bundleIdentifier": "ST.VALPAW",
+      "developerName": "Thorben Hamann",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nIntroducing VALPAW, your ultimate companion app for VALORANT!\n\nElevate your VALORANT experience with VALPAW, the all-in-one app designed to enhance your gameplay.\nWhether you're managing your party or tracking your progress, VALPAW has you covered.\n\nPARTY & SOCIAL\n- Start or stop matchmaking, manage party settings, and handle invites and join requests with ease.\n- Invite friends who are online in VALORANT or send invites directly by Riot ID.\n- View party members, transfer party leadership, and m",
+      "version": "2.4",
+      "versionDate": "2026-06-19T00:20:31-00:00",
+      "versionDescription": "Build 889 from @thescholarslounge",
+      "size": 26938620,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/78/d5/d578d5d5-bacc-2d9f-f40e-f79419a515cc/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/ST.VALPAW-2.4-eeveedecrypter.ipa",
+      "minOSVersion": "17.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "ST.VALPAW-2.4-eeveedecrypter.ipa"
       }
     },
     {
