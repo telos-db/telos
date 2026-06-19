@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.gunthermarktl.stepapp",
-    "com.giacomoballi.FindTower",
-    "ST.VALPAW",
-    "Kr1s.Valorant",
-    "com.locket.Locket"
+    "com.resonantcavity.Voloco",
+    "com.pixite.pigment",
+    "com.pinguido.scenic",
+    "com.fluffyfairygames.idleminertycoon",
+    "gronda.gmbh"
   ],
   "apps": [
     {
@@ -5817,15 +5817,15 @@
       "name": "Balance",
       "bundleIdentifier": "com.elevateapp.kamino.kamino",
       "developerName": "The Mind Company",
-      "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
       "version": "1.204.1",
-      "versionDate": "2026-06-17",
-      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Balance_Meditation_&_Sleep_v1_204_1_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nBalance: Meditation & Sleep\n\n---\nImprove your stress, sleep, and more with Balance’s personalized guided meditation program.\n\nYOUR PERSONAL MEDITATION COACH\nBalance is your personal meditation coach. Each day, you’ll answer questions about your meditation experience, goals, and preferences. Using an audio library of thousands of files, Balance assembles a daily guided meditation that’s perfect for you. The more you share over time, the more personalized and effective your meditations become.\n\nLEARN MEDITATION FUNDAMENTALS\nBalan",
+      "versionDate": "2026-06-19",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/Balance: Meditation & Sleep-v1.204.1-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nBalance: Meditation & Sleep\n\n---\nImprove your stress, sleep, and more with Balance’s personalized guided meditation program.\n\nYOUR PERSONAL MEDITATION COACH\nBalance is your personal meditation coach. Each day, you’ll answer questions about your meditation experience, goals, and preferences. Using an audio library of thousands of files, Balance assembles a daily guided meditation that’s perfect for you. The more you share over time, the more personalized and effective your meditations become.\n\nLEARN MEDITATION FUNDAMENTALS\nBalan",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/f8/b2/dff8b203-65c7-fab4-2441-d9ccc3cb93f1/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 121868154,
+      "size": 116977992,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -5849,10 +5849,10 @@
       "versions": [
         {
           "version": "1.204.1",
-          "date": "2026-06-17",
-          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Balance_Meditation_&_Sleep_v1_204_1_Subscription_Unlocked_blatant.ipa",
-          "size": 121868154
+          "date": "2026-06-19",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/Balance: Meditation & Sleep-v1.204.1-riftysipas.ipa",
+          "size": 116977992
         }
       ],
       "category": "health-&-fitness"
@@ -8997,14 +8997,14 @@
       "bundleIdentifier": "com.basenji.mood",
       "developerName": "Basenji Apps",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.5.0",
-      "versionDate": "2026-06-14",
+      "version": "3.5.6",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysbreeze, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Breeze: Start Self-Discovery-v3.5.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Breeze: Start Self-Discovery-v3.5.6-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysbreeze, zxPluginsInject\n\nBreeze: Start Self-Discovery\n\n---\nFeel more like yourself — one small step at a time\nBreeze is your daily companion for self-discovery, self-care, and mental health support. We believe understanding how you feel is the first step toward living with more clarity, balance, and purpose.\n\nDiscover what makes you you\n\nExplore tools designed to help you reflect, grow, and reconnect with yourself.\nLearn about your:\n- Strengths and patterns\n- Personality traits and communication style\n- Emotional responses and impulse control\n- Ideal ca",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/c6/36/ecc636d1-6831-d170-5210-52aa4a12fd85/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 196143149,
+      "size": 188779026,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/be/01/dabe01b9-d750-662c-bc17-b74a9f8aefc8/28417fc2-7f4a-4a8e-b82a-2a6a84c6446a_ip_8_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/9d/79/619d79af-e230-4377-14cc-1d5cfa55243e/1ae79baf-12b4-46b0-8af0-a1720af2fe97_ip_8_2.jpg/392x696bb.jpg",
@@ -9029,11 +9029,11 @@
       },
       "versions": [
         {
-          "version": "3.5.0",
-          "date": "2026-06-14",
+          "version": "3.5.6",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysbreeze, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Breeze: Start Self-Discovery-v3.5.0-riftysipas.ipa",
-          "size": 196143149
+          "downloadURL": "https://telos.ftp.sh/ipas/Breeze: Start Self-Discovery-v3.5.6-riftysipas.ipa",
+          "size": 188779026
         }
       ],
       "category": "lifestyle"
@@ -27348,14 +27348,14 @@
       "bundleIdentifier": "gronda.gmbh",
       "developerName": "Gronda GmbH",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "8.14.2",
-      "versionDate": "2026-06-14",
+      "version": "8.23.1",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.14.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.23.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nGronda: Recipes for Chefs\n\n---\nApple’s App of the Day in 120+ Countries\n\n Used by 2M+ Chefs Worldwide\n\n\"Unlimited amount of inspiration\" — Netflix Superstar Ana Roš\n\nGronda is the #1 app for professional and home chefs. Learn from the world’s best, fine dining recipes, and connect with a global community of culinary experts. Discover inspiration, sharpen your skills, and build your personal brand as a chef.\n\nExplore an extensive library of 50,000+ recipes from top chefs, 60+ masterclasses from industry legends, and exclusive",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/25/9f/50259fc7-21e1-ce83-dac6-f535654f358f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 46074155,
+      "size": 52780278,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/5d/43/475d4391-f91c-85a7-e3e6-a4f5466a2dc6/12.9__EN-1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ca/0a/e0ca0a9a-ddcc-2fb8-ed4c-9dcbbd409ba3/12.9__EN-2.jpg/576x768bb.jpg",
@@ -27388,11 +27388,11 @@
       },
       "versions": [
         {
-          "version": "8.14.2",
-          "date": "2026-06-14",
+          "version": "8.23.1",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.14.2-riftysipas.ipa",
-          "size": 46074155
+          "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.23.1-riftysipas.ipa",
+          "size": 52780278
         }
       ],
       "category": "food-&-drink"
@@ -29232,14 +29232,14 @@
       "bundleIdentifier": "com.hiiker.hiiker",
       "developerName": "Waymarked Trails LTD",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "26.41",
-      "versionDate": "2026-06-14",
+      "version": "26.64",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/HiiKER: The Hiking Maps App-v26.41-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/HiiKER: The Hiking Maps App-v26.64-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nHiiKER: The Hiking Maps App\n\n---\nThe Most Powerful Hiking Planner & Navigation App for Confident Adventures. Plan, Map and Tracker with HiiKER.\n\nHiiKER is the best digital toolkit for serious hikers and multi-day trekkers. Our biggest update yet, HiiKER 26, brings a new era of powerful planning and superior mapping to your fingertips.\n\n• Get inspired by over 130,000 hiking trails\n• View the world's best topographic maps.\n• Plan detailed hiking routes with ease\n• Discover millions of hiking focused POIs, places to rest, eat and",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/ba/3c/41ba3c76-ec39-32bb-3762-c49f80f7c2d3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 116439294,
+      "size": 120133997,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/d1/f0/b9d1f09a-a1e3-6f9a-1e2b-04776138af7b/4fd42d7f-8457-45ed-bd48-ae7df5b7928a_6.5_U201d_1242_x_2688_-_166__U00281_U0029.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/72/88/9d7288a2-cf02-02a0-86aa-b8710447d8e9/d63f82fb-ed09-4e11-98b0-9d3a3e30fe43_5.5_U201d_1242_x_2208.jpg/392x696bb.jpg",
@@ -29249,10 +29249,11 @@
       ],
       "appPermissions": {
         "entitlements": [
+          "com.apple.developer.associated-domains",
           "com.apple.developer.healthkit",
           "com.apple.developer.applesignin",
           "aps-environment",
-          "com.apple.developer.associated-domains",
+          "com.apple.developer.usernotifications.time-sensitive",
           "com.apple.developer.healthkit.access"
         ],
         "privacy": {
@@ -29261,17 +29262,17 @@
           "NSMicrophoneUsageDescription": "Enabling microphone access allows you to record videos with audio to add to tracks, planned hikes and reviews.",
           "NSLocationWhenInUseUsageDescription": "We use location to show your location on a map, and for showing nearby trails.",
           "NSMotionUsageDescription": "The app uses the on-device barometer to calculate elevation gain and loss while recording a hike.",
-          "NSHealthShareUsageDescription": "We use this data to help estimate calories burnt during activities.",
-          "NSHealthUpdateUsageDescription": "We need access to write health data for recording your step count."
+          "NSHealthShareUsageDescription": "HiiKER reads your body metrics to estimate calories burnt during your hikes.",
+          "NSHealthUpdateUsageDescription": "HiiKER saves your recordings as workouts with route, distance, and calories — and heart rate when paired with Apple Watch."
         }
       },
       "versions": [
         {
-          "version": "26.41",
-          "date": "2026-06-14",
+          "version": "26.64",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/HiiKER: The Hiking Maps App-v26.41-riftysipas.ipa",
-          "size": 116439294
+          "downloadURL": "https://telos.ftp.sh/ipas/HiiKER: The Hiking Maps App-v26.64-riftysipas.ipa",
+          "size": 120133997
         }
       ],
       "category": "navigation"
@@ -30585,14 +30586,14 @@
       "bundleIdentifier": "com.fluffyfairygames.idleminertycoon",
       "developerName": "Kolibri Games GmbH",
       "subtitle": "Tweaked with SatellaJailed, fixipa1",
-      "version": "5.49.1",
-      "versionDate": "2026-06-14",
+      "version": "5.57.0",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Idle Miner Tycoon-v5.49.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Idle Miner Tycoon-v5.57.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nIdle Miner Tycoon\n\n---\nAre you a true gold miner? Join Business Empire in Idle Miner Tycoon, the leading business simulation trusted by millions. In this simulator, you take control as a top tycoon to build your mining empire. Unlike other tycoon games, this simulation game offers deep strategy. You can start your journey in this idle game even in offline games mode. Start as an idle miner and become an idle hero in this adventure - even as a clever goblin miner chasing hidden riches. This mine simulator is for anyone",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/32/50/2d3250f3-cd56-52c9-eb87-0e9448e09bff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 142431076,
+      "size": 144029038,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/8a/66/bc8a6665-21f7-2f0f-feaa-9e67488bfd42/01_CVR_1242x2208_EN.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/8f/2e/5f8f2e4c-b163-528b-9ce9-40b367e35c96/2_1242x2208.png/392x696bb.png",
@@ -30620,11 +30621,11 @@
       },
       "versions": [
         {
-          "version": "5.49.1",
-          "date": "2026-06-14",
+          "version": "5.57.0",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Idle Miner Tycoon-v5.49.1-riftysipas.ipa",
-          "size": 142431076
+          "downloadURL": "https://telos.ftp.sh/ipas/Idle Miner Tycoon-v5.57.0-riftysipas.ipa",
+          "size": 144029038
         }
       ],
       "category": "games"
@@ -46297,14 +46298,14 @@
       "bundleIdentifier": "ideastudio.Weather-on-the-Way",
       "developerName": "Piotr Knapczyk",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.5.2",
-      "versionDate": "2026-06-14",
+      "version": "2.5.6",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Weather on the Way-v2.5.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Weather on the Way-v2.5.6-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nWeather on the Way\n\n---\nCheck ROAD CONDITIONS and WEATHER on your ROUTE\n\n• Be PREPARED for the road trip\n• Say NO to weather delays\n• Know EVERYTHING about weather conditions at any point of your road trip\n• Be smarter than 99% of drivers around you!\n• Access weather and radar on CarPlay\n\nForecast That Follows Your Trip\nWeather and navigation combined to provide a route forecast precisely at the time you will be driving through. It's the best weather app you can have on the road.\n\nFeatures and benefits:\n• Know What's A",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/23/43/be234394-fc61-12f6-ca20-d7cc6ba12614/AppIcon-Revised-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 44215267,
+      "size": 44227607,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/90/6d/63906dfb-2c85-374b-9d5b-1e23069a67f3/808e6ca1-4819-43af-ac14-791117fa7c4d_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/8d/87/9c8d87e7-d226-8703-cbfb-937757da508e/046845d0-1aa4-4068-9b2b-af3d2be2de61_3.png/392x696bb.png",
@@ -46331,11 +46332,11 @@
       },
       "versions": [
         {
-          "version": "2.5.2",
-          "date": "2026-06-14",
+          "version": "2.5.6",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Weather on the Way-v2.5.2-riftysipas.ipa",
-          "size": 44215267
+          "downloadURL": "https://telos.ftp.sh/ipas/Weather on the Way-v2.5.6-riftysipas.ipa",
+          "size": 44227607
         }
       ],
       "category": "weather"
@@ -49341,15 +49342,15 @@
       "name": "Photoroom",
       "bundleIdentifier": "com.dr1ven.eraser",
       "developerName": "Photoroom",
-      "subtitle": "Tweaked with Photoroom, blatantsPatch",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
       "version": "2026.25.02",
-      "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: Photoroom, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Photoroom_AI_Photo_Editor_v2026_25_02_Max_Subscription_Unlocked.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Photoroom, blatantsPatch\n\nPhotoroom: AI Photo Editor\n\n---\nPhotoroom is the ultimate AI-powered photo editing app, trusted by over 300 million users.\n\nCreate studio-quality product photos in seconds with Photoroom’s advanced AI photo editing technology. No design skills required.\n\nWHY CHOOSE PHOTOROOM?\n\nENHANCE PRODUCT LISTINGS. Showcase clothing on virtual models, ghost mannequins, and flat lay. No studio required.\n\nREMOVE, REPLACE, AND RECOLOR. Remove backgrounds, swap for AI-generated edits, and recolor products in seconds.\n\nSAVE TIME WITH BATCH EDIT",
+      "versionDate": "2026-06-19",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.25.02-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPhotoroom: AI Photo Editor\n\n---\nPhotoroom is the ultimate AI-powered photo editing app, trusted by over 300 million users.\n\nCreate studio-quality product photos in seconds with Photoroom’s advanced AI photo editing technology. No design skills required.\n\nWHY CHOOSE PHOTOROOM?\n\nENHANCE PRODUCT LISTINGS. Showcase clothing on virtual models, ghost mannequins, and flat lay. No studio required.\n\nREMOVE, REPLACE, AND RECOLOR. Remove backgrounds, swap for AI-generated edits, and recolor products in seconds.\n\nSAVE TIME WITH BATCH EDIT",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/65/e0/2165e04b-567a-cf7d-1dcb-a2fc8ab699e9/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 176559728,
+      "size": 165848198,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -49372,10 +49373,10 @@
       "versions": [
         {
           "version": "2026.25.02",
-          "date": "2026-06-16",
-          "localizedDescription": "Tweaks: Photoroom, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Photoroom_AI_Photo_Editor_v2026_25_02_Max_Subscription_Unlocked.ipa",
-          "size": 176559728
+          "date": "2026-06-19",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.25.02-riftysipas.ipa",
+          "size": 165848198
         }
       ],
       "category": "photo-&-video"
@@ -50089,15 +50090,15 @@
       "name": "Pigment",
       "bundleIdentifier": "com.pixite.pigment",
       "developerName": "Pixite Inc.",
-      "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
       "version": "3.12.2",
-      "versionDate": "2026-06-18",
-      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Adult_Coloring_Book_Pigment_v3_12_2_Premium_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nAdult Coloring Book - Pigment\n\n---\n= = =\n\nColoring is a great way to relax and reduce stress and anxiety. Just 10 minutes of coloring can provide the same benefits as meditation. It helps you practice mindfulness, stay present, enhance concentration, build creativity, and is a great alternative to games!\n\nPigment, an award-winning coloring app, is a sanctuary for relaxation, nourishing your creative spirit, and providing daily inspiration. Within its vibrant community of artists, you'll discover a wealth of positivity and wholehe",
+      "versionDate": "2026-06-19",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.12.2-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nAdult Coloring Book - Pigment\n\n---\n= = =\n\nColoring is a great way to relax and reduce stress and anxiety. Just 10 minutes of coloring can provide the same benefits as meditation. It helps you practice mindfulness, stay present, enhance concentration, build creativity, and is a great alternative to games!\n\nPigment, an award-winning coloring app, is a sanctuary for relaxation, nourishing your creative spirit, and providing daily inspiration. Within its vibrant community of artists, you'll discover a wealth of positivity and wholehe",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/b5/38/9cb538ef-8540-21ee-22d2-ddf8644cf03a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 141471374,
+      "size": 136573972,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -50119,10 +50120,10 @@
       "versions": [
         {
           "version": "3.12.2",
-          "date": "2026-06-18",
-          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Adult_Coloring_Book_Pigment_v3_12_2_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 141471374
+          "date": "2026-06-19",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.12.2-riftysipas.ipa",
+          "size": 136573972
         }
       ],
       "category": "lifestyle"
@@ -51428,14 +51429,14 @@
       "bundleIdentifier": "com.evolve.podcast",
       "developerName": "Evolve Global, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "7.1.0",
-      "versionDate": "2026-06-14",
+      "version": "7.8.0",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.1.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.8.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nPodcast App\n\n---\nGet millions of podcasts at your fingertips and any curiosity on-demand, only on Podcast App: the #1 most downloaded podcast app in The App Store. Sharpen up in your downtime with free and easy access to millions of shows. Start feeding all of your interests from news and comedy to true crime, sports and infinitely more.\n\nFind something new to listen to in less than 10 seconds. With endless personalized recommendations, interest categories, and our powerful search and filters, it’s easy to disco",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/90/77/59907776-cc35-c081-818a-bed20351c05e/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 47464338,
+      "size": 52379891,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/d3/03/b3d30346-9743-a201-b3cc-a20c1ef3ae19/dab702f7-c5a1-41ec-8f24-22240e56c809_EN_-_5.5_-_Screenshot_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/7a/a4/c47aa4ac-6667-d771-d1fe-76dd5369744f/6404e4fd-5396-4389-b62f-292adf70d49a_EN_-_5.5_-_Screenshot_02.png/392x696bb.png",
@@ -51464,11 +51465,11 @@
       },
       "versions": [
         {
-          "version": "7.1.0",
-          "date": "2026-06-14",
+          "version": "7.8.0",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.1.0-riftysipas.ipa",
-          "size": 47464338
+          "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.8.0-riftysipas.ipa",
+          "size": 52379891
         }
       ],
       "category": "news"
@@ -54435,15 +54436,15 @@
       "name": "Reddit",
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "REDDIT, INC.",
-      "subtitle": "Tweaked with CydiaSubstrate, RedditFilter",
+      "subtitle": "Reddit for iOS",
       "version": "2026.24.0",
-      "versionDate": "2026-06-18",
-      "versionDescription": "Tweaks: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.24.0_Jacks_Apps.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nRedditDeluxe 2026.24.0\n\n---\nWelcome to Reddit, the heart of the internet.\n\nReddit is a social network with something for everyone: trending topics, diverse discussions, engaging communities and comment threads.\n\nRedditors have authentic and interesting conversations around all sorts of curated content. You’ll find gaming communities, bloggers, meme-makers, fandoms, travel enthusiasts, support groups, AI forums, news junkies, artists, and creators of all types.\n\nReddit has over 100,000 online communities (forums where membe",
+      "versionDate": "2026-06-19",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.reddit.Reddit-2026.24.0-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nWelcome to Reddit, the heart of the internet.\n\nReddit is a social network with something for everyone: trending topics, diverse discussions, engaging communities and comment threads.\n\nRedditors have authentic and interesting conversations around all sorts of curated content. You’ll find gaming communities, bloggers, meme-makers, fandoms, travel enthusiasts, support groups, AI forums, news junkies, artists, and creators of all types.\n\nReddit has over 100,000 online communities (forums where membe",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a6/0d/e6a60d60-e30f-e9b7-5499-38fc8e294a51/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 146743141,
+      "size": 150171807,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/b1/d4/5ab1d42a-6b46-14e8-0a42-e36651ee36cb/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/29/b6/0b29b650-0ac2-1a8b-fa99-0140c0e95608/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/392x696bb.png",
@@ -54472,10 +54473,10 @@
       "versions": [
         {
           "version": "2026.24.0",
-          "date": "2026-06-18",
-          "localizedDescription": "Tweaks: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.24.0_Jacks_Apps.ipa",
-          "size": 146743141
+          "date": "2026-06-19",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.reddit.Reddit-2026.24.0-eeveedecrypter.ipa",
+          "size": 150171807
         }
       ],
       "category": "news"
@@ -56401,14 +56402,14 @@
       "bundleIdentifier": "com.pinguido.scenic",
       "developerName": "Applified Life Ltd.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.34",
-      "versionDate": "2026-06-14",
+      "version": "4.40",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Scenic Motorcycle Navigation-v4.34-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Scenic Motorcycle Navigation-v4.40-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nScenic Motorcycle Navigation\n\n---\nTAKE THE SCENIC ROUTE — The app motorcycle riders swear by. 30 million hours ridden, 200,000+ user-designed routes, 4.7 star rating worldwide.\n\nGET THERE YOUR WAY — Curvy routes, beauty routes, unpaved adventures. Scenic finds the twistiest roads automatically, anywhere in the world. You choose how to get there — the rest is just riding.\n\nPLAN LIKE A PRO — Drop pins, set stops, pick your routing mode. Share your route with fellow riders before you even leave.\n\nDISCOVER EPIC ROADS — Browse thousa",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/c4/4a/89c44a21-4d4b-db98-c6f3-ce8defb45f5b/Scenic_Apple_Icon_Texture-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 141495322,
+      "size": 141508199,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/b6/3a/01b63a90-e1f6-02ef-447c-e4213e312688/d34289dd-43f8-47a2-97ae-d8070db7131f_English_-_iPhone5.5_-_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/da/f2/7ddaf257-8c8d-13ba-e20d-996208d304f4/481e50e0-d7f1-40cd-9217-f535f3e07d33_0160_-scenic-app-store-5.5inch-English-AW3.png/392x696bb.png",
@@ -56437,11 +56438,11 @@
       },
       "versions": [
         {
-          "version": "4.34",
-          "date": "2026-06-14",
+          "version": "4.40",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Scenic Motorcycle Navigation-v4.34-riftysipas.ipa",
-          "size": 141495322
+          "downloadURL": "https://telos.ftp.sh/ipas/Scenic Motorcycle Navigation-v4.40-riftysipas.ipa",
+          "size": 141508199
         }
       ],
       "category": "navigation"
@@ -57214,15 +57215,15 @@
       "name": "SCRL",
       "bundleIdentifier": "com.dopedevelopment.Panels",
       "developerName": "Appostrophe AB",
-      "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
       "version": "9.41.1",
-      "versionDate": "2026-06-17",
-      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SCRL_Photo_Collage_Maker_v9_41_1_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nSCRL: Photo Collage Maker\n\n---\nSome apps help you post. SCRL helps you create. From structured brand feeds to editorial-style storytelling, SCRL gives you the tools to shape how your social presence is perceived. Whether you're a professional content creator, an artist, or just love sharing your moments, SCRL offers everything you need to make your posts stand out.\n\n• EXCEPTIONAL PHOTO COLLAGE MAKER\nCreate stunning photo collages with full control over layout, spacing, and visual balance. Move between freeform and structured",
+      "versionDate": "2026-06-19",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/SCRL: Photo Collage Maker-v9.41.1-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSCRL: Photo Collage Maker\n\n---\nSome apps help you post. SCRL helps you create. From structured brand feeds to editorial-style storytelling, SCRL gives you the tools to shape how your social presence is perceived. Whether you're a professional content creator, an artist, or just love sharing your moments, SCRL offers everything you need to make your posts stand out.\n\n• EXCEPTIONAL PHOTO COLLAGE MAKER\nCreate stunning photo collages with full control over layout, spacing, and visual balance. Move between freeform and structured",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/0e/04/6a0e0450-440d-6eee-b315-3b6c458f7322/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 69838526,
+      "size": 65258684,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/9f/cc/bf9fcc21-d31e-a730-109d-f0b037b8b55a/b50f3413-5af5-4401-afc8-59d1f050d406_IOS_5.5_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/dc/49/2adc49b4-9f3f-6591-8c4c-fe699045fd13/23d473c0-b9bb-4925-b93f-4d4a86fdee0f_IOS_5.5_2.jpg/392x696bb.jpg",
@@ -57247,10 +57248,10 @@
       "versions": [
         {
           "version": "9.41.1",
-          "date": "2026-06-17",
-          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SCRL_Photo_Collage_Maker_v9_41_1_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 69838526
+          "date": "2026-06-19",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/SCRL: Photo Collage Maker-v9.41.1-riftysipas.ipa",
+          "size": 65258684
         }
       ],
       "category": "photo-&-video"
@@ -74085,14 +74086,14 @@
       "bundleIdentifier": "com.resonantcavity.Voloco",
       "developerName": "Resonant Cavity, Inc",
       "subtitle": "Tweaked with CydiaSubstrate, chocorc",
-      "version": "9.16.0",
-      "versionDate": "2026-06-14",
+      "version": "9.16.1",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nVoloco: Vocal Recording Studio\n\n---\nVoloco is a mobile recording studio and audio editor that helps you sound your best.\n\n70+ MILLION DOWNLOADS\nSingers, rappers, musicians, and content creators have downloaded Voloco 70+ million times because we elevate your sound and let you record like a professional with intuitive tools. Make music and content with Voloco––the top-rated singing and recording app. Record better tracks, demos, voice-overs, and video performances with this audio editor and voice recorder today.\n\nSTUDIO SOUND WITHO",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/ef/86/c6ef86bf-a4ce-72cd-aaa3-783145fc90c3/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 117426777,
+      "size": 117427024,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -74113,11 +74114,11 @@
       },
       "versions": [
         {
-          "version": "9.16.0",
-          "date": "2026-06-14",
+          "version": "9.16.1",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.0-riftysipas.ipa",
-          "size": 117426777
+          "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.1-riftysipas.ipa",
+          "size": 117427024
         }
       ],
       "category": "music"
