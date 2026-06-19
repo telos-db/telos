@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.videobrowser.ios",
     "com.camerasideas.Peachy",
     "com.N2BunpouApp.yuki",
     "org.reactjs.native.example.rootd",
-    "com.mfagency.nurture",
-    "com.frameoneapps.Crsel"
+    "com.mfagency.nurture"
   ],
   "apps": [
     {
@@ -71809,14 +71809,14 @@
       "bundleIdentifier": "com.videobrowser.ios",
       "developerName": "Video Lite, Inc.",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "622800",
-      "versionDate": "2026-06-16",
+      "version": "623000",
+      "versionDate": "2026-06-19",
       "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, VideoLite, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Video Lite v6.22.800 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Video Lite v6.23.000 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nVideo Lite",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/e1/87/c8e1876d-631e-705b-8fe2-84095dd50ca3/AppIcon.Bolt.TV.Light-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 39667444,
+      "size": 39669645,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/a3/37/e2a337f2-7aaa-14ed-f3da-add4f3aa808e/6ba646c5-da0c-40ed-905b-486199f2c96b_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-10-16_at_22.09.10.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/19/c1/ac19c16d-9149-4808-1e72-16a433c1da20/ef6fc410-60b8-43f0-81c8-45b622027d20_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-02-04_at_14.28.20.png/392x696bb.png",
@@ -71842,11 +71842,11 @@
       },
       "versions": [
         {
-          "version": "622800",
-          "date": "2026-06-16",
+          "version": "623000",
+          "date": "2026-06-19",
           "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, VideoLite, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Video Lite v6.22.800 Pro Unlocked blatant Patched.ipa",
-          "size": 39667444
+          "downloadURL": "https://telos.ftp.sh/ipas/Video Lite v6.23.000 Pro Unlocked blatant Patched.ipa",
+          "size": 39669645
         }
       ],
       "category": "photo-&-video"
@@ -78440,7 +78440,7 @@
     {
       "title": "⚙️ Telos Update 6.19",
       "identifier": "telos-update-2026-06-19",
-      "caption": "184 Apps Updated:\n• 38 Health & Fitness\n• 30 Photo & Video\n• 22 Lifestyle\n• 18 Games\n• 10 Productivity\n• 10 Utilities\n• 10 Education\n• 8 Navigation\n• 4 Food & Drink\n• 4 Music\n• 4 Weather\n• 4 News\n• 4 Business\n• 4 Sports\n• 4 Entertainment\n• 2 Social Networking\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools\n• 2 Books",
+      "caption": "188 Apps Updated:\n• 38 Health & Fitness\n• 34 Photo & Video\n• 22 Lifestyle\n• 18 Games\n• 10 Productivity\n• 10 Utilities\n• 10 Education\n• 8 Navigation\n• 4 Food & Drink\n• 4 Music\n• 4 Weather\n• 4 News\n• 4 Business\n• 4 Sports\n• 4 Entertainment\n• 2 Social Networking\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools\n• 2 Books",
       "date": "2026-06-19",
       "tintColor": "#02433b",
       "notify": true,
