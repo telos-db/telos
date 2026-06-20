@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-06-19",
+  "versionDate": "2026-06-20",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -28753,13 +28753,13 @@
       "bundleIdentifier": "com.offlinemusic",
       "developerName": "Md Zakir Hossain",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nOffline Music Player\n\n---\nImport your favorite Music and Play anywhere! Listen OFFLINE, No LIMITS!\n\nMAJOR FEATURES-\n\n● The easiest way to play offline music.\n● Save music for offline access.\n● Play offline–no internet or WiFi needed.\n● Easily transfer tracks to iPhone, iPad, and iPod touch.\n● Almost all the popular format is supported.\n● .Mp3,.Flac,.wav, .caf, .wav, .aac etc.\n● Add music to your favorite playlist.\n● Beautiful design.\n● Headphone control.\n● Create & manage playlists.\n● Powerful music player.\n● Equalizer.",
-      "version": "3.8.4",
-      "versionDate": "2026-06-03T20:00:34-00:00",
+      "version": "3.8.5",
+      "versionDate": "2026-06-20T00:28:38-00:00",
       "versionDescription": "Build 2 from @blatants",
-      "size": 96890830,
+      "size": 97836557,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/62/e3/5d62e34f-c473-a1e1-99d4-9133d525a351/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.4 Pro Unlocked blatant Patched.ipa",
-      "minOSVersion": "16.1.1",
+      "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.5 Pro Unlocked blatant Patched.ipa",
+      "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -28771,7 +28771,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Offline Music Player v3.8.4 Pro Unlocked blatant Patched.ipa"
+        "originalFile": "Offline Music Player v3.8.5 Pro Unlocked blatant Patched.ipa"
       }
     },
     {
@@ -39244,6 +39244,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "uk.co.starlingbank.Starling-4.20.1-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "State Connect: traffic control",
+      "bundleIdentifier": "state.connect.game",
+      "developerName": "AI Games FZ",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nBuild motorways between cities for cars to drive, manage traffic and earn more points to carry out even more transportation. Play State Connect to bridge all the new states territory together.\n\nThis connection game is very easy to control and incredibly enjoyable to play. A huge number of different options for the construction of road systems. To build a highway - just slide your finger from one point to another and the movement will begin! Don't forget to upgrade your cities to create even more",
+      "version": "1.185",
+      "versionDate": "2026-06-20T00:25:33-00:00",
+      "versionDescription": "Build 0 from @thescholarslounge",
+      "size": 108201535,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/cf/b3/bacfb3e4-09ab-6262-f238-780ac4aa03ec/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/state.connect.game-1.185-eeveedecrypter.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "state.connect.game-1.185-eeveedecrypter.ipa"
       }
     },
     {
