@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.ideation.Stress",
     "com.runprof.drugdeal",
     "com.sfun.snapedit",
     "com.blockpuzzle.us.ios",
-    "com.northstar.gratitude",
-    "com.oribot.origami"
+    "com.northstar.gratitude"
   ],
   "apps": [
     {
@@ -64363,14 +64363,14 @@
       "bundleIdentifier": "com.ideation.Stress",
       "developerName": "One Hundred Bad Ideas Limited",
       "subtitle": "Tweaked with StressWatch, blatantsPatch",
-      "version": "3.1.6",
-      "versionDate": "2026-06-10",
+      "version": "3.2.0",
+      "versionDate": "2026-06-20",
       "versionDescription": "Tweaks: StressWatch, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/StressWatch_AI_Stress_Monitor_v3_1_6_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/StressWatch_AI_Stress_Monitor_v3_2_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: StressWatch, blatantsPatch\n\nStressWatch: AI Stress Monitor\n\n---\nUnderstand your stress. Build better habits. Lower your Bio Age.\nStressWatch turns your Apple Watch into a powerful stress monitor. Powered by HRV and your health data, it helps you manage stress, sleep better, move smarter, and turn small daily actions into lasting habits that improve your Bio Age over time.\n\nStressWatch has been featured on the Apple App Store in 171 countries and regions —\n# Best of August\n# The Best Apps for iOS 18\n# Better Understand Your Wellbeing\n# Essential Watch Apps\n#",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/a5/71/37a5714e-35ae-caf2-a7a5-d00d3ad9ec1b/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 275074144,
+      "size": 353326050,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -64395,11 +64395,11 @@
       },
       "versions": [
         {
-          "version": "3.1.6",
-          "date": "2026-06-10",
+          "version": "3.2.0",
+          "date": "2026-06-20",
           "localizedDescription": "Tweaks: StressWatch, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/StressWatch_AI_Stress_Monitor_v3_1_6_Subscription_Unlocked_blatant.ipa",
-          "size": 275074144
+          "downloadURL": "https://telos.ftp.sh/ipas/StressWatch_AI_Stress_Monitor_v3_2_0_Subscription_Unlocked_blatant.ipa",
+          "size": 353326050
         }
       ],
       "category": "health-&-fitness"
