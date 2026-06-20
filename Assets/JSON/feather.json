@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.frontrow.vlog",
     "com.genau.MoneyCircle",
     "com.wellocution.iosapp",
     "com.jabhi.clarido",
-    "com.ideation.Stress",
-    "com.runprof.drugdeal"
+    "com.ideation.Stress"
   ],
   "apps": [
     {
@@ -73898,14 +73898,14 @@
       "bundleIdentifier": "com.frontrow.vlog",
       "developerName": "Ubiquiti Labs, LLC",
       "subtitle": "Tweaked with VlogNow, blatantsPatch",
-      "version": "2.5.1",
-      "versionDate": "2026-06-17",
+      "version": "2.5.2",
+      "versionDate": "2026-06-20",
       "versionDescription": "Tweaks: VlogNow, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_5_1_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_5_2_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: VlogNow, blatantsPatch\n\nVN: Photo & Video Editor\n\n---\nVN is a free, easy-to-use video editing app with no watermark. Its intuitive interface requires no prior experience, yet offers powerful tools for both beginners and professionals to create high-quality videos.\n\nIntuitive Multi-Track Editor\n• Precise Editing: Frame-accurate timeline (0.05s) with easy zoom, trimming, and keyframe control\n• Easy Management: Swipe to delete clips, drag to reorder\n• Multi-layer Timeline: Add PIP videos, photos, stickers, and text with keyframe animation\n• Non-destru",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/9a/b4/cb9ab4ff-ba1e-6766-6b54-c5f9d60979b1/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 453299274,
+      "size": 453299413,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/7b/a8/177ba862-5fce-c8b0-7ad1-a848dc96383c/en_plus_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/c1/36/f1c136c9-23de-894e-7cb2-6f2222a4a985/en_plus_04.png/392x696bb.png",
@@ -73934,11 +73934,11 @@
       },
       "versions": [
         {
-          "version": "2.5.1",
-          "date": "2026-06-17",
+          "version": "2.5.2",
+          "date": "2026-06-20",
           "localizedDescription": "Tweaks: VlogNow, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_5_1_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 453299274
+          "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_5_2_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 453299413
         }
       ],
       "category": "photo-&-video"
