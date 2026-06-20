@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.northstar.gratitude",
+    "com.oribot.origami",
     "com.jakemor.firness-ai",
     "com.tripleglazedstudios.Weather",
-    "games.urmobi.found.it",
-    "com.offlinemusic",
-    "state.connect.game"
+    "games.urmobi.found.it"
   ],
   "apps": [
     {
@@ -27098,14 +27098,14 @@
       "bundleIdentifier": "com.northstar.gratitude",
       "developerName": "Hapjoy Technologies Private Limited",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "5.6",
-      "versionDate": "2026-06-14",
+      "version": "5.7.2",
+      "versionDate": "2026-06-20",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.6-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.7.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nGratitude: Self-Care Journal\n\n---\nThe Gratitude app is a carefully-designed self-care tool to help you focus on your mental health.\n\nWith a gratitude journal, affirmations, vision board, and daily motivation content, Gratitude provides you with all the tools and reminders you need to gain motivation and develop a healthy self-love routine in your life.\n\nTo live a happy and fulfilling life, it is important for us to have good mental health and a strong sense of self-love.\n\nAnd, as the app is completely private, you can always be",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/e5/41/c3e5413f-859e-d35c-67df-10c250ac2bda/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 49369047,
+      "size": 64472978,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -27128,11 +27128,11 @@
       },
       "versions": [
         {
-          "version": "5.6",
-          "date": "2026-06-14",
+          "version": "5.7.2",
+          "date": "2026-06-20",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.6-riftysipas.ipa",
-          "size": 49369047
+          "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.7.2-riftysipas.ipa",
+          "size": 64472978
         }
       ],
       "category": "health-&-fitness"
@@ -46750,14 +46750,14 @@
       "bundleIdentifier": "com.oribot.origami",
       "developerName": "Andreas Bauer",
       "subtitle": "Tweaked with Origami, blatantsPatch",
-      "version": "4.72",
-      "versionDate": "2026-06-09",
+      "version": "4.78",
+      "versionDate": "2026-06-20",
       "versionDescription": "Tweaks: Origami, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Origami_Fold_&_Learn_v4_72_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Origami_Fold_&_Learn_v4_78_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Origami, blatantsPatch\n\nOrigami - Fold & Learn\n\n---\nOrigami teaches you to craft beautiful shapes using only a sheet of paper.\n\nAll origami designs include detailed, step-by-step instructions and high-quality photos of the finished product. Each type of origami fold is shown in a precise, visual guidebook included right in the app.\n\nTOP FEATURES\n• Many shapes including boxes, flowers, stars, and more\n• High quality instructions, diagrams, and photos\n• Easy-to-use, polished user interface\n\nSTART FOLDING\n• Step-by-step instructions for each origami",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/2d/36/962d367f-dc17-08d9-1246-c6e2359701de/AppIconGlass-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 191428815,
+      "size": 199774100,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -46765,11 +46765,11 @@
       },
       "versions": [
         {
-          "version": "4.72",
-          "date": "2026-06-09",
+          "version": "4.78",
+          "date": "2026-06-20",
           "localizedDescription": "Tweaks: Origami, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Origami_Fold_&_Learn_v4_72_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 191428815
+          "downloadURL": "https://telos.ftp.sh/ipas/Origami_Fold_&_Learn_v4_78_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 199774100
         }
       ],
       "category": "education"
