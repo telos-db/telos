@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.genau.MoneyCircle",
     "com.wellocution.iosapp",
     "com.jabhi.clarido",
     "com.ideation.Stress",
-    "com.runprof.drugdeal",
-    "com.sfun.snapedit"
+    "com.runprof.drugdeal"
   ],
   "apps": [
     {
@@ -41205,14 +41205,14 @@
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "Genau Factory",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "3.3.3",
-      "versionDate": "2026-06-19",
+      "version": "3.3.4",
+      "versionDate": "2026-06-20",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.4-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nMoneyCircle: Spending,Expense",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/2a/64/fa2a64b3-0a6b-6fda-3943-7353c92daf49/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13973278,
+      "size": 13973513,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -41228,11 +41228,11 @@
       },
       "versions": [
         {
-          "version": "3.3.3",
-          "date": "2026-06-19",
+          "version": "3.3.4",
+          "date": "2026-06-20",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.3-riftysipas.ipa",
-          "size": 13973278
+          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.4-riftysipas.ipa",
+          "size": 13973513
         }
       ],
       "category": "utilities"
@@ -78517,7 +78517,7 @@
     {
       "title": "⚙️ Telos Update 6.20",
       "identifier": "telos-update-2026-06-20",
-      "caption": "28 Apps Updated:\n• 6 Games\n• 6 Health & Fitness\n• 6 Education\n• 2 Music\n• 2 Weather\n• 2 Medical\n• 2 Lifestyle\n• 2 Photo & Video",
+      "caption": "30 Apps Updated:\n• 6 Games\n• 6 Health & Fitness\n• 4 Education\n• 4 Utilities\n• 2 Music\n• 2 Weather\n• 2 Medical\n• 2 Lifestyle\n• 2 Photo & Video",
       "date": "2026-06-20",
       "tintColor": "#02433b",
       "notify": true,
