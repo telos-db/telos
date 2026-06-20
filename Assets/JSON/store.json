@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.jabhi.clarido",
     "com.ideation.Stress",
     "com.runprof.drugdeal",
     "com.sfun.snapedit",
-    "com.blockpuzzle.us.ios",
-    "com.northstar.gratitude"
+    "com.blockpuzzle.us.ios"
   ],
   "apps": [
     {
@@ -12372,20 +12372,21 @@
       "bundleIdentifier": "com.jabhi.clarido",
       "developerName": "Jabhi Studios",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "3.1.9",
-      "versionDate": "2026-06-11",
+      "version": "3.1.10",
+      "versionDate": "2026-06-20",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Clarido: AI Notes & Memory-v3.1.9-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Clarido: AI Notes & Memory-v3.1.10-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nClarido: AI Notes & Memory",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/3b/38/7d3b3895-f946-c359-a3a4-2a0c5366ede4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 8287580,
+      "size": 8407645,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
+          "com.apple.developer.applesignin",
           "aps-environment",
-          "com.apple.security.application-groups",
-          "com.apple.developer.applesignin"
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSMicrophoneUsageDescription": "Clarido needs microphone access to record voice notes.",
@@ -12395,11 +12396,11 @@
       },
       "versions": [
         {
-          "version": "3.1.9",
-          "date": "2026-06-11",
+          "version": "3.1.10",
+          "date": "2026-06-20",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Clarido: AI Notes & Memory-v3.1.9-riftysipas.ipa",
-          "size": 8287580
+          "downloadURL": "https://telos.ftp.sh/ipas/Clarido: AI Notes & Memory-v3.1.10-riftysipas.ipa",
+          "size": 8407645
         }
       ],
       "category": "lifestyle"
@@ -78516,7 +78517,7 @@
     {
       "title": "⚙️ Telos Update 6.20",
       "identifier": "telos-update-2026-06-20",
-      "caption": "22 Apps Updated:\n• 6 Games\n• 6 Health & Fitness\n• 2 Music\n• 2 Weather\n• 2 Medical\n• 2 Photo & Video\n• 2 Education",
+      "caption": "26 Apps Updated:\n• 6 Games\n• 6 Health & Fitness\n• 4 Lifestyle\n• 2 Music\n• 2 Weather\n• 2 Medical\n• 2 Photo & Video\n• 2 Education",
       "date": "2026-06-20",
       "tintColor": "#02433b",
       "notify": true,
