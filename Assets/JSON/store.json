@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.frontrow.vlog",
     "com.genau.MoneyCircle",
     "com.wellocution.iosapp",
     "com.jabhi.clarido",
-    "com.ideation.Stress",
-    "com.runprof.drugdeal"
+    "com.ideation.Stress"
   ],
   "apps": [
     {
@@ -72827,14 +72827,14 @@
       "bundleIdentifier": "com.frontrow.vlog",
       "developerName": "Ubiquiti Labs, LLC",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "2.5.1",
-      "versionDate": "2026-06-17",
+      "version": "2.5.2",
+      "versionDate": "2026-06-20",
       "versionDescription": "Tweaks: VlogNow, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_5_1_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_5_2_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nVN: Photo & Video Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/9a/b4/cb9ab4ff-ba1e-6766-6b54-c5f9d60979b1/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 453299274,
+      "size": 453299413,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/7b/a8/177ba862-5fce-c8b0-7ad1-a848dc96383c/en_plus_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/c1/36/f1c136c9-23de-894e-7cb2-6f2222a4a985/en_plus_04.png/392x696bb.png",
@@ -72863,11 +72863,11 @@
       },
       "versions": [
         {
-          "version": "2.5.1",
-          "date": "2026-06-17",
+          "version": "2.5.2",
+          "date": "2026-06-20",
           "localizedDescription": "Tweaks: VlogNow, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_5_1_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 453299274
+          "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_5_2_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 453299413
         }
       ],
       "category": "photo-&-video"
@@ -78517,7 +78517,7 @@
     {
       "title": "⚙️ Telos Update 6.20",
       "identifier": "telos-update-2026-06-20",
-      "caption": "30 Apps Updated:\n• 6 Games\n• 6 Health & Fitness\n• 4 Education\n• 4 Utilities\n• 2 Music\n• 2 Weather\n• 2 Medical\n• 2 Lifestyle\n• 2 Photo & Video",
+      "caption": "32 Apps Updated:\n• 6 Games\n• 6 Health & Fitness\n• 6 Photo & Video\n• 4 Education\n• 2 Music\n• 2 Weather\n• 2 Medical\n• 2 Lifestyle\n• 2 Utilities",
       "date": "2026-06-20",
       "tintColor": "#02433b",
       "notify": true,
