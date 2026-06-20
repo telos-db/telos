@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.wellocution.iosapp",
     "com.jabhi.clarido",
     "com.ideation.Stress",
     "com.runprof.drugdeal",
-    "com.sfun.snapedit",
-    "com.blockpuzzle.us.ios"
+    "com.sfun.snapedit"
   ],
   "apps": [
     {
@@ -8005,14 +8005,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.0.4",
-      "versionDate": "2026-06-19",
+      "version": "4.0.5",
+      "versionDate": "2026-06-20",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_4_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_5_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nBoldVoice: Accent Training",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/54/3e/5d543e2c-51bb-1d38-261b-2f75ad39987c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 147188898,
+      "size": 147188018,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8031,11 +8031,11 @@
       },
       "versions": [
         {
-          "version": "4.0.4",
-          "date": "2026-06-19",
+          "version": "4.0.5",
+          "date": "2026-06-20",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_4_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 147188898
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_5_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 147188018
         }
       ],
       "category": "education"
@@ -78517,7 +78517,7 @@
     {
       "title": "⚙️ Telos Update 6.20",
       "identifier": "telos-update-2026-06-20",
-      "caption": "26 Apps Updated:\n• 6 Games\n• 6 Health & Fitness\n• 4 Lifestyle\n• 2 Music\n• 2 Weather\n• 2 Medical\n• 2 Photo & Video\n• 2 Education",
+      "caption": "28 Apps Updated:\n• 6 Games\n• 6 Health & Fitness\n• 6 Education\n• 2 Music\n• 2 Weather\n• 2 Medical\n• 2 Lifestyle\n• 2 Photo & Video",
       "date": "2026-06-20",
       "tintColor": "#02433b",
       "notify": true,
