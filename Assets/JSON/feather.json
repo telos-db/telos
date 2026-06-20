@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.stippl.stippl",
+    "com.google.ios.youtube",
     "com.soundscape.music",
     "com.frontrow.vlog",
-    "com.genau.MoneyCircle",
-    "com.wellocution.iosapp",
-    "com.jabhi.clarido"
+    "com.genau.MoneyCircle"
   ],
   "apps": [
     {
@@ -63574,14 +63574,14 @@
       "bundleIdentifier": "com.stippl.stippl",
       "developerName": "Stippl",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.0.5",
-      "versionDate": "2026-06-14",
+      "version": "3.0.11",
+      "versionDate": "2026-06-20",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Stippl - Travel Planner-v3.0.5-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stippl - Travel Planner-v3.0.11-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nStippl - Travel Planner\n\n---\n1.5 million travelers use Stippl to plan every trip — route planner, day planner, budget tracker, travel journal, reels and eSIM. Everything your next holiday needs, in one app.\n\nPlan your journey in minutes. Relive every adventure forever.\n\nTRAVEL ROUTE PLANNER\nBuild your entire trip visually — add cities, stops and destinations across countries and continents. Change a stop and your whole route adjusts instantly.\n\n• Plan routes across multiple cities and countries\n• Add transport between every",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/e4/7a/e1e47aa3-363d-4699-42bb-980d84d5c744/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 79164839,
+      "size": 74502267,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/14/06/cf1406f4-dd0a-3229-574d-f23efad12892/4efa90cd-d1e7-4166-8808-2219bb0cb244_11.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/6a/15/1a6a156e-916f-1743-651e-b2983dec9750/9efbe272-9087-4906-9d4b-0bd6632ad42d_03.png/392x696bb.png",
@@ -63608,11 +63608,11 @@
       },
       "versions": [
         {
-          "version": "3.0.5",
-          "date": "2026-06-14",
+          "version": "3.0.11",
+          "date": "2026-06-20",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Stippl - Travel Planner-v3.0.5-riftysipas.ipa",
-          "size": 79164839
+          "downloadURL": "https://telos.ftp.sh/ipas/Stippl - Travel Planner-v3.0.11-riftysipas.ipa",
+          "size": 74502267
         }
       ],
       "category": "travel"
@@ -77467,15 +77467,15 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "subtitle": "Tweaked with CydiaSubstrate, YTKHelper",
+      "subtitle": "Tweaked with CydiaSubstrate, DontEatMyContent",
       "version": "21.24.3",
-      "versionDate": "2026-06-17",
-      "versionDescription": "Tweaks: CydiaSubstrate, YTKHelper, YTKPlus\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/YouTube_21.24.3_ytkp_5.6.1crack.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, YTKHelper, YTKPlus\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
+      "versionDate": "2026-06-20",
+      "versionDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/YTKillerPlus_21.24.3_5.7.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nYouTube 21.24.3\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 131263730,
+      "size": 132404930,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -77512,10 +77512,10 @@
       "versions": [
         {
           "version": "21.24.3",
-          "date": "2026-06-17",
-          "localizedDescription": "Tweaks: CydiaSubstrate, YTKHelper, YTKPlus\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/YouTube_21.24.3_ytkp_5.6.1crack.ipa",
-          "size": 131263730
+          "date": "2026-06-20",
+          "localizedDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/YTKillerPlus_21.24.3_5.7.ipa",
+          "size": 132404930
         }
       ],
       "category": "photo-&-video"
