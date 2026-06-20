@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.soundscape.music",
     "com.frontrow.vlog",
     "com.genau.MoneyCircle",
     "com.wellocution.iosapp",
-    "com.jabhi.clarido",
-    "com.ideation.Stress"
+    "com.jabhi.clarido"
   ],
   "apps": [
     {
@@ -60808,14 +60808,14 @@
       "bundleIdentifier": "com.soundscape.music",
       "developerName": "Soundscape",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "10.1.35",
-      "versionDate": "2026-06-19",
+      "version": "10.1.36",
+      "versionDate": "2026-06-20",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.35-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.36-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nSoundscape: Sleep Focus Relax",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/0a/36/360a369f-1178-d1b9-ad5d-cd4085a8302d/SoundscapeIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 91249895,
+      "size": 89679415,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -60833,11 +60833,11 @@
       },
       "versions": [
         {
-          "version": "10.1.35",
-          "date": "2026-06-19",
+          "version": "10.1.36",
+          "date": "2026-06-20",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.35-riftysipas.ipa",
-          "size": 91249895
+          "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.36-riftysipas.ipa",
+          "size": 89679415
         }
       ],
       "category": "health-&-fitness"
@@ -78517,7 +78517,7 @@
     {
       "title": "⚙️ Telos Update 6.20",
       "identifier": "telos-update-2026-06-20",
-      "caption": "32 Apps Updated:\n• 6 Games\n• 6 Health & Fitness\n• 6 Photo & Video\n• 4 Education\n• 2 Music\n• 2 Weather\n• 2 Medical\n• 2 Lifestyle\n• 2 Utilities",
+      "caption": "34 Apps Updated:\n• 10 Health & Fitness\n• 6 Games\n• 4 Photo & Video\n• 4 Education\n• 2 Music\n• 2 Weather\n• 2 Medical\n• 2 Lifestyle\n• 2 Utilities",
       "date": "2026-06-20",
       "tintColor": "#02433b",
       "notify": true,
