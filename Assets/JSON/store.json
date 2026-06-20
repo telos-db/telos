@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.northstar.gratitude",
+    "com.oribot.origami",
     "com.jakemor.firness-ai",
     "com.tripleglazedstudios.Weather",
-    "games.urmobi.found.it",
-    "com.offlinemusic",
-    "state.connect.game"
+    "games.urmobi.found.it"
   ],
   "apps": [
     {
@@ -26874,14 +26874,14 @@
       "bundleIdentifier": "com.northstar.gratitude",
       "developerName": "Hapjoy Technologies Private Limited",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "5.7.1",
-      "versionDate": "2026-06-12",
+      "version": "5.7.2",
+      "versionDate": "2026-06-20",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.7.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.7.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nGratitude: Self-Care Journal",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/e5/41/c3e5413f-859e-d35c-67df-10c250ac2bda/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 64371265,
+      "size": 64472978,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -26904,11 +26904,11 @@
       },
       "versions": [
         {
-          "version": "5.7.1",
-          "date": "2026-06-12",
+          "version": "5.7.2",
+          "date": "2026-06-20",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.7.1-riftysipas.ipa",
-          "size": 64371265
+          "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.7.2-riftysipas.ipa",
+          "size": 64472978
         }
       ],
       "category": "health-&-fitness"
@@ -46321,14 +46321,14 @@
       "bundleIdentifier": "com.oribot.origami",
       "developerName": "Andreas Bauer",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.77",
-      "versionDate": "2026-06-05",
+      "version": "4.78",
+      "versionDate": "2026-06-20",
       "versionDescription": "Tweaks: Origami, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Origami_Fold_&_Learn_v4_77_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Origami_Fold_&_Learn_v4_78_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nOrigami - Fold & Learn",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/2d/36/962d367f-dc17-08d9-1246-c6e2359701de/AppIconGlass-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 198727102,
+      "size": 199774100,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -46336,11 +46336,11 @@
       },
       "versions": [
         {
-          "version": "4.77",
-          "date": "2026-06-05",
+          "version": "4.78",
+          "date": "2026-06-20",
           "localizedDescription": "Tweaks: Origami, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Origami_Fold_&_Learn_v4_77_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 198727102
+          "downloadURL": "https://telos.ftp.sh/ipas/Origami_Fold_&_Learn_v4_78_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 199774100
         }
       ],
       "category": "education"
@@ -78478,7 +78478,7 @@
     {
       "title": "⚙️ Telos Update 6.20",
       "identifier": "telos-update-2026-06-20",
-      "caption": "10 Apps Updated:\n• 4 Games\n• 2 Music\n• 2 Weather\n• 2 Health & Fitness",
+      "caption": "18 Apps Updated:\n• 6 Health & Fitness\n• 4 Games\n• 4 Education\n• 2 Music\n• 2 Weather",
       "date": "2026-06-20",
       "tintColor": "#02433b",
       "notify": true,
