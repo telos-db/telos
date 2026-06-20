@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.offlinemusic",
+    "state.connect.game",
     "com.app.phlow",
     "com.linecorp.Foodie",
-    "com.videobrowser.ios",
-    "com.camerasideas.Peachy",
-    "com.N2BunpouApp.yuki"
+    "com.videobrowser.ios"
   ],
   "apps": [
     {
@@ -45453,14 +45453,14 @@
       "bundleIdentifier": "com.offlinemusic",
       "developerName": "Md Zakir Hossain",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "3.8.4",
-      "versionDate": "2026-06-03",
+      "version": "3.8.5",
+      "versionDate": "2026-06-20",
       "versionDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.4 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.5 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nOffline Music Player",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/62/e3/5d62e34f-c473-a1e1-99d4-9133d525a351/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 96890830,
+      "size": 97836557,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/74/3d/e0743d5f-5903-ff53-ac44-b4b859a53051/14112d4b-9e03-402e-b9d0-0f90e8c8cabb_iPhone_screenshot.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/f7/4f/37f74f82-c6bf-7eb7-7b76-1c48717e0d22/637cd3d6-5191-4d9f-be32-400fdd95d0d0_iPhone_screenshot1.png/392x696bb.png",
@@ -45489,11 +45489,11 @@
       },
       "versions": [
         {
-          "version": "3.8.4",
-          "date": "2026-05-06",
+          "version": "3.8.5",
+          "date": "2026-06-20",
           "localizedDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.4 Pro Unlocked blatant Patched.ipa",
-          "size": 96890830
+          "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.5 Pro Unlocked blatant Patched.ipa",
+          "size": 97836557
         }
       ],
       "category": "music"
@@ -62099,6 +62099,44 @@
       "category": "finance"
     },
     {
+      "name": "State Connect: traffic control",
+      "bundleIdentifier": "state.connect.game",
+      "developerName": "AI Games FZ",
+      "subtitle": "State Connect: traffic control for iOS",
+      "version": "1.185",
+      "versionDate": "2026-06-20",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/state.connect.game-1.185-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/cf/b3/bacfb3e4-09ab-6262-f238-780ac4aa03ec/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 108201535,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/aa/e4/28/aae428de-eb0c-605b-10ad-a264f75aa482/cead225e-6c5a-40be-ac7f-8be44f58018f_STATEC_screen001_03_1242x2208_EN.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c9/ab/4f/c9ab4fd3-0bde-e230-e85b-e8ed1162b27c/48e445e8-6079-46b5-a27b-58abb006f565_STATEC_screen001_01_1242x2208_EN.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a4/3e/30/a43e307f-aad2-4b71-0892-92732313f6bf/5c7eb68f-e89d-461f-8487-57e53904dbc9_STATEC_screen001_02_1242x2208_EN.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/dc/4d/95/dc4d953b-c9b5-1252-8240-207752bd3bc5/b6b484fd-4e43-4721-8d69-032d7be99b2d_1_11242x2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3e/c0/8a/3ec08a07-f510-ea9d-70c6-868471a3c995/9da4ed9b-9770-4d3e-ac26-173353edd735_2_11242x2208.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "Device info will be used for delivering more relevant content",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you and to improve app functionality"
+        }
+      },
+      "versions": [
+        {
+          "version": "1.185",
+          "date": "2026-04-18",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/state.connect.game-1.185-eeveedecrypter.ipa",
+          "size": 108201535
+        }
+      ],
+      "category": "games"
+    },
+    {
       "name": "Stay",
       "bundleIdentifier": "com.dajiu.stay.pro",
       "developerName": "寅 沈",
@@ -78438,11 +78476,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 6.20",
+      "identifier": "telos-update-2026-06-20",
+      "caption": "8 Apps Updated:\n• 4 Music\n• 4 Games",
+      "date": "2026-06-20",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "com.offlinemusic"
+    },
+    {
       "title": "⚙️ Telos Update 6.19",
       "identifier": "telos-update-2026-06-19",
-      "caption": "194 Apps Updated:\n• 40 Photo & Video\n• 38 Health & Fitness\n• 22 Lifestyle\n• 18 Games\n• 10 Productivity\n• 10 Utilities\n• 10 Education\n• 8 Navigation\n• 4 Food & Drink\n• 4 Music\n• 4 Weather\n• 4 News\n• 4 Business\n• 4 Sports\n• 4 Entertainment\n• 2 Social Networking\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools\n• 2 Books",
+      "caption": "190 Apps Updated:\n• 38 Health & Fitness\n• 36 Photo & Video\n• 22 Lifestyle\n• 18 Games\n• 10 Productivity\n• 10 Utilities\n• 10 Education\n• 8 Navigation\n• 4 Food & Drink\n• 4 Music\n• 4 Weather\n• 4 News\n• 4 Business\n• 4 Sports\n• 4 Entertainment\n• 2 Social Networking\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools\n• 2 Books",
       "date": "2026-06-19",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "boomer.Smart-Video"
     },
@@ -78451,7 +78498,7 @@
       "identifier": "telos-update-2026-06-18",
       "caption": "56 Apps Updated:\n• 18 Photo & Video\n• 8 Health & Fitness\n• 4 Lifestyle\n• 4 Travel\n• 4 Education\n• 4 Social Networking\n• 2 Finance\n• 2 Graphics & Design\n• 2 Music\n• 2 Productivity\n• 2 Shopping\n• 2 News\n• 2 Weather",
       "date": "2026-06-18",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.iPwners.Plonkan"
     },
@@ -78460,7 +78507,7 @@
       "identifier": "telos-update-2026-06-17",
       "caption": "74 Apps Updated:\n• 20 Photo & Video\n• 16 Health & Fitness\n• 8 Education\n• 6 Utilities\n• 4 Navigation\n• 4 Business\n• 4 Weather\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Lifestyle\n• 2 Medical\n• 2 Reference",
       "date": "2026-06-17",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.picsart.studio"
     },
@@ -78469,7 +78516,7 @@
       "identifier": "telos-update-2026-06-16",
       "caption": "254 Apps Updated:\n• 80 Photo & Video\n• 31 Health & Fitness\n• 21 Music\n• 19 Productivity\n• 17 Utilities\n• 17 Games\n• 13 Entertainment\n• 11 Education\n• 10 News\n• 7 Lifestyle\n• 6 Navigation\n• 6 Reference\n• 4 Sports\n• 4 Social Networking\n• 2 Food & Drink\n• 2 Weather\n• 2 Medical\n• 2 Graphics & Design",
       "date": "2026-06-16",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.genau.MoneyCircle"
     },
@@ -78478,7 +78525,7 @@
       "identifier": "telos-update-2026-06-15",
       "caption": "845 Apps Updated:\n• 169 Photo & Video\n• 160 News\n• 94 Social Networking\n• 62 Utilities\n• 60 Games\n• 50 Productivity\n• 50 Music\n• 38 Business\n• 24 Entertainment\n• 20 Reference\n• 18 Lifestyle\n• 14 Education\n• 12 Health & Fitness\n• 12 Sports\n• 10 Finance\n• 10 Shopping\n• 10 Food & Drink\n• 8 Travel\n• 6 Navigation\n• 6 Developer Tools\n• 4 Graphics & Design\n• 2 Weather\n• 2 Medical\n• 2 Books\n• 2 Other",
       "date": "2026-06-15",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.condor.digital.Tide-Over"
     },
@@ -78487,7 +78534,7 @@
       "identifier": "telos-update-2026-06-14",
       "caption": "401 Apps Updated:\n• 79 Health & Fitness\n• 76 Photo & Video\n• 40 Games\n• 39 Education\n• 32 Productivity\n• 20 Lifestyle\n• 18 Utilities\n• 15 Finance\n• 12 Music\n• 11 Sports\n• 9 Food & Drink\n• 9 Medical\n• 8 Entertainment\n• 7 Navigation\n• 7 Social Networking\n• 6 Weather\n• 5 Graphics & Design\n• 3 Business\n• 2 Reference\n• 2 News\n• 1 Travel",
       "date": "2026-06-14",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.SixThree.POV"
     },
@@ -78496,7 +78543,7 @@
       "identifier": "telos-update-2026-06-13",
       "caption": "360 Apps Updated:\n• 85 Health & Fitness\n• 46 Games\n• 40 Lifestyle\n• 35 Photo & Video\n• 34 Productivity\n• 24 Education\n• 13 Utilities\n• 12 Food & Drink\n• 11 Sports\n• 11 Business\n• 11 Finance\n• 9 Music\n• 8 Navigation\n• 6 Medical\n• 6 Weather\n• 3 News\n• 2 Reference\n• 2 Graphics & Design\n• 1 Entertainment\n• 1 Travel",
       "date": "2026-06-13",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.pungme.combyne"
     },
@@ -78505,7 +78552,7 @@
       "identifier": "telos-update-2026-06-12",
       "caption": "414 Apps Updated:\n• 85 Health & Fitness\n• 55 Games\n• 52 Photo & Video\n• 39 Lifestyle\n• 39 Productivity\n• 26 Utilities\n• 25 Education\n• 19 Music\n• 11 Medical\n• 10 Food & Drink\n• 10 Finance\n• 8 Weather\n• 8 Sports\n• 6 Graphics & Design\n• 5 Business\n• 4 Navigation\n• 3 Developer Tools\n• 3 Reference\n• 2 Travel\n• 2 Entertainment\n• 1 Books\n• 1 News",
       "date": "2026-06-12",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.northstar.gratitude"
     },
@@ -78514,18 +78561,9 @@
       "identifier": "telos-update-2026-06-11",
       "caption": "605 Apps Updated:\n• 154 Photo & Video\n• 97 Health & Fitness\n• 57 Games\n• 47 Productivity\n• 36 Music\n• 27 Entertainment\n• 26 Graphics & Design\n• 26 Lifestyle\n• 26 Education\n• 24 Social Networking\n• 19 Utilities\n• 8 Navigation\n• 8 Developer Tools\n• 7 Books\n• 7 Sports\n• 6 Travel\n• 6 Weather\n• 6 Finance\n• 5 Reference\n• 5 Food & Drink\n• 4 Medical\n• 3 Business\n• 1 News",
       "date": "2026-06-11",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "com.mwm.stems"
-    },
-    {
-      "title": "⚙️ Telos Update 6.10",
-      "identifier": "telos-update-2026-06-10",
-      "caption": "305 Apps Updated:\n• 79 Photo & Video\n• 50 Health & Fitness\n• 35 Education\n• 30 Productivity\n• 17 Lifestyle\n• 13 Music\n• 12 Games\n• 12 Entertainment\n• 11 Graphics & Design\n• 6 News\n• 5 Social Networking\n• 5 Utilities\n• 4 Books\n• 4 Food & Drink\n• 4 Business\n• 4 Navigation\n• 4 Medical\n• 4 Travel\n• 3 Weather\n• 2 Reference\n• 1 Sports",
-      "date": "2026-06-10",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.nekki.shadowfight.paid"
+      "appID": "com.mwm.stems"
     }
   ]
 }
