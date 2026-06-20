@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.jabhi.clarido",
     "com.ideation.Stress",
     "com.runprof.drugdeal",
     "com.sfun.snapedit",
-    "com.blockpuzzle.us.ios",
-    "com.northstar.gratitude"
+    "com.blockpuzzle.us.ios"
   ],
   "apps": [
     {
@@ -12437,20 +12437,21 @@
       "bundleIdentifier": "com.jabhi.clarido",
       "developerName": "Jabhi Studios",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.1.1",
-      "versionDate": "2026-06-13",
+      "version": "3.1.10",
+      "versionDate": "2026-06-20",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Clarido: AI Notes & Memory-v3.1.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Clarido: AI Notes & Memory-v3.1.10-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nClarido: AI Notes & Memory\n\n---\nAt any point in your life, there's one thing that deserves your focus more than everything else. Clarido helps you find it.\n\nOpen the app and share your competing priorities. Type it out or say it out loud. Clarido is an AI coach that listens, asks the right questions, and helps you land on a clear intention: the one lever that would make the biggest difference right now.\n\nThat intention stays front and center on your lock screen, home screen, and Apple Watch, visible every time you pick up your",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/3b/38/7d3b3895-f946-c359-a3a4-2a0c5366ede4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 6702649,
+      "size": 8407645,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
+          "com.apple.developer.applesignin",
           "aps-environment",
-          "com.apple.security.application-groups",
-          "com.apple.developer.applesignin"
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSMicrophoneUsageDescription": "Clarido needs microphone access to record voice notes.",
@@ -12460,11 +12461,11 @@
       },
       "versions": [
         {
-          "version": "3.1.1",
-          "date": "2026-06-13",
+          "version": "3.1.10",
+          "date": "2026-06-20",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Clarido: AI Notes & Memory-v3.1.1-riftysipas.ipa",
-          "size": 6702649
+          "downloadURL": "https://telos.ftp.sh/ipas/Clarido: AI Notes & Memory-v3.1.10-riftysipas.ipa",
+          "size": 8407645
         }
       ],
       "category": "lifestyle"
