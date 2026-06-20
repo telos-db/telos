@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.tripleglazedstudios.Weather",
     "games.urmobi.found.it",
     "com.offlinemusic",
     "state.connect.game",
-    "com.app.phlow",
-    "com.linecorp.Foodie"
+    "com.app.phlow"
   ],
   "apps": [
     {
@@ -39710,14 +39710,14 @@
       "bundleIdentifier": "com.tripleglazedstudios.Weather",
       "developerName": "Triple Glazed Studios LLC",
       "subtitle": "Premium Unlocked | Patched",
-      "version": "3.5.2",
-      "versionDate": "2026-06-17",
+      "version": "3.5.3",
+      "versionDate": "2026-06-20",
       "versionDescription": "Tweaks: MercuryWeather, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Mercury Weather v3.5.2 Premium Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Mercury Weather v3.5.3 Premium Unlocked blatant Patched.ipa",
       "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nMercury Weather",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/f1/9b/2df19b14-e202-c27e-72c3-a85546b7b100/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 73375176,
+      "size": 73365875,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/bb/15/51bb154c-42a2-3d13-0332-bd1f579ffd2f/a82e0142-1870-4263-803d-2171428787e1_Screen_1.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/1e/b0/d21eb0db-2b53-ba39-cec4-5ed2c8f2de6f/60a27770-4683-4b4d-a3cb-f43bc602daf4_Screen_2.png/552x414bb.png",
@@ -39737,11 +39737,11 @@
       },
       "versions": [
         {
-          "version": "3.5.2",
-          "date": "2026-06-17",
+          "version": "3.5.3",
+          "date": "2026-06-20",
           "localizedDescription": "Tweaks: MercuryWeather, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Mercury Weather v3.5.2 Premium Unlocked blatant Patched.ipa",
-          "size": 73375176
+          "downloadURL": "https://telos.ftp.sh/ipas/Mercury Weather v3.5.3 Premium Unlocked blatant Patched.ipa",
+          "size": 73365875
         }
       ],
       "category": "weather"
@@ -78478,7 +78478,7 @@
     {
       "title": "⚙️ Telos Update 6.20",
       "identifier": "telos-update-2026-06-20",
-      "caption": "8 Apps Updated:\n• 6 Games\n• 2 Music",
+      "caption": "10 Apps Updated:\n• 4 Games\n• 4 Weather\n• 2 Music",
       "date": "2026-06-20",
       "tintColor": "#02433b",
       "notify": true,
