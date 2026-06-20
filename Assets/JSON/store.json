@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.runprof.drugdeal",
     "com.sfun.snapedit",
     "com.blockpuzzle.us.ios",
     "com.northstar.gratitude",
-    "com.oribot.origami",
-    "com.jakemor.firness-ai"
+    "com.oribot.origami"
   ],
   "apps": [
     {
@@ -18097,6 +18097,44 @@
         }
       ],
       "category": "productivity"
+    },
+    {
+      "name": "Drug Deal",
+      "bundleIdentifier": "com.runprof.drugdeal",
+      "developerName": "RunProf.LLC",
+      "subtitle": "Drug Deal for iOS",
+      "version": "1.6.6",
+      "versionDate": "2026-06-20",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.runprof.drugdeal-1.6.6-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/3e/0b/693e0bae-9362-08ad-17bf-66931bfe2c9f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 32098094,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c1/22/0b/c1220b15-0d38-288b-76df-e08646f33664/20be02fc-52cc-401f-ab23-540061d2116d_IOS_screen_1.1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cc/19/e2/cc19e278-d0a2-f2ec-dd4b-c192c78ea6b1/b1a25dcc-8bca-4aac-b3a8-465f3f9f52fb_IOS_screen_1.2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0a/bf/26/0abf268b-4286-7803-11e5-829686f392dc/ffe76f55-707a-4428-b4d8-ca500b4d0eaf_IOS_screen_1.3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f4/fb/51/f4fb51cd-c370-e23e-0933-1726886d97a5/3ba02656-eb16-40e6-90bd-5a4817db1e1b_IOS_screen_1.4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/86/18/61/86186149-a3f3-6e22-9a32-e17f4171d6d6/72501956-69b4-45c0-9d53-5967d5367cdd_IOS_screen_1.5.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This app requires access to the photo library.",
+          "NSCameraUsageDescription": "This app requires access to the camera."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.6.6",
+          "date": "2026-03-11",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.runprof.drugdeal-1.6.6-eeveedecrypter.ipa",
+          "size": 32098094
+        }
+      ],
+      "category": "medical"
     },
     {
       "name": "Dtd Sounds",
@@ -78478,7 +78516,7 @@
     {
       "title": "⚙️ Telos Update 6.20",
       "identifier": "telos-update-2026-06-20",
-      "caption": "18 Apps Updated:\n• 6 Games\n• 4 Health & Fitness\n• 2 Music\n• 2 Weather\n• 2 Photo & Video\n• 2 Education",
+      "caption": "22 Apps Updated:\n• 6 Games\n• 4 Medical\n• 4 Health & Fitness\n• 2 Music\n• 2 Weather\n• 2 Photo & Video\n• 2 Education",
       "date": "2026-06-20",
       "tintColor": "#02433b",
       "notify": true,
