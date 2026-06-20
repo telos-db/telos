@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.jakemor.firness-ai",
     "com.tripleglazedstudios.Weather",
     "games.urmobi.found.it",
     "com.offlinemusic",
-    "state.connect.game",
-    "com.app.phlow"
+    "state.connect.game"
   ],
   "apps": [
     {
@@ -22703,14 +22703,14 @@
       "bundleIdentifier": "com.jakemor.firness-ai",
       "developerName": "FitnessAI Inc.",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "20.1",
-      "versionDate": "2026-06-16",
+      "version": "20.2",
+      "versionDate": "2026-06-20",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v20_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v20_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nFitness AI Gym Workout Planner\n\n---\nWorkout at home or at the gym with FitnessAI’s advanced training algorithm to guide you through the perfect set, rep and weight combination to reach your fitness goals.\n\n● Get results with whatever equipment you have available to you. Whether your fitness goals are to build muscle, get toned or lose weight fast, FitnessAI is the simplest way to access a world class training regiment.\n\n● Our easy to follow gym and home workouts are backed by data, not intuition. FitnessAI’s simple layout allows f",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/1b/f6/7d1bf61c-4f64-1779-871a-3e7fbddf5c7a/AppIcon-0-1x_U007ephone-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 65294124,
+      "size": 65314846,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -22738,11 +22738,11 @@
       },
       "versions": [
         {
-          "version": "20.1",
-          "date": "2026-06-16",
+          "version": "20.2",
+          "date": "2026-06-20",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v20_1_Subscription_Unlocked_blatant.ipa",
-          "size": 65294124
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v20_2_Subscription_Unlocked_blatant.ipa",
+          "size": 65314846
         }
       ],
       "category": "health-&-fitness"
