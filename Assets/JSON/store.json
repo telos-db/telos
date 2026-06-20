@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "games.urmobi.found.it",
     "com.offlinemusic",
     "state.connect.game",
     "com.app.phlow",
-    "com.linecorp.Foodie",
-    "com.videobrowser.ios"
+    "com.linecorp.Foodie"
   ],
   "apps": [
     {
@@ -24577,14 +24577,14 @@
       "bundleIdentifier": "games.urmobi.found.it",
       "developerName": "Lion Studios Plus",
       "subtitle": "*Tweak:** Unlimited Everything (Hints, Magnets, Magic Wands, Skipits, Pointers And More),  - All Premium Levels Unlocked,  - No Ads | *Notes:** Restart App If There Isn'T Automatically Unlimited Of Everything.",
-      "version": "1.69.99",
-      "versionDate": "2026-06-19",
+      "version": "1.69.100",
+      "versionDate": "2026-06-20",
       "versionDescription": "Tweaks: CydiaSubstrate, SatellaJailed, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Found It! Hidden Object Game-v1.69.99-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Found It! Hidden Object Game-v1.69.100-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Unlimited Everything (Hints, Magnets, Magic Wands, Skipits, Pointers And More),  - All Premium Levels Unlocked,  - No Ads | *Notes:** Restart App If There Isn'T Automatically Unlimited Of Everything. | *Patched ✓**\n\nFound It! Hidden Object Game",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/a5/e7/b0a5e757-bbaf-05f6-8195-f8ea69a15c9f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 247963034,
+      "size": 247962937,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/ab/2f/7dab2f4f-09a0-e243-759b-bd4b36d3ac33/31f37689-5a29-47e3-bc36-0ebfc5c2eaed_FNI_aso_screenshots_07_en_static_1242x2208.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/e7/5f/97e75f22-2b1b-f505-ad90-9ca9cb357fb9/d42053b6-4356-44d3-ad2d-b32247293b03_FNI_aso_screenshots_06_en_static_1242x2208.png/392x696bb.png",
@@ -24606,11 +24606,11 @@
       },
       "versions": [
         {
-          "version": "1.69.99",
-          "date": "2026-06-19",
+          "version": "1.69.100",
+          "date": "2026-06-20",
           "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Found It! Hidden Object Game-v1.69.99-riftysipas.ipa",
-          "size": 247963034
+          "downloadURL": "https://telos.ftp.sh/ipas/Found It! Hidden Object Game-v1.69.100-riftysipas.ipa",
+          "size": 247962937
         }
       ],
       "category": "games"
@@ -78478,7 +78478,7 @@
     {
       "title": "⚙️ Telos Update 6.20",
       "identifier": "telos-update-2026-06-20",
-      "caption": "8 Apps Updated:\n• 4 Music\n• 4 Games",
+      "caption": "8 Apps Updated:\n• 6 Games\n• 2 Music",
       "date": "2026-06-20",
       "tintColor": "#02433b",
       "notify": true,
