@@ -11576,6 +11576,32 @@
       }
     },
     {
+      "name": "Drug Deal",
+      "bundleIdentifier": "com.runprof.drugdeal",
+      "developerName": "RunProf.LLC",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nDrug Deal is an encyclopedia of medical treatments that helps healthcare professional consumers receive effective prescription drug information and browse active drug ingredients, check drug interactions and drug alternatives, drug similarities and side effects from a detailed drug index using a fast search engine\n\nServices provided in the application:\n. With one click, you can browse thousands of medicines using a fast search engine and compare many medical products\n\n. You can get more pharmace",
+      "version": "1.6.6",
+      "versionDate": "2026-06-20T12:21:26-00:00",
+      "versionDescription": "Build 7 from @thescholarslounge",
+      "size": 32098094,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/3e/0b/693e0bae-9362-08ad-17bf-66931bfe2c9f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.runprof.drugdeal-1.6.6-eeveedecrypter.ipa",
+      "minOSVersion": "16.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.runprof.drugdeal-1.6.6-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "Dtd Sounds",
       "bundleIdentifier": "com.dtd.aroundu",
       "developerName": "MD Studio",
