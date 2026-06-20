@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.offlinemusic",
+    "state.connect.game",
     "com.app.phlow",
     "com.linecorp.Foodie",
-    "com.videobrowser.ios",
-    "com.camerasideas.Peachy",
-    "com.N2BunpouApp.yuki"
+    "com.videobrowser.ios"
   ],
   "apps": [
     {
@@ -45873,14 +45873,14 @@
       "bundleIdentifier": "com.offlinemusic",
       "developerName": "Md Zakir Hossain",
       "subtitle": "Tweaked with OfflineMusicPlayer, blatantsPatch",
-      "version": "3.8.4",
-      "versionDate": "2026-06-03",
+      "version": "3.8.5",
+      "versionDate": "2026-06-20",
       "versionDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.4 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.5 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nOffline Music Player\n\n---\nImport your favorite Music and Play anywhere! Listen OFFLINE, No LIMITS!\n\nMAJOR FEATURES-\n\n● The easiest way to play offline music.\n● Save music for offline access.\n● Play offline–no internet or WiFi needed.\n● Easily transfer tracks to iPhone, iPad, and iPod touch.\n● Almost all the popular format is supported.\n● .Mp3,.Flac,.wav, .caf, .wav, .aac etc.\n● Add music to your favorite playlist.\n● Beautiful design.\n● Headphone control.\n● Create & manage playlists.\n● Powerful music player.\n● Equalizer.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/62/e3/5d62e34f-c473-a1e1-99d4-9133d525a351/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 96890830,
+      "size": 97836557,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/74/3d/e0743d5f-5903-ff53-ac44-b4b859a53051/14112d4b-9e03-402e-b9d0-0f90e8c8cabb_iPhone_screenshot.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/f7/4f/37f74f82-c6bf-7eb7-7b76-1c48717e0d22/637cd3d6-5191-4d9f-be32-400fdd95d0d0_iPhone_screenshot1.png/392x696bb.png",
@@ -45909,11 +45909,11 @@
       },
       "versions": [
         {
-          "version": "3.8.4",
-          "date": "2026-06-03",
+          "version": "3.8.5",
+          "date": "2026-06-20",
           "localizedDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.4 Pro Unlocked blatant Patched.ipa",
-          "size": 96890830
+          "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.5 Pro Unlocked blatant Patched.ipa",
+          "size": 97836557
         }
       ],
       "category": "music"
@@ -62668,6 +62668,44 @@
         }
       ],
       "category": "finance"
+    },
+    {
+      "name": "State Connect: traffic control",
+      "bundleIdentifier": "state.connect.game",
+      "developerName": "AI Games FZ",
+      "subtitle": "State Connect: traffic control for iOS",
+      "version": "1.185",
+      "versionDate": "2026-06-20",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/state.connect.game-1.185-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nBuild motorways between cities for cars to drive, manage traffic and earn more points to carry out even more transportation. Play State Connect to bridge all the new states territory together.\n\nThis connection game is very easy to control and incredibly enjoyable to play. A huge number of different options for the construction of road systems. To build a highway - just slide your finger from one point to another and the movement will begin! Don't forget to upgrade your cities to create even more",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/cf/b3/bacfb3e4-09ab-6262-f238-780ac4aa03ec/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 108201535,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/aa/e4/28/aae428de-eb0c-605b-10ad-a264f75aa482/cead225e-6c5a-40be-ac7f-8be44f58018f_STATEC_screen001_03_1242x2208_EN.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c9/ab/4f/c9ab4fd3-0bde-e230-e85b-e8ed1162b27c/48e445e8-6079-46b5-a27b-58abb006f565_STATEC_screen001_01_1242x2208_EN.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a4/3e/30/a43e307f-aad2-4b71-0892-92732313f6bf/5c7eb68f-e89d-461f-8487-57e53904dbc9_STATEC_screen001_02_1242x2208_EN.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/dc/4d/95/dc4d953b-c9b5-1252-8240-207752bd3bc5/b6b484fd-4e43-4721-8d69-032d7be99b2d_1_11242x2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3e/c0/8a/3ec08a07-f510-ea9d-70c6-868471a3c995/9da4ed9b-9770-4d3e-ac26-173353edd735_2_11242x2208.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "Device info will be used for delivering more relevant content",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you and to improve app functionality"
+        }
+      },
+      "versions": [
+        {
+          "version": "1.185",
+          "date": "2026-06-20",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/state.connect.game-1.185-eeveedecrypter.ipa",
+          "size": 108201535
+        }
+      ],
+      "category": "games"
     },
     {
       "name": "Stay",
