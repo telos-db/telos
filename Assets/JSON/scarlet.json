@@ -5233,12 +5233,12 @@
       "bundleIdentifier": "alexgerrese.summarize",
       "developerName": "Alexander Gerrese",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nBookshelf: Book Tracker & List\n\n---\nBookshelf helps you track your books, build a lasting reading habit, and better remember what you read—now with powerful AI-powered discovery tools to help you find your next great read!\n\nAdd books you’ve read, books you’re reading, and books you want to read. Improve your reading habits with insightful stats and trend reports. Stay motivated with reading goals, streaks, and reminders. Remember what you read by writing and reviewing notes and quotes.\n\nBUILD YOUR LIBRARY\n• Import & Sync – Import",
-      "version": "2.18.11",
-      "versionDate": "2026-06-12T04:19:06-00:00",
+      "version": "2.18.15",
+      "versionDate": "2026-06-21T16:36:57-00:00",
       "versionDescription": "Build 3 from @riftysIPAlibrary",
-      "size": 215959149,
+      "size": 216254099,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/7b/7a/877b7ab7-f559-1e4d-f6ef-5c3722b095f8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.11-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.15-riftysipas.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -5251,7 +5251,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Bookshelf: Book Tracker & List-v2.18.11-riftysipas.ipa"
+        "originalFile": "Bookshelf: Book Tracker & List-v2.18.15-riftysipas.ipa"
       }
     },
     {
@@ -43295,19 +43295,18 @@
       "name": "Tiny Decisions",
       "bundleIdentifier": "com.nixwang.decision",
       "developerName": "Hangzhou Tangsuan Network Technology Co., Ltd.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: TinyDecisions, blatantsPatch\n\nTiny Decisions\n\n---\nTiny Decisions: Happy deciding!\n\nMake decisions effortlessly with Tiny Decisions! Turn tough choices into a fun experience—input your question, add options, and spin the wheel for a random answer. Whether it’s picking dinner or planning your weekend, quick decisions are just a spin away!\n\nPerfect For:\n- Weekend Adventures: Where to explore next?\n- Dinner Ideas: What’s on the menu tonight?\n- Outfit Picks: What to wear today?\n- Party Games: Truth or Dare with friends?\n- Group Bills: Who pays the c",
-      "version": "26.3.1",
-      "versionDate": "2026-06-08T21:05:59-00:00",
-      "versionDescription": "Build 478 from @blatants",
-      "size": 54191140,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: TinyDecisions, blatantsPatch\n\nTiny Decisions: Spin Wheel\n\n---\nTiny Decisions: Happy deciding!\n\nMake decisions effortlessly with Tiny Decisions! Turn tough choices into a fun experience—input your question, add options, and spin the wheel for a random answer. Whether it’s picking dinner or planning your weekend, quick decisions are just a spin away!\n\nPerfect For:\n- Weekend Adventures: Where to explore next?\n- Dinner Ideas: What’s on the menu tonight?\n- Outfit Picks: What to wear today?\n- Party Games: Truth or Dare with friends?\n- Group Bills: Who pays the c",
+      "version": "26.6",
+      "versionDate": "2026-06-21T16:31:32-00:00",
+      "versionDescription": "Build 494 from @blatants",
+      "size": 77894143,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/19/ea/5719eae3-87a1-f412-34a1-4223cc8315c7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tiny Decisions v26.3.1 Subscription Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tiny_Decisions_Spin_Wheel_v26_6_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -43315,7 +43314,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Tiny Decisions v26.3.1 Subscription Unlocked blatant Patched.ipa"
+        "originalFile": "Tiny_Decisions_Spin_Wheel_v26_6_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
