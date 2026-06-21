@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "net.whatsapp.WhatsApp",
     "com.AppChief.ArabicArt",
     "com.google.ios.youtube",
     "com.stippl.stippl",
-    "com.soundscape.music",
-    "com.frontrow.vlog"
+    "com.soundscape.music"
   ],
   "apps": [
     {
@@ -77821,15 +77821,15 @@
       "name": "‎WhatsApp",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "developerName": "WhatsApp Inc.",
-      "subtitle": "Cracked",
-      "version": "26.21.74",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiToolsSL\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/net.whatsapp.WhatsApp_26.21.74_watusi3_1.3.15_sl.ipa",
-      "localizedDescription": "Cracked\n\nWatusi for WhatsApp",
+      "subtitle": "Tweaked with CydiaSubstrate, WGold",
+      "version": "26.22.79",
+      "versionDate": "2026-06-21",
+      "versionDescription": "Tweaks: CydiaSubstrate, WGold\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/‎WhatsApp_26.22.79_WGold_2.1.ipa",
+      "localizedDescription": "‎WhatsApp for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/fc/69/5dfc6928-acee-faaa-5c06-9b3b13197ebd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 155204804,
+      "size": 150727095,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/b8/e8/66b8e8e3-f8e8-4c8d-098f-59ba61d270a8/1f8cb34e-74b3-422f-a601-e5f35e7665f7_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/c9/47/bac947f8-5381-1945-4962-08386ce8c3c9/25634664-e3c6-4732-8e2a-f9ca1267441b_2.png/392x696bb.png",
@@ -77839,25 +77839,37 @@
       ],
       "appPermissions": {
         "entitlements": [
-          "com.apple.developer.usernotifications.communication",
           "com.apple.developer.avfoundation.multitasking-camera-access",
-          "com.apple.developer.upi-device-validation",
-          "com.apple.developer.siri",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.networking.carrier-constrained.app-optimized",
-          "com.apple.developer.carplay-messaging",
-          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.networking.wifi-info",
           "com.apple.security.application-groups",
-          "com.apple.developer.associated-appclip-app-identifiers",
-          "com.apple.developer.declared-age-range",
-          "com.apple.developer.pushkit.unrestricted-voip",
-          "com.apple.developer.calling-app",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "aps-environment",
-          "com.apple.developer.icloud-container-environment",
           "com.apple.developer.associated-domains",
-          "com.apple.developer.messaging-app",
-          "com.apple.developer.networking.carrier-constrained.appcategory"
+          "com.apple.developer.authentication-services.autofill-credential-provider",
+          "com.apple.developer.ClassKit-environment",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.access",
+          "com.apple.developer.homekit",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.icloud-container-development-container-identifiers",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "inter-app-audio",
+          "com.apple.developer.networking.multipath",
+          "com.apple.developer.networking.networkextension",
+          "com.apple.developer.nfc.readersession.formats",
+          "aps-environment",
+          "com.apple.developer.siri",
+          "com.apple.external-accessory.wireless-configuration",
+          "com.apple.developer.coremedia.hls.low-latency",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.healthkit.recalibrate-estimates",
+          "com.apple.developer.weatherkit",
+          "com.apple.developer.kernel.increased-debugging-memory-limit",
+          "com.apple.developer.game-center",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.healthkit.background-delivery",
+          "com.apple.developer.user-fonts",
+          "com.apple.developer.applesignin"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "‎This lets you send photos and videos from your library and save the ones you capture.",
@@ -77880,11 +77892,11 @@
       },
       "versions": [
         {
-          "version": "26.21.74",
-          "date": "2026-06-15",
-          "localizedDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiToolsSL\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/net.whatsapp.WhatsApp_26.21.74_watusi3_1.3.15_sl.ipa",
-          "size": 155204804
+          "version": "26.22.79",
+          "date": "2026-06-21",
+          "localizedDescription": "Tweaks: CydiaSubstrate, WGold\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/‎WhatsApp_26.22.79_WGold_2.1.ipa",
+          "size": 150727095
         }
       ],
       "category": "social-networking"
@@ -78517,7 +78529,7 @@
     {
       "title": "⚙️ Telos Update 6.21",
       "identifier": "telos-update-2026-06-21",
-      "caption": "6 Apps Updated:\n• 6 Photo & Video",
+      "caption": "10 Apps Updated:\n• 6 Photo & Video\n• 4 Social Networking",
       "date": "2026-06-21",
       "tintColor": "#02433b",
       "notify": true,
