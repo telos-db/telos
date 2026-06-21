@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "alexgerrese.summarize",
+    "com.nixwang.decision",
     "com.joytunes.Draw",
     "com.navercorp.prism",
-    "com.letterboxd.LetterboxdApp",
-    "com.joytunes.asla",
-    "com.lightricks.Enlight-Editor"
+    "com.letterboxd.LetterboxdApp"
   ],
   "apps": [
     {
@@ -8127,14 +8127,14 @@
       "bundleIdentifier": "alexgerrese.summarize",
       "developerName": "Alexander Gerrese",
       "subtitle": "*Tweak:** Lifetime Subscription Unlocked | *Patched ✓**",
-      "version": "2.18.14",
-      "versionDate": "2026-06-11",
+      "version": "2.18.15",
+      "versionDate": "2026-06-21",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.14-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.15-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Lifetime Subscription Unlocked | *Patched ✓**\n\nBookshelf: Book Tracker & List",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/7b/7a/877b7ab7-f559-1e4d-f6ef-5c3722b095f8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 67787352,
+      "size": 216254099,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/cf/21/5dcf213b-7b2b-4ac0-8bc6-e5769a920297/3e9745fe-1e7e-4f77-a711-fa39b1e5dee0_Screenshot_1_Copy_157.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/ef/d3/9fefd3f0-0c53-888f-5475-e6db01a1fe19/7ec16261-ed2f-4340-8929-e09991a76be6_Screenshot_1_Copy_160.jpg/576x768bb.jpg",
@@ -8158,11 +8158,11 @@
       },
       "versions": [
         {
-          "version": "2.18.14",
-          "date": "2026-06-11",
+          "version": "2.18.15",
+          "date": "2026-06-21",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.14-riftysipas.ipa",
-          "size": 67787352
+          "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.15-riftysipas.ipa",
+          "size": 216254099
         }
       ],
       "category": "books"
@@ -68333,14 +68333,14 @@
       "bundleIdentifier": "com.nixwang.decision",
       "developerName": "Hangzhou Tangsuan Network Technology Co., Ltd.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "26.5",
-      "versionDate": "2026-06-03",
+      "version": "26.6",
+      "versionDate": "2026-06-21",
       "versionDescription": "Tweaks: TinyDecisions, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tiny Decisions v26.5 Subscription Unlocked blatant Patched.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nTiny Decisions",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tiny_Decisions_Spin_Wheel_v26_6_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nTiny Decisions: Spin Wheel",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/19/ea/5719eae3-87a1-f412-34a1-4223cc8315c7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 76280200,
+      "size": 77894143,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -68357,11 +68357,11 @@
       },
       "versions": [
         {
-          "version": "26.5",
-          "date": "2026-05-12",
+          "version": "26.6",
+          "date": "2026-06-21",
           "localizedDescription": "Tweaks: TinyDecisions, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tiny Decisions v26.5 Subscription Unlocked blatant Patched.ipa",
-          "size": 76280200
+          "downloadURL": "https://telos.ftp.sh/ipas/Tiny_Decisions_Spin_Wheel_v26_6_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 77894143
         }
       ],
       "category": "entertainment"
@@ -78572,7 +78572,7 @@
     {
       "title": "⚙️ Telos Update 6.21",
       "identifier": "telos-update-2026-06-21",
-      "caption": "18 Apps Updated:\n• 8 Photo & Video\n• 6 Social Networking\n• 4 Education",
+      "caption": "26 Apps Updated:\n• 8 Photo & Video\n• 6 Social Networking\n• 4 Education\n• 4 Entertainment\n• 4 Books",
       "date": "2026-06-21",
       "tintColor": "#02433b",
       "notify": true,
