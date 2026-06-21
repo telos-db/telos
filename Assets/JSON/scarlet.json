@@ -15576,18 +15576,17 @@
       "bundleIdentifier": "com.mobilefootie.fotmobpro",
       "developerName": "FotMob AS",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nFotMob - Soccer Live Scores\n\n---\nJoin over 20 million fans who trust FotMob to keep them informed.\n\nFotMob gives you all the live scores, stats, and news you need to keep up with football from anywhere in the world. With personalized alerts and lightning fast match updates, you'll always stay informed about your favorite teams and players. Our mission is simple: We're changing the way the world follows football.\n\nKey features include:\n• Live scores with instant goal notifications\n• Personalized news and alerts for your favorite",
-      "version": "1230.0",
-      "versionDate": "2026-06-14T13:50:17-00:00",
-      "versionDescription": "Build 16212 from @riftysIPAlibrary",
-      "size": 63674102,
+      "version": "1238.0",
+      "versionDate": "2026-06-21T22:31:08-00:00",
+      "versionDescription": "Build 16421 from @riftysIPAlibrary",
+      "size": 71096149,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/0d/65/4a0d65ed-68d8-2af3-735b-24c1f0b1bee9/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/FotMob - Soccer Live Scores-v1230.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/FotMob - Soccer Live Scores-v1238.0-riftysipas.ipa",
       "minOSVersion": "17.6",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -15595,7 +15594,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "FotMob - Soccer Live Scores-v1230.0-riftysipas.ipa"
+        "originalFile": "FotMob - Soccer Live Scores-v1238.0-riftysipas.ipa"
       }
     },
     {
@@ -40248,6 +40247,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "com.effect.streisand-1.6.71-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "Stremio",
+      "bundleIdentifier": "com.stremio.pal",
+      "developerName": "Jamie Harper",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nStermio is a modern video local that makes it easy to watch your content in one place. Import videos from the Files app or Photos, watch from links, and enjoy smooth playback in a clean, premium interface.\n\nBuilt for everyday viewing, Stermio helps you organize your library, quickly reopen recent videos, and keep watching with intuitive controls.",
+      "version": "2.0.1",
+      "versionDate": "2026-06-21T22:28:12-00:00",
+      "versionDescription": "Build 16 from @binnichtaktivsipas",
+      "size": 77732193,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/db/ac/a6dbac32-66d9-20f8-2cf2-a98f72d680bd/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.1.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "stremio_iOS 2.0.1.ipa"
       }
     },
     {
