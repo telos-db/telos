@@ -14252,12 +14252,12 @@
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Fitia, blatantsPatch\n\nFitia: Calorie Counter & Diet\n\n---\nTrusted by 10+ million users and rated 4.9/5.0 stars\n\n • The fastest & most accurate calorie counter\n • Track calories by photo, voice, or typing (like notes)\n • Personalized meal plans for weight loss or muscle gain\n • AI coach that adapts to your progress\n • Grocery list, recipes & smart food logging\n • Weight, body fat & measurement tracking\n • Intermittent fasting tracker\n • Syncs with Apple Health and third party apps\n\nWHY FITIA WORKS FOR WEIGHT LOSS OR MUSCLE GAIN\n• Fitia creates a plan th",
-      "version": "23.1.13",
-      "versionDate": "2026-06-19T17:56:02-00:00",
-      "versionDescription": "Build 1017 from @blatants",
-      "size": 105112630,
+      "version": "23.1.14",
+      "versionDate": "2026-06-21T17:42:53-00:00",
+      "versionDescription": "Build 1021 from @blatants",
+      "size": 125068619,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/18/c2/8e18c267-859b-7791-b7ca-d2fbc39d887e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_13_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_14_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "16",
       "supportedPlatforms": [
         "iOS"
@@ -14269,7 +14269,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Fitia_Calorie_Counter_&_Diet_v23_1_13_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Fitia_Calorie_Counter_&_Diet_v23_1_14_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -42126,6 +42126,32 @@
       }
     },
     {
+      "name": "Termius",
+      "bundleIdentifier": "com.crystalnix.ServerAuditor",
+      "developerName": "Termius Corporation",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nTermius is an SSH client and terminal, as it should be. Connect with one tap from any mobile and desktop device—no re-entering IP addresses, ports, and passwords.\n\nWith a free Termius Starter plan, you can:\n\n· Connect from your mobile and desktop device with SSH, Mosh, Telnet, Port Forwarding, and SFTP.\n· Get a desktop-grade terminal experience with a virtual keyboard covering all the special keys required, or connect your Bluetooth keyboard.\n· Use gestures or shake the device while in the termi",
+      "version": "7.3.5",
+      "versionDate": "2026-06-21T17:38:27-00:00",
+      "versionDescription": "Build 3 from @thescholarslounge",
+      "size": 129725481,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/8a/3e/e48a3ede-9ee2-deb4-32ac-b763a2ed7f05/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.crystalnix.ServerAuditor-7.3.5-eeveedecrypter.ipa",
+      "minOSVersion": "17.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.crystalnix.ServerAuditor-7.3.5-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "Terraria",
       "bundleIdentifier": "com.505games.terraria",
       "developerName": "505 Games (US), Inc.",
@@ -42280,6 +42306,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Textastic Pro 10.9.4.ipa"
+      }
+    },
+    {
+      "name": "TextNow",
+      "bundleIdentifier": "com.tinginteractive.usms",
+      "developerName": "TextNow, Inc.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nCall and text for free with TextNow, the free phone service with over 100 million users. Get nationwide coverage with unlimited talk and text, plus 5G data—starting at $0/month. Staying connected doesn’t have to be expensive.\n\nWhat makes us different?\n\n• No phone bill, no fixed contracts, and no hidden fees\n• Get a free local phone number or keep your own for a private second line or business use.\n• Flexible data options: daily, weekly, or monthly unlimited data access.\n• Low-cost international",
+      "version": "26.24.0",
+      "versionDate": "2026-06-21T17:35:31-00:00",
+      "versionDescription": "Build 5 from @thescholarslounge",
+      "size": 239750424,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/26/2a/a3262a80-63a3-83b6-e1c2-e5af9efa8041/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.tinginteractive.usms-26.24.0-eeveedecrypter.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.tinginteractive.usms-26.24.0-eeveedecrypter.ipa"
       }
     },
     {
