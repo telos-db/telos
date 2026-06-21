@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.genau.MoneyCircle",
+    "com.google.gemini",
     "com.clarity.cozycouples",
     "com.busuu.english.app",
-    "com.ulisesolave.Fitia",
-    "com.crystalnix.ServerAuditor",
-    "com.tinginteractive.usms"
+    "com.ulisesolave.Fitia"
   ],
   "apps": [
     {
@@ -25793,15 +25793,15 @@
       "name": "Gemini",
       "bundleIdentifier": "com.google.gemini",
       "developerName": "Google",
-      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.2026.1710205",
-      "versionDate": "2026-06-11",
-      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, SyntheticHeart, sideloadFixerLol\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]GM_1.2026.1710205_SH.ipa",
-      "localizedDescription": "Build of Gemini ✴️",
+      "subtitle": "Gemini for iOS",
+      "version": "1.2026.2370502",
+      "versionDate": "2026-06-21",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.google.gemini-1.2026.2370502-eeveedecrypter.ipa",
+      "localizedDescription": "Gemini for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/c6/a3/a9c6a3d3-da87-9c4a-5264-9ca6e9a57e63/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 103407685,
+      "size": 113860597,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -25821,11 +25821,11 @@
       },
       "versions": [
         {
-          "version": "1.2026.1710205",
-          "date": "2026-06-11",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, SyntheticHeart, sideloadFixerLol\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]GM_1.2026.1710205_SH.ipa",
-          "size": 103407685
+          "version": "1.2026.2370502",
+          "date": "2026-06-21",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.google.gemini-1.2026.2370502-eeveedecrypter.ipa",
+          "size": 113860597
         }
       ],
       "category": "productivity"
@@ -41205,14 +41205,14 @@
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "Genau Factory",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "3.3.4",
-      "versionDate": "2026-06-20",
+      "version": "3.3.5",
+      "versionDate": "2026-06-21",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.5-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nMoneyCircle: Spending,Expense",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/2a/64/fa2a64b3-0a6b-6fda-3943-7353c92daf49/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13973513,
+      "size": 13970504,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -41228,11 +41228,11 @@
       },
       "versions": [
         {
-          "version": "3.3.4",
-          "date": "2026-06-20",
+          "version": "3.3.5",
+          "date": "2026-06-21",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.4-riftysipas.ipa",
-          "size": 13973513
+          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.5-riftysipas.ipa",
+          "size": 13970504
         }
       ],
       "category": "utilities"
@@ -78659,7 +78659,7 @@
     {
       "title": "⚙️ Telos Update 6.21",
       "identifier": "telos-update-2026-06-21",
-      "caption": "36 Apps Updated:\n• 8 Photo & Video\n• 8 Education\n• 8 Social Networking\n• 4 Lifestyle\n• 2 Health & Fitness\n• 2 Entertainment\n• 2 Developer Tools\n• 2 Books",
+      "caption": "40 Apps Updated:\n• 8 Photo & Video\n• 8 Social Networking\n• 6 Education\n• 4 Productivity\n• 4 Utilities\n• 2 Health & Fitness\n• 2 Entertainment\n• 2 Developer Tools\n• 2 Lifestyle\n• 2 Books",
       "date": "2026-06-21",
       "tintColor": "#02433b",
       "notify": true,
