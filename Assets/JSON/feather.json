@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.mobilefootie.fotmobpro",
+    "com.stremio.pal",
     "com.genau.MoneyCircle",
     "com.google.gemini",
-    "com.clarity.cozycouples",
-    "com.busuu.english.app",
-    "com.ulisesolave.Fitia"
+    "com.clarity.cozycouples"
   ],
   "apps": [
     {
@@ -24792,14 +24792,14 @@
       "bundleIdentifier": "com.mobilefootie.fotmobpro",
       "developerName": "FotMob AS",
       "subtitle": "Tweaked with autoRevenuecat, fixipa1",
-      "version": "1230.0",
-      "versionDate": "2026-06-14",
+      "version": "1238.0",
+      "versionDate": "2026-06-21",
       "versionDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/FotMob - Soccer Live Scores-v1230.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/FotMob - Soccer Live Scores-v1238.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nFotMob - Soccer Live Scores\n\n---\nJoin over 20 million fans who trust FotMob to keep them informed.\n\nFotMob gives you all the live scores, stats, and news you need to keep up with football from anywhere in the world. With personalized alerts and lightning fast match updates, you'll always stay informed about your favorite teams and players. Our mission is simple: We're changing the way the world follows football.\n\nKey features include:\n• Live scores with instant goal notifications\n• Personalized news and alerts for your favorite",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/0d/65/4a0d65ed-68d8-2af3-735b-24c1f0b1bee9/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 63674102,
+      "size": 71096149,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -24824,11 +24824,11 @@
       },
       "versions": [
         {
-          "version": "1230.0",
-          "date": "2026-06-14",
+          "version": "1238.0",
+          "date": "2026-06-21",
           "localizedDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/FotMob - Soccer Live Scores-v1230.0-riftysipas.ipa",
-          "size": 63674102
+          "downloadURL": "https://telos.ftp.sh/ipas/FotMob - Soccer Live Scores-v1238.0-riftysipas.ipa",
+          "size": 71096149
         }
       ],
       "category": "sports"
@@ -64292,6 +64292,35 @@
           "localizedDescription": "Source: @thescholarslounge",
           "downloadURL": "https://telos.ftp.sh/ipas/com.effect.streisand-1.6.71-eeveedecrypter.ipa",
           "size": 61968420
+        }
+      ],
+      "category": "utilities"
+    },
+    {
+      "name": "Stremio",
+      "bundleIdentifier": "com.stremio.pal",
+      "developerName": "Jamie Harper",
+      "subtitle": "Stremio for iOS",
+      "version": "2.0.1",
+      "versionDate": "2026-06-21",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.1.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nStermio is a modern video local that makes it easy to watch your content in one place. Import videos from the Files app or Photos, watch from links, and enjoy smooth playback in a clean, premium interface.\n\nBuilt for everyday viewing, Stermio helps you organize your library, quickly reopen recent videos, and keep watching with intuitive controls.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/db/ac/a6dbac32-66d9-20f8-2cf2-a98f72d680bd/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 77732193,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.0.1",
+          "date": "2026-06-21",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.1.ipa",
+          "size": 77732193
         }
       ],
       "category": "utilities"
