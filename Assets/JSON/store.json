@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.mobilefootie.fotmobpro",
+    "com.stremio.pal",
     "com.genau.MoneyCircle",
     "com.google.gemini",
-    "com.clarity.cozycouples",
-    "com.busuu.english.app",
-    "com.ulisesolave.Fitia"
+    "com.clarity.cozycouples"
   ],
   "apps": [
     {
@@ -24524,15 +24524,15 @@
       "name": "FotMob",
       "bundleIdentifier": "com.mobilefootie.fotmobpro",
       "developerName": "FotMob AS",
-      "subtitle": "Tweaked with RevenueCatFix26, blatantsPatch",
-      "version": "1237.0",
-      "versionDate": "2026-06-11",
-      "versionDescription": "Tweaks: RevenueCatFix26, blatantsPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/FotMob+ 1237.0.ipa",
-      "localizedDescription": "FotMob - Soccer Live Scores",
+      "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
+      "version": "1238.0",
+      "versionDate": "2026-06-21",
+      "versionDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/FotMob - Soccer Live Scores-v1238.0-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓** | *Bundle Id:** Com.Mobilefootie.Fotmobpro\n\nFotMob - Soccer Live Scores",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/0d/65/4a0d65ed-68d8-2af3-735b-24c1f0b1bee9/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 59145907,
+      "size": 71096149,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -24557,11 +24557,11 @@
       },
       "versions": [
         {
-          "version": "1237.0",
-          "date": "2026-06-11",
-          "localizedDescription": "Tweaks: RevenueCatFix26, blatantsPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/FotMob+ 1237.0.ipa",
-          "size": 59145907
+          "version": "1238.0",
+          "date": "2026-06-21",
+          "localizedDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/FotMob - Soccer Live Scores-v1238.0-riftysipas.ipa",
+          "size": 71096149
         }
       ],
       "category": "sports"
@@ -63720,6 +63720,35 @@
     },
     {
       "name": "Stremio",
+      "bundleIdentifier": "com.stremio.pal",
+      "developerName": "Jamie Harper",
+      "subtitle": "Stremio for iOS",
+      "version": "2.0.1",
+      "versionDate": "2026-06-21",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.1.ipa",
+      "localizedDescription": "Stremio for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/db/ac/a6dbac32-66d9-20f8-2cf2-a98f72d680bd/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 77732193,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.0.1",
+          "date": "2026-06-21",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.1.ipa",
+          "size": 77732193
+        }
+      ],
+      "category": "utilities"
+    },
+    {
+      "name": "Stremio",
       "bundleIdentifier": "com.stremio.one",
       "developerName": "Muhammad Hamza Sajjad",
       "subtitle": "Stremio for iOS",
@@ -78659,7 +78688,7 @@
     {
       "title": "⚙️ Telos Update 6.21",
       "identifier": "telos-update-2026-06-21",
-      "caption": "36 Apps Updated:\n• 8 Photo & Video\n• 8 Social Networking\n• 6 Education\n• 2 Health & Fitness\n• 2 Entertainment\n• 2 Developer Tools\n• 2 Lifestyle\n• 2 Productivity\n• 2 Books\n• 2 Utilities",
+      "caption": "44 Apps Updated:\n• 8 Photo & Video\n• 8 Social Networking\n• 6 Education\n• 6 Utilities\n• 4 Sports\n• 2 Health & Fitness\n• 2 Entertainment\n• 2 Developer Tools\n• 2 Lifestyle\n• 2 Productivity\n• 2 Books",
       "date": "2026-06-21",
       "tintColor": "#02433b",
       "notify": true,
