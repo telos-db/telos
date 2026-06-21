@@ -7,8 +7,8 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.stippl.stippl",
     "com.google.ios.youtube",
+    "com.stippl.stippl",
     "com.soundscape.music",
     "com.frontrow.vlog",
     "com.genau.MoneyCircle"
@@ -76397,15 +76397,15 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "subtitle": "Cracked",
+      "subtitle": "Tweaked with CydiaSubstrate, YTCore",
       "version": "21.24.3",
-      "versionDate": "2026-06-20",
-      "versionDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/YTKillerPlus_21.24.3_5.7.ipa",
-      "localizedDescription": "Cracked\n\nYouTube 21.24.3",
+      "versionDate": "2026-06-21",
+      "versionDescription": "Tweaks: CydiaSubstrate, YTCore, YTKPlus\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/YouTube_21.24.4_ytkp5.7cracked.ipa",
+      "localizedDescription": "YouTube for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 132404930,
+      "size": 131258150,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -76442,10 +76442,10 @@
       "versions": [
         {
           "version": "21.24.3",
-          "date": "2026-06-20",
-          "localizedDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/YTKillerPlus_21.24.3_5.7.ipa",
-          "size": 132404930
+          "date": "2026-06-21",
+          "localizedDescription": "Tweaks: CydiaSubstrate, YTCore, YTKPlus\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/YouTube_21.24.4_ytkp5.7cracked.ipa",
+          "size": 131258150
         }
       ],
       "category": "photo-&-video"
@@ -78515,11 +78515,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 6.21",
+      "identifier": "telos-update-2026-06-21",
+      "caption": "4 Apps Updated:\n• 4 Photo & Video",
+      "date": "2026-06-21",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "com.google.ios.youtube"
+    },
+    {
       "title": "⚙️ Telos Update 6.20",
       "identifier": "telos-update-2026-06-20",
       "caption": "36 Apps Updated:\n• 8 Health & Fitness\n• 6 Games\n• 6 Photo & Video\n• 4 Education\n• 2 Music\n• 2 Weather\n• 2 Medical\n• 2 Lifestyle\n• 2 Utilities\n• 2 Travel",
       "date": "2026-06-20",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.offlinemusic"
     },
@@ -78528,7 +78537,7 @@
       "identifier": "telos-update-2026-06-19",
       "caption": "190 Apps Updated:\n• 38 Health & Fitness\n• 36 Photo & Video\n• 22 Lifestyle\n• 18 Games\n• 10 Productivity\n• 10 Utilities\n• 10 Education\n• 8 Navigation\n• 4 Food & Drink\n• 4 Music\n• 4 Weather\n• 4 News\n• 4 Business\n• 4 Sports\n• 4 Entertainment\n• 2 Social Networking\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools\n• 2 Books",
       "date": "2026-06-19",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "boomer.Smart-Video"
     },
@@ -78537,7 +78546,7 @@
       "identifier": "telos-update-2026-06-18",
       "caption": "56 Apps Updated:\n• 18 Photo & Video\n• 8 Health & Fitness\n• 4 Lifestyle\n• 4 Travel\n• 4 Education\n• 4 Social Networking\n• 2 Finance\n• 2 Graphics & Design\n• 2 Music\n• 2 Productivity\n• 2 Shopping\n• 2 News\n• 2 Weather",
       "date": "2026-06-18",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.iPwners.Plonkan"
     },
@@ -78546,7 +78555,7 @@
       "identifier": "telos-update-2026-06-17",
       "caption": "74 Apps Updated:\n• 20 Photo & Video\n• 16 Health & Fitness\n• 8 Education\n• 6 Utilities\n• 4 Navigation\n• 4 Business\n• 4 Weather\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Lifestyle\n• 2 Medical\n• 2 Reference",
       "date": "2026-06-17",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.picsart.studio"
     },
@@ -78555,7 +78564,7 @@
       "identifier": "telos-update-2026-06-16",
       "caption": "254 Apps Updated:\n• 80 Photo & Video\n• 31 Health & Fitness\n• 21 Music\n• 19 Productivity\n• 17 Utilities\n• 17 Games\n• 13 Entertainment\n• 11 Education\n• 10 News\n• 7 Lifestyle\n• 6 Navigation\n• 6 Reference\n• 4 Sports\n• 4 Social Networking\n• 2 Food & Drink\n• 2 Weather\n• 2 Medical\n• 2 Graphics & Design",
       "date": "2026-06-16",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.genau.MoneyCircle"
     },
@@ -78564,7 +78573,7 @@
       "identifier": "telos-update-2026-06-15",
       "caption": "845 Apps Updated:\n• 169 Photo & Video\n• 160 News\n• 94 Social Networking\n• 62 Utilities\n• 60 Games\n• 50 Productivity\n• 50 Music\n• 38 Business\n• 24 Entertainment\n• 20 Reference\n• 18 Lifestyle\n• 14 Education\n• 12 Health & Fitness\n• 12 Sports\n• 10 Finance\n• 10 Shopping\n• 10 Food & Drink\n• 8 Travel\n• 6 Navigation\n• 6 Developer Tools\n• 4 Graphics & Design\n• 2 Weather\n• 2 Medical\n• 2 Books\n• 2 Other",
       "date": "2026-06-15",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.condor.digital.Tide-Over"
     },
@@ -78573,7 +78582,7 @@
       "identifier": "telos-update-2026-06-14",
       "caption": "401 Apps Updated:\n• 79 Health & Fitness\n• 76 Photo & Video\n• 40 Games\n• 39 Education\n• 32 Productivity\n• 20 Lifestyle\n• 18 Utilities\n• 15 Finance\n• 12 Music\n• 11 Sports\n• 9 Food & Drink\n• 9 Medical\n• 8 Entertainment\n• 7 Navigation\n• 7 Social Networking\n• 6 Weather\n• 5 Graphics & Design\n• 3 Business\n• 2 Reference\n• 2 News\n• 1 Travel",
       "date": "2026-06-14",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.SixThree.POV"
     },
@@ -78582,7 +78591,7 @@
       "identifier": "telos-update-2026-06-13",
       "caption": "360 Apps Updated:\n• 85 Health & Fitness\n• 46 Games\n• 40 Lifestyle\n• 35 Photo & Video\n• 34 Productivity\n• 24 Education\n• 13 Utilities\n• 12 Food & Drink\n• 11 Sports\n• 11 Business\n• 11 Finance\n• 9 Music\n• 8 Navigation\n• 6 Medical\n• 6 Weather\n• 3 News\n• 2 Reference\n• 2 Graphics & Design\n• 1 Entertainment\n• 1 Travel",
       "date": "2026-06-13",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.pungme.combyne"
     },
@@ -78591,18 +78600,9 @@
       "identifier": "telos-update-2026-06-12",
       "caption": "414 Apps Updated:\n• 85 Health & Fitness\n• 55 Games\n• 52 Photo & Video\n• 39 Lifestyle\n• 39 Productivity\n• 26 Utilities\n• 25 Education\n• 19 Music\n• 11 Medical\n• 10 Food & Drink\n• 10 Finance\n• 8 Weather\n• 8 Sports\n• 6 Graphics & Design\n• 5 Business\n• 4 Navigation\n• 3 Developer Tools\n• 3 Reference\n• 2 Travel\n• 2 Entertainment\n• 1 Books\n• 1 News",
       "date": "2026-06-12",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "com.northstar.gratitude"
-    },
-    {
-      "title": "⚙️ Telos Update 6.11",
-      "identifier": "telos-update-2026-06-11",
-      "caption": "605 Apps Updated:\n• 154 Photo & Video\n• 97 Health & Fitness\n• 57 Games\n• 47 Productivity\n• 36 Music\n• 27 Entertainment\n• 26 Graphics & Design\n• 26 Lifestyle\n• 26 Education\n• 24 Social Networking\n• 19 Utilities\n• 8 Navigation\n• 8 Developer Tools\n• 7 Books\n• 7 Sports\n• 6 Travel\n• 6 Weather\n• 6 Finance\n• 5 Reference\n• 5 Food & Drink\n• 4 Medical\n• 3 Business\n• 1 News",
-      "date": "2026-06-11",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.mwm.stems"
+      "appID": "com.northstar.gratitude"
     }
   ]
 }
