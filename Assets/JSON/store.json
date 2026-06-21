@@ -7,8 +7,8 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.mobilefootie.fotmobpro",
     "com.stremio.pal",
+    "com.mobilefootie.fotmobpro",
     "com.genau.MoneyCircle",
     "com.google.gemini",
     "com.clarity.cozycouples"
@@ -63723,14 +63723,14 @@
       "bundleIdentifier": "com.stremio.pal",
       "developerName": "Jamie Harper",
       "subtitle": "Stremio for iOS",
-      "version": "2.0.1",
+      "version": "2.0.2",
       "versionDate": "2026-06-21",
-      "versionDescription": "Source: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.1.ipa",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/stremio_tvOS 2.0.2.ipa",
       "localizedDescription": "Stremio for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/db/ac/a6dbac32-66d9-20f8-2cf2-a98f72d680bd/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 77732193,
+      "size": 73561363,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -63738,11 +63738,11 @@
       },
       "versions": [
         {
-          "version": "2.0.1",
+          "version": "2.0.2",
           "date": "2026-06-21",
-          "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.1.ipa",
-          "size": 77732193
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/stremio_tvOS 2.0.2.ipa",
+          "size": 73561363
         }
       ],
       "category": "utilities"
@@ -78688,7 +78688,7 @@
     {
       "title": "⚙️ Telos Update 6.21",
       "identifier": "telos-update-2026-06-21",
-      "caption": "44 Apps Updated:\n• 8 Photo & Video\n• 8 Social Networking\n• 6 Education\n• 6 Utilities\n• 4 Sports\n• 2 Health & Fitness\n• 2 Entertainment\n• 2 Developer Tools\n• 2 Lifestyle\n• 2 Productivity\n• 2 Books",
+      "caption": "52 Apps Updated:\n• 16 Utilities\n• 8 Photo & Video\n• 8 Social Networking\n• 6 Education\n• 2 Health & Fitness\n• 2 Entertainment\n• 2 Developer Tools\n• 2 Lifestyle\n• 2 Productivity\n• 2 Books\n• 2 Sports",
       "date": "2026-06-21",
       "tintColor": "#02433b",
       "notify": true,
