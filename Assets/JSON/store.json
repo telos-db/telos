@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.AppChief.ArabicArt",
     "com.google.ios.youtube",
     "com.stippl.stippl",
     "com.soundscape.music",
-    "com.frontrow.vlog",
-    "com.genau.MoneyCircle"
+    "com.frontrow.vlog"
   ],
   "apps": [
     {
@@ -77370,14 +77370,14 @@
       "bundleIdentifier": "com.AppChief.ArabicArt",
       "developerName": "AppChief Ltd",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "9.8.5",
-      "versionDate": "2026-06-14",
+      "version": "9.9",
+      "versionDate": "2026-06-21",
       "versionDescription": "Tweaks: Andalusi, CachefixPatch, CydiaSubstrate, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Andalusi_AI_Design_Photo_Video_v9_8_5_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Andalusi_AI_Design_Photo_Video_v9_9_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nAndalusi AI Design Photo Video",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/48/6c/86486c6a-cc47-1c2e-c0f8-9a33cc7a0fbc/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 71910080,
+      "size": 67648306,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/b2/60/0eb26066-aa57-c831-69ea-5ef765f27619/b560e5e4-5aaa-4782-b7b8-1edaa0f9b312_1242x2208_EN_Cover.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/97/24/48972463-18be-9dc4-d95f-93448d820666/b61e0a9a-9920-4bcc-8aaa-8c5b26b78d78_1242x2208_EN_F3.png/392x696bb.png",
@@ -77405,11 +77405,11 @@
       },
       "versions": [
         {
-          "version": "9.8.5",
-          "date": "2026-06-14",
+          "version": "9.9",
+          "date": "2026-06-21",
           "localizedDescription": "Tweaks: Andalusi, CachefixPatch, CydiaSubstrate, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Andalusi_AI_Design_Photo_Video_v9_8_5_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 71910080
+          "downloadURL": "https://telos.ftp.sh/ipas/Andalusi_AI_Design_Photo_Video_v9_9_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 67648306
         }
       ],
       "category": "photo-&-video"
@@ -78517,11 +78517,11 @@
     {
       "title": "⚙️ Telos Update 6.21",
       "identifier": "telos-update-2026-06-21",
-      "caption": "6 Apps Updated:\n• 6 Photo & Video",
+      "caption": "8 Apps Updated:\n• 8 Photo & Video",
       "date": "2026-06-21",
       "tintColor": "#02433b",
       "notify": true,
-      "appID": "com.google.ios.youtube"
+      "appID": "com.AppChief.ArabicArt"
     },
     {
       "title": "⚙️ Telos Update 6.20",
