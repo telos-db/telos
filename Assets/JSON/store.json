@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.joytunes.asla",
+    "com.lightricks.Enlight-Editor",
     "net.whatsapp.WhatsApp",
     "com.AppChief.ArabicArt",
-    "com.google.ios.youtube",
-    "com.stippl.stippl",
-    "com.soundscape.music"
+    "com.google.ios.youtube"
   ],
   "apps": [
     {
@@ -48804,14 +48804,14 @@
       "bundleIdentifier": "com.lightricks.Enlight-Editor",
       "developerName": "Lightricks Ltd.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "2.121",
-      "versionDate": "2026-06-08",
+      "version": "2.122",
+      "versionDate": "2026-06-21",
       "versionDescription": "Tweaks: Photoleap, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Photoleap_AI_Photo_Generator_v2_121_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Photoleap_AI_Photo_Generator_v2_122_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPhotoleap: AI Photo Generator",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/f4/ed/35f4edff-a34c-39ff-2aa7-a67db68a4303/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 343629673,
+      "size": 401043841,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/b1/81/c4b18124-c546-5b3d-b757-f3b8bdcfbd0c/7ef27c13-8c09-461e-8bf8-3aadccc014dc_5.5_U0027_Screen_01_v2.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/fc/eb/9cfcebee-337f-5d08-af84-83c58e0f41ff/69173acb-6bb8-4d4e-86e9-080444fec911_PL-240328-ASO-5.5-02.jpg/392x696bb.jpg",
@@ -48839,11 +48839,11 @@
       },
       "versions": [
         {
-          "version": "2.121",
-          "date": "2026-06-06",
+          "version": "2.122",
+          "date": "2026-06-21",
           "localizedDescription": "Tweaks: Photoleap, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Photoleap_AI_Photo_Generator_v2_121_Subscription_Unlocked_blatant.ipa",
-          "size": 343629673
+          "downloadURL": "https://telos.ftp.sh/ipas/Photoleap_AI_Photo_Generator_v2_122_Subscription_Unlocked_blatant.ipa",
+          "size": 401043841
         }
       ],
       "category": "photo-&-video"
@@ -58400,14 +58400,14 @@
       "bundleIdentifier": "com.joytunes.asla",
       "developerName": "Simply Ltd",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "9.10.73",
-      "versionDate": "2026-06-17",
+      "version": "9.10.74",
+      "versionDate": "2026-06-21",
       "versionDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Piano_Learn_Piano_Fast_v9_10_73_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Piano_Learn_Piano_Fast_v9_10_74_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSimply Piano: Learn Piano Fast",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/6f/3c/146f3c0c-b2f4-c1e0-12de-f83d3dcd6517/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 166093356,
+      "size": 167409260,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/df/82/08df8229-bd28-58e7-798d-ef8b9cf7c494/01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/d1/7c/44d17cee-2d5b-02bd-afc7-9375fed307e0/2.jpg/392x696bb.jpg",
@@ -58434,11 +58434,11 @@
       },
       "versions": [
         {
-          "version": "9.10.73",
-          "date": "2026-06-17",
+          "version": "9.10.74",
+          "date": "2026-06-21",
           "localizedDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Piano_Learn_Piano_Fast_v9_10_73_Subscription_Unlocked_blatant.ipa",
-          "size": 166093356
+          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Piano_Learn_Piano_Fast_v9_10_74_Subscription_Unlocked_blatant.ipa",
+          "size": 167409260
         }
       ],
       "category": "education"
@@ -78529,7 +78529,7 @@
     {
       "title": "⚙️ Telos Update 6.21",
       "identifier": "telos-update-2026-06-21",
-      "caption": "8 Apps Updated:\n• 6 Photo & Video\n• 2 Social Networking",
+      "caption": "16 Apps Updated:\n• 10 Photo & Video\n• 4 Education\n• 2 Social Networking",
       "date": "2026-06-21",
       "tintColor": "#02433b",
       "notify": true,
