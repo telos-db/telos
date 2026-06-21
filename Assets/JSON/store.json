@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.joytunes.Draw",
+    "com.navercorp.prism",
     "com.letterboxd.LetterboxdApp",
     "com.joytunes.asla",
-    "com.lightricks.Enlight-Editor",
-    "net.whatsapp.WhatsApp",
-    "com.AppChief.ArabicArt"
+    "com.lightricks.Enlight-Editor"
   ],
   "apps": [
     {
@@ -51815,6 +51815,49 @@
       "category": "utilities"
     },
     {
+      "name": "PRISM Live",
+      "bundleIdentifier": "com.navercorp.prism",
+      "developerName": "NAVER Corp.",
+      "subtitle": "PRISM Live for iOS",
+      "version": "3.11.4",
+      "versionDate": "2026-06-21",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.navercorp.prism-3.11.4-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/33/84/8433849b-5e3b-6472-da21-8a7b1e3a0d3a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 157583686,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/f8/7a/63f87af3-bfc0-9bde-37e6-aac223692969/1ee82c00-d3d4-4425-88f7-056382579926_Prism_iOS_5.5_Display_EN_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/4b/f5/bb4bf565-7177-40c2-9f48-181eea9d4853/Prism_iOS_5.5_Display_eng_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/d3/20/77d320ee-0d14-140d-cb5e-48a287ad59b7/77e7b7a2-3029-48f2-b047-0266636f2d34_Prism_iOS_5.5_Display_EN_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/11/0c/00110c2d-edea-2e0e-11ca-4abf11cd50e2/fdd9369e-8611-4423-bf8e-f6321a5761a2_Prism_iOS_5.5_Display_EN_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/41/e9/0e41e9e9-7fe0-5286-44a2-007c67a5bde1/7cd80453-aa7e-467c-b1fd-923e748996f2_Prism_iOS_5.5_Display_EN_5.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "App wants access to your media library.",
+          "NSCameraUsageDescription": "App wants access to your camera.",
+          "NSMicrophoneUsageDescription": "App wants access to your microphone.",
+          "NSAppleMusicUsageDescription": "App wants media access (Possibly for import media).",
+          "NSLocalNetworkUsageDescription": "App wants Local Network Access (Device Discovery).",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you.",
+          "NSPhotoLibraryAddUsageDescription": "App wants access to add photos to your library."
+        }
+      },
+      "versions": [
+        {
+          "version": "3.11.4",
+          "date": "2026-06-05",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.navercorp.prism-3.11.4-eeveedecrypter.ipa",
+          "size": 157583686
+        }
+      ],
+      "category": "social-networking"
+    },
+    {
       "name": "Privacy Redirect",
       "bundleIdentifier": "com.smmr-software.Privacy-Redirect-for-Safari",
       "developerName": "FIGBERT LLC",
@@ -58311,14 +58354,14 @@
       "bundleIdentifier": "com.joytunes.Draw",
       "developerName": "Simply Ltd",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "1.6.34",
-      "versionDate": "2026-06-17",
+      "version": "1.6.35",
+      "versionDate": "2026-06-21",
       "versionDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_34_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_35_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSimply Draw: Learn to Draw",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/1c/b4/1f1cb47a-7c46-e5c0-5d41-01e445152aca/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 131486074,
+      "size": 135353515,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -58337,11 +58380,11 @@
       },
       "versions": [
         {
-          "version": "1.6.34",
-          "date": "2026-06-17",
+          "version": "1.6.35",
+          "date": "2026-06-21",
           "localizedDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_34_Subscription_Unlocked_blatant.ipa",
-          "size": 131486074
+          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_35_Subscription_Unlocked_blatant.ipa",
+          "size": 135353515
         }
       ],
       "category": "education"
@@ -78529,7 +78572,7 @@
     {
       "title": "⚙️ Telos Update 6.21",
       "identifier": "telos-update-2026-06-21",
-      "caption": "14 Apps Updated:\n• 8 Photo & Video\n• 4 Social Networking\n• 2 Education",
+      "caption": "22 Apps Updated:\n• 8 Photo & Video\n• 8 Social Networking\n• 6 Education",
       "date": "2026-06-21",
       "tintColor": "#02433b",
       "notify": true,
