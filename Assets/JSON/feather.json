@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.genau.MoneyCircle",
+    "com.google.gemini",
     "com.clarity.cozycouples",
     "com.busuu.english.app",
-    "com.ulisesolave.Fitia",
-    "com.crystalnix.ServerAuditor",
-    "com.tinginteractive.usms"
+    "com.ulisesolave.Fitia"
   ],
   "apps": [
     {
@@ -26060,14 +26060,14 @@
       "bundleIdentifier": "com.google.gemini",
       "developerName": "Google",
       "subtitle": "Gemini for iOS",
-      "version": "1.2026.1570000",
-      "versionDate": "2026-06-15",
+      "version": "1.2026.2370502",
+      "versionDate": "2026-06-21",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.google.gemini-1.2026.1570000-eeveedecrypter.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.google.gemini-1.2026.2370502-eeveedecrypter.ipa",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nFrom your morning commute to late-night deep dives, Google Gemini is your personal, proactive and powerful AI assistant.\n\nWHY USERS LOVE GEMINI\n• Our latest models, Gemini 3.5 Flash and Gemini Omni, unlock a new world of productivity and creativity.\n• Gemini Spark 24/7 personal AI agent proactively manages tasks and helps you navigate your digital life, all under your direction.\n• Daily Brief agent gives you a personalized morning brief and organizes exactly what you need to know to start your d",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/c6/a3/a9c6a3d3-da87-9c4a-5264-9ca6e9a57e63/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 99679507,
+      "size": 113860597,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -26081,16 +26081,17 @@
           "NSCameraUsageDescription": "To share photos and videos with Gemini, give access to the camera",
           "NSMicrophoneUsageDescription": "This lets you talk to Gemini so you can get things done using your voice",
           "NSLocationWhenInUseUsageDescription": "Google uses your location to improve Gemini's responses and other Google services.",
-          "NSSpeechRecognitionUsageDescription": "Lets you use your voice with this app"
+          "NSSpeechRecognitionUsageDescription": "Lets you use your voice with this app",
+          "NSPhotoLibraryAddUsageDescription": "Save images captured from your Gemini camera to your Photos"
         }
       },
       "versions": [
         {
-          "version": "1.2026.1570000",
-          "date": "2026-06-15",
+          "version": "1.2026.2370502",
+          "date": "2026-06-21",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.google.gemini-1.2026.1570000-eeveedecrypter.ipa",
-          "size": 99679507
+          "downloadURL": "https://telos.ftp.sh/ipas/com.google.gemini-1.2026.2370502-eeveedecrypter.ipa",
+          "size": 113860597
         }
       ],
       "category": "productivity"
@@ -41630,14 +41631,14 @@
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "Genau Factory",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.3.4",
-      "versionDate": "2026-06-20",
+      "version": "3.3.5",
+      "versionDate": "2026-06-21",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.5-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMoneyCircle: Spending,Expense\n\n---\nTrack your spending with clarity and control — meet MoneyCircle.\n\nMoneyCircle makes it easy to understand where your money goes.\nWith clean design, smart categorization, and intuitive insights,\nyou’ll gain control of your finances and uncover new opportunities to save.\n\nIf you've tried other expense tracking apps but found them cluttered or overwhelming,\nMoneyCircle offers a refreshing alternative — simple, beautiful, and focused on what matters: your spending habits.\n\nKey Features\nSmart Categor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/2a/64/fa2a64b3-0a6b-6fda-3943-7353c92daf49/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13973513,
+      "size": 13970504,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -41653,11 +41654,11 @@
       },
       "versions": [
         {
-          "version": "3.3.4",
-          "date": "2026-06-20",
+          "version": "3.3.5",
+          "date": "2026-06-21",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.4-riftysipas.ipa",
-          "size": 13973513
+          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.5-riftysipas.ipa",
+          "size": 13970504
         }
       ],
       "category": "utilities"
