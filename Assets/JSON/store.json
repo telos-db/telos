@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.letterboxd.LetterboxdApp",
     "com.joytunes.asla",
     "com.lightricks.Enlight-Editor",
     "net.whatsapp.WhatsApp",
-    "com.AppChief.ArabicArt",
-    "com.google.ios.youtube"
+    "com.AppChief.ArabicArt"
   ],
   "apps": [
     {
@@ -35672,15 +35672,15 @@
       "name": "Letterboxd",
       "bundleIdentifier": "com.letterboxd.LetterboxdApp",
       "developerName": "Letterboxd",
-      "subtitle": "Pro Features Unlocked",
+      "subtitle": "Letterboxd for iOS",
       "version": "4.12.1",
-      "versionDate": "2026-06-10",
-      "versionDescription": "Tweaks: CydiaSubstrate, LetterboxdPatch, sideloadbypass1, sideloadbypass2\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Letterboxd Pro 4.12.1.ipa",
-      "localizedDescription": "Pro Features Unlocked\n\nLetterboxd",
+      "versionDate": "2026-06-21",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.letterboxd.LetterboxdApp-4.12.1-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/8a/31/398a3165-f1ba-df45-0113-68ff74626319/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 48314281,
+      "size": 59982215,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/1b/35/851b35c0-43c8-c9b3-1d6f-f7e634d6b85d/Store_1c.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/e7/9f/25e79f8f-8327-75cf-afad-fa4bb51270f1/pr_source.png/392x696bb.png",
@@ -35703,9 +35703,9 @@
         {
           "version": "4.12.1",
           "date": "2026-06-07",
-          "localizedDescription": "Tweaks: CydiaSubstrate, LetterboxdPatch, sideloadbypass1, sideloadbypass2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Letterboxd Pro 4.12.1.ipa",
-          "size": 48314281
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.letterboxd.LetterboxdApp-4.12.1-eeveedecrypter.ipa",
+          "size": 59982215
         }
       ],
       "category": "social-networking"
@@ -78529,7 +78529,7 @@
     {
       "title": "⚙️ Telos Update 6.21",
       "identifier": "telos-update-2026-06-21",
-      "caption": "12 Apps Updated:\n• 8 Photo & Video\n• 2 Education\n• 2 Social Networking",
+      "caption": "16 Apps Updated:\n• 8 Photo & Video\n• 6 Social Networking\n• 2 Education",
       "date": "2026-06-21",
       "tintColor": "#02433b",
       "notify": true,
