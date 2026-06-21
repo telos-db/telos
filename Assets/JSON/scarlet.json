@@ -22600,27 +22600,26 @@
       "name": "Letterboxd",
       "bundleIdentifier": "com.letterboxd.LetterboxdApp",
       "developerName": "Letterboxd",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, LetterboxdPatch, sideloadbypass1, sideloadbypass2\n\nLetterboxd\n\n---\nLetterboxd for iOS puts the popular social network for film lovers on your iPhone or iPad, so you can log films and catch up on your friends’ activity with ease.\n\nSign in with your existing account (or create one for free) to enjoy our native app interface. These features of the web experience are supported, with more to come:\n\n– Sign in (with 1Password support) or create an account\n– Browse popular, highly rated and most anticipated films (including our official list of the Top 250 Narrative Fe",
-      "version": "4.11.3",
-      "versionDate": "2026-06-11T03:30:24-00:00",
-      "versionDescription": "Build 6605 from @binnichtaktivsipas",
-      "size": 57244271,
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nLetterboxd for iOS puts the popular social network for film lovers on your iPhone or iPad, so you can log films and catch up on your friends’ activity with ease.\n\nSign in with your existing account (or create one for free) to enjoy our native app interface. These features of the web experience are supported, with more to come:\n\n– Sign in (with 1Password support) or create an account\n– Browse popular, highly rated and most anticipated films (including our official list of the Top 250 Narrative Fe",
+      "version": "4.12.1",
+      "versionDate": "2026-06-21T11:21:13-00:00",
+      "versionDescription": "Build 6610 from @thescholarslounge",
+      "size": 59982215,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/8a/31/398a3165-f1ba-df45-0113-68ff74626319/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Letterboxd Pro 4.11.3.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.letterboxd.LetterboxdApp-4.12.1-eeveedecrypter.ipa",
       "minOSVersion": "17.5",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
       "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
+        "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Letterboxd Pro 4.11.3.ipa"
+        "originalFile": "com.letterboxd.LetterboxdApp-4.12.1-eeveedecrypter.ipa"
       }
     },
     {
