@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "alexgerrese.summarize",
+    "com.nixwang.decision",
     "com.joytunes.Draw",
     "com.navercorp.prism",
-    "com.letterboxd.LetterboxdApp",
-    "com.joytunes.asla",
-    "com.lightricks.Enlight-Editor"
+    "com.letterboxd.LetterboxdApp"
   ],
   "apps": [
     {
@@ -8173,14 +8173,14 @@
       "bundleIdentifier": "alexgerrese.summarize",
       "developerName": "Alexander Gerrese",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.18.11",
-      "versionDate": "2026-06-12",
+      "version": "2.18.15",
+      "versionDate": "2026-06-21",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.11-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.15-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nBookshelf: Book Tracker & List\n\n---\nBookshelf helps you track your books, build a lasting reading habit, and better remember what you read—now with powerful AI-powered discovery tools to help you find your next great read!\n\nAdd books you’ve read, books you’re reading, and books you want to read. Improve your reading habits with insightful stats and trend reports. Stay motivated with reading goals, streaks, and reminders. Remember what you read by writing and reviewing notes and quotes.\n\nBUILD YOUR LIBRARY\n• Import & Sync – Import",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/7b/7a/877b7ab7-f559-1e4d-f6ef-5c3722b095f8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 215959149,
+      "size": 216254099,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/cf/21/5dcf213b-7b2b-4ac0-8bc6-e5769a920297/3e9745fe-1e7e-4f77-a711-fa39b1e5dee0_Screenshot_1_Copy_157.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/ef/d3/9fefd3f0-0c53-888f-5475-e6db01a1fe19/7ec16261-ed2f-4340-8929-e09991a76be6_Screenshot_1_Copy_160.jpg/576x768bb.jpg",
@@ -8204,11 +8204,11 @@
       },
       "versions": [
         {
-          "version": "2.18.11",
-          "date": "2026-06-12",
+          "version": "2.18.15",
+          "date": "2026-06-21",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.11-riftysipas.ipa",
-          "size": 215959149
+          "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.15-riftysipas.ipa",
+          "size": 216254099
         }
       ],
       "category": "books"
@@ -69295,14 +69295,14 @@
       "bundleIdentifier": "com.nixwang.decision",
       "developerName": "Hangzhou Tangsuan Network Technology Co., Ltd.",
       "subtitle": "Tweaked with TinyDecisions, blatantsPatch",
-      "version": "26.3.1",
-      "versionDate": "2026-06-08",
+      "version": "26.6",
+      "versionDate": "2026-06-21",
       "versionDescription": "Tweaks: TinyDecisions, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tiny Decisions v26.3.1 Subscription Unlocked blatant Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: TinyDecisions, blatantsPatch\n\nTiny Decisions\n\n---\nTiny Decisions: Happy deciding!\n\nMake decisions effortlessly with Tiny Decisions! Turn tough choices into a fun experience—input your question, add options, and spin the wheel for a random answer. Whether it’s picking dinner or planning your weekend, quick decisions are just a spin away!\n\nPerfect For:\n- Weekend Adventures: Where to explore next?\n- Dinner Ideas: What’s on the menu tonight?\n- Outfit Picks: What to wear today?\n- Party Games: Truth or Dare with friends?\n- Group Bills: Who pays the c",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tiny_Decisions_Spin_Wheel_v26_6_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: TinyDecisions, blatantsPatch\n\nTiny Decisions: Spin Wheel\n\n---\nTiny Decisions: Happy deciding!\n\nMake decisions effortlessly with Tiny Decisions! Turn tough choices into a fun experience—input your question, add options, and spin the wheel for a random answer. Whether it’s picking dinner or planning your weekend, quick decisions are just a spin away!\n\nPerfect For:\n- Weekend Adventures: Where to explore next?\n- Dinner Ideas: What’s on the menu tonight?\n- Outfit Picks: What to wear today?\n- Party Games: Truth or Dare with friends?\n- Group Bills: Who pays the c",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/19/ea/5719eae3-87a1-f412-34a1-4223cc8315c7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 54191140,
+      "size": 77894143,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -69319,11 +69319,11 @@
       },
       "versions": [
         {
-          "version": "26.3.1",
-          "date": "2026-06-08",
+          "version": "26.6",
+          "date": "2026-06-21",
           "localizedDescription": "Tweaks: TinyDecisions, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tiny Decisions v26.3.1 Subscription Unlocked blatant Patched.ipa",
-          "size": 54191140
+          "downloadURL": "https://telos.ftp.sh/ipas/Tiny_Decisions_Spin_Wheel_v26_6_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 77894143
         }
       ],
       "category": "entertainment"
