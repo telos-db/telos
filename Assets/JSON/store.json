@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.ulisesolave.Fitia",
+    "com.crystalnix.ServerAuditor",
+    "com.tinginteractive.usms",
     "alexgerrese.summarize",
-    "com.nixwang.decision",
-    "com.joytunes.Draw",
-    "com.navercorp.prism",
-    "com.letterboxd.LetterboxdApp"
+    "com.nixwang.decision"
   ],
   "apps": [
     {
@@ -22381,14 +22381,14 @@
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "23.1.13",
-      "versionDate": "2026-06-19",
+      "version": "23.1.14",
+      "versionDate": "2026-06-21",
       "versionDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_13_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_14_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFitia: Calorie Counter & Diet",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/18/c2/8e18c267-859b-7791-b7ca-d2fbc39d887e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 105112630,
+      "size": 125068619,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -22415,11 +22415,11 @@
       },
       "versions": [
         {
-          "version": "23.1.13",
-          "date": "2026-06-19",
+          "version": "23.1.14",
+          "date": "2026-06-21",
           "localizedDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_13_Subscription_Unlocked_blatant.ipa",
-          "size": 105112630
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_14_Subscription_Unlocked_blatant.ipa",
+          "size": 125068619
         }
       ],
       "category": "health-&-fitness"
@@ -66586,6 +66586,42 @@
       "category": "productivity"
     },
     {
+      "name": "Termius",
+      "bundleIdentifier": "com.crystalnix.ServerAuditor",
+      "developerName": "Termius Corporation",
+      "subtitle": "Termius for iOS",
+      "version": "7.3.5",
+      "versionDate": "2026-06-21",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.crystalnix.ServerAuditor-7.3.5-eeveedecrypter.ipa",
+      "localizedDescription": "Termius for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/8a/3e/e48a3ede-9ee2-deb4-32ac-b763a2ed7f05/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 129725481,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "The application does not need access to the Camera. Please submit a bug on https://support.termius.com.",
+          "NSLocationWhenInUseUsageDescription": "Termius tracks your location in order to provide you with more details about your connections in History settings. We only track location when there are active connections, we store location data in History items. This data is encrypted with your master password and no one except you has access to it. Also, as a side effect, with enabled location tracking sessions can work longer in background.",
+          "NSLocationAlwaysUsageDescription": "Termius tracks your location in order to provide you with more details about your connections in History settings. We only track location when there are active connections, we store location data in History items. This data is encrypted with your master password and no one except you has access to it. Also, as a side effect, with enabled location tracking sessions can work longer in background.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Termius tracks your location in order to provide you with more details about your connections in History settings. We only track location when there are active connections, we store location data in History items. This data is encrypted with your master password and no one except you has access to it. Also, as a side effect, with enabled location tracking sessions can work longer in background.",
+          "NSFaceIDUsageDescription": "Termius uses Face ID to protect your personal data with a lock screen when you switch to other apps",
+          "NSLocalNetworkUsageDescription": "Allow to connect to devices from a local network"
+        }
+      },
+      "versions": [
+        {
+          "version": "7.3.5",
+          "date": "2026-06-14",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.crystalnix.ServerAuditor-7.3.5-eeveedecrypter.ipa",
+          "size": 129725481
+        }
+      ],
+      "category": "developer-tools"
+    },
+    {
       "name": "Terraria",
       "bundleIdentifier": "com.505games.terraria",
       "developerName": "505 Games (US), Inc.",
@@ -66820,6 +66856,57 @@
         }
       ],
       "category": "developer-tools"
+    },
+    {
+      "name": "TextNow",
+      "bundleIdentifier": "com.tinginteractive.usms",
+      "developerName": "TextNow, Inc.",
+      "subtitle": "TextNow for iOS",
+      "version": "26.24.0",
+      "versionDate": "2026-06-21",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.tinginteractive.usms-26.24.0-eeveedecrypter.ipa",
+      "localizedDescription": "TextNow for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/26/2a/a3262a80-63a3-83b6-e1c2-e5af9efa8041/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 239750424,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/bc/89/82bc89b2-4b48-d482-5ea7-613890f88320/1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/9e/79/699e794d-8f6c-c94c-e008-33c439a2c156/2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/0d/71/9c0d71c0-7325-3714-ff5f-ec007d7c0e3c/3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/50/c3/4950c342-2a6c-8783-354d-4343733a8541/4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/c4/e9/9ac4e937-c916-0186-79af-732daf06fcbe/5.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Accessing your photo library will allow you to send photos to your contacts in TextNow.",
+          "NSCameraUsageDescription": "Accessing the camera will allow you to take and send photos to your contacts in TextNow.",
+          "NSMicrophoneUsageDescription": "Accessing the microphone will allow you to have a phone call with your contacts in TextNow.",
+          "NSLocationWhenInUseUsageDescription": "Your location will be used for 911 emergency calls and to automatically find you a phone number in the nearest area code.",
+          "NSLocationAlwaysUsageDescription": "Your location will be used for 911 emergency calls and to automatically find you a phone number in the nearest area code.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Your location will be used for 911 emergency calls and to automatically find you a phone number in the nearest area code.",
+          "NSContactsUsageDescription": "Your contacts will be used to provide calling and texting functionality with the numbers already on your device. When friends &amp; family call or text you, you&apos;ll be able to see their names, rather than just their phone numbers.",
+          "NSCalendarsUsageDescription": "Enable to create calendar events in app.",
+          "NSRemindersUsageDescription": "This interaction will add a reminder.",
+          "NSAppleMusicUsageDescription": "Accessing your media allows you to share with your contacts in TextNow.",
+          "NSSpeechRecognitionUsageDescription": "Speech recognition is used to transcribe your voicemail messages into text.",
+          "NSBluetoothAlwaysUsageDescription": "Allow TextNow to find and connect to Bluetooth accessories for hands-free calling.",
+          "NSBluetoothPeripheralUsageDescription": "Accessing your bluetooth will allow you to take calls on your bluetooth device.",
+          "NSUserTrackingUsageDescription": "This allows TextNow to provide you with a better ads experience.",
+          "NSPhotoLibraryAddUsageDescription": "This feature wants to add a photo to your library."
+        }
+      },
+      "versions": [
+        {
+          "version": "26.24.0",
+          "date": "2026-06-15",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.tinginteractive.usms-26.24.0-eeveedecrypter.ipa",
+          "size": 239750424
+        }
+      ],
+      "category": "social-networking"
     },
     {
       "name": "That Girl",
@@ -78572,7 +78659,7 @@
     {
       "title": "⚙️ Telos Update 6.21",
       "identifier": "telos-update-2026-06-21",
-      "caption": "26 Apps Updated:\n• 8 Photo & Video\n• 6 Social Networking\n• 4 Education\n• 4 Entertainment\n• 4 Books",
+      "caption": "34 Apps Updated:\n• 10 Social Networking\n• 8 Photo & Video\n• 4 Education\n• 4 Health & Fitness\n• 4 Developer Tools\n• 2 Entertainment\n• 2 Books",
       "date": "2026-06-21",
       "tintColor": "#02433b",
       "notify": true,
