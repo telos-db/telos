@@ -7,8 +7,8 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.mobilefootie.fotmobpro",
     "com.stremio.pal",
+    "com.mobilefootie.fotmobpro",
     "com.genau.MoneyCircle",
     "com.google.gemini",
     "com.clarity.cozycouples"
@@ -64304,11 +64304,11 @@
       "version": "2.0.1",
       "versionDate": "2026-06-21",
       "versionDescription": "Source: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.1.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/stremio_tvOS 2.0.1.ipa",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nStermio is a modern video local that makes it easy to watch your content in one place. Import videos from the Files app or Photos, watch from links, and enjoy smooth playback in a clean, premium interface.\n\nBuilt for everyday viewing, Stermio helps you organize your library, quickly reopen recent videos, and keep watching with intuitive controls.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/db/ac/a6dbac32-66d9-20f8-2cf2-a98f72d680bd/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 77732193,
+      "size": 73561004,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -64319,8 +64319,8 @@
           "version": "2.0.1",
           "date": "2026-06-21",
           "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.1.ipa",
-          "size": 77732193
+          "downloadURL": "https://telos.ftp.sh/ipas/stremio_tvOS 2.0.1.ipa",
+          "size": 73561004
         }
       ],
       "category": "utilities"
