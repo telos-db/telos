@@ -40255,24 +40255,23 @@
       "developerName": "Jamie Harper",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nStermio is a modern video local that makes it easy to watch your content in one place. Import videos from the Files app or Photos, watch from links, and enjoy smooth playback in a clean, premium interface.\n\nBuilt for everyday viewing, Stermio helps you organize your library, quickly reopen recent videos, and keep watching with intuitive controls.",
       "version": "2.0.1",
-      "versionDate": "2026-06-21T22:28:12-00:00",
+      "versionDate": "2026-06-21T23:38:35-00:00",
       "versionDescription": "Build 16 from @binnichtaktivsipas",
-      "size": 77732193,
+      "size": 73561004,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/db/ac/a6dbac32-66d9-20f8-2cf2-a98f72d680bd/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.1.ipa",
-      "minOSVersion": "13.0",
+      "downloadURL": "https://telos.ftp.sh/ipas/stremio_tvOS 2.0.1.ipa",
+      "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        1,
-        2
+        3
       ],
       "metadata": {
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "stremio_iOS 2.0.1.ipa"
+        "originalFile": "stremio_tvOS 2.0.1.ipa"
       }
     },
     {
