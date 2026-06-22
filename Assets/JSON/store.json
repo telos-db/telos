@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.robnorback.LiveTranscribe",
+    "com.madarsoft.fitness",
     "com.iaftt.flightplusfree",
     "com.foxfort.nitefall",
-    "com.dr1ven.eraser",
-    "com.napper",
-    "com.condor.digital.Tide-Over"
+    "com.dr1ven.eraser"
   ],
   "apps": [
     {
@@ -36874,14 +36874,14 @@
       "bundleIdentifier": "com.robnorback.LiveTranscribe",
       "developerName": "Mighty Fine Apps LLC",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "2.62",
-      "versionDate": "2026-06-12",
+      "version": "2.64",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.62-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.64-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nLive Transcribe",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/7e/ae/1e7eaeee-70f4-cc0a-61d4-fc0615410d1e/AppIconProduction-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 51801807,
+      "size": 51676316,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/52/87/33528769-24aa-edc0-1501-8fce8721fb5e/fa04c1ee-2a3a-47a7-8efe-5d3ed1ecd22e_Frame_56.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/20/00/3e20003b-6ee8-d721-c524-2d3fcd6bdc01/f1e95d0e-fa96-41bd-8f26-4116ff2069e2_Frame_63.jpg/392x696bb.jpg",
@@ -36904,11 +36904,11 @@
       },
       "versions": [
         {
-          "version": "2.62",
-          "date": "2026-06-12",
+          "version": "2.64",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.62-riftysipas.ipa",
-          "size": 51801807
+          "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.64-riftysipas.ipa",
+          "size": 51676316
         }
       ],
       "category": "utilities"
@@ -77650,14 +77650,14 @@
       "bundleIdentifier": "com.madarsoft.fitness",
       "developerName": "Madar Al Parmaga",
       "subtitle": "Pro Unlocked | All Features",
-      "version": "18.4",
-      "versionDate": "2026-06-11",
+      "version": "18.5",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: Rashaqa, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/رشاقة_حساب_السعرات،_خطوات_مشي_v18_4_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/رشاقة_حساب_السعرات،_خطوات_مشي_v18_5_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | All Features | Patched | Tweaked\n\nرشاقة: حساب السعرات، خطوات مشي",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/18/b7/ba18b7ea-5d5a-df46-eecd-9eeaabbfdd77/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 173153658,
+      "size": 235167079,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/64/aa/0e64aa1b-a22d-122e-6881-37977fe3c145/9b84eac6-3b5d-44a5-8eff-07d9df6c9321_iphone6-main-arabic-02.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/42/f5/0a42f55b-5fd6-22f8-a08e-e526a267e066/41d4d39c-752d-4e50-b872-4edd5101b928_iphone6--_U062e_U0637_U0648_U0627_U062a-arabic.jpg/392x696bb.jpg",
@@ -77694,11 +77694,11 @@
       },
       "versions": [
         {
-          "version": "18.4",
-          "date": "2026-06-11",
+          "version": "18.5",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: Rashaqa, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/رشاقة_حساب_السعرات،_خطوات_مشي_v18_4_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 173153658
+          "downloadURL": "https://telos.ftp.sh/ipas/رشاقة_حساب_السعرات،_خطوات_مشي_v18_5_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 235167079
         }
       ],
       "category": "health-&-fitness"
@@ -78723,7 +78723,7 @@
     {
       "title": "⚙️ Telos Update 6.22",
       "identifier": "telos-update-2026-06-22",
-      "caption": "62 Apps Updated:\n• 18 Health & Fitness\n• 10 Utilities\n• 10 Photo & Video\n• 6 Games\n• 4 Productivity\n• 4 Weather\n• 4 Travel\n• 2 Lifestyle\n• 2 Reference\n• 2 Education",
+      "caption": "66 Apps Updated:\n• 22 Health & Fitness\n• 12 Utilities\n• 10 Photo & Video\n• 6 Games\n• 4 Productivity\n• 4 Weather\n• 2 Lifestyle\n• 2 Reference\n• 2 Education\n• 2 Travel",
       "date": "2026-06-22",
       "tintColor": "#02433b",
       "notify": true,
