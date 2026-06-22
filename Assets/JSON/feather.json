@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.piano.star.tiles.music.circles.dancing.beat.magic",
-    "com.underpassapp.StopTheMadnessPro",
-    "com.lexwarelabs.goodmorning",
-    "com.getmimo.mimo",
-    "com.aoklab.fewerphotos"
+    "com.napper",
+    "com.condor.digital.Tide-Over",
+    "com.lyftaios",
+    "com.sadpuppy.lemmings",
+    "com.strongermobileapp.stronger"
   ],
   "apps": [
     {
@@ -17275,18 +17275,17 @@
       "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
       "developerName": "Readdle Technologies Limited",
       "subtitle": "Tweaked with Documents, FilePickerFix",
-      "version": "8.19.10",
-      "versionDate": "2026-06-14",
+      "version": "8.20.1",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: Documents, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Documents_File_Manager_&_Docs_v8_19_10_DocumentsPlus_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Documents_File_Manager_&_Docs_v8_20_1_DocumentsPlus_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Documents, FilePickerFix, blatantsPatch\n\nDocuments: File Manager & Docs\n\n---\nDocuments by Readdle is a super app for iPhone and iPad. It’s your all-in-one solution for working with files at home, in the office, at university, or on the go. Whether you edit, annotate, convert, listen to, or read, Documents brings everything together in one seamless experience. From books, scans, and receipts to articles, PDFs, audio, and video files, and even ZIP & RAR archives — every type of content finds its home in Documents. One app – infinite capabilities.\n\nServing as your PDF reade",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/4d/18/2b4d188a-eeb7-983e-628c-5845472f2155/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 339655435,
+      "size": 324381652,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
-          "com.apple.developer.group-session",
           "com.apple.developer.user-fonts",
           "aps-environment",
           "com.apple.developer.icloud-container-environment",
@@ -17307,17 +17306,16 @@
           "NSBluetoothAlwaysUsageDescription": "Documents will use Bluetooth when you share files with other devices.",
           "NSBluetoothPeripheralUsageDescription": "Documents will use Bluetooth when you share files with other devices.",
           "NSLocalNetworkUsageDescription": "Documents will use local network when you share files with other devices.",
-          "NSUserTrackingUsageDescription": "Your data will be used to ensure the promotions and offers you see are most relevant to you.",
           "NSPhotoLibraryAddUsageDescription": "This will let you save images and videos from Documents to your Photo Library."
         }
       },
       "versions": [
         {
-          "version": "8.19.10",
-          "date": "2026-06-14",
+          "version": "8.20.1",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: Documents, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Documents_File_Manager_&_Docs_v8_19_10_DocumentsPlus_Unlocked_blatant.ipa",
-          "size": 339655435
+          "downloadURL": "https://telos.ftp.sh/ipas/Documents_File_Manager_&_Docs_v8_20_1_DocumentsPlus_Unlocked_blatant.ipa",
+          "size": 324381652
         }
       ],
       "category": "productivity"
@@ -35988,14 +35986,14 @@
       "bundleIdentifier": "com.sadpuppy.lemmings",
       "developerName": "SAD PUPPY",
       "subtitle": "Tweaked with SatellaJailed, fixipa1",
-      "version": "9.3.1",
-      "versionDate": "2026-06-12",
+      "version": "9.3.2",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.3.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.3.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nLemmings: Strategy & Puzzle\n\n---\nLemmings game is an offline classic puzzle game in which you have to guide Lemmings in the right direction for their survival, build with tools and use commands to get them out of traps and puzzles to win missions.\n\nLemmings is a classic puzzle strategy game for those who love to play survival games. There are thousands of levels available to enjoy the endless Lemmings fun. Lemmings are crazy, they run through the Lasers independently- You have to save the Lemmings by directing them in the right",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/fb/ec/b8fbec01-9cc3-0392-8e75-2f990fd05d55/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 122409357,
+      "size": 122423926,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/e4/7c/ede47c92-98b6-832b-9f27-6fc9ed19546f/cf6c4041-a14e-454c-a56d-aaafb1c5843c_1_Eng_1242x2208_iPhone6_COMPLETE.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/ee/7e/a4ee7e38-da81-ba8f-134b-b222e2e9a20b/29ac5f9b-e36c-4de5-9226-77b031aec539_7_Eng_1242x2208_iPhone6_DISCOVER.png/392x696bb.png",
@@ -36022,11 +36020,11 @@
       },
       "versions": [
         {
-          "version": "9.3.1",
-          "date": "2026-06-12",
+          "version": "9.3.2",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.3.1-riftysipas.ipa",
-          "size": 122409357
+          "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.3.2-riftysipas.ipa",
+          "size": 122423926
         }
       ],
       "category": "games"
@@ -38521,14 +38519,14 @@
       "bundleIdentifier": "com.lyftaios",
       "developerName": "Lindberg Development AS",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.141",
-      "versionDate": "2026-06-14",
+      "version": "1.150",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyslyfta, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lyfta: Gym Workout Tracker Log-v1.141-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lyfta: Gym Workout Tracker Log-v1.150-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyslyfta, zxPluginsInject\n\nLyfta: Gym Workout Tracker Log\n\n---\nJoin over 3 million gym and fitness enthusiasts and lift more with Lyfta – the free workout tracker, gym log, and strength training planner.\n\nLog your workouts, build routines, and track progress so you can focus on what matters most: getting stronger.\n\nWhat Our Users Are Saying:\n\n• \"I've tried probably 10 different gym apps over the years, and none of them clicked for me until Lyfta. It's crazy how much is available for free, from the unlimited custom free routines to their massive exercise lib",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/9a/07/d19a07b9-9fbd-f551-779d-d332f964c196/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 49547312,
+      "size": 53123566,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -38547,16 +38545,17 @@
           "NSContactsUsageDescription": "Lyfta contact use",
           "NSHealthShareUsageDescription": "Sync with Apple Health for better workout tracking? It's optional.",
           "NSHealthUpdateUsageDescription": "We need to write data to your health data to record your strength training workouts and track your progress over time.",
-          "NSUserTrackingUsageDescription": "We use limited data to measure ads and keep Lyfta affordable. You can change this anytime in Settings."
+          "NSUserTrackingUsageDescription": "We use limited data to measure ads and keep Lyfta affordable. You can change this anytime in Settings.",
+          "NSPhotoLibraryAddUsageDescription": "Lyfta saves workout photos you take to your photo library."
         }
       },
       "versions": [
         {
-          "version": "1.141",
-          "date": "2026-06-14",
+          "version": "1.150",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyslyfta, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lyfta: Gym Workout Tracker Log-v1.141-riftysipas.ipa",
-          "size": 49547312
+          "downloadURL": "https://telos.ftp.sh/ipas/Lyfta: Gym Workout Tracker Log-v1.150-riftysipas.ipa",
+          "size": 53123566
         }
       ],
       "category": "health-&-fitness"
@@ -43561,14 +43560,14 @@
       "bundleIdentifier": "com.napper",
       "developerName": "Napper AB",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "6.42.0",
-      "versionDate": "2026-06-14",
+      "version": "6.52.2",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Napper: Baby Sleep Tracker-v6.42.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Napper: Baby Sleep Tracker-v6.52.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nNapper: Baby Sleep Tracker\n\n---\nNapper is the game-changing, award-winning app that uses data, science, and a little bit of algorithmic magic to predict your baby’s naps and bedtime - with almost uncanny accuracy.\n\nOriginally built by a dad on parental leave (still with us btw!) for him and his not-so-sleepy baby girl, Napper has now grown to help more than 100,000 families sleep better. So whatever issue you might be facing - short naps, frequent night-wakings, never-ending bedtime routines - there’s a good chance we can help",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/36/09/e7360996-727d-f95f-242e-361d3a8c1473/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 32503706,
+      "size": 34788743,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/ce/c4/14cec484-2e2f-e37e-1d54-bb1852643d77/e89fc735-9443-4475-ac9d-dd40dbc28b19_en-2-1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/a2/f2/7ea2f2ef-fcb7-9653-fdbc-9fb518c8baa7/b6fcb7bd-6cf3-43a1-a759-7021c6656ebb_en-4-1.png/392x696bb.png",
@@ -43585,16 +43584,17 @@
           "com.apple.security.application-groups"
         ],
         "privacy": {
-          "NSPhotoLibraryUsageDescription": "napper would like access to your photo gallery to be able to add pictures of your baby"
+          "NSPhotoLibraryUsageDescription": "napper would like access to your photo gallery to be able to add pictures of your baby",
+          "NSUserTrackingUsageDescription": "Allow tracking to measure which ads bring new parents to Napper."
         }
       },
       "versions": [
         {
-          "version": "6.42.0",
-          "date": "2026-06-14",
+          "version": "6.52.2",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Napper: Baby Sleep Tracker-v6.42.0-riftysipas.ipa",
-          "size": 32503706
+          "downloadURL": "https://telos.ftp.sh/ipas/Napper: Baby Sleep Tracker-v6.52.2-riftysipas.ipa",
+          "size": 34788743
         }
       ],
       "category": "health-&-fitness"
@@ -45299,14 +45299,14 @@
       "bundleIdentifier": "nutrition.coach",
       "developerName": "Eclipse Studios",
       "subtitle": "Tweaked with NutriCoach, blatantsPatch",
-      "version": "2.1.2",
-      "versionDate": "2026-06-17",
+      "version": "2.1.3",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: NutriCoach, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_3_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NutriCoach, blatantsPatch\n\nNutrition Coach: Food tracker\n\n---\nEffortless calories counter, customized meals plan, and delicious recipes. Loose or gain weight in a sustainable way to achieve your objective.\n\nNutrition Coach is the result of 3 years of work by a team of passionate nutritionists. Our programs and calorie counter have been tested for months and approved with visible and sustainable results.\n\nHave you ever experienced a very restrictive diet almost impossible to sustain for more than a couple of days?\nHave you ever experienced weight loss follo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/11/b3/1511b3e4-a114-2d56-8fbf-d60a8807e2ea/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 73178217,
+      "size": 73221230,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5c/7d/c65c7d42-9758-a9f6-b97b-864d52e346df/41392711-be29-4b4a-81aa-f2631d6bffd1_Nutricoach-screenshot-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/21/c6/9221c666-c6e9-cb68-430d-b07e70d8dce5/5f6ea8ed-ee1c-4a9c-9ac4-98f42fce78d0_Nutricoach-screenshot-02.jpg/392x696bb.jpg",
@@ -45331,11 +45331,11 @@
       },
       "versions": [
         {
-          "version": "2.1.2",
-          "date": "2026-06-17",
+          "version": "2.1.3",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: NutriCoach, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_2_Subscription_Unlocked_blatant.ipa",
-          "size": 73178217
+          "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_3_Subscription_Unlocked_blatant.ipa",
+          "size": 73221230
         }
       ],
       "category": "health-&-fitness"
@@ -52188,14 +52188,14 @@
       "bundleIdentifier": "com.aiarlabs.prequel",
       "developerName": "Prequel Inc.",
       "subtitle": "Tweaked with Prequel, blatantsPatch",
-      "version": "2.92.0",
-      "versionDate": "2026-06-11",
-      "versionDescription": "Tweaks: Prequel, blatantsPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Prequel_Photo_&_Video_Editor_v2_92_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Prequel, blatantsPatch\n\nPrequel: Photo & Video Editor\n\n---\nCreate aesthetic edits with Prequel and iconic effects like DISCO, DIAMOND, BLING, TEAL, MIAMI, PRISM, VHS, and D3D. Prequel helps you bring your ideas to life.\n\nFREE FEATURES\n\n• 800+ EFFECTS and FILTERS to match any style.\n• TEMPLATES: create high-quality aesthetic videos in one tap.\n• D3D: create amazing 3D moving pictures easily and add trendy effects.\n• TEXT: 30+ custom fonts to add text to your photos and videos.\n• MUSIC: add tracks to your videos to enhance the mood.\n• STICKERS: add gifs,",
+      "version": "2.95.0",
+      "versionDate": "2026-06-22",
+      "versionDescription": "Tweaks: Prequel, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Prequel_Photo_&_Video_Editor_v2_95_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Prequel, blatantsPatch\n\nPrequel: Photo & Video Editor\n\n---\nCreate aesthetic edits with Prequel and iconic effects like DISCO, DIAMOND, BLING, TEAL, MIAMI, PRISM, VHS, and D3D. Prequel helps you bring your ideas to life.\n\nFREE FEATURES\n\n• 800+ EFFECTS and FILTERS to match any style.\n• TEMPLATES: create high-quality aesthetic videos in one tap.\n• D3D: create amazing 3D moving pictures easily and add trendy effects.\n• TEXT: 30+ custom fonts to add text to your photos and videos.\n• MUSIC: add tracks to your videos to enhance the mood.\n• STICKERS: add gifs,",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/8c/f5/9b8cf5f1-52a5-f74e-982c-4b822c48c892/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 274846061,
+      "size": 281136094,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -52216,11 +52216,11 @@
       },
       "versions": [
         {
-          "version": "2.92.0",
-          "date": "2026-06-11",
-          "localizedDescription": "Tweaks: Prequel, blatantsPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Prequel_Photo_&_Video_Editor_v2_92_Subscription_Unlocked_blatant.ipa",
-          "size": 274846061
+          "version": "2.95.0",
+          "date": "2026-06-22",
+          "localizedDescription": "Tweaks: Prequel, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Prequel_Photo_&_Video_Editor_v2_95_Subscription_Unlocked_blatant.ipa",
+          "size": 281136094
         }
       ],
       "category": "photo-&-video"
@@ -63738,14 +63738,14 @@
       "bundleIdentifier": "uni.cbum",
       "developerName": "Set The Standard LLC",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "4.1.41",
-      "versionDate": "2026-06-16",
+      "version": "4.1.42",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/STNDRD_Workout_&_Fitness_Plans_v4_1_41_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/STNDRD_Workout_&_Fitness_Plans_v4_1_42_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nSTNDRD Workout & Fitness Plans\n\n---\nTry STNDRD FREE for 7 days\n\nCoached by 6x Mr. Olympia Chris Bumstead. Featured by Apple. 150,000+ Members Setting Their Standard.\nSTNDRD is a strength training app for people who are serious about getting better. Real programs. Real coaches. Real progress, week after week.\nThis is NOT AI-generated workouts. This is structured training built by champions who've actually done the work, and who want to help you do yours.\n\nSET YOUR STANDARD\n\nWhatever stronger means to you, this is where you build it",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/c1/cb/56c1cb82-e9fa-ea28-bfd8-d1d452ab15c3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 103511115,
+      "size": 108981858,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/a3/58/66a3585e-1aad-90a9-e3e9-6c74e051802c/first5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/fe/10/a1fe106d-4f15-5008-495d-d079d2467edd/dd85a9f9-5d0d-405c-a765-80ec2c5e11c9_Appstore2.png/392x696bb.png",
@@ -63755,13 +63755,13 @@
       ],
       "appPermissions": {
         "entitlements": [
-          "com.apple.developer.associated-domains",
           "com.apple.developer.healthkit.background-delivery",
           "com.apple.developer.healthkit",
           "com.apple.developer.applesignin",
           "aps-environment",
-          "com.apple.developer.healthkit.access",
-          "com.apple.security.application-groups"
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.healthkit.access"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Runner requires this permission for uploading your profile picture and engaging with the community.",
@@ -63775,11 +63775,11 @@
       },
       "versions": [
         {
-          "version": "4.1.41",
-          "date": "2026-06-16",
+          "version": "4.1.42",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/STNDRD_Workout_&_Fitness_Plans_v4_1_41_Subscription_Unlocked_blatant.ipa",
-          "size": 103511115
+          "downloadURL": "https://telos.ftp.sh/ipas/STNDRD_Workout_&_Fitness_Plans_v4_1_42_Subscription_Unlocked_blatant.ipa",
+          "size": 108981858
         }
       ],
       "category": "health-&-fitness"
@@ -64774,14 +64774,14 @@
       "bundleIdentifier": "com.strongermobileapp.stronger",
       "developerName": "Atlas Smart Technologies LTD",
       "subtitle": "Tweaked with CydiaSubstrate, chocorc",
-      "version": "5.2.7",
-      "versionDate": "2026-06-19",
+      "version": "5.2.8",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Stronger - Gym Workout Planner-v5.2.7-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stronger - Gym Workout Planner-v5.2.8-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nStronger - Gym Workout Planner\n\n---\nBuilt for lifters who take their training seriously.\n\nTrusted by over 1 million athletes worldwide, Stronger is the simple and intuitive workout planner to help you crush your fitness goals. Track your workouts, receive AI coaching, and compete with your friends. Whether you want to build strength, lose weight, or simply stay consistent, Stronger is your perfect gym companion.\n\nWHY STRONGER?\n\nJoin a global community of athletes logging their workouts, smashing fitness goals, and supporting each",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/3e/02/3f3e021e-c06b-2272-2bf5-f9c93b4074e2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 109137427,
+      "size": 109149610,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/d7/82/24d7820c-d43a-e4a5-ec36-7c46aaf59f81/151fad00-de3b-402e-828a-be757768ccf7_iPhone_8_Plus_-_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/82/c6/c882c6c0-4601-59b1-1a56-cab5550d7fa7/4851e132-7262-4483-b813-a097111b6e43_iPhone_8_Plus_-_2.jpg/392x696bb.jpg",
@@ -64809,11 +64809,11 @@
       },
       "versions": [
         {
-          "version": "5.2.7",
-          "date": "2026-06-19",
+          "version": "5.2.8",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Stronger - Gym Workout Planner-v5.2.7-riftysipas.ipa",
-          "size": 109137427
+          "downloadURL": "https://telos.ftp.sh/ipas/Stronger - Gym Workout Planner-v5.2.8-riftysipas.ipa",
+          "size": 109149610
         }
       ],
       "category": "health-&-fitness"
@@ -68511,14 +68511,14 @@
       "bundleIdentifier": "com.condor.digital.Tide-Over",
       "developerName": "Condor Digital",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "7.3.10",
-      "versionDate": "2026-06-15",
+      "version": "7.3.11",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tide Guide: Charts & Tables-v7.3.10-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tide Guide: Charts & Tables-v7.3.11-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nTide Guide: Charts & Tables\n\n---\nThe award winning tide app for Apple Watch, iPhone, iPad and Mac. Never miss a tide, sunset, or beautiful day on the water. Tide Guide features tide and marine weather conditions from trusted data providers worldwide. It's beautiful, powerful, and provides easy access to thousands of different tide stations around the world.\n\n# Apple Design Award & App Store App of the Year Finalist\n\n# Built for Apple Watch\nGorgeous full screen charts provide detailed tide and weather conditions. Each chart is d",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/d3/66/09d366e1-151e-b955-f0ef-06c12ddbf8b4/AppIcon_2-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 177186298,
+      "size": 177194633,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/d3/ee/67d3eef5-3bf9-04ea-cdde-030f72bbd1b0/7af6cb67-195e-46c1-b068-ece5557447aa_iPad_-_Welcome_Copy.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/55/80/72558076-ebfe-8ae1-05bc-92244ac27164/7777d119-7e09-4cc8-8e8c-04de84eac907_iPad_-_2_Copy.jpg/576x768bb.jpg",
@@ -68541,11 +68541,11 @@
       },
       "versions": [
         {
-          "version": "7.3.10",
-          "date": "2026-06-15",
+          "version": "7.3.11",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tide Guide: Charts & Tables-v7.3.10-riftysipas.ipa",
-          "size": 177186298
+          "downloadURL": "https://telos.ftp.sh/ipas/Tide Guide: Charts & Tables-v7.3.11-riftysipas.ipa",
+          "size": 177194633
         }
       ],
       "category": "weather"
@@ -77303,14 +77303,14 @@
       "bundleIdentifier": "com.yazio.ios.YAZIO",
       "developerName": "YAZIO",
       "subtitle": "Tweaked with Yazio, blatantsPatch",
-      "version": "12.89.1",
-      "versionDate": "2026-06-17",
+      "version": "26.25.0",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v12_89_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v26_25_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Yazio, blatantsPatch\n\nAI Calorie Tracker by Yazio\n\n---\nWelcome to Yazio, the most effective AI calorie tracker, intermittent fasting app and food tracker for losing weight without dieting!\n\nTrack calories, eat better and reach your goals with Yazio’s free calorie counter app!\nYazio is your all-in-one solution, whether you're aiming for a calorie deficit, tracking meals or looking for an advanced AI calorie tracker. Designed to support sustainable weight loss, muscle gain and weight maintenance, Yazio empowers you to make smart food choices with the",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/f5/53/69f55376-d2af-5f99-ece4-0427b0aa4a87/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 149178329,
+      "size": 209870275,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/1b/ed/dd1bed03-d11e-5e69-88b3-10c1b502e14e/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a8/03/01a803c9-f793-71e8-02c8-b0a84d66334b/ea43d2d8-5944-4881-b46a-1cca3413f608_1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
@@ -77339,11 +77339,11 @@
       },
       "versions": [
         {
-          "version": "12.89.1",
-          "date": "2026-06-17",
+          "version": "26.25.0",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v12_89_1_Subscription_Unlocked_blatant.ipa",
-          "size": 149178329
+          "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v26_25_0_Subscription_Unlocked_blatant.ipa",
+          "size": 209870275
         }
       ],
       "category": "health-&-fitness"
