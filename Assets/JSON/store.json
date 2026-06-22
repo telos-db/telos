@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.andydev.alpenglow",
     "com.genau.JournalCircle",
     "com.stremio.pal",
     "com.ulisesolave.Fitia",
-    "com.mobilefootie.fotmobpro",
-    "com.genau.MoneyCircle"
+    "com.mobilefootie.fotmobpro"
   ],
   "apps": [
     {
@@ -3135,14 +3135,14 @@
       "bundleIdentifier": "com.andydev.alpenglow",
       "developerName": "Andrew Yates",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "11.2.3",
-      "versionDate": "2026-06-12",
+      "version": "11.2.6",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Alpenglow: Sunset Prediction-v11.2.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Alpenglow: Sunset Prediction-v11.2.6-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nAlpenglow: Sunset Prediction",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/a4/1a/c1a41a2d-4441-3e14-1023-15d130719e47/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 63164549,
+      "size": 63543605,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/07/fc/5d07fcac-8e86-00d5-a262-b328aef4c6e2/efa2730d-e2f5-4f38-9519-d41f6aec20e9_iPad_12.9__-_Stacked.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/c2/66/8cc26602-28f7-74bc-03af-d9b3c28308f6/5a5f111e-92f5-42b9-acb0-490cc6f1e6c0_iPad_12.9__-_Default.png/576x768bb.png",
@@ -3173,11 +3173,11 @@
       },
       "versions": [
         {
-          "version": "11.2.3",
-          "date": "2026-06-12",
+          "version": "11.2.6",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Alpenglow: Sunset Prediction-v11.2.3-riftysipas.ipa",
-          "size": 63164549
+          "downloadURL": "https://telos.ftp.sh/ipas/Alpenglow: Sunset Prediction-v11.2.6-riftysipas.ipa",
+          "size": 63543605
         }
       ],
       "category": "weather"
@@ -78688,7 +78688,7 @@
     {
       "title": "⚙️ Telos Update 6.22",
       "identifier": "telos-update-2026-06-22",
-      "caption": "6 Apps Updated:\n• 2 Utilities\n• 2 Health & Fitness\n• 2 Lifestyle",
+      "caption": "10 Apps Updated:\n• 4 Weather\n• 2 Utilities\n• 2 Health & Fitness\n• 2 Lifestyle",
       "date": "2026-06-22",
       "tintColor": "#02433b",
       "notify": true,
