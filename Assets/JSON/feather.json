@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.ulisesolave.Fitia",
+    "com.genau.JournalCircle",
     "com.stremio.pal",
+    "com.ulisesolave.Fitia",
     "com.mobilefootie.fotmobpro",
-    "com.genau.MoneyCircle",
-    "com.google.gemini"
+    "com.genau.MoneyCircle"
   ],
   "apps": [
     {
@@ -33575,14 +33575,14 @@
       "bundleIdentifier": "com.genau.JournalCircle",
       "developerName": "Genau Factory",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.4.1",
-      "versionDate": "2026-06-19",
+      "version": "3.4.2",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nJournalCircle: Diary & Tracker\n\n---\nDiscover JournalCircle, a journaling app featured on the App Store across multiple regions. JournalCircle combines AI-powered journaling, voice notes, mood tracking, and entry analysis to help you record your daily life with clarity. Users often mention that the clean, beautiful design makes them want to journal more consistently.\n\nJournalCircle is a journaling and life log app designed to manage your diary, mood, routines, goals, and daily records in one place.\n\nAI-powered journaling tools\nJour",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/48/33/ed4833dd-86d9-8719-79bf-3cf44589f4bd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13512432,
+      "size": 13513850,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/4a/a9/e84aa9cc-2c5b-1709-f532-d5ee2be4a59f/6f8a71a6-a4e7-4824-b871-faad39c83dea_JC-ipad-1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/c1/92/9bc19287-5539-8310-51da-1b370a854e82/f6757f74-d22d-4973-b8e5-edb64fa626dc_JC-ipad-2.png/576x768bb.png",
@@ -33609,11 +33609,11 @@
       },
       "versions": [
         {
-          "version": "3.4.1",
-          "date": "2026-06-19",
+          "version": "3.4.2",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.1-riftysipas.ipa",
-          "size": 13512432
+          "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.2-riftysipas.ipa",
+          "size": 13513850
         }
       ],
       "category": "lifestyle"
@@ -64301,14 +64301,14 @@
       "bundleIdentifier": "com.stremio.pal",
       "developerName": "Jamie Harper",
       "subtitle": "Stremio for iOS",
-      "version": "2.0.1",
-      "versionDate": "2026-06-21",
+      "version": "2.0.2",
+      "versionDate": "2026-06-22",
       "versionDescription": "Source: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/stremio_tvOS 2.0.1.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.2.ipa",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nStermio is a modern video local that makes it easy to watch your content in one place. Import videos from the Files app or Photos, watch from links, and enjoy smooth playback in a clean, premium interface.\n\nBuilt for everyday viewing, Stermio helps you organize your library, quickly reopen recent videos, and keep watching with intuitive controls.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/db/ac/a6dbac32-66d9-20f8-2cf2-a98f72d680bd/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 73561004,
+      "size": 78053554,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -64316,11 +64316,11 @@
       },
       "versions": [
         {
-          "version": "2.0.1",
-          "date": "2026-06-21",
+          "version": "2.0.2",
+          "date": "2026-06-22",
           "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/stremio_tvOS 2.0.1.ipa",
-          "size": 73561004
+          "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.2.ipa",
+          "size": 78053554
         }
       ],
       "category": "utilities"
