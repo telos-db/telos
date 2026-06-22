@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.pungme.combyne",
-    "com.br.12min.mobile",
-    "com.polywise.weekly",
-    "com.glucobit.cravingBuster.CravingBuster",
-    "com.facebook.Facebook"
+    "com.duolingo.DuolingoMobile",
+    "archery.storify",
+    "com.gingerlabs.Notability",
+    "com.allegro.iphone",
+    "net.pxv.iphone"
   ],
   "apps": [
     {
@@ -2940,6 +2940,51 @@
         }
       ],
       "category": "photo-&-video"
+    },
+    {
+      "name": "Allegro",
+      "bundleIdentifier": "com.allegro.iphone",
+      "developerName": "Allegro Sp. z o.o.",
+      "subtitle": "Allegro for iOS",
+      "version": "8.78.0",
+      "versionDate": "2026-06-22",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.allegro.iphone-8.78.0-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nDownload the Allegro app and gain one-click access to millions of products, attractive prices, and secure purchases. With the Allegro app on your phone, you can make convenient purchases, track your parcels and pick them up faster using the feature of remote opening of parcel lockers.\n\nShopping in the palm of your hand:\n- Easy shopping, fast payments: Buy conveniently, pay with Apple Pay, BLIK, card, or a different method of your choice\n- Comfort at any time: Do you like browsing offers in the e",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/91/57/7d9157f9-6a5a-a7a7-7cf5-dd7a9e5c468b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 127247470,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/4e/a2/064ea27f-6c86-96ff-6101-8b51cc409c1f/4f4e0613-8b8a-4b98-a32c-676bb62d056e_2048x2732-update-en-uk--1700238912791.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/3e/e5/173ee54a-ee85-4676-3dc0-c118636fe379/5f5adcbd-9733-415b-8c9c-5236687e4858_2048x2732-update-en-uk--1700238819495.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/b1/a6/35b1a6c1-f7cc-76b0-ff4a-bf0ae9b3d7c6/ed03a795-1c8e-45ea-bd05-410ba929d94a_2048x2732-update-en-uk--1700239391284.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/ed/83/eded834d-876a-2fd1-b523-b60f40cf5052/7127150e-4f95-4c28-a33c-8c3fc1c5b76a_2048x2732-update-en-uk--1700239742567.png/576x768bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "FIND ME IN InfoPlist.strings",
+          "NSCameraUsageDescription": "FIND ME IN InfoPlist.strings",
+          "NSLocationWhenInUseUsageDescription": "FIND ME IN InfoPlist.strings",
+          "NSLocationAlwaysUsageDescription": "FIND ME IN InfoPlist.strings",
+          "NSContactsUsageDescription": "FIND ME IN InfoPlist.strings",
+          "NSFaceIDUsageDescription": "FIND ME IN InfoPlist.strings",
+          "NSBluetoothAlwaysUsageDescription": "FIND ME IN InfoPlist.strings",
+          "NSBluetoothPeripheralUsageDescription": "FIND ME IN InfoPlist.strings",
+          "NSUserTrackingUsageDescription": "FIND ME IN InfoPlist.strings",
+          "NSPhotoLibraryAddUsageDescription": "FIND ME IN InfoPlist.strings"
+        }
+      },
+      "versions": [
+        {
+          "version": "8.78.0",
+          "date": "2026-06-22",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.allegro.iphone-8.78.0-eeveedecrypter.ipa",
+          "size": 127247470
+        }
+      ],
+      "category": "shopping"
     },
     {
       "name": "AllMyBatteries",
@@ -18535,14 +18580,14 @@
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "Duolingo",
       "subtitle": "Tweaked with CachefixPatch, CydiaSubstrate",
-      "version": "7.127.1",
-      "versionDate": "2026-06-17",
+      "version": "7.128.0",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_127_1_Duolingo_MAX_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_128_0_Duolingo_MAX_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nDuolingo: Language Lessons\n\n---\nLearn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n\nDesigned by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n\nAnd now, you can learn",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/a9/fc/f5a9fc8b-90a2-560e-1482-7c9fc708497e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 204528551,
+      "size": 206445238,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/16/35/0d16355e-7b7a-4903-aa0a-ecfefdaa7e08/b715d679-c25d-41c1-8b55-6c00114fa81e_en_iphone5.5_screen_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/14/cd/f814cd12-cb2b-baeb-2870-404d9186defb/93f4d1c8-4144-44de-8b57-a5a091c838f4_iPhone_5.5_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_3.png/392x696bb.png",
@@ -18575,11 +18620,11 @@
       },
       "versions": [
         {
-          "version": "7.127.1",
-          "date": "2026-06-17",
+          "version": "7.128.0",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_127_1_Duolingo_MAX_Unlocked_blatant.ipa",
-          "size": 204528551
+          "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_128_0_Duolingo_MAX_Unlocked_blatant.ipa",
+          "size": 206445238
         }
       ],
       "category": "education"
@@ -41376,14 +41421,14 @@
       "bundleIdentifier": "archery.storify",
       "developerName": "Archery Inc.",
       "subtitle": "Tweaked with Mojo, blatantsPatch",
-      "version": "1.269.1",
-      "versionDate": "2026-06-16",
+      "version": "1.270.0",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: Mojo, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Mojo_AI_Video_&_Reels_Editor_v1_269_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Mojo_AI_Video_&_Reels_Editor_v1_270_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Mojo, blatantsPatch\n\nMojo: AI Video & Reels Editor\n\n---\nCreating trending social content has never been simpler. Mojo is an app designed to help you make amazing video content for Instagram and TikTok and more. Mojo is made in Paris and has already been downloaded by over 40 million people worldwide.\n\nTo use Mojo, simply download the app and start exploring one of our 1,200+ unique templates. After selecting the template you’d like to edit, choose from a number of our editing features to create the perfect video. You can then easily resize and share",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/e1/44/73e144ae-71a6-0c18-388b-65b9604c80ce/AppIcon-AppStore-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 194672823,
+      "size": 193667496,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/b4/b5/e5b4b5bd-71b5-2a36-d21d-b12fb4d8c1b4/01_iphone_8.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/95/c1/9495c198-fb21-332f-c192-d2f95b2e85ed/02_iphone_8.jpg/392x696bb.jpg",
@@ -41411,11 +41456,11 @@
       },
       "versions": [
         {
-          "version": "1.269.1",
-          "date": "2026-06-16",
+          "version": "1.270.0",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: Mojo, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Mojo_AI_Video_&_Reels_Editor_v1_269_1_Subscription_Unlocked_blatant.ipa",
-          "size": 194672823
+          "downloadURL": "https://telos.ftp.sh/ipas/Mojo_AI_Video_&_Reels_Editor_v1_270_0_Subscription_Unlocked_blatant.ipa",
+          "size": 193667496
         }
       ],
       "category": "photo-&-video"
@@ -44818,14 +44863,14 @@
       "bundleIdentifier": "com.gingerlabs.Notability",
       "developerName": "Ginger Labs",
       "subtitle": "Tweaked with Notability, blatantsPatch",
-      "version": "16.4",
-      "versionDate": "2026-06-16",
+      "version": "16.5",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: Notability, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_4_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_5_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Notability, blatantsPatch\n\nNotability: AI Notes & PDF app\n\n---\nFrom your first lecture to your next big meeting, Notability helps you think, learn, and work better. Take handwritten notes, annotate documents, record audio, and stay organized in one place so your ideas are always clear, searchable, and ready when you need them.\n\nFREE DIGITAL NOTES FOR WORK & SCHOOL\n• Write, type, or sketch with digital ink, highlighters, and text tools.\n• Mark up anything: PDFs, textbooks, lecture slides, images, and more.\n• Combine handwriting, typed text, images, diagrams,",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/43/3c/75433c82-440d-bbd3-18ca-12dcc51f3bac/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 263324154,
+      "size": 263434282,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a8/6c/eea86cda-14d4-6a30-2c2c-c3e89532d4a3/1-iPhone55-EN.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/20/f5/f820f50c-2df3-745a-f955-1a70dfb4f1ff/2-iPhone55-EN.png/392x696bb.png",
@@ -44857,11 +44902,11 @@
       },
       "versions": [
         {
-          "version": "16.4",
-          "date": "2026-06-16",
+          "version": "16.5",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: Notability, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_4_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 263324154
+          "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_5_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 263434282
         }
       ],
       "category": "productivity"
@@ -50888,6 +50933,42 @@
         }
       ],
       "category": "graphics-&-design"
+    },
+    {
+      "name": "pixiv",
+      "bundleIdentifier": "net.pxv.iphone",
+      "developerName": "pixiv Inc.",
+      "subtitle": "pixiv for iOS",
+      "version": "8.7.0",
+      "versionDate": "2026-06-22",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/net.pxv.iphone-8.7.0-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nOver 160 million illustrations, manga, and novels to explore right now!\n\nThis is the official iOS app of pixiv, Japan's largest creative community with over 119 million registered users.\nWith this app, you can easily discover and enjoy amazing works anytime, anywhere.\n\npixiv is a platform designed to \"accelerate creativity\".\nFrom anime and manga to fine art, creators from all backgrounds share their work here.\nStart exploring and find your next favorites today!\n\n■ About pixiv\n\n▶ Illustrations\n\n○",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/65/70/e56570b7-e772-72d0-8f04-a5d4dfdbb845/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 35971573,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "By giving access to your camera you can submit images you take with the camera to pixiv.",
+          "NSCameraUsageDescription": "By giving access to your photo library you can submit images from your photo library to pixiv.",
+          "NSCalendarsUsageDescription": "Some ad content may require access.",
+          "NSBluetoothPeripheralUsageDescription": "Some ad content may require access.",
+          "NSUserTrackingUsageDescription": "This allows us to provide you customised ads.",
+          "NSPhotoLibraryAddUsageDescription": "By giving access to your photo library you can download images from pixiv to your photo library."
+        }
+      },
+      "versions": [
+        {
+          "version": "8.7.0",
+          "date": "2026-06-22",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/net.pxv.iphone-8.7.0-eeveedecrypter.ipa",
+          "size": 35971573
+        }
+      ],
+      "category": "social-networking"
     },
     {
       "name": "Pixly",
@@ -77093,6 +77174,46 @@
         }
       ],
       "category": "news"
+    },
+    {
+      "name": "x-kom",
+      "bundleIdentifier": "pl.x-kom.mobileapi",
+      "developerName": "x-kom",
+      "subtitle": "x-kom for iOS",
+      "version": "1.141.0",
+      "versionDate": "2026-06-22",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/pl.x-kom.mobileapi-1.141.0-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nPoznaj un.Box – promocję, w której wszystko jest możliwe. Zgarnij sprzęt nawet za 1 zł. Codziennie otwieraj boxy i łap nowe okazje. Najlepsze znajdziesz tylko w aplikacji.\n\nPobierz aplikację sklepu komputerowego x-kom, zaloguj się i rób zakupy o dowolnej porze i w dowolnym miejscu. Dowiaduj się pierwszy o aktualnych promocjach. Ustaw tryb ciemny – oszczędzaj wzrok i baterię. Wyszukuj wygodnie, sprawdzaj historię i śledź statusy swoich zamówień.\n\nOdkryj korzyści:\n• sprawdź promocję un.Box, w któr",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/6e/2d/5a6e2dd8-a11a-b493-e6c7-63240ae8a7e8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 56554650,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/c0/ba/aec0ba8c-605a-c6a6-5fe0-c0b1a0554e31/579ab819-2d10-4a0b-bacf-93177631629b_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-12-11_at_08.23.56.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/23/9b/46239bbb-4b2d-8dec-a60a-0a0eb5544ba9/a5799b54-face-4c4e-8a5c-9c8cd7e9a4ab_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-12-11_at_08.25.38.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/cf/1c/cbcf1c0d-7ece-c13f-341b-84508f6a1bb1/81546b76-114b-4ea0-95c1-0fc54f5ea382_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-12-11_at_08.25.13.png/576x768bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Biblioteka zdjęć jest używana w celu dodania do komentarza zdjęcia ",
+          "NSLocationWhenInUseUsageDescription": "Twoje położenie jest nam potrzebne, aby znaleźć pobliskie punkty odbioru.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Zezwolić aplikacji x-kom na dostęp do lokalizacji?",
+          "NSCalendarsUsageDescription": "Kalendarz jest używany w celu dodawania wydarzeń związanych z inspiracjami.",
+          "NSFaceIDUsageDescription": "Rozpoznawanie twarzy pozwoli szybko i bezpiecznie logować się do aplikacji",
+          "NSUserTrackingUsageDescription": "Dzięki temu pomożesz nam rozwijać aplikację i pozwoli to dopasowywać do Ciebie treści"
+        }
+      },
+      "versions": [
+        {
+          "version": "1.141.0",
+          "date": "2026-06-22",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/pl.x-kom.mobileapi-1.141.0-eeveedecrypter.ipa",
+          "size": 56554650
+        }
+      ],
+      "category": "shopping"
     },
     {
       "name": "Xodo",
