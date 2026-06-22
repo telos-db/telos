@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "nt.nr.ios",
+    "com.zhiliaoapp.musically",
+    "com.future.kapi",
     "com.duolingo.DuolingoMobile",
-    "archery.storify",
-    "com.gingerlabs.Notability",
-    "com.allegro.iphone",
-    "net.pxv.iphone"
+    "archery.storify"
   ],
   "apps": [
     {
@@ -45336,6 +45336,45 @@
       "category": "utilities"
     },
     {
+      "name": "NR v15.535.13",
+      "bundleIdentifier": "nt.nr.ios",
+      "developerName": "SBNRI TECHNOLOGIES PRIVATE LIMITED",
+      "subtitle": "NR v15.535.13 for iOS",
+      "version": "15.535.13",
+      "versionDate": "2026-06-22",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Null's Royale 15.535.13.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nNull’s Royale\n\n---\n#1 NRI Investment App - Mutual Funds, SIP, SWP, Tax Filing, Digital Gold, PMS, AIF, and more. No minimum deposit. Fully digital.\nAMFI Registered | Reg. No. 246671\n\nNRI MUTUAL FUND INVESTMENT\n 4,000+ NRI-eligible mutual fund schemes across 30+ AMCs.\n Start SIP from Rs.100. Add SWP to create regular monthly income.\n NRI Mutual Fund KYC fully digital - Aadhaar and non-Aadhaar routes.\n Invest via NRE (repatriable) or NRO (non-repatriable) funds.\n Portfolio Analyzer labels every fund: Best Performing",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/37/04/3a370499-eefb-ee8d-0022-473f59dc6646/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 761528213,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/49/a2/bb49a209-3f03-f612-061f-5da2cc5bb79f/Small_ios_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/fb/7e/5bfb7e60-0c1f-ffb6-0932-d934258b32af/Small_ios_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/83/d4/3283d4cf-54ae-772c-f112-cee1440f1bfa/Small_ios_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/af/e3/f3afe3bf-fdf7-3acb-ac81-9446194b7916/Small_ios_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/c4/72/dec472c0-9aea-c6da-b178-cd47e5c0af55/Small_ios_5.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed to send screenshots to Supercell Player Support.",
+          "NSCameraUsageDescription": "Camera access is needed to scan QR codes.",
+          "NSUserTrackingUsageDescription": "Clash Royale would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services."
+        }
+      },
+      "versions": [
+        {
+          "version": "15.535.13",
+          "date": "2026-06-22",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Null's Royale 15.535.13.ipa",
+          "size": 761528213
+        }
+      ],
+      "category": "finance"
+    },
+    {
       "name": "NTE",
       "bundleIdentifier": "com.hottagames.nte",
       "developerName": "N2E ENTERTAINMENT PTE. LTD.",
@@ -68952,14 +68991,14 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok Ltd.",
       "subtitle": "Tweaked with ACTikTok2.1, CydiaSubstrate",
-      "version": "45.6.0",
-      "versionDate": "2026-06-16",
+      "version": "45.7.0",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: ACTikTok2.1, CydiaSubstrate, blatantsPatch, sideloadKeychainfixBlatants\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_6_0_ACTikTok_v2_1_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_7_0_ACTikTok_v2_1_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ACTikTok2.1, CydiaSubstrate, blatantsPatch, sideloadKeychainfixBlatants\n\nTikTok - Videos, Shop & LIVE\n\n---\nTikTok is the global discovery platform for videos, streaming on LIVE, shopping, and more. Our mission is to inspire creativity and bring joy. Over a billion people come to TikTok to share what they love, learn new things, and find ideas that make everyday life more interesting.\n\nYour experience on TikTok is built around what you're into, not who you know. Just watch, like, and scroll to discover videos, creators, and communities you are delighted to discover. From quick recipes to game highligh",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c5/9f/6bc59f11-c2c3-1009-e18b-0033c4ef4d61/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 434684832,
+      "size": 442321331,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/392x696bb.png",
@@ -69000,11 +69039,11 @@
       },
       "versions": [
         {
-          "version": "45.6.0",
-          "date": "2026-06-16",
+          "version": "45.7.0",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: ACTikTok2.1, CydiaSubstrate, blatantsPatch, sideloadKeychainfixBlatants\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_6_0_ACTikTok_v2_1_blatant_Patched.ipa",
-          "size": 434684832
+          "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_7_0_ACTikTok_v2_1_blatant_Patched.ipa",
+          "size": 442321331
         }
       ],
       "category": "entertainment"
@@ -69014,14 +69053,14 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok Ltd.",
       "subtitle": "Tweaked with BHTikTok, CydiaSubstrate",
-      "version": "45.6.0",
-      "versionDate": "2026-06-16",
+      "version": "45.7.0",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: BHTikTok, CydiaSubstrate, FLEX, FLEXing, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_6_0_BHTikTok++_v1_9_3_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_7_0_BHTikTok++_v1_9_3_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BHTikTok, CydiaSubstrate, FLEX, FLEXing, blatantsPatch\n\nTikTok - Videos, Shop & LIVE\n\n---\nTikTok is the global discovery platform for videos, streaming on LIVE, shopping, and more. Our mission is to inspire creativity and bring joy. Over a billion people come to TikTok to share what they love, learn new things, and find ideas that make everyday life more interesting.\n\nYour experience on TikTok is built around what you're into, not who you know. Just watch, like, and scroll to discover videos, creators, and communities you are delighted to discover. From quick recipes to game highligh",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c5/9f/6bc59f11-c2c3-1009-e18b-0033c4ef4d61/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 435242196,
+      "size": 442878693,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/392x696bb.png",
@@ -69062,11 +69101,11 @@
       },
       "versions": [
         {
-          "version": "45.6.0",
-          "date": "2026-06-16",
+          "version": "45.7.0",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: BHTikTok, CydiaSubstrate, FLEX, FLEXing, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_6_0_BHTikTok++_v1_9_3_blatant_Patched.ipa",
-          "size": 435242196
+          "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_7_0_BHTikTok++_v1_9_3_blatant_Patched.ipa",
+          "size": 442878693
         }
       ],
       "category": "entertainment"
@@ -69161,14 +69200,14 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok Ltd.",
       "subtitle": "Tweaked with CydiaSubstrate, VibeTok",
-      "version": "45.6.0",
-      "versionDate": "2026-06-16",
+      "version": "45.7.0",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: CydiaSubstrate, VibeTok, blatantsPatch, sideloadKeychainfixBlatants\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_6_0_VibeTok_v1_72_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_7_0_VibeTok_v1_72_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, VibeTok, blatantsPatch, sideloadKeychainfixBlatants\n\nTikTok - Videos, Shop & LIVE\n\n---\nTikTok is the global discovery platform for videos, streaming on LIVE, shopping, and more. Our mission is to inspire creativity and bring joy. Over a billion people come to TikTok to share what they love, learn new things, and find ideas that make everyday life more interesting.\n\nYour experience on TikTok is built around what you're into, not who you know. Just watch, like, and scroll to discover videos, creators, and communities you are delighted to discover. From quick recipes to game highligh",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c5/9f/6bc59f11-c2c3-1009-e18b-0033c4ef4d61/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 434577037,
+      "size": 442213534,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/392x696bb.png",
@@ -69209,11 +69248,11 @@
       },
       "versions": [
         {
-          "version": "45.6.0",
-          "date": "2026-06-16",
+          "version": "45.7.0",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: CydiaSubstrate, VibeTok, blatantsPatch, sideloadKeychainfixBlatants\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_6_0_VibeTok_v1_72_blatant_Patched.ipa",
-          "size": 434577037
+          "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_7_0_VibeTok_v1_72_blatant_Patched.ipa",
+          "size": 442213534
         }
       ],
       "category": "entertainment"
@@ -79628,14 +79667,14 @@
       "bundleIdentifier": "com.future.kapi",
       "developerName": "Shanghai Yuhuan Technology Co., LTD",
       "subtitle": "Tweaked with KapiCam, blatantsPatch",
-      "version": "4.26.0",
-      "versionDate": "2026-06-14",
+      "version": "4.27.0",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: KapiCam, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Kapi_Cam_Y2K_&_CCD_Camera_v4_26_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Kapi_Cam_Y2K_&_CCD_Camera_v4_27_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: KapiCam, blatantsPatch\n\nKapi Cam - Y2K & CCD Camera\n\n---\nKAPI is an application that allows you to shoot DV, CCD, and film. You can use it to record the beautiful moments in life and enjoy the retro-style picture texture and atmosphere.\n\n• Simulates real DV and CCD effects, taking you back to the millennium in one second.\n• Provides a variety of retro-style filters and special effects, allowing you to create different visual effects as you like.\n• Supports real-time preview of effects, allowing you to easily capture your favorite images.\n• Simple and",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/cf/27/cdcf2763-37de-1622-5735-d3b427208fbb/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 201451713,
+      "size": 201759784,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -79658,11 +79697,11 @@
       },
       "versions": [
         {
-          "version": "4.26.0",
-          "date": "2026-06-14",
+          "version": "4.27.0",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: KapiCam, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Kapi_Cam_Y2K_&_CCD_Camera_v4_26_0_Subscription_Unlocked_blatant.ipa",
-          "size": 201451713
+          "downloadURL": "https://telos.ftp.sh/ipas/Kapi_Cam_Y2K_&_CCD_Camera_v4_27_0_Subscription_Unlocked_blatant.ipa",
+          "size": 201759784
         }
       ],
       "category": "photo-&-video"
