@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.iaftt.flightplusfree",
+    "com.foxfort.nitefall",
     "com.dr1ven.eraser",
     "com.napper",
-    "com.condor.digital.Tide-Over",
-    "com.lyftaios",
-    "com.sadpuppy.lemmings"
+    "com.condor.digital.Tide-Over"
   ],
   "apps": [
     {
@@ -23020,14 +23020,14 @@
       "bundleIdentifier": "com.iaftt.flightplusfree",
       "developerName": "Impala Studios",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "8.7.13",
-      "versionDate": "2026-06-10",
+      "version": "8.7.14",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: blatantsPatch, flighttracker+\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Flight_Tracker_+_v8_7_13_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Flight_Tracker_+_v8_7_14_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFlight Tracker +",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/37/a0/7137a0a9-8fd7-5cbd-125b-053d9b37a5e7/tft_appicon_2025-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 84866178,
+      "size": 123380922,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -23049,11 +23049,11 @@
       },
       "versions": [
         {
-          "version": "8.7.13",
-          "date": "2026-06-10",
+          "version": "8.7.14",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: blatantsPatch, flighttracker+\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Flight_Tracker_+_v8_7_13_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 84866178
+          "downloadURL": "https://telos.ftp.sh/ipas/Flight_Tracker_+_v8_7_14_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 123380922
         }
       ],
       "category": "travel"
@@ -44043,6 +44043,41 @@
         }
       ],
       "category": "entertainment"
+    },
+    {
+      "name": "Nitefall",
+      "bundleIdentifier": "com.foxfort.nitefall",
+      "developerName": "FoxfortMobile",
+      "subtitle": "Nitefall for iOS",
+      "version": "1.123",
+      "versionDate": "2026-06-22",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.foxfort.nitefall-1.123-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/e2/84/74e284ff-bc3c-d08c-2238-38e628be22d6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 8317571,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/42/c1/c6/42c1c6e3-0a9f-6f5f-b542-fa67de24126f/ed35a3e2-14fe-4ecb-aa8d-5477697ead37_5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/87/d7/40/87d7403c-c2e2-5a59-f22d-1f89c04fe9ea/b8e6fc45-7539-4fa2-a387-37c533de52f1_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/10/31/f3/1031f387-4b3d-4da6-4bc7-a465710a02ed/f096f35b-2a15-4bb6-a609-05574026f877_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/8c/ae/c6/8caec653-a91e-aa01-cdda-29d4100e2a76/99ed6d99-6284-43ad-8ab0-5fd68cf77979_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/84/07/f3/8407f337-2723-9c2d-bbc4-3bf2f67b6b0b/0bc41c4e-4118-431d-b67e-1a77a3314fc8_2.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.123",
+          "date": "2026-06-12",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.foxfort.nitefall-1.123-eeveedecrypter.ipa",
+          "size": 8317571
+        }
+      ],
+      "category": "utilities"
     },
     {
       "name": "NIV Bible",
@@ -78688,7 +78723,7 @@
     {
       "title": "⚙️ Telos Update 6.22",
       "identifier": "telos-update-2026-06-22",
-      "caption": "56 Apps Updated:\n• 18 Health & Fitness\n• 12 Photo & Video\n• 6 Utilities\n• 6 Games\n• 4 Productivity\n• 4 Weather\n• 2 Lifestyle\n• 2 Reference\n• 2 Education",
+      "caption": "62 Apps Updated:\n• 18 Health & Fitness\n• 10 Utilities\n• 10 Photo & Video\n• 6 Games\n• 4 Productivity\n• 4 Weather\n• 4 Travel\n• 2 Lifestyle\n• 2 Reference\n• 2 Education",
       "date": "2026-06-22",
       "tintColor": "#02433b",
       "notify": true,
