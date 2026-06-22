@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.robnorback.LiveTranscribe",
-    "com.madarsoft.fitness",
-    "com.iaftt.flightplusfree",
-    "com.foxfort.nitefall",
-    "com.dr1ven.eraser"
+    "com.widget-kid",
+    "com.stippl.stippl",
+    "com.elevateapp.elevate",
+    "co.codeleap.bearable",
+    "com.ld.TakeBrowser"
   ],
   "apps": [
     {
@@ -3128,14 +3128,14 @@
       "bundleIdentifier": "com.ld.TakeBrowser",
       "developerName": "Baoding Lehuo Network Technology Co., Ltd.",
       "subtitle": "Alook for iOS",
-      "version": "22.2",
-      "versionDate": "2026-06-19",
+      "version": "22.3",
+      "versionDate": "2026-06-22",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.2.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.3.ipa",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nAlook Browser - 8x Speed\n\n---\nAlook is a minimalist yet powerful browser, aiming to be the best for iOS.\n\nCore Features\n- Lightning-fast experience: No push notifications, no news, no ads, millisecond startup.\n- Audio and video features: Floating playback, adjustable speed (0.5x-16.0x), background playback, AirPlay casting, DLNA casting, small window playback, single track loop, picture-in-picture, screenshots, mirroring, long press for speed control, and more.\n- File management: Manual downloads, unzip/compress (zip, rar, 7",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/48/46/5d484629-5050-ec50-2586-6398095fda10/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 11890012,
+      "size": 12342020,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/66/ae/6166aecb-a256-1f0e-38ee-03d31a42b123/mzl.nwwaqpwn.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/59/28/e75928c8-ce3e-a099-c742-ddbeb91451ec/mzl.sksamjyd.png/392x696bb.png",
@@ -3156,11 +3156,11 @@
       },
       "versions": [
         {
-          "version": "22.2",
-          "date": "2026-06-19",
+          "version": "22.3",
+          "date": "2026-06-22",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.2.ipa",
-          "size": 11890012
+          "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.3.ipa",
+          "size": 12342020
         }
       ],
       "category": "utilities"
@@ -6369,14 +6369,14 @@
       "bundleIdentifier": "co.codeleap.bearable",
       "developerName": "Bearable Ltd",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "1.0.599",
-      "versionDate": "2026-06-11",
+      "version": "1.0.600",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bearable_Symptom_Tracker_v1_0_599_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bearable_Symptom_Tracker_v1_0_600_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nBearable - Symptom Tracker\n\n---\nFeeling overwhelmed by your health? Bearable can help you feel more in control of your symptoms, flare-ups, and overall well-being.\n\nJoin over 900,000 people securely managing their Chronic Illnesses, Migraine, Pain, Headaches, Fatigue, IBS, PoTS, PCOS, EDS, Period, Mood, Mental Health and more - with Bearable.\n\nBearable helps you discover and manage triggers for changes in your health. Our simple, customizable tracking tools make it easy to understand the correlation between anything you do and",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/0f/70/400f70b8-fc67-76bf-a6cf-f2126c81f5cf/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 60209604,
+      "size": 60404896,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -6407,11 +6407,11 @@
       },
       "versions": [
         {
-          "version": "1.0.599",
-          "date": "2026-06-11",
+          "version": "1.0.600",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bearable_Symptom_Tracker_v1_0_599_Subscription_Unlocked_blatant.ipa",
-          "size": 60209604
+          "downloadURL": "https://telos.ftp.sh/ipas/Bearable_Symptom_Tracker_v1_0_600_Subscription_Unlocked_blatant.ipa",
+          "size": 60404896
         }
       ],
       "category": "health-&-fitness"
@@ -19098,15 +19098,15 @@
       "name": "Elevate",
       "bundleIdentifier": "com.elevateapp.elevate",
       "developerName": "The Mind Company",
-      "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "5.244.0",
-      "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Elevate_Brain_Training_Games_v5_244_0_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nElevate - Brain Training Games\n\n---\nElevate is a brain training program designed to improve your mind’s focus, memory, speaking abilities, processing speed, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.\n\nThe more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. 90%+ report improved vocabulary, math skills, and overall mental sharpness when they frequen",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
+      "version": "5.245.0",
+      "versionDate": "2026-06-22",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.245.0-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nElevate - Brain Training Games\n\n---\nElevate is a brain training program designed to improve your mind’s focus, memory, speaking abilities, processing speed, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.\n\nThe more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. 90%+ report improved vocabulary, math skills, and overall mental sharpness when they frequen",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/31/5a/0f315a96-dad6-7d2c-e168-64cac49b5ab7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 404416303,
+      "size": 394964806,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -19127,11 +19127,11 @@
       },
       "versions": [
         {
-          "version": "5.244.0",
-          "date": "2026-06-16",
-          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Elevate_Brain_Training_Games_v5_244_0_Subscription_Unlocked_blatant.ipa",
-          "size": 404416303
+          "version": "5.245.0",
+          "date": "2026-06-22",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.245.0-riftysipas.ipa",
+          "size": 394964806
         }
       ],
       "category": "education"
@@ -63658,14 +63658,14 @@
       "bundleIdentifier": "com.stippl.stippl",
       "developerName": "Stippl",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.0.11",
-      "versionDate": "2026-06-20",
+      "version": "3.0.12",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Stippl - Travel Planner-v3.0.11-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stippl - Travel Planner-v3.0.12-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nStippl - Travel Planner\n\n---\n1.5 million travelers use Stippl to plan every trip — route planner, day planner, budget tracker, travel journal, reels and eSIM. Everything your next holiday needs, in one app.\n\nPlan your journey in minutes. Relive every adventure forever.\n\nTRAVEL ROUTE PLANNER\nBuild your entire trip visually — add cities, stops and destinations across countries and continents. Change a stop and your whole route adjusts instantly.\n\n• Plan routes across multiple cities and countries\n• Add transport between every",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/e4/7a/e1e47aa3-363d-4699-42bb-980d84d5c744/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 74502267,
+      "size": 74505657,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/14/06/cf1406f4-dd0a-3229-574d-f23efad12892/4efa90cd-d1e7-4166-8808-2219bb0cb244_11.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/6a/15/1a6a156e-916f-1743-651e-b2983dec9750/9efbe272-9087-4906-9d4b-0bd6632ad42d_03.png/392x696bb.png",
@@ -63692,11 +63692,11 @@
       },
       "versions": [
         {
-          "version": "3.0.11",
-          "date": "2026-06-20",
+          "version": "3.0.12",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Stippl - Travel Planner-v3.0.11-riftysipas.ipa",
-          "size": 74502267
+          "downloadURL": "https://telos.ftp.sh/ipas/Stippl - Travel Planner-v3.0.12-riftysipas.ipa",
+          "size": 74505657
         }
       ],
       "category": "travel"
@@ -66635,14 +66635,14 @@
       "bundleIdentifier": "com.widget-kid",
       "developerName": "Pavel Serdziukou",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.3.0",
-      "versionDate": "2026-06-14",
+      "version": "3.4.0",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/TapeKit・Lab of Top Widgets・GIF-v3.3.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/TapeKit・Lab of Top Widgets・GIF-v3.4.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nTapeKit・Lab of Top Widgets・GIF\n\n---\nStand Out with TapeKit – The Ultimate Widget Maker\n\nYour iPhone or iPad is more than just a device – it’s your daily companion and a reflection of who you are. Why settle for an ordinary home screen when you can make it uniquely yours? With TapeKit, you can transform your device into a creative canvas that matches your style, lifts your mood, and expresses your personality.\n\nUnleash Your Creativity with Endless Widget Options\n\nCustomizing your home screen is easier than ever with options like:\n・",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/d8/04/50d804e9-13a3-1255-94d9-deaaf213c2af/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 106766749,
+      "size": 107422970,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -66656,11 +66656,11 @@
       },
       "versions": [
         {
-          "version": "3.3.0",
-          "date": "2026-06-14",
+          "version": "3.4.0",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/TapeKit・Lab of Top Widgets・GIF-v3.3.0-riftysipas.ipa",
-          "size": 106766749
+          "downloadURL": "https://telos.ftp.sh/ipas/TapeKit・Lab of Top Widgets・GIF-v3.4.0-riftysipas.ipa",
+          "size": 107422970
         }
       ],
       "category": "graphics-&-design"
@@ -77667,15 +77667,15 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "subtitle": "Tweaked with CydiaSubstrate, DontEatMyContent",
-      "version": "21.24.3",
-      "versionDate": "2026-06-21",
-      "versionDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Ytkp_5.7crackedmulti.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nYouTube 21.24.3\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
+      "subtitle": "Tweaked with Alderis, CydiaSubstrate",
+      "version": "21.25.5",
+      "versionDate": "2026-06-22",
+      "versionDescription": "Tweaks: Alderis, CydiaSubstrate, DontEatMyContent, Gonerino, IAmYouTube\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/YouMod_21.25.5_1.3.0.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: Alderis, CydiaSubstrate, DontEatMyContent, Gonerino, IAmYouTube\n\nYouTube 21.25.5\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 131627992,
+      "size": 122434036,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -77711,11 +77711,11 @@
       },
       "versions": [
         {
-          "version": "21.24.3",
-          "date": "2026-06-21",
-          "localizedDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Ytkp_5.7crackedmulti.ipa",
-          "size": 131627992
+          "version": "21.25.5",
+          "date": "2026-06-22",
+          "localizedDescription": "Tweaks: Alderis, CydiaSubstrate, DontEatMyContent, Gonerino, IAmYouTube\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/YouMod_21.25.5_1.3.0.ipa",
+          "size": 122434036
         }
       ],
       "category": "photo-&-video"
@@ -77774,12 +77774,12 @@
       "subtitle": "Tweaked with CydiaSubstrate, DontEatMyContent",
       "version": "21.25.5",
       "versionDate": "2026-06-22",
-      "versionDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, NoYTPremium, YTABConfig, YTLite\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]YT_21.25.5_YL.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DontEatMyContent, NoYTPremium, YTABConfig, YTLite\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
+      "versionDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/YouTubePlus_21.25.5_5.2.1.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nYouTube 21.25.5\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 141862695,
+      "size": 131478419,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -77817,9 +77817,9 @@
         {
           "version": "21.25.5",
           "date": "2026-06-22",
-          "localizedDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, NoYTPremium, YTABConfig, YTLite\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]YT_21.25.5_YL.ipa",
-          "size": 141862695
+          "localizedDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/YouTubePlus_21.25.5_5.2.1.ipa",
+          "size": 131478419
         }
       ],
       "category": "photo-&-video"
