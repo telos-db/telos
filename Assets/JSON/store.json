@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.dr1ven.eraser",
     "com.napper",
     "com.condor.digital.Tide-Over",
     "com.lyftaios",
-    "com.sadpuppy.lemmings",
-    "com.strongermobileapp.stronger"
+    "com.sadpuppy.lemmings"
   ],
   "apps": [
     {
@@ -48941,14 +48941,14 @@
       "bundleIdentifier": "com.dr1ven.eraser",
       "developerName": "Photoroom",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "2026.25.02",
-      "versionDate": "2026-06-19",
+      "version": "2026.26.01",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.25.02-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.26.01-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nPhotoroom: AI Photo Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/65/e0/2165e04b-567a-cf7d-1dcb-a2fc8ab699e9/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 165848198,
+      "size": 172811570,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -48970,11 +48970,11 @@
       },
       "versions": [
         {
-          "version": "2026.25.02",
-          "date": "2026-06-19",
+          "version": "2026.26.01",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.25.02-riftysipas.ipa",
-          "size": 165848198
+          "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.26.01-riftysipas.ipa",
+          "size": 172811570
         }
       ],
       "category": "photo-&-video"
@@ -78688,7 +78688,7 @@
     {
       "title": "⚙️ Telos Update 6.22",
       "identifier": "telos-update-2026-06-22",
-      "caption": "74 Apps Updated:\n• 32 Health & Fitness\n• 10 Photo & Video\n• 8 Games\n• 6 Utilities\n• 6 Productivity\n• 6 Weather\n• 2 Lifestyle\n• 2 Reference\n• 2 Education",
+      "caption": "56 Apps Updated:\n• 18 Health & Fitness\n• 12 Photo & Video\n• 6 Utilities\n• 6 Games\n• 4 Productivity\n• 4 Weather\n• 2 Lifestyle\n• 2 Reference\n• 2 Education",
       "date": "2026-06-22",
       "tintColor": "#02433b",
       "notify": true,
