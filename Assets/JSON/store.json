@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.ulisesolave.Fitia",
     "com.stremio.pal",
     "com.mobilefootie.fotmobpro",
     "com.genau.MoneyCircle",
-    "com.google.gemini",
-    "com.clarity.cozycouples"
+    "com.google.gemini"
   ],
   "apps": [
     {
@@ -22381,14 +22381,14 @@
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "23.1.14",
-      "versionDate": "2026-06-21",
+      "version": "23.1.15",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_14_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_15_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFitia: Calorie Counter & Diet",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/18/c2/8e18c267-859b-7791-b7ca-d2fbc39d887e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 125068619,
+      "size": 125068842,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -22415,11 +22415,11 @@
       },
       "versions": [
         {
-          "version": "23.1.14",
-          "date": "2026-06-21",
+          "version": "23.1.15",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_14_Subscription_Unlocked_blatant.ipa",
-          "size": 125068619
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_15_Subscription_Unlocked_blatant.ipa",
+          "size": 125068842
         }
       ],
       "category": "health-&-fitness"
@@ -78686,11 +78686,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 6.22",
+      "identifier": "telos-update-2026-06-22",
+      "caption": "4 Apps Updated:\n• 4 Health & Fitness",
+      "date": "2026-06-22",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "com.ulisesolave.Fitia"
+    },
+    {
       "title": "⚙️ Telos Update 6.21",
       "identifier": "telos-update-2026-06-21",
-      "caption": "52 Apps Updated:\n• 16 Utilities\n• 8 Photo & Video\n• 8 Social Networking\n• 6 Education\n• 2 Health & Fitness\n• 2 Entertainment\n• 2 Developer Tools\n• 2 Lifestyle\n• 2 Productivity\n• 2 Books\n• 2 Sports",
+      "caption": "46 Apps Updated:\n• 10 Utilities\n• 8 Photo & Video\n• 8 Social Networking\n• 6 Education\n• 2 Health & Fitness\n• 2 Entertainment\n• 2 Developer Tools\n• 2 Lifestyle\n• 2 Productivity\n• 2 Books\n• 2 Sports",
       "date": "2026-06-21",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.AppChief.ArabicArt"
     },
@@ -78699,7 +78708,7 @@
       "identifier": "telos-update-2026-06-20",
       "caption": "36 Apps Updated:\n• 8 Health & Fitness\n• 6 Games\n• 6 Photo & Video\n• 4 Education\n• 2 Music\n• 2 Weather\n• 2 Medical\n• 2 Lifestyle\n• 2 Utilities\n• 2 Travel",
       "date": "2026-06-20",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.offlinemusic"
     },
@@ -78708,7 +78717,7 @@
       "identifier": "telos-update-2026-06-19",
       "caption": "190 Apps Updated:\n• 38 Health & Fitness\n• 36 Photo & Video\n• 22 Lifestyle\n• 18 Games\n• 10 Productivity\n• 10 Utilities\n• 10 Education\n• 8 Navigation\n• 4 Food & Drink\n• 4 Music\n• 4 Weather\n• 4 News\n• 4 Business\n• 4 Sports\n• 4 Entertainment\n• 2 Social Networking\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools\n• 2 Books",
       "date": "2026-06-19",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "boomer.Smart-Video"
     },
@@ -78717,7 +78726,7 @@
       "identifier": "telos-update-2026-06-18",
       "caption": "56 Apps Updated:\n• 18 Photo & Video\n• 8 Health & Fitness\n• 4 Lifestyle\n• 4 Travel\n• 4 Education\n• 4 Social Networking\n• 2 Finance\n• 2 Graphics & Design\n• 2 Music\n• 2 Productivity\n• 2 Shopping\n• 2 News\n• 2 Weather",
       "date": "2026-06-18",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.iPwners.Plonkan"
     },
@@ -78726,7 +78735,7 @@
       "identifier": "telos-update-2026-06-17",
       "caption": "74 Apps Updated:\n• 20 Photo & Video\n• 16 Health & Fitness\n• 8 Education\n• 6 Utilities\n• 4 Navigation\n• 4 Business\n• 4 Weather\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Social Networking\n• 2 Lifestyle\n• 2 Medical\n• 2 Reference",
       "date": "2026-06-17",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.picsart.studio"
     },
@@ -78735,7 +78744,7 @@
       "identifier": "telos-update-2026-06-16",
       "caption": "254 Apps Updated:\n• 80 Photo & Video\n• 31 Health & Fitness\n• 21 Music\n• 19 Productivity\n• 17 Utilities\n• 17 Games\n• 13 Entertainment\n• 11 Education\n• 10 News\n• 7 Lifestyle\n• 6 Navigation\n• 6 Reference\n• 4 Sports\n• 4 Social Networking\n• 2 Food & Drink\n• 2 Weather\n• 2 Medical\n• 2 Graphics & Design",
       "date": "2026-06-16",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.genau.MoneyCircle"
     },
@@ -78744,7 +78753,7 @@
       "identifier": "telos-update-2026-06-15",
       "caption": "845 Apps Updated:\n• 169 Photo & Video\n• 160 News\n• 94 Social Networking\n• 62 Utilities\n• 60 Games\n• 50 Productivity\n• 50 Music\n• 38 Business\n• 24 Entertainment\n• 20 Reference\n• 18 Lifestyle\n• 14 Education\n• 12 Health & Fitness\n• 12 Sports\n• 10 Finance\n• 10 Shopping\n• 10 Food & Drink\n• 8 Travel\n• 6 Navigation\n• 6 Developer Tools\n• 4 Graphics & Design\n• 2 Weather\n• 2 Medical\n• 2 Books\n• 2 Other",
       "date": "2026-06-15",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.condor.digital.Tide-Over"
     },
@@ -78753,7 +78762,7 @@
       "identifier": "telos-update-2026-06-14",
       "caption": "401 Apps Updated:\n• 79 Health & Fitness\n• 76 Photo & Video\n• 40 Games\n• 39 Education\n• 32 Productivity\n• 20 Lifestyle\n• 18 Utilities\n• 15 Finance\n• 12 Music\n• 11 Sports\n• 9 Food & Drink\n• 9 Medical\n• 8 Entertainment\n• 7 Navigation\n• 7 Social Networking\n• 6 Weather\n• 5 Graphics & Design\n• 3 Business\n• 2 Reference\n• 2 News\n• 1 Travel",
       "date": "2026-06-14",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.SixThree.POV"
     },
@@ -78762,18 +78771,9 @@
       "identifier": "telos-update-2026-06-13",
       "caption": "360 Apps Updated:\n• 85 Health & Fitness\n• 46 Games\n• 40 Lifestyle\n• 35 Photo & Video\n• 34 Productivity\n• 24 Education\n• 13 Utilities\n• 12 Food & Drink\n• 11 Sports\n• 11 Business\n• 11 Finance\n• 9 Music\n• 8 Navigation\n• 6 Medical\n• 6 Weather\n• 3 News\n• 2 Reference\n• 2 Graphics & Design\n• 1 Entertainment\n• 1 Travel",
       "date": "2026-06-13",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "com.pungme.combyne"
-    },
-    {
-      "title": "⚙️ Telos Update 6.12",
-      "identifier": "telos-update-2026-06-12",
-      "caption": "414 Apps Updated:\n• 85 Health & Fitness\n• 55 Games\n• 52 Photo & Video\n• 39 Lifestyle\n• 39 Productivity\n• 26 Utilities\n• 25 Education\n• 19 Music\n• 11 Medical\n• 10 Food & Drink\n• 10 Finance\n• 8 Weather\n• 8 Sports\n• 6 Graphics & Design\n• 5 Business\n• 4 Navigation\n• 3 Developer Tools\n• 3 Reference\n• 2 Travel\n• 2 Entertainment\n• 1 Books\n• 1 News",
-      "date": "2026-06-12",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.northstar.gratitude"
+      "appID": "com.pungme.combyne"
     }
   ]
 }
