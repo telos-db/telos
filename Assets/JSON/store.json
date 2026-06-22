@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.lens.ai.app",
     "com.google.ios.youtube",
     "com.blockpuzzle.us.ios",
     "com.intsig.CamScannerLite",
-    "com.andydev.alpenglow",
-    "com.genau.JournalCircle"
+    "com.andydev.alpenglow"
   ],
   "apps": [
     {
@@ -35586,14 +35586,14 @@
       "bundleIdentifier": "com.lens.ai.app",
       "developerName": "XLABS DIJITAL HIZMETLER ANONIM SIRKETI",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "1.0.48",
-      "versionDate": "2026-06-14",
+      "version": "1.0.49",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lens AI: Scanner & Identifier-v1.0.48-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lens AI: Scanner & Identifier-v1.0.49-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nLens AI: Scanner & Identifier",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/29/17/0329177d-34aa-2d36-3a30-076e0a5c5227/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 45916923,
+      "size": 48779726,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -35613,11 +35613,11 @@
       },
       "versions": [
         {
-          "version": "1.0.48",
-          "date": "2026-06-14",
+          "version": "1.0.49",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lens AI: Scanner & Identifier-v1.0.48-riftysipas.ipa",
-          "size": 45916923
+          "downloadURL": "https://telos.ftp.sh/ipas/Lens AI: Scanner & Identifier-v1.0.49-riftysipas.ipa",
+          "size": 48779726
         }
       ],
       "category": "reference"
@@ -78688,7 +78688,7 @@
     {
       "title": "⚙️ Telos Update 6.22",
       "identifier": "telos-update-2026-06-22",
-      "caption": "16 Apps Updated:\n• 4 Photo & Video\n• 2 Utilities\n• 2 Health & Fitness\n• 2 Lifestyle\n• 2 Productivity\n• 2 Weather\n• 2 Games",
+      "caption": "20 Apps Updated:\n• 4 Photo & Video\n• 4 Reference\n• 2 Utilities\n• 2 Health & Fitness\n• 2 Lifestyle\n• 2 Productivity\n• 2 Weather\n• 2 Games",
       "date": "2026-06-22",
       "tintColor": "#02433b",
       "notify": true,
