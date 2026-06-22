@@ -20990,12 +20990,12 @@
       "bundleIdentifier": "com.genau.JournalCircle",
       "developerName": "Genau Factory",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nJournalCircle: Diary & Tracker\n\n---\nDiscover JournalCircle, a journaling app featured on the App Store across multiple regions. JournalCircle combines AI-powered journaling, voice notes, mood tracking, and entry analysis to help you record your daily life with clarity. Users often mention that the clean, beautiful design makes them want to journal more consistently.\n\nJournalCircle is a journaling and life log app designed to manage your diary, mood, routines, goals, and daily records in one place.\n\nAI-powered journaling tools\nJour",
-      "version": "3.4.1",
-      "versionDate": "2026-06-19T17:56:55-00:00",
+      "version": "3.4.2",
+      "versionDate": "2026-06-22T01:25:56-00:00",
       "versionDescription": "Build 1 from @riftysIPAlibrary",
-      "size": 13512432,
+      "size": 13513850,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/48/33/ed4833dd-86d9-8719-79bf-3cf44589f4bd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.2-riftysipas.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -21008,7 +21008,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "JournalCircle: Diary & Tracker-v3.4.1-riftysipas.ipa"
+        "originalFile": "JournalCircle: Diary & Tracker-v3.4.2-riftysipas.ipa"
       }
     },
     {
@@ -40254,24 +40254,25 @@
       "bundleIdentifier": "com.stremio.pal",
       "developerName": "Jamie Harper",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nStermio is a modern video local that makes it easy to watch your content in one place. Import videos from the Files app or Photos, watch from links, and enjoy smooth playback in a clean, premium interface.\n\nBuilt for everyday viewing, Stermio helps you organize your library, quickly reopen recent videos, and keep watching with intuitive controls.",
-      "version": "2.0.1",
-      "versionDate": "2026-06-21T23:38:35-00:00",
-      "versionDescription": "Build 16 from @binnichtaktivsipas",
-      "size": 73561004,
+      "version": "2.0.2",
+      "versionDate": "2026-06-22T01:25:16-00:00",
+      "versionDescription": "Build 17 from @binnichtaktivsipas",
+      "size": 78053554,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/db/ac/a6dbac32-66d9-20f8-2cf2-a98f72d680bd/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/stremio_tvOS 2.0.1.ipa",
-      "minOSVersion": "15.0",
+      "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.2.ipa",
+      "minOSVersion": "13.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        3
+        1,
+        2
       ],
       "metadata": {
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "stremio_tvOS 2.0.1.ipa"
+        "originalFile": "stremio_iOS 2.0.2.ipa"
       }
     },
     {
