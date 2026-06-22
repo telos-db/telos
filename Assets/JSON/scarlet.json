@@ -14639,13 +14639,13 @@
       "name": "Flight Tracker",
       "bundleIdentifier": "com.iaftt.flightplusfree",
       "developerName": "Impala Studios",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nFlight delays. Unclear gate changes. Last-minute cancellations.\n\nTravel should be exciting — not stressful. Whether you're catching a flight, picking up family from the airport, or following someone’s journey across the globe, staying informed shouldn't require checking five different apps.\n\nFlight Tracker + brings everything into one place — a real-time flight tracker, airline flight status tracker, and interactive flight radar 24/7 tool that helps you plan better, react faster, and travel smar",
-      "version": "8.7.10",
-      "versionDate": "2026-06-15T13:58:32-00:00",
-      "versionDescription": "Build 17182 from @thescholarslounge",
-      "size": 118359151,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: blatantsPatch, flighttracker+\n\nFlight Tracker +\n\n---\nFlight delays. Unclear gate changes. Last-minute cancellations.\n\nTravel should be exciting — not stressful. Whether you're catching a flight, picking up family from the airport, or following someone’s journey across the globe, staying informed shouldn't require checking five different apps.\n\nFlight Tracker + brings everything into one place — a real-time flight tracker, airline flight status tracker, and interactive flight radar 24/7 tool that helps you plan better, react faster, and travel smar",
+      "version": "8.7.14",
+      "versionDate": "2026-06-22T13:24:31-00:00",
+      "versionDescription": "Build 17370 from @blatants",
+      "size": 123380922,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/37/a0/7137a0a9-8fd7-5cbd-125b-053d9b37a5e7/tft_appicon_2025-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.iaftt.flightplusfree-8.7.10-eeveedecrypter.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Flight_Tracker_+_v8_7_14_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -14655,10 +14655,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@thescholarslounge",
+        "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "com.iaftt.flightplusfree-8.7.10-eeveedecrypter.ipa"
+        "originalFile": "Flight_Tracker_+_v8_7_14_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -27846,6 +27846,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "com.nintendo.znca-3.3.1-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "Nitefall",
+      "bundleIdentifier": "com.foxfort.nitefall",
+      "developerName": "FoxfortMobile",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nNitefall is a Safari extension that converts all your websites to dark mode and reduces eye strain, especially helpful at night. It works automatically with system appearance so that your websites are only dark when the whole system is in dark mode.\n\nFeatures:\n-3 dark themes to pick from (Dark gray, Monokai, Midnight)\n-Darken navigation maps\n-Support for blacklisting specific websites\n-Increase transparent PNG icons contrast (especially when they are very dark and not easily to viewable)\n-Per si",
+      "version": "1.123",
+      "versionDate": "2026-06-22T13:22:27-00:00",
+      "versionDescription": "Build 123 from @thescholarslounge",
+      "size": 8317571,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/e2/84/74e284ff-bc3c-d08c-2238-38e628be22d6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.foxfort.nitefall-1.123-eeveedecrypter.ipa",
+      "minOSVersion": "15.4",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.foxfort.nitefall-1.123-eeveedecrypter.ipa"
       }
     },
     {
