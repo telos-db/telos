@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.lens.ai.app",
-    "com.google.ios.youtube",
-    "com.blockpuzzle.us.ios",
-    "com.intsig.CamScannerLite",
-    "com.andydev.alpenglow"
+    "com.piano.star.tiles.music.circles.dancing.beat.magic",
+    "com.underpassapp.StopTheMadnessPro",
+    "com.lexwarelabs.goodmorning",
+    "com.getmimo.mimo",
+    "com.aoklab.fewerphotos"
   ],
   "apps": [
     {
@@ -40165,14 +40165,14 @@
       "bundleIdentifier": "com.getmimo.mimo",
       "developerName": "Mimo GmbH",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "12.14.1",
-      "versionDate": "2026-06-19",
+      "version": "12.15.0",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: Mimo, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Mimo_Learn_Coding_Programming_v12_14_1_Max_Subscription_Unlocked.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Mimo_Learn_Coding_Programming_v12_15_0_Max_Subscription_Unlocked.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nMimo: Learn Coding/Programming",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/1c/ea/301cea49-da17-0244-e0fb-3672a549526d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 168162788,
+      "size": 168184883,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -40191,11 +40191,11 @@
       },
       "versions": [
         {
-          "version": "12.14.1",
-          "date": "2026-06-19",
+          "version": "12.15.0",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: Mimo, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Mimo_Learn_Coding_Programming_v12_14_1_Max_Subscription_Unlocked.ipa",
-          "size": 168162788
+          "downloadURL": "https://telos.ftp.sh/ipas/Mimo_Learn_Coding_Programming_v12_15_0_Max_Subscription_Unlocked.ipa",
+          "size": 168184883
         }
       ],
       "category": "education"
@@ -49166,14 +49166,14 @@
       "bundleIdentifier": "com.piano.star.tiles.music.circles.dancing.beat.magic",
       "developerName": "TINYMAX HONGKONG LIMITED",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "1.7.3",
-      "versionDate": "2026-06-12",
+      "version": "1.7.4",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, popuprifty, riftyspianostar\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Piano Star - Tap Your Music-v1.7.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Piano Star - Tap Your Music-v1.7.4-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nPiano Star - Tap Your Music",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/4f/cc/a74fcc1d-6a36-b6b0-32c4-8f7f706d79a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 172066755,
+      "size": 169278575,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/8c/0f/e48c0fe2-797e-737c-0ab7-e891183ff1c4/51490eb7-a98b-4b1d-8775-bd3af301e00b_2.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/29/4a/af/294aaf79-27a4-5d53-c123-0b64a4b5acc9/b1c999f6-b5b3-40b8-a66e-c6361f091419_3.jpg/392x696bb.jpg",
@@ -49194,11 +49194,11 @@
       },
       "versions": [
         {
-          "version": "1.7.3",
-          "date": "2026-05-20",
+          "version": "1.7.4",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, popuprifty, riftyspianostar\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Piano Star - Tap Your Music-v1.7.3-riftysipas.ipa",
-          "size": 172066755
+          "downloadURL": "https://telos.ftp.sh/ipas/Piano Star - Tap Your Music-v1.7.4-riftysipas.ipa",
+          "size": 169278575
         }
       ],
       "category": "games"
@@ -58792,14 +58792,14 @@
       "bundleIdentifier": "com.lexwarelabs.goodmorning",
       "developerName": "Sleep Cycle AB",
       "subtitle": "Premium Unlocked | Patched",
-      "version": "6.26.23",
-      "versionDate": "2026-06-16",
+      "version": "6.26.24",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: SleepCycle, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sleep_Cycle_Tracker_&_Sounds_v6_26_23_Premium_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sleep_Cycle_Tracker_&_Sounds_v6_26_24_Premium_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nSleep Cycle - Tracker & Sounds",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/35/f7/ee35f75a-26d7-58b6-62fe-ace5bc92ffa1/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 341571816,
+      "size": 341680464,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/1a/ca/b51acae8-a9fa-efc2-804c-ab27581d58a5/f706957a-db7a-4ce9-937e-f08c8a275a5e_SC_iPad_iOS_2048x2732px_01.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/30/6a/37306a67-340e-06ec-3884-28857d755ae4/f2cf43a7-619e-4879-ba35-398a32d3eb02_SC_iPad_iOS_2048x2732px_02.png/576x768bb.png",
@@ -58838,11 +58838,11 @@
       },
       "versions": [
         {
-          "version": "6.26.23",
-          "date": "2026-06-16",
+          "version": "6.26.24",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: SleepCycle, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Sleep_Cycle_Tracker_&_Sounds_v6_26_23_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 341571816
+          "downloadURL": "https://telos.ftp.sh/ipas/Sleep_Cycle_Tracker_&_Sounds_v6_26_24_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 341680464
         }
       ],
       "category": "health-&-fitness"
@@ -63300,14 +63300,14 @@
       "bundleIdentifier": "com.underpassapp.StopTheMadnessPro",
       "developerName": "Jeff Johnson",
       "subtitle": "StopTheMadness Pro for iOS",
-      "version": "23.0",
-      "versionDate": "2026-03-01",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/StopTheMadnessPro_23.0.ipa",
-      "localizedDescription": "StopTheMadness Pro 23.0\n\n---\n\nStopTheMadness Pro is a web browser extension that stops websites from making your browser harder to use, and it protects your privacy on the web. StopTheMadness Pro is not an ad blocker but rather a one of a kind extension with a huge number of unique features! Made by indie developer Jeff Johnson. The support link has documentation and my email address. StopTheMadness Pro includes extensions for Safari on iOS and iPadOS, Safari, Safari web apps, Chrome, and Firefox on macOS.\n\nStopTheMadness Pr",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/0d/f4/c30df4d5-a275-125c-10d3-57fd7e3838a6/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
+      "version": "26.3",
+      "versionDate": "2026-06-22",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/StopTheMadness_Pro_v26_3_PI_64bit_os170_ok26_user_hidden_bfi.ipa",
+      "localizedDescription": "StopTheMadness Pro for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/71/06/04710659-79d8-f960-a1e8-ffdde5a21646/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 16124485,
+      "size": 16122729,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -63315,11 +63315,11 @@
       },
       "versions": [
         {
-          "version": "23.0",
-          "date": "2026-03-01",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/StopTheMadnessPro_23.0.ipa",
-          "size": 16124485
+          "version": "26.3",
+          "date": "2026-06-08",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/StopTheMadness_Pro_v26_3_PI_64bit_os170_ok26_user_hidden_bfi.ipa",
+          "size": 16122729
         }
       ],
       "category": "utilities"
@@ -65577,14 +65577,14 @@
       "bundleIdentifier": "com.aoklab.fewerphotos",
       "developerName": "MWM",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "3.4.4",
-      "versionDate": "2026-06-17",
+      "version": "3.4.5",
+      "versionDate": "2026-06-22",
       "versionDescription": "Tweaks: SwipeWipe, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Swipewipe  Photo Cleaner v3.4.4 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Swipewipe  Photo Cleaner v3.4.5 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nSwipewipe: Photo Cleaner",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/b9/7d/80b97d59-8e01-a990-b4cb-4677278644fa/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 161517842,
+      "size": 161560456,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/56/6c/6a566cd1-ef9d-fbd3-c7a8-d6ab33a93216/EN_ipad_01.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/55/b0/aa55b0fc-daaa-7d07-7ead-c87254da1c85/EN_ipad_02.png/576x768bb.png",
@@ -65607,11 +65607,11 @@
       },
       "versions": [
         {
-          "version": "3.4.4",
-          "date": "2026-06-17",
+          "version": "3.4.5",
+          "date": "2026-06-22",
           "localizedDescription": "Tweaks: SwipeWipe, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Swipewipe  Photo Cleaner v3.4.4 Pro Unlocked blatant Patched.ipa",
-          "size": 161517842
+          "downloadURL": "https://telos.ftp.sh/ipas/Swipewipe  Photo Cleaner v3.4.5 Pro Unlocked blatant Patched.ipa",
+          "size": 161560456
         }
       ],
       "category": "utilities"
@@ -70804,15 +70804,15 @@
       "name": "Unfold",
       "bundleIdentifier": "com.moonlab.unfoldstories",
       "developerName": "Squarespace, Inc.",
-      "subtitle": "Tweaked with AutoRc, CydiaSubstrate",
-      "version": "8.159.0",
-      "versionDate": "2026-06-09",
-      "versionDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Unfold: Video & Photo Editor Plus 8.159.0.ipa",
-      "localizedDescription": "Unfold: Video & Photo Editor",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "8.160.0",
+      "versionDate": "2026-06-22",
+      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Unfold_Reels_&_Story_Maker_v8_160_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nUnfold: Reels & Story Maker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/f5/60/bff56095-0b82-bfb9-d88b-f0a9c94e073b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 164440836,
+      "size": 220843932,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/ce/36/46ce36e8-5c84-35de-5774-73bd03c9ab91/4dbb9940-67ea-429f-8352-364c31f13a66_option_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/5d/73/fc5d735a-b7ac-68e3-af14-83e37d77275e/2585f158-68b0-43c9-be57-df9f2c8e4043_Unfold_AS_SC_03.jpg/392x696bb.jpg",
@@ -70838,11 +70838,11 @@
       },
       "versions": [
         {
-          "version": "8.159.0",
-          "date": "2026-05-18",
-          "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Unfold: Video & Photo Editor Plus 8.159.0.ipa",
-          "size": 164440836
+          "version": "8.160.0",
+          "date": "2026-06-22",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Unfold_Reels_&_Story_Maker_v8_160_0_Subscription_Unlocked_blatant.ipa",
+          "size": 220843932
         }
       ],
       "category": "photo-&-video"
@@ -78688,7 +78688,7 @@
     {
       "title": "⚙️ Telos Update 6.22",
       "identifier": "telos-update-2026-06-22",
-      "caption": "20 Apps Updated:\n• 4 Photo & Video\n• 4 Reference\n• 2 Utilities\n• 2 Health & Fitness\n• 2 Lifestyle\n• 2 Productivity\n• 2 Weather\n• 2 Games",
+      "caption": "42 Apps Updated:\n• 10 Utilities\n• 8 Photo & Video\n• 6 Health & Fitness\n• 6 Games\n• 4 Education\n• 2 Lifestyle\n• 2 Productivity\n• 2 Weather\n• 2 Reference",
       "date": "2026-06-22",
       "tintColor": "#02433b",
       "notify": true,
