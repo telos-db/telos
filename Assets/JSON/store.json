@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.ulisesolave.Fitia",
+    "com.genau.JournalCircle",
     "com.stremio.pal",
+    "com.ulisesolave.Fitia",
     "com.mobilefootie.fotmobpro",
-    "com.genau.MoneyCircle",
-    "com.google.gemini"
+    "com.genau.MoneyCircle"
   ],
   "apps": [
     {
@@ -63724,13 +63724,13 @@
       "developerName": "Jamie Harper",
       "subtitle": "Stremio for iOS",
       "version": "2.0.2",
-      "versionDate": "2026-06-21",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/stremio_tvOS 2.0.2.ipa",
+      "versionDate": "2026-06-22",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.2.ipa",
       "localizedDescription": "Stremio for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/db/ac/a6dbac32-66d9-20f8-2cf2-a98f72d680bd/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 73561363,
+      "size": 78053554,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -63739,10 +63739,10 @@
       "versions": [
         {
           "version": "2.0.2",
-          "date": "2026-06-21",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/stremio_tvOS 2.0.2.ipa",
-          "size": 73561363
+          "date": "2026-06-22",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.2.ipa",
+          "size": 78053554
         }
       ],
       "category": "utilities"
@@ -78688,11 +78688,11 @@
     {
       "title": "⚙️ Telos Update 6.22",
       "identifier": "telos-update-2026-06-22",
-      "caption": "4 Apps Updated:\n• 4 Health & Fitness",
+      "caption": "10 Apps Updated:\n• 4 Utilities\n• 4 Lifestyle\n• 2 Health & Fitness",
       "date": "2026-06-22",
       "tintColor": "#02433b",
       "notify": true,
-      "appID": "com.ulisesolave.Fitia"
+      "appID": "com.stremio.pal"
     },
     {
       "title": "⚙️ Telos Update 6.21",
