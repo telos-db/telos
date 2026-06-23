@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.soundcloud.TouchApp",
-    "com.calisthenics.thenx",
-    "com.ahaf.mshion",
-    "com.shantanu.YouCut",
-    "ai.parrotpal"
+    "com.readdle.Scanner",
+    "org.fastdevsproject.altervista.Device-Monitor",
+    "com.codeway.cleanerplus",
+    "com.calm.calmapp",
+    "com.soundcloud.TouchApp"
   ],
   "apps": [
     {
@@ -10172,14 +10172,14 @@
       "bundleIdentifier": "com.calm.calmapp",
       "developerName": "Calm.com",
       "subtitle": "Tweaked with Calm, blatantsPatch",
-      "version": "6.98",
-      "versionDate": "2026-06-19",
+      "version": "6.98.1",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: Calm, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Calm v6.98 Lifetime Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Calm v6.98.1 Lifetime Unlocked blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Calm, blatantsPatch\n\nCalm\n\n---\nBest of 2018 Award Winner — Apple\n\n 2017 App of the Year — Apple\n\n Happiest App in the World — Center for Humane Technology\n\nCalm is the #1 app for Sleep, Meditation and Relaxation. Sleep better, relieve stress, lower anxiety and refocus your attention. Explore an extensive library of guided meditations, Sleep Stories, breathwork, exclusive music and stretching exercises.\n\nInvest in your mental health and choose a guided meditation session that fits within your busy schedule. Add Calm to your da",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/88/8c/11888cdd-0381-2cd8-0646-9a10d0d22172/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 126960697,
+      "size": 126965953,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/87/9d/4e879dd8-bf44-69df-a4f5-092ef3688f76/748cb6a5-5588-4d86-af93-7add35562d37_iPhone_5.5_Inch_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/d7/a0/c4d7a09f-9670-503d-548b-dac1f19012a2/92a594c0-f5b1-4739-bffd-88930991b524_iPhone_5.5_Inch_02.png/392x696bb.png",
@@ -10209,11 +10209,11 @@
       },
       "versions": [
         {
-          "version": "6.98",
-          "date": "2026-06-19",
+          "version": "6.98.1",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: Calm, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Calm v6.98 Lifetime Unlocked blatant Patched.ipa",
-          "size": 126960697
+          "downloadURL": "https://telos.ftp.sh/ipas/Calm v6.98.1 Lifetime Unlocked blatant Patched.ipa",
+          "size": 126965953
         }
       ],
       "category": "health-&-fitness"
@@ -12839,14 +12839,14 @@
       "bundleIdentifier": "com.codeway.cleanerplus",
       "developerName": "DEEP FLOW SOFTWARE SERVICES",
       "subtitle": "Tweaked with Cleanup, blatantsPatch",
-      "version": "6.14.1",
-      "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: Cleanup, blatantsPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Cleanup_Phone_Storage_Cleaner_v6_14_1_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Cleanup, blatantsPatch\n\nSimilar?\n\n---\nClean up your iPhone and optimize storage in seconds.\n\nRemove duplicate photos, videos, and junk emails. Cleanup helps you clear your camera roll, merge duplicate contacts, compress videos, and organize storage — all in one app.\n\nOPTIMIZE STORAGE – FREE UP SPACE WITH ONE TAP\nRunning low on space? Cleanup gives you powerful tools to take control:\n- Delete duplicate photos and videos\n- Remove similar screenshots and lookalike videos\n- Compress large files without losing quality\n- Clean up spam and",
+      "version": "6.17.0",
+      "versionDate": "2026-06-23",
+      "versionDescription": "Tweaks: Cleanup, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Cleanup_Phone_Storage_Cleaner_v6_17_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Cleanup, blatantsPatch\n\nCleanup: Phone Storage Cleaner\n\n---\nClean up your iPhone and optimize storage in seconds.\n\nRemove duplicate photos, videos, and junk emails. Cleanup helps you clear your camera roll, merge duplicate contacts, compress videos, and organize storage — all in one app.\n\nOPTIMIZE STORAGE – FREE UP SPACE WITH ONE TAP\nRunning low on space? Cleanup gives you powerful tools to take control:\n- Delete duplicate photos and videos\n- Remove similar screenshots and lookalike videos\n- Compress large files without losing quality\n- Clean up spam and",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/53/34/3e5334e4-e9d9-b8b7-e6bf-9f6764595e84/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 116412371,
+      "size": 122037920,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -12868,11 +12868,11 @@
       },
       "versions": [
         {
-          "version": "6.14.1",
-          "date": "2026-06-16",
-          "localizedDescription": "Tweaks: Cleanup, blatantsPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Cleanup_Phone_Storage_Cleaner_v6_14_1_Subscription_Unlocked_blatant.ipa",
-          "size": 116412371
+          "version": "6.17.0",
+          "date": "2026-06-23",
+          "localizedDescription": "Tweaks: Cleanup, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Cleanup_Phone_Storage_Cleaner_v6_17_0_Subscription_Unlocked_blatant.ipa",
+          "size": 122037920
         }
       ],
       "category": "utilities"
@@ -16692,14 +16692,14 @@
       "bundleIdentifier": "org.fastdevsproject.altervista.Device-Monitor",
       "developerName": "Fast-Devs Project",
       "subtitle": "Tweaked with DeviceMonitor2, blatantsPatch",
-      "version": "26.5.0",
-      "versionDate": "2026-06-11",
+      "version": "26.6.0",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: DeviceMonitor2, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Device_Monitor²_v26_5_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Device_Monitor²_v26_6_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: DeviceMonitor2, blatantsPatch\n\nDevice Monitor²\n\n---\nDevice Monitor² is a one-of-a-kind app designed for iPhone, iPad, Apple Watch and Mac, providing all the essential information about your device at a glance, quickly and effortlessly. Discover which sensors apps have access to and take control of your privacy.\n\nWhy choose Device Monitor²?\nHere are some of its main features:\n• Clear and intuitive data visualization;\n• Detailed information about:\n - DEVICE,\n - SENSORS,\n - RAM,\n - STORAGE,\n - CPU,\n - GPU (not available on Apple Watch),\n - NETWORK,",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/bc/fa/8fbcfa22-381b-9d52-1214-7f2220aa2ffd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 22620929,
+      "size": 33124294,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -16722,11 +16722,11 @@
       },
       "versions": [
         {
-          "version": "26.5.0",
-          "date": "2026-06-11",
+          "version": "26.6.0",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: DeviceMonitor2, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Device_Monitor²_v26_5_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 22620929
+          "downloadURL": "https://telos.ftp.sh/ipas/Device_Monitor²_v26_6_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 33124294
         }
       ],
       "category": "developer-tools"
@@ -57196,14 +57196,14 @@
       "bundleIdentifier": "com.readdle.Scanner",
       "developerName": "Readdle Technologies Limited",
       "subtitle": "Tweaked with AutoRevenueCat, FilePickerFix",
-      "version": "8.37.0",
-      "versionDate": "2026-06-19",
+      "version": "8.37.1",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: AutoRevenueCat, FilePickerFix, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Scanner Pro - Scan Documents-v8.37.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Scanner Pro - Scan Documents-v8.37.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: AutoRevenueCat, FilePickerFix, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nScanner Pro - Scan Documents\n\n---\nEffortlessly scan, organize, and share documents on the go to have everything you need at your fingertips. Scanner Pro brings you high-quality document scan technology in a convenient and simple mobile app. Scan agreements, receipts, IDs, books, and more using your device to convert them into PDFs in seconds. Safely store and share your documents with anyone in just a few taps with Scanner Pro.\n\nExperience the simplicity of on-the-go document scanning. Scan travel expenses, convert sketches into",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/49/36/fe49363f-a905-bad1-24d6-d2b2ff08cff8/ScannerPro-NoFlag-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 181732112,
+      "size": 181734162,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -57221,11 +57221,11 @@
       },
       "versions": [
         {
-          "version": "8.37.0",
-          "date": "2026-06-19",
+          "version": "8.37.1",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: AutoRevenueCat, FilePickerFix, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Scanner Pro - Scan Documents-v8.37.0-riftysipas.ipa",
-          "size": 181732112
+          "downloadURL": "https://telos.ftp.sh/ipas/Scanner Pro - Scan Documents-v8.37.1-riftysipas.ipa",
+          "size": 181734162
         }
       ],
       "category": "business"
