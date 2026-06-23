@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-06-22",
+  "versionDate": "2026-06-23",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -28189,18 +28189,17 @@
       "bundleIdentifier": "com.thegenau.NoteCircle",
       "developerName": "Genau Factory",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nNoteCircle: To Do, Checklist\n\n---\nYou organize your tasks. Then everything falls apart. NoteCircle is built for when nothing sticks—and trusted by over 1 million users worldwide, with App Store features across the US, Europe, and Asia.\n\nWhy most to-do apps don’t stick\nYou start motivated, but after a few days everything falls apart again. Tasks get buried, routines break, and important things slip through the cracks. NoteCircle solves this by giving you structure without clutter.\n\nOne clear system for your day and week\nNoteCircl",
-      "version": "4.57",
-      "versionDate": "2026-06-14T21:21:38-00:00",
+      "version": "4.71",
+      "versionDate": "2026-06-23T00:30:04-00:00",
       "versionDescription": "Build 1 from @riftysIPAlibrary",
-      "size": 15805668,
+      "size": 16037460,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/bd/f3/3cbdf3bc-aee7-5c5d-66b3-50f442aa4aa8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/NoteCircle: To Do, Checklist-v4.57-riftysipas.ipa",
-      "minOSVersion": "18.0",
+      "downloadURL": "https://telos.ftp.sh/ipas/NoteCircle: To Do, Checklist-v4.71-riftysipas.ipa",
+      "minOSVersion": "16.6",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -28208,7 +28207,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "NoteCircle: To Do, Checklist-v4.57-riftysipas.ipa"
+        "originalFile": "NoteCircle: To Do, Checklist-v4.71-riftysipas.ipa"
       }
     },
     {
@@ -34832,26 +34831,24 @@
       "bundleIdentifier": "com.reveri.reverihealth",
       "developerName": "Reveri Health, Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nReveri: Brain Over Pain\n\n---\nWhen pain, stress, or sleep disruption won’t let you live your life, your mind may be the most powerful tool you haven’t tried yet. Most users feel meaningful relief in their first 10-minute session. No drugs. No side effects. Try it free for 7 days.\nReveri delivers guided, interactive sessions with Stanford’s Dr. David Spiegel, grounded in 50+ years of research and clinical experience, that help your mind directly change how your body feels. Dr. Spiegel asks what you need. The experience adapts",
-      "version": "3.98.0",
-      "versionDate": "2026-06-14T10:03:25-00:00",
-      "versionDescription": "Build 12076 from @riftysIPAlibrary",
-      "size": 145007775,
+      "version": "4.8.0",
+      "versionDate": "2026-06-23T00:29:16-00:00",
+      "versionDescription": "Build 12755 from @riftysIPAlibrary",
+      "size": 93735500,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/14/2d/53142de6-c53b-b1d4-153c-30db0f93e71a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Reveri: Brain Over Pain-v3.98.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Reveri: Brain Over Pain-v4.8.0-riftysipas.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Reveri: Brain Over Pain-v3.98.0-riftysipas.ipa"
+        "originalFile": "Reveri: Brain Over Pain-v4.8.0-riftysipas.ipa"
       }
     },
     {
