@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.hiiker.hiiker",
     "reels-maker-one",
     "com.365scores.365scroesapp",
     "com.hassantaleb.mockup",
-    "com.aoklab.fewerphotos",
-    "com.neo.NeoMan"
+    "com.aoklab.fewerphotos"
   ],
   "apps": [
     {
@@ -29274,14 +29274,14 @@
       "bundleIdentifier": "com.hiiker.hiiker",
       "developerName": "Waymarked Trails LTD",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "26.64",
-      "versionDate": "2026-06-19",
+      "version": "26.65",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/HiiKER: The Hiking Maps App-v26.64-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/HiiKER: The Hiking Maps App-v26.65-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nHiiKER: The Hiking Maps App\n\n---\nThe Most Powerful Hiking Planner & Navigation App for Confident Adventures. Plan, Map and Tracker with HiiKER.\n\nHiiKER is the best digital toolkit for serious hikers and multi-day trekkers. Our biggest update yet, HiiKER 26, brings a new era of powerful planning and superior mapping to your fingertips.\n\n• Get inspired by over 130,000 hiking trails\n• View the world's best topographic maps.\n• Plan detailed hiking routes with ease\n• Discover millions of hiking focused POIs, places to rest, eat and",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/ba/3c/41ba3c76-ec39-32bb-3762-c49f80f7c2d3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 120133997,
+      "size": 120181610,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/d1/f0/b9d1f09a-a1e3-6f9a-1e2b-04776138af7b/4fd42d7f-8457-45ed-bd48-ae7df5b7928a_6.5_U201d_1242_x_2688_-_166__U00281_U0029.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/72/88/9d7288a2-cf02-02a0-86aa-b8710447d8e9/d63f82fb-ed09-4e11-98b0-9d3a3e30fe43_5.5_U201d_1242_x_2208.jpg/392x696bb.jpg",
@@ -29310,11 +29310,11 @@
       },
       "versions": [
         {
-          "version": "26.64",
-          "date": "2026-06-19",
+          "version": "26.65",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/HiiKER: The Hiking Maps App-v26.64-riftysipas.ipa",
-          "size": 120133997
+          "downloadURL": "https://telos.ftp.sh/ipas/HiiKER: The Hiking Maps App-v26.65-riftysipas.ipa",
+          "size": 120181610
         }
       ],
       "category": "navigation"
