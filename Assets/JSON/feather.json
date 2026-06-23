@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "ai.parrotpal",
+    "com.withopal.opal",
+    "com.mwm.stems",
     "gronda.gmbh",
-    "com.joytunes.asla",
-    "com.edjing.edjingdjturntable",
-    "com.bowery-digital.bend",
-    "com.talhayavcin.summarize"
+    "com.joytunes.asla"
   ],
   "apps": [
     {
@@ -46516,14 +46516,14 @@
       "bundleIdentifier": "com.withopal.opal",
       "developerName": "Opal OS",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.1",
-      "versionDate": "2026-06-16",
+      "version": "4.2",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Opal: Screen Time Control-v4.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Opal: Screen Time Control-v4.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nOpal: Screen Time Control\n\n---\nAchieve screen time control with the world’s most-loved screen time app! Opal is the fun, free Screen Time app to improve your focus and make the most out of every day.\n\n5 to 6 hours. That’s the average time you’ll spend looking at your phone today, often without realizing it. It's time to fight back. With a combination of screen time control, app limits, app blockers, real time data, leaderboards and rewards, you will focus better and accomplish your dreams, just like Opal’s members.\n\nAs of Nov",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/bb/a8/6bbba8b2-0d5e-0646-f64e-774a7a770108/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 161737456,
+      "size": 166649806,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/43/9e/26439e3c-490f-2d10-6bf4-bb10fc4b44e8/70c7014e-d6a0-4414-a078-4943d4866c5b_1040421972.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/0c/cd/b10ccd1e-667b-c6f7-c1b5-e9e932c8d913/75f3b4a0-a280-4993-8776-db5178b03c98_2.jpg/392x696bb.jpg",
@@ -46551,11 +46551,11 @@
       },
       "versions": [
         {
-          "version": "4.1",
-          "date": "2026-06-16",
+          "version": "4.2",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Opal: Screen Time Control-v4.1-riftysipas.ipa",
-          "size": 161737456
+          "downloadURL": "https://telos.ftp.sh/ipas/Opal: Screen Time Control-v4.2-riftysipas.ipa",
+          "size": 166649806
         }
       ],
       "category": "productivity"
@@ -48037,14 +48037,14 @@
       "bundleIdentifier": "ai.parrotpal",
       "developerName": "Scott Flear",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "197",
-      "versionDate": "2026-06-19",
+      "version": "198",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/AI Calorie Counter: ParrotPal-v197-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AI Calorie Counter: ParrotPal-v198-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nAI Calorie Counter: ParrotPal\n\n---\nParrotPal: Wellness Made Simple\n\nLife is busy, and staying healthy can feel overwhelming. ParrotPal is here to help you build sustainable habits that fit your lifestyle—with minimal effort.\nOur app makes it easy to track your food, stay active, and make balanced choices—all without overthinking. Focus on small, daily actions and feel good about taking steps toward a healthier you.\n\nWhat Makes ParrotPal Different?\nEffortless Food Logging\n Logging meals has never been easier. Simply type, speak, o",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/4c/be/0e4cbe62-e4f8-7548-8bff-7a475094ba03/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 132529463,
+      "size": 129421523,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -48068,11 +48068,11 @@
       },
       "versions": [
         {
-          "version": "197",
-          "date": "2026-06-19",
+          "version": "198",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/AI Calorie Counter: ParrotPal-v197-riftysipas.ipa",
-          "size": 132529463
+          "downloadURL": "https://telos.ftp.sh/ipas/AI Calorie Counter: ParrotPal-v198-riftysipas.ipa",
+          "size": 129421523
         }
       ],
       "category": "health-&-fitness"
@@ -63127,14 +63127,14 @@
       "bundleIdentifier": "com.mwm.stems",
       "developerName": "MWM",
       "subtitle": "Tweaked with Stemz, blatantsPatch",
-      "version": "5.01.01",
-      "versionDate": "2026-06-14",
+      "version": "5.04.00",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: Stemz, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Stemz_remover_vocal_audio_pro_v5_01_01_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stemz_remover_vocal_audio_pro_v5_04_00_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Stemz, blatantsPatch\n\nStemz: remover vocal audio pro\n\n---\nUnleash your musical creativity with Stemz! Edit, remix, and explore your favorite tracks like never before. Dive into the world of audio manipulation and discover endless possibilities.\n\nStemz offers powerful tools in a user-friendly interface. Perfect for musicians, DJs, and music enthusiasts of all levels.\n\nWhy You'll Love It:\n• Vocal Remover: Isolate vocals for karaoke, practice, or sampling.\n• Instrument Isolation: Mute specific instruments like drums, bass, or guitar to create your own bac",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/5d/ea/975dea47-82d4-8bbd-70ad-5ac398d538d5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 293743857,
+      "size": 317121431,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/60/35/45603510-f119-68a1-8b2f-85804e8f7357/eca17049-11d4-4a6d-80b8-d2a7c66f5481_en-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ee/12/a4ee1294-b408-b10c-1c4d-f2bd7d310951/8183a966-cf9c-4df3-a739-9c32fcb46cb2_en-02.jpg/392x696bb.jpg",
@@ -63154,11 +63154,11 @@
       },
       "versions": [
         {
-          "version": "5.01.01",
-          "date": "2026-06-14",
+          "version": "5.04.00",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: Stemz, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Stemz_remover_vocal_audio_pro_v5_01_01_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 293743857
+          "downloadURL": "https://telos.ftp.sh/ipas/Stemz_remover_vocal_audio_pro_v5_04_00_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 317121431
         }
       ],
       "category": "music"
