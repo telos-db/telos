@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.pixite.Zinnia",
+    "com.offlinemusic",
+    "com.aiti.FitnessOnline",
     "com.chaninicholas.chaniapp",
-    "com.digitas.solidstarts",
-    "com.ulisesolave.Fitia",
-    "com.wellocution.iosapp",
-    "com.camerasideas.Peachy"
+    "com.digitas.solidstarts"
   ],
   "apps": [
     {
@@ -22574,14 +22574,14 @@
       "bundleIdentifier": "com.aiti.FitnessOnline",
       "developerName": "FITNESS ONLINE MChJ",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "1.15.0",
-      "versionDate": "2026-06-05",
+      "version": "1.15.1",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: FitnessOnline, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitness_App_Gym_Workout_Plan_v1_15_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitness_App_Gym_Workout_Plan_v1_15_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFitness App: Gym Workout Plan",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/43/f3/1343f3fe-10b4-882b-7a92-02a7b868c968/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 132102402,
+      "size": 132121847,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/72/1d/29721d1f-34b8-6719-5a3a-c09905bcc6dc/ea9f9ee7-7dd7-442f-bc52-749fb43071a8_01_EN_1242x2208.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/99/f2/0e99f244-72f3-6c76-1ea6-ce4170816c0b/b24bc926-a7e9-4caa-842a-9d4b1fe28320_02_EN_1242x2208.png/392x696bb.png",
@@ -22590,7 +22590,14 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/5b/77/d15b77cc-095e-7c68-b0fa-b584f29059ba/6718df65-af48-4992-b6b8-ab9c1c77e22b_05_EN_1242x2208.png/392x696bb.png"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.healthkit",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.healthkit.background-delivery",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups",
+          "aps-environment"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Access is required to modify your profile, create feed posts and sending media in messages",
           "NSCameraUsageDescription": "Access is required to modify your profile",
@@ -22601,11 +22608,11 @@
       },
       "versions": [
         {
-          "version": "1.15.0",
-          "date": "2026-04-25",
+          "version": "1.15.1",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: FitnessOnline, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitness_App_Gym_Workout_Plan_v1_15_0_Subscription_Unlocked_blatant.ipa",
-          "size": 132102402
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitness_App_Gym_Workout_Plan_v1_15_1_Subscription_Unlocked_blatant.ipa",
+          "size": 132121847
         }
       ],
       "category": "health-&-fitness"
@@ -45612,14 +45619,14 @@
       "bundleIdentifier": "com.offlinemusic",
       "developerName": "Md Zakir Hossain",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "3.8.5",
-      "versionDate": "2026-06-20",
+      "version": "3.8.6",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.5 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.6 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nOffline Music Player",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/62/e3/5d62e34f-c473-a1e1-99d4-9133d525a351/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 97836557,
+      "size": 97707113,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/74/3d/e0743d5f-5903-ff53-ac44-b4b859a53051/14112d4b-9e03-402e-b9d0-0f90e8c8cabb_iPhone_screenshot.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/f7/4f/37f74f82-c6bf-7eb7-7b76-1c48717e0d22/637cd3d6-5191-4d9f-be32-400fdd95d0d0_iPhone_screenshot1.png/392x696bb.png",
@@ -45648,11 +45655,11 @@
       },
       "versions": [
         {
-          "version": "3.8.5",
-          "date": "2026-06-20",
+          "version": "3.8.6",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.5 Pro Unlocked blatant Patched.ipa",
-          "size": 97836557
+          "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.6 Pro Unlocked blatant Patched.ipa",
+          "size": 97707113
         }
       ],
       "category": "music"
@@ -77296,14 +77303,14 @@
       "bundleIdentifier": "com.pixite.Zinnia",
       "developerName": "Pixite Inc.",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "1.46.1",
-      "versionDate": "2026-06-12",
+      "version": "1.47",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Zinnia: Planner & Journal-v1.46.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Zinnia: Planner & Journal-v1.47-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nZinnia: Planner & Journal",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/a8/ab/ffa8ab91-fac0-2d28-19fe-107ec6d2efc5/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 95750117,
+      "size": 79381476,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -77330,11 +77337,11 @@
       },
       "versions": [
         {
-          "version": "1.46.1",
-          "date": "2026-05-18",
+          "version": "1.47",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Zinnia: Planner & Journal-v1.46.1-riftysipas.ipa",
-          "size": 95750117
+          "downloadURL": "https://telos.ftp.sh/ipas/Zinnia: Planner & Journal-v1.47-riftysipas.ipa",
+          "size": 79381476
         }
       ],
       "category": "lifestyle"
@@ -78906,7 +78913,7 @@
     {
       "title": "⚙️ Telos Update 6.23",
       "identifier": "telos-update-2026-06-23",
-      "caption": "82 Apps Updated:\n• 14 Health & Fitness\n• 14 Photo & Video\n• 10 Education\n• 6 Productivity\n• 6 Music\n• 6 Business\n• 4 Graphics & Design\n• 4 Navigation\n• 4 Utilities\n• 4 Developer Tools\n• 4 Lifestyle\n• 2 Food & Drink\n• 2 Sports\n• 2 News",
+      "caption": "84 Apps Updated:\n• 16 Health & Fitness\n• 12 Photo & Video\n• 10 Music\n• 6 Productivity\n• 6 Education\n• 6 Business\n• 6 Lifestyle\n• 4 Graphics & Design\n• 4 Navigation\n• 4 Utilities\n• 4 Developer Tools\n• 2 Food & Drink\n• 2 Sports\n• 2 News",
       "date": "2026-06-23",
       "tintColor": "#02433b",
       "notify": true,
