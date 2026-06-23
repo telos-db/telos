@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.pixite.Zinnia",
+    "com.offlinemusic",
+    "com.aiti.FitnessOnline",
     "com.chaninicholas.chaniapp",
-    "com.digitas.solidstarts",
-    "com.ulisesolave.Fitia",
-    "com.wellocution.iosapp",
-    "com.camerasideas.Peachy"
+    "com.digitas.solidstarts"
   ],
   "apps": [
     {
@@ -22835,14 +22835,14 @@
       "bundleIdentifier": "com.aiti.FitnessOnline",
       "developerName": "FITNESS ONLINE MChJ",
       "subtitle": "Tweaked with FitnessOnline, blatantsPatch",
-      "version": "1.14.0",
-      "versionDate": "2026-06-08",
+      "version": "1.15.1",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: FitnessOnline, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitness_App_Gym_Workout_Plan_v1_14_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitness_App_Gym_Workout_Plan_v1_15_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FitnessOnline, blatantsPatch\n\nFitness App: Gym Workout Plan\n\n---\nWhether you are trying to lose weight, gain muscle mass, rounder buttocks or want to get 6-pack abs – our fitness app offers full body workout plans with many 3D workout exercises for free. Here you will find ready workouts with champions’ diets.\nYou can choose from a variety of exercise plans for muscle groups, such as chest workout or arm workout, or for a certain goal, such as fat burning workout. You can also choose between workout for women, workout for men and get ready workouts with diet.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/43/f3/1343f3fe-10b4-882b-7a92-02a7b868c968/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 111567708,
+      "size": 132121847,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/72/1d/29721d1f-34b8-6719-5a3a-c09905bcc6dc/ea9f9ee7-7dd7-442f-bc52-749fb43071a8_01_EN_1242x2208.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/99/f2/0e99f244-72f3-6c76-1ea6-ce4170816c0b/b24bc926-a7e9-4caa-842a-9d4b1fe28320_02_EN_1242x2208.png/392x696bb.png",
@@ -22869,11 +22869,11 @@
       },
       "versions": [
         {
-          "version": "1.14.0",
-          "date": "2026-06-08",
+          "version": "1.15.1",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: FitnessOnline, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitness_App_Gym_Workout_Plan_v1_14_0_Subscription_Unlocked_blatant.ipa",
-          "size": 111567708
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitness_App_Gym_Workout_Plan_v1_15_1_Subscription_Unlocked_blatant.ipa",
+          "size": 132121847
         }
       ],
       "category": "health-&-fitness"
@@ -46039,14 +46039,14 @@
       "bundleIdentifier": "com.offlinemusic",
       "developerName": "Md Zakir Hossain",
       "subtitle": "Tweaked with OfflineMusicPlayer, blatantsPatch",
-      "version": "3.8.5",
-      "versionDate": "2026-06-20",
+      "version": "3.8.6",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.5 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.6 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nOffline Music Player\n\n---\nImport your favorite Music and Play anywhere! Listen OFFLINE, No LIMITS!\n\nMAJOR FEATURES-\n\n● The easiest way to play offline music.\n● Save music for offline access.\n● Play offline–no internet or WiFi needed.\n● Easily transfer tracks to iPhone, iPad, and iPod touch.\n● Almost all the popular format is supported.\n● .Mp3,.Flac,.wav, .caf, .wav, .aac etc.\n● Add music to your favorite playlist.\n● Beautiful design.\n● Headphone control.\n● Create & manage playlists.\n● Powerful music player.\n● Equalizer.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/62/e3/5d62e34f-c473-a1e1-99d4-9133d525a351/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 97836557,
+      "size": 97707113,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/74/3d/e0743d5f-5903-ff53-ac44-b4b859a53051/14112d4b-9e03-402e-b9d0-0f90e8c8cabb_iPhone_screenshot.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/f7/4f/37f74f82-c6bf-7eb7-7b76-1c48717e0d22/637cd3d6-5191-4d9f-be32-400fdd95d0d0_iPhone_screenshot1.png/392x696bb.png",
@@ -46075,11 +46075,11 @@
       },
       "versions": [
         {
-          "version": "3.8.5",
-          "date": "2026-06-20",
+          "version": "3.8.6",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.5 Pro Unlocked blatant Patched.ipa",
-          "size": 97836557
+          "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.6 Pro Unlocked blatant Patched.ipa",
+          "size": 97707113
         }
       ],
       "category": "music"
@@ -78476,14 +78476,14 @@
       "bundleIdentifier": "com.pixite.Zinnia",
       "developerName": "Pixite Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.46",
-      "versionDate": "2026-06-12",
+      "version": "1.47",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Zinnia: Planner & Journal-v1.46-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Zinnia: Planner & Journal-v1.47-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nZinnia: Planner & Journal\n\n---\nZinnia is the most fun and creative way to keep a digital journal and planner. Enjoy calendars, trackers, stickers and more - with new content added every month. There are a couple of options to get you started: a free version with limited content, or a free 1 week trial with all the bells and whistles. After the trial, subscriptions with full content access are only $34.99/year.\n\nZINNIA STUDIO\n• Zinnia has a custom-curated digital Studio\n• Ready-to-use journals • planners • trackers • stickers",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/a8/ab/ffa8ab91-fac0-2d28-19fe-107ec6d2efc5/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 95750267,
+      "size": 79381476,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -78510,11 +78510,11 @@
       },
       "versions": [
         {
-          "version": "1.46",
-          "date": "2026-06-12",
+          "version": "1.47",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Zinnia: Planner & Journal-v1.46-riftysipas.ipa",
-          "size": 95750267
+          "downloadURL": "https://telos.ftp.sh/ipas/Zinnia: Planner & Journal-v1.47-riftysipas.ipa",
+          "size": 79381476
         }
       ],
       "category": "lifestyle"
