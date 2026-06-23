@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.bowery-digital.bend",
+    "com.talhayavcin.summarize",
+    "com.wikiloc.wikiloc",
     "tech.miidii.MDBlank",
-    "com.google.ios.youtube",
-    "com.thegenau.NoteCircle",
-    "com.reveri.reverihealth",
-    "com.ketchapp.spacefrontier"
+    "com.google.ios.youtube"
   ],
   "apps": [
     {
@@ -6766,14 +6766,14 @@
       "bundleIdentifier": "com.bowery-digital.bend",
       "developerName": "Bowery Digital",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "7.6.1",
-      "versionDate": "2026-06-19",
+      "version": "7.6.2",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Stretching & Flexibility: Bend-v7.6.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stretching & Flexibility: Bend-v7.6.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nStretching & Flexibility: Bend\n\n---\nBend® is the simple, affordable way to make stretching a part of your daily routine. Our quick & convenient stretching routines help you improve your flexibility and maintain your natural range of motion as you get older. We offer hundreds of stretches and yoga poses along with dozens of easy-to-follow stretching routines designed for all ages and experience levels. It's never too early to start stretching everyday!\n\nSTRETCHING IS IMPORTANT\n\nA simple, daily stretching routine can have a huge imp",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/da/55/1bda5508-35be-4ef3-03a1-3fb2c8227544/App-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 143127504,
+      "size": 143158914,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/3e/4e/cf3e4ec2-b120-a19c-2707-453a1ed49bcc/0_APP_IPHONE_55_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/fa/e5/b3fae593-0198-09b2-464b-e3b0b3aaa02e/1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
@@ -6798,11 +6798,11 @@
       },
       "versions": [
         {
-          "version": "7.6.1",
-          "date": "2026-06-19",
+          "version": "7.6.2",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Stretching & Flexibility: Bend-v7.6.1-riftysipas.ipa",
-          "size": 143127504
+          "downloadURL": "https://telos.ftp.sh/ipas/Stretching & Flexibility: Bend-v7.6.2-riftysipas.ipa",
+          "size": 143158914
         }
       ],
       "category": "health-&-fitness"
@@ -65488,31 +65488,32 @@
       "bundleIdentifier": "com.talhayavcin.summarize",
       "developerName": "ZipoApps",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.6.3",
-      "versionDate": "2026-06-13",
+      "version": "1.7.1",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sumato - AI Note Taker-v1.6.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sumato - AI Note Taker-v1.7.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSumato - AI Note Taker\n\n---\nSumato is your all-in-one AI study assistant, now enhanced with advanced voice transcription capabilities. Record or upload any meeting, lecture, or audio file and instantly transform it into clear notes, summaries, quizzes, and flashcards. Sumato helps you study faster and more effectively by turning spoken or written content into organized, easy-to-review material.\n\nWith Sumato, you can:\n\n• Transcribe audio from meetings, lectures, and voice notes\n• Upload recordings and convert them into stru",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/f4/fa/03f4fa3d-7a52-e8af-04d5-a5e67cef390b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 18211507,
+      "size": 55885621,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Sumato needs photo library access so you can select images for summarization.",
-          "NSCameraUsageDescription": "We need camera access to take photos of documents, notes, and handwritten content for text extraction and summarization.",
-          "NSMicrophoneUsageDescription": "Allow Sumato to access your microphone to record audio for transcription and note generation.",
-          "NSPhotoLibraryAddUsageDescription": "We need permission to save generated files and exported content to your photo library when you choose to save."
+          "NSCameraUsageDescription": "Sumato needs camera access so you can capture photos for summarization.",
+          "NSMicrophoneUsageDescription": "Sumato needs microphone access to record voice and create transcripts.",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you.",
+          "NSPhotoLibraryAddUsageDescription": "Sumato needs permission to save captured media when required."
         }
       },
       "versions": [
         {
-          "version": "1.6.3",
-          "date": "2026-06-13",
+          "version": "1.7.1",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Sumato - AI Note Taker-v1.6.3-riftysipas.ipa",
-          "size": 18211507
+          "downloadURL": "https://telos.ftp.sh/ipas/Sumato - AI Note Taker-v1.7.1-riftysipas.ipa",
+          "size": 55885621
         }
       ],
       "category": "productivity"
@@ -76197,14 +76198,14 @@
       "bundleIdentifier": "com.wikiloc.wikiloc",
       "developerName": "Wikiloc Outdoor SL",
       "subtitle": "Tweaked with Wikiloc, blatantsPatch",
-      "version": "3.29.3",
-      "versionDate": "2026-06-19",
+      "version": "3.29.4",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: Wikiloc, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Wikiloc_Trails_of_the_World_v3_29_3_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Wikiloc_Trails_of_the_World_v3_29_4_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Wikiloc, blatantsPatch, sideloadKeychainfix\n\nWikiloc - Trails of the World\n\n---\nDiscover millions of outdoor trails around the world. Choose between hiking, running, bike, MTB, kayak, ski or up to 80 different types of activities.\n\nRecord your own routes on a map, add waypoints, take pictures along the itinerary and upload them to your Wikiloc account from your phone.\n\nEnjoy free offline topographic maps from all over the world for you to use without coverage or data. Great when you're out in the mountains or traveling without Internet connection.\n\nWant to take your outdoor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/be/c1/e9bec1db-3c5c-bcfc-4b29-94bfda8d31ec/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 101761807,
+      "size": 101836710,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/91/ac/2d91ac3f-b859-9ed9-f90b-b7460d90bb6d/1._5.5__EN.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/00/e6/8200e6f8-664e-c4cb-68ae-749e29b7fe03/2._5.5__EN.png/392x696bb.png",
@@ -76233,11 +76234,11 @@
       },
       "versions": [
         {
-          "version": "3.29.3",
-          "date": "2026-06-19",
+          "version": "3.29.4",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: Wikiloc, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Wikiloc_Trails_of_the_World_v3_29_3_Subscription_Unlocked_blatant.ipa",
-          "size": 101761807
+          "downloadURL": "https://telos.ftp.sh/ipas/Wikiloc_Trails_of_the_World_v3_29_4_Subscription_Unlocked_blatant.ipa",
+          "size": 101836710
         }
       ],
       "category": "navigation"
