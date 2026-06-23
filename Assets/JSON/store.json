@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.n3twork.tetris",
+    "com.myfitnesspal.mfp",
+    "neat.software.Jot",
     "com.pixite.Zinnia",
-    "com.offlinemusic",
-    "com.aiti.FitnessOnline",
-    "com.chaninicholas.chaniapp",
-    "com.digitas.solidstarts"
+    "com.offlinemusic"
   ],
   "apps": [
     {
@@ -33091,6 +33091,43 @@
       "category": "entertainment"
     },
     {
+      "name": "Jot",
+      "bundleIdentifier": "neat.software.Jot",
+      "developerName": "Neat Software Co.",
+      "subtitle": "Jot for iOS",
+      "version": "4.3.0",
+      "versionDate": "2026-06-23",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/neat.software.Jot-4.3.0-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/f8/65/49f86565-b1a0-6e02-b37f-ebf2466a592d/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 10834203,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/85/12/9a8512b0-6eb6-e8a4-8091-7d8fd5b1a3a2/f0a81aa8-b810-4765-9a49-75c86c28fe37_English__U0028United_States_U0029__U005ben-US_U005d_-_iPhone_-_5.5_U0022_Display_-_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/34/ca/aa34ca17-3b06-ecb8-5d25-81b67ffb2d14/a4936718-a68d-4e8a-945f-3513511ce033_English__U0028United_States_U0029__U005ben-US_U005d_-_iPhone_-_5.5_U0022_Display_-_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/0f/1c/480f1c08-3287-1e8f-9f41-28d6a1b5cd4b/a7951274-785a-43cf-b912-8a618b266e2c_English__U0028United_States_U0029__U005ben-US_U005d_-_iPhone_-_5.5_U0022_Display_-_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/da/00/7ada004f-078b-7c99-6481-4fde794a02b2/4e9c27c7-a2d8-4d60-bbe9-1ff438f1fc7c_English__U0028United_States_U0029__U005ben-US_U005d_-_iPhone_-_5.5_U0022_Display_-_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/22/5e/29225ee9-e2c7-befd-bbcb-b386d835e138/6d59e8bc-9f83-4ca0-b2b2-82e288c15061_English__U0028United_States_U0029__U005ben-US_U005d_-_iPhone_-_5.5_U0022_Display_-_5.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "Save Jots to your photo library"
+        }
+      },
+      "versions": [
+        {
+          "version": "4.3.0",
+          "date": "2026-06-21",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/neat.software.Jot-4.3.0-eeveedecrypter.ipa",
+          "size": 10834203
+        }
+      ],
+      "category": "utilities"
+    },
+    {
       "name": "Journal",
       "bundleIdentifier": "cameronnazemi.JournalWithTappy",
       "developerName": "Cameron Nazemi",
@@ -42805,14 +42842,14 @@
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "MyFitnessPal, Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "26.24.0",
-      "versionDate": "2026-06-16",
+      "version": "26.25.0",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal_Calorie_Counter_v26_24_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal_Calorie_Counter_v26_25_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nMyFitnessPal: Calorie Counter",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/32/c4/be32c467-6794-cd80-0446-539c429dce5f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 341016524,
+      "size": 341360311,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -42836,11 +42873,11 @@
       },
       "versions": [
         {
-          "version": "26.24.0",
-          "date": "2026-06-16",
+          "version": "26.25.0",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal_Calorie_Counter_v26_24_0_Subscription_Unlocked_blatant.ipa",
-          "size": 341016524
+          "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal_Calorie_Counter_v26_25_0_Subscription_Unlocked_blatant.ipa",
+          "size": 341360311
         }
       ],
       "category": "health-&-fitness"
@@ -66968,14 +67005,14 @@
       "bundleIdentifier": "com.n3twork.tetris",
       "developerName": "PlayStudios",
       "subtitle": "*Tweak:** No Ads | *Patched ✓**",
-      "version": "7.7.6",
-      "versionDate": "2026-06-12",
+      "version": "7.7.7",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: NetworkBlocker(adblocker), Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tetris®-v7.7.6-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tetris®-v7.7.7-riftysipas.ipa",
       "localizedDescription": "*Tweak:** No Ads | *Patched ✓**\n\nTetris®",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/39/24/853924d3-54b2-f0d0-2856-9607070f863c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 146528586,
+      "size": 146583259,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/8a/c4/4f8ac47c-177c-5159-3c85-d5fa95844428/d391cc40-e73c-44b6-9772-a47f58ab0142_SS_iOS_Revamp-01_ASO_1242x2208.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/7f/76/ff7f7659-7362-de08-7656-1fb8c412a056/d1544309-ee7d-4946-9024-8fa838baa0ed_SS_GP_RevampWithoutWhiteSpace-2_ASO_1242x2208.jpg/392x696bb.jpg",
@@ -66995,16 +67032,16 @@
           "NSLocationWhenInUseUsageDescription": "Tetris requires your location to enhance local competition.",
           "NSLocationAlwaysUsageDescription": "Tetris requires your location to enhance local competition.",
           "NSLocationAlwaysAndWhenInUseUsageDescription": "Tetris requires your location to enhance local competition.",
-          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you."
+          "NSUserTrackingUsageDescription": "This uses device info for more personalized ads and content"
         }
       },
       "versions": [
         {
-          "version": "7.7.6",
-          "date": "2026-05-22",
+          "version": "7.7.7",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tetris®-v7.7.6-riftysipas.ipa",
-          "size": 146528586
+          "downloadURL": "https://telos.ftp.sh/ipas/Tetris®-v7.7.7-riftysipas.ipa",
+          "size": 146583259
         }
       ],
       "category": "games"
@@ -78913,7 +78950,7 @@
     {
       "title": "⚙️ Telos Update 6.23",
       "identifier": "telos-update-2026-06-23",
-      "caption": "84 Apps Updated:\n• 16 Health & Fitness\n• 12 Photo & Video\n• 10 Music\n• 6 Productivity\n• 6 Education\n• 6 Business\n• 6 Lifestyle\n• 4 Graphics & Design\n• 4 Navigation\n• 4 Utilities\n• 4 Developer Tools\n• 2 Food & Drink\n• 2 Sports\n• 2 News",
+      "caption": "90 Apps Updated:\n• 18 Health & Fitness\n• 12 Photo & Video\n• 8 Music\n• 8 Utilities\n• 6 Productivity\n• 6 Education\n• 6 Business\n• 4 Graphics & Design\n• 4 Navigation\n• 4 Developer Tools\n• 4 Lifestyle\n• 4 Games\n• 2 Food & Drink\n• 2 Sports\n• 2 News",
       "date": "2026-06-23",
       "tintColor": "#02433b",
       "notify": true,
