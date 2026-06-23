@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "tech.miidii.MDBlank",
     "com.google.ios.youtube",
     "com.thegenau.NoteCircle",
     "com.reveri.reverihealth",
-    "com.ketchapp.spacefrontier",
-    "nt.nr.ios"
+    "com.ketchapp.spacefrontier"
   ],
   "apps": [
     {
@@ -78904,7 +78904,7 @@
     {
       "title": "⚙️ Telos Update 6.23",
       "identifier": "telos-update-2026-06-23",
-      "caption": "6 Apps Updated:\n• 2 Health & Fitness\n• 2 Photo & Video\n• 2 Productivity",
+      "caption": "10 Apps Updated:\n• 4 Graphics & Design\n• 2 Health & Fitness\n• 2 Photo & Video\n• 2 Productivity",
       "date": "2026-06-23",
       "tintColor": "#02433b",
       "notify": true,
