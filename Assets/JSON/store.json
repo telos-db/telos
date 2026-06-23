@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.soundcloud.TouchApp",
-    "com.calisthenics.thenx",
-    "com.ahaf.mshion",
-    "com.shantanu.YouCut",
-    "ai.parrotpal"
+    "com.readdle.Scanner",
+    "org.fastdevsproject.altervista.Device-Monitor",
+    "com.codeway.cleanerplus",
+    "com.calm.calmapp",
+    "com.soundcloud.TouchApp"
   ],
   "apps": [
     {
@@ -10121,14 +10121,14 @@
       "bundleIdentifier": "com.calm.calmapp",
       "developerName": "Calm.com",
       "subtitle": "Lifetime Unlocked | Patched",
-      "version": "6.98",
-      "versionDate": "2026-06-19",
+      "version": "6.98.1",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: Calm, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Calm v6.98 Lifetime Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Calm v6.98.1 Lifetime Unlocked blatant Patched.ipa",
       "localizedDescription": "Lifetime Unlocked | Patched | Tweaked\n\nCalm",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/88/8c/11888cdd-0381-2cd8-0646-9a10d0d22172/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 126960697,
+      "size": 126965953,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/87/9d/4e879dd8-bf44-69df-a4f5-092ef3688f76/748cb6a5-5588-4d86-af93-7add35562d37_iPhone_5.5_Inch_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/d7/a0/c4d7a09f-9670-503d-548b-dac1f19012a2/92a594c0-f5b1-4739-bffd-88930991b524_iPhone_5.5_Inch_02.png/392x696bb.png",
@@ -10158,11 +10158,11 @@
       },
       "versions": [
         {
-          "version": "6.98",
-          "date": "2026-06-19",
+          "version": "6.98.1",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: Calm, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Calm v6.98 Lifetime Unlocked blatant Patched.ipa",
-          "size": 126960697
+          "downloadURL": "https://telos.ftp.sh/ipas/Calm v6.98.1 Lifetime Unlocked blatant Patched.ipa",
+          "size": 126965953
         }
       ],
       "category": "health-&-fitness"
@@ -12774,14 +12774,14 @@
       "bundleIdentifier": "com.codeway.cleanerplus",
       "developerName": "DEEP FLOW SOFTWARE SERVICES",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "6.16.0",
-      "versionDate": "2026-06-01",
+      "version": "6.17.0",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: Cleanup, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Cleanup_Phone_Storage_Cleaner_v6_16_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Cleanup_Phone_Storage_Cleaner_v6_17_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nCleanup: Phone Storage Cleaner",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/53/34/3e5334e4-e9d9-b8b7-e6bf-9f6764595e84/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 120894852,
+      "size": 122037920,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -12803,11 +12803,11 @@
       },
       "versions": [
         {
-          "version": "6.16.0",
-          "date": "2026-05-26",
+          "version": "6.17.0",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: Cleanup, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Cleanup_Phone_Storage_Cleaner_v6_16_0_Subscription_Unlocked_blatant.ipa",
-          "size": 120894852
+          "downloadURL": "https://telos.ftp.sh/ipas/Cleanup_Phone_Storage_Cleaner_v6_17_0_Subscription_Unlocked_blatant.ipa",
+          "size": 122037920
         }
       ],
       "category": "utilities"
@@ -16554,14 +16554,14 @@
       "bundleIdentifier": "org.fastdevsproject.altervista.Device-Monitor",
       "developerName": "Fast-Devs Project",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "26.5.0",
-      "versionDate": "2026-06-11",
+      "version": "26.6.0",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: DeviceMonitor2, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Device_Monitor²_v26_5_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Device_Monitor²_v26_6_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nDevice Monitor²",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/bc/fa/8fbcfa22-381b-9d52-1214-7f2220aa2ffd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 22620929,
+      "size": 33124294,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -16584,11 +16584,11 @@
       },
       "versions": [
         {
-          "version": "26.5.0",
-          "date": "2026-06-10",
+          "version": "26.6.0",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: DeviceMonitor2, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Device_Monitor²_v26_5_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 22620929
+          "downloadURL": "https://telos.ftp.sh/ipas/Device_Monitor²_v26_6_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 33124294
         }
       ],
       "category": "developer-tools"
@@ -56745,14 +56745,14 @@
       "bundleIdentifier": "com.readdle.Scanner",
       "developerName": "Readdle Technologies Limited",
       "subtitle": "*Tweak:** Plus Unlocked | *Patched ✓**",
-      "version": "8.37.0",
-      "versionDate": "2026-06-19",
+      "version": "8.37.1",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: AutoRevenueCat, FilePickerFix, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Scanner Pro - Scan Documents-v8.37.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Scanner Pro - Scan Documents-v8.37.1-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Plus Unlocked | *Patched ✓**\n\nScanner Pro - Scan Documents",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/49/36/fe49363f-a905-bad1-24d6-d2b2ff08cff8/ScannerPro-NoFlag-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 181732112,
+      "size": 181734162,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -56770,11 +56770,11 @@
       },
       "versions": [
         {
-          "version": "8.37.0",
-          "date": "2026-06-19",
+          "version": "8.37.1",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: AutoRevenueCat, FilePickerFix, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Scanner Pro - Scan Documents-v8.37.0-riftysipas.ipa",
-          "size": 181732112
+          "downloadURL": "https://telos.ftp.sh/ipas/Scanner Pro - Scan Documents-v8.37.1-riftysipas.ipa",
+          "size": 181734162
         }
       ],
       "category": "business"
@@ -78904,7 +78904,7 @@
     {
       "title": "⚙️ Telos Update 6.23",
       "identifier": "telos-update-2026-06-23",
-      "caption": "42 Apps Updated:\n• 10 Health & Fitness\n• 10 Photo & Video\n• 8 Music\n• 6 Productivity\n• 2 Food & Drink\n• 2 Graphics & Design\n• 2 Navigation\n• 2 Education",
+      "caption": "54 Apps Updated:\n• 12 Health & Fitness\n• 8 Business\n• 6 Photo & Video\n• 6 Productivity\n• 6 Music\n• 4 Utilities\n• 4 Developer Tools\n• 2 Food & Drink\n• 2 Graphics & Design\n• 2 Navigation\n• 2 Education",
       "date": "2026-06-23",
       "tintColor": "#02433b",
       "notify": true,
