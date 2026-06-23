@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.photo.beautytuneapp",
-    "com.readdle.Scanner",
-    "org.fastdevsproject.altervista.Device-Monitor",
-    "com.codeway.cleanerplus",
-    "com.calm.calmapp"
+    "com.365scores.365scroesapp",
+    "com.hassantaleb.mockup",
+    "com.aoklab.fewerphotos",
+    "com.neo.NeoMan",
+    "scannerapp.free"
   ],
   "apps": [
     {
@@ -547,14 +547,14 @@
       "bundleIdentifier": "com.365scores.365scroesapp",
       "developerName": "365Scores",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "6.5.6",
-      "versionDate": "2026-06-19",
+      "version": "6.5.7",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftys365score\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/365Scores: Live Scores & News-v6.5.6-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/365Scores: Live Scores & News-v6.5.7-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\n365Scores: Live Scores & News",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/13/eb/8113eb9e-d297-a348-372c-1511e25c6115/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 77690446,
+      "size": 77993570,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/87/9c/6e879c87-f8ae-c396-2fd0-c898ed42f0db/12.9_Ipad_1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/30/1e/a9301ec4-edc6-d2cb-9bff-3fc3229f4501/12.9_Ipad_2.png/576x768bb.png",
@@ -579,11 +579,11 @@
       },
       "versions": [
         {
-          "version": "6.5.6",
-          "date": "2026-06-19",
+          "version": "6.5.7",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftys365score\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/365Scores: Live Scores & News-v6.5.6-riftysipas.ipa",
-          "size": 77690446
+          "downloadURL": "https://telos.ftp.sh/ipas/365Scores: Live Scores & News-v6.5.7-riftysipas.ipa",
+          "size": 77993570
         }
       ],
       "category": "sports"
@@ -3572,14 +3572,14 @@
       "bundleIdentifier": "com.hassantaleb.mockup",
       "developerName": "Hassan Taleb",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "5.7",
-      "versionDate": "2026-06-12",
+      "version": "5.8",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: Animock, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Animock_3D_Mockup_Animator_v5_7_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Animock_3D_Mockup_Animator_v5_8_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nAnimock: 3D Mockup Animator",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/2c/01/012c01dc-46aa-201d-d172-accc0cac3675/Animock-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 115406480,
+      "size": 115408570,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/ba/34/85ba346c-0843-15b6-0243-64b8b046101f/499d877b-8a6a-41a7-8979-c0201a9a3b68_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-02-16_at_06.17.36.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/b2/da/d3b2da6d-b70e-35a5-7aed-a7951495968c/58f4b499-ddb3-4e4c-94c0-da3094f034c3_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-02-16_at_06.19.38.png/392x696bb.png",
@@ -3601,11 +3601,11 @@
       },
       "versions": [
         {
-          "version": "5.7",
-          "date": "2026-06-12",
+          "version": "5.8",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: Animock, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Animock_3D_Mockup_Animator_v5_7_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 115406480
+          "downloadURL": "https://telos.ftp.sh/ipas/Animock_3D_Mockup_Animator_v5_8_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 115408570
         }
       ],
       "category": "graphics-&-design"
@@ -43523,14 +43523,14 @@
       "bundleIdentifier": "com.neo.NeoMan",
       "developerName": "Space-Time Transformation Technology Co., Ltd.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "8.2.2",
-      "versionDate": "2026-06-07",
+      "version": "8.2.3",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: NeoServer, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_2_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_2_3_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nNeoServer: SSH Client | Terminal",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/a9/9d/55a99db2-bef1-8618-f91a-7404d2e46f00/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 28008868,
+      "size": 28547885,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/51/e9/7051e9d4-9400-ba5e-c0c4-b3c3028896a3/6ea7619e-b9fe-45ca-8c94-ac17544b1668_metrics.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/7a/8e/107a8e2f-99cf-e69b-ad17-21ea74a368b6/71a4a532-2c52-4e24-a1a3-90412bb627ad_detail.png/392x696bb.png",
@@ -43552,11 +43552,11 @@
       },
       "versions": [
         {
-          "version": "8.2.2",
-          "date": "2026-06-07",
+          "version": "8.2.3",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: NeoServer, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_2_2_Subscription_Unlocked_blatant.ipa",
-          "size": 28008868
+          "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_2_3_Subscription_Unlocked_blatant.ipa",
+          "size": 28547885
         }
       ],
       "category": "developer-tools"
@@ -54235,15 +54235,15 @@
       "name": "Reddit",
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "REDDIT, INC.",
-      "subtitle": "Reddit for iOS",
-      "version": "2026.24.0",
-      "versionDate": "2026-06-19",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.reddit.Reddit-2026.24.0-eeveedecrypter.ipa",
-      "localizedDescription": "Reddit for iOS",
+      "subtitle": "Tweaked with CydiaSubstrate, RedditFilter",
+      "version": "2026.25.0",
+      "versionDate": "2026-06-23",
+      "versionDescription": "Tweaks: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.25.0_Jacks_Apps.ipa",
+      "localizedDescription": "RedditDeluxe 2026.25.0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a6/0d/e6a60d60-e30f-e9b7-5499-38fc8e294a51/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 150171807,
+      "size": 145768329,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/b1/d4/5ab1d42a-6b46-14e8-0a42-e36651ee36cb/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/29/b6/0b29b650-0ac2-1a8b-fa99-0140c0e95608/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/392x696bb.png",
@@ -54255,9 +54255,10 @@
         "entitlements": [
           "com.apple.developer.declared-age-range",
           "com.apple.developer.applesignin",
-          "com.apple.developer.associated-domains",
+          "com.apple.developer.networking.multipath",
+          "aps-environment",
           "com.apple.security.application-groups",
-          "aps-environment"
+          "com.apple.developer.associated-domains"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Reddit needs access to your photo library to post, save, and upload photos or videos.",
@@ -54271,11 +54272,11 @@
       },
       "versions": [
         {
-          "version": "2026.24.0",
-          "date": "2026-06-19",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.reddit.Reddit-2026.24.0-eeveedecrypter.ipa",
-          "size": 150171807
+          "version": "2026.25.0",
+          "date": "2026-06-23",
+          "localizedDescription": "Tweaks: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.25.0_Jacks_Apps.ipa",
+          "size": 145768329
         }
       ],
       "category": "news"
@@ -56558,14 +56559,14 @@
       "bundleIdentifier": "scannerapp.free",
       "developerName": "Luni",
       "subtitle": "Premium Unlocked | Patched",
-      "version": "2.11.14",
-      "versionDate": "2026-06-17",
+      "version": "2.11.15",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: ScannerApp, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Scanner_–_Scan_PDF_&_Document_v2_11_14_Premium_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Scanner_–_Scan_PDF_&_Document_v2_11_15_Premium_Unlocked_blatant.ipa",
       "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nScanner – Scan PDF & Document",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/1e/1b/041e1b3c-0693-d5d6-776c-405c34a119de/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 94023256,
+      "size": 94058936,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/75/dd/7275ddf2-81f7-861a-8560-51afeb5efbfb/3ec0394a-1d6d-4192-8461-e1a90c16763a_SCREEN_1_1_1242_x_2208.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/85/27/a38527f1-f7c8-8b4d-9393-316b688a07f7/168af86f-52dc-490d-b524-d8ce3d7013cc_SCREEN_2_1242_x_2208.jpg/392x696bb.jpg",
@@ -56591,11 +56592,11 @@
       },
       "versions": [
         {
-          "version": "2.11.14",
-          "date": "2026-06-17",
+          "version": "2.11.15",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: ScannerApp, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Scanner_–_Scan_PDF_&_Document_v2_11_14_Premium_Unlocked_blatant.ipa",
-          "size": 94023256
+          "downloadURL": "https://telos.ftp.sh/ipas/Scanner_–_Scan_PDF_&_Document_v2_11_15_Premium_Unlocked_blatant.ipa",
+          "size": 94058936
         }
       ],
       "category": "business"
@@ -65732,14 +65733,14 @@
       "bundleIdentifier": "com.aoklab.fewerphotos",
       "developerName": "MWM",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "3.4.5",
-      "versionDate": "2026-06-22",
+      "version": "3.4.6",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: SwipeWipe, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Swipewipe  Photo Cleaner v3.4.5 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Swipewipe  Photo Cleaner v3.4.6 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nSwipewipe: Photo Cleaner",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/b9/7d/80b97d59-8e01-a990-b4cb-4677278644fa/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 161560456,
+      "size": 161559929,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/56/6c/6a566cd1-ef9d-fbd3-c7a8-d6ab33a93216/EN_ipad_01.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/55/b0/aa55b0fc-daaa-7d07-7ead-c87254da1c85/EN_ipad_02.png/576x768bb.png",
@@ -65762,11 +65763,11 @@
       },
       "versions": [
         {
-          "version": "3.4.5",
-          "date": "2026-06-22",
+          "version": "3.4.6",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: SwipeWipe, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Swipewipe  Photo Cleaner v3.4.5 Pro Unlocked blatant Patched.ipa",
-          "size": 161560456
+          "downloadURL": "https://telos.ftp.sh/ipas/Swipewipe  Photo Cleaner v3.4.6 Pro Unlocked blatant Patched.ipa",
+          "size": 161559929
         }
       ],
       "category": "utilities"
@@ -78904,7 +78905,7 @@
     {
       "title": "⚙️ Telos Update 6.23",
       "identifier": "telos-update-2026-06-23",
-      "caption": "46 Apps Updated:\n• 10 Health & Fitness\n• 8 Photo & Video\n• 6 Productivity\n• 6 Music\n• 4 Business\n• 2 Food & Drink\n• 2 Graphics & Design\n• 2 Navigation\n• 2 Education\n• 2 Utilities\n• 2 Developer Tools",
+      "caption": "70 Apps Updated:\n• 10 Health & Fitness\n• 8 Photo & Video\n• 8 Business\n• 6 Productivity\n• 6 Music\n• 6 Graphics & Design\n• 6 Utilities\n• 6 Developer Tools\n• 4 Sports\n• 4 News\n• 2 Food & Drink\n• 2 Navigation\n• 2 Education",
       "date": "2026-06-23",
       "tintColor": "#02433b",
       "notify": true,
