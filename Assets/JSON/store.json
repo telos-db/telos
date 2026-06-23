@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "reels-maker-one",
     "com.365scores.365scroesapp",
     "com.hassantaleb.mockup",
     "com.aoklab.fewerphotos",
-    "com.neo.NeoMan",
-    "scannerapp.free"
+    "com.neo.NeoMan"
   ],
   "apps": [
     {
@@ -6454,15 +6454,15 @@
       "name": "BEAT",
       "bundleIdentifier": "reels-maker-one",
       "developerName": "Onelight Apps CY Ltd",
-      "subtitle": "Pro Features Unlocked",
-      "version": "1.24.0",
-      "versionDate": "2026-06-11",
-      "versionDescription": "Tweaks: ReelsMakerPro\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Reels Maker for Instagram Pro 1.24.0.ipa",
-      "localizedDescription": "Pro Features Unlocked\n\nReels Maker for Instagram・BEAT",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "1.25.0",
+      "versionDate": "2026-06-23",
+      "versionDescription": "Tweaks: BEAT, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Reels_Maker_for_Instagram_BEAT_v1_25_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nReels Maker for Instagram BEAT",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/d7/f0/cad7f01a-a5fd-ccc6-b85f-557618b31a0e/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 146585817,
+      "size": 124181818,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/da/36/1fda360e-29f3-e696-d059-eb432c86ced5/c41f4e14-f986-4dbe-bba8-5c5a02ecab1a_01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/8a/a9/3b8aa9c2-fcdf-e0bc-217f-34cd8954c111/f413b994-044d-410b-a523-6f7392a6e5f5_02.jpg/392x696bb.jpg",
@@ -6473,6 +6473,7 @@
       "appPermissions": {
         "entitlements": [
           "aps-environment",
+          "com.apple.security.application-groups",
           "com.apple.developer.associated-domains"
         ],
         "privacy": {
@@ -6484,11 +6485,11 @@
       },
       "versions": [
         {
-          "version": "1.24.0",
-          "date": "2026-05-01",
-          "localizedDescription": "Tweaks: ReelsMakerPro\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Reels Maker for Instagram Pro 1.24.0.ipa",
-          "size": 146585817
+          "version": "1.25.0",
+          "date": "2026-06-23",
+          "localizedDescription": "Tweaks: BEAT, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Reels_Maker_for_Instagram_BEAT_v1_25_0_Subscription_Unlocked_blatant.ipa",
+          "size": 124181818
         }
       ],
       "category": "photo-&-video"
@@ -78905,7 +78906,7 @@
     {
       "title": "⚙️ Telos Update 6.23",
       "identifier": "telos-update-2026-06-23",
-      "caption": "70 Apps Updated:\n• 10 Health & Fitness\n• 8 Photo & Video\n• 8 Business\n• 6 Productivity\n• 6 Music\n• 6 Graphics & Design\n• 6 Utilities\n• 6 Developer Tools\n• 4 Sports\n• 4 News\n• 2 Food & Drink\n• 2 Navigation\n• 2 Education",
+      "caption": "62 Apps Updated:\n• 12 Photo & Video\n• 10 Health & Fitness\n• 6 Productivity\n• 6 Music\n• 6 Business\n• 4 Graphics & Design\n• 4 Utilities\n• 4 Developer Tools\n• 2 Food & Drink\n• 2 Navigation\n• 2 Education\n• 2 Sports\n• 2 News",
       "date": "2026-06-23",
       "tintColor": "#02433b",
       "notify": true,
