@@ -2132,6 +2132,32 @@
       }
     },
     {
+      "name": "Amazon",
+      "bundleIdentifier": "com.amazon.AmazonUK",
+      "developerName": "AMZN Mobile LLC",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nAmazon Shopping offers app-only benefits to help make shopping on Amazon faster and easier. Browse, view product details, read reviews, and purchase millions of products. Amazon delivers to 100+ countries in as quickly as 3-5 days. Whether you’re buying gifts, reading reviews, tracking orders, scanning products, or just shopping, the Amazon Shopping app offers more benefits than shopping on Amazon via your desktop.\n\nNever miss a delivery\nGet real-time tracking and delivery notifications so you k",
+      "version": "27.11.2",
+      "versionDate": "2026-06-23T22:53:03-00:00",
+      "versionDescription": "Build 862997.0 from @thescholarslounge",
+      "size": 87933942,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/6f/ab/776fabf0-b237-a350-3372-f7ee1250e493/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.amazon.AmazonUK-27.11.2-eeveedecrypter.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.amazon.AmazonUK-27.11.2-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "Amgi",
       "bundleIdentifier": "io.hotcs6.Amgi",
       "developerName": "hasik choi",
@@ -11905,6 +11931,32 @@
       }
     },
     {
+      "name": "eBay",
+      "bundleIdentifier": "com.ebay.iphone",
+      "developerName": "eBay Inc.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nLife’s easier in the eBay app—buy and sell millions of items on the go. Discover exclusive online deals, every single day.\n\nNever miss a deal\nWith the eBay app, you can stay in the know with real-time alerts about your Daily Deals, order updates, and more—all sent to your device with personalized push notifications.\n\nQuickly list items with AI\nSnap or upload a photo in the eBay app and let AI instantly generate descriptions and key details for your listing—including brand, category, and more.\n\nS",
+      "version": "6.262.0",
+      "versionDate": "2026-06-23T22:50:34-00:00",
+      "versionDescription": "Build 1 from @thescholarslounge",
+      "size": 169973834,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/5b/0a/dc5b0a6b-fc7a-0f40-5d3f-2bffd128acfe/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.ebay.iphone-6.262.0-eeveedecrypter.ipa",
+      "minOSVersion": "18.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.ebay.iphone-6.262.0-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "Eden",
       "bundleIdentifier": "com.mfagency.nurture",
       "developerName": "Millefeuille Agency",
@@ -15646,12 +15698,12 @@
       "bundleIdentifier": "games.urmobi.found.it",
       "developerName": "Lion Studios Plus",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, SatellaJailed, fixipa1, fixipa2, popuprifty\n\nFound It! Hidden Object Game\n\n---\nAre you ready to experience the most addictive hidden objects game right now?\n\nFind all hidden objects by moving around the interactive maps and completing quests to unlock new colorful locations. Found It! is a fun and engaging hidden picture game that exercises your brain and promotes problem-solving skills.\n\nFound It is a new search and find bright hidden object game where you should solve the objects puzzles and unlock new maps for free. All you need to do is to focus on the requested item,",
-      "version": "1.69.100",
-      "versionDate": "2026-06-20T01:32:59-00:00",
+      "version": "1.70.9",
+      "versionDate": "2026-06-23T23:10:32-00:00",
       "versionDescription": "Build 1 from @riftysIPAlibrary",
-      "size": 247962937,
+      "size": 247245257,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/a5/e7/b0a5e757-bbaf-05f6-8195-f8ea69a15c9f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Found It! Hidden Object Game-v1.69.100-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Found It! Hidden Object Game-v1.70.9-riftysipas.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -15664,7 +15716,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Found It! Hidden Object Game-v1.69.100-riftysipas.ipa"
+        "originalFile": "Found It! Hidden Object Game-v1.70.9-riftysipas.ipa"
       }
     },
     {
@@ -26333,13 +26385,13 @@
       "name": "Moon Plus",
       "bundleIdentifier": "nz.co.petesmith.moonphasefree",
       "developerName": "Fascinating Projects",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPremium Unlocked\n\n---\nLive by the moon! See the phases of the moon in clarity - for where YOU are now - not just the \"nearest city\". See a countdown to the next phase of the moon TO THE MINUTE, whether full or new, first or last quarter. See a current simulation of the moon as it appears to you - for now or any day in the past or future - on a large, simple, easy to read display. See Moon Rise and Set times - so you can plan your lunar activities. This IS the app you are looking for!\n\nIt shows:\n• The current phase of",
-      "version": "8.1.0",
-      "versionDate": "2026-03-10T04:14:27-00:00",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMoon Phase Calendar Plus\n\n---\nLive by the moon! See the phases of the moon in clarity - for where YOU are now - not just the \"nearest city\". See a countdown to the next phase of the moon TO THE MINUTE, whether full or new, first or last quarter. See a current simulation of the moon as it appears to you - for now or any day in the past or future - on a large, simple, easy to read display. See Moon Rise and Set times - so you can plan your lunar activities. This IS the app you are looking for!\n\nIt shows:\n• The current phase of",
+      "version": "8.5.0",
+      "versionDate": "2026-06-23T23:16:00-00:00",
       "versionDescription": "Build 1 from @riftysIPAlibrary",
-      "size": 15335702,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/28/09/ba28093e-66b0-cb8c-1871-b95045134ee9/MoonPlus-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Moon.Phase.Calendar.Plus-v8.1.0-riftysipas.ipa",
+      "size": 19963076,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/53/e1/ee53e123-5378-c08f-e2a9-dc02b7a1f856/MoonPlus-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.5.0-riftysipas.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -26352,7 +26404,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Moon Phase Calendar Plus-v8.1.0-riftysipas.ipa"
+        "originalFile": "Moon Phase Calendar Plus-v8.5.0-riftysipas.ipa"
       }
     },
     {
@@ -26980,6 +27032,31 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "My Perfect Hotel-v1.33.2-riftysipas.ipa"
+      }
+    },
+    {
+      "name": "MyAnimeList",
+      "bundleIdentifier": "net.myanimelist",
+      "developerName": "MyAnimeList Co., Ltd",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nThe official app for your favorite anime and manga database and community!\n\nQuickly find information on anime you're watching, read reviews of manga you're planning to read, or get recommendations for similar anime and manga to start next. Use our seasonal anime page to see the best of what's airing now, or marathon the highest-rated anime from previous seasons.\n\nBest of all, easily update your episode and chapter progress so your list is never out of date.\n\nOur app will help keep you on top of",
+      "version": "2.3.16",
+      "versionDate": "2026-06-23T22:54:03-00:00",
+      "versionDescription": "Build 201 from @thescholarslounge",
+      "size": 19442786,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9d/e4/5d/9de45da7-b852-279f-e5c7-c2403405b39e/AppIcon-0-0-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/net.myanimelist-2.3.16-eeveedecrypter.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "net.myanimelist-2.3.16-eeveedecrypter.ipa"
       }
     },
     {
@@ -34776,12 +34853,12 @@
       "bundleIdentifier": "com.evolve.helm",
       "developerName": "Evolve Global, Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nRest: Fix Your Sleep For Good\n\n---\nSleeping well is really hard. Maybe it’s time to get help.\nFiguring out how to improve your sleep on your own can take months of frustrating trial and error, spending countless hours on Google trying to discern good advice from bad.\n\nWorking with a sleep expert may get you results faster, but top experts can be expensive or have lengthy waiting lists, and you need results now.\n\nIdeally, you could take the expertise of a professional and apply it to your sleep tonight. While having 24/7 availabil",
-      "version": "3.191.0",
-      "versionDate": "2026-06-19T10:54:11-00:00",
-      "versionDescription": "Build 7929 from @riftysIPAlibrary",
-      "size": 127190189,
+      "version": "3.192.1",
+      "versionDate": "2026-06-23T23:14:56-00:00",
+      "versionDescription": "Build 7963 from @riftysIPAlibrary",
+      "size": 126660025,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/b7/6a/f7b76af7-fa30-3da2-05c5-12e04d3fd0bd/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Rest: Fix Your Sleep For Good-v3.191.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Rest: Fix Your Sleep For Good-v3.192.1-riftysipas.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -34793,7 +34870,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Rest: Fix Your Sleep For Good-v3.191.0-riftysipas.ipa"
+        "originalFile": "Rest: Fix Your Sleep For Good-v3.192.1-riftysipas.ipa"
       }
     },
     {
@@ -39927,12 +40004,12 @@
       "bundleIdentifier": "com.stippl.stippl",
       "developerName": "Stippl",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nStippl - Travel Planner\n\n---\n1.5 million travelers use Stippl to plan every trip — route planner, day planner, budget tracker, travel journal, reels and eSIM. Everything your next holiday needs, in one app.\n\nPlan your journey in minutes. Relive every adventure forever.\n\nTRAVEL ROUTE PLANNER\nBuild your entire trip visually — add cities, stops and destinations across countries and continents. Change a stop and your whole route adjusts instantly.\n\n• Plan routes across multiple cities and countries\n• Add transport between every",
-      "version": "3.0.12",
-      "versionDate": "2026-06-22T16:25:36-00:00",
-      "versionDescription": "Build 1030 from @riftysIPAlibrary",
-      "size": 74505657,
+      "version": "3.0.13",
+      "versionDate": "2026-06-23T23:02:28-00:00",
+      "versionDescription": "Build 1037 from @riftysIPAlibrary",
+      "size": 74519639,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/e4/7a/e1e47aa3-363d-4699-42bb-980d84d5c744/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Stippl - Travel Planner-v3.0.12-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stippl - Travel Planner-v3.0.13-riftysipas.ipa",
       "minOSVersion": "15.1",
       "supportedPlatforms": [
         "iOS"
@@ -39944,7 +40021,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Stippl - Travel Planner-v3.0.12-riftysipas.ipa"
+        "originalFile": "Stippl - Travel Planner-v3.0.13-riftysipas.ipa"
       }
     },
     {
