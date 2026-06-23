@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.pinguido.scenic",
+    "com.app-livity",
     "com.n3twork.tetris",
     "com.myfitnesspal.mfp",
-    "neat.software.Jot",
-    "com.pixite.Zinnia",
-    "com.offlinemusic"
+    "neat.software.Jot"
   ],
   "apps": [
     {
@@ -37637,14 +37637,14 @@
       "bundleIdentifier": "com.app-livity",
       "developerName": "Martynas Narijauskas",
       "subtitle": "Tweaked with Sideloadbypass1, Sideloadbypass2",
-      "version": "4.8.1",
-      "versionDate": "2026-06-19",
+      "version": "4.9.0",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Livity: Sleep & Health Tracker-v4.8.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Livity: Sleep & Health Tracker-v4.9.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nLivity: Sleep & Health Tracker\n\n---\nLivity: Personal Health & Fitness Tracker - Optimize Recovery, Sleep & Training with Advanced Biometric Analytics\n\nTransform your health and fitness with Livity - the comprehensive wellness app that delivers actionable insights through advanced biometric tracking. Get personalized recovery scores, sleep analysis, and training guidance to unlock your body's full potential.\n\nPRIVACY FIRST: Your health data never leaves your phone! All calculations are done locally inside the Livity App.\n\nKEY FEATU",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/67/48/2e6748f7-76d3-f6ac-677f-4d95fa19f2a9/LivityNewIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 111646092,
+      "size": 115242883,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -37660,18 +37660,18 @@
           "NSPhotoLibraryUsageDescription": "This app requires access to the photo library to share images.",
           "NSCameraUsageDescription": "Take a photo to attach to your AI chat.",
           "NSHealthShareUsageDescription": "Livity app uses Apple health collected data to provide the calculated scores and insights of your body",
-          "NSHealthUpdateUsageDescription": "Livity app uses Apple health stored data to calculate and show your body metrics. It is calculated localy on iPhone and no data is stored",
+          "NSHealthUpdateUsageDescription": "Livity writes data you add in the app — such as manual sleep entries, weight, blood pressure, and food — to Apple Health so your records stay in sync.",
           "NSUserTrackingUsageDescription": "It will help us to show Livity to other health and wellness enthusiasts!",
           "NSPhotoLibraryAddUsageDescription": "This app requires access to the photo library to save shared images."
         }
       },
       "versions": [
         {
-          "version": "4.8.1",
-          "date": "2026-06-19",
+          "version": "4.9.0",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Livity: Sleep & Health Tracker-v4.8.1-riftysipas.ipa",
-          "size": 111646092
+          "downloadURL": "https://telos.ftp.sh/ipas/Livity: Sleep & Health Tracker-v4.9.0-riftysipas.ipa",
+          "size": 115242883
         }
       ],
       "category": "health-&-fitness"
@@ -56693,14 +56693,14 @@
       "bundleIdentifier": "com.pinguido.scenic",
       "developerName": "Applified Life Ltd.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.40",
-      "versionDate": "2026-06-19",
+      "version": "4.41",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Scenic Motorcycle Navigation-v4.40-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Scenic Motorcycle Navigation-v4.41-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nScenic Motorcycle Navigation\n\n---\nTAKE THE SCENIC ROUTE — The app motorcycle riders swear by. 30 million hours ridden, 200,000+ user-designed routes, 4.7 star rating worldwide.\n\nGET THERE YOUR WAY — Curvy routes, beauty routes, unpaved adventures. Scenic finds the twistiest roads automatically, anywhere in the world. You choose how to get there — the rest is just riding.\n\nPLAN LIKE A PRO — Drop pins, set stops, pick your routing mode. Share your route with fellow riders before you even leave.\n\nDISCOVER EPIC ROADS — Browse thousa",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/c4/4a/89c44a21-4d4b-db98-c6f3-ce8defb45f5b/Scenic_Apple_Icon_Texture-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 141508199,
+      "size": 141507879,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/b6/3a/01b63a90-e1f6-02ef-447c-e4213e312688/d34289dd-43f8-47a2-97ae-d8070db7131f_English_-_iPhone5.5_-_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/da/f2/7ddaf257-8c8d-13ba-e20d-996208d304f4/481e50e0-d7f1-40cd-9217-f535f3e07d33_0160_-scenic-app-store-5.5inch-English-AW3.png/392x696bb.png",
@@ -56729,11 +56729,11 @@
       },
       "versions": [
         {
-          "version": "4.40",
-          "date": "2026-06-19",
+          "version": "4.41",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Scenic Motorcycle Navigation-v4.40-riftysipas.ipa",
-          "size": 141508199
+          "downloadURL": "https://telos.ftp.sh/ipas/Scenic Motorcycle Navigation-v4.41-riftysipas.ipa",
+          "size": 141507879
         }
       ],
       "category": "navigation"
