@@ -20980,6 +20980,32 @@
       }
     },
     {
+      "name": "Jot",
+      "bundleIdentifier": "neat.software.Jot",
+      "developerName": "Neat Software Co.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nQuickly create & edit notes and drawings to display as widgets on your home screen & lock screen. Draw with Apple Pencil, your finger, or use the keyboard to type. Customize backgrounds, colors, and fonts. Zoom in on drawings for finer details. Combine text and drawing on the same note. Share your notes as images or text. Import/export your notes to edit between multiple devices.\n\nGreat for quick reminders, todo lists, brainstorming, sketching, home screen aesthetics or just quickly jotting anyt",
+      "version": "4.3.0",
+      "versionDate": "2026-06-23T20:37:44-00:00",
+      "versionDescription": "Build 55 from @thescholarslounge",
+      "size": 10834203,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/f8/65/49f86565-b1a0-6e02-b37f-ebf2466a592d/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/neat.software.Jot-4.3.0-eeveedecrypter.ipa",
+      "minOSVersion": "16.6",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "neat.software.Jot-4.3.0-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "Journal",
       "bundleIdentifier": "cameronnazemi.JournalWithTappy",
       "developerName": "Cameron Nazemi",
@@ -27040,12 +27066,12 @@
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "MyFitnessPal, Inc.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nMyFitnessPal: Calorie Counter\n\n---\nAchieve your nutrition, calorie, macro & fitness goals with MyFitnessPal – the AI-powered food & fitness tracker with everything you need. Calories, macros, food, workouts – track it all in one place with one of the most comprehensive health, nutrition & fitness tracking apps available. Now with a built-in AI nutrition Coach for personalized guidance based on your goals and history. Plus GLP-1 journey support - log doses and set reminders in the app.\n\nCreate personalized fitness & nutrition goal",
-      "version": "26.24.0",
-      "versionDate": "2026-06-16T21:40:40-00:00",
-      "versionDescription": "Build 75428 from @blatants",
-      "size": 341016524,
+      "version": "26.25.0",
+      "versionDate": "2026-06-23T20:44:12-00:00",
+      "versionDescription": "Build 75649 from @blatants",
+      "size": 341360311,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/32/c4/be32c467-6794-cd80-0446-539c429dce5f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal_Calorie_Counter_v26_24_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal_Calorie_Counter_v26_25_0_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -27058,7 +27084,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "MyFitnessPal_Calorie_Counter_v26_24_0_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "MyFitnessPal_Calorie_Counter_v26_25_0_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -42367,18 +42393,17 @@
       "bundleIdentifier": "com.n3twork.tetris",
       "developerName": "PlayStudios",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: NetworkBlocker(adblocker), Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nTetris®\n\n---\nWelcome to TETRIS®, the official mobile app for the world’s favorite puzzle game. Play through hundreds of unique TETRIS Levels in a new Tetris experience. Play a quick round to beat your own score, or play infinite rounds to master your skills in the TETRIS Single Player Modes. TETRIS forever!\n\nEnjoy the ultimate block puzzle game with these amazing features:\n\nPLAY HUNDREDS OF TETRIS LEVELS\n• Puzzle your way through challenging but fun objectives by playing Tetris.\n• The classic Tetris game wit",
-      "version": "7.7.3",
-      "versionDate": "2026-06-14T14:19:53-00:00",
-      "versionDescription": "Build 20313 from @riftysIPAlibrary",
-      "size": 146641849,
+      "version": "7.7.7",
+      "versionDate": "2026-06-23T20:49:22-00:00",
+      "versionDescription": "Build 20409 from @riftysIPAlibrary",
+      "size": 146583259,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/39/24/853924d3-54b2-f0d0-2856-9607070f863c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tetris®-v7.7.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tetris®-v7.7.7-riftysipas.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -42386,7 +42411,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Tetris®-v7.7.3-riftysipas.ipa"
+        "originalFile": "Tetris®-v7.7.7-riftysipas.ipa"
       }
     },
     {
