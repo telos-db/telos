@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "gronda.gmbh",
+    "com.joytunes.asla",
+    "com.edjing.edjingdjturntable",
     "com.bowery-digital.bend",
-    "com.talhayavcin.summarize",
-    "com.wikiloc.wikiloc",
-    "tech.miidii.MDBlank",
-    "com.google.ios.youtube"
+    "com.talhayavcin.summarize"
   ],
   "apps": [
     {
@@ -18772,14 +18772,14 @@
       "bundleIdentifier": "com.edjing.edjingdjturntable",
       "developerName": "MWM",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "9.1.1",
-      "versionDate": "2026-06-18",
+      "version": "9.1.2",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: DJMixer, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Edjing_Mix_DJ_Music_Mixer_App_v9_1_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Edjing_Mix_DJ_Music_Mixer_App_v9_1_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nEdjing Mix: DJ Music Mixer App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/ec/3d/13ec3d47-e540-93c8-625e-19bd3a0aa6c9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 181435668,
+      "size": 181439359,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/8b/3a/4f8b3ae0-5283-85fd-ee16-7b28136dc9ee/dd8bb763-2f99-4e88-ac16-e67199db5d0e_en-01.jpg/406x228bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/ec/0c/86ec0cf7-7302-3af3-821a-3cbebbcde98b/93679357-390c-45fe-94cf-5773e846a4fb_en-02.jpg/406x228bb.jpg",
@@ -18809,11 +18809,11 @@
       },
       "versions": [
         {
-          "version": "9.1.1",
-          "date": "2026-06-18",
+          "version": "9.1.2",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: DJMixer, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Edjing_Mix_DJ_Music_Mixer_App_v9_1_1_Subscription_Unlocked_blatant.ipa",
-          "size": 181435668
+          "downloadURL": "https://telos.ftp.sh/ipas/Edjing_Mix_DJ_Music_Mixer_App_v9_1_2_Subscription_Unlocked_blatant.ipa",
+          "size": 181439359
         }
       ],
       "category": "music"
@@ -27166,14 +27166,14 @@
       "bundleIdentifier": "gronda.gmbh",
       "developerName": "Gronda GmbH",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "8.23.1",
-      "versionDate": "2026-06-19",
+      "version": "8.23.2",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.23.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.23.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nGronda: Recipes for Chefs",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/25/9f/50259fc7-21e1-ce83-dac6-f535654f358f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 52780278,
+      "size": 52931840,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/5d/43/475d4391-f91c-85a7-e3e6-a4f5466a2dc6/12.9__EN-1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ca/0a/e0ca0a9a-ddcc-2fb8-ed4c-9dcbbd409ba3/12.9__EN-2.jpg/576x768bb.jpg",
@@ -27206,11 +27206,11 @@
       },
       "versions": [
         {
-          "version": "8.23.1",
-          "date": "2026-06-19",
+          "version": "8.23.2",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.23.1-riftysipas.ipa",
-          "size": 52780278
+          "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.23.2-riftysipas.ipa",
+          "size": 52931840
         }
       ],
       "category": "food-&-drink"
@@ -58598,14 +58598,14 @@
       "bundleIdentifier": "com.joytunes.asla",
       "developerName": "Simply Ltd",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "9.10.74",
-      "versionDate": "2026-06-21",
+      "version": "9.10.75",
+      "versionDate": "2026-06-23",
       "versionDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Piano_Learn_Piano_Fast_v9_10_74_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Piano_Learn_Piano_Fast_v9_10_75_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSimply Piano: Learn Piano Fast",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/6f/3c/146f3c0c-b2f4-c1e0-12de-f83d3dcd6517/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 167409260,
+      "size": 167372230,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/df/82/08df8229-bd28-58e7-798d-ef8b9cf7c494/01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/d1/7c/44d17cee-2d5b-02bd-afc7-9375fed307e0/2.jpg/392x696bb.jpg",
@@ -58632,11 +58632,11 @@
       },
       "versions": [
         {
-          "version": "9.10.74",
-          "date": "2026-06-21",
+          "version": "9.10.75",
+          "date": "2026-06-23",
           "localizedDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Piano_Learn_Piano_Fast_v9_10_74_Subscription_Unlocked_blatant.ipa",
-          "size": 167409260
+          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Piano_Learn_Piano_Fast_v9_10_75_Subscription_Unlocked_blatant.ipa",
+          "size": 167372230
         }
       ],
       "category": "education"
@@ -78904,7 +78904,7 @@
     {
       "title": "⚙️ Telos Update 6.23",
       "identifier": "telos-update-2026-06-23",
-      "caption": "20 Apps Updated:\n• 6 Health & Fitness\n• 6 Productivity\n• 4 Navigation\n• 2 Photo & Video\n• 2 Graphics & Design",
+      "caption": "26 Apps Updated:\n• 4 Health & Fitness\n• 4 Productivity\n• 4 Food & Drink\n• 4 Music\n• 4 Education\n• 2 Photo & Video\n• 2 Graphics & Design\n• 2 Navigation",
       "date": "2026-06-23",
       "tintColor": "#02433b",
       "notify": true,
