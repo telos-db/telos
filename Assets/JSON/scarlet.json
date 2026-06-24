@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-06-23",
+  "versionDate": "2026-06-24",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -2057,12 +2057,12 @@
       "bundleIdentifier": "com.ld.TakeBrowser",
       "developerName": "Baoding Lehuo Network Technology Co., Ltd.",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nAlook Browser - 8x Speed\n\n---\nAlook is a minimalist yet powerful browser, aiming to be the best for iOS.\n\nCore Features\n- Lightning-fast experience: No push notifications, no news, no ads, millisecond startup.\n- Audio and video features: Floating playback, adjustable speed (0.5x-16.0x), background playback, AirPlay casting, DLNA casting, small window playback, single track loop, picture-in-picture, screenshots, mirroring, long press for speed control, and more.\n- File management: Manual downloads, unzip/compress (zip, rar, 7",
-      "version": "22.3",
-      "versionDate": "2026-06-22T16:00:20-00:00",
-      "versionDescription": "Build 2 from @thescholarslounge",
-      "size": 12342020,
+      "version": "22.5",
+      "versionDate": "2026-06-24T00:26:10-00:00",
+      "versionDescription": "Build 1 from @thescholarslounge",
+      "size": 12302358,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/48/46/5d484629-5050-ec50-2586-6398095fda10/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.3.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.5.ipa",
       "minOSVersion": "10.0",
       "supportedPlatforms": [
         "iOS"
@@ -2075,7 +2075,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Alook-22.3.ipa"
+        "originalFile": "Alook-22.5.ipa"
       }
     },
     {
@@ -26123,12 +26123,12 @@
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "Genau Factory",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMoneyCircle: Spending,Expense\n\n---\nTrack your spending with clarity and control — meet MoneyCircle.\n\nMoneyCircle makes it easy to understand where your money goes.\nWith clean design, smart categorization, and intuitive insights,\nyou’ll gain control of your finances and uncover new opportunities to save.\n\nIf you've tried other expense tracking apps but found them cluttered or overwhelming,\nMoneyCircle offers a refreshing alternative — simple, beautiful, and focused on what matters: your spending habits.\n\nKey Features\nSmart Categor",
-      "version": "3.3.5",
-      "versionDate": "2026-06-21T19:24:27-00:00",
-      "versionDescription": "Build 3 from @riftysIPAlibrary",
-      "size": 13970504,
+      "version": "3.3.6",
+      "versionDate": "2026-06-24T00:28:58-00:00",
+      "versionDescription": "Build 2 from @riftysIPAlibrary",
+      "size": 14662842,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/2a/64/fa2a64b3-0a6b-6fda-3943-7353c92daf49/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.5-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.6-riftysipas.ipa",
       "minOSVersion": "16.6",
       "supportedPlatforms": [
         "iOS"
@@ -26141,7 +26141,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "MoneyCircle: Spending,Expense-v3.3.5-riftysipas.ipa"
+        "originalFile": "MoneyCircle: Spending,Expense-v3.3.6-riftysipas.ipa"
       }
     },
     {
@@ -27378,12 +27378,12 @@
       "bundleIdentifier": "com.napper",
       "developerName": "Napper AB",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nNapper: Baby Sleep Tracker\n\n---\nNapper is the game-changing, award-winning app that uses data, science, and a little bit of algorithmic magic to predict your baby’s naps and bedtime - with almost uncanny accuracy.\n\nOriginally built by a dad on parental leave (still with us btw!) for him and his not-so-sleepy baby girl, Napper has now grown to help more than 100,000 families sleep better. So whatever issue you might be facing - short naps, frequent night-wakings, never-ending bedtime routines - there’s a good chance we can help",
-      "version": "6.52.2",
-      "versionDate": "2026-06-22T11:50:39-00:00",
-      "versionDescription": "Build 260618.141434 from @riftysIPAlibrary",
-      "size": 34788743,
+      "version": "6.52.3",
+      "versionDate": "2026-06-24T00:30:16-00:00",
+      "versionDescription": "Build 260623.161340 from @riftysIPAlibrary",
+      "size": 35420513,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/36/09/e7360996-727d-f95f-242e-361d3a8c1473/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Napper: Baby Sleep Tracker-v6.52.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Napper: Baby Sleep Tracker-v6.52.3-riftysipas.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -27395,7 +27395,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Napper: Baby Sleep Tracker-v6.52.2-riftysipas.ipa"
+        "originalFile": "Napper: Baby Sleep Tracker-v6.52.3-riftysipas.ipa"
       }
     },
     {
@@ -32900,12 +32900,12 @@
       "bundleIdentifier": "com.adobe.premiere.ios",
       "developerName": "Adobe Inc.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AdobePremiere, FilePickerFix, blatantsPatch\n\nAdobe Premiere AI Video Editor\n\n---\nEffortless editing. Total control. Meet the fast, free, and focused mobile video editing app that's powerful enough for any idea, yet simple enough for anyone to use. Edit videos from wherever you are, with no ads or watermarks. Premiere offers unmatched speed on a precise multi-track timeline and studio-quality audio featuring crystal clear voice recordings and perfectly timed AI sound effects -- plus Firefly-powered visuals to create stand out videos.\n\nTell your story with unique, scroll-stopp",
-      "version": "26.14.0",
-      "versionDate": "2026-06-11T15:26:15-00:00",
-      "versionDescription": "Build 22 from @blatants",
-      "size": 67096580,
+      "version": "26.15.0",
+      "versionDate": "2026-06-24T00:28:24-00:00",
+      "versionDescription": "Build 29 from @blatants",
+      "size": 68309770,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/02/2f/34022f22-aefd-ebb9-8b1a-1d045924eb92/AppIcon_Premiere-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Premiere_AI_Video_Editor_v26_14_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Premiere_AI_Video_Editor_v26_15_0_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
@@ -32918,7 +32918,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Adobe_Premiere_AI_Video_Editor_v26_14_0_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Adobe_Premiere_AI_Video_Editor_v26_15_0_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
