@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.napper",
-    "com.genau.MoneyCircle",
-    "com.adobe.premiere.ios",
-    "com.ld.TakeBrowser",
-    "nz.co.petesmith.moonphasefree"
+    "com.soundscape.music",
+    "com.ispazio.Wallpapers-Central",
+    "com.nuvio.media",
+    "net.ichi2.anki",
+    "com.napper"
   ],
   "apps": [
     {
@@ -3720,6 +3720,46 @@
         }
       ],
       "category": "lifestyle"
+    },
+    {
+      "name": "Anki",
+      "bundleIdentifier": "net.ichi2.anki",
+      "developerName": "Anki Software, LLC",
+      "subtitle": "Anki for iOS",
+      "version": "25.09",
+      "versionDate": "2026-06-24",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/AnkiMobile Flashcards-25.09.ipa",
+      "localizedDescription": "Anki",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/6b/da/306bdac5-3088-c97f-c682-e4626bfc6b43/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 15242176,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/30/fc/57/30fc572d-189e-bacf-8126-d42a5f4786dc/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/16/ca/91/16ca9126-d2c7-deb2-ec2d-f1c4a6656b4c/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/3b/4b/5c/3b4b5cf8-f1ec-739e-85d6-67a63bb919a2/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/14/49/7f/14497f12-f0f7-1711-51f9-b8759bd83097/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/31/d2/ea/31d2ea0d-7cdd-8f4f-5f17-ac8fb1840456/2a194264-7048-475e-8cb5-56a5795084eb_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-08-06_at_15.56.15.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This allows the photo browser to show.",
+          "NSCameraUsageDescription": "This allows Anki to insert the images you capture onto your cards.",
+          "NSMicrophoneUsageDescription": "The microphone will only be used when you tap the record button.",
+          "NSPhotoLibraryAddUsageDescription": "The \"Add to Photos\" action requires your permission."
+        }
+      },
+      "versions": [
+        {
+          "version": "25.09",
+          "date": "2025-09-08",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/AnkiMobile Flashcards-25.09.ipa",
+          "size": 15242176
+        }
+      ],
+      "category": "education"
     },
     {
       "name": "Antrag",
@@ -45217,14 +45257,14 @@
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "RGN VENTURES LTD",
       "subtitle": "Nuvio for iOS",
-      "version": "0.1.0",
-      "versionDate": "2026-06-15",
+      "version": "0.2.12",
+      "versionDate": "2026-06-24",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-0.1.0.ipa",
-      "localizedDescription": "Nuvio Beta",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.12-Full.ipa",
+      "localizedDescription": "Nuvio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 31433500,
+      "size": 38346885,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -45232,11 +45272,11 @@
       },
       "versions": [
         {
-          "version": "0.1.0",
-          "date": "2026-06-15",
+          "version": "0.2.12",
+          "date": "2026-06-24",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-0.1.0.ipa",
-          "size": 31433500
+          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.12-Full.ipa",
+          "size": 38346885
         }
       ],
       "category": "health-&-fitness"
@@ -61187,14 +61227,14 @@
       "bundleIdentifier": "com.soundscape.music",
       "developerName": "Soundscape",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "10.1.36",
-      "versionDate": "2026-06-20",
+      "version": "10.1.37",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.36-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.37-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nSoundscape: Sleep Focus Relax",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/0a/36/360a369f-1178-d1b9-ad5d-cd4085a8302d/SoundscapeIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 89679415,
+      "size": 90992631,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -61212,11 +61252,11 @@
       },
       "versions": [
         {
-          "version": "10.1.36",
-          "date": "2026-06-20",
+          "version": "10.1.37",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.36-riftysipas.ipa",
-          "size": 89679415
+          "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.37-riftysipas.ipa",
+          "size": 90992631
         }
       ],
       "category": "health-&-fitness"
@@ -73863,15 +73903,15 @@
       "name": "Wallpapers",
       "bundleIdentifier": "com.ispazio.Wallpapers-Central",
       "developerName": "iSpazio S.r.l.",
-      "subtitle": "By ****@Billymooree**",
-      "version": "2.4.7",
-      "versionDate": "2026-06-11",
-      "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, WallpapersCentralPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Wallpapers_Central_2.4.7_1777216382.ipa",
-      "localizedDescription": "By ****@Billymooree**\n\n[[P] Wallpapers Central](",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "2.5",
+      "versionDate": "2026-06-24",
+      "versionDescription": "Tweaks: WallpapersCentral, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Wallpapers_Central_v2_5_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nWallpapers Central",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/d8/06/41d8063a-0bf2-a8a9-0f46-fca75df34ab2/Wallpapers_Central_IconComposer-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 28278072,
+      "size": 41412078,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -73887,11 +73927,11 @@
       },
       "versions": [
         {
-          "version": "2.4.7",
-          "date": "2026-06-11",
-          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, WallpapersCentralPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Wallpapers_Central_2.4.7_1777216382.ipa",
-          "size": 28278072
+          "version": "2.5",
+          "date": "2026-06-24",
+          "localizedDescription": "Tweaks: WallpapersCentral, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Wallpapers_Central_v2_5_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 41412078
         }
       ],
       "category": "graphics-&-design"
@@ -79085,7 +79125,7 @@
     {
       "title": "⚙️ Telos Update 6.24",
       "identifier": "telos-update-2026-06-24",
-      "caption": "16 Apps Updated:\n• 8 Utilities\n• 4 Health & Fitness\n• 4 Photo & Video",
+      "caption": "28 Apps Updated:\n• 14 Health & Fitness\n• 4 Utilities\n• 4 Graphics & Design\n• 4 Education\n• 2 Photo & Video",
       "date": "2026-06-24",
       "tintColor": "#02433b",
       "notify": true,
