@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.napper",
-    "com.genau.MoneyCircle",
-    "com.adobe.premiere.ios",
-    "com.ld.TakeBrowser",
-    "nz.co.petesmith.moonphasefree"
+    "com.soundscape.music",
+    "com.ispazio.Wallpapers-Central",
+    "com.nuvio.media",
+    "net.ichi2.anki",
+    "com.napper"
   ],
   "apps": [
     {
@@ -3755,6 +3755,46 @@
         }
       ],
       "category": "lifestyle"
+    },
+    {
+      "name": "Anki",
+      "bundleIdentifier": "net.ichi2.anki",
+      "developerName": "Anki Software, LLC",
+      "subtitle": "Anki for iOS",
+      "version": "25.09",
+      "versionDate": "2026-06-24",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/AnkiMobile Flashcards-25.09.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nAnki\n\n---\nAnkiMobile is a mobile companion to Anki®, a powerful, intelligent flashcard program that is free, multi-platform, and open-source. Sales of this app support the development of both the computer and mobile version, which is why the app is priced as a computer application.\n\nAnkiMobile was written by the lead developer of Anki and AnkiWeb, and it has been around since 2010. Beware other apps using \"Anki\" in their name that have sprung up recently - they are not compatible with the rest of the Anki",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/6b/da/306bdac5-3088-c97f-c682-e4626bfc6b43/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 15242176,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/30/fc/57/30fc572d-189e-bacf-8126-d42a5f4786dc/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/16/ca/91/16ca9126-d2c7-deb2-ec2d-f1c4a6656b4c/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/3b/4b/5c/3b4b5cf8-f1ec-739e-85d6-67a63bb919a2/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/14/49/7f/14497f12-f0f7-1711-51f9-b8759bd83097/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/31/d2/ea/31d2ea0d-7cdd-8f4f-5f17-ac8fb1840456/2a194264-7048-475e-8cb5-56a5795084eb_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-08-06_at_15.56.15.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This allows the photo browser to show.",
+          "NSCameraUsageDescription": "This allows Anki to insert the images you capture onto your cards.",
+          "NSMicrophoneUsageDescription": "The microphone will only be used when you tap the record button.",
+          "NSPhotoLibraryAddUsageDescription": "The \"Add to Photos\" action requires your permission."
+        }
+      },
+      "versions": [
+        {
+          "version": "25.09",
+          "date": "2026-06-24",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/AnkiMobile Flashcards-25.09.ipa",
+          "size": 15242176
+        }
+      ],
+      "category": "education"
     },
     {
       "name": "Antrag",
@@ -45639,14 +45679,14 @@
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "RGN VENTURES LTD",
       "subtitle": "Nuvio for iOS",
-      "version": "0.1.0",
-      "versionDate": "2026-06-15",
+      "version": "0.2.12",
+      "versionDate": "2026-06-24",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-0.1.0.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nNuvio Beta\n\n---\nNuvio – Master Your Cold Plunge Routine\nTake control of your recovery like never before. The Nuvio app seamlessly connects to your Recovery Chiller, giving you full command over your cold plunge experience—anytime, anywhere. No ice. No hassle. Just cold, clean performance on your schedule.\nPERSONALIZED CONTROL. PEAK PERFORMANCE.\nDial in your perfect temperature, schedule sessions in advance, activate purification, and monitor your plunge history—all from your phone. Nuvio is designed to fit your",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.12-Full.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nNuvio\n\n---\nNuvio – Master Your Cold Plunge Routine\nTake control of your recovery like never before. The Nuvio app seamlessly connects to your Recovery Chiller, giving you full command over your cold plunge experience—anytime, anywhere. No ice. No hassle. Just cold, clean performance on your schedule.\nPERSONALIZED CONTROL. PEAK PERFORMANCE.\nDial in your perfect temperature, schedule sessions in advance, activate purification, and monitor your plunge history—all from your phone. Nuvio is designed to fit your",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 31433500,
+      "size": 38346885,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -45654,11 +45694,11 @@
       },
       "versions": [
         {
-          "version": "0.1.0",
-          "date": "2026-06-15",
+          "version": "0.2.12",
+          "date": "2026-06-24",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-0.1.0.ipa",
-          "size": 31433500
+          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.12-Full.ipa",
+          "size": 38346885
         }
       ],
       "category": "health-&-fitness"
@@ -61633,14 +61673,14 @@
       "bundleIdentifier": "com.soundscape.music",
       "developerName": "Soundscape",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "10.1.36",
-      "versionDate": "2026-06-20",
+      "version": "10.1.37",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.36-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.37-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSoundscape: Sleep Focus Relax\n\n---\nSleep deeper. Focus longer. Live better.\nSoundscape uses science-backed sounds to help you fall asleep faster, stay focused longer, and feel more in control. From immersive sound mixing to app blocking, every feature is designed to bring more peace into your day.\n\nTOP FEATURES\nSLEEP & FOCUS SOUND LIBRARY\nCrafted with care and backed by science, our immersive soundscapes help your mind let go of stress or dial in to deep focus. Explore calming ambient textures, natural environments, and soothing",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/0a/36/360a369f-1178-d1b9-ad5d-cd4085a8302d/SoundscapeIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 89679415,
+      "size": 90992631,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -61658,11 +61698,11 @@
       },
       "versions": [
         {
-          "version": "10.1.36",
-          "date": "2026-06-20",
+          "version": "10.1.37",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.36-riftysipas.ipa",
-          "size": 89679415
+          "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.37-riftysipas.ipa",
+          "size": 90992631
         }
       ],
       "category": "health-&-fitness"
@@ -74934,15 +74974,15 @@
       "name": "Wallpapers",
       "bundleIdentifier": "com.ispazio.Wallpapers-Central",
       "developerName": "iSpazio S.r.l.",
-      "subtitle": "Wallpapers for iOS",
-      "version": "2.4.5",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.ispazio.Wallpapers-Central-2.4.5-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nDiscover our ultimate Wallpapers app.\n\nWallpapers Central is the iSpazio service entirely dedicated to personalizing your devices. This means: traditional wallpapers, animated wallpapers (LIVE Wallpapers), Depth Effect wallpapers, Spatial Scene 3D wallpapers, and lots of ringtones!\n\nFrom the HOME section you can browse and download every wallpaper available on the platform and add them to your FAVORITES. We’ve built a solid infrastructure that lets you FOLLOW CREATORS who share their work on Wal",
+      "subtitle": "Tweaked with WallpapersCentral, blatantsPatch",
+      "version": "2.5",
+      "versionDate": "2026-06-24",
+      "versionDescription": "Tweaks: WallpapersCentral, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Wallpapers_Central_v2_5_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: WallpapersCentral, blatantsPatch\n\nWallpapers Central\n\n---\nDiscover our ultimate Wallpapers app.\n\nWallpapers Central is the iSpazio service entirely dedicated to personalizing your devices. This means: traditional wallpapers, animated wallpapers (LIVE Wallpapers), Depth Effect wallpapers, Spatial Scene 3D wallpapers, and lots of ringtones!\n\nFrom the HOME section you can browse and download every wallpaper available on the platform and add them to your FAVORITES. We’ve built a solid infrastructure that lets you FOLLOW CREATORS who share their work on Wal",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/d8/06/41d8063a-0bf2-a8a9-0f46-fca75df34ab2/Wallpapers_Central_IconComposer-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 26897418,
+      "size": 41412078,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -74958,11 +74998,11 @@
       },
       "versions": [
         {
-          "version": "2.4.5",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.ispazio.Wallpapers-Central-2.4.5-eeveedecrypter.ipa",
-          "size": 26897418
+          "version": "2.5",
+          "date": "2026-06-24",
+          "localizedDescription": "Tweaks: WallpapersCentral, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Wallpapers_Central_v2_5_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 41412078
         }
       ],
       "category": "graphics-&-design"
