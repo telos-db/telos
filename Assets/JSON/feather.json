@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.TickTick.task",
+    "com.abishkking.maleworkout",
     "com.reveri.reverihealth",
     "com.soundscape.music",
-    "com.ispazio.Wallpapers-Central",
-    "com.nuvio.media",
-    "net.ichi2.anki"
+    "com.ispazio.Wallpapers-Central"
   ],
   "apps": [
     {
@@ -29815,15 +29815,15 @@
       "name": "Home workouts",
       "bundleIdentifier": "com.abishkking.maleworkout",
       "developerName": "Leap Health",
-      "subtitle": "Tweaked with LeapHealthUnlocker",
-      "version": "1.49.0",
-      "versionDate": "2026-06-11",
-      "versionDescription": "Tweaks: LeapHealthUnlocker\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Home Workout Pro 1.49.0.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: LeapHealthUnlocker\n\nHome Workout - No Equipments\n\n---\nWant to build muscle and lose weight? Home Workout is your ultimate fitness solution!\nNo equipment needed. You can work out at home, in the gym, or outdoors anytime, anywhere.\nJoin Home Workout now for tailored workout plans and expert guidance, and get fitter and stronger more easily!\n\nHome Workout app is your personal home fitness coach, gym master, weight loss guide, and muscle booster. It offers a variety of workouts and workout plans suitable anywhere and meet the needs of both fitness begi",
+      "subtitle": "Tweaked with HomeWorkouts, blatantsPatch",
+      "version": "1.52.0",
+      "versionDate": "2026-06-24",
+      "versionDescription": "Tweaks: HomeWorkouts, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Home_Workout_No_Equipments_v1_52_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: HomeWorkouts, blatantsPatch\n\nHome Workout - No Equipments\n\n---\nWant to build muscle and lose weight? Home Workout is your ultimate fitness solution!\nNo equipment needed. You can work out at home, in the gym, or outdoors anytime, anywhere.\nJoin Home Workout now for tailored workout plans and expert guidance, and get fitter and stronger more easily!\n\nHome Workout app is your personal home fitness coach, gym master, weight loss guide, and muscle booster. It offers a variety of workouts and workout plans suitable anywhere and meet the needs of both fitness begi",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/f3/74/82f37424-0f3e-b1f4-c42c-daf956d5c74f/AppIcon-0-0-1x_U007epad-0-6-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 190557666,
+      "size": 197234982,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/87/67/e68767d0-3a52-d7a5-d791-aacd63b4c418/1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/9f/be/549fbe3a-ae73-df25-502b-ec99979b2ea2/2.jpg/392x696bb.jpg",
@@ -29854,11 +29854,11 @@
       },
       "versions": [
         {
-          "version": "1.49.0",
-          "date": "2026-06-11",
-          "localizedDescription": "Tweaks: LeapHealthUnlocker\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Home Workout Pro 1.49.0.ipa",
-          "size": 190557666
+          "version": "1.52.0",
+          "date": "2026-06-24",
+          "localizedDescription": "Tweaks: HomeWorkouts, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Home_Workout_No_Equipments_v1_52_0_Subscription_Unlocked_blatant.ipa",
+          "size": 197234982
         }
       ],
       "category": "health-&-fitness"
@@ -68817,14 +68817,14 @@
       "bundleIdentifier": "com.TickTick.task",
       "developerName": "Appest Limited",
       "subtitle": "Tweaked with Ticktick, blatantsPatch",
-      "version": "8.1.00",
-      "versionDate": "2026-06-16",
+      "version": "8.1.10",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: Ticktick, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_00_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_10_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Ticktick, blatantsPatch\n\nTickTick:To-Do List & Calendar\n\n---\nTickTick is a powerful to-do & task management app with seamless cloud synchronization across all your devices. Whether you need to schedule an agenda, make memos, share shopping lists, collaborate in a team, or even develop a new habit, set countdown for birthdays, TickTick is always here to help you get stuff done and keep life on track.\n\nKey features of TickTick:\n• Sync tasks across all devices\n• Multiple reminders\n• Flexible calendar views\n• Integrate with calendar application\n• Set flexible",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/fd/85/4bfd85a1-3a99-4e17-da24-7c160f3bef28/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 113411721,
+      "size": 107086756,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/83/a3/f483a328-db13-be47-3d13-85227c32b0c4/1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/05/47/780547c6-a5cf-6233-3699-fa2328c18a8d/2.png/392x696bb.png",
@@ -68869,11 +68869,11 @@
       },
       "versions": [
         {
-          "version": "8.1.00",
-          "date": "2026-06-16",
+          "version": "8.1.10",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: Ticktick, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_00_Subscription_Unlocked_blatant.ipa",
-          "size": 113411721
+          "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_10_Subscription_Unlocked_blatant.ipa",
+          "size": 107086756
         }
       ],
       "category": "productivity"
