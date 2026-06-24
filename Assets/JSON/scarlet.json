@@ -2417,6 +2417,32 @@
       }
     },
     {
+      "name": "Anki",
+      "bundleIdentifier": "net.ichi2.anki",
+      "developerName": "Anki Software, LLC",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nAnki\n\n---\nAnkiMobile is a mobile companion to Anki®, a powerful, intelligent flashcard program that is free, multi-platform, and open-source. Sales of this app support the development of both the computer and mobile version, which is why the app is priced as a computer application.\n\nAnkiMobile was written by the lead developer of Anki and AnkiWeb, and it has been around since 2010. Beware other apps using \"Anki\" in their name that have sprung up recently - they are not compatible with the rest of the Anki",
+      "version": "25.09",
+      "versionDate": "2026-06-24T01:31:14-00:00",
+      "versionDescription": "Build 250900.1 from @thescholarslounge",
+      "size": 15242176,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/6b/da/306bdac5-3088-c97f-c682-e4626bfc6b43/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/AnkiMobile Flashcards-25.09.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "AnkiMobile Flashcards-25.09.ipa"
+      }
+    },
+    {
       "name": "Antrag",
       "bundleIdentifier": "thewonderofyou.antrag2",
       "developerName": "Doha Tarek",
@@ -28573,14 +28599,14 @@
       "name": "Nuvio",
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "RGN VENTURES LTD",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nNuvio Beta\n\n---\nNuvio – Master Your Cold Plunge Routine\nTake control of your recovery like never before. The Nuvio app seamlessly connects to your Recovery Chiller, giving you full command over your cold plunge experience—anytime, anywhere. No ice. No hassle. Just cold, clean performance on your schedule.\nPERSONALIZED CONTROL. PEAK PERFORMANCE.\nDial in your perfect temperature, schedule sessions in advance, activate purification, and monitor your plunge history—all from your phone. Nuvio is designed to fit your",
-      "version": "0.1.0",
-      "versionDate": "2026-06-15T17:58:59-00:00",
-      "versionDescription": "Build 51 from @thescholarslounge",
-      "size": 31433500,
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nNuvio\n\n---\nNuvio – Master Your Cold Plunge Routine\nTake control of your recovery like never before. The Nuvio app seamlessly connects to your Recovery Chiller, giving you full command over your cold plunge experience—anytime, anywhere. No ice. No hassle. Just cold, clean performance on your schedule.\nPERSONALIZED CONTROL. PEAK PERFORMANCE.\nDial in your perfect temperature, schedule sessions in advance, activate purification, and monitor your plunge history—all from your phone. Nuvio is designed to fit your",
+      "version": "0.2.12",
+      "versionDate": "2026-06-24T01:32:48-00:00",
+      "versionDescription": "Build 84 from @thescholarslounge",
+      "size": 38346885,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-0.1.0.ipa",
-      "minOSVersion": "10.0",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.12-Full.ipa",
+      "minOSVersion": "16.1",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -28592,7 +28618,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Nuvio-0.1.0.ipa"
+        "originalFile": "Nuvio-v0.2.12-Full.ipa"
       }
     },
     {
@@ -38571,12 +38597,12 @@
       "bundleIdentifier": "com.soundscape.music",
       "developerName": "Soundscape",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSoundscape: Sleep Focus Relax\n\n---\nSleep deeper. Focus longer. Live better.\nSoundscape uses science-backed sounds to help you fall asleep faster, stay focused longer, and feel more in control. From immersive sound mixing to app blocking, every feature is designed to bring more peace into your day.\n\nTOP FEATURES\nSLEEP & FOCUS SOUND LIBRARY\nCrafted with care and backed by science, our immersive soundscapes help your mind let go of stress or dial in to deep focus. Explore calming ambient textures, natural environments, and soothing",
-      "version": "10.1.36",
-      "versionDate": "2026-06-20T21:25:27-00:00",
-      "versionDescription": "Build 98 from @riftysIPAlibrary",
-      "size": 89679415,
+      "version": "10.1.37",
+      "versionDate": "2026-06-24T01:38:49-00:00",
+      "versionDescription": "Build 102 from @riftysIPAlibrary",
+      "size": 90992631,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/0a/36/360a369f-1178-d1b9-ad5d-cd4085a8302d/SoundscapeIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.36-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.37-riftysipas.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -38588,7 +38614,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Soundscape: Sleep Focus Relax-v10.1.36-riftysipas.ipa"
+        "originalFile": "Soundscape: Sleep Focus Relax-v10.1.37-riftysipas.ipa"
       }
     },
     {
@@ -46813,13 +46839,13 @@
       "name": "Wallpapers",
       "bundleIdentifier": "com.ispazio.Wallpapers-Central",
       "developerName": "iSpazio S.r.l.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nDiscover our ultimate Wallpapers app.\n\nWallpapers Central is the iSpazio service entirely dedicated to personalizing your devices. This means: traditional wallpapers, animated wallpapers (LIVE Wallpapers), Depth Effect wallpapers, Spatial Scene 3D wallpapers, and lots of ringtones!\n\nFrom the HOME section you can browse and download every wallpaper available on the platform and add them to your FAVORITES. We’ve built a solid infrastructure that lets you FOLLOW CREATORS who share their work on Wal",
-      "version": "2.4.5",
-      "versionDate": "2026-06-15T21:54:15-00:00",
-      "versionDescription": "Build 1 from @thescholarslounge",
-      "size": 26897418,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: WallpapersCentral, blatantsPatch\n\nWallpapers Central\n\n---\nDiscover our ultimate Wallpapers app.\n\nWallpapers Central is the iSpazio service entirely dedicated to personalizing your devices. This means: traditional wallpapers, animated wallpapers (LIVE Wallpapers), Depth Effect wallpapers, Spatial Scene 3D wallpapers, and lots of ringtones!\n\nFrom the HOME section you can browse and download every wallpaper available on the platform and add them to your FAVORITES. We’ve built a solid infrastructure that lets you FOLLOW CREATORS who share their work on Wal",
+      "version": "2.5",
+      "versionDate": "2026-06-24T01:34:50-00:00",
+      "versionDescription": "Build 20 from @blatants",
+      "size": 41412078,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/d8/06/41d8063a-0bf2-a8a9-0f46-fca75df34ab2/Wallpapers_Central_IconComposer-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.ispazio.Wallpapers-Central-2.4.5-eeveedecrypter.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Wallpapers_Central_v2_5_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
@@ -46829,10 +46855,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@thescholarslounge",
+        "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "com.ispazio.Wallpapers-Central-2.4.5-eeveedecrypter.ipa"
+        "originalFile": "Wallpapers_Central_v2_5_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
