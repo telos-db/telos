@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.easygames.race",
-    "br.com.marcosatanaka.musicbox",
-    "com.risesci.nyx",
-    "com.shadowterm.ShadowTerm",
-    "com.appliedphasor.secure-shellfish"
+    "br.com.marcosatanaka.musicwhiz",
+    "pinterest",
+    "com.duolingo.DuolingoMobile",
+    "com.atebits.Tweetie2",
+    "com.easygames.race"
   ],
   "apps": [
     {
@@ -18677,14 +18677,14 @@
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "Duolingo",
       "subtitle": "Tweaked with CachefixPatch, CydiaSubstrate",
-      "version": "7.128.0",
-      "versionDate": "2026-06-22",
+      "version": "7.128.1",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_128_0_Duolingo_MAX_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_128_1_Duolingo_MAX_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nDuolingo: Language Lessons\n\n---\nLearn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n\nDesigned by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n\nAnd now, you can learn",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/a9/fc/f5a9fc8b-90a2-560e-1482-7c9fc708497e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 206445238,
+      "size": 206445143,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/16/35/0d16355e-7b7a-4903-aa0a-ecfefdaa7e08/b715d679-c25d-41c1-8b55-6c00114fa81e_en_iphone5.5_screen_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/14/cd/f814cd12-cb2b-baeb-2870-404d9186defb/93f4d1c8-4144-44de-8b57-a5a091c838f4_iPhone_5.5_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_3.png/392x696bb.png",
@@ -18717,11 +18717,11 @@
       },
       "versions": [
         {
-          "version": "7.128.0",
-          "date": "2026-06-22",
+          "version": "7.128.1",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_128_0_Duolingo_MAX_Unlocked_blatant.ipa",
-          "size": 206445238
+          "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_128_1_Duolingo_MAX_Unlocked_blatant.ipa",
+          "size": 206445143
         }
       ],
       "category": "education"
@@ -42995,14 +42995,14 @@
       "bundleIdentifier": "br.com.marcosatanaka.musicwhiz",
       "developerName": "Loop Apps LTDA",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.2.6",
-      "versionDate": "2026-06-13",
+      "version": "2.3.1",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MusicSmart - Liner Notes-v2.2.6-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MusicSmart - Liner Notes-v2.3.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMusicSmart - Liner Notes\n\n---\nEver wonder who wrote that song? MusicSmart reveals every credit instantly. It’s like IMDb for music. Critically acclaimed by MacStories, 9to5Mac, MacMagazine, and more.\n\nMusicSmart aggregates music knowledge from various sources into a powerful and easy-to-use app. With features such as Smart Sections and Roles/Instruments Insights, you can gain a deeper understanding of the music creation process and the responsibilities of each role.\n\nNavigate the catalog from within the main app or share mus",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/99/07/799907e1-785c-f5cd-e37f-0dde94480911/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 20072215,
+      "size": 24383357,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/17/bd/d317bdf0-831a-7332-60d2-202a6ebbaada/edad6f69-1716-416b-b02d-4fa66594a9f5_slice1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/7b/cb/2d7bcb0a-50a5-3564-782e-a9752c063ede/6ec8c920-8646-4108-ad8e-570a7e046854_slice2.png/392x696bb.png",
@@ -43021,11 +43021,11 @@
       },
       "versions": [
         {
-          "version": "2.2.6",
-          "date": "2026-06-13",
+          "version": "2.3.1",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MusicSmart - Liner Notes-v2.2.6-riftysipas.ipa",
-          "size": 20072215
+          "downloadURL": "https://telos.ftp.sh/ipas/MusicSmart - Liner Notes-v2.3.1-riftysipas.ipa",
+          "size": 24383357
         }
       ],
       "category": "music"
@@ -50857,14 +50857,14 @@
       "bundleIdentifier": "pinterest",
       "developerName": "Pinterest, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, PinterestPlus2",
-      "version": "14.23",
-      "versionDate": "2026-06-19",
+      "version": "14.24",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CydiaSubstrate, PinterestPlus2, Sideloadbypass1, Sideloadbypass2, pinterestplus\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Pinterest-v14.23-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Pinterest-v14.24-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, PinterestPlus2, Sideloadbypass1, Sideloadbypass2, pinterestplus\n\nPinterest\n\n---\nPinterest is a place of endless possibilities. You can:\n- Discover everyday inspiration\n- Shop styles you love\n- Try and learn something new\n\nCreate boards, save Pins and make collages of all your inspiration. Unlock billions of ideas, from fashion tips and easy recipes to DIY projects and fresh ways to redo your space. Creating the life you love?\n\nIt's Possible.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/e1/f6/dee1f60b-cdd1-f6cc-a231-b6fc7fba5ef9/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 135263009,
+      "size": 135966979,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/43/95/074395db-1ab5-4adf-ec05-037f91216984/iPhone-5.5_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/e4/76/1fe476f4-66aa-2936-79db-2768ec1a9903/iPhone-5.5_2.png/392x696bb.png",
@@ -50899,11 +50899,11 @@
       },
       "versions": [
         {
-          "version": "14.23",
-          "date": "2026-06-19",
+          "version": "14.24",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: CydiaSubstrate, PinterestPlus2, Sideloadbypass1, Sideloadbypass2, pinterestplus\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Pinterest-v14.23-riftysipas.ipa",
-          "size": 135263009
+          "downloadURL": "https://telos.ftp.sh/ipas/Pinterest-v14.24-riftysipas.ipa",
+          "size": 135966979
         }
       ],
       "category": "lifestyle"
@@ -71879,18 +71879,18 @@
       "category": "photo-&-video"
     },
     {
-      "name": "Twitter [BHTwitter]",
+      "name": "Twitter",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X Corp.",
-      "subtitle": "Tweaked with BHTwitter, Cephei",
-      "version": "11.80.1",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Tweaks: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Classic_BHTwitter_11.80.1_Jacks_Apps.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nClassic BHTwitter+ 11.80.1\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "subtitle": "Tweaked with DLTwitter, _by_iosdecrypted_[sideloadKeychainFix]",
+      "version": "12.1",
+      "versionDate": "2026-06-24",
+      "versionDescription": "Tweaks: DLTwitter, _by_iosdecrypted_[sideloadKeychainFix], zxPluginsInject\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]XX_12.1_DL_NF.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: DLTwitter, _by_iosdecrypted_[sideloadKeychainFix], zxPluginsInject\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/9f/e1/889fe148-e8a2-72ba-508d-2d945b3c6537/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 194260160,
+      "size": 223209214,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/77/660e779a-d449-ebd3-0bd3-78502084f7bf/770e6822-f28e-4e4b-be51-8bfbe36f4307_iPad_12.9_-_1.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/2e/90e62e67-ccd1-8221-8149-49f305b8778d/7e053a3e-190b-4585-9927-509871425aad_iPad_12.9_-_2.png/552x414bb.png",
@@ -71898,7 +71898,7 @@
       ],
       "appPermissions": {
         "entitlements": [
-          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.associated-appclip-app-identifiers",
           "aps-environment",
           "com.apple.developer.devicecheck.appattest-environment",
           "com.apple.developer.usernotifications.time-sensitive",
@@ -71907,7 +71907,8 @@
           "com.apple.developer.applesignin",
           "com.apple.developer.networking.carrier-constrained.app-optimized",
           "com.apple.developer.networking.carrier-constrained.appcategory",
-          "com.apple.security.application-groups"
+          "com.apple.security.application-groups",
+          "com.apple.developer.usernotifications.communication"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
@@ -71926,11 +71927,69 @@
       },
       "versions": [
         {
-          "version": "11.80.1",
-          "date": "2026-06-15",
+          "version": "12.1",
+          "date": "2026-06-24",
+          "localizedDescription": "Tweaks: DLTwitter, _by_iosdecrypted_[sideloadKeychainFix], zxPluginsInject\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]XX_12.1_DL_NF.ipa",
+          "size": 223209214
+        }
+      ],
+      "category": "news"
+    },
+    {
+      "name": "Twitter [BHTwitter]",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "X Corp.",
+      "subtitle": "Tweaked with BHTwitter, Cephei",
+      "version": "12.1",
+      "versionDate": "2026-06-24",
+      "versionDescription": "Tweaks: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]XX_12.1_BH_NF.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/9f/e1/889fe148-e8a2-72ba-508d-2d945b3c6537/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 227775358,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/77/660e779a-d449-ebd3-0bd3-78502084f7bf/770e6822-f28e-4e4b-be51-8bfbe36f4307_iPad_12.9_-_1.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/2e/90e62e67-ccd1-8221-8149-49f305b8778d/7e053a3e-190b-4585-9927-509871425aad_iPad_12.9_-_2.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/55/81/e1558195-ef27-c4d9-7967-ab92de356af6/af4a69eb-36c5-463c-9677-c2a72dfaa7dc_iPad_12.9_-_3.png/552x414bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "aps-environment",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.siri",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.networking.carrier-constrained.app-optimized",
+          "com.apple.developer.networking.carrier-constrained.appcategory",
+          "com.apple.security.application-groups",
+          "com.apple.developer.usernotifications.communication"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSCameraUsageDescription": "Capture and post photos and videos from Twitter.",
+          "NSMicrophoneUsageDescription": "Capture and post videos with sound from Twitter.",
+          "NSLocationWhenInUseUsageDescription": "Enjoy Twitter experience tailored to your location.",
+          "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
+          "NSCalendarsUsageDescription": "Add events to your calendar from Twitter.",
+          "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
+          "NSFaceIDUsageDescription": "Use FaceID to authenticate on Twitter.",
+          "NSBluetoothAlwaysUsageDescription": "Twitter uses Bluetooth to discover Cast-enabled devices near you.",
+          "NSLocalNetworkUsageDescription": "Twitter uses the local network to discover Cast-enabled devices on your WiFi network.",
+          "NSUserTrackingUsageDescription": "This helps Twitter show you more relevant ads.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos."
+        }
+      },
+      "versions": [
+        {
+          "version": "12.1",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Classic_BHTwitter_11.80.1_Jacks_Apps.ipa",
-          "size": 194260160
+          "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]XX_12.1_BH_NF.ipa",
+          "size": 227775358
         }
       ],
       "category": "news"
@@ -77496,18 +77555,18 @@
       "category": "productivity"
     },
     {
-      "name": "X",
+      "name": "X [NeoFreeBird]",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X Corp.",
-      "subtitle": "X for iOS",
-      "version": "11.99",
-      "versionDate": "2026-06-16",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.atebits.Tweetie2-11.99-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "subtitle": "Tweaked with DLTwitter, _by_iosdecrypted_[sideloadKeychainFix]",
+      "version": "12.1",
+      "versionDate": "2026-06-24",
+      "versionDescription": "Tweaks: DLTwitter, _by_iosdecrypted_[sideloadKeychainFix], zxPluginsInject\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]XX_12.1_DL_XX.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: DLTwitter, _by_iosdecrypted_[sideloadKeychainFix], zxPluginsInject\n\nBuilds of Twitter and X 😋\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/9f/e1/889fe148-e8a2-72ba-508d-2d945b3c6537/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 218707847,
+      "size": 232926912,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/77/660e779a-d449-ebd3-0bd3-78502084f7bf/770e6822-f28e-4e4b-be51-8bfbe36f4307_iPad_12.9_-_1.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/2e/90e62e67-ccd1-8221-8149-49f305b8778d/7e053a3e-190b-4585-9927-509871425aad_iPad_12.9_-_2.png/552x414bb.png",
@@ -77515,7 +77574,7 @@
       ],
       "appPermissions": {
         "entitlements": [
-          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.associated-appclip-app-identifiers",
           "aps-environment",
           "com.apple.developer.devicecheck.appattest-environment",
           "com.apple.developer.usernotifications.time-sensitive",
@@ -77524,7 +77583,8 @@
           "com.apple.developer.applesignin",
           "com.apple.developer.networking.carrier-constrained.app-optimized",
           "com.apple.developer.networking.carrier-constrained.appcategory",
-          "com.apple.security.application-groups"
+          "com.apple.security.application-groups",
+          "com.apple.developer.usernotifications.communication"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
@@ -77541,11 +77601,11 @@
       },
       "versions": [
         {
-          "version": "11.99",
-          "date": "2026-06-16",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.atebits.Tweetie2-11.99-eeveedecrypter.ipa",
-          "size": 218707847
+          "version": "12.1",
+          "date": "2026-06-24",
+          "localizedDescription": "Tweaks: DLTwitter, _by_iosdecrypted_[sideloadKeychainFix], zxPluginsInject\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]XX_12.1_DL_XX.ipa",
+          "size": 232926912
         }
       ],
       "category": "news"
