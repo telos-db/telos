@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.gymbros.app",
+    "org.watchduty.app",
     "app.chudo",
     "com.strongermobileapp.stronger",
-    "com.ulisesolave.Fitia",
-    "com.fifteenjugglers.solarwatch",
-    "com.JindoBlu.FourPlayersIOS"
+    "com.ulisesolave.Fitia"
   ],
   "apps": [
     {
@@ -36690,14 +36690,14 @@
       "bundleIdentifier": "com.gymbros.app",
       "developerName": "GymBros Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, chocorc",
-      "version": "2.13.20",
-      "versionDate": "2026-06-19",
+      "version": "2.13.21",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.20-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.21-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nLiftoff - Ranked Gym Workouts\n\n---\nLiftoff is the best workout tracker app that ranks your gym performance. Get feedback on 400+ exercises, track progress, and compete with friends. Download the #1 gym rank app & join over 1 million lifters today!\n\nGamified Workout Tracker | Ranks | Streaks | Accountability | Logger\n\nBoost Your Fitness Journey with Liftoff app\n\nConnect and Compete\nJoin a vibrant community of fitness enthusiasts who make every workout count. Liftoff is a social platform where you can connect, compete, and share yo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/5a/28/c15a288f-aa69-4ebf-2a12-8d42974575f6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 163144643,
+      "size": 162668009,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/40/b0/e040b0d8-24ec-03f6-d5cb-1e0882e08695/68ebee91-ba86-4f6c-a564-a276c908ac0f_img1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/6a/60/0c6a609e-6471-3dec-75b1-eecc22d821cf/ff0986a5-c1b8-4b14-8d14-70377d1d970a_img2.jpg/576x768bb.jpg",
@@ -36727,11 +36727,11 @@
       },
       "versions": [
         {
-          "version": "2.13.20",
-          "date": "2026-06-19",
+          "version": "2.13.21",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.20-riftysipas.ipa",
-          "size": 163144643
+          "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.21-riftysipas.ipa",
+          "size": 162668009
         }
       ],
       "category": "health-&-fitness"
@@ -75282,6 +75282,46 @@
         }
       ],
       "category": "games"
+    },
+    {
+      "name": "Watch Duty",
+      "bundleIdentifier": "org.watchduty.app",
+      "developerName": "Sherwood Forestry Service, Inc.",
+      "subtitle": "Watch Duty for iOS",
+      "version": "2026.6.18",
+      "versionDate": "2026-06-24",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/org.watchduty.app-2026.6.18-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nWatch Duty is the only disaster mapping and alert app powered by real people giving you real-time information on wildfires and floods vetted by trained professionals, not robots or AI. While many other apps rely solely on government alerts, which can often be delayed, Watch Duty provides up-to-the-minute, life-saving information through a dedicated team of active and retired firefighters, dispatchers, first responders, and reporters who monitor radio scanners around the clock. We aim to keep you",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/c7/bc/20c7bc9e-ab10-6086-7252-050ff58baf9c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 26479452,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.usernotifications.critical-alerts",
+          "com.apple.developer.usernotifications.time-sensitive"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Need to access your photo library to capture a natural disaster",
+          "NSCameraUsageDescription": "Need to access your camera to capture a natural disaster",
+          "NSLocationWhenInUseUsageDescription": "Need to access your location to find nearby natural disasters",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Need to access your location to find nearby natural disasters",
+          "NSPhotoLibraryAddUsageDescription": "Need to access your photo library to capture a natural disaster"
+        }
+      },
+      "versions": [
+        {
+          "version": "2026.6.18",
+          "date": "2026-06-24",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/org.watchduty.app-2026.6.18-eeveedecrypter.ipa",
+          "size": 26479452
+        }
+      ],
+      "category": "news"
     },
     {
       "name": "WatchsApp",
