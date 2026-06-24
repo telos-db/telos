@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "gronda.gmbh",
-    "com.stromming.Plants",
-    "com.getmimo.mimo",
-    "nutrition.coach",
-    "com.lightricks.Facetune2"
+    "com.fifteenjugglers.solarwatch",
+    "com.JindoBlu.FourPlayersIOS",
+    "com.basenji.mood",
+    "com.pungme.combyne",
+    "gronda.gmbh"
   ],
   "apps": [
     {
@@ -296,14 +296,14 @@
       "bundleIdentifier": "com.JindoBlu.FourPlayersIOS",
       "developerName": "Moreno Maio",
       "subtitle": "Tweaked with NetworkBlocker(adblocker), Sideloadbypass1",
-      "version": "2.28.2",
-      "versionDate": "2026-06-13",
+      "version": "3.1.4",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: NetworkBlocker(adblocker), Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/1 2 3 4 Player Games-v2.28.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/1 2 3 4 Player Games-v3.1.4-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: NetworkBlocker(adblocker), Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\n1 2 3 4 Player Games\n\n---\nCan’t go online? Want to play offline?\nIf you want to play fun mini games with your friends all together on the same device, this is a great game for you!\nCompete with your friends and see who is best!\nPlay multiplayer pvp, 2v2, enjoy single player games, or play against the AI.\n\nChallenge your friends with this huge collection of games and minigames for 1, 2, 3 or 4 players. Enjoy puzzles, classic action arcade minigames, brain training and many more – we have a load of different games for you",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/02/23/a10223ec-d64e-cdce-b3ca-a352e64180ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 83253921,
+      "size": 85161007,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/87/c5/1787c554-47df-8f66-81a9-d9e11ce71b9b/4PG_1242x2208_01-2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/12/4f/37124fce-fb7b-d3b6-a0ad-60a1b30a0c9a/4PG_1242x2208_02-2.png/392x696bb.png",
@@ -312,7 +312,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/17/28/d81728e2-663c-d407-bb1f-112f01d6de8d/4PG_1242x2208_05-2.png/392x696bb.png"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.declared-age-range"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "The app requires access to Photos to save media to it.",
           "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads instead of generic ones. ",
@@ -321,11 +323,11 @@
       },
       "versions": [
         {
-          "version": "2.28.2",
-          "date": "2026-06-13",
+          "version": "3.1.4",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/1 2 3 4 Player Games-v2.28.2-riftysipas.ipa",
-          "size": 83253921
+          "downloadURL": "https://telos.ftp.sh/ipas/1 2 3 4 Player Games-v3.1.4-riftysipas.ipa",
+          "size": 85161007
         }
       ],
       "category": "games"
@@ -9137,14 +9139,14 @@
       "bundleIdentifier": "com.basenji.mood",
       "developerName": "Basenji Apps",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.5.6",
-      "versionDate": "2026-06-19",
+      "version": "3.5.7",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysbreeze, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Breeze: Start Self-Discovery-v3.5.6-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Breeze: Start Self-Discovery-v3.5.7-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysbreeze, zxPluginsInject\n\nBreeze: Start Self-Discovery\n\n---\nFeel more like yourself — one small step at a time\nBreeze is your daily companion for self-discovery, self-care, and mental health support. We believe understanding how you feel is the first step toward living with more clarity, balance, and purpose.\n\nDiscover what makes you you\n\nExplore tools designed to help you reflect, grow, and reconnect with yourself.\nLearn about your:\n- Strengths and patterns\n- Personality traits and communication style\n- Emotional responses and impulse control\n- Ideal ca",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/c6/36/ecc636d1-6831-d170-5210-52aa4a12fd85/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 188779026,
+      "size": 188857986,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/be/01/dabe01b9-d750-662c-bc17-b74a9f8aefc8/28417fc2-7f4a-4a8e-b82a-2a6a84c6446a_ip_8_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/9d/79/619d79af-e230-4377-14cc-1d5cfa55243e/1ae79baf-12b4-46b0-8af0-a1720af2fe97_ip_8_2.jpg/392x696bb.jpg",
@@ -9169,11 +9171,11 @@
       },
       "versions": [
         {
-          "version": "3.5.6",
-          "date": "2026-06-19",
+          "version": "3.5.7",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysbreeze, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Breeze: Start Self-Discovery-v3.5.6-riftysipas.ipa",
-          "size": 188779026
+          "downloadURL": "https://telos.ftp.sh/ipas/Breeze: Start Self-Discovery-v3.5.7-riftysipas.ipa",
+          "size": 188857986
         }
       ],
       "category": "lifestyle"
@@ -14170,14 +14172,14 @@
       "bundleIdentifier": "com.pungme.combyne",
       "developerName": "combyne GmbH",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "8.7.0",
-      "versionDate": "2026-06-22",
+      "version": "8.7.1",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Combyne - your perfect Outfit-v8.7.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Combyne - your perfect Outfit-v8.7.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nCombyne - your perfect Outfit\n\n---\nCombine your perfect outfit in no time. Be inspired by your style peers, discover the latest fashion trends and find your new favourite items from over 800 brands and online shops. Share them with your followers and get their instant feedback.\n\ncombyne is creativity\nFind your individual look by combining all items in our unique combyner, your personal virtual dressing room. Whether you're looking for tops, dresses, shoes, jeans, skirts, accessories, etc, you'll find them in over 35 categories. S",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/4c/54/054c5401-8afa-fef5-818b-ceaba2ee95bf/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 58128564,
+      "size": 58129344,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/15/78/75/15787554-0946-bcde-2f47-35415875631c/38a71243-8f1d-4010-8700-85eae20ce3f1_ios-img-5.5-1.jpeg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ac/ce/9e/acce9e59-3d40-2907-9ced-5a7c17948895/cc6be16b-62d3-4db1-9719-0c539a1d8470_ios-img-5.5-2.jpeg/392x696bb.jpg",
@@ -14204,11 +14206,11 @@
       },
       "versions": [
         {
-          "version": "8.7.0",
-          "date": "2026-06-22",
+          "version": "8.7.1",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Combyne - your perfect Outfit-v8.7.0-riftysipas.ipa",
-          "size": 58128564
+          "downloadURL": "https://telos.ftp.sh/ipas/Combyne - your perfect Outfit-v8.7.1-riftysipas.ipa",
+          "size": 58129344
         }
       ],
       "category": "lifestyle"
@@ -61093,14 +61095,14 @@
       "bundleIdentifier": "com.fifteenjugglers.solarwatch",
       "developerName": "Fifteen Jugglers Software UG",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2026.18.1",
-      "versionDate": "2026-06-14",
+      "version": "2026.23",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sunrise Sunset Time SolarWatch-v2026.18.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sunrise Sunset Time SolarWatch-v2026.23-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSunrise Sunset Time SolarWatch\n\n---\nDiscover the power of the sun with SolarWatch - the ultimate companion for outdoor enthusiasts and photographers!\n\nPlan your day with confidence using accurate sunrise, sunset, and twilight times, and never miss a perfect moment again with customizable solar alarms. SolarWatch's AR mode and map overlays make it easy to find the best lighting for your photos, while the app's widgets keep you informed at a glance.\n\nWhether you're hiking, camping, or simply enjoying nature, SolarWatch helps you liv",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/fb/ef/0dfbef2f-4522-f8b7-6997-64649d4b4886/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 55450316,
+      "size": 59252752,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -61123,11 +61125,11 @@
       },
       "versions": [
         {
-          "version": "2026.18.1",
-          "date": "2026-06-14",
+          "version": "2026.23",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Sunrise Sunset Time SolarWatch-v2026.18.1-riftysipas.ipa",
-          "size": 55450316
+          "downloadURL": "https://telos.ftp.sh/ipas/Sunrise Sunset Time SolarWatch-v2026.23-riftysipas.ipa",
+          "size": 59252752
         }
       ],
       "category": "photo-&-video"
