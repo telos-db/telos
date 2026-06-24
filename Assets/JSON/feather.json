@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.yengshine.proccd",
     "ventures.slam.minutes",
     "videoeditor.app",
     "org.reactjs.native.example.rootd",
-    "phone.location.tracker",
-    "com.kyragames.AestheticSadWallppapers"
+    "phone.location.tracker"
   ],
   "apps": [
     {
@@ -52851,14 +52851,14 @@
       "bundleIdentifier": "com.yengshine.proccd",
       "developerName": "亚玲 查",
       "subtitle": "Tweaked with ProCCD, blatantsPatch",
-      "version": "5.7.2",
-      "versionDate": "2026-06-14",
+      "version": "6.2.1",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: ProCCD, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/ProCCD_Digital_Film_Camera_v5_7_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ProCCD_Digital_Film_Camera_v6_2_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ProCCD, blatantsPatch\n\nProCCD - Digital Film Camera\n\n---\nProCCD is an analog digital film camera application & carousel collage maker. We have reproduced the classic appearance of digital cameras and vintage film & digital camera-inspired retro filter effects. We also create Instagram carousel posts, stories, photo & video collage templates.\n\n#40+ Vintage Film Camera, Digital Camera & VHS Camcorder\n2000S & 2014: A tribute to old button phone, featuring 2000s lofi style that adds a Y2K aesthetic to everyday moments.\nINST E & INST W: Instant cameras tha",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/27/1c/58271c67-b003-d039-146e-da0198130e7f/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 231704379,
+      "size": 242828731,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/c4/45/68c445c6-7584-458d-5670-9d579902a260/01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/d0/c2/0bd0c293-022f-3e34-aa0b-ad5ef65875f4/02.jpg/392x696bb.jpg",
@@ -52869,7 +52869,6 @@
       "appPermissions": {
         "entitlements": [
           "com.apple.developer.networking.wifi-info",
-          "com.apple.security.application-groups",
           "com.apple.developer.associated-domains"
         ],
         "privacy": {
@@ -52883,11 +52882,11 @@
       },
       "versions": [
         {
-          "version": "5.7.2",
-          "date": "2026-06-14",
+          "version": "6.2.1",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: ProCCD, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/ProCCD_Digital_Film_Camera_v5_7_2_Subscription_Unlocked_blatant.ipa",
-          "size": 231704379
+          "downloadURL": "https://telos.ftp.sh/ipas/ProCCD_Digital_Film_Camera_v6_2_1_Subscription_Unlocked_blatant.ipa",
+          "size": 242828731
         }
       ],
       "category": "photo-&-video"
