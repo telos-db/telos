@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "br.com.marcosatanaka.musicwhiz",
-    "pinterest",
-    "com.duolingo.DuolingoMobile",
-    "com.atebits.Tweetie2",
-    "com.easygames.race"
+    "com.chaninicholas.chaniapp",
+    "com.genau.MoneyCircle",
+    "br.com.marcosatanaka.music-harbor",
+    "com.lightricks.Enlight-Editor",
+    "com.adobe.post"
   ],
   "apps": [
     {
@@ -1643,14 +1643,14 @@
       "bundleIdentifier": "com.adobe.post",
       "developerName": "Adobe Inc.",
       "subtitle": "Tweaked with AdobeExpress, FilePickerFix",
-      "version": "30.3.1",
-      "versionDate": "2026-06-08",
+      "version": "30.5.0",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: AdobeExpress, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Express_Create_Anything_v30_3_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Express_Create_Anything_v30_5_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AdobeExpress, FilePickerFix, blatantsPatch\n\nAdobe Express: Create Anything\n\n---\nAdobe Express is the quick and easy app to create on-brand content that helps your business stand out and make an impact. Whether you're a beginner or a seasoned creator, Adobe Express empowers you and your team to make high-quality marketing and business materials while maintaining brand consistency.\n\nVIDEO MADE EASY\nLooking for the best free video editor? Adobe Express makes video editing simple. Use customizable templates, upload clips from your camera roll, trim and combine footage, add text",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/90/eb/e890eb28-283e-37b3-17fa-4c94bc18611d/AppIconSpark-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 139555404,
+      "size": 141814907,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -1672,11 +1672,11 @@
       },
       "versions": [
         {
-          "version": "30.3.1",
-          "date": "2026-06-08",
+          "version": "30.5.0",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: AdobeExpress, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Express_Create_Anything_v30_3_1_Subscription_Unlocked_blatant.ipa",
-          "size": 139555404
+          "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Express_Create_Anything_v30_5_0_Subscription_Unlocked_blatant.ipa",
+          "size": 141814907
         }
       ],
       "category": "graphics-&-design"
@@ -11662,14 +11662,14 @@
       "bundleIdentifier": "com.chaninicholas.chaniapp",
       "developerName": "Chani Nicholas Incorporated",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.7.3",
-      "versionDate": "2026-06-23",
+      "version": "2.7.4",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/CHANI: Your Astrology Guide-v2.7.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/CHANI: Your Astrology Guide-v2.7.4-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nCHANI: Your Astrology Guide\n\n---\nCHANI is your personalized guide through life’s ups and downs. The app was designed to make astrology accessible and useful. Our mission is to help people live their life’s purpose, and we believe that when you know your birth chart — aka your life’s blueprint — you’re better equipped to unlock your life’s potential and your personal power.\n\nWHAT PEOPLE ARE SAYING:\n“This app is my safe space.”\n“This app is like a chat with my best friend\n“This app is honestly life changing. Never have I understo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/17/98/9817988c-27af-a3c3-9b21-10f85f501edf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 40371804,
+      "size": 40372075,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -11680,11 +11680,11 @@
       },
       "versions": [
         {
-          "version": "2.7.3",
-          "date": "2026-06-23",
+          "version": "2.7.4",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/CHANI: Your Astrology Guide-v2.7.3-riftysipas.ipa",
-          "size": 40371804
+          "downloadURL": "https://telos.ftp.sh/ipas/CHANI: Your Astrology Guide-v2.7.4-riftysipas.ipa",
+          "size": 40372075
         }
       ],
       "category": "lifestyle"
@@ -41855,14 +41855,14 @@
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "Genau Factory",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.3.6",
+      "version": "3.3.7",
       "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.6-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.7-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMoneyCircle: Spending,Expense\n\n---\nTrack your spending with clarity and control — meet MoneyCircle.\n\nMoneyCircle makes it easy to understand where your money goes.\nWith clean design, smart categorization, and intuitive insights,\nyou’ll gain control of your finances and uncover new opportunities to save.\n\nIf you've tried other expense tracking apps but found them cluttered or overwhelming,\nMoneyCircle offers a refreshing alternative — simple, beautiful, and focused on what matters: your spending habits.\n\nKey Features\nSmart Categor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/2a/64/fa2a64b3-0a6b-6fda-3943-7353c92daf49/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 14662842,
+      "size": 13974026,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -41878,11 +41878,11 @@
       },
       "versions": [
         {
-          "version": "3.3.6",
+          "version": "3.3.7",
           "date": "2026-06-24",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.6-riftysipas.ipa",
-          "size": 14662842
+          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.7-riftysipas.ipa",
+          "size": 13974026
         }
       ],
       "category": "utilities"
@@ -42950,14 +42950,14 @@
       "bundleIdentifier": "br.com.marcosatanaka.music-harbor",
       "developerName": "Loop Apps LTDA",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "5.2.2",
-      "versionDate": "2026-06-14",
+      "version": "5.2.8",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MusicHarbor - Track New Music-v5.2.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MusicHarbor - Track New Music-v5.2.8-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMusicHarbor - Track New Music\n\n---\nAn award-winning app for keeping track of new music releases, music videos, news, and concerts from all your favorite artists and record labels. Critically acclaimed by MacStories, 9to5Mac, iOS Today, AppleInsider, The Sweet Setup, and more.\n\nMacStories: “If you care about new music releases and staying on top of your favorite artists, you need MusicHarbor”\niOS Today: “This is a great app for folks who are trying to find new music from their favorite artists”\n9to5Mac: “MusicHarbor does what you",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/9b/97/869b97e7-5d5a-fa16-f142-fd58ce3290f7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 46375327,
+      "size": 49417881,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/79/eb/9179eb41-2d81-c8b0-5364-faa4b7e427d6/b05845d3-898f-47d8-b1aa-b9699435dd84_4.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/06/bd/4b06bdcb-5859-8735-9df8-e79f2bf318a1/72fa8ce1-1264-448a-9548-5c446c0d9454_5.png/392x696bb.png",
@@ -42981,11 +42981,11 @@
       },
       "versions": [
         {
-          "version": "5.2.2",
-          "date": "2026-06-14",
+          "version": "5.2.8",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MusicHarbor - Track New Music-v5.2.2-riftysipas.ipa",
-          "size": 46375327
+          "downloadURL": "https://telos.ftp.sh/ipas/MusicHarbor - Track New Music-v5.2.8-riftysipas.ipa",
+          "size": 49417881
         }
       ],
       "category": "music"
@@ -49591,14 +49591,14 @@
       "bundleIdentifier": "com.lightricks.Enlight-Editor",
       "developerName": "Lightricks Ltd.",
       "subtitle": "Tweaked with Photoleap, blatantsPatch",
-      "version": "2.122",
-      "versionDate": "2026-06-21",
+      "version": "2.123",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: Photoleap, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Photoleap_AI_Photo_Generator_v2_122_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Photoleap_AI_Photo_Generator_v2_123_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Photoleap, blatantsPatch, sideloadKeychainfix\n\nPhotoleap: AI Photo Generator\n\n---\nTransform your images with Photoleap, the most powerful photo editing app on the market! Whether you’re an artist, or you just simply love to edit & create, you'll be blown away by all the creative possibilities packed into this sophisticated photo editing app.\n\nCheck out Photoleap's new features!\n\n AI image generator to create the photos you dream of\n First-in-class AI tools will help you create astounding digital art, just by typing the idea you’re imagining\n Speed up your photo editing with a",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/f4/ed/35f4edff-a34c-39ff-2aa7-a67db68a4303/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 401043841,
+      "size": 401045087,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/b1/81/c4b18124-c546-5b3d-b757-f3b8bdcfbd0c/7ef27c13-8c09-461e-8bf8-3aadccc014dc_5.5_U0027_Screen_01_v2.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/fc/eb/9cfcebee-337f-5d08-af84-83c58e0f41ff/69173acb-6bb8-4d4e-86e9-080444fec911_PL-240328-ASO-5.5-02.jpg/392x696bb.jpg",
@@ -49626,11 +49626,11 @@
       },
       "versions": [
         {
-          "version": "2.122",
-          "date": "2026-06-21",
+          "version": "2.123",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: Photoleap, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Photoleap_AI_Photo_Generator_v2_122_Subscription_Unlocked_blatant.ipa",
-          "size": 401043841
+          "downloadURL": "https://telos.ftp.sh/ipas/Photoleap_AI_Photo_Generator_v2_123_Subscription_Unlocked_blatant.ipa",
+          "size": 401045087
         }
       ],
       "category": "photo-&-video"
