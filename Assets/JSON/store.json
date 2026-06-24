@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.yengshine.proccd",
     "ventures.slam.minutes",
     "videoeditor.app",
     "org.reactjs.native.example.rootd",
-    "phone.location.tracker",
-    "com.kyragames.AestheticSadWallppapers"
+    "phone.location.tracker"
   ],
   "apps": [
     {
@@ -52402,14 +52402,14 @@
       "bundleIdentifier": "com.yengshine.proccd",
       "developerName": "亚玲 查",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "6.2.0",
-      "versionDate": "2026-06-14",
+      "version": "6.2.1",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: ProCCD, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/ProCCD_Digital_Film_Camera_v6_2_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ProCCD_Digital_Film_Camera_v6_2_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nProCCD - Digital Film Camera",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/27/1c/58271c67-b003-d039-146e-da0198130e7f/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 242827607,
+      "size": 242828731,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/c4/45/68c445c6-7584-458d-5670-9d579902a260/01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/d0/c2/0bd0c293-022f-3e34-aa0b-ad5ef65875f4/02.jpg/392x696bb.jpg",
@@ -52433,11 +52433,11 @@
       },
       "versions": [
         {
-          "version": "6.2.0",
-          "date": "2026-06-14",
+          "version": "6.2.1",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: ProCCD, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/ProCCD_Digital_Film_Camera_v6_2_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 242827607
+          "downloadURL": "https://telos.ftp.sh/ipas/ProCCD_Digital_Film_Camera_v6_2_1_Subscription_Unlocked_blatant.ipa",
+          "size": 242828731
         }
       ],
       "category": "photo-&-video"
@@ -79328,7 +79328,7 @@
     {
       "title": "⚙️ Telos Update 6.24",
       "identifier": "telos-update-2026-06-24",
-      "caption": "116 Apps Updated:\n• 24 Health & Fitness\n• 14 Photo & Video\n• 12 Lifestyle\n• 10 Utilities\n• 10 Productivity\n• 10 News\n• 8 Graphics & Design\n• 6 Education\n• 6 Games\n• 6 Music\n• 4 Developer Tools\n• 2 Food & Drink\n• 2 Finance\n• 2 Entertainment",
+      "caption": "116 Apps Updated:\n• 24 Health & Fitness\n• 16 Photo & Video\n• 12 Lifestyle\n• 10 Utilities\n• 10 News\n• 8 Graphics & Design\n• 8 Productivity\n• 6 Education\n• 6 Games\n• 6 Music\n• 4 Developer Tools\n• 2 Food & Drink\n• 2 Finance\n• 2 Entertainment",
       "date": "2026-06-24",
       "tintColor": "#02433b",
       "notify": true,
