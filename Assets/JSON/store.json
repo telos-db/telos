@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "ventures.slam.minutes",
+    "videoeditor.app",
     "org.reactjs.native.example.rootd",
     "phone.location.tracker",
-    "com.kyragames.AestheticSadWallppapers",
-    "com.apple.airport.mobileairportutility",
-    "com.chaninicholas.chaniapp"
+    "com.kyragames.AestheticSadWallppapers"
   ],
   "apps": [
     {
@@ -40677,15 +40677,15 @@
       "name": "Minutes",
       "bundleIdentifier": "ventures.slam.minutes",
       "developerName": "Minutes AI",
-      "subtitle": "Tweaked with FilePickerFix, RevenueCatFix26",
-      "version": "1.12.2",
-      "versionDate": "2026-06-09",
-      "versionDescription": "Tweaks: FilePickerFix, RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Minutes: AI Notes & Transcript Unlimited 1.12.2.ipa",
-      "localizedDescription": "Minutes: AI Notes & Transcript",
+      "subtitle": "Pro Unlocked | Patched",
+      "version": "1.12.3",
+      "versionDate": "2026-06-24",
+      "versionDescription": "Tweaks: AutoRcSideload, FilePickerFix, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Minutes_AI_Meeting_Note_Taker_v1_12_3_Pro_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nMinutes: AI Meeting Note Taker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/5e/02/065e0268-b3f6-749b-f99e-db1d6dfa3d14/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 14973505,
+      "size": 21986829,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/20/25/852025a0-a8de-ddaa-4dd4-ffcab15e52ad/89602ad0-0336-447a-a947-cf44ff839a94_iPhone_5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/91/f0/4e91f072-f064-64e4-030a-eebd60c17430/0ca0891e-e9cc-42e2-bbcc-691796e369b7_iPhone_5.5-3.jpg/392x696bb.jpg",
@@ -40707,11 +40707,11 @@
       },
       "versions": [
         {
-          "version": "1.12.2",
-          "date": "2026-05-27",
-          "localizedDescription": "Tweaks: FilePickerFix, RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Minutes: AI Notes & Transcript Unlimited 1.12.2.ipa",
-          "size": 14973505
+          "version": "1.12.3",
+          "date": "2026-06-24",
+          "localizedDescription": "Tweaks: AutoRcSideload, FilePickerFix, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Minutes_AI_Meeting_Note_Taker_v1_12_3_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 21986829
         }
       ],
       "category": "productivity"
@@ -72775,14 +72775,14 @@
       "bundleIdentifier": "videoeditor.app",
       "developerName": "Luni",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "3.21.2",
-      "versionDate": "2026-06-18",
+      "version": "3.21.3",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: VideoStudio, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Video_Editor_·_v3_21_2_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Video_Editor_·_v3_21_3_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nVideo Editor ·",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/a9/cd/d6a9cdd4-e1d8-de96-ce2d-d4fbd7622a38/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 211572339,
+      "size": 211601476,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/e7/f5/9be7f5ba-a680-f2a7-f44a-f285e6aaa8ee/1a347d5e-46d2-465f-aa09-5d541862d0e7_V1-8-Screenshot-01-EN.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/58/9e/3a589e6e-80f8-9dc8-61fd-6080c365729d/bfd88dbd-d55d-4af4-a95e-07ce5d5858ea_V1-8-Screenshot-02-EN.png/392x696bb.png",
@@ -72804,11 +72804,11 @@
       },
       "versions": [
         {
-          "version": "3.21.2",
-          "date": "2026-06-18",
+          "version": "3.21.3",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: VideoStudio, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Video_Editor_·_v3_21_2_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 211572339
+          "downloadURL": "https://telos.ftp.sh/ipas/Video_Editor_·_v3_21_3_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 211601476
         }
       ],
       "category": "photo-&-video"
@@ -79328,7 +79328,7 @@
     {
       "title": "⚙️ Telos Update 6.24",
       "identifier": "telos-update-2026-06-24",
-      "caption": "116 Apps Updated:\n• 26 Health & Fitness\n• 14 Lifestyle\n• 12 Utilities\n• 10 Graphics & Design\n• 10 Photo & Video\n• 10 News\n• 6 Education\n• 6 Productivity\n• 6 Games\n• 6 Music\n• 4 Developer Tools\n• 2 Food & Drink\n• 2 Finance\n• 2 Entertainment",
+      "caption": "116 Apps Updated:\n• 24 Health & Fitness\n• 14 Photo & Video\n• 12 Lifestyle\n• 10 Utilities\n• 10 Productivity\n• 10 News\n• 8 Graphics & Design\n• 6 Education\n• 6 Games\n• 6 Music\n• 4 Developer Tools\n• 2 Food & Drink\n• 2 Finance\n• 2 Entertainment",
       "date": "2026-06-24",
       "tintColor": "#02433b",
       "notify": true,
