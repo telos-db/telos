@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.reveri.reverihealth",
     "com.soundscape.music",
     "com.ispazio.Wallpapers-Central",
     "com.nuvio.media",
-    "net.ichi2.anki",
-    "com.napper"
+    "net.ichi2.anki"
   ],
   "apps": [
     {
@@ -55806,14 +55806,14 @@
       "bundleIdentifier": "com.reveri.reverihealth",
       "developerName": "Reveri Health, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.8.0",
-      "versionDate": "2026-06-23",
+      "version": "4.9.0",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Reveri: Brain Over Pain-v4.8.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Reveri: Brain Over Pain-v4.9.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nReveri: Brain Over Pain\n\n---\nWhen pain, stress, or sleep disruption won’t let you live your life, your mind may be the most powerful tool you haven’t tried yet. Most users feel meaningful relief in their first 10-minute session. No drugs. No side effects. Try it free for 7 days.\nReveri delivers guided, interactive sessions with Stanford’s Dr. David Spiegel, grounded in 50+ years of research and clinical experience, that help your mind directly change how your body feels. Dr. Spiegel asks what you need. The experience adapts",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/14/2d/53142de6-c53b-b1d4-153c-30db0f93e71a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 93735500,
+      "size": 76067151,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/c5/fb/09c5fb9c-deee-4afc-8b1e-4d71d173e23b/01_AppStore_5-5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/e1/65/a0e165af-194f-4649-fa55-6f3b501b0c9f/02_AppStore_5-5.png/392x696bb.png",
@@ -55841,11 +55841,11 @@
       },
       "versions": [
         {
-          "version": "4.8.0",
-          "date": "2026-06-23",
+          "version": "4.9.0",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Reveri: Brain Over Pain-v4.8.0-riftysipas.ipa",
-          "size": 93735500
+          "downloadURL": "https://telos.ftp.sh/ipas/Reveri: Brain Over Pain-v4.9.0-riftysipas.ipa",
+          "size": 76067151
         }
       ],
       "category": "health-&-fitness"
