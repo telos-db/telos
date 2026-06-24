@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.iPwners.Plonkan",
+    "com.mwm.procolor",
+    "com.gingerlabs.Notability",
     "com.kingsoft.office.g.wpsoffice",
-    "com.TickTick.task",
-    "com.abishkking.maleworkout",
-    "com.reveri.reverihealth",
-    "com.soundscape.music"
+    "com.TickTick.task"
   ],
   "apps": [
     {
@@ -9431,14 +9431,14 @@
       "bundleIdentifier": "com.iPwners.Plonkan",
       "developerName": "Buddy Budgeting AB",
       "subtitle": "Premium Unlocked | Patched",
-      "version": "13.40",
-      "versionDate": "2026-06-18",
+      "version": "13.41",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Buddy_Budget_Planner_App_v13_40_Premium_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Buddy_Budget_Planner_App_v13_41_Premium_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nBuddy: Budget Planner App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/53/a4/8753a4ec-4957-cce9-0c2c-2135d4583987/Buddy-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 113394726,
+      "size": 113464046,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/71/9e/7a719e75-ebba-da24-1e16-f2d45da2d5cc/c3f46a54-d917-4cf8-a638-586ce11d81b4_Frame_1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/30/84/4030847b-f184-20d5-4da7-405a3f41a5f4/adba6412-ff7e-4b17-9e4d-96af8c7ee39f_Frame_2.png/576x768bb.png",
@@ -9461,11 +9461,11 @@
       },
       "versions": [
         {
-          "version": "13.40",
-          "date": "2026-06-18",
+          "version": "13.41",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Buddy_Budget_Planner_App_v13_40_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 113394726
+          "downloadURL": "https://telos.ftp.sh/ipas/Buddy_Budget_Planner_App_v13_41_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 113464046
         }
       ],
       "category": "finance"
@@ -14020,14 +14020,14 @@
       "bundleIdentifier": "com.mwm.procolor",
       "developerName": "MWM",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "2.64.00",
-      "versionDate": "2026-06-16",
+      "version": "2.64.01",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: ColorPop, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Color_Pop_AI_Coloring_Book_v2_64_00_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Color_Pop_AI_Coloring_Book_v2_64_01_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nColor Pop AI: Coloring Book",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/d3/1f/1ed31f34-c009-f846-7733-819abc927b06/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 222020896,
+      "size": 222063101,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/5e/d6/a05ed6dd-e6aa-6286-a277-42849e51a3d7/EN_ipad_01.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/10/e9/f610e9be-e8c9-38dd-aa08-409f65933977/EN_ipad_02.png/576x768bb.png",
@@ -14052,11 +14052,11 @@
       },
       "versions": [
         {
-          "version": "2.64.00",
-          "date": "2026-06-16",
+          "version": "2.64.01",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: ColorPop, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Color_Pop_AI_Coloring_Book_v2_64_00_Subscription_Unlocked_blatant.ipa",
-          "size": 222020896
+          "downloadURL": "https://telos.ftp.sh/ipas/Color_Pop_AI_Coloring_Book_v2_64_01_Subscription_Unlocked_blatant.ipa",
+          "size": 222063101
         }
       ],
       "category": "entertainment"
@@ -44654,14 +44654,14 @@
       "bundleIdentifier": "com.gingerlabs.Notability",
       "developerName": "Ginger Labs",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "16.5",
-      "versionDate": "2026-06-22",
+      "version": "16.5.1",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: Notability, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_5_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_5_1_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nNotability: AI Notes & PDF app",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/43/3c/75433c82-440d-bbd3-18ca-12dcc51f3bac/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 263434282,
+      "size": 263434897,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a8/6c/eea86cda-14d4-6a30-2c2c-c3e89532d4a3/1-iPhone55-EN.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/20/f5/f820f50c-2df3-745a-f955-1a70dfb4f1ff/2-iPhone55-EN.png/392x696bb.png",
@@ -44693,11 +44693,11 @@
       },
       "versions": [
         {
-          "version": "16.5",
-          "date": "2026-06-22",
+          "version": "16.5.1",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: Notability, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_5_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 263434282
+          "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_5_1_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 263434897
         }
       ],
       "category": "productivity"
@@ -79125,7 +79125,7 @@
     {
       "title": "⚙️ Telos Update 6.24",
       "identifier": "telos-update-2026-06-24",
-      "caption": "26 Apps Updated:\n• 12 Health & Fitness\n• 4 Utilities\n• 4 Productivity\n• 2 Graphics & Design\n• 2 Education\n• 2 Photo & Video",
+      "caption": "38 Apps Updated:\n• 12 Health & Fitness\n• 8 Productivity\n• 4 Utilities\n• 4 Finance\n• 4 Entertainment\n• 2 Graphics & Design\n• 2 Education\n• 2 Photo & Video",
       "date": "2026-06-24",
       "tintColor": "#02433b",
       "notify": true,
