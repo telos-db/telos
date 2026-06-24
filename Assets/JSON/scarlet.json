@@ -22901,12 +22901,12 @@
       "bundleIdentifier": "com.gymbros.app",
       "developerName": "GymBros Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nLiftoff - Ranked Gym Workouts\n\n---\nLiftoff is the best workout tracker app that ranks your gym performance. Get feedback on 400+ exercises, track progress, and compete with friends. Download the #1 gym rank app & join over 1 million lifters today!\n\nGamified Workout Tracker | Ranks | Streaks | Accountability | Logger\n\nBoost Your Fitness Journey with Liftoff app\n\nConnect and Compete\nJoin a vibrant community of fitness enthusiasts who make every workout count. Liftoff is a social platform where you can connect, compete, and share yo",
-      "version": "2.13.20",
-      "versionDate": "2026-06-19T10:14:11-00:00",
-      "versionDescription": "Build 575 from @riftysIPAlibrary",
-      "size": 163144643,
+      "version": "2.13.21",
+      "versionDate": "2026-06-24T14:30:40-00:00",
+      "versionDescription": "Build 578 from @riftysIPAlibrary",
+      "size": 162668009,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/5a/28/c15a288f-aa69-4ebf-2a12-8d42974575f6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.20-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.21-riftysipas.ipa",
       "minOSVersion": "15.1",
       "supportedPlatforms": [
         "iOS"
@@ -22919,7 +22919,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Liftoff - Ranked Gym Workouts-v2.13.20-riftysipas.ipa"
+        "originalFile": "Liftoff - Ranked Gym Workouts-v2.13.21-riftysipas.ipa"
       }
     },
     {
@@ -47035,6 +47035,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "War Regions - Tactical Game-v1.10.1-riftysipas.ipa"
+      }
+    },
+    {
+      "name": "Watch Duty",
+      "bundleIdentifier": "org.watchduty.app",
+      "developerName": "Sherwood Forestry Service, Inc.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nWatch Duty is the only disaster mapping and alert app powered by real people giving you real-time information on wildfires and floods vetted by trained professionals, not robots or AI. While many other apps rely solely on government alerts, which can often be delayed, Watch Duty provides up-to-the-minute, life-saving information through a dedicated team of active and retired firefighters, dispatchers, first responders, and reporters who monitor radio scanners around the clock. We aim to keep you",
+      "version": "2026.6.18",
+      "versionDate": "2026-06-24T14:26:30-00:00",
+      "versionDescription": "Build 1781800823 from @thescholarslounge",
+      "size": 26479452,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/c7/bc/20c7bc9e-ab10-6086-7252-050ff58baf9c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/org.watchduty.app-2026.6.18-eeveedecrypter.ipa",
+      "minOSVersion": "17.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "org.watchduty.app-2026.6.18-eeveedecrypter.ipa"
       }
     },
     {
