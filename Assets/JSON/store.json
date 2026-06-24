@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.iPwners.Plonkan",
-    "com.mwm.procolor",
-    "com.gingerlabs.Notability",
-    "com.kingsoft.office.g.wpsoffice",
-    "com.TickTick.task"
+    "gronda.gmbh",
+    "com.stromming.Plants",
+    "com.getmimo.mimo",
+    "nutrition.coach",
+    "com.lightricks.Facetune2"
   ],
   "apps": [
     {
@@ -21017,14 +21017,14 @@
       "bundleIdentifier": "com.lightricks.Facetune2",
       "developerName": "Lightricks Ltd.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "26.16",
-      "versionDate": "2026-06-15",
+      "version": "26.17",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_16_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_17_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFacetune: Photo & Video Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/bd/0b/24bd0ba0-1648-a278-f6f6-173fe83ef2f8/AppIconLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 426317692,
+      "size": 421775210,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/e1/25/81e125c3-0cff-38ab-c643-3cc8ebd60281/FT-250819-ASO-Baseline-5.5-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/52/66/e1526682-7c10-2655-d24a-0f0047c6fe71/FT-250819-ASO-Baseline-5.5-02.jpg/392x696bb.jpg",
@@ -21044,18 +21044,17 @@
           "NSPhotoLibraryUsageDescription": "We need to access your photo library in order to allow you to edit your photos and videos using the app’s features. Learn more in our Privacy Policy.",
           "NSCameraUsageDescription": "Allow camera access to use the magic mirror camera",
           "NSMicrophoneUsageDescription": "Allow microphone access to use video recording mode",
-          "NSLocationAlwaysUsageDescription": "We need to know your location to geotag your photos",
           "NSAppleMusicUsageDescription": "Facetune would like to access your music",
           "NSUserTrackingUsageDescription": "This will be used to identify the service that referred you to provide a customized experience."
         }
       },
       "versions": [
         {
-          "version": "26.16",
-          "date": "2026-06-15",
+          "version": "26.17",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_16_Subscription_Unlocked_blatant.ipa",
-          "size": 426317692
+          "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_17_Subscription_Unlocked_blatant.ipa",
+          "size": 421775210
         }
       ],
       "category": "photo-&-video"
@@ -24320,14 +24319,14 @@
       "bundleIdentifier": "fontskeyboard.fonts",
       "developerName": "Fonts ApS",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "8.4.53",
-      "versionDate": "2026-06-05",
+      "version": "8.4.54",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: FontsAIStickers, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fonts_AI_Stickers_v8_4_53_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fonts_AI_Stickers_v8_4_54_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFonts - AI Stickers",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/9f/7c/0b9f7c7c-3c7f-35f5-3ae8-9c98d1150494/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 64118643,
+      "size": 64078132,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/82/0b/fb820b97-fe0f-161c-7469-527c7ad06337/a93d2beb-77cc-4230-acb6-ac862c4e88cc_01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/78/f1/f678f166-f851-3347-8338-d7cd900082e3/FTS_ABTestKeyboards_1242x2208_STILL_EN_PortraitGray_v03.png/392x696bb.png",
@@ -24347,11 +24346,11 @@
       },
       "versions": [
         {
-          "version": "8.4.53",
-          "date": "2026-06-05",
+          "version": "8.4.54",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: FontsAIStickers, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fonts_AI_Stickers_v8_4_53_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 64118643
+          "downloadURL": "https://telos.ftp.sh/ipas/Fonts_AI_Stickers_v8_4_54_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 64078132
         }
       ],
       "category": "utilities"
@@ -27310,14 +27309,14 @@
       "bundleIdentifier": "gronda.gmbh",
       "developerName": "Gronda GmbH",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "8.23.2",
-      "versionDate": "2026-06-23",
+      "version": "8.23.3",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.23.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.23.3-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nGronda: Recipes for Chefs",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/25/9f/50259fc7-21e1-ce83-dac6-f535654f358f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 52931840,
+      "size": 52950761,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/5d/43/475d4391-f91c-85a7-e3e6-a4f5466a2dc6/12.9__EN-1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ca/0a/e0ca0a9a-ddcc-2fb8-ed4c-9dcbbd409ba3/12.9__EN-2.jpg/576x768bb.jpg",
@@ -27350,11 +27349,11 @@
       },
       "versions": [
         {
-          "version": "8.23.2",
-          "date": "2026-06-23",
+          "version": "8.23.3",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.23.2-riftysipas.ipa",
-          "size": 52931840
+          "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.23.3-riftysipas.ipa",
+          "size": 52950761
         }
       ],
       "category": "food-&-drink"
@@ -40391,14 +40390,14 @@
       "bundleIdentifier": "com.getmimo.mimo",
       "developerName": "Mimo GmbH",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "12.15.0",
-      "versionDate": "2026-06-22",
+      "version": "12.15.1",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: Mimo, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Mimo_Learn_Coding_Programming_v12_15_0_Max_Subscription_Unlocked.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Mimo_Learn_Coding_Programming_v12_15_1_Max_Subscription_Unlocked.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nMimo: Learn Coding/Programming",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/1c/ea/301cea49-da17-0244-e0fb-3672a549526d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 168184883,
+      "size": 168185415,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -40417,11 +40416,11 @@
       },
       "versions": [
         {
-          "version": "12.15.0",
-          "date": "2026-06-22",
+          "version": "12.15.1",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: Mimo, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Mimo_Learn_Coding_Programming_v12_15_0_Max_Subscription_Unlocked.ipa",
-          "size": 168184883
+          "downloadURL": "https://telos.ftp.sh/ipas/Mimo_Learn_Coding_Programming_v12_15_1_Max_Subscription_Unlocked.ipa",
+          "size": 168185415
         }
       ],
       "category": "education"
@@ -45211,14 +45210,14 @@
       "bundleIdentifier": "nutrition.coach",
       "developerName": "Eclipse Studios",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "2.1.3",
-      "versionDate": "2026-06-22",
+      "version": "2.1.4",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: NutriCoach, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_3_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_4_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nNutrition Coach: Food tracker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/11/b3/1511b3e4-a114-2d56-8fbf-d60a8807e2ea/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 73221230,
+      "size": 73221357,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5c/7d/c65c7d42-9758-a9f6-b97b-864d52e346df/41392711-be29-4b4a-81aa-f2631d6bffd1_Nutricoach-screenshot-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/21/c6/9221c666-c6e9-cb68-430d-b07e70d8dce5/5f6ea8ed-ee1c-4a9c-9ac4-98f42fce78d0_Nutricoach-screenshot-02.jpg/392x696bb.jpg",
@@ -45243,11 +45242,11 @@
       },
       "versions": [
         {
-          "version": "2.1.3",
-          "date": "2026-06-22",
+          "version": "2.1.4",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: NutriCoach, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_3_Subscription_Unlocked_blatant.ipa",
-          "size": 73221230
+          "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_4_Subscription_Unlocked_blatant.ipa",
+          "size": 73221357
         }
       ],
       "category": "health-&-fitness"
@@ -51023,14 +51022,14 @@
       "bundleIdentifier": "com.stromming.Plants",
       "developerName": "Planta AB",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "3.116.0",
-      "versionDate": "2026-06-05",
+      "version": "3.117.0",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Planta: Plant & Garden Care-v3.116.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Planta: Plant & Garden Care-v3.117.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nPlanta: Plant & Garden Care",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/c6/6b/31c66ba1-a8f7-14c3-7eca-19b2acb95d59/AppIcon-Prod-0-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 125428496,
+      "size": 130684465,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/33/50/463350d3-46a0-750b-05ac-3826f2c9443b/21a249f3-1bba-4ab6-ac5b-11c024f95e6b_Planta_PPO_Social_proof_iOS_5.5_Mobile_1242x2208px_view1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/df/9d/26df9d37-49cc-3607-dc92-6687602a92ee/89ccdf54-1ee6-4acf-a87e-c61e1823ba9d_1242x2208bb-2.png/392x696bb.png",
@@ -51060,11 +51059,11 @@
       },
       "versions": [
         {
-          "version": "3.116.0",
-          "date": "2026-06-03",
+          "version": "3.117.0",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Planta: Plant & Garden Care-v3.116.0-riftysipas.ipa",
-          "size": 125428496
+          "downloadURL": "https://telos.ftp.sh/ipas/Planta: Plant & Garden Care-v3.117.0-riftysipas.ipa",
+          "size": 130684465
         }
       ],
       "category": "lifestyle"
@@ -59458,14 +59457,14 @@
       "bundleIdentifier": "com.spacegab.slideshow",
       "developerName": "Mosaic S.r.l.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "5.6.47",
-      "versionDate": "2026-06-06",
+      "version": "5.6.48",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: SlideShow, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SlideShow_Maker_Photo_to_Video_v5_6_47_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SlideShow_Maker_Photo_to_Video_v5_6_48_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSlideShow Maker Photo to Video",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/4a/8d/494a8d50-ce4d-2fa7-68e3-eefe3c604997/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 121014456,
+      "size": 121148445,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f1/9e/22/f19e2255-dce5-9993-c307-ae28c03a5e32/d13e4980-b18c-4411-8aad-21fc1e6c21a7_default__screenshots__iOS-5.5-in__01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d4/1b/f4/d41bf456-272f-2473-e38c-d59acb6c3095/9b249ab8-631f-4669-9302-672f277dbae6_default__screenshots__iOS-5.5-in__02.jpg/392x696bb.jpg",
@@ -59488,11 +59487,11 @@
       },
       "versions": [
         {
-          "version": "5.6.47",
-          "date": "2026-04-20",
+          "version": "5.6.48",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: SlideShow, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SlideShow_Maker_Photo_to_Video_v5_6_47_Subscription_Unlocked_blatant.ipa",
-          "size": 121014456
+          "downloadURL": "https://telos.ftp.sh/ipas/SlideShow_Maker_Photo_to_Video_v5_6_48_Subscription_Unlocked_blatant.ipa",
+          "size": 121148445
         }
       ],
       "category": "photo-&-video"
@@ -79125,7 +79124,7 @@
     {
       "title": "⚙️ Telos Update 6.24",
       "identifier": "telos-update-2026-06-24",
-      "caption": "38 Apps Updated:\n• 12 Health & Fitness\n• 8 Productivity\n• 4 Utilities\n• 4 Finance\n• 4 Entertainment\n• 2 Graphics & Design\n• 2 Education\n• 2 Photo & Video",
+      "caption": "60 Apps Updated:\n• 16 Health & Fitness\n• 10 Photo & Video\n• 8 Utilities\n• 6 Education\n• 6 Productivity\n• 4 Food & Drink\n• 4 Lifestyle\n• 2 Graphics & Design\n• 2 Finance\n• 2 Entertainment",
       "date": "2026-06-24",
       "tintColor": "#02433b",
       "notify": true,
