@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.chaninicholas.chaniapp",
-    "com.genau.MoneyCircle",
-    "br.com.marcosatanaka.music-harbor",
-    "com.lightricks.Enlight-Editor",
-    "com.adobe.post"
+    "org.reactjs.native.example.rootd",
+    "phone.location.tracker",
+    "com.kyragames.AestheticSadWallppapers",
+    "com.apple.airport.mobileairportutility",
+    "com.chaninicholas.chaniapp"
   ],
   "apps": [
     {
@@ -2484,6 +2484,43 @@
         }
       ],
       "category": "travel"
+    },
+    {
+      "name": "AirPort",
+      "bundleIdentifier": "com.apple.airport.mobileairportutility",
+      "developerName": "Apple",
+      "subtitle": "AirPort for iOS",
+      "version": "1.3.6",
+      "versionDate": "2026-06-24",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.apple.airport.mobileairportutility-1.3.6-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nUse AirPort Utility to manage your Wi-Fi network and AirPort base stations, including AirPort Express, AirPort Extreme, and AirPort Time Capsule — right from your iPad, iPhone, or iPod touch. See a graphical overview of your Wi-Fi network and devices. Change base station and network settings, or manage advanced features such as security modes, wireless channels, IPv6 configuration, and more.\n\nAirPort Utility works with all Apple 802.11n and 802.11ac Wi-Fi base stations, including AirPort Express",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/22/a6/da/22a6da4e-d64c-a768-2887-85b61d40d854/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 5897835,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/81/3b/18/813b18f9-d551-3852-bad5-081cd43250a0/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/51/fd/61/51fd6166-1e68-f32b-a47c-f6878d3bd15f/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b2/e4/41/b2e441b3-b352-27d1-8551-56bc82e44d7b/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0e/40/e9/0e40e991-ebd8-a23b-afa7-637d6b3af578/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6c/b2/77/6cb27723-e9dc-fa71-3f7b-5de97552597c/pr_source.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSContactsUsageDescription": "AirPort Utility will access your information to name your network or device."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.3.6",
+          "date": "2026-06-24",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.apple.airport.mobileairportutility-1.3.6-eeveedecrypter.ipa",
+          "size": 5897835
+        }
+      ],
+      "category": "utilities"
     },
     {
       "name": "Airport City ",
@@ -49301,20 +49338,23 @@
       "bundleIdentifier": "phone.location.tracker",
       "developerName": "Webpeak OU",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.3.0",
-      "versionDate": "2026-06-14",
+      "version": "2.5.0",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, StopReviews, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Phone Tracker - Family Locator-v2.3.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Phone Tracker - Family Locator-v2.5.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, StopReviews, popuprifty\n\nPhone Tracker - Family Locator\n\n---\nKeep Your Loved Ones Safe with Phone Tracker\n\nPhone Tracker – Family Locator is your go-to app for staying connected with family and friends in real-time. Whether you’re ensuring your kids get home safely, checking in on loved ones, or locating a lost phone, Phone Tracker has you covered.What can you do with Phone Tracker?\n\n- See real-time locations of your family, friends, and loved ones anytime.\n- Check location history to keep track of past movements.\n- Get notified when circle members arrive",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/2d/8f/dc2d8fb6-ffc7-7811-7293-f84344265aa5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 48113493,
+      "size": 60968233,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
+          "com.apple.developer.declared-age-range",
+          "com.apple.developer.applesignin",
           "aps-environment",
+          "com.apple.developer.usernotifications.time-sensitive",
           "com.apple.developer.associated-domains",
-          "com.apple.developer.applesignin"
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "This app needs access to photo library to select profile photos.",
@@ -49329,11 +49369,11 @@
       },
       "versions": [
         {
-          "version": "2.3.0",
-          "date": "2026-06-14",
+          "version": "2.5.0",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, StopReviews, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Phone Tracker - Family Locator-v2.3.0-riftysipas.ipa",
-          "size": 48113493
+          "downloadURL": "https://telos.ftp.sh/ipas/Phone Tracker - Family Locator-v2.5.0-riftysipas.ipa",
+          "size": 60968233
         }
       ],
       "category": "lifestyle"
@@ -56394,14 +56434,14 @@
       "bundleIdentifier": "org.reactjs.native.example.rootd",
       "developerName": "Simply Rooted Media Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.1.56",
-      "versionDate": "2026-06-19",
+      "version": "3.1.58",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.56-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.58-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nRootd: Panic Attacks & Anxiety\n\n---\nEditor's Choice — Apple\n App of the Day — Apple\n Approved for privacy, security, clinical assurance, and safety — DHAF & ORCHA\n\nRootd is anxiety and panic attack relief in your pocket. Award-winning, scientifically validated, female led and seen in Women's Health, Time Magazine, Healthline and more. With millions of users worldwide, Rootd is the go-to app for anxiety & panic attacks for more and more people each day.\n\n“I’ve suffered from panic attacks for almost 10 years. I’ve done CBT, medicati",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/e8/02/b5e8027e-1639-b9a6-63a8-e7639d9e711b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 64616381,
+      "size": 64419001,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/20/bb/2420bb85-208d-5c12-54a8-18e90ce18c3a/e46a7b02-ac14-4809-91f5-aa8575fef4ce_rteriphone_5.5_display_copy.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/22/b2/f822b2d7-8fa5-1e87-a43e-8fddfef3694e/f6665434-fc68-4954-9b95-8eacd3051608_1242x2208bb-16.png/392x696bb.png",
@@ -56435,11 +56475,11 @@
       },
       "versions": [
         {
-          "version": "3.1.56",
-          "date": "2026-06-19",
+          "version": "3.1.58",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.56-riftysipas.ipa",
-          "size": 64616381
+          "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.58-riftysipas.ipa",
+          "size": 64419001
         }
       ],
       "category": "health-&-fitness"
@@ -75223,6 +75263,47 @@
           "localizedDescription": "Source: @thescholarslounge",
           "downloadURL": "https://telos.ftp.sh/ipas/com.phonestyler.design.app-4.5-eeveedecrypter.ipa",
           "size": 18740568
+        }
+      ],
+      "category": "graphics-&-design"
+    },
+    {
+      "name": "Wallpics",
+      "bundleIdentifier": "com.kyragames.AestheticSadWallppapers",
+      "developerName": "IgKnight Technologies Ltd",
+      "subtitle": "Wallpics for iOS",
+      "version": "4.0.3",
+      "versionDate": "2026-06-24",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.kyragames.AestheticSadWallppapers-4.0.3-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nTransform your iPhone into a personal masterpiece with Wallpics, the ultimate destination for stunning live wallpapers, DIY wallpaper maker, charging animations, photo widgets, and true 4K quality backgrounds. Whether you’re looking to refresh your lockscreen or craft a cohesive home-and-lockscreen theme, Wallpics delivers everything you need to make your device truly yours.\n\nEndless Live Wallpapers & 4K Quality Backgrounds\n• Dive into a vast library of dynamic live wallpapers in breathtaking 4K",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/e9/24/8be92403-c98a-ce15-fe60-134a00e1af88/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 143189869,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/82/eb/8f82eb6b-096f-7d48-98b8-c380766f55ad/1__U0028_U00276_U00275_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/7a/eb/d47aebef-0abc-4360-da0a-8c7448b0bcfc/4__U0028_U00276_U00275_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/61/3f/f3613fbf-92ef-4330-bcec-9f83b3a04e7b/5__U0028_U00276_U00275_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/53/55/915355c4-6bd5-87ac-9562-6167b80e4cc2/7__U0028_U00276_U00275_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/bb/c9/4ebbc9c9-6f0f-d32a-7c05-553accf1ae56/2__U0028_U00276_U00275_U0029.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "We need access to your photo library to allow you to select images and videos.",
+          "NSMicrophoneUsageDescription": "This app needs microphone access for Siri voice commands",
+          "NSSiriUsageDescription": "This app uses Siri to play video covers on your Lock Screen",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads and measure campaign performance.",
+          "NSPhotoLibraryAddUsageDescription": "This app needs to access your Photo Library to save wallpapers"
+        }
+      },
+      "versions": [
+        {
+          "version": "4.0.3",
+          "date": "2026-06-24",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.kyragames.AestheticSadWallppapers-4.0.3-eeveedecrypter.ipa",
+          "size": 143189869
         }
       ],
       "category": "graphics-&-design"
