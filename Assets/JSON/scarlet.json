@@ -1633,6 +1633,32 @@
       }
     },
     {
+      "name": "AirPort",
+      "bundleIdentifier": "com.apple.airport.mobileairportutility",
+      "developerName": "Apple",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nUse AirPort Utility to manage your Wi-Fi network and AirPort base stations, including AirPort Express, AirPort Extreme, and AirPort Time Capsule — right from your iPad, iPhone, or iPod touch. See a graphical overview of your Wi-Fi network and devices. Change base station and network settings, or manage advanced features such as security modes, wireless channels, IPv6 configuration, and more.\n\nAirPort Utility works with all Apple 802.11n and 802.11ac Wi-Fi base stations, including AirPort Express",
+      "version": "1.3.6",
+      "versionDate": "2026-06-24T21:29:11-00:00",
+      "versionDescription": "Build 136.3 from @thescholarslounge",
+      "size": 5897835,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/22/a6/da/22a6da4e-d64c-a768-2887-85b61d40d854/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.apple.airport.mobileairportutility-1.3.6-eeveedecrypter.ipa",
+      "minOSVersion": "9.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.apple.airport.mobileairportutility-1.3.6-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "Airport City ",
       "bundleIdentifier": "com.gameinsight.airportcity",
       "developerName": "Game Insight",
@@ -30915,18 +30941,17 @@
       "bundleIdentifier": "phone.location.tracker",
       "developerName": "Webpeak OU",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, StopReviews, popuprifty\n\nPhone Tracker - Family Locator\n\n---\nKeep Your Loved Ones Safe with Phone Tracker\n\nPhone Tracker – Family Locator is your go-to app for staying connected with family and friends in real-time. Whether you’re ensuring your kids get home safely, checking in on loved ones, or locating a lost phone, Phone Tracker has you covered.What can you do with Phone Tracker?\n\n- See real-time locations of your family, friends, and loved ones anytime.\n- Check location history to keep track of past movements.\n- Get notified when circle members arrive",
-      "version": "2.3.0",
-      "versionDate": "2026-06-14T13:14:15-00:00",
-      "versionDescription": "Build 1 from @riftysIPAlibrary",
-      "size": 48113493,
+      "version": "2.5.0",
+      "versionDate": "2026-06-24T21:33:44-00:00",
+      "versionDescription": "Build 2 from @riftysIPAlibrary",
+      "size": 60968233,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/2d/8f/dc2d8fb6-ffc7-7811-7293-f84344265aa5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Phone Tracker - Family Locator-v2.3.0-riftysipas.ipa",
-      "minOSVersion": "16.4",
+      "downloadURL": "https://telos.ftp.sh/ipas/Phone Tracker - Family Locator-v2.5.0-riftysipas.ipa",
+      "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -30934,7 +30959,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Phone Tracker - Family Locator-v2.3.0-riftysipas.ipa"
+        "originalFile": "Phone Tracker - Family Locator-v2.5.0-riftysipas.ipa"
       }
     },
     {
@@ -35309,12 +35334,12 @@
       "bundleIdentifier": "org.reactjs.native.example.rootd",
       "developerName": "Simply Rooted Media Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nRootd: Panic Attacks & Anxiety\n\n---\nEditor's Choice — Apple\n App of the Day — Apple\n Approved for privacy, security, clinical assurance, and safety — DHAF & ORCHA\n\nRootd is anxiety and panic attack relief in your pocket. Award-winning, scientifically validated, female led and seen in Women's Health, Time Magazine, Healthline and more. With millions of users worldwide, Rootd is the go-to app for anxiety & panic attacks for more and more people each day.\n\n“I’ve suffered from panic attacks for almost 10 years. I’ve done CBT, medicati",
-      "version": "3.1.56",
-      "versionDate": "2026-06-19T19:47:45-00:00",
-      "versionDescription": "Build 543 from @riftysIPAlibrary",
-      "size": 64616381,
+      "version": "3.1.58",
+      "versionDate": "2026-06-24T21:37:12-00:00",
+      "versionDescription": "Build 546 from @riftysIPAlibrary",
+      "size": 64419001,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/e8/02/b5e8027e-1639-b9a6-63a8-e7639d9e711b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.56-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.58-riftysipas.ipa",
       "minOSVersion": "15.6",
       "supportedPlatforms": [
         "iOS"
@@ -35327,7 +35352,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Rootd: Panic Attacks & Anxiety-v3.1.56-riftysipas.ipa"
+        "originalFile": "Rootd: Panic Attacks & Anxiety-v3.1.58-riftysipas.ipa"
       }
     },
     {
@@ -46979,6 +47004,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "com.phonestyler.design.app-4.5-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "Wallpics",
+      "bundleIdentifier": "com.kyragames.AestheticSadWallppapers",
+      "developerName": "IgKnight Technologies Ltd",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nTransform your iPhone into a personal masterpiece with Wallpics, the ultimate destination for stunning live wallpapers, DIY wallpaper maker, charging animations, photo widgets, and true 4K quality backgrounds. Whether you’re looking to refresh your lockscreen or craft a cohesive home-and-lockscreen theme, Wallpics delivers everything you need to make your device truly yours.\n\nEndless Live Wallpapers & 4K Quality Backgrounds\n• Dive into a vast library of dynamic live wallpapers in breathtaking 4K",
+      "version": "4.0.3",
+      "versionDate": "2026-06-24T21:30:42-00:00",
+      "versionDescription": "Build 50 from @thescholarslounge",
+      "size": 143189869,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/e9/24/8be92403-c98a-ce15-fe60-134a00e1af88/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.kyragames.AestheticSadWallppapers-4.0.3-eeveedecrypter.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.kyragames.AestheticSadWallppapers-4.0.3-eeveedecrypter.ipa"
       }
     },
     {
