@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "ventures.slam.minutes",
+    "videoeditor.app",
     "org.reactjs.native.example.rootd",
     "phone.location.tracker",
-    "com.kyragames.AestheticSadWallppapers",
-    "com.apple.airport.mobileairportutility",
-    "com.chaninicholas.chaniapp"
+    "com.kyragames.AestheticSadWallppapers"
   ],
   "apps": [
     {
@@ -41103,15 +41103,15 @@
       "name": "Minutes",
       "bundleIdentifier": "ventures.slam.minutes",
       "developerName": "Minutes AI",
-      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.11",
-      "versionDate": "2026-06-14",
-      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Minutes: AI Meeting Note Taker-v1.11-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMinutes: AI Meeting Note Taker\n\n---\nMinutes AI automatically does your meeting notes and transcriptions with AI. Minutes records audio and provides word for word transcripts with speakers labels. Then, it gives you formatted notes, summaries, and the ability to search for key terms/topics. You can ask questions like “What stats did Laura reference on her slide?.”\n\nMinutes takes care of your notes so you can stay focused on what’s important. It's build with privacy in mind, meaning Minutes will never sell or provide third-party acc",
+      "subtitle": "Tweaked with AutoRcSideload, FilePickerFix",
+      "version": "1.12.3",
+      "versionDate": "2026-06-24",
+      "versionDescription": "Tweaks: AutoRcSideload, FilePickerFix, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Minutes_AI_Meeting_Note_Taker_v1_12_3_Pro_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, FilePickerFix, blatantsPatch\n\nMinutes: AI Meeting Note Taker\n\n---\nMinutes AI automatically does your meeting notes and transcriptions with AI. Minutes records audio and provides word for word transcripts with speakers labels. Then, it gives you formatted notes, summaries, and the ability to search for key terms/topics. You can ask questions like “What stats did Laura reference on her slide?.”\n\nMinutes takes care of your notes so you can stay focused on what’s important. It's build with privacy in mind, meaning Minutes will never sell or provide third-party acc",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/5e/02/065e0268-b3f6-749b-f99e-db1d6dfa3d14/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 16989887,
+      "size": 21986829,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/20/25/852025a0-a8de-ddaa-4dd4-ffcab15e52ad/89602ad0-0336-447a-a947-cf44ff839a94_iPhone_5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/91/f0/4e91f072-f064-64e4-030a-eebd60c17430/0ca0891e-e9cc-42e2-bbcc-691796e369b7_iPhone_5.5-3.jpg/392x696bb.jpg",
@@ -41122,20 +41122,22 @@
       "appPermissions": {
         "entitlements": [
           "aps-environment",
+          "com.apple.security.application-groups",
           "com.apple.developer.applesignin"
         ],
         "privacy": {
           "NSMicrophoneUsageDescription": "Microphone access is required to record, transcribe, and summarize audio. You can delete the Minute to delete the data permanently.\n",
+          "NSLocationWhenInUseUsageDescription": "Used by our attribution SDK to improve ad measurement. Minutes does not track your location.",
           "NSUserTrackingUsageDescription": "This will help us personalize your app experience"
         }
       },
       "versions": [
         {
-          "version": "1.11",
-          "date": "2026-06-14",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Minutes: AI Meeting Note Taker-v1.11-riftysipas.ipa",
-          "size": 16989887
+          "version": "1.12.3",
+          "date": "2026-06-24",
+          "localizedDescription": "Tweaks: AutoRcSideload, FilePickerFix, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Minutes_AI_Meeting_Note_Taker_v1_12_3_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 21986829
         }
       ],
       "category": "productivity"
@@ -73850,14 +73852,14 @@
       "bundleIdentifier": "videoeditor.app",
       "developerName": "Luni",
       "subtitle": "Tweaked with VideoStudio, blatantsPatch",
-      "version": "3.21.2",
-      "versionDate": "2026-06-18",
+      "version": "3.21.3",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: VideoStudio, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Video_Editor_·_v3_21_2_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Video_Editor_·_v3_21_3_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: VideoStudio, blatantsPatch\n\nVideo Editor ·\n\n---\nVideo Editor is the most powerful movie & slideshow editor application on iPhone. Create and edit any video or images, add music, texts, and stickers and export it to your iOS devices or your favorite social networks.\n\nWhether you are in a waiting room, on public transport or comfortably at home, Video Editor is the reference application on the AppStore to create your video project.\nIt is very frequently used to make and share videos on Tik Tok, YouTube, Instagram or Facebook.\n\n- CREATE your pro",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/a9/cd/d6a9cdd4-e1d8-de96-ce2d-d4fbd7622a38/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 211572339,
+      "size": 211601476,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/e7/f5/9be7f5ba-a680-f2a7-f44a-f285e6aaa8ee/1a347d5e-46d2-465f-aa09-5d541862d0e7_V1-8-Screenshot-01-EN.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/58/9e/3a589e6e-80f8-9dc8-61fd-6080c365729d/bfd88dbd-d55d-4af4-a95e-07ce5d5858ea_V1-8-Screenshot-02-EN.png/392x696bb.png",
@@ -73879,11 +73881,11 @@
       },
       "versions": [
         {
-          "version": "3.21.2",
-          "date": "2026-06-18",
+          "version": "3.21.3",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: VideoStudio, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Video_Editor_·_v3_21_2_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 211572339
+          "downloadURL": "https://telos.ftp.sh/ipas/Video_Editor_·_v3_21_3_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 211601476
         }
       ],
       "category": "photo-&-video"
