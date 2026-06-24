@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.chaninicholas.chaniapp",
-    "com.genau.MoneyCircle",
-    "br.com.marcosatanaka.music-harbor",
-    "com.lightricks.Enlight-Editor",
-    "com.adobe.post"
+    "org.reactjs.native.example.rootd",
+    "phone.location.tracker",
+    "com.kyragames.AestheticSadWallppapers",
+    "com.apple.airport.mobileairportutility",
+    "com.chaninicholas.chaniapp"
   ],
   "apps": [
     {
@@ -2444,6 +2444,43 @@
         }
       ],
       "category": "travel"
+    },
+    {
+      "name": "AirPort",
+      "bundleIdentifier": "com.apple.airport.mobileairportutility",
+      "developerName": "Apple",
+      "subtitle": "AirPort for iOS",
+      "version": "1.3.6",
+      "versionDate": "2026-06-24",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.apple.airport.mobileairportutility-1.3.6-eeveedecrypter.ipa",
+      "localizedDescription": "AirPort for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/22/a6/da/22a6da4e-d64c-a768-2887-85b61d40d854/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 5897835,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/81/3b/18/813b18f9-d551-3852-bad5-081cd43250a0/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/51/fd/61/51fd6166-1e68-f32b-a47c-f6878d3bd15f/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b2/e4/41/b2e441b3-b352-27d1-8551-56bc82e44d7b/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0e/40/e9/0e40e991-ebd8-a23b-afa7-637d6b3af578/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6c/b2/77/6cb27723-e9dc-fa71-3f7b-5de97552597c/pr_source.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSContactsUsageDescription": "AirPort Utility will access your information to name your network or device."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.3.6",
+          "date": "2019-10-14",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.apple.airport.mobileairportutility-1.3.6-eeveedecrypter.ipa",
+          "size": 5897835
+        }
+      ],
+      "category": "utilities"
     },
     {
       "name": "Airport City ",
@@ -48852,17 +48889,18 @@
       "bundleIdentifier": "phone.location.tracker",
       "developerName": "Webpeak OU",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "2.4.1",
-      "versionDate": "2026-06-12",
+      "version": "2.5.0",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, StopReviews, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Phone Tracker - Family Locator-v2.4.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Phone Tracker - Family Locator-v2.5.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nPhone Tracker - Family Locator",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/2d/8f/dc2d8fb6-ffc7-7811-7293-f84344265aa5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 59819948,
+      "size": 60968233,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
+          "com.apple.developer.declared-age-range",
           "com.apple.developer.applesignin",
           "aps-environment",
           "com.apple.developer.usernotifications.time-sensitive",
@@ -48882,11 +48920,11 @@
       },
       "versions": [
         {
-          "version": "2.4.1",
-          "date": "2026-05-28",
+          "version": "2.5.0",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, StopReviews, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Phone Tracker - Family Locator-v2.4.1-riftysipas.ipa",
-          "size": 59819948
+          "downloadURL": "https://telos.ftp.sh/ipas/Phone Tracker - Family Locator-v2.5.0-riftysipas.ipa",
+          "size": 60968233
         }
       ],
       "category": "lifestyle"
@@ -55949,14 +55987,14 @@
       "bundleIdentifier": "org.reactjs.native.example.rootd",
       "developerName": "Simply Rooted Media Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "3.1.56",
-      "versionDate": "2026-06-19",
+      "version": "3.1.58",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.56-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.58-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nRootd: Panic Attacks & Anxiety",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/e8/02/b5e8027e-1639-b9a6-63a8-e7639d9e711b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 64616381,
+      "size": 64419001,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/20/bb/2420bb85-208d-5c12-54a8-18e90ce18c3a/e46a7b02-ac14-4809-91f5-aa8575fef4ce_rteriphone_5.5_display_copy.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/22/b2/f822b2d7-8fa5-1e87-a43e-8fddfef3694e/f6665434-fc68-4954-9b95-8eacd3051608_1242x2208bb-16.png/392x696bb.png",
@@ -55990,11 +56028,11 @@
       },
       "versions": [
         {
-          "version": "3.1.56",
-          "date": "2026-06-19",
+          "version": "3.1.58",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.56-riftysipas.ipa",
-          "size": 64616381
+          "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.58-riftysipas.ipa",
+          "size": 64419001
         }
       ],
       "category": "health-&-fitness"
@@ -74156,6 +74194,47 @@
       "category": "graphics-&-design"
     },
     {
+      "name": "Wallpics",
+      "bundleIdentifier": "com.kyragames.AestheticSadWallppapers",
+      "developerName": "IgKnight Technologies Ltd",
+      "subtitle": "Wallpics for iOS",
+      "version": "4.0.3",
+      "versionDate": "2026-06-24",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.kyragames.AestheticSadWallppapers-4.0.3-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/e9/24/8be92403-c98a-ce15-fe60-134a00e1af88/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 143189869,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/82/eb/8f82eb6b-096f-7d48-98b8-c380766f55ad/1__U0028_U00276_U00275_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/7a/eb/d47aebef-0abc-4360-da0a-8c7448b0bcfc/4__U0028_U00276_U00275_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/61/3f/f3613fbf-92ef-4330-bcec-9f83b3a04e7b/5__U0028_U00276_U00275_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/53/55/915355c4-6bd5-87ac-9562-6167b80e4cc2/7__U0028_U00276_U00275_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/bb/c9/4ebbc9c9-6f0f-d32a-7c05-553accf1ae56/2__U0028_U00276_U00275_U0029.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "We need access to your photo library to allow you to select images and videos.",
+          "NSMicrophoneUsageDescription": "This app needs microphone access for Siri voice commands",
+          "NSSiriUsageDescription": "This app uses Siri to play video covers on your Lock Screen",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads and measure campaign performance.",
+          "NSPhotoLibraryAddUsageDescription": "This app needs to access your Photo Library to save wallpapers"
+        }
+      },
+      "versions": [
+        {
+          "version": "4.0.3",
+          "date": "2026-06-24",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.kyragames.AestheticSadWallppapers-4.0.3-eeveedecrypter.ipa",
+          "size": 143189869
+        }
+      ],
+      "category": "graphics-&-design"
+    },
+    {
       "name": "Walmart",
       "bundleIdentifier": "com.walmart.electronics",
       "developerName": "Walmart",
@@ -79249,7 +79328,7 @@
     {
       "title": "⚙️ Telos Update 6.24",
       "identifier": "telos-update-2026-06-24",
-      "caption": "110 Apps Updated:\n• 22 Health & Fitness\n• 12 Photo & Video\n• 12 Lifestyle\n• 10 Utilities\n• 10 News\n• 8 Graphics & Design\n• 8 Music\n• 6 Education\n• 6 Productivity\n• 6 Games\n• 4 Developer Tools\n• 2 Food & Drink\n• 2 Finance\n• 2 Entertainment",
+      "caption": "116 Apps Updated:\n• 26 Health & Fitness\n• 14 Lifestyle\n• 12 Utilities\n• 10 Graphics & Design\n• 10 Photo & Video\n• 10 News\n• 6 Education\n• 6 Productivity\n• 6 Games\n• 6 Music\n• 4 Developer Tools\n• 2 Food & Drink\n• 2 Finance\n• 2 Entertainment",
       "date": "2026-06-24",
       "tintColor": "#02433b",
       "notify": true,
