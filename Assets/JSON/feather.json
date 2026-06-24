@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.kingsoft.office.g.wpsoffice",
     "com.TickTick.task",
     "com.abishkking.maleworkout",
     "com.reveri.reverihealth",
-    "com.soundscape.music",
-    "com.ispazio.Wallpapers-Central"
+    "com.soundscape.music"
   ],
   "apps": [
     {
@@ -77325,14 +77325,14 @@
       "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
       "developerName": "KINGSOFT OFFICE SOFTWARE CORPORATION LIMITED",
       "subtitle": "Tweaked with FilePickerFix, WPSOffice",
-      "version": "26.6.1",
-      "versionDate": "2026-06-12",
+      "version": "26.6.2",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: FilePickerFix, WPSOffice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/WPS_Office_AI_Doc,_PDF,_Sheet_v26_6_1_PRO+AI_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/WPS_Office_AI_Doc,_PDF,_Sheet_v26_6_2_PRO+AI_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FilePickerFix, WPSOffice, blatantsPatch\n\nWPS Office-AI Doc, PDF, Sheet\n\n---\nThe all-new WPS for iOS is now fully AI-powered. Turn your iPhone into a \"Thinking Workspace\"—generate slides from a single prompt, clarify blurry scans, and digitize notes instantly. Sync seamlessly across devices: Work smarter, not harder.\n\nAI COPILOT: YOUR PERSONAL OFFICE ASSISTANT\n• Ask & Analyze: Get instant insights from massive PDFs or complex spreadsheets.\n• Summarize: Turn 50-page reports into 5 key bullet points in seconds.\n• Brainstorm: Spark new ideas and draft professional emails wi",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/c2/ba/8fc2ba5e-be7f-84ca-7402-6ba4756c598e/US_AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 317734510,
+      "size": 318185883,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/aa/93/a3aa9344-0861-9aa0-5049-325b93c6c96b/AI_Translation.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/f9/ff/59f9ffb4-d50c-95ce-32b6-387f5e63a928/AIGC.png/392x696bb.png",
@@ -77365,11 +77365,11 @@
       },
       "versions": [
         {
-          "version": "26.6.1",
-          "date": "2026-06-12",
+          "version": "26.6.2",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: FilePickerFix, WPSOffice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/WPS_Office_AI_Doc,_PDF,_Sheet_v26_6_1_PRO+AI_Unlocked_blatant_Patched.ipa",
-          "size": 317734510
+          "downloadURL": "https://telos.ftp.sh/ipas/WPS_Office_AI_Doc,_PDF,_Sheet_v26_6_2_PRO+AI_Unlocked_blatant_Patched.ipa",
+          "size": 318185883
         }
       ],
       "category": "productivity"
