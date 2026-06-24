@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "app.chudo",
     "com.strongermobileapp.stronger",
     "com.ulisesolave.Fitia",
     "com.fifteenjugglers.solarwatch",
-    "com.JindoBlu.FourPlayersIOS",
-    "com.basenji.mood"
+    "com.JindoBlu.FourPlayersIOS"
   ],
   "apps": [
     {
@@ -58237,14 +58237,14 @@
       "bundleIdentifier": "app.chudo",
       "developerName": "Magic Unicorn Inc.",
       "subtitle": "Tweaked with Shapeyard, blatantsPatch",
-      "version": "5.17",
-      "versionDate": "2026-06-10",
+      "version": "5.18",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: Shapeyard, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/3D_Modeling,_Design_ Shapeyard_v5_17_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/3D_Modeling,_Design_ Shapeyard_v5_18_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Shapeyard, blatantsPatch\n\n3D Modeling, Design: Shapeyard\n\n---\nTry the subscription-based 3D modeling app Shapeyard! Whether it’s 3D modeling on iPhone or 3D modeling for iPad – Shapeyard lets you create detailed 3D models using easy and intuitive tools that simplify 3D modeling for beginners and even make it accessible for kids. Shapeyard’s 3D modeling tools are perfect for 3D modeling for games. If you’re wondering how to make a game, start modeling with Shapeyard and export 3D models into Roblox Studio, Unity, and Unreal Engine through the OBJ or STL for",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/2f/da/632fdaa9-e701-b2fc-c89d-3600e044a3f6/AppIconProd-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 45425385,
+      "size": 74691189,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/7e/f6/ce7ef670-0a3a-7318-d5b8-a8ce007ecdd7/0_APP_IPAD_PRO_129_0.jpg/552x414bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/18/73/05187368-68a9-38fd-816e-b151747d7266/1_APP_IPAD_PRO_129_1.jpg/552x414bb.jpg",
@@ -58269,11 +58269,11 @@
       },
       "versions": [
         {
-          "version": "5.17",
-          "date": "2026-06-10",
+          "version": "5.18",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: Shapeyard, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/3D_Modeling,_Design_ Shapeyard_v5_17_Subscription_Unlocked_blatant.ipa",
-          "size": 45425385
+          "downloadURL": "https://telos.ftp.sh/ipas/3D_Modeling,_Design_ Shapeyard_v5_18_Subscription_Unlocked_blatant.ipa",
+          "size": 74691189
         }
       ],
       "category": "graphics-&-design"
