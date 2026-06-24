@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "app.chudo",
     "com.strongermobileapp.stronger",
     "com.ulisesolave.Fitia",
     "com.fifteenjugglers.solarwatch",
-    "com.JindoBlu.FourPlayersIOS",
-    "com.basenji.mood"
+    "com.JindoBlu.FourPlayersIOS"
   ],
   "apps": [
     {
@@ -57793,14 +57793,14 @@
       "bundleIdentifier": "app.chudo",
       "developerName": "Magic Unicorn Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "5.17",
-      "versionDate": "2026-06-10",
+      "version": "5.18",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: Shapeyard, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/3D_Modeling,_Design_ Shapeyard_v5_17_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/3D_Modeling,_Design_ Shapeyard_v5_18_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\n3D Modeling, Design: Shapeyard",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/2f/da/632fdaa9-e701-b2fc-c89d-3600e044a3f6/AppIconProd-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 45425385,
+      "size": 74691189,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/7e/f6/ce7ef670-0a3a-7318-d5b8-a8ce007ecdd7/0_APP_IPAD_PRO_129_0.jpg/552x414bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/18/73/05187368-68a9-38fd-816e-b151747d7266/1_APP_IPAD_PRO_129_1.jpg/552x414bb.jpg",
@@ -57825,11 +57825,11 @@
       },
       "versions": [
         {
-          "version": "5.17",
-          "date": "2026-06-09",
+          "version": "5.18",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: Shapeyard, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/3D_Modeling,_Design_ Shapeyard_v5_17_Subscription_Unlocked_blatant.ipa",
-          "size": 45425385
+          "downloadURL": "https://telos.ftp.sh/ipas/3D_Modeling,_Design_ Shapeyard_v5_18_Subscription_Unlocked_blatant.ipa",
+          "size": 74691189
         }
       ],
       "category": "graphics-&-design"
@@ -79126,7 +79126,7 @@
     {
       "title": "⚙️ Telos Update 6.24",
       "identifier": "telos-update-2026-06-24",
-      "caption": "62 Apps Updated:\n• 22 Health & Fitness\n• 8 Photo & Video\n• 6 Utilities\n• 6 Productivity\n• 6 Lifestyle\n• 4 Education\n• 2 Graphics & Design\n• 2 Food & Drink\n• 2 Finance\n• 2 Entertainment\n• 2 Games",
+      "caption": "62 Apps Updated:\n• 18 Health & Fitness\n• 8 Photo & Video\n• 6 Utilities\n• 6 Graphics & Design\n• 6 Productivity\n• 6 Lifestyle\n• 4 Education\n• 2 Food & Drink\n• 2 Finance\n• 2 Entertainment\n• 2 Games",
       "date": "2026-06-24",
       "tintColor": "#02433b",
       "notify": true,
