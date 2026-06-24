@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.strongermobileapp.stronger",
+    "com.ulisesolave.Fitia",
     "com.fifteenjugglers.solarwatch",
     "com.JindoBlu.FourPlayersIOS",
-    "com.basenji.mood",
-    "com.pungme.combyne",
-    "gronda.gmbh"
+    "com.basenji.mood"
   ],
   "apps": [
     {
@@ -22564,14 +22564,14 @@
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "23.1.16",
-      "versionDate": "2026-06-23",
+      "version": "23.1.17",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_16_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_17_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFitia: Calorie Counter & Diet",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/18/c2/8e18c267-859b-7791-b7ca-d2fbc39d887e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 124219250,
+      "size": 124878117,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -22598,11 +22598,11 @@
       },
       "versions": [
         {
-          "version": "23.1.16",
-          "date": "2026-06-23",
+          "version": "23.1.17",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_16_Subscription_Unlocked_blatant.ipa",
-          "size": 124219250
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_17_Subscription_Unlocked_blatant.ipa",
+          "size": 124878117
         }
       ],
       "category": "health-&-fitness"
@@ -64570,14 +64570,14 @@
       "bundleIdentifier": "com.strongermobileapp.stronger",
       "developerName": "Atlas Smart Technologies LTD",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "5.2.8",
-      "versionDate": "2026-06-22",
+      "version": "5.2.9",
+      "versionDate": "2026-06-24",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Stronger - Gym Workout Planner-v5.2.8-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stronger - Gym Workout Planner-v5.2.9-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nStronger - Gym Workout Planner",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/3e/02/3f3e021e-c06b-2272-2bf5-f9c93b4074e2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 109149610,
+      "size": 109149581,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/d7/82/24d7820c-d43a-e4a5-ec36-7c46aaf59f81/151fad00-de3b-402e-828a-be757768ccf7_iPhone_8_Plus_-_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/82/c6/c882c6c0-4601-59b1-1a56-cab5550d7fa7/4851e132-7262-4483-b813-a097111b6e43_iPhone_8_Plus_-_2.jpg/392x696bb.jpg",
@@ -64605,11 +64605,11 @@
       },
       "versions": [
         {
-          "version": "5.2.8",
-          "date": "2026-06-22",
+          "version": "5.2.9",
+          "date": "2026-06-24",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Stronger - Gym Workout Planner-v5.2.8-riftysipas.ipa",
-          "size": 109149610
+          "downloadURL": "https://telos.ftp.sh/ipas/Stronger - Gym Workout Planner-v5.2.9-riftysipas.ipa",
+          "size": 109149581
         }
       ],
       "category": "health-&-fitness"
@@ -79126,7 +79126,7 @@
     {
       "title": "⚙️ Telos Update 6.24",
       "identifier": "telos-update-2026-06-24",
-      "caption": "62 Apps Updated:\n• 14 Health & Fitness\n• 10 Photo & Video\n• 10 Lifestyle\n• 6 Utilities\n• 6 Productivity\n• 4 Education\n• 4 Games\n• 2 Graphics & Design\n• 2 Food & Drink\n• 2 Finance\n• 2 Entertainment",
+      "caption": "62 Apps Updated:\n• 22 Health & Fitness\n• 8 Photo & Video\n• 6 Utilities\n• 6 Productivity\n• 6 Lifestyle\n• 4 Education\n• 2 Graphics & Design\n• 2 Food & Drink\n• 2 Finance\n• 2 Entertainment\n• 2 Games",
       "date": "2026-06-24",
       "tintColor": "#02433b",
       "notify": true,
