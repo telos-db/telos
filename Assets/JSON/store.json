@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.master.hotelmaster",
     "com.alohabrowser.alohabrowser",
     "com.kinemaster.kios",
     "background.remover.bg.eraser",
-    "com.dopedevelopment.Panels",
-    "com.soundcloud.TouchApp"
+    "com.dopedevelopment.Panels"
   ],
   "apps": [
     {
@@ -42861,14 +42861,14 @@
       "bundleIdentifier": "com.master.hotelmaster",
       "developerName": "SayGames LTD",
       "subtitle": "*Tweak:** Free Iap | *Patched ✓**",
-      "version": "1.34.0",
-      "versionDate": "2026-06-08",
+      "version": "1.34.1",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/My Perfect Hotel-v1.34.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/My Perfect Hotel-v1.34.1-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Free Iap | *Patched ✓**\n\nMy Perfect Hotel",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/10/d8/d710d877-294a-28f8-1e69-ee6cea21cf8a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 199047274,
+      "size": 199203709,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -42889,11 +42889,11 @@
       },
       "versions": [
         {
-          "version": "1.34.0",
-          "date": "2026-06-04",
+          "version": "1.34.1",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/My Perfect Hotel-v1.34.0-riftysipas.ipa",
-          "size": 199047274
+          "downloadURL": "https://telos.ftp.sh/ipas/My Perfect Hotel-v1.34.1-riftysipas.ipa",
+          "size": 199203709
         }
       ],
       "category": "games"
@@ -79330,7 +79330,7 @@
     {
       "title": "⚙️ Telos Update 6.25",
       "identifier": "telos-update-2026-06-25",
-      "caption": "50 Apps Updated:\n• 16 Photo & Video\n• 8 Health & Fitness\n• 6 Games\n• 6 Utilities\n• 4 Education\n• 4 Music\n• 2 Productivity\n• 2 Lifestyle\n• 2 Graphics & Design",
+      "caption": "52 Apps Updated:\n• 16 Photo & Video\n• 10 Games\n• 8 Health & Fitness\n• 4 Education\n• 4 Music\n• 4 Utilities\n• 2 Productivity\n• 2 Lifestyle\n• 2 Graphics & Design",
       "date": "2026-06-25",
       "tintColor": "#02433b",
       "notify": true,
