@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.skylum.luminaripad",
     "com.yengshine.proccd",
     "ventures.slam.minutes",
     "videoeditor.app",
-    "org.reactjs.native.example.rootd",
-    "phone.location.tracker"
+    "org.reactjs.native.example.rootd"
   ],
   "apps": [
     {
@@ -38570,14 +38570,14 @@
       "bundleIdentifier": "com.skylum.luminaripad",
       "developerName": "Skylum",
       "subtitle": "Tweaked with FilePickerFix, Luminar",
-      "version": "3.5",
-      "versionDate": "2026-06-06",
+      "version": "4.0",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: FilePickerFix, Luminar, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v3_5_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FilePickerFix, Luminar, blatantsPatch\n\nLuminar: Image Editor&Enhancer\n\n---\nLuminar — Your all-in-one, on-the-go photo editor and creative companion for iPhone, iPad and Vision Pro. Explore powerful AI-driven tools and an interactive interface that responds to your touch, delivering a uniquely engaging photo editing experience.\n\nStreamlined design with unparalleled control\n\nLuminar's user-friendly design allows you to edit your photos with intuitive gestures, featuring smoothly gliding sliders and spinning dials that respond realistically to your touch with motion and s",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/1a/6e/b01a6e0f-f061-2ca4-9d3a-44be7d2bf8b9/LuminarLogo-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 555124417,
+      "size": 535830652,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/5e/a0/065ea076-8f7b-26c0-adcc-df15d87c995f/12a21320-1dde-4f81-9957-774e26de1981_3.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/cd/6d/28cd6d0d-ddd3-c301-fb2c-2a1d596d64ac/6faabc21-360e-427f-a4c1-dcfa5e330231_4.png/392x696bb.png",
@@ -38602,11 +38602,11 @@
       },
       "versions": [
         {
-          "version": "3.5",
-          "date": "2026-06-06",
+          "version": "4.0",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: FilePickerFix, Luminar, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v3_5_Subscription_Unlocked_blatant.ipa",
-          "size": 555124417
+          "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_0_Subscription_Unlocked_blatant.ipa",
+          "size": 535830652
         }
       ],
       "category": "photo-&-video"
