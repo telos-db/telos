@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.ld.TakeBrowser",
+    "com.frenchtwins.MosaicPrediction",
+    "com.rostamimagic.realist",
     "com.bigwinepot.nwdn.international",
-    "com.wellocution.iosapp",
-    "com.master.hotelmaster",
-    "com.alohabrowser.alohabrowser",
-    "com.kinemaster.kios"
+    "com.wellocution.iosapp"
   ],
   "apps": [
     {
@@ -3212,14 +3212,14 @@
       "bundleIdentifier": "com.ld.TakeBrowser",
       "developerName": "Baoding Lehuo Network Technology Co., Ltd.",
       "subtitle": "Alook for iOS",
-      "version": "22.5",
-      "versionDate": "2026-06-24",
+      "version": "22.6",
+      "versionDate": "2026-06-25",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.5.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.6.ipa",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nAlook Browser - 8x Speed\n\n---\nAlook is a minimalist yet powerful browser, aiming to be the best for iOS.\n\nCore Features\n- Lightning-fast experience: No push notifications, no news, no ads, millisecond startup.\n- Audio and video features: Floating playback, adjustable speed (0.5x-16.0x), background playback, AirPlay casting, DLNA casting, small window playback, single track loop, picture-in-picture, screenshots, mirroring, long press for speed control, and more.\n- File management: Manual downloads, unzip/compress (zip, rar, 7",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/48/46/5d484629-5050-ec50-2586-6398095fda10/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 12302358,
+      "size": 12276170,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/66/ae/6166aecb-a256-1f0e-38ee-03d31a42b123/mzl.nwwaqpwn.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/59/28/e75928c8-ce3e-a099-c742-ddbeb91451ec/mzl.sksamjyd.png/392x696bb.png",
@@ -3240,11 +3240,11 @@
       },
       "versions": [
         {
-          "version": "22.5",
-          "date": "2026-06-24",
+          "version": "22.6",
+          "date": "2026-06-25",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.5.ipa",
-          "size": 12302358
+          "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.6.ipa",
+          "size": 12276170
         }
       ],
       "category": "utilities"
@@ -42836,6 +42836,41 @@
       "category": "entertainment"
     },
     {
+      "name": "Mozaic",
+      "bundleIdentifier": "com.frenchtwins.MosaicPrediction",
+      "developerName": "French Twins Illusion",
+      "subtitle": "Mozaic for iOS",
+      "version": "1.7.8",
+      "versionDate": "2026-06-25",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.frenchtwins.MosaicPrediction-1.7.8-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nMOZAIC is a tool designed for professional magicians to perform a custom visual effect during their performances.\n\nThe app allows you to quickly generate a photo composition from images.\n\n— One-time purchase, no subscription\n— No account required\n— Works offline after purchase",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/ab/35/a2ab3556-082a-159d-02ac-f917bef9642a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 34387433,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This app needs access to your photos to build the mosaic prediction.",
+          "NSCameraUsageDescription": "Used to take a photo and instantly turn it into a mosaic prediction.",
+          "NSMicrophoneUsageDescription": "Used to recognize a spoken celebrity name.",
+          "NSSpeechRecognitionUsageDescription": "Used to turn a spoken celebrity name into a prediction.",
+          "NSPhotoLibraryAddUsageDescription": "This app adds photos to your PREDICTION album to create the mosaic effect."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.7.8",
+          "date": "2026-06-25",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.frenchtwins.MosaicPrediction-1.7.8-eeveedecrypter.ipa",
+          "size": 34387433
+        }
+      ],
+      "category": "entertainment"
+    },
+    {
       "name": "MuffinStoreJailed",
       "bundleIdentifier": "dev.mineek.MuffinStoreJailed",
       "developerName": "Crumbl, LLC",
@@ -54747,6 +54782,39 @@
         }
       ],
       "category": "games"
+    },
+    {
+      "name": "ReaList",
+      "bundleIdentifier": "com.rostamimagic.realist",
+      "developerName": "Grigor Rostami",
+      "subtitle": "ReaList for iOS",
+      "version": "1.110",
+      "versionDate": "2026-06-25",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.rostamimagic.realist-1.1.110-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nFrom the creator of iForce and Inject comes the ULTIMATE prediction utility.\nSearch \"ReaList Rostami\" on YouTube.\n\nThe first and only magic app, where your phone is NEVER used during performance!\n\nPerform incredible predictions on a BORROWED PHONE.\n\nTWO never-before-seen methods, are your NEW weapons of magic:\n\n1. Predict anything on a borrowed phone without using your phone (the secret is hidden in plain sight).\n\nMethod 1 Features:\n\n• Super EASY … Perform in 5 minutes (includes video instructio",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c4/50/4bc450a2-2fc4-c192-39e3-64e463c6dad6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 27388419,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/60/c6/7b60c6f0-44e9-d41f-4671-b8299dc2b051/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/73/c1/7473c152-9efa-a0bc-9d9b-bc72500854ff/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/38/42/8f3842e5-744d-dc9d-2f42-e8bdfebff35d/pr_source.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.110",
+          "date": "2026-06-25",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.rostamimagic.realist-1.1.110-eeveedecrypter.ipa",
+          "size": 27388419
+        }
+      ],
+      "category": "entertainment"
     },
     {
       "name": "Receipt Lens",
