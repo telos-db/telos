@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.sfun.snapedit",
     "com.sugarmo.ScrollClip",
     "com.book.summaries.reading",
     "com.miniclip.8ballpoolmult",
-    "com.skylum.luminaripad",
-    "com.yengshine.proccd"
+    "com.skylum.luminaripad"
   ],
   "apps": [
     {
@@ -60137,14 +60137,14 @@
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "6.14.4",
-      "versionDate": "2026-06-22",
+      "version": "6.14.5",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_14_4_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_14_5_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nSnapEdit: Photo Editor AI",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/91/fe/9b91fe48-1611-705a-fb61-64dc25461aaf/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 96340259,
+      "size": 96341707,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -60163,11 +60163,11 @@
       },
       "versions": [
         {
-          "version": "6.14.4",
-          "date": "2026-06-22",
+          "version": "6.14.5",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_14_4_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 96340259
+          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_14_5_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 96341707
         }
       ],
       "category": "photo-&-video"
@@ -79330,7 +79330,7 @@
     {
       "title": "⚙️ Telos Update 6.25",
       "identifier": "telos-update-2026-06-25",
-      "caption": "12 Apps Updated:\n• 6 Photo & Video\n• 4 Education\n• 2 Games",
+      "caption": "12 Apps Updated:\n• 8 Photo & Video\n• 2 Games\n• 2 Education",
       "date": "2026-06-25",
       "tintColor": "#02433b",
       "notify": true,
