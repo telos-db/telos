@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.SixThree.POV",
-    "com.nuvio.media",
-    "com.tinyspeck.chatlyio",
-    "com.ld.TakeBrowser",
-    "com.frenchtwins.MosaicPrediction"
+    "com.footballaddicts.livescoreaddicts",
+    "com.unofficialcalculators.payplan",
+    "com.lappir.keto",
+    "com.openai.chat",
+    "com.SixThree.POV"
   ],
   "apps": [
     {
@@ -7213,14 +7213,14 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "subtitle": "*Tweak:** Full Version Unlocked | *Patched ✓**",
-      "version": "4.1.94",
-      "versionDate": "2026-06-05",
+      "version": "4.1.95",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.94-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.95-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Full Version Unlocked | *Patched ✓** | *Developer:** Bill Tracker Pro, Inc.\n\nBill Tracker Pro",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/46/b0/a746b030-b429-b6ae-bf3f-20aa368a416e/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 95107419,
+      "size": 150507269,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/df/72/1cdf72bb-1d54-7a27-d6e4-e54ef4151c21/pr_source.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/ab/2c/f4ab2cef-41bd-f2bf-2980-f7910d3d3dd8/pr_source.png/552x414bb.png",
@@ -7247,11 +7247,11 @@
       },
       "versions": [
         {
-          "version": "4.1.94",
-          "date": "2026-06-05",
+          "version": "4.1.95",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.94-riftysipas.ipa",
-          "size": 95107419
+          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.95-riftysipas.ipa",
+          "size": 150507269
         }
       ],
       "category": "finance"
@@ -11867,14 +11867,14 @@
       "bundleIdentifier": "com.openai.chat",
       "developerName": "OpenAI OpCo, LLC",
       "subtitle": "ChatGPT for iOS",
-      "version": "1.2026.125",
-      "versionDate": "2026-06-15",
+      "version": "1.2026.167",
+      "versionDate": "2026-06-25",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.openai.chat-1.2026.125-eeveedecrypter.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.openai.chat-1.2026.167-eeveedecrypter.ipa",
       "localizedDescription": "ChatGPT for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/f6/e3/e7f6e3fb-8e24-ba31-03ff-aba23d60841f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 97851235,
+      "size": 115364082,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -11885,16 +11885,17 @@
           "NSLocationWhenInUseUsageDescription": "Your location helps ChatGPT provide more relevant information, like local recommendations, news, and weather.",
           "NSHealthShareUsageDescription": "Share your Health data with ChatGPT so it can analyze and answer questions about your activity and wellness.",
           "NSHealthUpdateUsageDescription": "Allow ChatGPT to log information into your Health app to help track your activity and wellness.",
+          "NSFaceIDUsageDescription": "ChatGPT uses Face ID to unlock Codex on this device.",
           "NSPhotoLibraryAddUsageDescription": "ChatGPT lets you save images from your chats."
         }
       },
       "versions": [
         {
-          "version": "1.2026.125",
-          "date": "2026-06-15",
+          "version": "1.2026.167",
+          "date": "2026-06-25",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.openai.chat-1.2026.125-eeveedecrypter.ipa",
-          "size": 97851235
+          "downloadURL": "https://telos.ftp.sh/ipas/com.openai.chat-1.2026.167-eeveedecrypter.ipa",
+          "size": 115364082
         }
       ],
       "category": "productivity"
@@ -24705,14 +24706,14 @@
       "bundleIdentifier": "com.footballaddicts.livescoreaddicts",
       "developerName": "Forza Football AB",
       "subtitle": "*Tweak:** Legend Unlocked | *Patched ✓**",
-      "version": "7.0.3",
-      "versionDate": "2026-06-19",
+      "version": "7.0.4",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Forza Football - Live Scores-v7.0.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Forza Football - Live Scores-v7.0.4-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Legend Unlocked | *Patched ✓**\n\nForza Football - Live Scores",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/5c/6c/645c6ca4-f609-493b-c02e-1af76b7bb6fb/icon_default-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 119850909,
+      "size": 120234750,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/91/7c/a0917c02-ca02-a97c-8fee-ca17efacf80b/02.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/19/3c/8a193cc5-c784-78c1-3c57-9aafee8acb86/03.png/392x696bb.png",
@@ -24738,11 +24739,11 @@
       },
       "versions": [
         {
-          "version": "7.0.3",
-          "date": "2026-06-19",
+          "version": "7.0.4",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Forza Football - Live Scores-v7.0.3-riftysipas.ipa",
-          "size": 119850909
+          "downloadURL": "https://telos.ftp.sh/ipas/Forza Football - Live Scores-v7.0.4-riftysipas.ipa",
+          "size": 120234750
         }
       ],
       "category": "sports"
@@ -33774,14 +33775,14 @@
       "bundleIdentifier": "com.lappir.keto",
       "developerName": "Zinaida Davydova",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "8.5",
-      "versionDate": "2026-06-05",
+      "version": "9.0",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: KetoDiet, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Keto_diet_app－Low_carb_manager_v8_5_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Keto_diet_app－Low_carb_manager_v9_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nKeto diet app－Low carb manager",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/7d/9e/017d9eca-f4fe-d3ae-d6f0-26cbabc23069/KetoIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 47178160,
+      "size": 52508704,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -33804,11 +33805,11 @@
       },
       "versions": [
         {
-          "version": "8.5",
-          "date": "2026-06-01",
+          "version": "9.0",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: KetoDiet, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Keto_diet_app－Low_carb_manager_v8_5_Subscription_Unlocked_blatant.ipa",
-          "size": 47178160
+          "downloadURL": "https://telos.ftp.sh/ipas/Keto_diet_app－Low_carb_manager_v9_0_Subscription_Unlocked_blatant.ipa",
+          "size": 52508704
         }
       ],
       "category": "health-&-fitness"
@@ -79442,7 +79443,7 @@
     {
       "title": "⚙️ Telos Update 6.25",
       "identifier": "telos-update-2026-06-25",
-      "caption": "68 Apps Updated:\n• 20 Photo & Video\n• 12 Health & Fitness\n• 8 Games\n• 6 Education\n• 6 Utilities\n• 4 Music\n• 4 Entertainment\n• 2 Productivity\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Business",
+      "caption": "84 Apps Updated:\n• 20 Photo & Video\n• 16 Health & Fitness\n• 8 Games\n• 6 Education\n• 6 Productivity\n• 6 Utilities\n• 4 Music\n• 4 Entertainment\n• 4 Sports\n• 4 Finance\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Business",
       "date": "2026-06-25",
       "tintColor": "#02433b",
       "notify": true,
