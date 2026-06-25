@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "zachsim.one.Petty",
+    "com.leapingcoyote.rungo",
     "alexgerrese.summarize",
     "com.reddit.Reddit",
-    "com.neo.NeoMan",
-    "com.ulisesolave.Fitia",
-    "health.sleep.sounds.tracker.alarm.calm"
+    "com.neo.NeoMan"
   ],
   "apps": [
     {
@@ -48762,14 +48762,14 @@
       "bundleIdentifier": "zachsim.one.Petty",
       "developerName": "Harbour City Software Pty Ltd",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "8.1.2",
-      "versionDate": "2026-06-12",
+      "version": "8.1.3",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Petty: Petrol Prices Australia-v8.1.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Petty: Petrol Prices Australia-v8.1.3-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nPetty: Petrol Prices Australia",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/2b/36/7d2b365c-ad18-0e25-a015-70ffb2f467aa/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 15545347,
+      "size": 15545897,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -48786,11 +48786,11 @@
       },
       "versions": [
         {
-          "version": "8.1.2",
-          "date": "2026-05-26",
+          "version": "8.1.3",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Petty: Petrol Prices Australia-v8.1.2-riftysipas.ipa",
-          "size": 15545347
+          "downloadURL": "https://telos.ftp.sh/ipas/Petty: Petrol Prices Australia-v8.1.3-riftysipas.ipa",
+          "size": 15545897
         }
       ],
       "category": "navigation"
@@ -56475,14 +56475,14 @@
       "bundleIdentifier": "com.leapingcoyote.rungo",
       "developerName": "Leaping Coyote Interactive",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "7.2.7",
-      "versionDate": "2026-06-10",
+      "version": "7.2.8",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: RunGo, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/RunGo_The_Best_Routes_to_Run_v7_2_7_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/RunGo_The_Best_Routes_to_Run_v7_2_8_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nRunGo - The Best Routes to Run",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/e4/11/0ce411ee-8f57-070c-7066-30cbb4fa8069/glassAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 36088753,
+      "size": 38338437,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/a7/5e/8ca75e79-8f2d-723c-cfe0-3761e6fae484/63d22f16-5ed7-4197-aa0b-8da83edce00b_Artboard_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/95/d1/f095d159-55d6-cbbd-bec5-32dabb232621/e442cc90-4e02-40b1-99c3-8c7f5e99a930_Artboard_2.png/392x696bb.png",
@@ -56520,11 +56520,11 @@
       },
       "versions": [
         {
-          "version": "7.2.7",
-          "date": "2026-06-10",
+          "version": "7.2.8",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: RunGo, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/RunGo_The_Best_Routes_to_Run_v7_2_7_Subscription_Unlocked_blatant.ipa",
-          "size": 36088753
+          "downloadURL": "https://telos.ftp.sh/ipas/RunGo_The_Best_Routes_to_Run_v7_2_8_Subscription_Unlocked_blatant.ipa",
+          "size": 38338437
         }
       ],
       "category": "health-&-fitness"
@@ -79525,7 +79525,7 @@
     {
       "title": "⚙️ Telos Update 6.25",
       "identifier": "telos-update-2026-06-25",
-      "caption": "90 Apps Updated:\n• 20 Photo & Video\n• 18 Health & Fitness\n• 8 Games\n• 8 Productivity\n• 6 Education\n• 6 Utilities\n• 4 Music\n• 4 Entertainment\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Business\n• 2 Sports\n• 2 Finance\n• 2 Books\n• 2 Developer Tools\n• 2 News",
+      "caption": "98 Apps Updated:\n• 22 Health & Fitness\n• 20 Photo & Video\n• 8 Games\n• 8 Productivity\n• 6 Education\n• 6 Utilities\n• 4 Music\n• 4 Entertainment\n• 4 Navigation\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Business\n• 2 Sports\n• 2 Finance\n• 2 Books\n• 2 Developer Tools\n• 2 News",
       "date": "2026-06-25",
       "tintColor": "#02433b",
       "notify": true,
