@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.alohabrowser.alohabrowser",
     "com.kinemaster.kios",
     "background.remover.bg.eraser",
     "com.dopedevelopment.Panels",
-    "com.soundcloud.TouchApp",
-    "com.agent.super.extension.safari"
+    "com.soundcloud.TouchApp"
   ],
   "apps": [
     {
@@ -3162,15 +3162,15 @@
       "name": "Aloha",
       "bundleIdentifier": "com.alohabrowser.alohabrowser",
       "developerName": "Aloha Mobile",
-      "subtitle": "Aloha for iOS",
-      "version": "8.3.0",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.alohabrowser.alohabrowser-8.3.0-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nYour privacy should be the default, not a feature. Aloha Browser gives you everything you need to browse privately, block ads and trackers, and download files — in one app, with nothing extra to install.\nHundreds of millions of users trust Aloha because it does what other browsers won't: it puts your privacy first by default, not as an afterthought.\n\nBLOCK ADS AUTOMATICALLY\nAds slow you down and track you across the web. Aloha removes them before they load — every page is faster, cleaner, and di",
+      "subtitle": "Tweaked with AlohaBrowser, CachefixPatch",
+      "version": "8.7.0",
+      "versionDate": "2026-06-25",
+      "versionDescription": "Tweaks: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Aloha_Browser_–_Private_VPN_v8_7_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nAloha Browser – Private VPN\n\n---\nYour privacy should be the default, not a feature. Aloha Browser gives you everything you need to browse privately, block ads and trackers, and download files — in one app, with nothing extra to install.\nHundreds of millions of users trust Aloha because it does what other browsers won't: it puts your privacy first by default, not as an afterthought.\n\nBLOCK ADS AUTOMATICALLY\nAds slow you down and track you across the web. Aloha removes them before they load — every page is faster, cleaner, and di",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/8b/e8/a78be816-6997-584c-74f2-c2066945be62/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 139844563,
+      "size": 124308564,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/6c/04/336c0416-7441-8364-82b9-21f329a06a8d/03dc8695-4402-41e5-8257-0fa4feefcb9e_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/c6/c8/a5c6c8d9-cf16-199d-59bb-cf3b363ead33/52ccf9c1-82c7-4b72-ae37-6a99d47a2167_2.png/392x696bb.png",
@@ -3198,11 +3198,11 @@
       },
       "versions": [
         {
-          "version": "8.3.0",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.alohabrowser.alohabrowser-8.3.0-eeveedecrypter.ipa",
-          "size": 139844563
+          "version": "8.7.0",
+          "date": "2026-06-25",
+          "localizedDescription": "Tweaks: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Aloha_Browser_–_Private_VPN_v8_7_0_Subscription_Unlocked_blatant.ipa",
+          "size": 124308564
         }
       ],
       "category": "utilities"
