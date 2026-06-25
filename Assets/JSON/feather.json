@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.sugarmo.ScrollClip",
+    "com.book.summaries.reading",
     "com.miniclip.8ballpoolmult",
     "com.skylum.luminaripad",
-    "com.yengshine.proccd",
-    "ventures.slam.minutes",
-    "videoeditor.app"
+    "com.yengshine.proccd"
   ],
   "apps": [
     {
@@ -27739,21 +27739,23 @@
       "bundleIdentifier": "com.book.summaries.reading",
       "developerName": "Enerjoy Pte. Ltd.",
       "subtitle": "Tweaked with GrowMe, blatantsPatch",
-      "version": "1.2.9",
-      "versionDate": "2026-06-10",
+      "version": "1.3.0",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: GrowMe, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/GrowMe_Micro_Learning_Daily_v1_2_9_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/GrowMe_Micro_Learning_Daily_v1_3_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: GrowMe, blatantsPatch\n\nGrowMe: Micro Learning Daily\n\n---\nGrowMe is a versatile app designed for those who are passionate about learning and self-growth through reading. Whether you're short on time, looking to build better reading habits, or seeking personalized book guidance, GrowMe helps transform every book into a valuable source of growth and inspiration.\n\nWhat GrowMe offers:\n- Quick book summaries to help you grasp key insights in just minutes.\n- Audio learning so you can listen to curated book ideas anywhere, anytime.\n- A smart highlight saver t",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/93/d6/b393d615-5692-8c08-523a-dc5e55148c27/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 72949409,
+      "size": 79685448,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
           "com.apple.security.application-groups",
-          "com.apple.developer.associated-domains"
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.applesignin"
         ],
         "privacy": {
+          "NSPhotoLibraryUsageDescription": "GrowMe needs photo library access so you can choose a profile photo.",
           "NSCameraUsageDescription": "Please allow GrowMe access to your camera in order to take a picture as an attachment.",
           "NSMicrophoneUsageDescription": "Grant microphone access to record video feedback, please.",
           "NSUserTrackingUsageDescription": "Your data will be used to enhance user experience and personalize marketing campaigns."
@@ -27761,11 +27763,11 @@
       },
       "versions": [
         {
-          "version": "1.2.9",
-          "date": "2026-06-10",
+          "version": "1.3.0",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: GrowMe, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/GrowMe_Micro_Learning_Daily_v1_2_9_Subscription_Unlocked_blatant.ipa",
-          "size": 72949409
+          "downloadURL": "https://telos.ftp.sh/ipas/GrowMe_Micro_Learning_Daily_v1_3_0_Subscription_Unlocked_blatant.ipa",
+          "size": 79685448
         }
       ],
       "category": "education"
@@ -50359,14 +50361,14 @@
       "bundleIdentifier": "com.sugarmo.ScrollClip",
       "developerName": "Yojio, Ltd.",
       "subtitle": "Tweaked with Picsew, blatantsPatch",
-      "version": "3.16.1",
-      "versionDate": "2026-06-08",
+      "version": "3.17",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: Picsew, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Picsew_Screenshot_Stitching_v3_16_1_Picsew_Pro_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Picsew_Screenshot_Stitching_v3_17_Picsew_Pro_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Picsew, blatantsPatch\n\nPicsew - Screenshot Stitching\n\n---\nCreate long screenshots, capture full web pages, and stitch screenshots or photos with Picsew.\n\nPicsew is an award-winning screenshot stitching app featured by the App Store. From chat threads and articles to receipts and webpages, Picsew helps you make clean long screenshots, add markup, and export to PDF or images in seconds.\n\nKey Features\n\n• Scrollshot Recording: Automatically generate scrollshot by recording the screen, no need to take screenshots one by one.\n• Smart Stitching: Advanced auto",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/85/d3/6585d301-0600-4080-5f5b-4aefe7c9a5ae/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 37928728,
+      "size": 39180245,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/88/01/4788012f-1f5f-bb9e-eeda-1df8131fa000/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/1e/9a/5d1e9a23-9cd3-b8af-192d-fa7c016ddda8/pr_source.png/392x696bb.png",
@@ -50389,11 +50391,11 @@
       },
       "versions": [
         {
-          "version": "3.16.1",
-          "date": "2026-06-08",
+          "version": "3.17",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: Picsew, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Picsew_Screenshot_Stitching_v3_16_1_Picsew_Pro_blatant_Patched.ipa",
-          "size": 37928728
+          "downloadURL": "https://telos.ftp.sh/ipas/Picsew_Screenshot_Stitching_v3_17_Picsew_Pro_blatant_Patched.ipa",
+          "size": 39180245
         }
       ],
       "category": "photo-&-video"
