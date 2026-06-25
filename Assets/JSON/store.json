@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.hevyapp.hevy",
-    "com.sfun.snapedit",
-    "com.sugarmo.ScrollClip",
-    "com.book.summaries.reading",
-    "com.miniclip.8ballpoolmult"
+    "com.gymstreak.GymStreakAI",
+    "com.blockpuzzle.us.ios",
+    "com.algoriddim.djay-iphone-free",
+    "com.fingersoft.hillclimbracing",
+    "ventures.slam.minutes"
   ],
   "apps": [
     {
@@ -7795,14 +7795,14 @@
       "bundleIdentifier": "com.blockpuzzle.us.ios",
       "developerName": "Hungry Studio",
       "subtitle": "*Tweak:** No Ads | *Patched ✓**",
-      "version": "7.2.1",
-      "versionDate": "2026-06-22",
+      "version": "7.2.2",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** No Ads | *Patched ✓**\n\nBlock Blast!",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/f0/1c/d7f01cec-d388-cece-0faa-685c3ce3f2d2/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 90604605,
+      "size": 90611307,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/76/ee/2a76ee57-90a6-9c88-7393-b77afd3b6508/4ac25f40-0f18-43c2-8be8-b3d2018fe240_2048X2732_1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/b3/98/acb39832-888e-a1cf-7f06-511f1b1dd114/94905e6c-232a-4e06-a5c0-8f2cd6c397c3_2048X2732_2.png/576x768bb.png",
@@ -7829,11 +7829,11 @@
       },
       "versions": [
         {
-          "version": "7.2.1",
-          "date": "2026-06-22",
+          "version": "7.2.2",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.1-riftysipas.ipa",
-          "size": 90604605
+          "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.2-riftysipas.ipa",
+          "size": 90611307
         }
       ],
       "category": "games"
@@ -15640,14 +15640,14 @@
       "bundleIdentifier": "com.hubx.imagination",
       "developerName": "HUBX",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.5.0",
-      "versionDate": "2026-06-06",
+      "version": "5.0.1",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: DaVinci, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/DaVinci_Image_Generator_AI_v4_5_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/DaVinci_Image_Generator_AI_v5_0_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nDaVinci - Image Generator AI",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/42/9d/0a429d88-a326-30a6-afd3-102b57b2c830/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 106019296,
+      "size": 113062618,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -15664,11 +15664,11 @@
       },
       "versions": [
         {
-          "version": "4.5.0",
-          "date": "2026-04-16",
+          "version": "5.0.1",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: DaVinci, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/DaVinci_Image_Generator_AI_v4_5_0_Subscription_Unlocked_blatant.ipa",
-          "size": 106019296
+          "downloadURL": "https://telos.ftp.sh/ipas/DaVinci_Image_Generator_AI_v5_0_1_Subscription_Unlocked_blatant.ipa",
+          "size": 113062618
         }
       ],
       "category": "photo-&-video"
@@ -17126,14 +17126,14 @@
       "bundleIdentifier": "com.algoriddim.djay-iphone-free",
       "developerName": "Algoriddim GmbH",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "5.6.5",
-      "versionDate": "2026-06-12",
+      "version": "5.6.6",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/djay - DJ App & AI Mixer-v5.6.5-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/djay - DJ App & AI Mixer-v5.6.6-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓** | *Bundle Id:** Com.Algoriddim.Djay-Iphone-Free\n\ndjay - DJ App & AI Mixer",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/f4/9f/02f49fa6-7142-252b-3fe1-17649ca37559/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 187550315,
+      "size": 193828770,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -17154,11 +17154,11 @@
       },
       "versions": [
         {
-          "version": "5.6.5",
-          "date": "2026-05-25",
+          "version": "5.6.6",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/djay - DJ App & AI Mixer-v5.6.5-riftysipas.ipa",
-          "size": 187550315
+          "downloadURL": "https://telos.ftp.sh/ipas/djay - DJ App & AI Mixer-v5.6.6-riftysipas.ipa",
+          "size": 193828770
         }
       ],
       "category": "music"
@@ -27781,14 +27781,14 @@
       "bundleIdentifier": "com.gymstreak.GymStreakAI",
       "developerName": "GymStreak Ltd",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "6.3.10",
-      "versionDate": "2026-06-12",
+      "version": "6.3.11",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/GymStreak: AI Personal Trainer-v6.3.10-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/GymStreak: AI Personal Trainer-v6.3.11-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nGymStreak: AI Personal Trainer",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/51/f5/e551f52c-89a5-4a73-9fbe-576779b32d60/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 109339098,
+      "size": 109586081,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/bc/b9/89bcb948-b030-1303-7ac5-5963c1f8aadb/24b413ac-3a13-4402-94e3-e7d9fa0fde89_0_guided_workout_leg_press.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/7b/68/927b6827-64ae-98fc-4d5d-807fd675107a/c41ba4f1-d43c-4d86-9fb7-7c477859f1b0_1_workout.png/392x696bb.png",
@@ -27817,11 +27817,11 @@
       },
       "versions": [
         {
-          "version": "6.3.10",
-          "date": "2026-05-21",
+          "version": "6.3.11",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/GymStreak: AI Personal Trainer-v6.3.10-riftysipas.ipa",
-          "size": 109339098
+          "downloadURL": "https://telos.ftp.sh/ipas/GymStreak: AI Personal Trainer-v6.3.11-riftysipas.ipa",
+          "size": 109586081
         }
       ],
       "category": "health-&-fitness"
@@ -29358,14 +29358,14 @@
       "bundleIdentifier": "com.fingersoft.hillclimbracing",
       "developerName": "Fingersoft",
       "subtitle": "*Tweak:** Free Iap | *Patched ✓**",
-      "version": "1.69.2",
-      "versionDate": "2026-06-08",
+      "version": "1.70.0",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Hill Climb Racing-v1.69.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Hill Climb Racing-v1.70.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Free Iap | *Patched ✓**\n\nHill Climb Racing",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/d0/5d/62d05d2f-d100-3272-b8d7-b723e9e417e2/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 126163986,
+      "size": 127679941,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/3e/fa/a23efade-331c-9fa9-3d92-e8c0ca040f6d/e04755ec-4f02-4a16-baf6-4d6520d8f972_HillClimbRacingPlus_Screenshot_2208x1242_01.jpg/406x228bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/8a/d6/108ad6c5-e005-dd33-0d3f-73f89db3aeb1/46159458-1d88-446f-81b8-8735e23ef92a_HillClimbRacingPlus_Screenshot_2208x1242_02.jpg/406x228bb.jpg",
@@ -29390,11 +29390,11 @@
       },
       "versions": [
         {
-          "version": "1.69.2",
-          "date": "2026-06-05",
+          "version": "1.70.0",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Hill Climb Racing-v1.69.2-riftysipas.ipa",
-          "size": 126163986
+          "downloadURL": "https://telos.ftp.sh/ipas/Hill Climb Racing-v1.70.0-riftysipas.ipa",
+          "size": 127679941
         }
       ],
       "category": "games"
@@ -30235,14 +30235,14 @@
       "bundleIdentifier": "com.thehungrywasp.iamsober",
       "developerName": "I Am Sober LLC",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "8.6.7",
-      "versionDate": "2026-06-19",
+      "version": "8.6.8",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/I Am Sober-v8.6.7-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/I Am Sober-v8.6.8-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nI Am Sober",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/db/06/f6db0686-b0e8-6b9b-fb3b-c00774e17f3c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 38948882,
+      "size": 39075032,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/75/69/147569b9-61b7-dbd0-c9bd-e0703e39f14a/64baf7b4-5fb2-4df1-8a2f-bd5b3b281f54_0_APP_IPHONE_55_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/03/84/d503847c-744b-8a0c-c520-e71886d8393e/45e1f965-0cd7-496d-b852-7fb3cfbada8c_1_APP_IPHONE_55_1.png/392x696bb.png",
@@ -30267,11 +30267,11 @@
       },
       "versions": [
         {
-          "version": "8.6.7",
-          "date": "2026-06-19",
+          "version": "8.6.8",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/I Am Sober-v8.6.7-riftysipas.ipa",
-          "size": 38948882
+          "downloadURL": "https://telos.ftp.sh/ipas/I Am Sober-v8.6.8-riftysipas.ipa",
+          "size": 39075032
         }
       ],
       "category": "lifestyle"
@@ -40679,15 +40679,15 @@
       "name": "Minutes",
       "bundleIdentifier": "ventures.slam.minutes",
       "developerName": "Minutes AI",
-      "subtitle": "Pro Unlocked | Patched",
+      "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
       "version": "1.12.3",
-      "versionDate": "2026-06-24",
-      "versionDescription": "Tweaks: AutoRcSideload, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Minutes_AI_Meeting_Note_Taker_v1_12_3_Pro_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nMinutes: AI Meeting Note Taker",
+      "versionDate": "2026-06-25",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/Minutes: AI Meeting Note Taker-v1.12.3-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nMinutes: AI Meeting Note Taker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/5e/02/065e0268-b3f6-749b-f99e-db1d6dfa3d14/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 21986829,
+      "size": 18624819,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/20/25/852025a0-a8de-ddaa-4dd4-ffcab15e52ad/89602ad0-0336-447a-a947-cf44ff839a94_iPhone_5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/91/f0/4e91f072-f064-64e4-030a-eebd60c17430/0ca0891e-e9cc-42e2-bbcc-691796e369b7_iPhone_5.5-3.jpg/392x696bb.jpg",
@@ -40710,10 +40710,10 @@
       "versions": [
         {
           "version": "1.12.3",
-          "date": "2026-06-24",
-          "localizedDescription": "Tweaks: AutoRcSideload, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Minutes_AI_Meeting_Note_Taker_v1_12_3_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 21986829
+          "date": "2026-06-25",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/Minutes: AI Meeting Note Taker-v1.12.3-riftysipas.ipa",
+          "size": 18624819
         }
       ],
       "category": "productivity"
@@ -43213,14 +43213,14 @@
       "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
       "developerName": "MySwimPro, Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "9.0.6",
-      "versionDate": "2026-06-15",
+      "version": "9.0.7",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.0.6-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.0.7-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓** | *Bundle Id:** Com.Myswimpro.Apps.Myswimpro | *Developer:** Myswimpro, Inc.\n\nMySwimPro: #1 Swim Workout App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/81/49/3581499d-1c46-3f4e-bbc7-318a3bbe65ba/AppIcon-prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 47339416,
+      "size": 47466663,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -43250,11 +43250,11 @@
       },
       "versions": [
         {
-          "version": "9.0.6",
-          "date": "2026-06-15",
+          "version": "9.0.7",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.0.6-riftysipas.ipa",
-          "size": 47339416
+          "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.0.7-riftysipas.ipa",
+          "size": 47466663
         }
       ],
       "category": "health-&-fitness"
@@ -52581,14 +52581,14 @@
       "bundleIdentifier": "com.maxty.gofitness",
       "developerName": "VGFIT LLC",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "7.22.1",
-      "versionDate": "2026-06-02",
+      "version": "8.2.5",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: ProFit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/ProFit_Workout_Planner_v7_22_1_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ProFit_Workout_Planner_v8_2_5_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nProFit: Workout Planner",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/61/13/73611313-8661-f853-7a4b-ffabba4039f0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 49614774,
+      "size": 51098277,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/21/6f/08216f1f-d2fc-b69a-3904-31cae301571c/Screen_1.png/322x572bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/ad/a7/15ada720-f653-2fd6-2c7f-2dd01c1681a2/Screen_2.png/322x572bb.png",
@@ -52612,11 +52612,11 @@
       },
       "versions": [
         {
-          "version": "7.22.1",
-          "date": "2026-05-16",
+          "version": "8.2.5",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: ProFit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/ProFit_Workout_Planner_v7_22_1_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 49614774
+          "downloadURL": "https://telos.ftp.sh/ipas/ProFit_Workout_Planner_v8_2_5_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 51098277
         }
       ],
       "category": "health-&-fitness"
@@ -58891,14 +58891,14 @@
       "bundleIdentifier": "com.joytunes.SimplyGuitar",
       "developerName": "Simply Ltd",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "10.22",
-      "versionDate": "2026-06-15",
+      "version": "10.23",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Guitar_Learn_Guitar_v10_22_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Guitar_Learn_Guitar_v10_23_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSimply Guitar - Learn Guitar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/3b/89/d13b890a-c2fb-7d29-15e0-fed281dc2f51/AppIconIOS26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 181215938,
+      "size": 186258937,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/1b/7f/131b7fcf-4a0d-f44c-7744-45dfa6084c44/7ba69f8c-9fb4-48e8-b6dd-3214d6bd0b32_01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/6d/11/dc6d11fd-86cb-e1a9-5639-c73d3bfa592a/b9bebd9f-db2c-4ee8-aefc-a1db98808c02_2.jpg/392x696bb.jpg",
@@ -58926,11 +58926,11 @@
       },
       "versions": [
         {
-          "version": "10.22",
-          "date": "2026-06-15",
+          "version": "10.23",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Guitar_Learn_Guitar_v10_22_Subscription_Unlocked_blatant.ipa",
-          "size": 181215938
+          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Guitar_Learn_Guitar_v10_23_Subscription_Unlocked_blatant.ipa",
+          "size": 186258937
         }
       ],
       "category": "education"
@@ -79330,7 +79330,7 @@
     {
       "title": "⚙️ Telos Update 6.25",
       "identifier": "telos-update-2026-06-25",
-      "caption": "14 Apps Updated:\n• 6 Photo & Video\n• 4 Health & Fitness\n• 2 Games\n• 2 Education",
+      "caption": "52 Apps Updated:\n• 14 Health & Fitness\n• 10 Games\n• 10 Photo & Video\n• 6 Education\n• 4 Music\n• 4 Productivity\n• 4 Lifestyle",
       "date": "2026-06-25",
       "tintColor": "#02433b",
       "notify": true,
