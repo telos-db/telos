@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.kinemaster.kios",
     "background.remover.bg.eraser",
     "com.dopedevelopment.Panels",
     "com.soundcloud.TouchApp",
-    "com.agent.super.extension.safari",
-    "com.path36.SpliceFree"
+    "com.agent.super.extension.safari"
   ],
   "apps": [
     {
@@ -33870,14 +33870,14 @@
       "bundleIdentifier": "com.kinemaster.kios",
       "developerName": "KineMaster Corporation",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "8.1.13",
-      "versionDate": "2026-06-16",
+      "version": "8.1.14",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: KineMaster, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_13_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_14_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nKineMaster - Video Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/27/1c/d5271c57-bf47-4c69-66c2-57ea3a49b1ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 116764451,
+      "size": 116762603,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/14/bc/a114bcc9-d975-363e-08ec-6284db7fbdc0/01.The_Best_Video_Editor.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/04/84/2d0484cc-4f81-9815-18ee-57fa40f0bf9a/02.High_Quality_Templates.jpg/392x696bb.jpg",
@@ -33902,11 +33902,11 @@
       },
       "versions": [
         {
-          "version": "8.1.13",
-          "date": "2026-06-16",
+          "version": "8.1.14",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: KineMaster, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_13_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 116764451
+          "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_14_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 116762603
         }
       ],
       "category": "photo-&-video"
@@ -79330,7 +79330,7 @@
     {
       "title": "⚙️ Telos Update 6.25",
       "identifier": "telos-update-2026-06-25",
-      "caption": "56 Apps Updated:\n• 20 Photo & Video\n• 8 Health & Fitness\n• 6 Games\n• 6 Music\n• 4 Education\n• 4 Graphics & Design\n• 4 Utilities\n• 2 Productivity\n• 2 Lifestyle",
+      "caption": "48 Apps Updated:\n• 18 Photo & Video\n• 8 Health & Fitness\n• 6 Games\n• 4 Education\n• 4 Music\n• 2 Productivity\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Utilities",
       "date": "2026-06-25",
       "tintColor": "#02433b",
       "notify": true,
