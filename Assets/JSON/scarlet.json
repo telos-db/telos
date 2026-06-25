@@ -2082,12 +2082,12 @@
       "bundleIdentifier": "com.ld.TakeBrowser",
       "developerName": "Baoding Lehuo Network Technology Co., Ltd.",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nAlook Browser - 8x Speed\n\n---\nAlook is a minimalist yet powerful browser, aiming to be the best for iOS.\n\nCore Features\n- Lightning-fast experience: No push notifications, no news, no ads, millisecond startup.\n- Audio and video features: Floating playback, adjustable speed (0.5x-16.0x), background playback, AirPlay casting, DLNA casting, small window playback, single track loop, picture-in-picture, screenshots, mirroring, long press for speed control, and more.\n- File management: Manual downloads, unzip/compress (zip, rar, 7",
-      "version": "22.5",
-      "versionDate": "2026-06-24T00:26:10-00:00",
+      "version": "22.6",
+      "versionDate": "2026-06-25T15:22:20-00:00",
       "versionDescription": "Build 1 from @thescholarslounge",
-      "size": 12302358,
+      "size": 12276170,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/48/46/5d484629-5050-ec50-2586-6398095fda10/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.5.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.6.ipa",
       "minOSVersion": "10.0",
       "supportedPlatforms": [
         "iOS"
@@ -2100,7 +2100,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Alook-22.5.ipa"
+        "originalFile": "Alook-22.6.ipa"
       }
     },
     {
@@ -26764,6 +26764,32 @@
       }
     },
     {
+      "name": "Mozaic",
+      "bundleIdentifier": "com.frenchtwins.MosaicPrediction",
+      "developerName": "French Twins Illusion",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nMOZAIC is a tool designed for professional magicians to perform a custom visual effect during their performances.\n\nThe app allows you to quickly generate a photo composition from images.\n\n— One-time purchase, no subscription\n— No account required\n— Works offline after purchase",
+      "version": "1.7.8",
+      "versionDate": "2026-06-25T15:22:04-00:00",
+      "versionDescription": "Build 154 from @thescholarslounge",
+      "size": 34387433,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/ab/35/a2ab3556-082a-159d-02ac-f917bef9642a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.frenchtwins.MosaicPrediction-1.7.8-eeveedecrypter.ipa",
+      "minOSVersion": "17.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.frenchtwins.MosaicPrediction-1.7.8-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "MuffinStoreJailed",
       "bundleIdentifier": "dev.mineek.MuffinStoreJailed",
       "developerName": "Crumbl, LLC",
@@ -34306,6 +34332,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "com.eivaagames.RealChess3DFree-1.35-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "ReaList",
+      "bundleIdentifier": "com.rostamimagic.realist",
+      "developerName": "Grigor Rostami",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nFrom the creator of iForce and Inject comes the ULTIMATE prediction utility.\nSearch \"ReaList Rostami\" on YouTube.\n\nThe first and only magic app, where your phone is NEVER used during performance!\n\nPerform incredible predictions on a BORROWED PHONE.\n\nTWO never-before-seen methods, are your NEW weapons of magic:\n\n1. Predict anything on a borrowed phone without using your phone (the secret is hidden in plain sight).\n\nMethod 1 Features:\n\n• Super EASY … Perform in 5 minutes (includes video instructio",
+      "version": "1.110",
+      "versionDate": "2026-06-25T15:21:32-00:00",
+      "versionDescription": "Build 1 from @thescholarslounge",
+      "size": 27388419,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/c4/50/4bc450a2-2fc4-c192-39e3-64e463c6dad6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.rostamimagic.realist-1.1.110-eeveedecrypter.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.rostamimagic.realist-1.1.110-eeveedecrypter.ipa"
       }
     },
     {
