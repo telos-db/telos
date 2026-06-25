@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.miniclip.8ballpoolmult",
     "com.skylum.luminaripad",
     "com.yengshine.proccd",
     "ventures.slam.minutes",
-    "videoeditor.app",
-    "org.reactjs.native.example.rootd"
+    "videoeditor.app"
   ],
   "apps": [
     {
@@ -763,14 +763,14 @@
       "bundleIdentifier": "com.miniclip.8ballpoolmult",
       "developerName": "Miniclip.com",
       "subtitle": "8 Ball Pool for iOS",
-      "version": "56.25.1",
-      "versionDate": "2026-06-16",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.miniclip.8ballpoolmult-56.25.1-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nDo you want to play in the world of pool games? 8 Ball Pool is an addictive challenging game based on real 3D pool games, where you will challenge your friends online. Become a master of the pool!\n\nThe game 8 Ball Pool is easy to win. You just have to select the pool table and get ready. Join us and challenge your friends to this ball game in PvP mode. Use your pool strategy with the cue wisely in this online multiplayer ball game as every round will be more difficult after each level. You can p",
+      "version": "56.26.0",
+      "versionDate": "2026-06-25",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/‎8 Ball Pool™_v56.26.0-AppAssassin.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\ncom.miniclip.8ballpoolmult\n\n---\nDo you want to play in the world of pool games? 8 Ball Pool is an addictive challenging game based on real 3D pool games, where you will challenge your friends online. Become a master of the pool!\n\nThe game 8 Ball Pool is easy to win. You just have to select the pool table and get ready. Join us and challenge your friends to this ball game in PvP mode. Use your pool strategy with the cue wisely in this online multiplayer ball game as every round will be more difficult after each level. You can p",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/30/76/e03076fc-10c6-fc3c-ad50-b0f65f019a4d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 110273392,
+      "size": 106747597,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/46/cf/83/46cf8340-3229-5908-774d-26227f80d0e5/a1de1655-a15b-4fb8-927e-8543d9c52cec_8BP-SCR-Screenshots_iPhone6_U002b_001.jpg/406x228bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0b/8b/f9/0b8bf9cf-bbee-20ac-9160-b0e434ae49c2/5ba78eae-a0c6-4505-b52d-5af69e534617_8BP-SCR-Screenshots_iPhone6_U002b_002.jpg/406x228bb.jpg",
@@ -785,11 +785,11 @@
       },
       "versions": [
         {
-          "version": "56.25.1",
-          "date": "2026-06-16",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.miniclip.8ballpoolmult-56.25.1-eeveedecrypter.ipa",
-          "size": 110273392
+          "version": "56.26.0",
+          "date": "2026-06-25",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/‎8 Ball Pool™_v56.26.0-AppAssassin.ipa",
+          "size": 106747597
         }
       ],
       "category": "games"
