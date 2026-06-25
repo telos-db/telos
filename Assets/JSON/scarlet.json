@@ -5331,12 +5331,12 @@
       "bundleIdentifier": "alexgerrese.summarize",
       "developerName": "Alexander Gerrese",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nBookshelf: Book Tracker & List\n\n---\nBookshelf helps you track your books, build a lasting reading habit, and better remember what you read—now with powerful AI-powered discovery tools to help you find your next great read!\n\nAdd books you’ve read, books you’re reading, and books you want to read. Improve your reading habits with insightful stats and trend reports. Stay motivated with reading goals, streaks, and reminders. Remember what you read by writing and reviewing notes and quotes.\n\nBUILD YOUR LIBRARY\n• Import & Sync – Import",
-      "version": "2.18.15",
-      "versionDate": "2026-06-21T16:36:57-00:00",
+      "version": "2.18.16",
+      "versionDate": "2026-06-25T21:41:22-00:00",
       "versionDescription": "Build 3 from @riftysIPAlibrary",
-      "size": 216254099,
+      "size": 216265466,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/7b/7a/877b7ab7-f559-1e4d-f6ef-5c3722b095f8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.15-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.16-riftysipas.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -5349,7 +5349,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Bookshelf: Book Tracker & List-v2.18.15-riftysipas.ipa"
+        "originalFile": "Bookshelf: Book Tracker & List-v2.18.16-riftysipas.ipa"
       }
     },
     {
@@ -34489,13 +34489,13 @@
       "name": "Reddit",
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "REDDIT, INC.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nRedditDeluxe 2026.25.0\n\n---\nWelcome to Reddit, the heart of the internet.\n\nReddit is a social network with something for everyone: trending topics, diverse discussions, engaging communities and comment threads.\n\nRedditors have authentic and interesting conversations around all sorts of curated content. You’ll find gaming communities, bloggers, meme-makers, fandoms, travel enthusiasts, support groups, AI forums, news junkies, artists, and creators of all types.\n\nReddit has over 100,000 online communities (forums where membe",
-      "version": "2026.25.0",
-      "versionDate": "2026-06-23T15:38:31-00:00",
-      "versionDescription": "Build 632610 from @thescholarslounge",
-      "size": 145768329,
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nRedditDeluxe 2026.25.1\n\n---\nWelcome to Reddit, the heart of the internet.\n\nReddit is a social network with something for everyone: trending topics, diverse discussions, engaging communities and comment threads.\n\nRedditors have authentic and interesting conversations around all sorts of curated content. You’ll find gaming communities, bloggers, meme-makers, fandoms, travel enthusiasts, support groups, AI forums, news junkies, artists, and creators of all types.\n\nReddit has over 100,000 online communities (forums where membe",
+      "version": "2026.25.1",
+      "versionDate": "2026-06-25T21:31:59-00:00",
+      "versionDescription": "Build 632814 from @thescholarslounge",
+      "size": 145801654,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a6/0d/e6a60d60-e30f-e9b7-5499-38fc8e294a51/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.25.0_Jacks_Apps.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.25.1_Jacks_Apps.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -34508,7 +34508,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "RedditDeluxes_2026.25.0_Jacks_Apps.ipa"
+        "originalFile": "RedditDeluxes_2026.25.1_Jacks_Apps.ipa"
       }
     },
     {
