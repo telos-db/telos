@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.hevyapp.hevy",
     "com.sfun.snapedit",
     "com.sugarmo.ScrollClip",
     "com.book.summaries.reading",
-    "com.miniclip.8ballpoolmult",
-    "com.skylum.luminaripad"
+    "com.miniclip.8ballpoolmult"
   ],
   "apps": [
     {
@@ -29026,15 +29026,15 @@
       "name": "Hevy",
       "bundleIdentifier": "com.hevyapp.hevy",
       "developerName": "Hevy Studios S.L.",
-      "subtitle": "Pro Features Unlocked",
-      "version": "3.0.15",
-      "versionDate": "2026-06-10",
-      "versionDescription": "Tweaks: CydiaSubstrate, Hevy\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Hevy Pro 3.0.15.ipa",
-      "localizedDescription": "Pro Features Unlocked\n\nHevy - Workout Tracker Gym Log",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "3.1.0",
+      "versionDate": "2026-06-25",
+      "versionDescription": "Tweaks: Hevy, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nHevy - Workout Tracker Gym Log",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/cc/93/40cc931e-d7f4-8c1b-c848-2a4421c34ffb/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 113550665,
+      "size": 119672884,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/65/23/a565237a-1107-085e-1071-57c537ce452a/4f85acc6-9488-4d7b-bbc5-96ef1b35a303_screenshot0__U00281_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/20/11/9e2011c2-ef21-e716-c60a-5c2fe0b26297/a66b427f-5742-4ef6-9f1f-7fb2aeb5f927_screenshot1.png/392x696bb.png",
@@ -29071,11 +29071,11 @@
       },
       "versions": [
         {
-          "version": "3.0.15",
-          "date": "2026-06-10",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Hevy\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Hevy Pro 3.0.15.ipa",
-          "size": 113550665
+          "version": "3.1.0",
+          "date": "2026-06-25",
+          "localizedDescription": "Tweaks: Hevy, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_0_Subscription_Unlocked_blatant.ipa",
+          "size": 119672884
         }
       ],
       "category": "health-&-fitness"
@@ -79330,7 +79330,7 @@
     {
       "title": "⚙️ Telos Update 6.25",
       "identifier": "telos-update-2026-06-25",
-      "caption": "10 Apps Updated:\n• 6 Photo & Video\n• 2 Games\n• 2 Education",
+      "caption": "14 Apps Updated:\n• 6 Photo & Video\n• 4 Health & Fitness\n• 2 Games\n• 2 Education",
       "date": "2026-06-25",
       "tintColor": "#02433b",
       "notify": true,
