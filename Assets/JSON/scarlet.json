@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-06-24",
+  "versionDate": "2026-06-25",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -24035,18 +24035,17 @@
       "bundleIdentifier": "com.skylum.luminaripad",
       "developerName": "Skylum",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FilePickerFix, Luminar, blatantsPatch\n\nLuminar: Image Editor&Enhancer\n\n---\nLuminar — Your all-in-one, on-the-go photo editor and creative companion for iPhone, iPad and Vision Pro. Explore powerful AI-driven tools and an interactive interface that responds to your touch, delivering a uniquely engaging photo editing experience.\n\nStreamlined design with unparalleled control\n\nLuminar's user-friendly design allows you to edit your photos with intuitive gestures, featuring smoothly gliding sliders and spinning dials that respond realistically to your touch with motion and s",
-      "version": "3.5",
-      "versionDate": "2026-06-06T23:33:35-00:00",
-      "versionDescription": "Build 3027 from @blatants",
-      "size": 555124417,
+      "version": "4.0",
+      "versionDate": "2026-06-25T00:47:02-00:00",
+      "versionDescription": "Build 3244 from @blatants",
+      "size": 535830652,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/1a/6e/b01a6e0f-f061-2ca4-9d3a-44be7d2bf8b9/LuminarLogo-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v3_5_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_0_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -24054,7 +24053,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Luminar_Image_Editor&Enhancer_v3_5_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Luminar_Image_Editor&Enhancer_v4_0_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
