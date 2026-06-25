@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.SixThree.POV",
+    "com.nuvio.media",
+    "com.tinyspeck.chatlyio",
     "com.ld.TakeBrowser",
-    "com.frenchtwins.MosaicPrediction",
-    "com.rostamimagic.realist",
-    "com.bigwinepot.nwdn.international",
-    "com.wellocution.iosapp"
+    "com.frenchtwins.MosaicPrediction"
   ],
   "apps": [
     {
@@ -45332,14 +45332,14 @@
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "RGN VENTURES LTD",
       "subtitle": "Nuvio for iOS",
-      "version": "0.2.12",
-      "versionDate": "2026-06-24",
+      "version": "0.2.13",
+      "versionDate": "2026-06-25",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.12-Full.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.13-Full.ipa",
       "localizedDescription": "Nuvio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 38346885,
+      "size": 38416902,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -45347,11 +45347,11 @@
       },
       "versions": [
         {
-          "version": "0.2.12",
-          "date": "2026-06-24",
+          "version": "0.2.13",
+          "date": "2026-06-25",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.12-Full.ipa",
-          "size": 38346885
+          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.13-Full.ipa",
+          "size": 38416902
         }
       ],
       "category": "health-&-fitness"
@@ -51933,14 +51933,14 @@
       "bundleIdentifier": "com.SixThree.POV",
       "developerName": "Untitled Tech, Inc.",
       "subtitle": "*Tweak:** Unlimited Guests | *Patched ✓**",
-      "version": "5.69",
-      "versionDate": "2026-06-12",
+      "version": "5.70",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/POV – Disposable Camera Events-v5.69-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/POV – Disposable Camera Events-v5.70-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Unlimited Guests | *Patched ✓**\n\nPOV – Disposable Camera Events",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/14/67/9214672a-8be3-6b95-7a25-b9f5e9c8ee2e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 48750236,
+      "size": 48827065,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/19/50/961950f4-4094-a2a6-cb52-e332b81db5df/1_55.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/50/35/4a503595-4be7-c183-b43f-c67fd2590023/2_55.png/392x696bb.png",
@@ -51970,11 +51970,11 @@
       },
       "versions": [
         {
-          "version": "5.69",
-          "date": "2026-05-25",
+          "version": "5.70",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/POV – Disposable Camera Events-v5.69-riftysipas.ipa",
-          "size": 48750236
+          "downloadURL": "https://telos.ftp.sh/ipas/POV – Disposable Camera Events-v5.70-riftysipas.ipa",
+          "size": 48827065
         }
       ],
       "category": "photo-&-video"
@@ -59310,6 +59310,50 @@
         }
       ],
       "category": "reference"
+    },
+    {
+      "name": "Slack",
+      "bundleIdentifier": "com.tinyspeck.chatlyio",
+      "developerName": "Slack Technologies, Inc.",
+      "subtitle": "Slack for iOS",
+      "version": "26.06.40",
+      "versionDate": "2026-06-25",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.tinyspeck.chatlyio-26.06.40-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/8d/6a/af8d6a2b-ef75-0554-f343-651737cc0b39/slack_icon_prod-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 160707779,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/e6/08/38e6085c-6bf9-e0a0-e432-055beee537cb/93f78483-ed6a-4f45-bf05-4308c2ecb92f_iOS-iPhone6.5-Screenshot01.en-GB@3x-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/ca/6b/5dca6b63-1062-1f70-b072-84cf8cd5fd8d/9776126f-a44a-4ecb-aa3e-ac35f8128ba0_iOS-iPhone5.5-Screenshot02.en-GB@3x.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/08/e1/8a08e19d-4d6b-cd4e-05b3-d4b45bd9f075/b56b1f8b-323c-44c7-a6ce-f1b8c497af8c_iOS-iPhone5.5-Screenshot03.en-GB@3x.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/a5/b3/9ba5b37f-1db6-86da-58e8-075c82c565d0/b977cd3f-9493-4561-a830-2ddf2ce776ec_iOS-iPhone5.5-Screenshot04.en-GB@3x.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/b1/76/10b1764f-fe64-e566-2e18-33109156e95e/c493e707-8eb8-4153-bb33-651b128e7a55_iOS-iPhone5.5-Screenshot05.en-GB@3x.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Upload photos and videos to share with your Slack workspaces.",
+          "NSCameraUsageDescription": "Take photos, record clips or use your camera during huddles.",
+          "NSMicrophoneUsageDescription": "Your microphone lets you join huddles or record clips.",
+          "NSContactsUsageDescription": "Slack uses your contacts to make inviting workspace members a snap.",
+          "NSMotionUsageDescription": "Access pedometer data to use and share in Slack.",
+          "NSSpeechRecognitionUsageDescription": "Slack recognizes your speech to speak with Slackbot AI.",
+          "NSFaceIDUsageDescription": "Slack will use this to unlock the app in the future.",
+          "NSPhotoLibraryAddUsageDescription": "Add photos and videos from Slack to your photo library."
+        }
+      },
+      "versions": [
+        {
+          "version": "26.06.40",
+          "date": "2026-06-24",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.tinyspeck.chatlyio-26.06.40-eeveedecrypter.ipa",
+          "size": 160707779
+        }
+      ],
+      "category": "business"
     },
     {
       "name": "Sleep",
@@ -79398,7 +79442,7 @@
     {
       "title": "⚙️ Telos Update 6.25",
       "identifier": "telos-update-2026-06-25",
-      "caption": "66 Apps Updated:\n• 18 Photo & Video\n• 8 Games\n• 8 Health & Fitness\n• 8 Utilities\n• 8 Entertainment\n• 6 Education\n• 4 Music\n• 2 Productivity\n• 2 Lifestyle\n• 2 Graphics & Design",
+      "caption": "76 Apps Updated:\n• 22 Photo & Video\n• 16 Health & Fitness\n• 8 Games\n• 6 Education\n• 6 Utilities\n• 4 Music\n• 4 Entertainment\n• 4 Business\n• 2 Productivity\n• 2 Lifestyle\n• 2 Graphics & Design",
       "date": "2026-06-25",
       "tintColor": "#02433b",
       "notify": true,
