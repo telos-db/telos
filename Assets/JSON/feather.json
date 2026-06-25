@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.footballaddicts.livescoreaddicts",
-    "com.unofficialcalculators.payplan",
-    "com.lappir.keto",
-    "com.openai.chat",
-    "com.SixThree.POV"
+    "com.neo.NeoMan",
+    "com.ulisesolave.Fitia",
+    "health.sleep.sounds.tracker.alarm.calm",
+    "com.microsoft.skydrive",
+    "com.microsoft.sharepoint"
   ],
   "apps": [
     {
@@ -22863,14 +22863,14 @@
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
       "subtitle": "Tweaked with Fitia, blatantsPatch",
-      "version": "23.1.17",
-      "versionDate": "2026-06-24",
+      "version": "23.1.18",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_17_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_18_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Fitia, blatantsPatch\n\nFitia: Calorie Counter & Diet\n\n---\nTrusted by 10+ million users and rated 4.9/5.0 stars\n\n • The fastest & most accurate calorie counter\n • Track calories by photo, voice, or typing (like notes)\n • Personalized meal plans for weight loss or muscle gain\n • AI coach that adapts to your progress\n • Grocery list, recipes & smart food logging\n • Weight, body fat & measurement tracking\n • Intermittent fasting tracker\n • Syncs with Apple Health and third party apps\n\nWHY FITIA WORKS FOR WEIGHT LOSS OR MUSCLE GAIN\n• Fitia creates a plan th",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/18/c2/8e18c267-859b-7791-b7ca-d2fbc39d887e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 124878117,
+      "size": 124893148,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -22897,11 +22897,11 @@
       },
       "versions": [
         {
-          "version": "23.1.17",
-          "date": "2026-06-24",
+          "version": "23.1.18",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_17_Subscription_Unlocked_blatant.ipa",
-          "size": 124878117
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_18_Subscription_Unlocked_blatant.ipa",
+          "size": 124893148
         }
       ],
       "category": "health-&-fitness"
@@ -44243,14 +44243,14 @@
       "bundleIdentifier": "com.neo.NeoMan",
       "developerName": "Space-Time Transformation Technology Co., Ltd.",
       "subtitle": "Tweaked with NeoServer, blatantsPatch",
-      "version": "8.2.3",
-      "versionDate": "2026-06-23",
+      "version": "8.2.5",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: NeoServer, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_2_3_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_2_5_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NeoServer, blatantsPatch\n\nNeoServer: SSH Client | Terminal\n\n---\nNeoServer offers a comprehensive management solution via SSH without additional software installation for your servers, NAS (Network Attached Storage), and Linux-based routers across iPhone, iPad, and Mac platforms. It supports terminal remote connections, multi-server script execution, container management, SFTP file management, and common performance data display.\n\n◉ Free Features:\n◦ Supports SFTP browsing of server files, allowing editing (with syntax highlighting for common languages), renam",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/a9/9d/55a99db2-bef1-8618-f91a-7404d2e46f00/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 28547885,
+      "size": 28577591,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/51/e9/7051e9d4-9400-ba5e-c0c4-b3c3028896a3/6ea7619e-b9fe-45ca-8c94-ac17544b1668_metrics.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/7a/8e/107a8e2f-99cf-e69b-ad17-21ea74a368b6/71a4a532-2c52-4e24-a1a3-90412bb627ad_detail.png/392x696bb.png",
@@ -44272,11 +44272,11 @@
       },
       "versions": [
         {
-          "version": "8.2.3",
-          "date": "2026-06-23",
+          "version": "8.2.5",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: NeoServer, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_2_3_Subscription_Unlocked_blatant.ipa",
-          "size": 28547885
+          "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_2_5_Subscription_Unlocked_blatant.ipa",
+          "size": 28577591
         }
       ],
       "category": "developer-tools"
@@ -46659,6 +46659,43 @@
         }
       ],
       "category": "entertainment"
+    },
+    {
+      "name": "OneDrive",
+      "bundleIdentifier": "com.microsoft.skydrive",
+      "developerName": "Microsoft Corporation",
+      "subtitle": "Tweaked with CopilotSubstrateCommon",
+      "version": "18.4.2",
+      "versionDate": "2026-06-25",
+      "versionDescription": "Tweaks: CopilotSubstrateCommon\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.microsoft.skydrive-18.4.2-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CopilotSubstrateCommon\n\nDecrypted\n\n---\nMicrosoft OneDrive keeps your photos, videos, and files backed up, protected, synced, and accessible on all your devices. The OneDrive app lets you view and share OneDrive files, photos, and videos with friends and family. You can use the app to automatically back up your phone's photos and videos. Start with 5 GB of free cloud storage or upgrade to a Microsoft 365 subscription to get up to 1 TB.\n\nMicrosoft OneDrive Features:\n\nBack up photos and videos\n• Automatic photo and video backup when you",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/96/d9/b196d9fc-a24a-4797-d983-cf281b3b7f59/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 162376446,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "OneDrive needs access to upload photos and videos.",
+          "NSCameraUsageDescription": "OneDrive needs access to your camera to take photos and videos.",
+          "NSMicrophoneUsageDescription": "OneDrive needs access to your microphone to record videos.",
+          "NSContactsUsageDescription": "OneDrive needs access to share to contacts.",
+          "NSSpeechRecognitionUsageDescription": "OneDrive uses speech recognition to convert your voice to text.",
+          "NSFaceIDUsageDescription": "OneDrive needs access to configure passcode.",
+          "NSPhotoLibraryAddUsageDescription": "App wants access to add photos to your library."
+        }
+      },
+      "versions": [
+        {
+          "version": "18.4.2",
+          "date": "2026-06-25",
+          "localizedDescription": "Tweaks: CopilotSubstrateCommon\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.microsoft.skydrive-18.4.2-eeveedecrypter.ipa",
+          "size": 162376446
+        }
+      ],
+      "category": "productivity"
     },
     {
       "name": "OneFootball",
@@ -58605,6 +58642,51 @@
       "category": "social-networking"
     },
     {
+      "name": "SharePoint",
+      "bundleIdentifier": "com.microsoft.sharepoint",
+      "developerName": "Microsoft Corporation",
+      "subtitle": "SharePoint for iOS",
+      "version": "5.0.2",
+      "versionDate": "2026-06-25",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.microsoft.sharepoint-5.0.2-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nFind files, news, sites and people - personalized for you and your organization. SharePoint infuses AI into the mobile app experience to keep you focused and productive while on the go. AI builds an understanding of what you work on, how you work, and how your colleagues' work relates to you. When you need expertise, content, or resources when you're on the go, SharePoint is a great place to start looking.\n\n· Browse your sites, files, people and more to get back to what you were working on\n· Use",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/e0/bc/6de0bcf4-3bd7-02d5-d2ef-411a0f85ec1c/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 36092550,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/30/b1/91/30b19136-85bc-27e2-2bb0-79e6a915f254/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/22/ab/87/22ab8786-a339-2462-3c03-787b2d2c621c/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/06/60/ba06605f-1538-0b0d-0881-45dba5051dba/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/66/06/d6/6606d644-7d63-2f97-a700-b238db231e24/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8b/0e/e9/8b0ee917-42d7-bd54-8a98-e6ed3c8f8ab6/pr_source.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Please allow SharePoint access to your photo library in order to add photos and videos to sites",
+          "NSCameraUsageDescription": "Please allow SharePoint access to your camera to take photos and record videos to add to sites",
+          "NSMicrophoneUsageDescription": "This lets you record videos with sound to add to sites",
+          "NSFaceIDUsageDescription": "Face ID is used to restrict unauthorized users from accessing the app",
+          "NSPhotoLibraryAddUsageDescription": "SharePoint needs access to save photos and videos"
+        }
+      },
+      "versions": [
+        {
+          "version": "5.0.2",
+          "date": "2026-06-25",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.microsoft.sharepoint-5.0.2-eeveedecrypter.ipa",
+          "size": 36092550
+        }
+      ],
+      "category": "productivity"
+    },
+    {
       "name": "Sharp",
       "bundleIdentifier": "ai.unblur.photo.enhancer.neural.loopsie",
       "developerName": "KRNL SRL",
@@ -58965,14 +59047,14 @@
       "bundleIdentifier": "health.sleep.sounds.tracker.alarm.calm",
       "developerName": "Enerjoy Pte. Ltd.",
       "subtitle": "Tweaked with ShutEye, blatantsPatch",
-      "version": "3.4.4",
-      "versionDate": "2026-06-10",
+      "version": "3.4.5",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: ShutEye, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/ShutEye®_Sleep_Tracker,_Sound_v3_4_4_Premium_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ShutEye®_Sleep_Tracker,_Sound_v3_4_5_Premium_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ShutEye, blatantsPatch\n\nShutEye®: Sleep Tracker, Sound\n\n---\nStruggling with Sleep? Improve your rest with ShutEye®’s relaxing sounds and comprehensive sleep tracker app.\n\nAfter a hectic day, does sleep feel elusive? ShutEye® is here to ensure you get the restful sleep you need.\n\nSleep is crucial for productivity, health, and happiness. In today’s busy world, it’s more elusive than ever. Stop tossing and turning. Start falling asleep naturally and healthily with ShutEye® app.\n\nShutEye® offers a complete sleep solution with:\n- Extensive library of sleep so",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/fb/a2/33fba2c1-8bce-1c88-ef17-e3cb2f454cf1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 490211237,
+      "size": 510614725,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -58998,11 +59080,11 @@
       },
       "versions": [
         {
-          "version": "3.4.4",
-          "date": "2026-06-10",
+          "version": "3.4.5",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: ShutEye, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/ShutEye®_Sleep_Tracker,_Sound_v3_4_4_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 490211237
+          "downloadURL": "https://telos.ftp.sh/ipas/ShutEye®_Sleep_Tracker,_Sound_v3_4_5_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 510614725
         }
       ],
       "category": "health-&-fitness"
