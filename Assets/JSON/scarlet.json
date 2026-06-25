@@ -28639,12 +28639,12 @@
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "RGN VENTURES LTD",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nNuvio\n\n---\nNuvio – Master Your Cold Plunge Routine\nTake control of your recovery like never before. The Nuvio app seamlessly connects to your Recovery Chiller, giving you full command over your cold plunge experience—anytime, anywhere. No ice. No hassle. Just cold, clean performance on your schedule.\nPERSONALIZED CONTROL. PEAK PERFORMANCE.\nDial in your perfect temperature, schedule sessions in advance, activate purification, and monitor your plunge history—all from your phone. Nuvio is designed to fit your",
-      "version": "0.2.12",
-      "versionDate": "2026-06-24T01:32:48-00:00",
-      "versionDescription": "Build 84 from @thescholarslounge",
-      "size": 38346885,
+      "version": "0.2.13",
+      "versionDate": "2026-06-25T16:32:19-00:00",
+      "versionDescription": "Build 85 from @thescholarslounge",
+      "size": 38416902,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.12-Full.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.13-Full.ipa",
       "minOSVersion": "16.1",
       "supportedPlatforms": [
         "iOS"
@@ -28657,7 +28657,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Nuvio-v0.2.12-Full.ipa"
+        "originalFile": "Nuvio-v0.2.13-Full.ipa"
       }
     },
     {
@@ -32855,18 +32855,17 @@
       "bundleIdentifier": "com.SixThree.POV",
       "developerName": "Untitled Tech, Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPOV – Disposable Camera Events\n\n---\nPOV helps you capture the point of view of everyone at your event. Perfect for weddings, parties, nights out, and more!\n\nLike a digital disposable camera –– cap the number of photos that each of your guests can take and have the photos reveal the next day!\n\nNO DOWNLOAD REQUIRED FOR GUESTS\nGuests can scan a code or tap on a link and don't have to download this app to participate.\n\nCAMERA\nThe camera is completely customizable –– you determine how many photos each of your guests can take.\n\nGALLERY",
-      "version": "5.56",
-      "versionDate": "2026-06-14T21:20:55-00:00",
+      "version": "5.70",
+      "versionDate": "2026-06-25T16:34:35-00:00",
       "versionDescription": "Build 1 from @riftysIPAlibrary",
-      "size": 47560744,
+      "size": 48827065,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/14/67/9214672a-8be3-6b95-7a25-b9f5e9c8ee2e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/POV – Disposable Camera Events-v5.56-riftysipas.ipa",
-      "minOSVersion": "18.0",
+      "downloadURL": "https://telos.ftp.sh/ipas/POV – Disposable Camera Events-v5.70-riftysipas.ipa",
+      "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -32874,7 +32873,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "POV – Disposable Camera Events-v5.56-riftysipas.ipa"
+        "originalFile": "POV – Disposable Camera Events-v5.70-riftysipas.ipa"
       }
     },
     {
@@ -37421,6 +37420,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Sky Guide v12.1 Sky Guide Plus blatant Patched.ipa"
+      }
+    },
+    {
+      "name": "Slack",
+      "bundleIdentifier": "com.tinyspeck.chatlyio",
+      "developerName": "Slack Technologies, Inc.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nCompanies in every industry around the world grow their business in Slack because it gets busywork off their plates and wasteful meetings off their calendars.\n\nSlack brings everyone from coworkers, customers, and contractors into one secure place, so you don’t have to chase approvals or wait around on emails. Slack even has AI that can search to find the information you need instantly and summarize conversations to catch you up with a click.\n\nBetter yet, Slack makes it easy for anyone on your te",
+      "version": "26.06.40",
+      "versionDate": "2026-06-25T16:30:41-00:00",
+      "versionDescription": "Build 459134 from @thescholarslounge",
+      "size": 160707779,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/8d/6a/af8d6a2b-ef75-0554-f343-651737cc0b39/slack_icon_prod-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.tinyspeck.chatlyio-26.06.40-eeveedecrypter.ipa",
+      "minOSVersion": "17.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.tinyspeck.chatlyio-26.06.40-eeveedecrypter.ipa"
       }
     },
     {
