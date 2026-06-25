@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.bigwinepot.nwdn.international",
+    "com.wellocution.iosapp",
     "com.master.hotelmaster",
     "com.alohabrowser.alohabrowser",
-    "com.kinemaster.kios",
-    "background.remover.bg.eraser",
-    "com.dopedevelopment.Panels"
+    "com.kinemaster.kios"
   ],
   "apps": [
     {
@@ -8230,14 +8230,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Tweaked with BoldVoice, blatantsPatch",
-      "version": "4.0.6",
-      "versionDate": "2026-06-23",
+      "version": "4.0.7",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_6_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_7_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BoldVoice, blatantsPatch\n\nBoldVoice: Accent Training\n\n---\nBoldVoice is the top-rated English speaking and pronunciation app, with over 2 million global users. Our Hollywood accent coaches and AI-powered feedback will help you achieve clear, confident pronunciation, with only 10 minutes of daily practice.\n\nWHY CHOOSE BOLDVOICE:\nLearn from professional accent coaches who train Hollywood actors\nRecord your voice and receive instant, AI-powered pronunciation feedback\nPractice with daily-life scenarios and professional conversations\nMonitor progress through",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/54/3e/5d543e2c-51bb-1d38-261b-2f75ad39987c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 147230867,
+      "size": 147235129,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8256,11 +8256,11 @@
       },
       "versions": [
         {
-          "version": "4.0.6",
-          "date": "2026-06-23",
+          "version": "4.0.7",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_6_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 147230867
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_7_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 147235129
         }
       ],
       "category": "education"
@@ -55550,14 +55550,14 @@
       "bundleIdentifier": "com.bigwinepot.nwdn.international",
       "developerName": "Bending Spoons Apps ApS",
       "subtitle": "Tweaked with ReminiAIPhotoEnhancerPatch",
-      "version": "2.10.198",
-      "versionDate": "2026-06-09",
+      "version": "2.10.206",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: ReminiAIPhotoEnhancerPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Remini_-_AI_Photo_Enhancer_2.10.198_1778930433.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Remini_-_AI_Photo_Enhancer_2.10.206_1782118018.ipa",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: ReminiAIPhotoEnhancerPatch\n\n[[P] Remini - AI Photo Enhancer](\n\n---\nTurn your old, blurry photos into gorgeous, clear HD in just ONE TAP. It’s like magic!\n\nWith Remini, you can give your grainy, pixelated, damaged, low-resolution photos a new lease of life. Marvel at how stunning they look in clear, sharp high-definition.\n\nOver 100 million photos already revitalized. Remini is one of the most popular and beloved photo-enhancement apps in the world.\n\nDelight your parents by revamping their vintage photo albums. Remini’s incredible, movie-grade AI technology does",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/3a/5c/953a5c74-4819-d5ea-875e-ef4bf4e87ee7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 77788179,
+      "size": 119830175,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/65/ab/6265ab3c-7057-f6e9-887f-5fb105f3c495/1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/f5/59/63f559ae-a310-d57b-9eef-d0b6b11c5e0c/RMN_LiveSet_1242x2208_STILL_EN_iPhone55-Filters_v01.jpg/392x696bb.jpg",
@@ -55583,11 +55583,11 @@
       },
       "versions": [
         {
-          "version": "2.10.198",
-          "date": "2026-06-09",
+          "version": "2.10.206",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: ReminiAIPhotoEnhancerPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Remini_-_AI_Photo_Enhancer_2.10.198_1778930433.ipa",
-          "size": 77788179
+          "downloadURL": "https://telos.ftp.sh/ipas/Remini_-_AI_Photo_Enhancer_2.10.206_1782118018.ipa",
+          "size": 119830175
         }
       ],
       "category": "photo-&-video"
