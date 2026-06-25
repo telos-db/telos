@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.hevyapp.hevy",
     "com.sfun.snapedit",
     "com.sugarmo.ScrollClip",
     "com.book.summaries.reading",
-    "com.miniclip.8ballpoolmult",
-    "com.skylum.luminaripad"
+    "com.miniclip.8ballpoolmult"
   ],
   "apps": [
     {
@@ -29214,15 +29214,15 @@
       "name": "Hevy",
       "bundleIdentifier": "com.hevyapp.hevy",
       "developerName": "Hevy Studios S.L.",
-      "subtitle": "Hevy for iOS",
-      "version": "3.0.14",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.hevyapp.hevy-3.0.14-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nFeatured by Apple Join +10 million users!\nHevy is the most intuitive workout tracker & planner in the world. No ads and free. Plan your weight lifting routines, log your workouts and track your exercise progress. Join a growing community and get started today - for free!\n\nWHAT USERS ARE SAYING\n• \"Seriously the best workout tracker I've ever used. Simple. Free. Tons of graphs. Amazing quality videos\" - Sam Ilelaboye\n• \"Seeing what my friends and other athletes are working out at the gym has total",
+      "subtitle": "Tweaked with Hevy, blatantsPatch",
+      "version": "3.1.0",
+      "versionDate": "2026-06-25",
+      "versionDescription": "Tweaks: Hevy, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Hevy, blatantsPatch\n\nHevy - Workout Tracker Gym Log\n\n---\nFeatured by Apple Join +10 million users!\nHevy is the most intuitive workout tracker & planner in the world. No ads and free. Plan your weight lifting routines, log your workouts and track your exercise progress. Join a growing community and get started today - for free!\n\nWHAT USERS ARE SAYING\n• \"Seriously the best workout tracker I've ever used. Simple. Free. Tons of graphs. Amazing quality videos\" - Sam Ilelaboye\n• \"Seeing what my friends and other athletes are working out at the gym has total",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/cc/93/40cc931e-d7f4-8c1b-c848-2a4421c34ffb/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 119636005,
+      "size": 119672884,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/65/23/a565237a-1107-085e-1071-57c537ce452a/4f85acc6-9488-4d7b-bbc5-96ef1b35a303_screenshot0__U00281_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/20/11/9e2011c2-ef21-e716-c60a-5c2fe0b26297/a66b427f-5742-4ef6-9f1f-7fb2aeb5f927_screenshot1.png/392x696bb.png",
@@ -29259,11 +29259,11 @@
       },
       "versions": [
         {
-          "version": "3.0.14",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.hevyapp.hevy-3.0.14-eeveedecrypter.ipa",
-          "size": 119636005
+          "version": "3.1.0",
+          "date": "2026-06-25",
+          "localizedDescription": "Tweaks: Hevy, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_0_Subscription_Unlocked_blatant.ipa",
+          "size": 119672884
         }
       ],
       "category": "health-&-fitness"
