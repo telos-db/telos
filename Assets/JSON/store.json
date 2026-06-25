@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.bigwinepot.nwdn.international",
+    "com.wellocution.iosapp",
     "com.master.hotelmaster",
     "com.alohabrowser.alohabrowser",
-    "com.kinemaster.kios",
-    "background.remover.bg.eraser",
-    "com.dopedevelopment.Panels"
+    "com.kinemaster.kios"
   ],
   "apps": [
     {
@@ -8184,14 +8184,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.0.6",
-      "versionDate": "2026-06-23",
+      "version": "4.0.7",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_6_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_7_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nBoldVoice: Accent Training",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/54/3e/5d543e2c-51bb-1d38-261b-2f75ad39987c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 147230867,
+      "size": 147235129,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8210,11 +8210,11 @@
       },
       "versions": [
         {
-          "version": "4.0.6",
-          "date": "2026-06-23",
+          "version": "4.0.7",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_6_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 147230867
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_7_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 147235129
         }
       ],
       "category": "education"
@@ -55101,14 +55101,14 @@
       "bundleIdentifier": "com.bigwinepot.nwdn.international",
       "developerName": "Bending Spoons Apps ApS",
       "subtitle": "** | By ****@Billymooree**",
-      "version": "2.10.198",
-      "versionDate": "2026-06-09",
+      "version": "2.10.206",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: ReminiAIPhotoEnhancerPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Remini_-_AI_Photo_Enhancer_2.10.198_1778930433.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Remini_-_AI_Photo_Enhancer_2.10.206_1782118018.ipa",
       "localizedDescription": "** | By ****@Billymooree**\n\n[[P] Remini - AI Photo Enhancer](",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/3a/5c/953a5c74-4819-d5ea-875e-ef4bf4e87ee7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 77788179,
+      "size": 119830175,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/65/ab/6265ab3c-7057-f6e9-887f-5fb105f3c495/1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/f5/59/63f559ae-a310-d57b-9eef-d0b6b11c5e0c/RMN_LiveSet_1242x2208_STILL_EN_iPhone55-Filters_v01.jpg/392x696bb.jpg",
@@ -55134,11 +55134,11 @@
       },
       "versions": [
         {
-          "version": "2.10.198",
-          "date": "2026-06-09",
+          "version": "2.10.206",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: ReminiAIPhotoEnhancerPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Remini_-_AI_Photo_Enhancer_2.10.198_1778930433.ipa",
-          "size": 77788179
+          "downloadURL": "https://telos.ftp.sh/ipas/Remini_-_AI_Photo_Enhancer_2.10.206_1782118018.ipa",
+          "size": 119830175
         }
       ],
       "category": "photo-&-video"
@@ -79330,7 +79330,7 @@
     {
       "title": "⚙️ Telos Update 6.25",
       "identifier": "telos-update-2026-06-25",
-      "caption": "52 Apps Updated:\n• 16 Photo & Video\n• 10 Games\n• 8 Health & Fitness\n• 4 Education\n• 4 Music\n• 4 Utilities\n• 2 Productivity\n• 2 Lifestyle\n• 2 Graphics & Design",
+      "caption": "58 Apps Updated:\n• 20 Photo & Video\n• 8 Games\n• 8 Education\n• 8 Health & Fitness\n• 4 Music\n• 4 Utilities\n• 2 Productivity\n• 2 Lifestyle\n• 2 Graphics & Design",
       "date": "2026-06-25",
       "tintColor": "#02433b",
       "notify": true,
