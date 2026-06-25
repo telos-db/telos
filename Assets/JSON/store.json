@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "alexgerrese.summarize",
+    "com.reddit.Reddit",
     "com.neo.NeoMan",
     "com.ulisesolave.Fitia",
-    "health.sleep.sounds.tracker.alarm.calm",
-    "com.microsoft.skydrive",
-    "com.microsoft.sharepoint"
+    "health.sleep.sounds.tracker.alarm.calm"
   ],
   "apps": [
     {
@@ -8306,14 +8306,14 @@
       "bundleIdentifier": "alexgerrese.summarize",
       "developerName": "Alexander Gerrese",
       "subtitle": "*Tweak:** Lifetime Subscription Unlocked | *Patched ✓**",
-      "version": "2.18.15",
-      "versionDate": "2026-06-21",
+      "version": "2.18.16",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.15-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.16-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Lifetime Subscription Unlocked | *Patched ✓**\n\nBookshelf: Book Tracker & List",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/7b/7a/877b7ab7-f559-1e4d-f6ef-5c3722b095f8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 216254099,
+      "size": 216265466,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/cf/21/5dcf213b-7b2b-4ac0-8bc6-e5769a920297/3e9745fe-1e7e-4f77-a711-fa39b1e5dee0_Screenshot_1_Copy_157.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/ef/d3/9fefd3f0-0c53-888f-5475-e6db01a1fe19/7ec16261-ed2f-4340-8929-e09991a76be6_Screenshot_1_Copy_160.jpg/576x768bb.jpg",
@@ -8337,11 +8337,11 @@
       },
       "versions": [
         {
-          "version": "2.18.15",
-          "date": "2026-06-21",
+          "version": "2.18.16",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.15-riftysipas.ipa",
-          "size": 216254099
+          "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.16-riftysipas.ipa",
+          "size": 216265466
         }
       ],
       "category": "books"
@@ -54603,14 +54603,14 @@
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "REDDIT, INC.",
       "subtitle": "Tweaked with CydiaSubstrate, RedditFilter",
-      "version": "2026.25.0",
-      "versionDate": "2026-06-23",
+      "version": "2026.25.1",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.25.0_Jacks_Apps.ipa",
-      "localizedDescription": "RedditDeluxe 2026.25.0",
+      "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.25.1_Jacks_Apps.ipa",
+      "localizedDescription": "RedditDeluxe 2026.25.1",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a6/0d/e6a60d60-e30f-e9b7-5499-38fc8e294a51/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 145768329,
+      "size": 145801654,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/b1/d4/5ab1d42a-6b46-14e8-0a42-e36651ee36cb/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/29/b6/0b29b650-0ac2-1a8b-fa99-0140c0e95608/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/392x696bb.png",
@@ -54639,11 +54639,11 @@
       },
       "versions": [
         {
-          "version": "2026.25.0",
-          "date": "2026-06-23",
+          "version": "2026.25.1",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.25.0_Jacks_Apps.ipa",
-          "size": 145768329
+          "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.25.1_Jacks_Apps.ipa",
+          "size": 145801654
         }
       ],
       "category": "news"
@@ -79525,7 +79525,7 @@
     {
       "title": "⚙️ Telos Update 6.25",
       "identifier": "telos-update-2026-06-25",
-      "caption": "96 Apps Updated:\n• 22 Health & Fitness\n• 20 Photo & Video\n• 12 Productivity\n• 8 Games\n• 6 Education\n• 6 Utilities\n• 4 Music\n• 4 Entertainment\n• 4 Developer Tools\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Business\n• 2 Sports\n• 2 Finance",
+      "caption": "94 Apps Updated:\n• 20 Photo & Video\n• 18 Health & Fitness\n• 8 Games\n• 8 Productivity\n• 6 Education\n• 6 Utilities\n• 4 Music\n• 4 Entertainment\n• 4 Books\n• 4 News\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Business\n• 2 Sports\n• 2 Finance\n• 2 Developer Tools",
       "date": "2026-06-25",
       "tintColor": "#02433b",
       "notify": true,
