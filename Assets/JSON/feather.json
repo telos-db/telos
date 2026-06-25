@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.hevyapp.hevy",
-    "com.sfun.snapedit",
-    "com.sugarmo.ScrollClip",
-    "com.book.summaries.reading",
-    "com.miniclip.8ballpoolmult"
+    "com.gymstreak.GymStreakAI",
+    "com.blockpuzzle.us.ios",
+    "com.algoriddim.djay-iphone-free",
+    "com.fingersoft.hillclimbracing",
+    "ventures.slam.minutes"
   ],
   "apps": [
     {
@@ -7841,14 +7841,14 @@
       "bundleIdentifier": "com.blockpuzzle.us.ios",
       "developerName": "Hungry Studio",
       "subtitle": "Tweaked with NetworkBlocker(adblocker), fixipa1",
-      "version": "7.2.1",
-      "versionDate": "2026-06-22",
+      "version": "7.2.2",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nBlock Blast!\n\n---\nEnter the world of Block Blast, where every move is a test of your brain and strategy. Dive into the thrill of block crush gameplay—watch vibrant cubes explode in color as you solve each puzzle. With fresh daily puzzle challenges that keep your mind engaged and an endless high score system that rewards your best strategies, Block Blast delivers nonstop excitement for casual players and puzzle masters alike.\n\nWhy You'll Love Block Blast\n• Daily Puzzle Variety: Every day brings a new puzzle twist,",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/f0/1c/d7f01cec-d388-cece-0faa-685c3ce3f2d2/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 90604605,
+      "size": 90611307,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/76/ee/2a76ee57-90a6-9c88-7393-b77afd3b6508/4ac25f40-0f18-43c2-8be8-b3d2018fe240_2048X2732_1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/b3/98/acb39832-888e-a1cf-7f06-511f1b1dd114/94905e6c-232a-4e06-a5c0-8f2cd6c397c3_2048X2732_2.png/576x768bb.png",
@@ -7875,11 +7875,11 @@
       },
       "versions": [
         {
-          "version": "7.2.1",
-          "date": "2026-06-22",
+          "version": "7.2.2",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.1-riftysipas.ipa",
-          "size": 90604605
+          "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.2-riftysipas.ipa",
+          "size": 90611307
         }
       ],
       "category": "games"
@@ -15706,14 +15706,14 @@
       "bundleIdentifier": "com.hubx.imagination",
       "developerName": "HUBX",
       "subtitle": "Tweaked with DaVinci, blatantsPatch",
-      "version": "4.4.9",
-      "versionDate": "2026-06-06",
+      "version": "5.0.1",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: DaVinci, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/DaVinci_Image_Generator_AI_v4_4_9_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/DaVinci_Image_Generator_AI_v5_0_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: DaVinci, blatantsPatch\n\nDaVinci - Image Generator AI\n\n---\nTransform your words and images into stunning AI generated art! All you need to do is enter a prompt, pick an art style - and watch DaVinci AI bring your idea to life in seconds!\n\nDaVinci is a state-of-the-art AI Photo Generator app. Using the latest artificial intelligence technology, it can create unique artworks, photos and images based solely on your descriptions.\n\nHere are some cool things you can ask DaVinci AI to paint for you:\n• Digital artworks\n• Tattoo designs\n• Signature Generator\n• L",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/42/9d/0a429d88-a326-30a6-afd3-102b57b2c830/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 105951425,
+      "size": 113062618,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -15730,11 +15730,11 @@
       },
       "versions": [
         {
-          "version": "4.4.9",
-          "date": "2026-06-06",
+          "version": "5.0.1",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: DaVinci, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/DaVinci_Image_Generator_AI_v4_4_9_Subscription_Unlocked_blatant.ipa",
-          "size": 105951425
+          "downloadURL": "https://telos.ftp.sh/ipas/DaVinci_Image_Generator_AI_v5_0_1_Subscription_Unlocked_blatant.ipa",
+          "size": 113062618
         }
       ],
       "category": "photo-&-video"
@@ -17263,15 +17263,15 @@
       "name": "djay",
       "bundleIdentifier": "com.algoriddim.djay-iphone-free",
       "developerName": "Algoriddim GmbH",
-      "subtitle": "Tweaked with CydiaSubstrate, RevenueCatFix26",
-      "version": "5.6.4",
-      "versionDate": "2026-06-14",
-      "versionDescription": "Tweaks: CydiaSubstrate, RevenueCatFix26, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/djay Pro 5.6.4.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, RevenueCatFix26, SideloadSpoofer-08\n\ndjay - DJ App & AI Mixer\n\n---\nNow with Spotify and Apple Music integration\n\nWelcome to djay! The #1 DJ app and winner of multiple Apple Design Awards lets you start mixing your favorite music instantly. Connect your Spotify or Apple Music account to access millions of songs and create your own DJ mixes in no time – right inside djay.\n\ndjay transforms your iOS device into a full-featured DJ system. Seamlessly integrated with your music library, djay allows you to mix your favorite songs and playlists. You can perform live, re",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
+      "version": "5.6.6",
+      "versionDate": "2026-06-25",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/djay - DJ App & AI Mixer-v5.6.6-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\ndjay - DJ App & AI Mixer\n\n---\nNow with Spotify and Apple Music integration\n\nWelcome to djay! The #1 DJ app and winner of multiple Apple Design Awards lets you start mixing your favorite music instantly. Connect your Spotify or Apple Music account to access millions of songs and create your own DJ mixes in no time – right inside djay.\n\ndjay transforms your iOS device into a full-featured DJ system. Seamlessly integrated with your music library, djay allows you to mix your favorite songs and playlists. You can perform live, re",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/f4/9f/02f49fa6-7142-252b-3fe1-17649ca37559/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 185557655,
+      "size": 193828770,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -17292,11 +17292,11 @@
       },
       "versions": [
         {
-          "version": "5.6.4",
-          "date": "2026-06-14",
-          "localizedDescription": "Tweaks: CydiaSubstrate, RevenueCatFix26, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/djay Pro 5.6.4.ipa",
-          "size": 185557655
+          "version": "5.6.6",
+          "date": "2026-06-25",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/djay - DJ App & AI Mixer-v5.6.6-riftysipas.ipa",
+          "size": 193828770
         }
       ],
       "category": "music"
@@ -27964,14 +27964,14 @@
       "bundleIdentifier": "com.gymstreak.GymStreakAI",
       "developerName": "GymStreak Ltd",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "6.3.5",
-      "versionDate": "2026-06-14",
+      "version": "6.3.11",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/GymStreak: AI Personal Trainer-v6.3.5-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/GymStreak: AI Personal Trainer-v6.3.11-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nGymStreak: AI Personal Trainer\n\n---\nTransform your fitness journey with GymStreak, the ultimate AI Personal Trainer and Workout Tracker that delivers personalized training at a fraction of traditional personal trainer costs.\n\nHere's why GymStreak is the premier fitness tracker and workout creator:\n\n◆ AI-Powered Workout Creator: Generate dynamic, personalized workout plans that adapt to your progress, ensuring continuous growth as your ultimate gym tracker and strength training companion.\n\n◆ Smart Nutrition Tracking: Simply photogr",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/51/f5/e551f52c-89a5-4a73-9fbe-576779b32d60/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 107656060,
+      "size": 109586081,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/bc/b9/89bcb948-b030-1303-7ac5-5963c1f8aadb/24b413ac-3a13-4402-94e3-e7d9fa0fde89_0_guided_workout_leg_press.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/7b/68/927b6827-64ae-98fc-4d5d-807fd675107a/c41ba4f1-d43c-4d86-9fb7-7c477859f1b0_1_workout.png/392x696bb.png",
@@ -28000,11 +28000,11 @@
       },
       "versions": [
         {
-          "version": "6.3.5",
-          "date": "2026-06-14",
+          "version": "6.3.11",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/GymStreak: AI Personal Trainer-v6.3.5-riftysipas.ipa",
-          "size": 107656060
+          "downloadURL": "https://telos.ftp.sh/ipas/GymStreak: AI Personal Trainer-v6.3.11-riftysipas.ipa",
+          "size": 109586081
         }
       ],
       "category": "health-&-fitness"
@@ -29550,14 +29550,14 @@
       "bundleIdentifier": "com.fingersoft.hillclimbracing",
       "developerName": "Fingersoft",
       "subtitle": "Tweaked with SatellaJailed, fixipa1",
-      "version": "1.68.1",
-      "versionDate": "2026-06-13",
+      "version": "1.70.0",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Hill Climb Racing-v1.68.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Hill Climb Racing-v1.70.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nHill Climb Racing\n\n---\nPlay the original classic Hill Climb Racing! Race your way uphill in this physics based driving game, playable offline!\n\nMeet Bill, the young aspiring uphill racer. He is about to embark on a journey through Climb Canyon that takes him to where no ride has ever been before. With little respect to the laws of physics, Bill will not rest until he has conquered the highest hills up on the moon!\n\nFace challenges in unique hill climbing environments with a wide variety of cars to choose from. Earn po",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/d0/5d/62d05d2f-d100-3272-b8d7-b723e9e417e2/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 124414572,
+      "size": 127679941,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/3e/fa/a23efade-331c-9fa9-3d92-e8c0ca040f6d/e04755ec-4f02-4a16-baf6-4d6520d8f972_HillClimbRacingPlus_Screenshot_2208x1242_01.jpg/406x228bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/8a/d6/108ad6c5-e005-dd33-0d3f-73f89db3aeb1/46159458-1d88-446f-81b8-8735e23ef92a_HillClimbRacingPlus_Screenshot_2208x1242_02.jpg/406x228bb.jpg",
@@ -29582,11 +29582,11 @@
       },
       "versions": [
         {
-          "version": "1.68.1",
-          "date": "2026-06-13",
+          "version": "1.70.0",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Hill Climb Racing-v1.68.1-riftysipas.ipa",
-          "size": 124414572
+          "downloadURL": "https://telos.ftp.sh/ipas/Hill Climb Racing-v1.70.0-riftysipas.ipa",
+          "size": 127679941
         }
       ],
       "category": "games"
@@ -30427,14 +30427,14 @@
       "bundleIdentifier": "com.thehungrywasp.iamsober",
       "developerName": "I Am Sober LLC",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "8.6.7",
-      "versionDate": "2026-06-19",
+      "version": "8.6.8",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/I Am Sober-v8.6.7-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/I Am Sober-v8.6.8-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nI Am Sober\n\n---\nI Am Sober is more than just a free sobriety counter app.\n\nAlong with tracking your sober days, it helps you build new habits and provides ongoing motivation by connecting you to a wide network of people all striving for the same goal: staying sober one day at a time.\n\nThrough our growing sober community you can learn from others and contribute by sharing insights and tactics that have worked for you.\n\nThe I Am Sober app features:\n\n• Sober day tracker\nTo visualize how long you’ve been sober.\n\n•",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/db/06/f6db0686-b0e8-6b9b-fb3b-c00774e17f3c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 38948882,
+      "size": 39075032,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/75/69/147569b9-61b7-dbd0-c9bd-e0703e39f14a/64baf7b4-5fb2-4df1-8a2f-bd5b3b281f54_0_APP_IPHONE_55_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/03/84/d503847c-744b-8a0c-c520-e71886d8393e/45e1f965-0cd7-496d-b852-7fb3cfbada8c_1_APP_IPHONE_55_1.png/392x696bb.png",
@@ -30459,11 +30459,11 @@
       },
       "versions": [
         {
-          "version": "8.6.7",
-          "date": "2026-06-19",
+          "version": "8.6.8",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/I Am Sober-v8.6.7-riftysipas.ipa",
-          "size": 38948882
+          "downloadURL": "https://telos.ftp.sh/ipas/I Am Sober-v8.6.8-riftysipas.ipa",
+          "size": 39075032
         }
       ],
       "category": "lifestyle"
@@ -41105,15 +41105,15 @@
       "name": "Minutes",
       "bundleIdentifier": "ventures.slam.minutes",
       "developerName": "Minutes AI",
-      "subtitle": "Tweaked with AutoRcSideload, FilePickerFix",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
       "version": "1.12.3",
-      "versionDate": "2026-06-24",
-      "versionDescription": "Tweaks: AutoRcSideload, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Minutes_AI_Meeting_Note_Taker_v1_12_3_Pro_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, FilePickerFix, blatantsPatch\n\nMinutes: AI Meeting Note Taker\n\n---\nMinutes AI automatically does your meeting notes and transcriptions with AI. Minutes records audio and provides word for word transcripts with speakers labels. Then, it gives you formatted notes, summaries, and the ability to search for key terms/topics. You can ask questions like “What stats did Laura reference on her slide?.”\n\nMinutes takes care of your notes so you can stay focused on what’s important. It's build with privacy in mind, meaning Minutes will never sell or provide third-party acc",
+      "versionDate": "2026-06-25",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/Minutes: AI Meeting Note Taker-v1.12.3-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMinutes: AI Meeting Note Taker\n\n---\nMinutes AI automatically does your meeting notes and transcriptions with AI. Minutes records audio and provides word for word transcripts with speakers labels. Then, it gives you formatted notes, summaries, and the ability to search for key terms/topics. You can ask questions like “What stats did Laura reference on her slide?.”\n\nMinutes takes care of your notes so you can stay focused on what’s important. It's build with privacy in mind, meaning Minutes will never sell or provide third-party acc",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/5e/02/065e0268-b3f6-749b-f99e-db1d6dfa3d14/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 21986829,
+      "size": 18624819,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/20/25/852025a0-a8de-ddaa-4dd4-ffcab15e52ad/89602ad0-0336-447a-a947-cf44ff839a94_iPhone_5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/91/f0/4e91f072-f064-64e4-030a-eebd60c17430/0ca0891e-e9cc-42e2-bbcc-691796e369b7_iPhone_5.5-3.jpg/392x696bb.jpg",
@@ -41136,10 +41136,10 @@
       "versions": [
         {
           "version": "1.12.3",
-          "date": "2026-06-24",
-          "localizedDescription": "Tweaks: AutoRcSideload, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Minutes_AI_Meeting_Note_Taker_v1_12_3_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 21986829
+          "date": "2026-06-25",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/Minutes: AI Meeting Note Taker-v1.12.3-riftysipas.ipa",
+          "size": 18624819
         }
       ],
       "category": "productivity"
@@ -43637,14 +43637,14 @@
       "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
       "developerName": "MySwimPro, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "9.0.6",
-      "versionDate": "2026-06-15",
+      "version": "9.0.7",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.0.6-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.0.7-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMySwimPro: #1 Swim Workout App\n\n---\nSwim Smarter, Get Stronger, Get Faster with MySwimPro\n\nStruggling to improve your swim times or tired of planning your own workouts? MySwimPro is the #1 swim training app designed to help you swim faster, build strength, improve technique, and achieve your fitness goals with personalized swim and dryland workouts tailored to your speed, skill level, and goals.\n\nWhy MySwimPro?\n • Swim Faster in 30 Days: Get new, customized swim workouts every day to keep your training fresh and effective.\n • Buil",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/81/49/3581499d-1c46-3f4e-bbc7-318a3bbe65ba/AppIcon-prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 47339416,
+      "size": 47466663,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -43674,11 +43674,11 @@
       },
       "versions": [
         {
-          "version": "9.0.6",
-          "date": "2026-06-15",
+          "version": "9.0.7",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.0.6-riftysipas.ipa",
-          "size": 47339416
+          "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.0.7-riftysipas.ipa",
+          "size": 47466663
         }
       ],
       "category": "health-&-fitness"
@@ -53030,14 +53030,14 @@
       "bundleIdentifier": "com.maxty.gofitness",
       "developerName": "VGFIT LLC",
       "subtitle": "Tweaked with ProFit, blatantsPatch",
-      "version": "7.17.2",
-      "versionDate": "2026-06-08",
+      "version": "8.2.5",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: ProFit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/ProFit_Workout_Planner_v7_17_2_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ProFit_Workout_Planner_v8_2_5_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ProFit, blatantsPatch\n\nProFit: Workout Planner\n\n---\nStart training today to see tangible results and get fit!\n\nPro Fit is here to guide you and help you to building your core strength, melt your unwanted weight and improve your performances.\nWe are the most reliable and user-friendly application. Not only it is going to replace your traditional coach but also will let you track your performances in a simple way in order to make precise analyses about your workout. And it’s like having the best personal trainer in the palm of your hand, available",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/61/13/73611313-8661-f853-7a4b-ffabba4039f0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 52655115,
+      "size": 51098277,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/21/6f/08216f1f-d2fc-b69a-3904-31cae301571c/Screen_1.png/322x572bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/ad/a7/15ada720-f653-2fd6-2c7f-2dd01c1681a2/Screen_2.png/322x572bb.png",
@@ -53061,11 +53061,11 @@
       },
       "versions": [
         {
-          "version": "7.17.2",
-          "date": "2026-06-08",
+          "version": "8.2.5",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: ProFit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/ProFit_Workout_Planner_v7_17_2_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 52655115
+          "downloadURL": "https://telos.ftp.sh/ipas/ProFit_Workout_Planner_v8_2_5_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 51098277
         }
       ],
       "category": "health-&-fitness"
@@ -59338,14 +59338,14 @@
       "bundleIdentifier": "com.joytunes.SimplyGuitar",
       "developerName": "Simply Ltd",
       "subtitle": "Tweaked with SimplyCrack, blatantsPatch",
-      "version": "10.22",
-      "versionDate": "2026-06-15",
+      "version": "10.23",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Guitar_Learn_Guitar_v10_22_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Guitar_Learn_Guitar_v10_23_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SimplyCrack, blatantsPatch\n\nSimply Guitar - Learn Guitar\n\n---\nLearn to play the guitar at your own pace with step-by-step tutorials, made by world-class music teachers, and receive feedback from the app while you learn to play your favorite songs!\n\nNo experience needed | For all ages | Works with any guitar\n\n--- Make your musical dreams come true ---\n\n• Play chords & songs straight away!\n• Learn step by step with high-quality video lessons\n• Receive feedback from the app and know when you are playing correctly or need guidance\n• Learn all the necessary tec",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/3b/89/d13b890a-c2fb-7d29-15e0-fed281dc2f51/AppIconIOS26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 181215938,
+      "size": 186258937,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/1b/7f/131b7fcf-4a0d-f44c-7744-45dfa6084c44/7ba69f8c-9fb4-48e8-b6dd-3214d6bd0b32_01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/6d/11/dc6d11fd-86cb-e1a9-5639-c73d3bfa592a/b9bebd9f-db2c-4ee8-aefc-a1db98808c02_2.jpg/392x696bb.jpg",
@@ -59373,11 +59373,11 @@
       },
       "versions": [
         {
-          "version": "10.22",
-          "date": "2026-06-15",
+          "version": "10.23",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Guitar_Learn_Guitar_v10_22_Subscription_Unlocked_blatant.ipa",
-          "size": 181215938
+          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Guitar_Learn_Guitar_v10_23_Subscription_Unlocked_blatant.ipa",
+          "size": 186258937
         }
       ],
       "category": "education"
