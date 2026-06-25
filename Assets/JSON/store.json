@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.alohabrowser.alohabrowser",
     "com.kinemaster.kios",
     "background.remover.bg.eraser",
     "com.dopedevelopment.Panels",
-    "com.soundcloud.TouchApp",
-    "com.agent.super.extension.safari"
+    "com.soundcloud.TouchApp"
   ],
   "apps": [
     {
@@ -3128,14 +3128,14 @@
       "bundleIdentifier": "com.alohabrowser.alohabrowser",
       "developerName": "Aloha Mobile",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "8.6.0",
-      "versionDate": "2026-06-12",
+      "version": "8.7.0",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Aloha_Browser_Private_VPN_v8_6_0_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nAloha Browser - Private VPN",
+      "downloadURL": "https://telos.ftp.sh/ipas/Aloha_Browser_–_Private_VPN_v8_7_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nAloha Browser – Private VPN",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/8b/e8/a78be816-6997-584c-74f2-c2066945be62/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 122160587,
+      "size": 124308564,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/6c/04/336c0416-7441-8364-82b9-21f329a06a8d/03dc8695-4402-41e5-8257-0fa4feefcb9e_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/c6/c8/a5c6c8d9-cf16-199d-59bb-cf3b363ead33/52ccf9c1-82c7-4b72-ae37-6a99d47a2167_2.png/392x696bb.png",
@@ -3163,11 +3163,11 @@
       },
       "versions": [
         {
-          "version": "8.6.0",
-          "date": "2026-06-12",
+          "version": "8.7.0",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Aloha_Browser_Private_VPN_v8_6_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 122160587
+          "downloadURL": "https://telos.ftp.sh/ipas/Aloha_Browser_–_Private_VPN_v8_7_0_Subscription_Unlocked_blatant.ipa",
+          "size": 124308564
         }
       ],
       "category": "utilities"
@@ -79330,7 +79330,7 @@
     {
       "title": "⚙️ Telos Update 6.25",
       "identifier": "telos-update-2026-06-25",
-      "caption": "48 Apps Updated:\n• 18 Photo & Video\n• 8 Health & Fitness\n• 6 Games\n• 4 Education\n• 4 Music\n• 2 Productivity\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Utilities",
+      "caption": "50 Apps Updated:\n• 16 Photo & Video\n• 8 Health & Fitness\n• 6 Games\n• 6 Utilities\n• 4 Education\n• 4 Music\n• 2 Productivity\n• 2 Lifestyle\n• 2 Graphics & Design",
       "date": "2026-06-25",
       "tintColor": "#02433b",
       "notify": true,
