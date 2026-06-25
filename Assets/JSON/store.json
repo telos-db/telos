@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.gymstreak.GymStreakAI",
-    "com.blockpuzzle.us.ios",
-    "com.algoriddim.djay-iphone-free",
-    "com.fingersoft.hillclimbracing",
-    "ventures.slam.minutes"
+    "background.remover.bg.eraser",
+    "com.dopedevelopment.Panels",
+    "com.soundcloud.TouchApp",
+    "com.agent.super.extension.safari",
+    "com.path36.SpliceFree"
   ],
   "apps": [
     {
@@ -19756,14 +19756,14 @@
       "bundleIdentifier": "background.remover.bg.eraser",
       "developerName": "Video editor & maker app",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "2.15.0",
-      "versionDate": "2026-06-11",
+      "version": "2.16.0",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/AI Background Remover - Ereasy-v2.15.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AI Background Remover - Ereasy-v2.16.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nAI Background Remover - Ereasy",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/13/3b/a4133bee-978c-c711-2791-5490f56bf7f7/AppIconV2-0-0-1x_U007ephone-0-11-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 86633016,
+      "size": 88921923,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -19778,11 +19778,11 @@
       },
       "versions": [
         {
-          "version": "2.15.0",
-          "date": "2026-06-10",
+          "version": "2.16.0",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/AI Background Remover - Ereasy-v2.15.0-riftysipas.ipa",
-          "size": 86633016
+          "downloadURL": "https://telos.ftp.sh/ipas/AI Background Remover - Ereasy-v2.16.0-riftysipas.ipa",
+          "size": 88921923
         }
       ],
       "category": "graphics-&-design"
@@ -57279,14 +57279,14 @@
       "bundleIdentifier": "com.dopedevelopment.Panels",
       "developerName": "Appostrophe AB",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "9.41.1",
-      "versionDate": "2026-06-19",
+      "version": "9.42",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/SCRL: Photo Collage Maker-v9.41.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SCRL: Photo Collage Maker-v9.42-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nSCRL: Photo Collage Maker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/0e/04/6a0e0450-440d-6eee-b315-3b6c458f7322/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 65258684,
+      "size": 63983576,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/9f/cc/bf9fcc21-d31e-a730-109d-f0b037b8b55a/b50f3413-5af5-4401-afc8-59d1f050d406_IOS_5.5_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/dc/49/2adc49b4-9f3f-6591-8c4c-fe699045fd13/23d473c0-b9bb-4925-b93f-4d4a86fdee0f_IOS_5.5_2.jpg/392x696bb.jpg",
@@ -57310,11 +57310,11 @@
       },
       "versions": [
         {
-          "version": "9.41.1",
-          "date": "2026-06-19",
+          "version": "9.42",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/SCRL: Photo Collage Maker-v9.41.1-riftysipas.ipa",
-          "size": 65258684
+          "downloadURL": "https://telos.ftp.sh/ipas/SCRL: Photo Collage Maker-v9.42-riftysipas.ipa",
+          "size": 63983576
         }
       ],
       "category": "photo-&-video"
@@ -61177,14 +61177,14 @@
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "developerName": "SoundCloud Global Limited & Co KG",
       "subtitle": "Go+ Unlocked",
-      "version": "8.66.0",
-      "versionDate": "2026-06-23",
+      "version": "8.66.1",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: SoundCloudPlus, substrate, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.66.0 NoAds.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.66.1 NoAds.ipa",
       "localizedDescription": "Go+ Unlocked\n\nAppstore link : SoundCloud",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/32/6d/ef326dd6-73ee-e52a-df14-28c43d51fd1a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 116608350,
+      "size": 120303097,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/0e/9a/790e9a39-985d-ec35-8d6b-135fc84523da/ccfb3f9a-137d-4905-827f-40c6d6726ab1_iPad_Pro_1A.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/f1/7b/58f17b47-e6f8-86a6-276c-f46dd2f735a0/57293b7c-1d2e-4ccd-a634-892d4af7f8a1_iPad_Pro_2A.png/576x768bb.png",
@@ -61239,11 +61239,11 @@
       },
       "versions": [
         {
-          "version": "8.66.0",
-          "date": "2026-06-23",
+          "version": "8.66.1",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: SoundCloudPlus, substrate, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.66.0 NoAds.ipa",
-          "size": 116608350
+          "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.66.1 NoAds.ipa",
+          "size": 120303097
         }
       ],
       "category": "music"
@@ -62016,14 +62016,14 @@
       "bundleIdentifier": "com.path36.SpliceFree",
       "developerName": "Bending Spoons Apps ApS",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.28.65",
-      "versionDate": "2026-06-01",
+      "version": "4.28.66",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: ScanHero, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Splice_Video_Editor_&_Maker_v4_28_65_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Splice_Video_Editor_&_Maker_v4_28_66_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSplice - Video Editor & Maker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/dd/fe/38ddfe01-3ee4-bb6f-f64e-4acfcd43ed01/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 102841676,
+      "size": 102851795,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7e/c6/55/7ec65571-75e0-9235-8d78-25da5db63139/47812a97-29e7-4dde-a132-3dd884a04530_default__screenshots__iOS-5.5-in__01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/91/12/50/91125052-c348-515d-5933-b936c73a3cb0/6339ad05-07cb-4c91-a05a-e8bf6abd30ea_default__screenshots__iOS-5.5-in__02.jpg/392x696bb.jpg",
@@ -62048,11 +62048,11 @@
       },
       "versions": [
         {
-          "version": "4.28.65",
-          "date": "2026-05-27",
+          "version": "4.28.66",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: ScanHero, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Splice_Video_Editor_&_Maker_v4_28_65_Subscription_Unlocked_blatant.ipa",
-          "size": 102841676
+          "downloadURL": "https://telos.ftp.sh/ipas/Splice_Video_Editor_&_Maker_v4_28_66_Subscription_Unlocked_blatant.ipa",
+          "size": 102851795
         }
       ],
       "category": "photo-&-video"
@@ -65489,14 +65489,14 @@
       "bundleIdentifier": "com.agent.super.extension.safari",
       "developerName": "Super Agent, Inc",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.3.0",
-      "versionDate": "2026-06-16",
+      "version": "4.4.0",
+      "versionDate": "2026-06-25",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_3_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_4_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSuper Agent for Safari",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/b6/51/15b65158-89cb-d0a2-5af5-7440be0bde38/superagent-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 22289203,
+      "size": 25835088,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/08/54/730854bf-a830-da4f-b988-479c163d0558/af9c9ef5-aff8-4bfd-8d9c-289e3e771424_4.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/42/9b/47429b30-925b-13ee-d231-8bbedeba7581/e3ee2f2a-aaed-475c-bb6e-ef910d1f2ca5_5.jpg/392x696bb.jpg",
@@ -65514,11 +65514,11 @@
       },
       "versions": [
         {
-          "version": "4.3.0",
-          "date": "2026-06-16",
+          "version": "4.4.0",
+          "date": "2026-06-25",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_3_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 22289203
+          "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_4_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 25835088
         }
       ],
       "category": "utilities"
@@ -79330,7 +79330,7 @@
     {
       "title": "⚙️ Telos Update 6.25",
       "identifier": "telos-update-2026-06-25",
-      "caption": "52 Apps Updated:\n• 14 Health & Fitness\n• 10 Games\n• 10 Photo & Video\n• 6 Education\n• 4 Music\n• 4 Productivity\n• 4 Lifestyle",
+      "caption": "56 Apps Updated:\n• 20 Photo & Video\n• 8 Health & Fitness\n• 6 Games\n• 6 Music\n• 4 Education\n• 4 Graphics & Design\n• 4 Utilities\n• 2 Productivity\n• 2 Lifestyle",
       "date": "2026-06-25",
       "tintColor": "#02433b",
       "notify": true,
