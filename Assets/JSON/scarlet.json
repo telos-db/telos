@@ -37264,12 +37264,12 @@
       "bundleIdentifier": "com.joytunes.Draw",
       "developerName": "Simply Ltd",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SimplyCrack, blatantsPatch\n\nSimply Draw: Learn to Draw\n\n---\nLearn and practice drawing beautiful pencil drawings on paper.\n\n Creator Reviews:\n “Simply Draw makes creating art a very calming and fun experience! The app inspires you to draw your own way and gives you a personalized path that teaches you exactly what you’re interested in. It’s truly the best way to learn and develop your skills.”\n “Simply Draw made me hang my art on the fridge! Never in my life did I ever think I’d be proud enough of my work to do something like that, it’s really amazing”.",
-      "version": "1.6.35",
-      "versionDate": "2026-06-21T14:34:35-00:00",
-      "versionDescription": "Build 876 from @blatants",
-      "size": 135353515,
+      "version": "1.6.36",
+      "versionDate": "2026-06-26T14:28:34-00:00",
+      "versionDescription": "Build 891 from @blatants",
+      "size": 137768043,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/1c/b4/1f1cb47a-7c46-e5c0-5d41-01e445152aca/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_35_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_36_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "15.2",
       "supportedPlatforms": [
         "iOS"
@@ -37282,7 +37282,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Simply_Draw_Learn_to_Draw_v1_6_35_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Simply_Draw_Learn_to_Draw_v1_6_36_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -39215,6 +39215,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Splash_1.7.1_tg@Sa1y0miii.ipa"
+      }
+    },
+    {
+      "name": "sPlayer",
+      "bundleIdentifier": "com.solidus.iossimpleplayer",
+      "developerName": "s-joys Co., Ltd.",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\n- zFuse can play all video formats and encodings, allowing you to play video files on your mobile device without the need to convert to MP4.\n\n- zFuse supports ASS/SSA/SUP effect subtitles, enabling you to experience full subtitle effects just like on your PC/Mac.\n\n- zFuse features powerful networking technologies that allow you to play media from your PC or NAS directly, without occupying any space on your limited device storage and without needing to download anything.\n\n- zFuse also allows you",
+      "version": "1.12.130",
+      "versionDate": "2026-06-26T14:30:35-00:00",
+      "versionDescription": "Build 16958 from @binnichtaktivsipas",
+      "size": 94263483,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/ab/8d/14ab8dbe-39aa-44f4-1268-f4418be31d5b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/zFuse_1.12.130_酷卡.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "zFuse_1.12.130_酷卡.ipa"
       }
     },
     {
