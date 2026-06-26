@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.withopal.opal",
-    "com.robnorback.LiveTranscribe",
-    "boomer.Smart-Video",
-    "com.yazio.ios.YAZIO",
-    "com.solidus.iossimpleplayer"
+    "com.thewayapp.mobile",
+    "com.osmose-it.nursing",
+    "com.osmose-it.osmosis",
+    "tech.miidii.MDBlank",
+    "com.readdle.CalendarsLite"
   ],
   "apps": [
     {
@@ -10031,14 +10031,14 @@
       "bundleIdentifier": "com.readdle.CalendarsLite",
       "developerName": "Readdle Technologies Limited",
       "subtitle": "Tweaked with Calendars, blatantsPatch",
-      "version": "5.37.25",
-      "versionDate": "2026-06-14",
+      "version": "5.37.30",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: Calendars, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Calendars_Schedule_Planner_v5_37_25_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Calendars_Schedule_Planner_v5_37_30_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Calendars, blatantsPatch\n\nCalendars: Schedule Planner\n\n---\nCalendars by Readdle is the all-in-one calendar, task manager, daily planner, and habit tracker — seamlessly working across all your Apple devices: Mac, iPhone, iPad, and Apple Watch.\nPlan your day, build better habits, boost productivity, and stay organized with powerful features and smooth sync between all your devices.\nWhat you can do with Calendars:\n • View and manage your calendar with daily, weekly, and monthly views\n • Create events, set reminders, and never miss important dates\n • Use th",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/16/79/3f1679c8-a5a1-36c3-80a3-f43ed6ef1a83/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 305055619,
+      "size": 307227654,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/ae/c7/39aec7ed-f739-0217-9073-ec40c4bbc6c8/cacd5010-b49f-47c0-a3e9-4c5aa79a4d62_iPad_art_1_EN.jpg/552x414bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/08/b2/9a08b25c-1b45-3771-d455-c9808fd91f40/pr_source.jpg/552x414bb.jpg",
@@ -10062,16 +10062,17 @@
           "NSContactsUsageDescription": "To be able to invite Email Contacts, Calendars needs to access your Contacts.",
           "NSCalendarsUsageDescription": "To be able to show your events, Calendars needs to access your Calendar.",
           "NSRemindersUsageDescription": "To be able to show your Tasks, Calendars needs to access your Reminders.",
-          "NSSiriUsageDescription": "This will let Siri respond to your request in showing your agenda."
+          "NSSiriUsageDescription": "This will let Siri respond to your request in showing your agenda.",
+          "NSUserTrackingUsageDescription": "Your data will be used to refine our ad strategies and deliver more relevant content."
         }
       },
       "versions": [
         {
-          "version": "5.37.25",
-          "date": "2026-06-14",
+          "version": "5.37.30",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: Calendars, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Calendars_Schedule_Planner_v5_37_25_Subscription_Unlocked_blatant.ipa",
-          "size": 305055619
+          "downloadURL": "https://telos.ftp.sh/ipas/Calendars_Schedule_Planner_v5_37_30_Subscription_Unlocked_blatant.ipa",
+          "size": 307227654
         }
       ],
       "category": "productivity"
@@ -47530,52 +47531,17 @@
     },
     {
       "name": "Osmosis",
-      "bundleIdentifier": "com.osmose-it.nursing",
-      "developerName": "Knowledge Diffusion",
-      "subtitle": "Tweaked with CachefixPatch, CydiaSubstrate",
-      "version": "6.0.5",
-      "versionDate": "2026-06-05",
-      "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisNursing, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Nursing_Videos_&_Notes_v6_0_5_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, OsmosisNursing, blatantsPatch\n\nOsmosis Nursing Videos & Notes\n\n---\nStruggling to understand nursing concepts or prepare for your NCLEX exam? The reading never ends, the exams keep coming and some days it feels like too much. Nursing Exam Prep by Osmosis creates hundreds of short, illustrated nursing and essential sciences videos so you can focus on what matters most without drowning in the rest.\n\nWith Nursing Exam Prep, you can study smarter, retain more and apply what you have learned in an exam environment. The app offers videos, NCLEX-style questions, med ta",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/4e/ec/d14eecfd-395d-e978-aa68-ccceb1693bf5/NursingAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 27461598,
-      "screenshots": [],
-      "appPermissions": {
-        "entitlements": [
-          "aps-environment",
-          "com.apple.developer.associated-domains"
-        ],
-        "privacy": {
-          "NSMicrophoneUsageDescription": "Allow nursing to access your microphone",
-          "NSUserTrackingUsageDescription": "We use your data only to measure the effectiveness of our advertising campaigns."
-        }
-      },
-      "versions": [
-        {
-          "version": "6.0.5",
-          "date": "2026-06-05",
-          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisNursing, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Nursing_Videos_&_Notes_v6_0_5_Subscription_Unlocked_blatant.ipa",
-          "size": 27461598
-        }
-      ],
-      "category": "medical"
-    },
-    {
-      "name": "Osmosis",
       "bundleIdentifier": "com.osmose-it.osmosis",
       "developerName": "Knowledge Diffusion",
       "subtitle": "Tweaked with CachefixPatch, CydiaSubstrate",
-      "version": "6.0.5",
-      "versionDate": "2026-06-11",
-      "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis Full Access 6.0.5.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, OsmosisPatch\n\nOsmosis: Medical School Notes\n\n---\nStruggling to understand medical concepts or prepare for the USMLE? Osmosis is the medical exam study app designed to help med students learn medicine faster, improve information retention and pass medical board exams with flying colours.\n\nTrusted by 8,000,000+ medical, nursing, PA, pharmacy and dental students, this medical learning app turns downtime into productive study time with an expansive library of medical videos, flashcards, quizzes, exam-style questions and more.\n\nInstead of memorizin",
+      "version": "6.0.7",
+      "versionDate": "2026-06-26",
+      "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisMedical, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Med_School_Study_App_v6_0_7_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, OsmosisMedical, blatantsPatch\n\nOsmosis - Med School Study App\n\n---\nStruggling to understand medical concepts or prepare for the USMLE? Osmosis is the medical exam study app designed to help med students learn medicine faster, improve information retention and pass medical board exams with flying colours.\n\nTrusted by 8,000,000+ medical, nursing, PA, pharmacy and dental students, this medical learning app turns downtime into productive study time with an expansive library of medical videos, flashcards, quizzes, exam-style questions and more.\n\nInstead of memorizin",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/b2/3c/cdb23ca2-e22c-e968-6c87-43f72dd8825a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 25717983,
+      "size": 27792918,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -47589,11 +47555,46 @@
       },
       "versions": [
         {
-          "version": "6.0.5",
-          "date": "2026-06-11",
-          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Osmosis Full Access 6.0.5.ipa",
-          "size": 25717983
+          "version": "6.0.7",
+          "date": "2026-06-26",
+          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisMedical, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Med_School_Study_App_v6_0_7_Subscription_Unlocked_blatant.ipa",
+          "size": 27792918
+        }
+      ],
+      "category": "medical"
+    },
+    {
+      "name": "Osmosis",
+      "bundleIdentifier": "com.osmose-it.nursing",
+      "developerName": "Knowledge Diffusion",
+      "subtitle": "Tweaked with CachefixPatch, CydiaSubstrate",
+      "version": "6.0.7",
+      "versionDate": "2026-06-26",
+      "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisNursing, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Nursing_Exam_Prep_v6_0_7_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, OsmosisNursing, blatantsPatch\n\nOsmosis - Nursing Exam Prep\n\n---\nStruggling to understand nursing concepts or prepare for your NCLEX exam? The reading never ends, the exams keep coming and some days it feels like too much. Nursing Exam Prep by Osmosis creates hundreds of short, illustrated nursing and essential sciences videos so you can focus on what matters most without drowning in the rest.\n\nWith Nursing Exam Prep, you can study smarter, retain more and apply what you have learned in an exam environment. The app offers videos, NCLEX-style questions, med ta",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/4e/ec/d14eecfd-395d-e978-aa68-ccceb1693bf5/NursingAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 27816708,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.associated-domains"
+        ],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Allow nursing to access your microphone",
+          "NSUserTrackingUsageDescription": "We use your data only to measure the effectiveness of our advertising campaigns."
+        }
+      },
+      "versions": [
+        {
+          "version": "6.0.7",
+          "date": "2026-06-26",
+          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisNursing, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Nursing_Exam_Prep_v6_0_7_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 27816708
         }
       ],
       "category": "medical"
@@ -68691,14 +68692,14 @@
       "bundleIdentifier": "com.thewayapp.mobile",
       "developerName": "The Way App Inc",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.20.3",
-      "versionDate": "2026-06-19",
+      "version": "1.20.4",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.20.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.20.4-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nThe Way: Meditation Path\n\n---\nTHE WAY is a new kind of meditation app: a single path, led by an authorized Zen master, that guides you on a deep meditation training program. Study alongside Zen master Henry Shukman as you uncover the deep peace, love, insight and awakening that meditation can bring.\n\nThe simple path to deeper meditation.\n\nWith THE WAY, you will:\n\n Never feel overwhelmed by choice. The Way guides you step-by-step along a single, linear path through all the key areas of a deep and fulfilling meditation practic",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/2c/d5/452cd5fc-13c4-9c34-63f3-ba7480d43e25/app-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 97283281,
+      "size": 97487446,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/ee/4f/18ee4f16-774c-831b-b0f7-cad9f715bb7e/ipad-appstore-12.9-INCH-2048_U00d72732-screen-1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/06/43/cd0643eb-907d-8aba-a63d-93f70d937998/ipad-appstore-12.9-INCH-2048_U00d72732-screen-2.png/576x768bb.png",
@@ -68728,11 +68729,11 @@
       },
       "versions": [
         {
-          "version": "1.20.3",
-          "date": "2026-06-19",
+          "version": "1.20.4",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.20.3-riftysipas.ipa",
-          "size": 97283281
+          "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.20.4-riftysipas.ipa",
+          "size": 97487446
         }
       ],
       "category": "lifestyle"
