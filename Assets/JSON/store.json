@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.ADPTVLTD.push",
+    "com.moonly.Moonly",
     "com.uqxuwtxbbu.parkingjam",
     "nutrition.coach",
-    "com.ld.TakeBrowser",
-    "com.zerone.hidesktop",
-    "cameronnazemi.Tappy"
+    "com.ld.TakeBrowser"
   ],
   "apps": [
     {
@@ -41905,14 +41905,14 @@
       "bundleIdentifier": "com.moonly.Moonly",
       "developerName": "Cosmic Vibrations, Inc.",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "2.8.2",
-      "versionDate": "2026-06-17",
+      "version": "2.8.3",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: Moonly, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Moonly_Moon_Phases_&_Calendar_v2_8_2_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Moonly_Moon_Phases_&_Calendar_v2_8_3_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nMoonly: Moon Phases & Calendar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/46/a3/0e46a324-644f-5f1e-792b-8b9f51607d4b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 126637007,
+      "size": 128743614,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/df/cb/1cdfcb69-48e0-0602-99f5-cbc5f694d6eb/1763a805-2657-47a8-b660-4ca84c4f773e_1_cover_EN_8.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/1f/bb/c31fbbce-1e89-6be7-d96e-58b17942cf6b/f0d5937d-5e51-490a-ae6c-c4a2ae3b5915_2_Personal_Tips_EN_8.jpg/392x696bb.jpg",
@@ -41939,11 +41939,11 @@
       },
       "versions": [
         {
-          "version": "2.8.2",
-          "date": "2026-06-17",
+          "version": "2.8.3",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: Moonly, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Moonly_Moon_Phases_&_Calendar_v2_8_2_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 126637007
+          "downloadURL": "https://telos.ftp.sh/ipas/Moonly_Moon_Phases_&_Calendar_v2_8_3_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 128743614
         }
       ],
       "category": "lifestyle"
@@ -53187,14 +53187,14 @@
       "bundleIdentifier": "com.ADPTVLTD.push",
       "developerName": "ADPTV LIMITED",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "3.12.11",
-      "versionDate": "2026-06-16",
+      "version": "3.12.12",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: AutoRcSideload, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/PUSH_Workout_&_Gym_Tracker_v3_12_11_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/PUSH_Workout_&_Gym_Tracker_v3_12_12_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPUSH Workout & Gym Tracker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/cc/d3/5bccd320-4e17-bcf0-db1c-a18aab91d9d5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 69552567,
+      "size": 69554840,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -53219,11 +53219,11 @@
       },
       "versions": [
         {
-          "version": "3.12.11",
-          "date": "2026-06-16",
+          "version": "3.12.12",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: AutoRcSideload, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/PUSH_Workout_&_Gym_Tracker_v3_12_11_Subscription_Unlocked_blatant.ipa",
-          "size": 69552567
+          "downloadURL": "https://telos.ftp.sh/ipas/PUSH_Workout_&_Gym_Tracker_v3_12_12_Subscription_Unlocked_blatant.ipa",
+          "size": 69554840
         }
       ],
       "category": "health-&-fitness"
@@ -79526,7 +79526,7 @@
     {
       "title": "⚙️ Telos Update 6.26",
       "identifier": "telos-update-2026-06-26",
-      "caption": "22 Apps Updated:\n• 6 Games\n• 4 Photo & Video\n• 4 Utilities\n• 4 Health & Fitness\n• 2 Productivity\n• 2 Graphics & Design",
+      "caption": "26 Apps Updated:\n• 6 Health & Fitness\n• 4 Games\n• 4 Photo & Video\n• 4 Utilities\n• 4 Lifestyle\n• 2 Productivity\n• 2 Graphics & Design",
       "date": "2026-06-26",
       "tintColor": "#02433b",
       "notify": true,
