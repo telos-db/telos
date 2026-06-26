@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.solidus.iossimpleplayer",
-    "com.joytunes.Draw",
-    "com.snowcorp.glowup",
-    "org.moonfin.app",
-    "com.christianselig.Apollo"
+    "com.withopal.opal",
+    "com.robnorback.LiveTranscribe",
+    "boomer.Smart-Video",
+    "com.yazio.ios.YAZIO",
+    "com.solidus.iossimpleplayer"
   ],
   "apps": [
     {
@@ -10725,14 +10725,14 @@
       "bundleIdentifier": "boomer.Smart-Video",
       "developerName": "Captions, LLC (US)",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "13.22.0",
-      "versionDate": "2026-06-19",
+      "version": "13.23.0",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.22.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.23.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nCaptions: For Talking Videos\n\n---\nAI EDIT THAT EDITS LIKE A PROFESSIONAL VIDEO EDITOR\n\nBuilt by Mirage™, Captions is an AI video generator and video editor that makes it easy to go from idea to ready-to-share content, no experience needed.\n\nGet started by importing a video or generating engaging content from scratch using text to video. You can create an AI actor or upload a selfie to create a personal avatar, allowing you to produce polished footage of yourself without ever needing to record again.\n\nFrom there, skip the hours s",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/1c/9b/471c9b97-d1e5-ddcf-5906-5f61e4036fce/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 103541642,
+      "size": 107957585,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/5b/87/b05b8741-4960-1913-3f58-eb3cf3bff922/2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/2a/a6/942aa6f7-e910-aab9-be7f-1ff8d5de1a95/3.png/392x696bb.png",
@@ -10762,11 +10762,11 @@
       },
       "versions": [
         {
-          "version": "13.22.0",
-          "date": "2026-06-19",
+          "version": "13.23.0",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.22.0-riftysipas.ipa",
-          "size": 103541642
+          "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.23.0-riftysipas.ipa",
+          "size": 107957585
         }
       ],
       "category": "photo-&-video"
@@ -37621,14 +37621,14 @@
       "bundleIdentifier": "com.robnorback.LiveTranscribe",
       "developerName": "Mighty Fine Apps LLC",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.64",
-      "versionDate": "2026-06-22",
+      "version": "2.64.1",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.64-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.64.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nLive Transcribe\n\n---\nLive Captioning for d/Deaf and hard of hearing in 145+ languages. Built for simplicity and ease of use. [We are not associated with Google.]\n\nUsers love it:\n“Just so you know, this app has changed my 86 year old mother's life. It is simple and easy for her and her friends to use. This is so important for the elderly since so many other apps are way too complicated. She can really have one on one conversations, especially with me, which is so very important.”\n- Mark M\n\nDoctors trust it:\n\"I use th",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/7e/ae/1e7eaeee-70f4-cc0a-61d4-fc0615410d1e/AppIconProduction-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 51676316,
+      "size": 51672620,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/52/87/33528769-24aa-edc0-1501-8fce8721fb5e/fa04c1ee-2a3a-47a7-8efe-5d3ed1ecd22e_Frame_56.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/20/00/3e20003b-6ee8-d721-c524-2d3fcd6bdc01/f1e95d0e-fa96-41bd-8f26-4116ff2069e2_Frame_63.jpg/392x696bb.jpg",
@@ -37651,11 +37651,11 @@
       },
       "versions": [
         {
-          "version": "2.64",
-          "date": "2026-06-22",
+          "version": "2.64.1",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.64-riftysipas.ipa",
-          "size": 51676316
+          "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.64.1-riftysipas.ipa",
+          "size": 51672620
         }
       ],
       "category": "utilities"
@@ -46882,14 +46882,14 @@
       "bundleIdentifier": "com.withopal.opal",
       "developerName": "Opal OS",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.2",
-      "versionDate": "2026-06-23",
+      "version": "4.2.1",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Opal: Screen Time Control-v4.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Opal: Screen Time Control-v4.2.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nOpal: Screen Time Control\n\n---\nAchieve screen time control with the world’s most-loved screen time app! Opal is the fun, free Screen Time app to improve your focus and make the most out of every day.\n\n5 to 6 hours. That’s the average time you’ll spend looking at your phone today, often without realizing it. It's time to fight back. With a combination of screen time control, app limits, app blockers, real time data, leaderboards and rewards, you will focus better and accomplish your dreams, just like Opal’s members.\n\nAs of Nov",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/bb/a8/6bbba8b2-0d5e-0646-f64e-774a7a770108/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 166649806,
+      "size": 165334144,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/43/9e/26439e3c-490f-2d10-6bf4-bb10fc4b44e8/70c7014e-d6a0-4414-a078-4943d4866c5b_1040421972.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/0c/cd/b10ccd1e-667b-c6f7-c1b5-e9e932c8d913/75f3b4a0-a280-4993-8776-db5178b03c98_2.jpg/392x696bb.jpg",
@@ -46917,11 +46917,11 @@
       },
       "versions": [
         {
-          "version": "4.2",
-          "date": "2026-06-23",
+          "version": "4.2.1",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Opal: Screen Time Control-v4.2-riftysipas.ipa",
-          "size": 166649806
+          "downloadURL": "https://telos.ftp.sh/ipas/Opal: Screen Time Control-v4.2.1-riftysipas.ipa",
+          "size": 165334144
         }
       ],
       "category": "productivity"
@@ -78255,14 +78255,14 @@
       "bundleIdentifier": "com.yazio.ios.YAZIO",
       "developerName": "YAZIO",
       "subtitle": "Tweaked with Yazio, blatantsPatch",
-      "version": "26.25.0",
-      "versionDate": "2026-06-22",
+      "version": "26.26.2",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v26_25_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v26_26_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Yazio, blatantsPatch\n\nAI Calorie Tracker by Yazio\n\n---\nWelcome to Yazio, the most effective AI calorie tracker, intermittent fasting app and food tracker for losing weight without dieting!\n\nTrack calories, eat better and reach your goals with Yazio’s free calorie counter app!\nYazio is your all-in-one solution, whether you're aiming for a calorie deficit, tracking meals or looking for an advanced AI calorie tracker. Designed to support sustainable weight loss, muscle gain and weight maintenance, Yazio empowers you to make smart food choices with the",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/f5/53/69f55376-d2af-5f99-ece4-0427b0aa4a87/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 209870275,
+      "size": 140956283,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/1b/ed/dd1bed03-d11e-5e69-88b3-10c1b502e14e/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a8/03/01a803c9-f793-71e8-02c8-b0a84d66334b/ea43d2d8-5944-4881-b46a-1cca3413f608_1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
@@ -78291,11 +78291,11 @@
       },
       "versions": [
         {
-          "version": "26.25.0",
-          "date": "2026-06-22",
+          "version": "26.26.2",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v26_25_0_Subscription_Unlocked_blatant.ipa",
-          "size": 209870275
+          "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v26_26_2_Subscription_Unlocked_blatant.ipa",
+          "size": 140956283
         }
       ],
       "category": "health-&-fitness"
