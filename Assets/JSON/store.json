@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.solidus.iossimpleplayer",
-    "com.joytunes.Draw",
-    "com.snowcorp.glowup",
-    "org.moonfin.app",
-    "com.christianselig.Apollo"
+    "com.withopal.opal",
+    "com.robnorback.LiveTranscribe",
+    "boomer.Smart-Video",
+    "com.yazio.ios.YAZIO",
+    "com.solidus.iossimpleplayer"
   ],
   "apps": [
     {
@@ -10657,14 +10657,14 @@
       "bundleIdentifier": "boomer.Smart-Video",
       "developerName": "Captions, LLC (US)",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "13.22.0",
-      "versionDate": "2026-06-19",
+      "version": "13.23.0",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.22.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.23.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nCaptions: For Talking Videos",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/1c/9b/471c9b97-d1e5-ddcf-5906-5f61e4036fce/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 103541642,
+      "size": 107957585,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/5b/87/b05b8741-4960-1913-3f58-eb3cf3bff922/2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/2a/a6/942aa6f7-e910-aab9-be7f-1ff8d5de1a95/3.png/392x696bb.png",
@@ -10694,11 +10694,11 @@
       },
       "versions": [
         {
-          "version": "13.22.0",
-          "date": "2026-06-19",
+          "version": "13.23.0",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.22.0-riftysipas.ipa",
-          "size": 103541642
+          "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.23.0-riftysipas.ipa",
+          "size": 107957585
         }
       ],
       "category": "photo-&-video"
@@ -37142,14 +37142,14 @@
       "bundleIdentifier": "com.robnorback.LiveTranscribe",
       "developerName": "Mighty Fine Apps LLC",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "2.64",
-      "versionDate": "2026-06-22",
+      "version": "2.64.1",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.64-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.64.1-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nLive Transcribe",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/7e/ae/1e7eaeee-70f4-cc0a-61d4-fc0615410d1e/AppIconProduction-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 51676316,
+      "size": 51672620,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/52/87/33528769-24aa-edc0-1501-8fce8721fb5e/fa04c1ee-2a3a-47a7-8efe-5d3ed1ecd22e_Frame_56.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/20/00/3e20003b-6ee8-d721-c524-2d3fcd6bdc01/f1e95d0e-fa96-41bd-8f26-4116ff2069e2_Frame_63.jpg/392x696bb.jpg",
@@ -37172,11 +37172,11 @@
       },
       "versions": [
         {
-          "version": "2.64",
-          "date": "2026-06-22",
+          "version": "2.64.1",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.64-riftysipas.ipa",
-          "size": 51676316
+          "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.64.1-riftysipas.ipa",
+          "size": 51672620
         }
       ],
       "category": "utilities"
@@ -46451,14 +46451,14 @@
       "bundleIdentifier": "com.withopal.opal",
       "developerName": "Opal OS",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "4.2",
-      "versionDate": "2026-06-23",
+      "version": "4.2.1",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Opal: Screen Time Control-v4.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Opal: Screen Time Control-v4.2.1-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nOpal: Screen Time Control",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/bb/a8/6bbba8b2-0d5e-0646-f64e-774a7a770108/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 166649806,
+      "size": 165334144,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/43/9e/26439e3c-490f-2d10-6bf4-bb10fc4b44e8/70c7014e-d6a0-4414-a078-4943d4866c5b_1040421972.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/0c/cd/b10ccd1e-667b-c6f7-c1b5-e9e932c8d913/75f3b4a0-a280-4993-8776-db5178b03c98_2.jpg/392x696bb.jpg",
@@ -46486,11 +46486,11 @@
       },
       "versions": [
         {
-          "version": "4.2",
-          "date": "2026-06-23",
+          "version": "4.2.1",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Opal: Screen Time Control-v4.2-riftysipas.ipa",
-          "size": 166649806
+          "downloadURL": "https://telos.ftp.sh/ipas/Opal: Screen Time Control-v4.2.1-riftysipas.ipa",
+          "size": 165334144
         }
       ],
       "category": "productivity"
@@ -77124,14 +77124,14 @@
       "bundleIdentifier": "com.yazio.ios.YAZIO",
       "developerName": "YAZIO",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "26.25.0",
-      "versionDate": "2026-06-22",
+      "version": "26.26.2",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v26_25_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v26_26_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nAI Calorie Tracker by Yazio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/f5/53/69f55376-d2af-5f99-ece4-0427b0aa4a87/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 209870275,
+      "size": 140956283,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/1b/ed/dd1bed03-d11e-5e69-88b3-10c1b502e14e/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a8/03/01a803c9-f793-71e8-02c8-b0a84d66334b/ea43d2d8-5944-4881-b46a-1cca3413f608_1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
@@ -77160,11 +77160,11 @@
       },
       "versions": [
         {
-          "version": "26.25.0",
-          "date": "2026-06-22",
+          "version": "26.26.2",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v26_25_0_Subscription_Unlocked_blatant.ipa",
-          "size": 209870275
+          "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v26_26_2_Subscription_Unlocked_blatant.ipa",
+          "size": 140956283
         }
       ],
       "category": "health-&-fitness"
@@ -79605,7 +79605,7 @@
     {
       "title": "⚙️ Telos Update 6.26",
       "identifier": "telos-update-2026-06-26",
-      "caption": "38 Apps Updated:\n• 6 Photo & Video\n• 6 Entertainment\n• 4 Games\n• 4 Utilities\n• 4 News\n• 4 Health & Fitness\n• 4 Education\n• 2 Productivity\n• 2 Graphics & Design\n• 2 Lifestyle",
+      "caption": "54 Apps Updated:\n• 14 Photo & Video\n• 8 Utilities\n• 8 Health & Fitness\n• 6 Productivity\n• 4 Games\n• 4 News\n• 4 Entertainment\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Education",
       "date": "2026-06-26",
       "tintColor": "#02433b",
       "notify": true,
