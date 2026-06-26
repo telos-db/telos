@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.ld.TakeBrowser",
     "com.zerone.hidesktop",
     "cameronnazemi.Tappy",
     "io.fadel.TeleprompterX",
-    "com.sugarmo.ScrollClip",
-    "com.calculated.laurene"
+    "com.sugarmo.ScrollClip"
   ],
   "apps": [
     {
@@ -3177,14 +3177,14 @@
       "bundleIdentifier": "com.ld.TakeBrowser",
       "developerName": "Baoding Lehuo Network Technology Co., Ltd.",
       "subtitle": "Alook for iOS",
-      "version": "22.6",
-      "versionDate": "2026-06-25",
+      "version": "22.7",
+      "versionDate": "2026-06-26",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.6.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.7.ipa",
       "localizedDescription": "Alook Browser - 8x Speed",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/48/46/5d484629-5050-ec50-2586-6398095fda10/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 12276170,
+      "size": 12278132,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/66/ae/6166aecb-a256-1f0e-38ee-03d31a42b123/mzl.nwwaqpwn.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/59/28/e75928c8-ce3e-a099-c742-ddbeb91451ec/mzl.sksamjyd.png/392x696bb.png",
@@ -3205,11 +3205,11 @@
       },
       "versions": [
         {
-          "version": "22.6",
-          "date": "2026-06-25",
+          "version": "22.7",
+          "date": "2026-06-26",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.6.ipa",
-          "size": 12276170
+          "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.7.ipa",
+          "size": 12278132
         }
       ],
       "category": "utilities"
@@ -79526,7 +79526,7 @@
     {
       "title": "⚙️ Telos Update 6.26",
       "identifier": "telos-update-2026-06-26",
-      "caption": "14 Apps Updated:\n• 4 Photo & Video\n• 4 Graphics & Design\n• 2 Games\n• 2 Utilities\n• 2 Productivity",
+      "caption": "16 Apps Updated:\n• 6 Utilities\n• 4 Photo & Video\n• 2 Games\n• 2 Productivity\n• 2 Graphics & Design",
       "date": "2026-06-26",
       "tintColor": "#02433b",
       "notify": true,
