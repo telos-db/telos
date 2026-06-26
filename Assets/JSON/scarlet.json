@@ -7048,6 +7048,31 @@
       }
     },
     {
+      "name": "CarInfo",
+      "bundleIdentifier": "com.cuvora.carinfoios",
+      "developerName": "Cuvora",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nCarInfo is your all-in-one app for all your vehicle information needs and RTO vehicle information. You can check challans, sell your car, buy insurance, purchase a new car, get instant car loans, and access Parivahan or MParivahan services, all in one place. Effortlessly manage all your vehicles with the CarInfo app.\n\nVehicle owner details\nCheck challans and pay online\nBuy and renew car or bike insurance\nCheck pollution expiry date and set reminders\nRecharge FASTag\nInstant car loans\nService hist",
+      "version": "4.8.2",
+      "versionDate": "2026-06-26T18:44:16-00:00",
+      "versionDescription": "Build 4 from @thescholarslounge",
+      "size": 44419944,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/1c/af/6a1caf37-38f1-4421-c263-e9e616fb810e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.cuvora.carinfoios-4.8.2-eeveedecrypter.ipa",
+      "minOSVersion": "14.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.cuvora.carinfoios-4.8.2-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "Carnivore",
       "bundleIdentifier": "com.lappir.carnivore",
       "developerName": "Zinaida Davydova",
@@ -27697,12 +27722,12 @@
       "bundleIdentifier": "com.neo.NeoMan",
       "developerName": "Space-Time Transformation Technology Co., Ltd.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NeoServer, blatantsPatch\n\nNeoServer: SSH Client | Terminal\n\n---\nNeoServer offers a comprehensive management solution via SSH without additional software installation for your servers, NAS (Network Attached Storage), and Linux-based routers across iPhone, iPad, and Mac platforms. It supports terminal remote connections, multi-server script execution, container management, SFTP file management, and common performance data display.\n\n◉ Free Features:\n◦ Supports SFTP browsing of server files, allowing editing (with syntax highlighting for common languages), renam",
-      "version": "8.2.5",
-      "versionDate": "2026-06-25T20:27:57-00:00",
-      "versionDescription": "Build 1124 from @blatants",
-      "size": 28577591,
+      "version": "8.2.6",
+      "versionDate": "2026-06-26T18:46:01-00:00",
+      "versionDescription": "Build 1126 from @blatants",
+      "size": 28587248,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/a9/9d/55a99db2-bef1-8618-f91a-7404d2e46f00/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_2_5_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_2_6_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "16.4",
       "supportedPlatforms": [
         "iOS"
@@ -27715,7 +27740,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "NeoServer_SSH_Client_Terminal_v8_2_5_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "NeoServer_SSH_Client_Terminal_v8_2_6_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -29821,6 +29846,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Outlanders2_18.0-Billieve.ipa"
+      }
+    },
+    {
+      "name": "Outlook",
+      "bundleIdentifier": "com.microsoft.Office.Outlook",
+      "developerName": "Microsoft Corporation",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nOutlook lets you bring all your email accounts and calendars in one convenient spot. Whether it’s staying on top of your inbox or scheduling the next big thing, we make it easy to be your most productive, organised and connected self.\n\nHere's what you'll love about Outlook for iOS:\n\n- Focus on the right things with our smart inbox - we help you sort between messages you need to act on straight away and everything else.\n- Swipe to quickly schedule, delete and archive messages.\n- Share your meetin",
+      "version": "5.2624.0",
+      "versionDate": "2026-06-26T18:42:52-00:00",
+      "versionDescription": "Build 50497676 from @thescholarslounge",
+      "size": 210834419,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/21/5c/50215ca0-c524-8e0f-c4a4-5631d756afed/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.microsoft.Office.Outlook-5.2624.0-eeveedecrypter.ipa",
+      "minOSVersion": "18.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.microsoft.Office.Outlook-5.2624.0-eeveedecrypter.ipa"
       }
     },
     {
@@ -34694,12 +34745,12 @@
       "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
       "developerName": "Glucobit Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nReframe: Drink Less & Thrive\n\n---\nReframe is the #1 alcohol reduction app, built to help you drink less and live more. Whether your goal is to cut back or quit drinking entirely, Reframe’s neuroscience approach can help you change the way alcohol shows up in your life.\n\nWith a core 160-day, evidence-based, education program, progress tracking, a private community, and a multitude of tools (think meditations, games, and more!), you’ve got everything you need to change your relationship with booze at the click of a button.\n\nNeed e",
-      "version": "3.9.71",
-      "versionDate": "2026-06-22T18:43:54-00:00",
-      "versionDescription": "Build 2152 from @riftysIPAlibrary",
-      "size": 236636673,
+      "version": "3.9.72",
+      "versionDate": "2026-06-26T18:54:29-00:00",
+      "versionDescription": "Build 2235 from @riftysIPAlibrary",
+      "size": 242833857,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/07/cc/3107cc33-dd6e-3b8d-a2aa-d9dc33f80b01/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.71-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.72-riftysipas.ipa",
       "minOSVersion": "16.4",
       "supportedPlatforms": [
         "iOS"
@@ -34711,7 +34762,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Reframe: Drink Less & Thrive-v3.9.71-riftysipas.ipa"
+        "originalFile": "Reframe: Drink Less & Thrive-v3.9.72-riftysipas.ipa"
       }
     },
     {
