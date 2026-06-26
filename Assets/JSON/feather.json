@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "cameronnazemi.Tappy",
     "io.fadel.TeleprompterX",
     "com.sugarmo.ScrollClip",
     "com.calculated.laurene",
-    "com.ahaf.mshion",
-    "zachsim.one.Petty"
+    "com.ahaf.mshion"
   ],
   "apps": [
     {
@@ -67325,14 +67325,14 @@
       "bundleIdentifier": "cameronnazemi.Tappy",
       "developerName": "Cameron Nazemi",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "5.3.0",
-      "versionDate": "2026-06-14",
+      "version": "5.6.2",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tappy: Self Care Fidgeter-v5.3.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tappy: Self Care Fidgeter-v5.6.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nTappy: Self Care Fidgeter\n\n---\nWelcome to Tappy, The Ultimate Sensory Fidget & Wellness Companion.\n\nTappy is a feature-packed self-care fidgeting app designed to help you reduce stress and anxiety in a fun and satisfying way! As you tap or slide, you will enjoy incredible haptic responses and sound effects. And there is also so much more to Tappy! Discover new ways to stay mindful, boost your mood, and find your daily calm. You'll find great fidget games and tools (like a Fidget Spinner!) that give satisfying haptic feedback",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/3d/96/cd3d9693-625f-3e7a-6fee-b1c75fc110c7/AppIcon-New-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 237634670,
+      "size": 239165992,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/00/97/23009705-5133-3e32-9038-dc82f961928b/8b8b3175-a4ea-4eaf-ad18-554bf5899d76_Tappy_App_Store_Screenshots_Main_May_2023.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/66/24/6066249c-6a12-51e3-ce98-b2475abeea99/828713ca-b251-4918-bb41-91c5a7cfe7b7_1_-_Tappy_App_Store_Screenshots.png/392x696bb.png",
@@ -67360,11 +67360,11 @@
       },
       "versions": [
         {
-          "version": "5.3.0",
-          "date": "2026-06-14",
+          "version": "5.6.2",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tappy: Self Care Fidgeter-v5.3.0-riftysipas.ipa",
-          "size": 237634670
+          "downloadURL": "https://telos.ftp.sh/ipas/Tappy: Self Care Fidgeter-v5.6.2-riftysipas.ipa",
+          "size": 239165992
         }
       ],
       "category": "games"
