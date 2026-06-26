@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.thewayapp.mobile",
-    "com.osmose-it.nursing",
-    "com.osmose-it.osmosis",
-    "tech.miidii.MDBlank",
-    "com.readdle.CalendarsLite"
+    "com.glucobit.cravingBuster.CravingBuster",
+    "com.neo.NeoMan",
+    "com.cuvora.carinfoios",
+    "com.microsoft.Office.Outlook",
+    "com.thewayapp.mobile"
   ],
   "apps": [
     {
@@ -11206,6 +11206,51 @@
         }
       ],
       "category": "games"
+    },
+    {
+      "name": "CarInfo",
+      "bundleIdentifier": "com.cuvora.carinfoios",
+      "developerName": "Cuvora",
+      "subtitle": "CarInfo for iOS",
+      "version": "4.8.2",
+      "versionDate": "2026-06-26",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.cuvora.carinfoios-4.8.2-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nCarInfo is your all-in-one app for all your vehicle information needs and RTO vehicle information. You can check challans, sell your car, buy insurance, purchase a new car, get instant car loans, and access Parivahan or MParivahan services, all in one place. Effortlessly manage all your vehicles with the CarInfo app.\n\nVehicle owner details\nCheck challans and pay online\nBuy and renew car or bike insurance\nCheck pollution expiry date and set reminders\nRecharge FASTag\nInstant car loans\nService hist",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/1c/af/6a1caf37-38f1-4421-c263-e9e616fb810e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 44419944,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/00/70/35007046-92ca-2629-2419-86f96f2814e6/c28ccd3a-225c-4025-b80e-b4bd678be34c_iOS_2-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/ac/f8/c2acf81c-721d-020f-ed14-ac3ed04ca7ed/e16b50a7-1c3e-4231-9356-a90358245a05_iOS_2-2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/b5/d8/feb5d844-3192-3049-2039-15cf72d51add/07b6d8e2-fabf-4027-862a-5ece48771510_iOS_2-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/3e/ad/c73eadde-c1d7-1ff1-e35a-54a6070ab5e1/65b99315-7b0d-46ba-be21-890a67e17b6f_iOS_2-4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/7a/21/ec7a21ed-3b1a-069a-1895-a54b2b7506cc/c012f8a4-6a79-4bb4-9277-06ad4cb5c766_iOS_2-5.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Your Photo library will be used for profile",
+          "NSCameraUsageDescription": "Your camera will be used for your profile.",
+          "NSMicrophoneUsageDescription": "We need access to your microphone to provide voice-related features in the app.",
+          "NSLocationWhenInUseUsageDescription": "Your location allows you to view cars near you.",
+          "NSLocationAlwaysUsageDescription": "Your location allows you to view cars near you.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Your location allows you to view cars near you.",
+          "NSContactsUsageDescription": "App would like to use your contact info which may include alerts from us to help you maintaining your vehicle in the best possible way.",
+          "NSSpeechRecognitionUsageDescription": "We need access to your speech recognition to enhance your experience with voice input in the app.",
+          "NSUserTrackingUsageDescription": "We collect data to improve app performance and user experience."
+        }
+      },
+      "versions": [
+        {
+          "version": "4.8.2",
+          "date": "2026-06-26",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.cuvora.carinfoios-4.8.2-eeveedecrypter.ipa",
+          "size": 44419944
+        }
+      ],
+      "category": "utilities"
     },
     {
       "name": "Carnivore",
@@ -44282,14 +44327,14 @@
       "bundleIdentifier": "com.neo.NeoMan",
       "developerName": "Space-Time Transformation Technology Co., Ltd.",
       "subtitle": "Tweaked with NeoServer, blatantsPatch",
-      "version": "8.2.5",
-      "versionDate": "2026-06-25",
+      "version": "8.2.6",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: NeoServer, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_2_5_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_2_6_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NeoServer, blatantsPatch\n\nNeoServer: SSH Client | Terminal\n\n---\nNeoServer offers a comprehensive management solution via SSH without additional software installation for your servers, NAS (Network Attached Storage), and Linux-based routers across iPhone, iPad, and Mac platforms. It supports terminal remote connections, multi-server script execution, container management, SFTP file management, and common performance data display.\n\n◉ Free Features:\n◦ Supports SFTP browsing of server files, allowing editing (with syntax highlighting for common languages), renam",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/a9/9d/55a99db2-bef1-8618-f91a-7404d2e46f00/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 28577591,
+      "size": 28587248,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/51/e9/7051e9d4-9400-ba5e-c0c4-b3c3028896a3/6ea7619e-b9fe-45ca-8c94-ac17544b1668_metrics.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/7a/8e/107a8e2f-99cf-e69b-ad17-21ea74a368b6/71a4a532-2c52-4e24-a1a3-90412bb627ad_detail.png/392x696bb.png",
@@ -44311,11 +44356,11 @@
       },
       "versions": [
         {
-          "version": "8.2.5",
-          "date": "2026-06-25",
+          "version": "8.2.6",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: NeoServer, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_2_5_Subscription_Unlocked_blatant.ipa",
-          "size": 28577591
+          "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_2_6_Subscription_Unlocked_blatant.ipa",
+          "size": 28587248
         }
       ],
       "category": "developer-tools"
@@ -47641,6 +47686,54 @@
         }
       ],
       "category": "games"
+    },
+    {
+      "name": "Outlook",
+      "bundleIdentifier": "com.microsoft.Office.Outlook",
+      "developerName": "Microsoft Corporation",
+      "subtitle": "Outlook for iOS",
+      "version": "5.2624.0",
+      "versionDate": "2026-06-26",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.microsoft.Office.Outlook-5.2624.0-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nOutlook lets you bring all your email accounts and calendars in one convenient spot. Whether it’s staying on top of your inbox or scheduling the next big thing, we make it easy to be your most productive, organised and connected self.\n\nHere's what you'll love about Outlook for iOS:\n\n- Focus on the right things with our smart inbox - we help you sort between messages you need to act on straight away and everything else.\n- Swipe to quickly schedule, delete and archive messages.\n- Share your meetin",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/21/5c/50215ca0-c524-8e0f-c4a4-5631d756afed/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 210834419,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/cd/6b/4acd6be4-d6fb-5ceb-0816-f91ef7548bf7/APP_IPAD_PRO_129-1.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b0/99/b2b099ab-30d3-2269-e0ac-d2d47266cfac/APP_IPAD_PRO_129-2.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/0c/4a/870c4a5a-b955-f457-cb70-4d87dafe0ab0/APP_IPAD_PRO_129-3.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/59/e6/6159e6f1-c740-249a-700d-ee8948ed116b/APP_IPAD_PRO_129-4.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/21/c4/9521c405-4a80-bdda-f5bd-56b8cdc2bfe0/APP_IPAD_PRO_129-6.png/552x414bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Allow Outlook access to your photos to attach photos to your emails.",
+          "NSCameraUsageDescription": "This lets you insert photos into your emails and more within the app.",
+          "NSMicrophoneUsageDescription": "To use voice features like dictation, search, and assistance, Outlook needs to access your microphone.",
+          "NSLocationWhenInUseUsageDescription": "This will help you book conference rooms, find nearby places, show travel times, and display weather info.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "This will help you book conference rooms, find nearby places, show travel times, and display weather info.",
+          "NSContactsUsageDescription": "Outlook can sync contacts from your email accounts to the Contacts app.",
+          "NSSpeechRecognitionUsageDescription": "Allow Outlook to use text from Apple Speech for speech-enabled experiences?",
+          "NSFaceIDUsageDescription": "Outlook uses Face ID to restrict unauthorized users from accessing the app.",
+          "NSBluetoothAlwaysUsageDescription": "Allow Outlook to discover and connect to Bluetooth devices and accessories.",
+          "NSBluetoothPeripheralUsageDescription": "Allow Outlook to discover and connect to Bluetooth devices and accessories.",
+          "NSUserTrackingUsageDescription": "This will be used to show you more personalized ads.",
+          "NSPhotoLibraryAddUsageDescription": "Allow Outlook access to your photos to attach photos to your emails."
+        }
+      },
+      "versions": [
+        {
+          "version": "5.2624.0",
+          "date": "2026-06-26",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.microsoft.Office.Outlook-5.2624.0-eeveedecrypter.ipa",
+          "size": 210834419
+        }
+      ],
+      "category": "productivity"
     },
     {
       "name": "Outplayer",
@@ -55388,14 +55481,14 @@
       "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
       "developerName": "Glucobit Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.9.71",
-      "versionDate": "2026-06-22",
+      "version": "3.9.72",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.71-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.72-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nReframe: Drink Less & Thrive\n\n---\nReframe is the #1 alcohol reduction app, built to help you drink less and live more. Whether your goal is to cut back or quit drinking entirely, Reframe’s neuroscience approach can help you change the way alcohol shows up in your life.\n\nWith a core 160-day, evidence-based, education program, progress tracking, a private community, and a multitude of tools (think meditations, games, and more!), you’ve got everything you need to change your relationship with booze at the click of a button.\n\nNeed e",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/07/cc/3107cc33-dd6e-3b8d-a2aa-d9dc33f80b01/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 236636673,
+      "size": 242833857,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -55413,6 +55506,7 @@
           "NSMicrophoneUsageDescription": "To include audio in this video you are sharing with your group.",
           "NSContactsUsageDescription": "Required to ask this permission to prevent a crash when trying to edit the calendar, but access is not needed to edit the calendar, so you can deny it safely",
           "NSCalendarsUsageDescription": "Need to access Calendar to add event",
+          "NSRemindersUsageDescription": "Reframe needs access to Reminders so the AI Coach can save reminders you ask it to set.",
           "NSHealthShareUsageDescription": "We use your health data to provide personalized insights and help you better understand your wellness journey",
           "NSHealthUpdateUsageDescription": "We use your health data to provide personalized insights and help you better understand your wellness journey",
           "NSSpeechRecognitionUsageDescription": "To transcribe the audio to text",
@@ -55422,11 +55516,11 @@
       },
       "versions": [
         {
-          "version": "3.9.71",
-          "date": "2026-06-22",
+          "version": "3.9.72",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.71-riftysipas.ipa",
-          "size": 236636673
+          "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.72-riftysipas.ipa",
+          "size": 242833857
         }
       ],
       "category": "health-&-fitness"
