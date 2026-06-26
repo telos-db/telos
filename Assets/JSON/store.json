@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "cameronnazemi.Tappy",
     "io.fadel.TeleprompterX",
     "com.sugarmo.ScrollClip",
     "com.calculated.laurene",
-    "com.ahaf.mshion",
-    "zachsim.one.Petty"
+    "com.ahaf.mshion"
   ],
   "apps": [
     {
@@ -66711,14 +66711,14 @@
       "bundleIdentifier": "cameronnazemi.Tappy",
       "developerName": "Cameron Nazemi",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "5.6.1",
-      "versionDate": "2026-06-12",
+      "version": "5.6.2",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tappy: Self Care Fidgeter-v5.6.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tappy: Self Care Fidgeter-v5.6.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nTappy: Self Care Fidgeter",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/3d/96/cd3d9693-625f-3e7a-6fee-b1c75fc110c7/AppIcon-New-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 239127615,
+      "size": 239165992,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/00/97/23009705-5133-3e32-9038-dc82f961928b/8b8b3175-a4ea-4eaf-ad18-554bf5899d76_Tappy_App_Store_Screenshots_Main_May_2023.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/66/24/6066249c-6a12-51e3-ce98-b2475abeea99/828713ca-b251-4918-bb41-91c5a7cfe7b7_1_-_Tappy_App_Store_Screenshots.png/392x696bb.png",
@@ -66746,11 +66746,11 @@
       },
       "versions": [
         {
-          "version": "5.6.1",
-          "date": "2026-06-11",
+          "version": "5.6.2",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tappy: Self Care Fidgeter-v5.6.1-riftysipas.ipa",
-          "size": 239127615
+          "downloadURL": "https://telos.ftp.sh/ipas/Tappy: Self Care Fidgeter-v5.6.2-riftysipas.ipa",
+          "size": 239165992
         }
       ],
       "category": "games"
@@ -79526,11 +79526,11 @@
     {
       "title": "⚙️ Telos Update 6.26",
       "identifier": "telos-update-2026-06-26",
-      "caption": "10 Apps Updated:\n• 4 Photo & Video\n• 4 Productivity\n• 2 Utilities",
+      "caption": "12 Apps Updated:\n• 4 Games\n• 4 Photo & Video\n• 2 Utilities\n• 2 Productivity",
       "date": "2026-06-26",
       "tintColor": "#02433b",
       "notify": true,
-      "appID": "com.sugarmo.ScrollClip"
+      "appID": "cameronnazemi.Tappy"
     },
     {
       "title": "⚙️ Telos Update 6.25",
