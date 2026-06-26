@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.uqxuwtxbbu.parkingjam",
+    "nutrition.coach",
     "com.ld.TakeBrowser",
     "com.zerone.hidesktop",
-    "cameronnazemi.Tappy",
-    "io.fadel.TeleprompterX",
-    "com.sugarmo.ScrollClip"
+    "cameronnazemi.Tappy"
   ],
   "apps": [
     {
@@ -45711,14 +45711,14 @@
       "bundleIdentifier": "nutrition.coach",
       "developerName": "Eclipse Studios",
       "subtitle": "Tweaked with NutriCoach, blatantsPatch",
-      "version": "2.1.4",
-      "versionDate": "2026-06-24",
+      "version": "2.1.5",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: NutriCoach, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_4_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_5_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NutriCoach, blatantsPatch\n\nNutrition Coach: Food tracker\n\n---\nEffortless calories counter, customized meals plan, and delicious recipes. Loose or gain weight in a sustainable way to achieve your objective.\n\nNutrition Coach is the result of 3 years of work by a team of passionate nutritionists. Our programs and calorie counter have been tested for months and approved with visible and sustainable results.\n\nHave you ever experienced a very restrictive diet almost impossible to sustain for more than a couple of days?\nHave you ever experienced weight loss follo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/11/b3/1511b3e4-a114-2d56-8fbf-d60a8807e2ea/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 73221357,
+      "size": 73540634,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5c/7d/c65c7d42-9758-a9f6-b97b-864d52e346df/41392711-be29-4b4a-81aa-f2631d6bffd1_Nutricoach-screenshot-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/21/c6/9221c666-c6e9-cb68-430d-b07e70d8dce5/5f6ea8ed-ee1c-4a9c-9ac4-98f42fce78d0_Nutricoach-screenshot-02.jpg/392x696bb.jpg",
@@ -45743,11 +45743,11 @@
       },
       "versions": [
         {
-          "version": "2.1.4",
-          "date": "2026-06-24",
+          "version": "2.1.5",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: NutriCoach, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_4_Subscription_Unlocked_blatant.ipa",
-          "size": 73221357
+          "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_5_Subscription_Unlocked_blatant.ipa",
+          "size": 73540634
         }
       ],
       "category": "health-&-fitness"
@@ -48319,14 +48319,14 @@
       "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
       "developerName": "Popcore GmbH",
       "subtitle": "Tweaked with CydiaSubstrate, fixipa1",
-      "version": "232.0.4",
-      "versionDate": "2026-06-19",
+      "version": "232.0.5",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, parkingjam3drifty, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v232.0.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v232.0.5-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, fixipa1, fixipa2, parkingjam3drifty, popuprifty\n\nParking Jam 3D\n\n---\nParking Jam 3D is one of the most downloaded Puzzle Board games with more than 50,000,000 installs.\n\nParking Jam is a fun and addictive puzzle board game. It’s more than just parking - it's a fun driving experience that'll take you to another level!\n\nJams in parking lots, challenging parking situations, angry grannies and much more. Experience one of the best parking board games, get rewarded and unlock skins, solve puzzles which get harder each level, choose which car to move so you can find sm",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/ce/c5/0ecec593-d4b5-740c-42ab-8fde6650f2c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 226871564,
+      "size": 225622834,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/67/26/7567264b-c0bc-8ea6-fa05-d06100d5e54b/4__U00282_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/1b/57/601b57c4-89f9-8fc5-14eb-8e4ab86f8386/5__U00282_U0029.png/392x696bb.png",
@@ -48351,11 +48351,11 @@
       },
       "versions": [
         {
-          "version": "232.0.4",
-          "date": "2026-06-19",
+          "version": "232.0.5",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, parkingjam3drifty, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v232.0.4-riftysipas.ipa",
-          "size": 226871564
+          "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v232.0.5-riftysipas.ipa",
+          "size": 225622834
         }
       ],
       "category": "games"
