@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.solidus.iossimpleplayer",
+    "com.joytunes.Draw",
     "com.snowcorp.glowup",
     "org.moonfin.app",
-    "com.christianselig.Apollo",
-    "com.ADPTVLTD.push",
-    "com.moonly.Moonly"
+    "com.christianselig.Apollo"
   ],
   "apps": [
     {
@@ -59040,14 +59040,14 @@
       "bundleIdentifier": "com.joytunes.Draw",
       "developerName": "Simply Ltd",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "1.6.35",
-      "versionDate": "2026-06-21",
+      "version": "1.6.36",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_35_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_36_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSimply Draw: Learn to Draw",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/1c/b4/1f1cb47a-7c46-e5c0-5d41-01e445152aca/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 135353515,
+      "size": 137768043,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -59066,11 +59066,11 @@
       },
       "versions": [
         {
-          "version": "1.6.35",
-          "date": "2026-06-21",
+          "version": "1.6.36",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_35_Subscription_Unlocked_blatant.ipa",
-          "size": 135353515
+          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_36_Subscription_Unlocked_blatant.ipa",
+          "size": 137768043
         }
       ],
       "category": "education"
@@ -62240,6 +62240,47 @@
           "localizedDescription": "Tweaks: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://telos.ftp.sh/ipas/Splash_2.0.6_tg@Sa1y0miii.ipa",
           "size": 136562039
+        }
+      ],
+      "category": "entertainment"
+    },
+    {
+      "name": "sPlayer",
+      "bundleIdentifier": "com.solidus.iossimpleplayer",
+      "developerName": "s-joys Co., Ltd.",
+      "subtitle": "sPlayer for iOS",
+      "version": "1.12.130",
+      "versionDate": "2026-06-26",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/zFuse_1.12.130_酷卡.ipa",
+      "localizedDescription": "sPlayer for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/ab/8d/14ab8dbe-39aa-44f4-1268-f4418be31d5b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 94263483,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/81/80/ba/8180bada-9204-da39-114f-36d9ec75b7da/6bea3ebd-1387-4596-a62f-3e7f2fa0c01b_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/bc/4c/42bc4c0e-e483-40a7-7c41-cc8d6d61b8f2/7d076890-7a4b-4bee-835d-2217e49a9e1e__U7ad6_U7248_U77ed_U624b_U673a_en.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ca/69/b9/ca69b961-24d2-666c-8fb7-945708ceb8f2/a6f8f362-b67f-4b18-80cf-761d5e40f81c_55.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/92/2b/d6922b45-26e6-fbc3-9cb7-dabca6ff2edb/4a6977fe-5d01-4d63-bc83-b768c87ee02c_55_en_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d9/20/96/d92096e4-60c0-3dd1-3dda-2c1ec75bcf4c/2d476062-c90e-4f9b-b9ec-6d68beb77b96_2.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "User feedback issues may need to be screenshots and sent to the developer, If not, please turn this permission off.",
+          "NSCameraUsageDescription": "Users can share files with other user through QR code, so this app need to use the camera to scan the QR code.",
+          "NSFaceIDUsageDescription": "User need FaceID to lock/unlock Security Space",
+          "NSLocalNetworkUsageDescription": "Users can use macOS/PC in the local network to manage files in this APP through FTP protocol.",
+          "NSPhotoLibraryAddUsageDescription": "User needs to save the image to the photo library."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.12.130",
+          "date": "2026-05-31",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/zFuse_1.12.130_酷卡.ipa",
+          "size": 94263483
         }
       ],
       "category": "entertainment"
@@ -79564,7 +79605,7 @@
     {
       "title": "⚙️ Telos Update 6.26",
       "identifier": "telos-update-2026-06-26",
-      "caption": "38 Apps Updated:\n• 8 Photo & Video\n• 8 News\n• 4 Games\n• 4 Utilities\n• 4 Health & Fitness\n• 4 Entertainment\n• 2 Productivity\n• 2 Graphics & Design\n• 2 Lifestyle",
+      "caption": "38 Apps Updated:\n• 6 Photo & Video\n• 6 Entertainment\n• 4 Games\n• 4 Utilities\n• 4 News\n• 4 Health & Fitness\n• 4 Education\n• 2 Productivity\n• 2 Graphics & Design\n• 2 Lifestyle",
       "date": "2026-06-26",
       "tintColor": "#02433b",
       "notify": true,
