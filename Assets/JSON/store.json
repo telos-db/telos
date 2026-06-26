@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "nz.co.petesmith.moonphasefree",
+    "com.sugarmo.ScrollClip",
     "com.pronetis.ironballride2",
     "com.weather.overdrop",
-    "com.itwcalculator.worldradarfree",
-    "com.snowcorp.soda",
-    "com.glucobit.cravingBuster.CravingBuster"
+    "com.itwcalculator.worldradarfree"
   ],
   "apps": [
     {
@@ -41920,14 +41920,14 @@
       "bundleIdentifier": "nz.co.petesmith.moonphasefree",
       "developerName": "Fascinating Projects",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "8.5.0",
-      "versionDate": "2026-06-23",
+      "version": "8.6.0",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.5.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.6.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓** | *Bundle Id:** Nz.Co.Petesmith.Moonphasefree | *Developer:** Fascinating Projects\n\nMoon Phase Calendar Plus",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/53/e1/ee53e123-5378-c08f-e2a9-dc02b7a1f856/MoonPlus-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 19963076,
+      "size": 20062526,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -41937,11 +41937,11 @@
       },
       "versions": [
         {
-          "version": "8.5.0",
-          "date": "2026-06-23",
+          "version": "8.6.0",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.5.0-riftysipas.ipa",
-          "size": 19963076
+          "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.6.0-riftysipas.ipa",
+          "size": 20062526
         }
       ],
       "category": "weather"
@@ -50114,14 +50114,14 @@
       "bundleIdentifier": "com.sugarmo.ScrollClip",
       "developerName": "Yojio, Ltd.",
       "subtitle": "Patched | Tweaked",
-      "version": "3.17.1",
+      "version": "3.17.2",
       "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: Picsew, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Picsew_Screenshot_Stitching_v3_17_1_Picsew_Pro_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Picsew_Screenshot_Stitching_v3_17_2_Picsew_Pro_blatant_Patched.ipa",
       "localizedDescription": "Patched | Tweaked\n\nPicsew - Screenshot Stitching",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/85/d3/6585d301-0600-4080-5f5b-4aefe7c9a5ae/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 39181376,
+      "size": 39190637,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/88/01/4788012f-1f5f-bb9e-eeda-1df8131fa000/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/1e/9a/5d1e9a23-9cd3-b8af-192d-fa7c016ddda8/pr_source.png/392x696bb.png",
@@ -50144,11 +50144,11 @@
       },
       "versions": [
         {
-          "version": "3.17.1",
+          "version": "3.17.2",
           "date": "2026-06-26",
           "localizedDescription": "Tweaks: Picsew, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Picsew_Screenshot_Stitching_v3_17_1_Picsew_Pro_blatant_Patched.ipa",
-          "size": 39181376
+          "downloadURL": "https://telos.ftp.sh/ipas/Picsew_Screenshot_Stitching_v3_17_2_Picsew_Pro_blatant_Patched.ipa",
+          "size": 39190637
         }
       ],
       "category": "photo-&-video"
@@ -79699,7 +79699,7 @@
     {
       "title": "⚙️ Telos Update 6.26",
       "identifier": "telos-update-2026-06-26",
-      "caption": "78 Apps Updated:\n• 14 Photo & Video\n• 8 Games\n• 8 Utilities\n• 8 Productivity\n• 8 Health & Fitness\n• 8 Weather\n• 4 Graphics & Design\n• 4 Lifestyle\n• 4 News\n• 4 Entertainment\n• 4 Medical\n• 2 Education\n• 2 Developer Tools",
+      "caption": "78 Apps Updated:\n• 16 Photo & Video\n• 8 Utilities\n• 8 Productivity\n• 8 Health & Fitness\n• 8 Weather\n• 6 Games\n• 4 Graphics & Design\n• 4 Lifestyle\n• 4 News\n• 4 Entertainment\n• 4 Medical\n• 2 Education\n• 2 Developer Tools",
       "date": "2026-06-26",
       "tintColor": "#02433b",
       "notify": true,
