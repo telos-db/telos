@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "io.fadel.TeleprompterX",
     "com.sugarmo.ScrollClip",
     "com.calculated.laurene",
     "com.ahaf.mshion",
-    "zachsim.one.Petty",
-    "com.leapingcoyote.rungo"
+    "zachsim.one.Petty"
   ],
   "apps": [
     {
@@ -67689,14 +67689,14 @@
       "bundleIdentifier": "io.fadel.TeleprompterX",
       "developerName": "Fadel.io OU",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.0.128",
-      "versionDate": "2026-06-14",
+      "version": "1.0.130",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Teleprompter for Video Pro-v1.0.128-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Teleprompter for Video Pro-v1.0.130-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nTeleprompter for Video Pro\n\n---\nPerfect your timing and delivery without the need to memorize everything.\n\nWrite your scripts and record yourself while the text scrolls automatically on your screen. This app simplifies your video production and speech recording process.\n\nFEATURES:\n\n• Script Writing & Recording: Write your script directly in the app and record yourself as the text smoothly scrolls on your screen.\n\n• Script Importing: Have a pre-written script? Import your scripts directly into the app. We support txt, rtf, html",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/9c/3c/ad9c3c28-83ae-a761-8466-98fe2e577dd6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 29955606,
+      "size": 30458606,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/40/21/a9402105-50d1-7ae6-0ab5-19dfa0477bb4/20d1bc67-a289-4207-8226-a1fd54d5f0a1_v2-iPhone_5.5__display_-_11.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/35/a3/7e35a39a-7417-223f-98a1-8ee9d2e3354b/07214fbb-801c-40f7-bc86-a76aafbe0bdf_2_APP_IPHONE_55_2.jpg/392x696bb.jpg",
@@ -67706,7 +67706,8 @@
       ],
       "appPermissions": {
         "entitlements": [
-          "aps-environment"
+          "aps-environment",
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Teleprompter needs access to Photos to add Videos to your Photo Library.",
@@ -67718,11 +67719,11 @@
       },
       "versions": [
         {
-          "version": "1.0.128",
-          "date": "2026-06-14",
+          "version": "1.0.130",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Teleprompter for Video Pro-v1.0.128-riftysipas.ipa",
-          "size": 29955606
+          "downloadURL": "https://telos.ftp.sh/ipas/Teleprompter for Video Pro-v1.0.130-riftysipas.ipa",
+          "size": 30458606
         }
       ],
       "category": "productivity"
