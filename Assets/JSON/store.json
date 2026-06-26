@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.snowcorp.glowup",
+    "org.moonfin.app",
+    "com.christianselig.Apollo",
     "com.ADPTVLTD.push",
-    "com.moonly.Moonly",
-    "com.uqxuwtxbbu.parkingjam",
-    "nutrition.coach",
-    "com.ld.TakeBrowser"
+    "com.moonly.Moonly"
   ],
   "apps": [
     {
@@ -3970,14 +3970,14 @@
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Christian Selig",
       "subtitle": "Tweaked with ApolloOpenInFix, ApolloReborn",
-      "version": "3.2.0",
-      "versionDate": "2026-06-16",
+      "version": "3.3.0",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.2.0.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.3.0.ipa",
       "localizedDescription": "Apollo for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 89292182,
+      "size": 89910361,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/392x696bb.png",
@@ -4004,11 +4004,11 @@
       },
       "versions": [
         {
-          "version": "3.2.0",
-          "date": "2026-06-16",
+          "version": "3.3.0",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.2.0.ipa",
-          "size": 89292182
+          "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.3.0.ipa",
+          "size": 89910361
         }
       ],
       "category": "news"
@@ -26426,14 +26426,14 @@
       "bundleIdentifier": "com.snowcorp.glowup",
       "developerName": "SNOW Corporation",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.2.2",
-      "versionDate": "2026-06-03",
+      "version": "4.2.10",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: GlowUp, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/GlowUp_Photo_Editor_v4_2_2_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/GlowUp_Photo_Editor_v4_2_10_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nGlowUp - Photo Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/36/da/0b36da49-3c07-f9ed-9312-62ca004d2772/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 188352582,
+      "size": 186701354,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/1f/2d/f21f2dda-0635-05a1-f840-db3b8a84cc8e/appstore_screenshot_1242x2208_en.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/b4/e6/10b4e6fc-f9b1-d7aa-6bb6-db3d1ff2a176/01_AI_Skincare.png/392x696bb.png",
@@ -26453,17 +26453,18 @@
           "NSCameraUsageDescription": "You need to allow access to your camera to take profile pictures.",
           "NSMicrophoneUsageDescription": "Please allow microphone access to record videos with sound.",
           "NSLocationWhenInUseUsageDescription": "This allows us to save location info when you take photos and videos, so that you can track the location where the photos/videos were taken.",
+          "NSLocalNetworkUsageDescription": "We need to access to your local network to communicate with local servers and devices.",
           "NSUserTrackingUsageDescription": "Please allow permission to provide service and personalized marketing. It will be used only for the purpose of providing personalized advertising based on Apple's policy.",
           "NSPhotoLibraryAddUsageDescription": "Enable GLOWUP to access your camera roll to save photos and videos you've taken with the app."
         }
       },
       "versions": [
         {
-          "version": "4.2.2",
-          "date": "2026-05-07",
+          "version": "4.2.10",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: GlowUp, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/GlowUp_Photo_Editor_v4_2_2_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 188352582
+          "downloadURL": "https://telos.ftp.sh/ipas/GlowUp_Photo_Editor_v4_2_10_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 186701354
         }
       ],
       "category": "photo-&-video"
@@ -41899,6 +41900,43 @@
         }
       ],
       "category": "weather"
+    },
+    {
+      "name": "Moonfin",
+      "bundleIdentifier": "org.moonfin.app",
+      "developerName": "AXL NUNEZ",
+      "subtitle": "Moonfin for iOS",
+      "version": "2.2.0",
+      "versionDate": "2026-06-26",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/org.moonfin.app-2.2.0-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/a0/f2/6aa0f236-fdef-3812-733f-4d5c02c9239b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 35996782,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Moonfin needs access to your photo library so you can choose images to upload for media artwork and metadata.",
+          "NSCameraUsageDescription": "Moonfin needs camera access to let you capture images for media artwork and metadata.",
+          "NSMicrophoneUsageDescription": "Moonfin needs microphone access for voice search.",
+          "NSLocationWhenInUseUsageDescription": "Moonfin does not track your location; this access is only used to read location metadata stored in images you choose for media artwork.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Moonfin does not track your location; this access is only used to read location metadata stored in images you choose for media artwork.",
+          "NSSpeechRecognitionUsageDescription": "Moonfin needs speech recognition access for voice search.",
+          "NSLocalNetworkUsageDescription": "Moonfin uses your local network to discover Jellyfin and Emby servers."
+        }
+      },
+      "versions": [
+        {
+          "version": "2.2.0",
+          "date": "2026-06-19",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/org.moonfin.app-2.2.0-eeveedecrypter.ipa",
+          "size": 35996782
+        }
+      ],
+      "category": "entertainment"
     },
     {
       "name": "Moonly",
@@ -79526,7 +79564,7 @@
     {
       "title": "⚙️ Telos Update 6.26",
       "identifier": "telos-update-2026-06-26",
-      "caption": "22 Apps Updated:\n• 4 Games\n• 4 Photo & Video\n• 4 Utilities\n• 4 Health & Fitness\n• 2 Productivity\n• 2 Graphics & Design\n• 2 Lifestyle",
+      "caption": "38 Apps Updated:\n• 8 Photo & Video\n• 8 News\n• 4 Games\n• 4 Utilities\n• 4 Health & Fitness\n• 4 Entertainment\n• 2 Productivity\n• 2 Graphics & Design\n• 2 Lifestyle",
       "date": "2026-06-26",
       "tintColor": "#02433b",
       "notify": true,
