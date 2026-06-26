@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.withopal.opal",
-    "com.robnorback.LiveTranscribe",
-    "boomer.Smart-Video",
-    "com.yazio.ios.YAZIO",
-    "com.solidus.iossimpleplayer"
+    "com.thewayapp.mobile",
+    "com.osmose-it.nursing",
+    "com.osmose-it.osmosis",
+    "tech.miidii.MDBlank",
+    "com.readdle.CalendarsLite"
   ],
   "apps": [
     {
@@ -9979,14 +9979,14 @@
       "bundleIdentifier": "com.readdle.CalendarsLite",
       "developerName": "Readdle Technologies Limited",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "5.37.29",
-      "versionDate": "2026-06-05",
+      "version": "5.37.30",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: Calendars, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Calendars_Schedule_Planner_v5_37_29_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Calendars_Schedule_Planner_v5_37_30_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nCalendars: Schedule Planner",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/16/79/3f1679c8-a5a1-36c3-80a3-f43ed6ef1a83/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 309570845,
+      "size": 307227654,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/ae/c7/39aec7ed-f739-0217-9073-ec40c4bbc6c8/cacd5010-b49f-47c0-a3e9-4c5aa79a4d62_iPad_art_1_EN.jpg/552x414bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/08/b2/9a08b25c-1b45-3771-d455-c9808fd91f40/pr_source.jpg/552x414bb.jpg",
@@ -10016,11 +10016,11 @@
       },
       "versions": [
         {
-          "version": "5.37.29",
-          "date": "2026-06-05",
+          "version": "5.37.30",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: Calendars, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Calendars_Schedule_Planner_v5_37_29_Subscription_Unlocked_blatant.ipa",
-          "size": 309570845
+          "downloadURL": "https://telos.ftp.sh/ipas/Calendars_Schedule_Planner_v5_37_30_Subscription_Unlocked_blatant.ipa",
+          "size": 307227654
         }
       ],
       "category": "productivity"
@@ -47099,52 +47099,17 @@
     },
     {
       "name": "Osmosis",
-      "bundleIdentifier": "com.osmose-it.nursing",
-      "developerName": "Knowledge Diffusion",
-      "subtitle": "Subscription Unlocked | Patched",
-      "version": "6.0.6",
-      "versionDate": "2026-06-03",
-      "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisNursing, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Nursing_Exam_Prep_v6_0_6_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nOsmosis - Nursing Exam Prep",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/4e/ec/d14eecfd-395d-e978-aa68-ccceb1693bf5/NursingAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 27455982,
-      "screenshots": [],
-      "appPermissions": {
-        "entitlements": [
-          "aps-environment",
-          "com.apple.developer.associated-domains"
-        ],
-        "privacy": {
-          "NSMicrophoneUsageDescription": "Allow nursing to access your microphone",
-          "NSUserTrackingUsageDescription": "We use your data only to measure the effectiveness of our advertising campaigns."
-        }
-      },
-      "versions": [
-        {
-          "version": "6.0.6",
-          "date": "2026-05-14",
-          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisNursing, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Nursing_Exam_Prep_v6_0_6_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 27455982
-        }
-      ],
-      "category": "medical"
-    },
-    {
-      "name": "Osmosis",
       "bundleIdentifier": "com.osmose-it.osmosis",
       "developerName": "Knowledge Diffusion",
-      "subtitle": "Tweaked with CachefixPatch, CydiaSubstrate",
-      "version": "6.0.6",
-      "versionDate": "2026-06-09",
-      "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis Full Access 6.0.6.ipa",
-      "localizedDescription": "Osmosis: Medical School Notes",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "6.0.7",
+      "versionDate": "2026-06-26",
+      "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisMedical, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Med_School_Study_App_v6_0_7_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nOsmosis - Med School Study App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/b2/3c/cdb23ca2-e22c-e968-6c87-43f72dd8825a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 25716806,
+      "size": 27792918,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -47158,11 +47123,46 @@
       },
       "versions": [
         {
-          "version": "6.0.6",
-          "date": "2026-05-14",
-          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Osmosis Full Access 6.0.6.ipa",
-          "size": 25716806
+          "version": "6.0.7",
+          "date": "2026-06-26",
+          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisMedical, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Med_School_Study_App_v6_0_7_Subscription_Unlocked_blatant.ipa",
+          "size": 27792918
+        }
+      ],
+      "category": "medical"
+    },
+    {
+      "name": "Osmosis",
+      "bundleIdentifier": "com.osmose-it.nursing",
+      "developerName": "Knowledge Diffusion",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "6.0.7",
+      "versionDate": "2026-06-26",
+      "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisNursing, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Nursing_Exam_Prep_v6_0_7_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nOsmosis - Nursing Exam Prep",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/4e/ec/d14eecfd-395d-e978-aa68-ccceb1693bf5/NursingAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 27816708,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.associated-domains"
+        ],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Allow nursing to access your microphone",
+          "NSUserTrackingUsageDescription": "We use your data only to measure the effectiveness of our advertising campaigns."
+        }
+      },
+      "versions": [
+        {
+          "version": "6.0.7",
+          "date": "2026-06-26",
+          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisNursing, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Nursing_Exam_Prep_v6_0_7_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 27816708
         }
       ],
       "category": "medical"
@@ -68020,14 +68020,14 @@
       "bundleIdentifier": "com.thewayapp.mobile",
       "developerName": "The Way App Inc",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "1.20.3",
-      "versionDate": "2026-06-19",
+      "version": "1.20.4",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.20.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.20.4-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nThe Way: Meditation Path",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/2c/d5/452cd5fc-13c4-9c34-63f3-ba7480d43e25/app-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 97283281,
+      "size": 97487446,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/ee/4f/18ee4f16-774c-831b-b0f7-cad9f715bb7e/ipad-appstore-12.9-INCH-2048_U00d72732-screen-1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/06/43/cd0643eb-907d-8aba-a63d-93f70d937998/ipad-appstore-12.9-INCH-2048_U00d72732-screen-2.png/576x768bb.png",
@@ -68057,11 +68057,11 @@
       },
       "versions": [
         {
-          "version": "1.20.3",
-          "date": "2026-06-19",
+          "version": "1.20.4",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.20.3-riftysipas.ipa",
-          "size": 97283281
+          "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.20.4-riftysipas.ipa",
+          "size": 97487446
         }
       ],
       "category": "lifestyle"
@@ -79605,7 +79605,7 @@
     {
       "title": "⚙️ Telos Update 6.26",
       "identifier": "telos-update-2026-06-26",
-      "caption": "54 Apps Updated:\n• 14 Photo & Video\n• 8 Utilities\n• 8 Health & Fitness\n• 6 Productivity\n• 4 Games\n• 4 News\n• 4 Entertainment\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Education",
+      "caption": "64 Apps Updated:\n• 10 Photo & Video\n• 8 Productivity\n• 8 Medical\n• 6 Utilities\n• 6 Graphics & Design\n• 6 Lifestyle\n• 6 Health & Fitness\n• 4 Games\n• 4 News\n• 4 Entertainment\n• 2 Education",
       "date": "2026-06-26",
       "tintColor": "#02433b",
       "notify": true,
