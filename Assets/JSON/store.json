@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "io.fadel.TeleprompterX",
     "com.sugarmo.ScrollClip",
     "com.calculated.laurene",
     "com.ahaf.mshion",
-    "zachsim.one.Petty",
-    "com.leapingcoyote.rungo"
+    "zachsim.one.Petty"
   ],
   "apps": [
     {
@@ -67018,14 +67018,14 @@
       "bundleIdentifier": "io.fadel.TeleprompterX",
       "developerName": "Fadel.io OU",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "1.0.129",
-      "versionDate": "2026-06-14",
+      "version": "1.0.130",
+      "versionDate": "2026-06-26",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Teleprompter for Video Pro-v1.0.129-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Teleprompter for Video Pro-v1.0.130-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓** | *Bundle Id:** Io.Fadel.Teleprompterx\n\nTeleprompter for Video Pro",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/9c/3c/ad9c3c28-83ae-a761-8466-98fe2e577dd6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 29955577,
+      "size": 30458606,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/40/21/a9402105-50d1-7ae6-0ab5-19dfa0477bb4/20d1bc67-a289-4207-8226-a1fd54d5f0a1_v2-iPhone_5.5__display_-_11.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/35/a3/7e35a39a-7417-223f-98a1-8ee9d2e3354b/07214fbb-801c-40f7-bc86-a76aafbe0bdf_2_APP_IPHONE_55_2.jpg/392x696bb.jpg",
@@ -67035,7 +67035,8 @@
       ],
       "appPermissions": {
         "entitlements": [
-          "aps-environment"
+          "aps-environment",
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Teleprompter needs access to Photos to add Videos to your Photo Library.",
@@ -67047,11 +67048,11 @@
       },
       "versions": [
         {
-          "version": "1.0.129",
-          "date": "2026-04-02",
+          "version": "1.0.130",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Teleprompter for Video Pro-v1.0.129-riftysipas.ipa",
-          "size": 29955577
+          "downloadURL": "https://telos.ftp.sh/ipas/Teleprompter for Video Pro-v1.0.130-riftysipas.ipa",
+          "size": 30458606
         }
       ],
       "category": "productivity"
@@ -79525,7 +79526,7 @@
     {
       "title": "⚙️ Telos Update 6.26",
       "identifier": "telos-update-2026-06-26",
-      "caption": "12 Apps Updated:\n• 8 Photo & Video\n• 4 Utilities",
+      "caption": "10 Apps Updated:\n• 4 Photo & Video\n• 4 Productivity\n• 2 Utilities",
       "date": "2026-06-26",
       "tintColor": "#02433b",
       "notify": true,
