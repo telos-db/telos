@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.rosberry.LSTV",
+    "pinterest",
     "com.adguard.AdguardPro",
     "flux.inchmade.app",
-    "au.com.savageinteractive.procreate",
-    "au.com.savageinteractive.procreate-pocket",
-    "com.sbs.train"
+    "au.com.savageinteractive.procreate"
   ],
   "apps": [
     {
@@ -37221,6 +37221,46 @@
       "category": "games"
     },
     {
+      "name": "Live Soccer TV",
+      "bundleIdentifier": "com.rosberry.LSTV",
+      "developerName": "Live Sport Interactive LLC",
+      "subtitle": "Live Soccer TV for iOS",
+      "version": "6.3.3",
+      "versionDate": "2026-06-27",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.rosberry.LSTV-6.3.3-eeveedecrypter.ipa",
+      "localizedDescription": "Live Soccer TV for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/7b/41/847b41dd-6b82-c0a1-3de3-f1ecfdcdf2f4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 26482260,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/93/fd/7693fd77-8a5e-0ec9-c465-72e2bd684fd2/2de62871-4ad8-4ea5-86b8-c1be224c3168_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/5e/d6/6b5ed62d-f193-d317-ee74-9403ad45618b/48c635a6-3985-4c91-bbdc-b036ba2fa3a1_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f2/ad/38/f2ad3890-da64-39a1-eed3-47a773c4bb79/4275ddaa-5408-4b06-baea-eab4379051eb_5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f8/0a/54/f80a548e-a373-cbc0-340a-73b36d445fa1/ca9b4331-80e5-40e1-9533-71758541cfba_7.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ba/6c/8a/ba6c8a73-3165-b897-c3ef-cdeed3095890/4692e598-ac38-4ac2-8b57-eea866e6c993_3.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "We need access to your calendar to help you track events",
+          "NSBluetoothAlwaysUsageDescription": "We need Bluetooth access to connect and discover other devices",
+          "NSBluetoothPeripheralUsageDescription": "We need Bluetooth access to connect and discover other devices",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
+        }
+      },
+      "versions": [
+        {
+          "version": "6.3.3",
+          "date": "2026-05-29",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.rosberry.LSTV-6.3.3-eeveedecrypter.ipa",
+          "size": 26482260
+        }
+      ],
+      "category": "sports"
+    },
+    {
       "name": "Live Transcribe",
       "bundleIdentifier": "com.robnorback.LiveTranscribe",
       "developerName": "Mighty Fine Apps LLC",
@@ -50691,15 +50731,15 @@
       "name": "Pinterest",
       "bundleIdentifier": "pinterest",
       "developerName": "Pinterest, Inc.",
-      "subtitle": "*Tweak:** Download Videos, Sponsored Pins Removed | *Patched ✓**",
+      "subtitle": "Pinterest for iOS",
       "version": "14.24",
-      "versionDate": "2026-06-24",
-      "versionDescription": "Tweaks: CydiaSubstrate, PinterestPlus2, Sideloadbypass1, Sideloadbypass2, pinterestplus\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Pinterest-v14.24-riftysipas.ipa",
-      "localizedDescription": "*Tweak:** Download Videos, Sponsored Pins Removed | *Patched ✓**\n\nPinterest",
+      "versionDate": "2026-06-27",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/pinterest-14.24-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/e1/f6/dee1f60b-cdd1-f6cc-a231-b6fc7fba5ef9/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 135966979,
+      "size": 145093215,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/43/95/074395db-1ab5-4adf-ec05-037f91216984/iPhone-5.5_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/e4/76/1fe476f4-66aa-2936-79db-2768ec1a9903/iPhone-5.5_2.png/392x696bb.png",
@@ -50735,10 +50775,10 @@
       "versions": [
         {
           "version": "14.24",
-          "date": "2026-06-24",
-          "localizedDescription": "Tweaks: CydiaSubstrate, PinterestPlus2, Sideloadbypass1, Sideloadbypass2, pinterestplus\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Pinterest-v14.24-riftysipas.ipa",
-          "size": 135966979
+          "date": "2026-06-27",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/pinterest-14.24-eeveedecrypter.ipa",
+          "size": 145093215
         }
       ],
       "category": "lifestyle"
@@ -79779,7 +79819,7 @@
     {
       "title": "⚙️ Telos Update 6.27",
       "identifier": "telos-update-2026-06-27",
-      "caption": "34 Apps Updated:\n• 5 Photo & Video\n• 5 Graphics & Design\n• 4 Health & Fitness\n• 4 Utilities\n• 2 Productivity\n• 2 Education\n• 2 Music\n• 2 Social Networking\n• 2 News\n• 2 Finance\n• 2 Business\n• 2 Entertainment",
+      "caption": "40 Apps Updated:\n• 5 Photo & Video\n• 5 Graphics & Design\n• 4 Health & Fitness\n• 4 Lifestyle\n• 4 Sports\n• 2 Productivity\n• 2 Education\n• 2 Music\n• 2 Social Networking\n• 2 News\n• 2 Finance\n• 2 Business\n• 2 Entertainment\n• 2 Utilities",
       "date": "2026-06-27",
       "tintColor": "#02433b",
       "notify": true,
