@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.resonantcavity.Voloco",
+    "com.locket.Locket",
+    "com.ulisesolave.Fitia",
     "com.wellocution.iosapp",
-    "com.sfun.snapedit",
-    "com.mfagency.nurture",
-    "me.imgbase.videoday",
-    "com.withopal.opal"
+    "com.sfun.snapedit"
   ],
   "apps": [
     {
@@ -22648,14 +22648,14 @@
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "23.1.18",
-      "versionDate": "2026-06-25",
+      "version": "23.1.19",
+      "versionDate": "2026-06-27",
       "versionDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_18_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_19_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFitia: Calorie Counter & Diet",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/18/c2/8e18c267-859b-7791-b7ca-d2fbc39d887e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 124893148,
+      "size": 125000759,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -22682,11 +22682,11 @@
       },
       "versions": [
         {
-          "version": "23.1.18",
-          "date": "2026-06-25",
+          "version": "23.1.19",
+          "date": "2026-06-27",
           "localizedDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_18_Subscription_Unlocked_blatant.ipa",
-          "size": 124893148
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_19_Subscription_Unlocked_blatant.ipa",
+          "size": 125000759
         }
       ],
       "category": "health-&-fitness"
@@ -37621,14 +37621,14 @@
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "Locket Labs, Inc.",
       "subtitle": "Patched | Tweaked",
-      "version": "2.52.0",
-      "versionDate": "2026-06-18",
+      "version": "2.53.0",
+      "versionDate": "2026-06-27",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.52.0 Locket Gold blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.53.0 Locket Gold blatant Patched.ipa",
       "localizedDescription": "Patched | Tweaked\n\nLocket Widget",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/fe/ab/9cfeab99-6119-c8b2-4147-30535afb3f78/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 337263328,
+      "size": 337332202,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -37656,11 +37656,11 @@
       },
       "versions": [
         {
-          "version": "2.52.0",
-          "date": "2026-06-18",
+          "version": "2.53.0",
+          "date": "2026-06-27",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.52.0 Locket Gold blatant Patched.ipa",
-          "size": 337263328
+          "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.53.0 Locket Gold blatant Patched.ipa",
+          "size": 337332202
         }
       ],
       "category": "social-networking"
@@ -74190,14 +74190,14 @@
       "bundleIdentifier": "com.resonantcavity.Voloco",
       "developerName": "Resonant Cavity, Inc",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "9.16.1",
-      "versionDate": "2026-06-19",
+      "version": "9.16.2",
+      "versionDate": "2026-06-27",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nVoloco: Vocal Recording Studio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/ef/86/c6ef86bf-a4ce-72cd-aaa3-783145fc90c3/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 117427024,
+      "size": 117463071,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -74218,11 +74218,11 @@
       },
       "versions": [
         {
-          "version": "9.16.1",
-          "date": "2026-06-19",
+          "version": "9.16.2",
+          "date": "2026-06-27",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.1-riftysipas.ipa",
-          "size": 117427024
+          "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.2-riftysipas.ipa",
+          "size": 117463071
         }
       ],
       "category": "music"
@@ -79700,7 +79700,7 @@
     {
       "title": "⚙️ Telos Update 6.27",
       "identifier": "telos-update-2026-06-27",
-      "caption": "12 Apps Updated:\n• 5 Photo & Video\n• 4 Education\n• 2 Productivity\n• 1 Graphics & Design",
+      "caption": "20 Apps Updated:\n• 4 Health & Fitness\n• 4 Music\n• 4 Social Networking\n• 3 Photo & Video\n• 2 Productivity\n• 2 Education\n• 1 Graphics & Design",
       "date": "2026-06-27",
       "tintColor": "#02433b",
       "notify": true,
