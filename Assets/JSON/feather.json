@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.media720.offlinegames",
+    "com.linkedin.LinkedIn",
     "com.rosberry.LSTV",
     "pinterest",
-    "com.adguard.AdguardPro",
-    "flux.inchmade.app",
-    "au.com.savageinteractive.procreate"
+    "com.adguard.AdguardPro"
   ],
   "apps": [
     {
@@ -37492,20 +37492,20 @@
       "bundleIdentifier": "com.linkedin.LinkedIn",
       "developerName": "LinkedIn Corporation",
       "subtitle": "LinkedIn for iOS",
-      "version": "2026.0304.1816",
-      "versionDate": "2026-03-08",
+      "version": "2026.0617.1445",
+      "versionDate": "2026-06-27",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.linkedin.LinkedIn-9.1.525-eeveedecrypter.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.linkedin.LinkedIn-9.1.554-eeveedecrypter.ipa",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nWelcome professionals! The key to getting in is getting started. Begin your career journey with LinkedIn today. Are you searching for the right job opportunities to advance your career? LinkedIn is one of the largest social networking apps for online job searches that also provides content that can help you grow.\n\nBuild your resume, nurture your professional relationships, connect with recruiters, and apply for your next job. You can establish job alerts for local or remote positions, expand you",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/3d/d0/5c3dd0f2-1c50-5702-3ecf-134281d778df/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/28/a4/7228a496-80c6-ba5a-b985-23fe37f032f6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 168143686,
+      "size": 172003344,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b2/83/86/b2838692-66a6-e594-6f88-45f3251844b3/8dfef1c0-c95d-4d40-846d-83ce2ae725fb_LinkedIn_LinkedIn_iOS_5.5_EN_Screenshots__V3_230602_01.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/71/f5/0d/71f50d90-b28e-326d-1a26-fae1a97ece23/4314a393-49e3-4b9a-874d-60a9232cdde9_LinkedIn_LinkedIn_iOS_5.5_EN_Screenshots__V3_230602_02.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a4/a3/51/a4a35194-1900-5e3b-f18c-6376b52e858e/a8e26f15-15dc-48e6-89d6-ab36e82b2308_LinkedIn_LinkedIn_iOS_5.5_EN_Screenshots__V3_230602_03.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f8/e5/3f/f8e53f66-0278-1717-78fd-55307113de68/b65a0b2b-158e-47cf-ae5a-3e7c19bd51b8_LinkedIn_LinkedIn_iOS_5.5_EN_Screenshots__V3_230602_05.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ce/2d/9b/ce2d9b1d-84ca-f48d-29c1-fbccec25f19d/dcbf483f-9d22-441c-b582-ef9c1147f13a_LinkedIn_LinkedIn_iOS_5.5_EN_Screenshots__V3_230602_04.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/1a/f7/ee1af7cb-e190-1e25-b12b-8778d6b90b51/f4168ac9-4933-403f-8903-18f6d822a220_LinkedIn_LinkedIn_iOS_12.9_2nd_EN_Screenshots_V3_230505_01.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/d1/28/f1d12830-8249-e0e6-1a58-141a7051040b/3fb5aa0d-cedc-4136-afa5-2c4661295e3b_LinkedIn_LinkedIn_iOS_12.9_2nd_EN_Screenshots_V3_230505_02.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/94/45/d2944538-1de5-cd42-9ac2-a81627d55fb7/d5c97155-4c61-4770-ba19-ddf546fb5eb8_LinkedIn_LinkedIn_iOS_12.9_2nd_EN_Screenshots_V3_230505_03.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/0d/2a/4b0d2a48-fa9e-3904-9492-5c3f38ddeaa9/9a20f761-fead-4969-ba50-26ecc8255ca9_LinkedIn_LinkedIn_iOS_12.9_2nd_EN_Screenshots_V3_230505_05.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/b4/b5/e5b4b55a-e231-3fa6-a96e-6ee04c879dd1/08e47dd2-43a0-493d-97c6-f549ff29958d_LinkedIn_LinkedIn_iOS_12.9_2nd_EN_Screenshots_V3_230505_04.png/576x768bb.png"
       ],
       "appPermissions": {
         "entitlements": [],
@@ -37528,11 +37528,11 @@
       },
       "versions": [
         {
-          "version": "2026.0304.1816",
-          "date": "2026-03-08",
+          "version": "2026.0617.1445",
+          "date": "2026-06-27",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.linkedin.LinkedIn-9.1.525-eeveedecrypter.ipa",
-          "size": 168143686
+          "downloadURL": "https://telos.ftp.sh/ipas/com.linkedin.LinkedIn-9.1.554-eeveedecrypter.ipa",
+          "size": 172003344
         }
       ],
       "category": "business"
@@ -46412,14 +46412,14 @@
       "bundleIdentifier": "com.media720.offlinegames",
       "developerName": "720 Media LLC",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.55",
-      "versionDate": "2026-06-14",
+      "version": "1.59",
+      "versionDate": "2026-06-27",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofflinegamesnowififun\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Offline Games No WiFi Fun 100+-v1.55-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Offline Games No WiFi Fun 100+-v1.59-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofflinegamesnowififun\n\nOffline Games No WiFi Fun 100+\n\n---\nOffline Games: Dive into Endless Fun without Wi-Fi!\n\nStep into a universe of gaming diversity, all available without an internet connection! With \"Offline Games,\" dive deep into an expansive collection, from brain-teasing puzzles and classic arcades to strategic board games and exciting card challenges. Whether you're merging objects, aiming for high scores in pinball, or chasing the iconic 2048, our suite ensures you're never short of options.\n\nAlways Offline: Play to your heart's content witho",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/1f/2c/eb1f2cbb-7ee9-0580-92bf-0129ba5850b7/OfflineGames-AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 201246180,
+      "size": 210165801,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/e8/00/3ee80013-9c36-a179-c946-33ab070a40cf/379e8963-40be-443a-962d-350f6c4f6f44_new_12.9_3.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/27/88/182788f2-9401-d73b-4dfd-774d0dc80b13/235ac8a4-ac7d-46aa-a8ed-b73cbb643e55_13_ipad.png/576x768bb.png",
@@ -46430,7 +46430,8 @@
       "appPermissions": {
         "entitlements": [
           "aps-environment",
-          "com.apple.developer.game-center"
+          "com.apple.developer.game-center",
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSUserTrackingUsageDescription": "Your data will be used to provide you a better and personalised ad experience"
@@ -46438,11 +46439,11 @@
       },
       "versions": [
         {
-          "version": "1.55",
-          "date": "2026-06-14",
+          "version": "1.59",
+          "date": "2026-06-27",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofflinegamesnowififun\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Offline Games No WiFi Fun 100+-v1.55-riftysipas.ipa",
-          "size": 201246180
+          "downloadURL": "https://telos.ftp.sh/ipas/Offline Games No WiFi Fun 100+-v1.59-riftysipas.ipa",
+          "size": 210165801
         }
       ],
       "category": "games"
