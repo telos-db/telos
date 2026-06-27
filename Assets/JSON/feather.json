@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.unofficialcalculators.payplan",
+    "com.luma-touch.LumaFusion",
     "com.huami.LoadController",
     "com.evolve.podcast",
-    "com.resonantcavity.Voloco",
-    "com.locket.Locket",
-    "com.ulisesolave.Fitia"
+    "com.resonantcavity.Voloco"
   ],
   "apps": [
     {
@@ -7259,14 +7259,14 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.1.95",
-      "versionDate": "2026-06-25",
+      "version": "4.1.96",
+      "versionDate": "2026-06-27",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.95-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.96-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nBill Tracker Pro\n\n---\nBill Tracker Pro is the #1 app for tracking bills, income, and spending. Connect your bank, create a budget, track your cash flow, and take control of your finances.\n\nNew in Bill Tracker Pro:\n\nBank Sync with Plaid – Connect your accounts to sync transactions automatically.\n\nKnow What’s Safe to Spend – See your real-time spending power after upcoming bills.\n\nNever Miss a Bill – Set reminders, view your upcoming bills at a glance, and stay organized with widgets.\n\nFind Hidden Subscriptions – Uncov",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/46/b0/a746b030-b429-b6ae-bf3f-20aa368a416e/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 150507269,
+      "size": 150503508,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/df/72/1cdf72bb-1d54-7a27-d6e4-e54ef4151c21/pr_source.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/ab/2c/f4ab2cef-41bd-f2bf-2980-f7910d3d3dd8/pr_source.png/552x414bb.png",
@@ -7293,11 +7293,11 @@
       },
       "versions": [
         {
-          "version": "4.1.95",
-          "date": "2026-06-25",
+          "version": "4.1.96",
+          "date": "2026-06-27",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.95-riftysipas.ipa",
-          "size": 150507269
+          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.96-riftysipas.ipa",
+          "size": 150503508
         }
       ],
       "category": "finance"
@@ -38590,15 +38590,15 @@
       "name": "LumaFusion",
       "bundleIdentifier": "com.luma-touch.LumaFusion",
       "developerName": "Luma Touch LLC",
-      "subtitle": "Tweaked with Fixipa1, Fixipa2",
-      "version": "5.3.2",
-      "versionDate": "2026-03-01",
-      "versionDescription": "Tweaks: Fixipa1, Fixipa2, substrate\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/LumaFusion_5.3.2_3BodSy.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: Fixipa1, Fixipa2, substrate\n\nApplication LumaFusion\n\n---\nLumaFusion: The Ultimate Storytelling Experience for Video Editing\n\nWelcome to the App Store’s “App of the Year” for 2021 and the recipient of the Editors’ Choice Award! The gold standard for storytellers worldwide. Offering a fluid, intuitive, touch-screen editing experience.\n\nPROFESSIONAL EDITING MADE EASY\n• Six video/audio or graphic tracks: Create multiple layer edits with smooth handling of 4K ProRes and HDR media.\n• Six Additional audio tracks: Build your soundscape.\n• The ultimate Timelin",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/18/8b/c9188b88-840b-548e-165c-a93cacdcc951/LumaFusionComposerIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "subtitle": "LumaFusion for iOS",
+      "version": "5.4.4",
+      "versionDate": "2026-06-27",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/LumaFusion-5.4.4.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nLumaFusion\n\n---\nLumaFusion: The Ultimate Storytelling Experience for Video Editing\n\nWelcome to the App Store’s “App of the Year” for 2021 and the recipient of the Editors’ Choice Award! The gold standard for storytellers worldwide. Offering a fluid, intuitive, touch-screen editing experience.\n\nPROFESSIONAL EDITING MADE EASY\n• Six video/audio or graphic tracks: Create multiple layer edits with smooth handling of 4K ProRes and HDR media.\n• Six Additional audio tracks: Build your soundscape.\n• The ultimate Timelin",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/45/39/a64539ec-1521-9f96-fcd0-c7ac15a753ec/LumaFusionComposerIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 170359971,
+      "size": 172104026,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -38610,11 +38610,11 @@
       },
       "versions": [
         {
-          "version": "5.3.2",
-          "date": "2026-03-01",
-          "localizedDescription": "Tweaks: Fixipa1, Fixipa2, substrate\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/LumaFusion_5.3.2_3BodSy.ipa",
-          "size": 170359971
+          "version": "5.4.4",
+          "date": "2026-06-27",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/LumaFusion-5.4.4.ipa",
+          "size": 172104026
         }
       ],
       "category": "photo-&-video"
