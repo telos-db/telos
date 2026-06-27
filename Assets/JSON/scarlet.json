@@ -4654,12 +4654,12 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nBill Tracker Pro\n\n---\nBill Tracker Pro is the #1 app for tracking bills, income, and spending. Connect your bank, create a budget, track your cash flow, and take control of your finances.\n\nNew in Bill Tracker Pro:\n\nBank Sync with Plaid – Connect your accounts to sync transactions automatically.\n\nKnow What’s Safe to Spend – See your real-time spending power after upcoming bills.\n\nNever Miss a Bill – Set reminders, view your upcoming bills at a glance, and stay organized with widgets.\n\nFind Hidden Subscriptions – Uncov",
-      "version": "4.1.95",
-      "versionDate": "2026-06-25T18:41:44-00:00",
-      "versionDescription": "Build 2 from @riftysIPAlibrary",
-      "size": 150507269,
+      "version": "4.1.96",
+      "versionDate": "2026-06-27T13:41:41-00:00",
+      "versionDescription": "Build 1 from @riftysIPAlibrary",
+      "size": 150503508,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/46/b0/a746b030-b429-b6ae-bf3f-20aa368a416e/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.95-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.96-riftysipas.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -4672,7 +4672,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Bill Tracker Pro-v4.1.95-riftysipas.ipa"
+        "originalFile": "Bill Tracker Pro-v4.1.96-riftysipas.ipa"
       }
     },
     {
@@ -24018,14 +24018,14 @@
       "name": "LumaFusion",
       "bundleIdentifier": "com.luma-touch.LumaFusion",
       "developerName": "Luma Touch LLC",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: Fixipa1, Fixipa2, substrate\n\nApplication LumaFusion\n\n---\nLumaFusion: The Ultimate Storytelling Experience for Video Editing\n\nWelcome to the App Store’s “App of the Year” for 2021 and the recipient of the Editors’ Choice Award! The gold standard for storytellers worldwide. Offering a fluid, intuitive, touch-screen editing experience.\n\nPROFESSIONAL EDITING MADE EASY\n• Six video/audio or graphic tracks: Create multiple layer edits with smooth handling of 4K ProRes and HDR media.\n• Six Additional audio tracks: Build your soundscape.\n• The ultimate Timelin",
-      "version": "5.3.2",
-      "versionDate": "2026-03-01T17:04:01-00:00",
-      "versionDescription": "Build 3413 from @thescholarslounge",
-      "size": 170359971,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/18/8b/c9188b88-840b-548e-165c-a93cacdcc951/LumaFusionComposerIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/LumaFusion_5.3.2_3BodSy.ipa",
-      "minOSVersion": "10.0",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nLumaFusion\n\n---\nLumaFusion: The Ultimate Storytelling Experience for Video Editing\n\nWelcome to the App Store’s “App of the Year” for 2021 and the recipient of the Editors’ Choice Award! The gold standard for storytellers worldwide. Offering a fluid, intuitive, touch-screen editing experience.\n\nPROFESSIONAL EDITING MADE EASY\n• Six video/audio or graphic tracks: Create multiple layer edits with smooth handling of 4K ProRes and HDR media.\n• Six Additional audio tracks: Build your soundscape.\n• The ultimate Timelin",
+      "version": "5.4.4",
+      "versionDate": "2026-06-27T13:34:19-00:00",
+      "versionDescription": "Build 3486 from @thescholarslounge",
+      "size": 172104026,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/45/39/a64539ec-1521-9f96-fcd0-c7ac15a753ec/LumaFusionComposerIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/LumaFusion-5.4.4.ipa",
+      "minOSVersion": "26.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -24037,7 +24037,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "LumaFusion_5.3.2_3BodSy.ipa"
+        "originalFile": "LumaFusion-5.4.4.ipa"
       }
     },
     {
