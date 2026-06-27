@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.wellocution.iosapp",
+    "com.sfun.snapedit",
     "com.mfagency.nurture",
     "me.imgbase.videoday",
-    "com.withopal.opal",
-    "com.adobe.fresco.ios",
-    "com.campmobile.snow"
+    "com.withopal.opal"
   ],
   "apps": [
     {
@@ -8230,20 +8230,21 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Tweaked with BoldVoice, blatantsPatch",
-      "version": "4.0.7",
-      "versionDate": "2026-06-25",
+      "version": "4.0.8",
+      "versionDate": "2026-06-27",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_7_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_8_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BoldVoice, blatantsPatch\n\nBoldVoice: Accent Training\n\n---\nBoldVoice is the top-rated English speaking and pronunciation app, with over 2 million global users. Our Hollywood accent coaches and AI-powered feedback will help you achieve clear, confident pronunciation, with only 10 minutes of daily practice.\n\nWHY CHOOSE BOLDVOICE:\nLearn from professional accent coaches who train Hollywood actors\nRecord your voice and receive instant, AI-powered pronunciation feedback\nPractice with daily-life scenarios and professional conversations\nMonitor progress through",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/54/3e/5d543e2c-51bb-1d38-261b-2f75ad39987c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 147235129,
+      "size": 148235400,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
+          "com.apple.developer.applesignin",
           "aps-environment",
           "com.apple.developer.associated-domains",
-          "com.apple.developer.applesignin"
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Allow BoldVoice to access your photo library so you can choose an image to use as your profile picture",
@@ -8256,11 +8257,11 @@
       },
       "versions": [
         {
-          "version": "4.0.7",
-          "date": "2026-06-25",
+          "version": "4.0.8",
+          "date": "2026-06-27",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_7_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 147235129
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_8_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 148235400
         }
       ],
       "category": "education"
@@ -60912,14 +60913,14 @@
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
       "subtitle": "Tweaked with SnapEdit, blatantsPatch",
-      "version": "6.14.5",
-      "versionDate": "2026-06-25",
+      "version": "6.15.0",
+      "versionDate": "2026-06-27",
       "versionDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_14_5_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.15 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SnapEdit, blatantsPatch\n\nSnapEdit: Photo Editor AI\n\n---\nSnapEdit is one of the best photo editing apps using AI with a mission to make your editing easy, smooth and fun.\n\nTransform your photos like never before with SnapEdit, the ultimate photo editing app designed to effortlessly remove unwanted objects, enhance image quality, and create stunning visual masterpieces. Download SnapEdit now and unlock a world of possibilities for your photos!\n\nKEY FEATURES:\n\nONE-TOUCH OBJECT REMOVAL: Say goodbye to photobombers, unwanted elements, or distracting objec",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/91/fe/9b91fe48-1611-705a-fb61-64dc25461aaf/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 96341707,
+      "size": 103729405,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -60938,11 +60939,11 @@
       },
       "versions": [
         {
-          "version": "6.14.5",
-          "date": "2026-06-25",
+          "version": "6.15.0",
+          "date": "2026-06-27",
           "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_14_5_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 96341707
+          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.15 Pro Unlocked blatant Patched.ipa",
+          "size": 103729405
         }
       ],
       "category": "photo-&-video"
