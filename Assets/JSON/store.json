@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.reveri.reverihealth",
+    "com.thegenau.NoteCircle",
     "com.getupnote.ios",
     "com.shinobiapp.shinobi",
-    "com.media720.offlinegames",
-    "com.linkedin.LinkedIn",
-    "com.rosberry.LSTV"
+    "com.media720.offlinegames"
   ],
   "apps": [
     {
@@ -45024,14 +45024,14 @@
       "bundleIdentifier": "com.thegenau.NoteCircle",
       "developerName": "Genau Factory",
       "subtitle": "*Tweak:** Plus Unlocked | *Patched ✓**",
-      "version": "4.71",
-      "versionDate": "2026-06-23",
+      "version": "4.72",
+      "versionDate": "2026-06-27",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/NoteCircle: To Do, Checklist-v4.71-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/NoteCircle: To Do, Checklist-v4.72-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Plus Unlocked | *Patched ✓**\n\nNoteCircle: To Do, Checklist",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/bd/f3/3cbdf3bc-aee7-5c5d-66b3-50f442aa4aa8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 16037460,
+      "size": 16038240,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/09/dc/e909dc2c-19c7-5b66-831f-b8f8826186ed/29264c3a-fedc-41ea-b7c1-768c18e08e52_NC-ipad-1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/a1/4e/afa14e91-bf92-69bc-4425-bdb02d17581d/39476541-e32d-4c58-8b33-6a12320f360f_NC-ipad-2.png/576x768bb.png",
@@ -45057,11 +45057,11 @@
       },
       "versions": [
         {
-          "version": "4.71",
-          "date": "2026-06-23",
+          "version": "4.72",
+          "date": "2026-06-27",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/NoteCircle: To Do, Checklist-v4.71-riftysipas.ipa",
-          "size": 16037460
+          "downloadURL": "https://telos.ftp.sh/ipas/NoteCircle: To Do, Checklist-v4.72-riftysipas.ipa",
+          "size": 16038240
         }
       ],
       "category": "productivity"
@@ -55760,14 +55760,14 @@
       "bundleIdentifier": "com.reveri.reverihealth",
       "developerName": "Reveri Health, Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "4.9.0",
-      "versionDate": "2026-06-24",
+      "version": "4.10.0",
+      "versionDate": "2026-06-27",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Reveri: Brain Over Pain-v4.9.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Reveri: Brain Over Pain-v4.10.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nReveri: Brain Over Pain",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/14/2d/53142de6-c53b-b1d4-153c-30db0f93e71a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 76067151,
+      "size": 87706263,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/c5/fb/09c5fb9c-deee-4afc-8b1e-4d71d173e23b/01_AppStore_5-5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/e1/65/a0e165af-194f-4649-fa55-6f3b501b0c9f/02_AppStore_5-5.png/392x696bb.png",
@@ -55795,11 +55795,11 @@
       },
       "versions": [
         {
-          "version": "4.9.0",
-          "date": "2026-06-24",
+          "version": "4.10.0",
+          "date": "2026-06-27",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Reveri: Brain Over Pain-v4.9.0-riftysipas.ipa",
-          "size": 76067151
+          "downloadURL": "https://telos.ftp.sh/ipas/Reveri: Brain Over Pain-v4.10.0-riftysipas.ipa",
+          "size": 87706263
         }
       ],
       "category": "health-&-fitness"
@@ -79819,7 +79819,7 @@
     {
       "title": "⚙️ Telos Update 6.27",
       "identifier": "telos-update-2026-06-27",
-      "caption": "44 Apps Updated:\n• 5 Photo & Video\n• 5 Graphics & Design\n• 4 Productivity\n• 4 Education\n• 4 Health & Fitness\n• 4 Business\n• 2 Music\n• 2 Social Networking\n• 2 News\n• 2 Finance\n• 2 Entertainment\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Games",
+      "caption": "52 Apps Updated:\n• 8 Productivity\n• 8 Health & Fitness\n• 5 Photo & Video\n• 5 Graphics & Design\n• 4 Education\n• 4 Business\n• 2 Music\n• 2 Social Networking\n• 2 News\n• 2 Finance\n• 2 Entertainment\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Games",
       "date": "2026-06-27",
       "tintColor": "#02433b",
       "notify": true,
