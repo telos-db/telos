@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.evolve.podcast",
     "com.resonantcavity.Voloco",
     "com.locket.Locket",
     "com.ulisesolave.Fitia",
-    "com.wellocution.iosapp",
-    "com.sfun.snapedit"
+    "com.wellocution.iosapp"
   ],
   "apps": [
     {
@@ -52100,14 +52100,14 @@
       "bundleIdentifier": "com.evolve.podcast",
       "developerName": "Evolve Global, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "7.8.0",
-      "versionDate": "2026-06-19",
+      "version": "7.9.0",
+      "versionDate": "2026-06-27",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.8.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.9.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nPodcast App\n\n---\nGet millions of podcasts at your fingertips and any curiosity on-demand, only on Podcast App: the #1 most downloaded podcast app in The App Store. Sharpen up in your downtime with free and easy access to millions of shows. Start feeding all of your interests from news and comedy to true crime, sports and infinitely more.\n\nFind something new to listen to in less than 10 seconds. With endless personalized recommendations, interest categories, and our powerful search and filters, it’s easy to disco",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/90/77/59907776-cc35-c081-818a-bed20351c05e/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 52379891,
+      "size": 52385807,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/d3/03/b3d30346-9743-a201-b3cc-a20c1ef3ae19/dab702f7-c5a1-41ec-8f24-22240e56c809_EN_-_5.5_-_Screenshot_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/7a/a4/c47aa4ac-6667-d771-d1fe-76dd5369744f/6404e4fd-5396-4389-b62f-292adf70d49a_EN_-_5.5_-_Screenshot_02.png/392x696bb.png",
@@ -52136,11 +52136,11 @@
       },
       "versions": [
         {
-          "version": "7.8.0",
-          "date": "2026-06-19",
+          "version": "7.9.0",
+          "date": "2026-06-27",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.8.0-riftysipas.ipa",
-          "size": 52379891
+          "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.9.0-riftysipas.ipa",
+          "size": 52385807
         }
       ],
       "category": "news"
