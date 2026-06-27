@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.adguard.AdguardPro",
     "flux.inchmade.app",
     "au.com.savageinteractive.procreate",
     "au.com.savageinteractive.procreate-pocket",
-    "com.sbs.train",
-    "com.unofficialcalculators.payplan"
+    "com.sbs.train"
   ],
   "apps": [
     {
@@ -1564,14 +1564,14 @@
       "bundleIdentifier": "com.adguard.AdguardPro",
       "developerName": "Adguard Software Limited",
       "subtitle": "Tweaked with CydiaSubstrate, zxPluginsInject",
-      "version": "4.5.20",
-      "versionDate": "2026-06-15",
+      "version": "4.5.21",
+      "versionDate": "2026-06-27",
       "versionDescription": "Tweaks: CydiaSubstrate, zxPluginsInject\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/AdGuard Pro-4.5.20.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AdGuard Pro-4.5.21.ipa",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, zxPluginsInject\n\nAdguard Pro (Beta)\n\n---\nAdGuard is an ultra-efficient ad blocker for Safari. It will not only remove annoying ads but also secure your privacy with advanced tracking protection. AdGuard for iOS is an open source app, it’s totally transparent and safe to use.\n\nKEY FEATURES:\n\n- Safari ad blocking. Removes all kinds of ads in Safari. Say goodbye to annoying banners, pop-ups and video ads. Whitelist your favorite websites or use manual blocking tool to hide any element on the page.\n\n- Privacy protection. The web is full of",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/61/27/aa6127f5-b65d-625e-84e5-0995e87a12cf/ProAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 36955712,
+      "size": 37092602,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ef/7f/e9/ef7fe9ad-82c0-fa44-de78-cdf9e4352e16/pr_source.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7c/d1/24/7cd1246e-adf4-fb26-c266-bc3fa9f75911/pr_source.jpg/392x696bb.jpg",
@@ -1585,11 +1585,11 @@
       },
       "versions": [
         {
-          "version": "4.5.20",
-          "date": "2026-06-15",
+          "version": "4.5.21",
+          "date": "2026-06-27",
           "localizedDescription": "Tweaks: CydiaSubstrate, zxPluginsInject\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/AdGuard Pro-4.5.20.ipa",
-          "size": 36955712
+          "downloadURL": "https://telos.ftp.sh/ipas/AdGuard Pro-4.5.21.ipa",
+          "size": 37092602
         }
       ],
       "category": "utilities"
