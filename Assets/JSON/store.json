@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "flux.inchmade.app",
     "au.com.savageinteractive.procreate",
     "au.com.savageinteractive.procreate-pocket",
     "com.sbs.train",
-    "com.unofficialcalculators.payplan",
-    "com.luma-touch.LumaFusion"
+    "com.unofficialcalculators.payplan"
   ],
   "apps": [
     {
@@ -24719,14 +24719,14 @@
       "bundleIdentifier": "flux.inchmade.app",
       "developerName": "宋帅 郑",
       "subtitle": "Forward for iOS",
-      "version": "1.3.6",
-      "versionDate": "2026-02-28",
+      "version": "1.3.17",
+      "versionDate": "2026-06-27",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/flux.inchmade.app-1.3.6-eeveedecrypter.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/flux.inchmade.app-1.3.17-eeveedecrypter.ipa",
       "localizedDescription": "Forward for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/d0/10/e9d010cc-4724-e6b4-8fcf-553276f8257c/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/3c/e6/ae3ce61f-9ee5-307e-0325-00cf993a992f/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 97601764,
+      "size": 98345542,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -24738,11 +24738,11 @@
       },
       "versions": [
         {
-          "version": "1.3.6",
-          "date": "2026-02-28",
+          "version": "1.3.17",
+          "date": "2026-06-08",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/flux.inchmade.app-1.3.6-eeveedecrypter.ipa",
-          "size": 97601764
+          "downloadURL": "https://telos.ftp.sh/ipas/flux.inchmade.app-1.3.17-eeveedecrypter.ipa",
+          "size": 98345542
         }
       ],
       "category": "entertainment"
@@ -79779,7 +79779,7 @@
     {
       "title": "⚙️ Telos Update 6.27",
       "identifier": "telos-update-2026-06-27",
-      "caption": "34 Apps Updated:\n• 9 Graphics & Design\n• 6 Health & Fitness\n• 5 Photo & Video\n• 2 Productivity\n• 2 Education\n• 2 Music\n• 2 Social Networking\n• 2 News\n• 2 Finance\n• 2 Business",
+      "caption": "32 Apps Updated:\n• 5 Photo & Video\n• 5 Graphics & Design\n• 4 Health & Fitness\n• 4 Entertainment\n• 2 Productivity\n• 2 Education\n• 2 Music\n• 2 Social Networking\n• 2 News\n• 2 Finance\n• 2 Business",
       "date": "2026-06-27",
       "tintColor": "#02433b",
       "notify": true,
