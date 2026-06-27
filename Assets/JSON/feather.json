@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.shinobiapp.shinobi",
     "com.media720.offlinegames",
     "com.linkedin.LinkedIn",
     "com.rosberry.LSTV",
-    "pinterest",
-    "com.adguard.AdguardPro"
+    "pinterest"
   ],
   "apps": [
     {
@@ -59083,14 +59083,14 @@
       "bundleIdentifier": "com.shinobiapp.shinobi",
       "developerName": "Jeremy Pitault",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.3.4",
-      "versionDate": "2026-06-14",
+      "version": "1.4.2",
+      "versionDate": "2026-06-27",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Shinobi: Read Japanese Stories-v1.3.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Shinobi: Read Japanese Stories-v1.4.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nShinobi: Read Japanese Stories\n\n---\nLearn Japanese through illustrated stories, native audio, shadowing, quizzes, and interactive reading tools.\n\nShinobi Japanese helps you build reading, kanji, vocabulary, grammar, listening, and speaking skills through content that feels immersive, practical, and actually enjoyable. Instead of memorizing isolated words and grammar points, you learn Japanese in context through stories, audio, news reading, and smart review tools.\n\nAt the core of Shinobi Japanese are illustrated stories designed t",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/e5/e8/9ae5e8aa-a445-7493-c768-6fcb9dc6d268/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 54240364,
+      "size": 47169858,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -59109,11 +59109,11 @@
       },
       "versions": [
         {
-          "version": "1.3.4",
-          "date": "2026-06-14",
+          "version": "1.4.2",
+          "date": "2026-06-27",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Shinobi: Read Japanese Stories-v1.3.4-riftysipas.ipa",
-          "size": 54240364
+          "downloadURL": "https://telos.ftp.sh/ipas/Shinobi: Read Japanese Stories-v1.4.2-riftysipas.ipa",
+          "size": 47169858
         }
       ],
       "category": "education"
