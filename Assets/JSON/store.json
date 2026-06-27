@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.shinobiapp.shinobi",
     "com.media720.offlinegames",
     "com.linkedin.LinkedIn",
     "com.rosberry.LSTV",
-    "pinterest",
-    "com.adguard.AdguardPro"
+    "pinterest"
   ],
   "apps": [
     {
@@ -58634,14 +58634,14 @@
       "bundleIdentifier": "com.shinobiapp.shinobi",
       "developerName": "Jeremy Pitault",
       "subtitle": "*Tweak:** Subscription Unlocked | *Notes:** Restart App If Subscription Isn'T Unlocked",
-      "version": "1.4.1",
-      "versionDate": "2026-06-08",
+      "version": "1.4.2",
+      "versionDate": "2026-06-27",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Shinobi: Read Japanese Stories-v1.4.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Shinobi: Read Japanese Stories-v1.4.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Notes:** Restart App If Subscription Isn'T Unlocked | *Patched ✓** | *Bundle Id:** Com.Shinobiapp.Shinobi\n\nShinobi: Read Japanese Stories",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/e5/e8/9ae5e8aa-a445-7493-c768-6fcb9dc6d268/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 42098722,
+      "size": 47169858,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -58660,11 +58660,11 @@
       },
       "versions": [
         {
-          "version": "1.4.1",
-          "date": "2026-06-05",
+          "version": "1.4.2",
+          "date": "2026-06-27",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Shinobi: Read Japanese Stories-v1.4.1-riftysipas.ipa",
-          "size": 42098722
+          "downloadURL": "https://telos.ftp.sh/ipas/Shinobi: Read Japanese Stories-v1.4.2-riftysipas.ipa",
+          "size": 47169858
         }
       ],
       "category": "education"
@@ -79819,7 +79819,7 @@
     {
       "title": "⚙️ Telos Update 6.27",
       "identifier": "telos-update-2026-06-27",
-      "caption": "44 Apps Updated:\n• 6 Business\n• 5 Photo & Video\n• 5 Graphics & Design\n• 4 Health & Fitness\n• 4 Games\n• 2 Productivity\n• 2 Education\n• 2 Music\n• 2 Social Networking\n• 2 News\n• 2 Finance\n• 2 Entertainment\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports",
+      "caption": "44 Apps Updated:\n• 6 Education\n• 5 Photo & Video\n• 5 Graphics & Design\n• 4 Health & Fitness\n• 4 Business\n• 2 Productivity\n• 2 Music\n• 2 Social Networking\n• 2 News\n• 2 Finance\n• 2 Entertainment\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Games",
       "date": "2026-06-27",
       "tintColor": "#02433b",
       "notify": true,
