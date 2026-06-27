@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.huami.LoadController",
     "com.evolve.podcast",
     "com.resonantcavity.Voloco",
     "com.locket.Locket",
-    "com.ulisesolave.Fitia",
-    "com.wellocution.iosapp"
+    "com.ulisesolave.Fitia"
   ],
   "apps": [
     {
@@ -35961,6 +35961,43 @@
         }
       ],
       "category": "music"
+    },
+    {
+      "name": "LCSign",
+      "bundleIdentifier": "com.huami.LoadController",
+      "developerName": "LCS Family of Companies",
+      "subtitle": "LCSign for iOS",
+      "version": "1.1",
+      "versionDate": "2026-06-27",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/LCSign-1.1-8.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n本次更新：\n\n---\nAt LCS, we strive to lead the way in making a difference in people's lives. Our LCS Live Well app offers you easy access to company opportunities and communication such as:\n- Connecting with LCS\n- Career Opportunities\n- Conferences\n- LCS News",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/5f/da/9d5fda4b-0687-345d-f5be-49110d55be85/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 18793401,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/af/da/ad/afdaada5-a2ff-d438-a098-e8e0d0503b49/56cb6459-9f75-44c8-be48-75c081cb94b2_IOS-Screenshots_1242x2208_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/af/05/d3/af05d3d1-59be-810e-4ba9-f76daadfd93d/68a8e4cc-a781-4db5-a033-dcf48430c8dc_IOS-Screenshots_1242x2208_5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/66/f5/bc/66f5bc57-213e-9aef-9375-41fc5565fd6a/c4f8924c-fe26-42d2-8b8e-6cb413c4b516_IOS-Screenshots_1242x2208_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/4c/77/da/4c77da80-70ac-5d34-6116-b448fb054a24/3089dc71-1716-4cb8-a6fe-e4ba638bfd65_IOS-Screenshots_1242x2208_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3b/d6/ed/3bd6ed42-c99d-5595-3eb7-8c93c99634dc/ba493465-2e4c-44a8-81fb-509ea7d71ee3_IOS-Screenshots_1242x2208_2.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "选择图片并裁切后用作应用图标。"
+        }
+      },
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2026-06-27",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/LCSign-1.1-8.ipa",
+          "size": 18793401
+        }
+      ],
+      "category": "business"
     },
     {
       "name": "LD",
