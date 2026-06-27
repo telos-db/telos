@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "au.com.savageinteractive.procreate",
+    "au.com.savageinteractive.procreate-pocket",
+    "com.sbs.train",
     "com.unofficialcalculators.payplan",
-    "com.luma-touch.LumaFusion",
-    "com.huami.LoadController",
-    "com.evolve.podcast",
-    "com.resonantcavity.Voloco"
+    "com.luma-touch.LumaFusion"
   ],
   "apps": [
     {
@@ -51579,6 +51579,48 @@
       "category": "education"
     },
     {
+      "name": "Pocket",
+      "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
+      "developerName": "Savage Interactive Pty Ltd",
+      "subtitle": "Pocket for iOS",
+      "version": "4.0.16",
+      "versionDate": "2026-06-27",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/Procreate Pocket-4.0.16.ipa",
+      "localizedDescription": "Procreate Pocket",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/18/61/d2186101-9232-1bcf-251a-8ca543a12010/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 331187323,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/a7/99/74a79962-ebb4-32c7-b3c2-f7bce522872f/697c6eb6-5388-4db9-9edc-4eb7b29df749_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/c1/29/2cc129b6-8c56-7e9c-5f77-542aa01948c5/52d85650-0175-49dd-bf28-25e3693d2d13_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/43/1c/81431c60-7596-62c7-c51b-7a7c568fcf3a/f4181a34-738a-45af-b5c2-747fe61b083c_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/63/44/bc6344ca-6d8b-2fdd-6f27-c07dddf2feec/dcd3b4c3-ef04-42f6-ab86-a234e100d543_5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/c3/f2/3bc3f242-f404-9271-69dd-ed0ea6aa4b5d/40ee9e91-c40d-48d8-9703-8244f0a3e9a1_6.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Transferring images to and from Photos.",
+          "NSCameraUsageDescription": "Importing images from the camera.",
+          "NSMicrophoneUsageDescription": "Record audio in FacePaint recording.",
+          "NSBluetoothAlwaysUsageDescription": "This app needs access to Bluetooth to connect third-party styluses.",
+          "NSBluetoothPeripheralUsageDescription": "3rd-party Stylus connectivity.",
+          "NSPhotoLibraryAddUsageDescription": "Add images to your photo library."
+        }
+      },
+      "versions": [
+        {
+          "version": "4.0.16",
+          "date": "2026-03-29",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/Procreate Pocket-4.0.16.ipa",
+          "size": 331187323
+        }
+      ],
+      "category": "graphics-&-design"
+    },
+    {
       "name": "pocket",
       "bundleIdentifier": "com.TimonHarz.pocket",
       "developerName": "Rica Harz",
@@ -52691,20 +52733,20 @@
       "bundleIdentifier": "au.com.savageinteractive.procreate",
       "developerName": "Savage Interactive Pty Ltd",
       "subtitle": "Procreate for iOS",
-      "version": "5.4.9",
-      "versionDate": "2026-03-19",
-      "versionDescription": "Source: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Procreate.5.4.9.ipa",
-      "localizedDescription": "Procreate\n\n---\n\nLoved by creative professionals and aspiring artists alike, Procreate is the leading creative application made for iPad.\n\nProcreate has everything you need to create expressive sketches, rich paintings, gorgeous illustrations, and beautiful animations. Offering 100s of handmade brushes, a suite of industry-leading artistic tools, an advanced layer system, and the powerful Valkyrie graphics engine.\n\nIt’s a complete art studio you can take anywhere.\n\nHighlights:\n\n- High resolution canvases — up to",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/9c/27/4b9c27ce-4587-1232-70ae-4830c22af68e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+      "version": "5.4.11",
+      "versionDate": "2026-06-27",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/Procreate iPad-5.4.11.ipa",
+      "localizedDescription": "Procreate iPad",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/08/15/c7081579-8de6-58a6-9dd1-80532c6dd657/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 1011183296,
+      "size": 1032213217,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/8d/d0/3f8dd07b-ec42-448f-4f9b-ef586558f957/2.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/74/c4/6374c45e-964f-131a-4841-a4b100d6d297/3.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/ea/5b/b6ea5b64-2367-a04c-1064-8932a673e8fa/4.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/7c/ba/1a7cbaa0-4626-f421-f84c-5b7df7fd96b1/5.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/20/b5/5420b542-0ea5-ada7-848c-c4d637542307/6.png/552x414bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/ff/53/0aff5369-6507-af49-9372-78312812bfd0/2.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/59/7d/a0597dfa-434b-e969-13bd-d7363146cebb/3.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/c3/95/aec395b1-d24f-73e6-7065-e0452d2fdf60/4.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/1d/69/b61d6918-774e-83bc-3f2f-71eee9717842/5.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/e1/ce/13e1ce1c-f3c1-47c0-4016-21f31b7da5e5/6.png/552x414bb.png"
       ],
       "appPermissions": {
         "entitlements": [],
@@ -52718,11 +52760,11 @@
       },
       "versions": [
         {
-          "version": "5.4.9",
-          "date": "2026-03-17",
-          "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Procreate.5.4.9.ipa",
-          "size": 1011183296
+          "version": "5.4.11",
+          "date": "2026-06-09",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/Procreate iPad-5.4.11.ipa",
+          "size": 1032213217
         }
       ],
       "category": "graphics-&-design"
@@ -76792,15 +76834,15 @@
       "name": "Workouts",
       "bundleIdentifier": "com.sbs.train",
       "developerName": "Stronger By Science Technologies LLC",
-      "subtitle": "Subscription Unlocked | Patched",
-      "version": "1.2.1",
-      "versionDate": "2026-06-01",
-      "versionDescription": "Tweaks: MacroFactorWorkouts, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/MacroFactor_Workouts_Tracker_v1_2_1_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nMacroFactor Workouts - Tracker",
+      "subtitle": "Workouts for iOS",
+      "version": "1.2.2",
+      "versionDate": "2026-06-27",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.sbs.train-1.2.2-eeveedecrypter.ipa",
+      "localizedDescription": "Workouts for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/a5/39/90a539fe-f1d6-f851-63fc-f2fe6bb91dd3/WorkoutsAppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 202625281,
+      "size": 199083922,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -76824,11 +76866,11 @@
       },
       "versions": [
         {
-          "version": "1.2.1",
-          "date": "2026-06-01",
-          "localizedDescription": "Tweaks: MacroFactorWorkouts, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/MacroFactor_Workouts_Tracker_v1_2_1_Subscription_Unlocked_blatant.ipa",
-          "size": 202625281
+          "version": "1.2.2",
+          "date": "2026-05-29",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.sbs.train-1.2.2-eeveedecrypter.ipa",
+          "size": 199083922
         }
       ],
       "category": "health-&-fitness"
@@ -79737,7 +79779,7 @@
     {
       "title": "⚙️ Telos Update 6.27",
       "identifier": "telos-update-2026-06-27",
-      "caption": "26 Apps Updated:\n• 7 Photo & Video\n• 4 Finance\n• 2 Productivity\n• 2 Education\n• 2 Health & Fitness\n• 2 Music\n• 2 Social Networking\n• 2 News\n• 2 Business\n• 1 Graphics & Design",
+      "caption": "34 Apps Updated:\n• 9 Graphics & Design\n• 6 Health & Fitness\n• 5 Photo & Video\n• 2 Productivity\n• 2 Education\n• 2 Music\n• 2 Social Networking\n• 2 News\n• 2 Finance\n• 2 Business",
       "date": "2026-06-27",
       "tintColor": "#02433b",
       "notify": true,
