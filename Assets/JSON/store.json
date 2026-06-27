@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.getupnote.ios",
     "com.shinobiapp.shinobi",
     "com.media720.offlinegames",
     "com.linkedin.LinkedIn",
-    "com.rosberry.LSTV",
-    "pinterest"
+    "com.rosberry.LSTV"
   ],
   "apps": [
     {
@@ -3967,54 +3967,6 @@
     },
     {
       "name": "Apollo",
-      "bundleIdentifier": "com.christianselig.Apollo",
-      "developerName": "Christian Selig",
-      "subtitle": "Tweaked with ApolloOpenInFix, ApolloReborn",
-      "version": "3.3.0",
-      "versionDate": "2026-06-26",
-      "versionDescription": "Tweaks: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.3.0.ipa",
-      "localizedDescription": "Apollo for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 89910361,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/6d/3b/c86d3b98-22c4-7c40-01a8-e6702d038deb/mzl.ljkxslvt.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/c3/ad/95c3ad3d-07ea-9569-4f85-ed6b1125e56e/mzl.uihfwjbv.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/34/46/78/344678ba-13ac-c539-627f-0715f6202959/mzl.vmzurxxj.png/392x696bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.group-session",
-          "com.apple.developer.weatherkit",
-          "aps-environment",
-          "com.apple.developer.associated-domains",
-          "com.apple.security.application-groups"
-        ],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "Used to save media or to select images to upload for sharing.",
-          "NSCameraUsageDescription": "Used to take photos to upload for sharing.",
-          "NSLocationWhenInUseUsageDescription": "Checked once to calculate sunset/sunrise times for the location.",
-          "NSMotionUsageDescription": "Detect rotations in Media Viewer and offer corresponding options.",
-          "NSFaceIDUsageDescription": "Unlock Apollo when re-opening in order to prevent unauthorized access.",
-          "NSPhotoLibraryAddUsageDescription": "Save media to photo library."
-        }
-      },
-      "versions": [
-        {
-          "version": "3.3.0",
-          "date": "2026-06-26",
-          "localizedDescription": "Tweaks: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.3.0.ipa",
-          "size": 89910361
-        }
-      ],
-      "category": "news"
-    },
-    {
-      "name": "Apollo",
       "bundleIdentifier": "com.food.Apollo",
       "developerName": "Christian Selig",
       "subtitle": "Tweaked with ApolloImprovedCustomApi, CydiaSubstrate",
@@ -4057,6 +4009,54 @@
           "localizedDescription": "Tweaks: ApolloImprovedCustomApi, CydiaSubstrate, RedditSideloadFix, substrate\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://telos.ftp.sh/ipas/Apollo_1.15.11_1721981181.ipa",
           "size": 88294649
+        }
+      ],
+      "category": "news"
+    },
+    {
+      "name": "Apollo",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "developerName": "Christian Selig",
+      "subtitle": "Tweaked with ApolloOpenInFix, ApolloReborn",
+      "version": "3.3.0",
+      "versionDate": "2026-06-26",
+      "versionDescription": "Tweaks: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.3.0.ipa",
+      "localizedDescription": "Apollo for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 89910361,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/6d/3b/c86d3b98-22c4-7c40-01a8-e6702d038deb/mzl.ljkxslvt.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/c3/ad/95c3ad3d-07ea-9569-4f85-ed6b1125e56e/mzl.uihfwjbv.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/34/46/78/344678ba-13ac-c539-627f-0715f6202959/mzl.vmzurxxj.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.group-session",
+          "com.apple.developer.weatherkit",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Used to save media or to select images to upload for sharing.",
+          "NSCameraUsageDescription": "Used to take photos to upload for sharing.",
+          "NSLocationWhenInUseUsageDescription": "Checked once to calculate sunset/sunrise times for the location.",
+          "NSMotionUsageDescription": "Detect rotations in Media Viewer and offer corresponding options.",
+          "NSFaceIDUsageDescription": "Unlock Apollo when re-opening in order to prevent unauthorized access.",
+          "NSPhotoLibraryAddUsageDescription": "Save media to photo library."
+        }
+      },
+      "versions": [
+        {
+          "version": "3.3.0",
+          "date": "2026-06-26",
+          "localizedDescription": "Tweaks: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.3.0.ipa",
+          "size": 89910361
         }
       ],
       "category": "news"
@@ -23968,44 +23968,6 @@
     },
     {
       "name": "Fluently",
-      "bundleIdentifier": "com.emrecanacer.AILanguage",
-      "developerName": "Engcraft, LLC",
-      "subtitle": "Tweaked with CydiaSubstrate, StopReviews",
-      "version": "1.1.2",
-      "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Al Language Tutor_v1.1.2_tg@Sa1y0miii.ipa",
-      "localizedDescription": "Fluently for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/ee/ab/42eeab70-8f65-c52e-824f-7324a34d319e/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 33341792,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/e6/82/79e682b0-0a83-b4de-f01b-e72b64e9d7cd/3dc39309-0474-4374-bec4-e0df71be9c7b_Slice_1.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/75/3a/1d753ac0-92c5-1aae-0126-98701fc5747e/2c216312-bb59-494c-9b9c-4f2d99f0726d_Slice_2.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/a3/71/5ba37185-6175-db4e-7e49-82cd95da395c/cfd8aa8d-e08e-461c-956c-3ca9f19f5a20_Slice_3.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/62/ea/9262ea99-b8e5-7c60-47a0-66bc76e97fe5/e5e8c7a8-976f-4318-b511-0f4550e5ae3b_Slice_4.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/97/e5/f597e5c0-64d9-bead-7789-5086d8bd883d/ee1d981e-f698-4966-a610-c53329375e9f_Slice_5.jpg/392x696bb.jpg"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSMicrophoneUsageDescription": "We need access to your microphone to provide voice input functionality during conversations. Your microphone will only be used when you choose to speak to the AI by tapping the microphone button.",
-          "NSSpeechRecognitionUsageDescription": "We need access to speech recognition to provide voice input functionality during conversations. It will only be used when you choose to speak to the AI by tapping the microphone button."
-        }
-      },
-      "versions": [
-        {
-          "version": "1.1.2",
-          "date": "2024-07-13",
-          "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Al Language Tutor_v1.1.2_tg@Sa1y0miii.ipa",
-          "size": 33341792
-        }
-      ],
-      "category": "education"
-    },
-    {
-      "name": "Fluently",
       "bundleIdentifier": "app.getfluently.app",
       "developerName": "Fluently, Inc.",
       "subtitle": "By ****@Billymooree**",
@@ -24039,6 +24001,44 @@
           "localizedDescription": "Tweaks: FluentlyAIEnglishTutorPatch\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://telos.ftp.sh/ipas/Fluently_-_AI_English_Tutor_49_1779872801.ipa",
           "size": 55848895
+        }
+      ],
+      "category": "education"
+    },
+    {
+      "name": "Fluently",
+      "bundleIdentifier": "com.emrecanacer.AILanguage",
+      "developerName": "Engcraft, LLC",
+      "subtitle": "Tweaked with CydiaSubstrate, StopReviews",
+      "version": "1.1.2",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Al Language Tutor_v1.1.2_tg@Sa1y0miii.ipa",
+      "localizedDescription": "Fluently for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/ee/ab/42eeab70-8f65-c52e-824f-7324a34d319e/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 33341792,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/e6/82/79e682b0-0a83-b4de-f01b-e72b64e9d7cd/3dc39309-0474-4374-bec4-e0df71be9c7b_Slice_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/75/3a/1d753ac0-92c5-1aae-0126-98701fc5747e/2c216312-bb59-494c-9b9c-4f2d99f0726d_Slice_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/a3/71/5ba37185-6175-db4e-7e49-82cd95da395c/cfd8aa8d-e08e-461c-956c-3ca9f19f5a20_Slice_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/62/ea/9262ea99-b8e5-7c60-47a0-66bc76e97fe5/e5e8c7a8-976f-4318-b511-0f4550e5ae3b_Slice_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/97/e5/f597e5c0-64d9-bead-7789-5086d8bd883d/ee1d981e-f698-4966-a610-c53329375e9f_Slice_5.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "We need access to your microphone to provide voice input functionality during conversations. Your microphone will only be used when you choose to speak to the AI by tapping the microphone button.",
+          "NSSpeechRecognitionUsageDescription": "We need access to speech recognition to provide voice input functionality during conversations. It will only be used when you choose to speak to the AI by tapping the microphone button."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.1.2",
+          "date": "2024-07-13",
+          "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Al Language Tutor_v1.1.2_tg@Sa1y0miii.ipa",
+          "size": 33341792
         }
       ],
       "category": "education"
@@ -27746,44 +27746,6 @@
     },
     {
       "name": "GTA: SA",
-      "bundleIdentifier": "com.rockstargames.gtasa.de",
-      "developerName": "Rockstar Games",
-      "subtitle": "GTA: SA for iOS",
-      "version": "1.72.42919648",
-      "versionDate": "2026-03-21",
-      "versionDescription": "Source: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/GTA: SA - KamoHacks [1.72.4]_20260321_085509.ipa",
-      "localizedDescription": "GTA: San Andreas - Definitive ( KamoHacks Special ) 🆕\n\n---\n\nFive years ago, Carl ‘CJ’ Johnson escaped the haze of Los Santos, San Andreas...a city tearing itself apart with gang trouble, drugs, and corruption. Now, it's the early 90s. CJ’s got to go home - his mother has been murdered, his family has fallen apart, and his childhood friends are all heading towards disaster. On his return to the neighborhood, a couple of cops frame him for homicide, forcing CJ on a journey that takes him across the entire state of San Andreas, to save his family and to tak",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/e0/b1/40e0b18c-4b67-dccf-46e3-fd558202adad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 2653023031,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f9/a1/97/f9a1972f-f03a-d782-17ec-79faab1b53a5/59523fb5-15bb-4769-8e7b-e4a3212a68c4_1.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e7/3e/fe/e73efef0-bc8a-429d-5786-70ab374c5017/b2a9e12f-a48e-483b-b732-13a49e5a8e8b_4.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/77/c5/6e/77c56e4b-28b8-2adb-7f46-75db6c8c5fde/83f471a1-d999-4cb2-a72e-a9d67a153cc3_5.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/83/4b/96/834b961c-0fed-66c0-34c1-cd1e714993f9/058e5929-06d4-4d5d-ace3-5f9e42f23fe8_2.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/43/6c/b0/436cb0ed-46e8-e0d4-eb2e-418ed8e206ac/35b39a66-3f34-4ff4-94bb-af0c1dfbb715_3.png/406x228bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSLocationWhenInUseUsageDescription": "App wants access to location when in use.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "App wants use of location services when in use and ALWAYS."
-        }
-      },
-      "versions": [
-        {
-          "version": "1.72.42919648",
-          "date": "2026-03-21",
-          "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/GTA: SA - KamoHacks [1.72.4]_20260321_085509.ipa",
-          "size": 2653023031
-        }
-      ],
-      "category": "games"
-    },
-    {
-      "name": "GTA: SA",
       "bundleIdentifier": "com.rockstargames.gta3sa",
       "developerName": "Rockstar Games",
       "subtitle": "GTA: SA for iOS",
@@ -27820,6 +27782,44 @@
           "localizedDescription": "Source: @thescholarslounge",
           "downloadURL": "https://telos.ftp.sh/ipas/Grand.Theft.Auto.San.Andreas-2.2.21.ipa",
           "size": 1900750413
+        }
+      ],
+      "category": "games"
+    },
+    {
+      "name": "GTA: SA",
+      "bundleIdentifier": "com.rockstargames.gtasa.de",
+      "developerName": "Rockstar Games",
+      "subtitle": "GTA: SA for iOS",
+      "version": "1.72.42919648",
+      "versionDate": "2026-03-21",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/GTA: SA - KamoHacks [1.72.4]_20260321_085509.ipa",
+      "localizedDescription": "GTA: San Andreas - Definitive ( KamoHacks Special ) 🆕\n\n---\n\nFive years ago, Carl ‘CJ’ Johnson escaped the haze of Los Santos, San Andreas...a city tearing itself apart with gang trouble, drugs, and corruption. Now, it's the early 90s. CJ’s got to go home - his mother has been murdered, his family has fallen apart, and his childhood friends are all heading towards disaster. On his return to the neighborhood, a couple of cops frame him for homicide, forcing CJ on a journey that takes him across the entire state of San Andreas, to save his family and to tak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/e0/b1/40e0b18c-4b67-dccf-46e3-fd558202adad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 2653023031,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f9/a1/97/f9a1972f-f03a-d782-17ec-79faab1b53a5/59523fb5-15bb-4769-8e7b-e4a3212a68c4_1.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e7/3e/fe/e73efef0-bc8a-429d-5786-70ab374c5017/b2a9e12f-a48e-483b-b732-13a49e5a8e8b_4.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/77/c5/6e/77c56e4b-28b8-2adb-7f46-75db6c8c5fde/83f471a1-d999-4cb2-a72e-a9d67a153cc3_5.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/83/4b/96/834b961c-0fed-66c0-34c1-cd1e714993f9/058e5929-06d4-4d5d-ace3-5f9e42f23fe8_2.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/43/6c/b0/436cb0ed-46e8-e0d4-eb2e-418ed8e206ac/35b39a66-3f34-4ff4-94bb-af0c1dfbb715_3.png/406x228bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "App wants access to location when in use.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "App wants use of location services when in use and ALWAYS."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.72.42919648",
+          "date": "2026-03-21",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/GTA: SA - KamoHacks [1.72.4]_20260321_085509.ipa",
+          "size": 2653023031
         }
       ],
       "category": "games"
@@ -31959,54 +31959,6 @@
     },
     {
       "name": "Instagram",
-      "bundleIdentifier": "com.fouadraheb.regram",
-      "developerName": "Instagram, Inc.",
-      "subtitle": "Cracked",
-      "version": "434.0.0",
-      "versionDate": "2026-06-18",
-      "versionDescription": "Tweaks: Regram, RegramExtension\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.fouadraheb.regram_434.0.0_regram_5.0_sl.ipa",
-      "localizedDescription": "Cracked\n\nRegram for Instagram Duplicate",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/a5/94/8da594e9-38e1-f757-45c7-f78856992264/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 262553201,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/c5/c7/b9c5c720-07ca-29c7-a67f-8fd2e2cd2b72/2_iOS_5.5.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/64/4d/38644df4-f5fc-97d6-61d1-94cf27762b1e/3_iOS_5.5.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/58/d9/4758d91e-4359-b964-c83a-70c47762a1d3/4_iOS_5.5.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/53/68/c55368ac-3b36-e9ec-c67f-8ca303dc659f/5_iOS_5.5.jpg/392x696bb.jpg"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
-          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
-          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
-          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
-          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram’s servers.",
-          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
-          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
-          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
-          "NSLocalNetworkUsageDescription": "Used to discover and connect to compatible streaming devices on your Wi-Fi network.",
-          "NSUserTrackingUsageDescription": "This helps Instagram personalize ads we show you.",
-          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll."
-        }
-      },
-      "versions": [
-        {
-          "version": "434.0.0",
-          "date": "2026-06-18",
-          "localizedDescription": "Tweaks: Regram, RegramExtension\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.fouadraheb.regram_434.0.0_regram_5.0_sl.ipa",
-          "size": 262553201
-        }
-      ],
-      "category": "photo-&-video"
-    },
-    {
-      "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram.5AF666",
       "developerName": "Instagram, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, IGFormat",
@@ -32067,6 +32019,54 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, IGFormat, IGHDMedia, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://telos.ftp.sh/ipas/Instagram_391.0.0_1754241431.ipa",
           "size": 258235889
+        }
+      ],
+      "category": "photo-&-video"
+    },
+    {
+      "name": "Instagram",
+      "bundleIdentifier": "com.fouadraheb.regram",
+      "developerName": "Instagram, Inc.",
+      "subtitle": "Cracked",
+      "version": "434.0.0",
+      "versionDate": "2026-06-18",
+      "versionDescription": "Tweaks: Regram, RegramExtension\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.fouadraheb.regram_434.0.0_regram_5.0_sl.ipa",
+      "localizedDescription": "Cracked\n\nRegram for Instagram Duplicate",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/a5/94/8da594e9-38e1-f757-45c7-f78856992264/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 262553201,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/c5/c7/b9c5c720-07ca-29c7-a67f-8fd2e2cd2b72/2_iOS_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/64/4d/38644df4-f5fc-97d6-61d1-94cf27762b1e/3_iOS_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/58/d9/4758d91e-4359-b964-c83a-70c47762a1d3/4_iOS_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/53/68/c55368ac-3b36-e9ec-c67f-8ca303dc659f/5_iOS_5.5.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
+          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
+          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
+          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram’s servers.",
+          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
+          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
+          "NSLocalNetworkUsageDescription": "Used to discover and connect to compatible streaming devices on your Wi-Fi network.",
+          "NSUserTrackingUsageDescription": "This helps Instagram personalize ads we show you.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll."
+        }
+      },
+      "versions": [
+        {
+          "version": "434.0.0",
+          "date": "2026-06-18",
+          "localizedDescription": "Tweaks: Regram, RegramExtension\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.fouadraheb.regram_434.0.0_regram_5.0_sl.ipa",
+          "size": 262553201
         }
       ],
       "category": "photo-&-video"
@@ -36465,6 +36465,56 @@
     },
     {
       "name": "Lightroom",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "developerName": "Adobe Inc.",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "11.4.0",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Tweaks: FilePickerFix, LightroomMobile, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lightroom_AI_Photo_Editor_v11_4_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nLightroom: AI Photo Editor",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/17/56/8d17563f-2a02-35b8-f396-ba789f33e3f7/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 206755627,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.siri",
+          "com.apple.developer.user-fonts",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.background-tasks.continued-processing.gpu",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Lightroom needs access to the photos on your device so you can browse and edit them.",
+          "NSCameraUsageDescription": "This allows you to take photos directly into Lightroom for immediate editing and sharing.",
+          "NSMicrophoneUsageDescription": "This allows you to record your voice for speech-to-text input.",
+          "NSLocationWhenInUseUsageDescription": "This allows photos to be geotagged.",
+          "NSLocationAlwaysUsageDescription": "This allows to upload photos in the background.",
+          "NSContactsUsageDescription": "This allows you to assign photos to contacts.",
+          "NSSpeechRecognitionUsageDescription": "This allows you to use your voice to dictate editing instructions.",
+          "NSLocalNetworkUsageDescription": "Lightroom uses the local network to download pictures faster if you have another device with the same catalog in this network",
+          "NSUserTrackingUsageDescription": "This helps us customize your experience and provide more relevant promotions.",
+          "NSPhotoLibraryAddUsageDescription": "This allows to save photos."
+        }
+      },
+      "versions": [
+        {
+          "version": "11.4.0",
+          "date": "2026-06-16",
+          "localizedDescription": "Tweaks: FilePickerFix, LightroomMobile, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Lightroom_AI_Photo_Editor_v11_4_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 206755627
+        }
+      ],
+      "category": "photo-&-video"
+    },
+    {
+      "name": "Lightroom",
       "bundleIdentifier": "com.adobe.lrmobile",
       "developerName": "Adobe Inc.",
       "subtitle": "Subscription Unlocked | Patched",
@@ -36515,56 +36565,6 @@
           "localizedDescription": "Tweaks: FilePickerFix, LightroomiPad, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Lightroom_for_iPad_v11_4_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 206843281
-        }
-      ],
-      "category": "photo-&-video"
-    },
-    {
-      "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "Adobe Inc.",
-      "subtitle": "Subscription Unlocked | Patched",
-      "version": "11.4.0",
-      "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: FilePickerFix, LightroomMobile, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lightroom_AI_Photo_Editor_v11_4_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nLightroom: AI Photo Editor",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/17/56/8d17563f-2a02-35b8-f396-ba789f33e3f7/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 206755627,
-      "screenshots": [],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.siri",
-          "com.apple.developer.user-fonts",
-          "aps-environment",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "com.apple.developer.background-tasks.continued-processing.gpu",
-          "com.apple.security.application-groups"
-        ],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "Lightroom needs access to the photos on your device so you can browse and edit them.",
-          "NSCameraUsageDescription": "This allows you to take photos directly into Lightroom for immediate editing and sharing.",
-          "NSMicrophoneUsageDescription": "This allows you to record your voice for speech-to-text input.",
-          "NSLocationWhenInUseUsageDescription": "This allows photos to be geotagged.",
-          "NSLocationAlwaysUsageDescription": "This allows to upload photos in the background.",
-          "NSContactsUsageDescription": "This allows you to assign photos to contacts.",
-          "NSSpeechRecognitionUsageDescription": "This allows you to use your voice to dictate editing instructions.",
-          "NSLocalNetworkUsageDescription": "Lightroom uses the local network to download pictures faster if you have another device with the same catalog in this network",
-          "NSUserTrackingUsageDescription": "This helps us customize your experience and provide more relevant promotions.",
-          "NSPhotoLibraryAddUsageDescription": "This allows to save photos."
-        }
-      },
-      "versions": [
-        {
-          "version": "11.4.0",
-          "date": "2026-06-16",
-          "localizedDescription": "Tweaks: FilePickerFix, LightroomMobile, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lightroom_AI_Photo_Editor_v11_4_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 206755627
         }
       ],
       "category": "photo-&-video"
@@ -39665,49 +39665,6 @@
     },
     {
       "name": "McDonald's",
-      "bundleIdentifier": "com.mcdonalds.mobileapp",
-      "developerName": "McDonald's Global Markets LLC",
-      "subtitle": "McDonald's for iOS",
-      "version": "3.42.0",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.mcdonalds.mobileapp-3.42.0-eeveedecrypter.ipa",
-      "localizedDescription": "McDonald's for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/d2/cd/cbd2cd36-03fd-bdee-423e-665bb6a94e13/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 93840682,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/40/97/c3409714-93b0-a949-5371-abbb5ed5818a/a7ee0ee0-c076-4d11-85ea-03dc5442143b_1.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/55/4e/b0554eb2-e8ed-b1e2-50f4-4c19e53734b0/d61576b7-2a9a-4776-8070-b9fc1e83a3e7_1242x2208bb_2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/cd/ff/29cdff47-4f33-a362-f8d7-9f566506580d/e3b78c13-97d8-4a17-9690-d0f49b2251e2_1242x2208bb_3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/5c/76/c25c764d-c1de-3187-d041-b3622a9d5c58/42686da4-cded-4807-a0a9-dd11be69c140_1242x2208bb_4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/05/5d/05055d59-92e1-0f5c-f617-89de8a035d8b/3fa99c24-f60b-45dd-9222-35a7835cb724_1242x2208bb_5.png/392x696bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "{human-readable reason for photo access}",
-          "NSCameraUsageDescription": "McDonald's would like to use the camera.",
-          "NSMicrophoneUsageDescription": "McDonald's would like to use the microphone.",
-          "NSLocationWhenInUseUsageDescription": "We use your position to provide you with local offers as well as show our nearest restaurants.",
-          "NSLocationAlwaysUsageDescription": "We use your position to provide you with local offers as well as show our nearest restaurants.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "We use your position to provide you with local offers as well as show our nearest restaurants.",
-          "NSUserTrackingUsageDescription": "McDonald's would like to use your identifier for advertisment."
-        }
-      },
-      "versions": [
-        {
-          "version": "3.42.0",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.mcdonalds.mobileapp-3.42.0-eeveedecrypter.ipa",
-          "size": 93840682
-        }
-      ],
-      "category": "food-&-drink"
-    },
-    {
-      "name": "McDonald's",
       "bundleIdentifier": "com.mcdonalds.gma",
       "developerName": "McDonald's USA",
       "subtitle": "McDonald's for iOS",
@@ -39746,6 +39703,49 @@
           "localizedDescription": "Source: @thescholarslounge",
           "downloadURL": "https://telos.ftp.sh/ipas/com.mcdonalds.gma-26.31.1-eeveedecrypter.ipa",
           "size": 196971818
+        }
+      ],
+      "category": "food-&-drink"
+    },
+    {
+      "name": "McDonald's",
+      "bundleIdentifier": "com.mcdonalds.mobileapp",
+      "developerName": "McDonald's Global Markets LLC",
+      "subtitle": "McDonald's for iOS",
+      "version": "3.42.0",
+      "versionDate": "2026-06-15",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.mcdonalds.mobileapp-3.42.0-eeveedecrypter.ipa",
+      "localizedDescription": "McDonald's for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/d2/cd/cbd2cd36-03fd-bdee-423e-665bb6a94e13/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 93840682,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/40/97/c3409714-93b0-a949-5371-abbb5ed5818a/a7ee0ee0-c076-4d11-85ea-03dc5442143b_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/55/4e/b0554eb2-e8ed-b1e2-50f4-4c19e53734b0/d61576b7-2a9a-4776-8070-b9fc1e83a3e7_1242x2208bb_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/cd/ff/29cdff47-4f33-a362-f8d7-9f566506580d/e3b78c13-97d8-4a17-9690-d0f49b2251e2_1242x2208bb_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/5c/76/c25c764d-c1de-3187-d041-b3622a9d5c58/42686da4-cded-4807-a0a9-dd11be69c140_1242x2208bb_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/05/5d/05055d59-92e1-0f5c-f617-89de8a035d8b/3fa99c24-f60b-45dd-9222-35a7835cb724_1242x2208bb_5.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "{human-readable reason for photo access}",
+          "NSCameraUsageDescription": "McDonald's would like to use the camera.",
+          "NSMicrophoneUsageDescription": "McDonald's would like to use the microphone.",
+          "NSLocationWhenInUseUsageDescription": "We use your position to provide you with local offers as well as show our nearest restaurants.",
+          "NSLocationAlwaysUsageDescription": "We use your position to provide you with local offers as well as show our nearest restaurants.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "We use your position to provide you with local offers as well as show our nearest restaurants.",
+          "NSUserTrackingUsageDescription": "McDonald's would like to use your identifier for advertisment."
+        }
+      },
+      "versions": [
+        {
+          "version": "3.42.0",
+          "date": "2026-06-15",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.mcdonalds.mobileapp-3.42.0-eeveedecrypter.ipa",
+          "size": 93840682
         }
       ],
       "category": "food-&-drink"
@@ -44065,48 +44065,6 @@
     },
     {
       "name": "Netflix",
-      "bundleIdentifier": "com.netflix.Netflix",
-      "developerName": "Netflix, Inc.",
-      "subtitle": "Netflix for iOS",
-      "version": "18.29.0",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.netflix.Netflix-18.29.0-eeveedecrypter.ipa",
-      "localizedDescription": "Netflix for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/31/da/8531da6d-f838-d24f-88ce-2a7da950b2b6/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 83575822,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/2d/41/a22d4158-6f5d-8865-0420-04d542f6b062/1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/23/9b/ec239b84-74a8-651b-6ff8-d388f1c4f1d9/2_APP_IPHONE_55_2.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/d0/62/a2d06254-094b-3cf9-065b-2a72fcb2c8c5/3_APP_IPHONE_55_3.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/5d/03/055d037d-efa6-1583-aed9-0eefc96193c9/4_APP_IPHONE_55_4.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/ef/d0/bcefd01b-1d71-964b-ac41-b4734d69c5f9/5_APP_IPHONE_55_5.jpg/392x696bb.jpg"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCameraUsageDescription": "The Camera is only used at your request when contacting Netflix support",
-          "NSMicrophoneUsageDescription": "They’ll only have access to your microphone when you use your voice to interact with the app.",
-          "NSSpeechRecognitionUsageDescription": "They’ll only have access to speech recognition when you use your voice to interact with the app.",
-          "NSBluetoothAlwaysUsageDescription": "Cast requires Bluetooth for device discovery",
-          "NSBluetoothPeripheralUsageDescription": "The Bluetooth microphone is only used at your request, when contacting Netflix support or activating a device",
-          "NSLocalNetworkUsageDescription": "This will let you easily send what you're watching on your iPhone or iPad to your smart TV or streaming devices for bigger screen enjoyment."
-        }
-      },
-      "versions": [
-        {
-          "version": "18.29.0",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.netflix.Netflix-18.29.0-eeveedecrypter.ipa",
-          "size": 83575822
-        }
-      ],
-      "category": "entertainment"
-    },
-    {
-      "name": "Netflix",
       "bundleIdentifier": "com.chengzu.book",
       "developerName": "Netflix, Inc.",
       "subtitle": "Tweaked with NOADS, substrate",
@@ -44144,6 +44102,48 @@
           "localizedDescription": "Tweaks: NOADS, substrate\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://telos.ftp.sh/ipas/VIP-streaming-FIXED-v7.ipa",
           "size": 32924581
+        }
+      ],
+      "category": "entertainment"
+    },
+    {
+      "name": "Netflix",
+      "bundleIdentifier": "com.netflix.Netflix",
+      "developerName": "Netflix, Inc.",
+      "subtitle": "Netflix for iOS",
+      "version": "18.29.0",
+      "versionDate": "2026-06-15",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.netflix.Netflix-18.29.0-eeveedecrypter.ipa",
+      "localizedDescription": "Netflix for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/31/da/8531da6d-f838-d24f-88ce-2a7da950b2b6/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 83575822,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/2d/41/a22d4158-6f5d-8865-0420-04d542f6b062/1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/23/9b/ec239b84-74a8-651b-6ff8-d388f1c4f1d9/2_APP_IPHONE_55_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/d0/62/a2d06254-094b-3cf9-065b-2a72fcb2c8c5/3_APP_IPHONE_55_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/5d/03/055d037d-efa6-1583-aed9-0eefc96193c9/4_APP_IPHONE_55_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/ef/d0/bcefd01b-1d71-964b-ac41-b4734d69c5f9/5_APP_IPHONE_55_5.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "The Camera is only used at your request when contacting Netflix support",
+          "NSMicrophoneUsageDescription": "They’ll only have access to your microphone when you use your voice to interact with the app.",
+          "NSSpeechRecognitionUsageDescription": "They’ll only have access to speech recognition when you use your voice to interact with the app.",
+          "NSBluetoothAlwaysUsageDescription": "Cast requires Bluetooth for device discovery",
+          "NSBluetoothPeripheralUsageDescription": "The Bluetooth microphone is only used at your request, when contacting Netflix support or activating a device",
+          "NSLocalNetworkUsageDescription": "This will let you easily send what you're watching on your iPhone or iPad to your smart TV or streaming devices for bigger screen enjoyment."
+        }
+      },
+      "versions": [
+        {
+          "version": "18.29.0",
+          "date": "2026-06-15",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.netflix.Netflix-18.29.0-eeveedecrypter.ipa",
+          "size": 83575822
         }
       ],
       "category": "entertainment"
@@ -45491,6 +45491,42 @@
     },
     {
       "name": "Nuvio",
+      "bundleIdentifier": "com.nuvio.app",
+      "developerName": "RGN VENTURES LTD",
+      "subtitle": "Nuvio for iOS",
+      "version": "1.4.1",
+      "versionDate": "2026-03-01",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stable_1-4-1.ipa",
+      "localizedDescription": "Nuvio\n\n---\n\nNuvio – Master Your Cold Plunge Routine\nTake control of your recovery like never before. The Nuvio app seamlessly connects to your Recovery Chiller, giving you full command over your cold plunge experience—anytime, anywhere. No ice. No hassle. Just cold, clean performance on your schedule.\nPERSONALIZED CONTROL. PEAK PERFORMANCE.\nDial in your perfect temperature, schedule sessions in advance, activate purification, and monitor your plunge history—all from your phone. Nuvio is designed to fit your",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 37611976,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains"
+        ],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "This app does not require microphone access.",
+          "NSLocalNetworkUsageDescription": "Nuvio uses the local network to discover Cast-enabled devices on your WiFi network and to connect to local media servers."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.4.1",
+          "date": "2026-03-01",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/Stable_1-4-1.ipa",
+          "size": 37611976
+        }
+      ],
+      "category": "health-&-fitness"
+    },
+    {
+      "name": "Nuvio",
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "RGN VENTURES LTD",
       "subtitle": "Nuvio for iOS",
@@ -45550,42 +45586,6 @@
           "localizedDescription": "Source: @binnichtaktivsipas",
           "downloadURL": "https://telos.ftp.sh/ipas/Stable_1-4-2.ipa",
           "size": 38765502
-        }
-      ],
-      "category": "health-&-fitness"
-    },
-    {
-      "name": "Nuvio",
-      "bundleIdentifier": "com.nuvio.app",
-      "developerName": "RGN VENTURES LTD",
-      "subtitle": "Nuvio for iOS",
-      "version": "1.4.1",
-      "versionDate": "2026-03-01",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Stable_1-4-1.ipa",
-      "localizedDescription": "Nuvio\n\n---\n\nNuvio – Master Your Cold Plunge Routine\nTake control of your recovery like never before. The Nuvio app seamlessly connects to your Recovery Chiller, giving you full command over your cold plunge experience—anytime, anywhere. No ice. No hassle. Just cold, clean performance on your schedule.\nPERSONALIZED CONTROL. PEAK PERFORMANCE.\nDial in your perfect temperature, schedule sessions in advance, activate purification, and monitor your plunge history—all from your phone. Nuvio is designed to fit your",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 37611976,
-      "screenshots": [],
-      "appPermissions": {
-        "entitlements": [
-          "aps-environment",
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-domains"
-        ],
-        "privacy": {
-          "NSMicrophoneUsageDescription": "This app does not require microphone access.",
-          "NSLocalNetworkUsageDescription": "Nuvio uses the local network to discover Cast-enabled devices on your WiFi network and to connect to local media servers."
-        }
-      },
-      "versions": [
-        {
-          "version": "1.4.1",
-          "date": "2026-03-01",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Stable_1-4-1.ipa",
-          "size": 37611976
         }
       ],
       "category": "health-&-fitness"
@@ -45985,6 +45985,45 @@
     },
     {
       "name": "Offline Games",
+      "bundleIdentifier": "com.JindoBlu.OfflineGamesIOS",
+      "developerName": "Moreno Maio",
+      "subtitle": "*Tweak:** Unlimited Tokens, No Ads | *Patched ✓**",
+      "version": "3.12.3",
+      "versionDate": "2026-06-11",
+      "versionDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, ogrifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/Offline Games - No Wifi Games-v3.12.3-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Unlimited Tokens, No Ads | *Patched ✓**\n\nOffline Games - No Wifi Games",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/61/81/d261817e-7b34-7053-68c5-b868703eadc0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 99958962,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/19/2e/13192e32-18f6-3a91-c1a6-469bde566f9d/MiniBanners_1242x2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/e0/f7/26e0f76d-9233-045f-033a-7163500965db/LargeBanners_1242x2208_A.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/12/a9/5212a9fb-1f22-2ccf-d379-884dbdd85919/Ringsort_1242x2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/39/e8/8339e8a7-136b-7cf5-8a0c-cb4843dd18de/Watersort_1242x2208_A.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/59/cd/da59cdc5-e28d-baf3-7ea4-cfb5657d6b3a/Wordfinder_1242x2208.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "The app requires access to Photos to save media to it",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads instead of generic ones.",
+          "NSPhotoLibraryAddUsageDescription": "The app requires access to Photos to save media to it"
+        }
+      },
+      "versions": [
+        {
+          "version": "3.12.3",
+          "date": "2026-06-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, ogrifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/Offline Games - No Wifi Games-v3.12.3-riftysipas.ipa",
+          "size": 99958962
+        }
+      ],
+      "category": "games"
+    },
+    {
+      "name": "Offline Games",
       "bundleIdentifier": "com.media720.offlinegames",
       "developerName": "720 Media LLC",
       "subtitle": "*Tweak:** Ads Removed | *Patched ✓**",
@@ -46020,45 +46059,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofflinegamesnowififun\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://telos.ftp.sh/ipas/Offline Games No WiFi Fun 100+-v1.59-riftysipas.ipa",
           "size": 210165801
-        }
-      ],
-      "category": "games"
-    },
-    {
-      "name": "Offline Games",
-      "bundleIdentifier": "com.JindoBlu.OfflineGamesIOS",
-      "developerName": "Moreno Maio",
-      "subtitle": "*Tweak:** Unlimited Tokens, No Ads | *Patched ✓**",
-      "version": "3.12.3",
-      "versionDate": "2026-06-11",
-      "versionDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, ogrifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Offline Games - No Wifi Games-v3.12.3-riftysipas.ipa",
-      "localizedDescription": "*Tweak:** Unlimited Tokens, No Ads | *Patched ✓**\n\nOffline Games - No Wifi Games",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/61/81/d261817e-7b34-7053-68c5-b868703eadc0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 99958962,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/19/2e/13192e32-18f6-3a91-c1a6-469bde566f9d/MiniBanners_1242x2208.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/e0/f7/26e0f76d-9233-045f-033a-7163500965db/LargeBanners_1242x2208_A.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/12/a9/5212a9fb-1f22-2ccf-d379-884dbdd85919/Ringsort_1242x2208.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/39/e8/8339e8a7-136b-7cf5-8a0c-cb4843dd18de/Watersort_1242x2208_A.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/59/cd/da59cdc5-e28d-baf3-7ea4-cfb5657d6b3a/Wordfinder_1242x2208.png/392x696bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "The app requires access to Photos to save media to it",
-          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads instead of generic ones.",
-          "NSPhotoLibraryAddUsageDescription": "The app requires access to Photos to save media to it"
-        }
-      },
-      "versions": [
-        {
-          "version": "3.12.3",
-          "date": "2026-06-11",
-          "localizedDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, ogrifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Offline Games - No Wifi Games-v3.12.3-riftysipas.ipa",
-          "size": 99958962
         }
       ],
       "category": "games"
@@ -46704,42 +46704,6 @@
     },
     {
       "name": "Opener",
-      "bundleIdentifier": "pineapplelabs.Opener",
-      "developerName": "Big Pineapple LLC",
-      "subtitle": "Opener for iOS",
-      "version": "1.14",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/pineapplelabs.Opener-1.14-eeveedecrypter.ipa",
-      "localizedDescription": "Opener for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/cf/32/eecf3248-b593-37dd-7dec-e47f564ea226/AppIcon-0-0-1x_U007emarketing-0-7-85-220.jpeg/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 429705,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/26/2a/fd/262afd3c-4eeb-3aed-f459-75757f4ff4c1/0e773186-e1c9-46da-88f1-fefe909cddd5_promo-0.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0a/3e/26/0a3e26c1-9a77-f113-5aaf-914b4e38b9f0/3d172f26-ad12-4136-ae39-e204ac89f85d_promo-1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/59/58/c2/5958c28b-2f30-941d-f858-f1b2ca4635ee/303942e4-f122-4c8c-af97-33f4c286aeea_promo-2.png/392x696bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "aps-environment",
-          "com.apple.security.application-groups"
-        ],
-        "privacy": {}
-      },
-      "versions": [
-        {
-          "version": "1.14",
-          "date": "2024-05-22",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/pineapplelabs.Opener-1.14-eeveedecrypter.ipa",
-          "size": 429705
-        }
-      ],
-      "category": "utilities"
-    },
-    {
-      "name": "Opener",
       "bundleIdentifier": "com.tijo.opener.Opener",
       "developerName": "tijo, inc.",
       "subtitle": "Opener for iOS",
@@ -46770,6 +46734,42 @@
           "localizedDescription": "Source: @binnichtaktivsipas",
           "downloadURL": "https://telos.ftp.sh/ipas/Opener.1.14.5.Crash.ipa",
           "size": 795118
+        }
+      ],
+      "category": "utilities"
+    },
+    {
+      "name": "Opener",
+      "bundleIdentifier": "pineapplelabs.Opener",
+      "developerName": "Big Pineapple LLC",
+      "subtitle": "Opener for iOS",
+      "version": "1.14",
+      "versionDate": "2026-06-15",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/pineapplelabs.Opener-1.14-eeveedecrypter.ipa",
+      "localizedDescription": "Opener for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/cf/32/eecf3248-b593-37dd-7dec-e47f564ea226/AppIcon-0-0-1x_U007emarketing-0-7-85-220.jpeg/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 429705,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/26/2a/fd/262afd3c-4eeb-3aed-f459-75757f4ff4c1/0e773186-e1c9-46da-88f1-fefe909cddd5_promo-0.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0a/3e/26/0a3e26c1-9a77-f113-5aaf-914b4e38b9f0/3d172f26-ad12-4136-ae39-e204ac89f85d_promo-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/59/58/c2/5958c28b-2f30-941d-f858-f1b2ca4635ee/303942e4-f122-4c8c-af97-33f4c286aeea_promo-2.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.14",
+          "date": "2024-05-22",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/pineapplelabs.Opener-1.14-eeveedecrypter.ipa",
+          "size": 429705
         }
       ],
       "category": "utilities"
@@ -51619,6 +51619,41 @@
       "category": "education"
     },
     {
+      "name": "pocket",
+      "bundleIdentifier": "com.TimonHarz.pocket",
+      "developerName": "Rica Harz",
+      "subtitle": "pocket for iOS",
+      "version": "0.2.1",
+      "versionDate": "2026-01-15",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.TimonHarz.pocket-0.2.1-Decrypted.ipa",
+      "localizedDescription": "pocket for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/d6/c6/77d6c6f2-c58f-c9c6-c518-1b75a767717a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 26372578,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "In order to add images to you library please allow library usage.",
+          "NSCameraUsageDescription": "In order to let pocket describe images you need to allow camera usage.",
+          "NSMicrophoneUsageDescription": "You need to allow microphone usage in order to use Voice Mode.",
+          "NSSpeechRecognitionUsageDescription": "Voice Mode uses Speech Recognition. In order to use Voice Mode you need to allow Speech Recogniton.",
+          "NSPhotoLibraryAddUsageDescription": "In order to add images to the chat you need to allow access to your photo library."
+        }
+      },
+      "versions": [
+        {
+          "version": "0.2.1",
+          "date": "2026-01-15",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.TimonHarz.pocket-0.2.1-Decrypted.ipa",
+          "size": 26372578
+        }
+      ],
+      "category": "productivity"
+    },
+    {
       "name": "Pocket",
       "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
       "developerName": "Savage Interactive Pty Ltd",
@@ -51659,41 +51694,6 @@
         }
       ],
       "category": "graphics-&-design"
-    },
-    {
-      "name": "pocket",
-      "bundleIdentifier": "com.TimonHarz.pocket",
-      "developerName": "Rica Harz",
-      "subtitle": "pocket for iOS",
-      "version": "0.2.1",
-      "versionDate": "2026-01-15",
-      "versionDescription": "Source: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.TimonHarz.pocket-0.2.1-Decrypted.ipa",
-      "localizedDescription": "pocket for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/d6/c6/77d6c6f2-c58f-c9c6-c518-1b75a767717a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 26372578,
-      "screenshots": [],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "In order to add images to you library please allow library usage.",
-          "NSCameraUsageDescription": "In order to let pocket describe images you need to allow camera usage.",
-          "NSMicrophoneUsageDescription": "You need to allow microphone usage in order to use Voice Mode.",
-          "NSSpeechRecognitionUsageDescription": "Voice Mode uses Speech Recognition. In order to use Voice Mode you need to allow Speech Recogniton.",
-          "NSPhotoLibraryAddUsageDescription": "In order to add images to the chat you need to allow access to your photo library."
-        }
-      },
-      "versions": [
-        {
-          "version": "0.2.1",
-          "date": "2026-01-15",
-          "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.TimonHarz.pocket-0.2.1-Decrypted.ipa",
-          "size": 26372578
-        }
-      ],
-      "category": "productivity"
     },
     {
       "name": "Pocket City 2",
@@ -53319,6 +53319,42 @@
       "category": "productivity"
     },
     {
+      "name": "pure",
+      "bundleIdentifier": "com.example.purecamera",
+      "developerName": "Trevor Welsh",
+      "subtitle": "pure for iOS",
+      "version": "1.0.7",
+      "versionDate": "2026-01-02",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/pure-v1.0.7-AppTesters.ipa",
+      "localizedDescription": "Unleash your full potential with @AppleTesters\n\n---\n\nCapture the moment, enjoy the surprise. With pure, there's no camera preview – just point, shoot, and discover the beauty later. Each photo will receive a vibrant and vintage filter, bringing a nostalgic charm to your memories.\n\n- No Screen Preview: Focus on the moment, not the viewfinder.\n- Effortless Shooting: Simply aim your device and tap anywhere on screen to capture.\n- Vintage Effects: Relive memories with an automatically applied nostalgic touch.\n- Shot Limit: 12 shots every 12 hours, cap",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4e/9e/cd4e9e41-6f2a-b9c0-2954-fc539834245d/AppIcon-0-0-1x_U007ephone-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 1252418,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/3e/8b/603e8b5d-ebf0-6e04-5c9d-07b0978c2d47/c7e84a76-a07e-48eb-b7be-7cabaebd63d2_first.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/27/2b/1d272b4c-664c-cf6d-5a95-ccfd59b99f69/d9556570-5f2c-4c79-a800-ca24fe4d0aef_second.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/31/bf/b731bfd1-7fb1-7df5-e89f-8d03c36ef08e/5de30255-a629-45cb-9a12-929f1ecc9f9c_third.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Allow access to your device cameras to take photos that will be transformed into nostalgic images.",
+          "NSPhotoLibraryAddUsageDescription": "Allow access to your Photo Library to automatically save photos that are captured."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.0.7",
+          "date": "2024-07-23",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/pure-v1.0.7-AppTesters.ipa",
+          "size": 1252418
+        }
+      ],
+      "category": "photo-&-video"
+    },
+    {
       "name": "Pure",
       "bundleIdentifier": "org.getpure.pure-iphone",
       "developerName": "Online Classifieds AG",
@@ -53354,42 +53390,6 @@
         }
       ],
       "category": "lifestyle"
-    },
-    {
-      "name": "pure",
-      "bundleIdentifier": "com.example.purecamera",
-      "developerName": "Trevor Welsh",
-      "subtitle": "pure for iOS",
-      "version": "1.0.7",
-      "versionDate": "2026-01-02",
-      "versionDescription": "Source: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/pure-v1.0.7-AppTesters.ipa",
-      "localizedDescription": "Unleash your full potential with @AppleTesters\n\n---\n\nCapture the moment, enjoy the surprise. With pure, there's no camera preview – just point, shoot, and discover the beauty later. Each photo will receive a vibrant and vintage filter, bringing a nostalgic charm to your memories.\n\n- No Screen Preview: Focus on the moment, not the viewfinder.\n- Effortless Shooting: Simply aim your device and tap anywhere on screen to capture.\n- Vintage Effects: Relive memories with an automatically applied nostalgic touch.\n- Shot Limit: 12 shots every 12 hours, cap",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4e/9e/cd4e9e41-6f2a-b9c0-2954-fc539834245d/AppIcon-0-0-1x_U007ephone-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 1252418,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/3e/8b/603e8b5d-ebf0-6e04-5c9d-07b0978c2d47/c7e84a76-a07e-48eb-b7be-7cabaebd63d2_first.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/27/2b/1d272b4c-664c-cf6d-5a95-ccfd59b99f69/d9556570-5f2c-4c79-a800-ca24fe4d0aef_second.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/31/bf/b731bfd1-7fb1-7df5-e89f-8d03c36ef08e/5de30255-a629-45cb-9a12-929f1ecc9f9c_third.jpg/392x696bb.jpg"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCameraUsageDescription": "Allow access to your device cameras to take photos that will be transformed into nostalgic images.",
-          "NSPhotoLibraryAddUsageDescription": "Allow access to your Photo Library to automatically save photos that are captured."
-        }
-      },
-      "versions": [
-        {
-          "version": "1.0.7",
-          "date": "2024-07-23",
-          "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/pure-v1.0.7-AppTesters.ipa",
-          "size": 1252418
-        }
-      ],
-      "category": "photo-&-video"
     },
     {
       "name": "PureStatus",
@@ -64705,35 +64705,6 @@
     },
     {
       "name": "Stremio",
-      "bundleIdentifier": "com.stremio.pal",
-      "developerName": "Jamie Harper",
-      "subtitle": "Stremio for iOS",
-      "version": "2.0.2",
-      "versionDate": "2026-06-22",
-      "versionDescription": "Source: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.2.ipa",
-      "localizedDescription": "Stremio for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/db/ac/a6dbac32-66d9-20f8-2cf2-a98f72d680bd/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 78053554,
-      "screenshots": [],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "versions": [
-        {
-          "version": "2.0.2",
-          "date": "2026-06-22",
-          "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.2.ipa",
-          "size": 78053554
-        }
-      ],
-      "category": "utilities"
-    },
-    {
-      "name": "Stremio",
       "bundleIdentifier": "com.stremio.one",
       "developerName": "Muhammad Hamza Sajjad",
       "subtitle": "Stremio for iOS",
@@ -64801,6 +64772,35 @@
         }
       ],
       "category": "entertainment"
+    },
+    {
+      "name": "Stremio",
+      "bundleIdentifier": "com.stremio.pal",
+      "developerName": "Jamie Harper",
+      "subtitle": "Stremio for iOS",
+      "version": "2.0.2",
+      "versionDate": "2026-06-22",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.2.ipa",
+      "localizedDescription": "Stremio for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/db/ac/a6dbac32-66d9-20f8-2cf2-a98f72d680bd/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 78053554,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.0.2",
+          "date": "2026-06-22",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/stremio_iOS 2.0.2.ipa",
+          "size": 78053554
+        }
+      ],
+      "category": "utilities"
     },
     {
       "name": "Stress Ball",
@@ -71317,42 +71317,6 @@
     },
     {
       "name": "TV Remote",
-      "bundleIdentifier": "evolly.app.rokuremote",
-      "developerName": "EVOLLY.APP",
-      "subtitle": "TV Remote for iOS",
-      "version": "2.1.0",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/evolly.app.rokuremote-2.1.0-eeveedecrypter.ipa",
-      "localizedDescription": "TV Remote for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/98/58/ec9858dc-6ec9-12ec-e5fe-ab43af721394/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 81963162,
-      "screenshots": [],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "This app access your Photo and Video to cast to SmartTV",
-          "NSCameraUsageDescription": "Record a video and cast to TV",
-          "NSMicrophoneUsageDescription": "Your microphone will be used to record your speech",
-          "NSSpeechRecognitionUsageDescription": "Speech recognition will be used to determine which words you speak into this device's microphone.",
-          "NSLocalNetworkUsageDescription": "Please select 'Allow' to discover and connect to your TV on your local network (Wi-Fi).  Thank you!",
-          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
-        }
-      },
-      "versions": [
-        {
-          "version": "2.1.0",
-          "date": "2026-05-25",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/evolly.app.rokuremote-2.1.0-eeveedecrypter.ipa",
-          "size": 81963162
-        }
-      ],
-      "category": "utilities"
-    },
-    {
-      "name": "TV Remote",
       "bundleIdentifier": "com.companjenapps.UniMote",
       "developerName": "Zap Software Studio BV",
       "subtitle": "Tweaked with Fixipa1, Fixipa2",
@@ -71391,6 +71355,42 @@
           "localizedDescription": "Tweaks: Fixipa1, Fixipa2, TvRemoteSy, substrate\n\nSource: @thescholarslounge",
           "downloadURL": "https://telos.ftp.sh/ipas/TV.Remote_1.18_3BodSy.ipa",
           "size": 17819069
+        }
+      ],
+      "category": "utilities"
+    },
+    {
+      "name": "TV Remote",
+      "bundleIdentifier": "evolly.app.rokuremote",
+      "developerName": "EVOLLY.APP",
+      "subtitle": "TV Remote for iOS",
+      "version": "2.1.0",
+      "versionDate": "2026-06-15",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/evolly.app.rokuremote-2.1.0-eeveedecrypter.ipa",
+      "localizedDescription": "TV Remote for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/98/58/ec9858dc-6ec9-12ec-e5fe-ab43af721394/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 81963162,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This app access your Photo and Video to cast to SmartTV",
+          "NSCameraUsageDescription": "Record a video and cast to TV",
+          "NSMicrophoneUsageDescription": "Your microphone will be used to record your speech",
+          "NSSpeechRecognitionUsageDescription": "Speech recognition will be used to determine which words you speak into this device's microphone.",
+          "NSLocalNetworkUsageDescription": "Please select 'Allow' to discover and connect to your TV on your local network (Wi-Fi).  Thank you!",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
+        }
+      },
+      "versions": [
+        {
+          "version": "2.1.0",
+          "date": "2026-05-25",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/evolly.app.rokuremote-2.1.0-eeveedecrypter.ipa",
+          "size": 81963162
         }
       ],
       "category": "utilities"
@@ -72453,14 +72453,14 @@
       "bundleIdentifier": "com.getupnote.ios",
       "developerName": "UpNote Company Limited",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "9.18.7",
-      "versionDate": "2026-06-01",
+      "version": "9.18.8",
+      "versionDate": "2026-06-27",
       "versionDescription": "Tweaks: UpNote, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/UpNote_notes,_diary,_journal_v9_18_7_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/UpNote_notes,_diary,_journal_v9_18_8_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nUpNote - notes, diary, journal",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/70/b4/a670b425-223b-4423-2423-5fcae2e06023/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 52297977,
+      "size": 52373759,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d5/2b/0a/d52b0a40-c84d-61dd-37c3-9c943c660677/d0ddf798-add0-4bfe-879c-357f97af258f_iphone-1-min.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/59/6a/57/596a5789-9875-eac3-05d2-9e36421403ff/89419369-3352-49c0-a176-33e52d6305c0_iphone-2-min.png/392x696bb.png",
@@ -72485,11 +72485,11 @@
       },
       "versions": [
         {
-          "version": "9.18.7",
-          "date": "2026-05-25",
+          "version": "9.18.8",
+          "date": "2026-06-27",
           "localizedDescription": "Tweaks: UpNote, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/UpNote_notes,_diary,_journal_v9_18_7_Subscription_Unlocked_blatant.ipa",
-          "size": 52297977
+          "downloadURL": "https://telos.ftp.sh/ipas/UpNote_notes,_diary,_journal_v9_18_8_Subscription_Unlocked_blatant.ipa",
+          "size": 52373759
         }
       ],
       "category": "productivity"
@@ -74569,43 +74569,6 @@
     },
     {
       "name": "Wallpapers",
-      "bundleIdentifier": "com.ispazio.Wallpapers-Central",
-      "developerName": "iSpazio S.r.l.",
-      "subtitle": "Subscription Unlocked | Patched",
-      "version": "2.5",
-      "versionDate": "2026-06-24",
-      "versionDescription": "Tweaks: WallpapersCentral, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Wallpapers_Central_v2_5_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nWallpapers Central",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/d8/06/41d8063a-0bf2-a8a9-0f46-fca75df34ab2/Wallpapers_Central_IconComposer-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 41412078,
-      "screenshots": [],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.applesignin",
-          "aps-environment",
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.associated-domains"
-        ],
-        "privacy": {
-          "NSUserTrackingUsageDescription": "Give permission to show ads that are more relevant to you",
-          "NSPhotoLibraryAddUsageDescription": "This app needs access to your photo library to save wallpapers to your camera roll."
-        }
-      },
-      "versions": [
-        {
-          "version": "2.5",
-          "date": "2026-06-24",
-          "localizedDescription": "Tweaks: WallpapersCentral, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Wallpapers_Central_v2_5_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 41412078
-        }
-      ],
-      "category": "graphics-&-design"
-    },
-    {
-      "name": "Wallpapers",
       "bundleIdentifier": "com.apalonapps.wallpaperspys",
       "developerName": "Mosaic S.r.l.",
       "subtitle": "** Subscription Unlocked",
@@ -74650,6 +74613,43 @@
         }
       ],
       "category": "entertainment"
+    },
+    {
+      "name": "Wallpapers",
+      "bundleIdentifier": "com.ispazio.Wallpapers-Central",
+      "developerName": "iSpazio S.r.l.",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "2.5",
+      "versionDate": "2026-06-24",
+      "versionDescription": "Tweaks: WallpapersCentral, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Wallpapers_Central_v2_5_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nWallpapers Central",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/d8/06/41d8063a-0bf2-a8a9-0f46-fca75df34ab2/Wallpapers_Central_IconComposer-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 41412078,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.associated-domains"
+        ],
+        "privacy": {
+          "NSUserTrackingUsageDescription": "Give permission to show ads that are more relevant to you",
+          "NSPhotoLibraryAddUsageDescription": "This app needs access to your photo library to save wallpapers to your camera roll."
+        }
+      },
+      "versions": [
+        {
+          "version": "2.5",
+          "date": "2026-06-24",
+          "localizedDescription": "Tweaks: WallpapersCentral, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Wallpapers_Central_v2_5_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 41412078
+        }
+      ],
+      "category": "graphics-&-design"
     },
     {
       "name": "Wallpapers 26",
@@ -79009,56 +79009,6 @@
     },
     {
       "name": "‎WA Business",
-      "bundleIdentifier": "net.whatsapp.WhatsAppSMB.C3S4S6NFFS",
-      "developerName": "WhatsApp Inc.",
-      "subtitle": "Tweaked with Cycript, CydiaSubstrate",
-      "version": "26.9.75",
-      "versionDate": "2026-03-11",
-      "versionDescription": "Tweaks: Cycript, CydiaSubstrate, WhatsAppRevael\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/WABusiness_WhatsApp_Raveal_26-9-75.ipa",
-      "localizedDescription": "WhatsApp Business injected with Revael, Will crash on first lauch, downloading stories won't work\n\n---\n\nAbout this app\n\nEverything you love about WhatsApp plus built-in tools for business\nWhatsApp Business is a free-to-download app with built-in tools to help you work smarter, build trust, and grow your business.\n\nYou get free calls and free international messaging plus business features to help you do more with conversations.\n\nDownload the app to get business benefits like these:\n\n• Work smarter. Save time by letting the app do the work for you! Send customers automated quick replies and away mes",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/35/e3/5635e36d-5725-5206-448b-c95355067e6a/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 129974338,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/75/4e/86754ed1-e732-d4ff-79d5-1fb670efa4bf/01_iOS_Profile.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/ed/39/c6ed3962-4b40-b9b1-2f54-cd6f2a2297ef/02_iOS_Status.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/84/60/0a846063-a25b-7359-9750-8621d057c3e0/03_iOS_Catalog.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/dc/0f/0cdc0f5b-800a-b8c0-8aea-6ab2f27aa5a2/04_iOS_Awaymessage.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/24/01/672401cc-2ad7-160d-4d80-144b1d3383f5/05_iOS_labels.png/392x696bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "‎This lets you send photos and videos from your library and save the ones you capture.",
-          "NSCameraUsageDescription": "‎This lets you make video calls, take photos, and record videos.",
-          "NSMicrophoneUsageDescription": "‎This lets you make calls, send voice messages, and record videos with sound.",
-          "NSLocationWhenInUseUsageDescription": "‎This lets you send your current location or nearby places.",
-          "NSLocationAlwaysUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
-          "NSContactsUsageDescription": "‎Upload your contacts to WhatsApp's servers to help you quickly get in touch with your customers and help us provide a better experience.",
-          "NSCalendarsUsageDescription": "‎This lets you create events on your calendar.",
-          "NSRemindersUsageDescription": "‎This lets you set reminders to call your customers back.",
-          "NSSiriUsageDescription": "‎This lets you use Siri to quickly send and read messages and make calls.",
-          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
-          "NSFaceIDUsageDescription": "‎Use Face ID to authenticate on WhatsApp Business.",
-          "NSLocalNetworkUsageDescription": "‎This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
-          "NSPhotoLibraryAddUsageDescription": "‎This lets you save photos and videos to your library."
-        }
-      },
-      "versions": [
-        {
-          "version": "26.9.75",
-          "date": "2026-03-11",
-          "localizedDescription": "Tweaks: Cycript, CydiaSubstrate, WhatsAppRevael\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/WABusiness_WhatsApp_Raveal_26-9-75.ipa",
-          "size": 129974338
-        }
-      ],
-      "category": "business"
-    },
-    {
-      "name": "‎WA Business",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB.2TL3L98KKA",
       "developerName": "WhatsApp Inc.",
       "subtitle": "Tweaked with Cycript, CydiaSubstrate",
@@ -79103,6 +79053,56 @@
           "localizedDescription": "Tweaks: Cycript, CydiaSubstrate, WhatsAppRevael\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://telos.ftp.sh/ipas/WABusinessRaveal.ipa",
           "size": 123459549
+        }
+      ],
+      "category": "business"
+    },
+    {
+      "name": "‎WA Business",
+      "bundleIdentifier": "net.whatsapp.WhatsAppSMB.C3S4S6NFFS",
+      "developerName": "WhatsApp Inc.",
+      "subtitle": "Tweaked with Cycript, CydiaSubstrate",
+      "version": "26.9.75",
+      "versionDate": "2026-03-11",
+      "versionDescription": "Tweaks: Cycript, CydiaSubstrate, WhatsAppRevael\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/WABusiness_WhatsApp_Raveal_26-9-75.ipa",
+      "localizedDescription": "WhatsApp Business injected with Revael, Will crash on first lauch, downloading stories won't work\n\n---\n\nAbout this app\n\nEverything you love about WhatsApp plus built-in tools for business\nWhatsApp Business is a free-to-download app with built-in tools to help you work smarter, build trust, and grow your business.\n\nYou get free calls and free international messaging plus business features to help you do more with conversations.\n\nDownload the app to get business benefits like these:\n\n• Work smarter. Save time by letting the app do the work for you! Send customers automated quick replies and away mes",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/35/e3/5635e36d-5725-5206-448b-c95355067e6a/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 129974338,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/75/4e/86754ed1-e732-d4ff-79d5-1fb670efa4bf/01_iOS_Profile.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/ed/39/c6ed3962-4b40-b9b1-2f54-cd6f2a2297ef/02_iOS_Status.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/84/60/0a846063-a25b-7359-9750-8621d057c3e0/03_iOS_Catalog.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/dc/0f/0cdc0f5b-800a-b8c0-8aea-6ab2f27aa5a2/04_iOS_Awaymessage.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/24/01/672401cc-2ad7-160d-4d80-144b1d3383f5/05_iOS_labels.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "‎This lets you send photos and videos from your library and save the ones you capture.",
+          "NSCameraUsageDescription": "‎This lets you make video calls, take photos, and record videos.",
+          "NSMicrophoneUsageDescription": "‎This lets you make calls, send voice messages, and record videos with sound.",
+          "NSLocationWhenInUseUsageDescription": "‎This lets you send your current location or nearby places.",
+          "NSLocationAlwaysUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
+          "NSContactsUsageDescription": "‎Upload your contacts to WhatsApp's servers to help you quickly get in touch with your customers and help us provide a better experience.",
+          "NSCalendarsUsageDescription": "‎This lets you create events on your calendar.",
+          "NSRemindersUsageDescription": "‎This lets you set reminders to call your customers back.",
+          "NSSiriUsageDescription": "‎This lets you use Siri to quickly send and read messages and make calls.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
+          "NSFaceIDUsageDescription": "‎Use Face ID to authenticate on WhatsApp Business.",
+          "NSLocalNetworkUsageDescription": "‎This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
+          "NSPhotoLibraryAddUsageDescription": "‎This lets you save photos and videos to your library."
+        }
+      },
+      "versions": [
+        {
+          "version": "26.9.75",
+          "date": "2026-03-11",
+          "localizedDescription": "Tweaks: Cycript, CydiaSubstrate, WhatsAppRevael\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/WABusiness_WhatsApp_Raveal_26-9-75.ipa",
+          "size": 129974338
         }
       ],
       "category": "business"
@@ -79819,7 +79819,7 @@
     {
       "title": "⚙️ Telos Update 6.27",
       "identifier": "telos-update-2026-06-27",
-      "caption": "44 Apps Updated:\n• 6 Education\n• 5 Photo & Video\n• 5 Graphics & Design\n• 4 Health & Fitness\n• 4 Business\n• 2 Productivity\n• 2 Music\n• 2 Social Networking\n• 2 News\n• 2 Finance\n• 2 Entertainment\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Games",
+      "caption": "46 Apps Updated:\n• 6 Productivity\n• 5 Photo & Video\n• 5 Graphics & Design\n• 4 Education\n• 4 Health & Fitness\n• 4 Business\n• 2 Music\n• 2 Social Networking\n• 2 News\n• 2 Finance\n• 2 Entertainment\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Games",
       "date": "2026-06-27",
       "tintColor": "#02433b",
       "notify": true,
@@ -79846,20 +79846,20 @@
     {
       "title": "⚙️ Telos Update 6.24",
       "identifier": "telos-update-2026-06-24",
-      "caption": "114 Apps Updated:\n• 24 Health & Fitness\n• 14 Photo & Video\n• 12 Lifestyle\n• 10 Utilities\n• 10 News\n• 8 Graphics & Design\n• 8 Productivity\n• 6 Education\n• 6 Games\n• 6 Music\n• 4 Developer Tools\n• 2 Food & Drink\n• 2 Finance\n• 2 Entertainment",
+      "caption": "114 Apps Updated:\n• 24 Health & Fitness\n• 14 Photo & Video\n• 12 Lifestyle\n• 10 Utilities\n• 10 News\n• 8 Productivity\n• 8 Graphics & Design\n• 6 Education\n• 6 Games\n• 6 Music\n• 4 Developer Tools\n• 2 Food & Drink\n• 2 Entertainment\n• 2 Finance",
       "date": "2026-06-24",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.napper"
+      "appID": "com.getmimo.mimo"
     },
     {
       "title": "⚙️ Telos Update 6.23",
       "identifier": "telos-update-2026-06-23",
-      "caption": "104 Apps Updated:\n• 22 Health & Fitness\n• 12 Photo & Video\n• 8 Music\n• 6 Productivity\n• 6 Navigation\n• 6 Education\n• 6 Utilities\n• 6 Business\n• 4 Graphics & Design\n• 4 Developer Tools\n• 4 Lifestyle\n• 4 Games\n• 4 Shopping\n• 2 Food & Drink\n• 2 Sports\n• 2 News\n• 2 Entertainment\n• 2 Travel\n• 2 Weather",
+      "caption": "104 Apps Updated:\n• 22 Health & Fitness\n• 12 Photo & Video\n• 8 Music\n• 6 Navigation\n• 6 Productivity\n• 6 Education\n• 6 Utilities\n• 6 Business\n• 4 Shopping\n• 4 Graphics & Design\n• 4 Developer Tools\n• 4 Lifestyle\n• 4 Games\n• 2 Entertainment\n• 2 Travel\n• 2 Weather\n• 2 Food & Drink\n• 2 Sports\n• 2 News",
       "date": "2026-06-23",
       "tintColor": "#02433b",
       "notify": true,
-      "appID": "com.reveri.reverihealth"
+      "appID": "com.evolve.helm"
     },
     {
       "title": "⚙️ Telos Update 6.22",
@@ -79891,11 +79891,11 @@
     {
       "title": "⚙️ Telos Update 6.19",
       "identifier": "telos-update-2026-06-19",
-      "caption": "190 Apps Updated:\n• 38 Health & Fitness\n• 36 Photo & Video\n• 22 Lifestyle\n• 18 Games\n• 10 Productivity\n• 10 Utilities\n• 10 Education\n• 8 Navigation\n• 4 Food & Drink\n• 4 Music\n• 4 Weather\n• 4 News\n• 4 Business\n• 4 Sports\n• 4 Entertainment\n• 2 Social Networking\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools\n• 2 Books",
+      "caption": "190 Apps Updated:\n• 38 Health & Fitness\n• 36 Photo & Video\n• 22 Lifestyle\n• 18 Games\n• 10 Utilities\n• 10 Education\n• 10 Productivity\n• 8 Navigation\n• 4 Entertainment\n• 4 Food & Drink\n• 4 Music\n• 4 Weather\n• 4 News\n• 4 Business\n• 4 Sports\n• 2 Social Networking\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools\n• 2 Books",
       "date": "2026-06-19",
       "tintColor": "#02433b",
       "notify": true,
-      "appID": "boomer.Smart-Video"
+      "appID": "com.neybox.Pillow"
     },
     {
       "title": "⚙️ Telos Update 6.18",
