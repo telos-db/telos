@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "flux.inchmade.app",
     "au.com.savageinteractive.procreate",
     "au.com.savageinteractive.procreate-pocket",
     "com.sbs.train",
-    "com.unofficialcalculators.payplan",
-    "com.luma-touch.LumaFusion"
+    "com.unofficialcalculators.payplan"
   ],
   "apps": [
     {
@@ -24978,14 +24978,14 @@
       "bundleIdentifier": "flux.inchmade.app",
       "developerName": "宋帅 郑",
       "subtitle": "Forward for iOS",
-      "version": "1.3.6",
-      "versionDate": "2026-02-28",
+      "version": "1.3.17",
+      "versionDate": "2026-06-27",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/flux.inchmade.app-1.3.6-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nIntroducing Forward, the next-generation video player designed to completely transform the way you manage, organize, and experience media. Forward is not just a player; it is an AI-driven media library management tool that offers unparalleled picture quality, smooth interaction experience, and a beautiful user interface.\n\nWhy choose Forward?\n\nAIPlay can handle every aspect of your media library, leveraging cutting-edge AI technology to far exceed existing players in performance, visual effects,",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/d0/10/e9d010cc-4724-e6b4-8fcf-553276f8257c/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/flux.inchmade.app-1.3.17-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nForward is an AI-powered media aggregation hub and video player for people whose movies and shows live across cloud drives, NAS, Emby, Jellyfin, Stremio, modules, and local files. It does more than play videos: it organizes scattered sources, metadata, posters, subtitles, watch progress, and airing calendars into one personal cinema library.\n\nKey features:\n- AI media organization: recognize movies, series, seasons, and episodes, then match TMDB metadata, posters, stills, and trailers to reduce m",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/3c/e6/ae3ce61f-9ee5-307e-0325-00cf993a992f/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 97601764,
+      "size": 98345542,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -24997,11 +24997,11 @@
       },
       "versions": [
         {
-          "version": "1.3.6",
-          "date": "2026-02-28",
+          "version": "1.3.17",
+          "date": "2026-06-27",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/flux.inchmade.app-1.3.6-eeveedecrypter.ipa",
-          "size": 97601764
+          "downloadURL": "https://telos.ftp.sh/ipas/flux.inchmade.app-1.3.17-eeveedecrypter.ipa",
+          "size": 98345542
         }
       ],
       "category": "entertainment"
