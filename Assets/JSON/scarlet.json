@@ -22441,6 +22441,32 @@
       }
     },
     {
+      "name": "LCSign",
+      "bundleIdentifier": "com.huami.LoadController",
+      "developerName": "LCS Family of Companies",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n本次更新：\n\n---\nAt LCS, we strive to lead the way in making a difference in people's lives. Our LCS Live Well app offers you easy access to company opportunities and communication such as:\n- Connecting with LCS\n- Career Opportunities\n- Conferences\n- LCS News",
+      "version": "1.1",
+      "versionDate": "2026-06-27T12:20:52-00:00",
+      "versionDescription": "Build 8 from @thescholarslounge",
+      "size": 18793401,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/5f/da/9d5fda4b-0687-345d-f5be-49110d55be85/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/LCSign-1.1-8.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "LCSign-1.1-8.ipa"
+      }
+    },
+    {
       "name": "LD",
       "bundleIdentifier": "com.lensdistortions.Lens-Distortions",
       "developerName": "Lens Distortions, LLC",
