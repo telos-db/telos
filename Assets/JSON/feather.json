@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.busuu.english.app",
+    "com.madarsoft.fitness",
     "com.puresignal.strides",
     "com.unofficialcalculators.payplan",
-    "net.mkswap.Dropshare-iOS",
-    "com.LEMO.LemoFM",
-    "com.lake.coloring"
+    "net.mkswap.Dropshare-iOS"
   ],
   "apps": [
     {
@@ -9690,14 +9690,14 @@
       "bundleIdentifier": "com.busuu.english.app",
       "developerName": "Busuu Limited",
       "subtitle": "Tweaked with BusuuLanguageLearning, blatantsPatch",
-      "version": "30.19.0",
-      "versionDate": "2026-06-21",
+      "version": "30.20.0",
+      "versionDate": "2026-06-28",
       "versionDescription": "Tweaks: BusuuLanguageLearning, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Busuu_Language_Learning_App_v30_19_0_PremiumPlus_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Busuu_Language_Learning_App_v30_20_0_PremiumPlus_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BusuuLanguageLearning, blatantsPatch, sideloadKeychainfix\n\nBusuu: Language Learning App\n\n---\nBusuu helps you communicate with confidence from day one. Combine expertly designed language lessons with feedback and tips from our global community of native speakers and harness the power of learning together.\n\nLooking for the best way to learn a new language on your phone? You’ve just discovered it, with Busuu, a Chegg service – we’re the app that makes learning new languages easier, more fun and more effective for all.\n\nWhether you’re learning to get confident having new conversations, for",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/a4/51/c4a45184-c3e6-3254-823c-af37967ebeaa/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 157639434,
+      "size": 157660245,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/66/49/e466490d-d2b5-eddf-3e3e-e401f1a3132d/ef40b8ee-049e-453f-bb7c-6595f19fe712_iOS-5.5-EN-RealLife.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/54/38/a9543848-fca6-3f4d-a5bf-e199e1fde343/6e7682ab-be8e-47f7-8625-5dd7b3522eea_iOS-5.5-EN-Study.jpg/392x696bb.jpg",
@@ -9725,11 +9725,11 @@
       },
       "versions": [
         {
-          "version": "30.19.0",
-          "date": "2026-06-21",
+          "version": "30.20.0",
+          "date": "2026-06-28",
           "localizedDescription": "Tweaks: BusuuLanguageLearning, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Busuu_Language_Learning_App_v30_19_0_PremiumPlus_Unlocked_blatant.ipa",
-          "size": 157639434
+          "downloadURL": "https://telos.ftp.sh/ipas/Busuu_Language_Learning_App_v30_20_0_PremiumPlus_Unlocked_blatant.ipa",
+          "size": 157660245
         }
       ],
       "category": "education"
@@ -79982,14 +79982,14 @@
       "bundleIdentifier": "com.madarsoft.fitness",
       "developerName": "Madar Al Parmaga",
       "subtitle": "Tweaked with Rashaqa, blatantsPatch",
-      "version": "18.5",
-      "versionDate": "2026-06-22",
+      "version": "18.6",
+      "versionDate": "2026-06-28",
       "versionDescription": "Tweaks: Rashaqa, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/رشاقة_حساب_السعرات،_خطوات_مشي_v18_5_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/رشاقة_حساب_السعرات،_خطوات_مشي_v18_6_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Rashaqa, blatantsPatch, sideloadKeychainfix\n\nرشاقة: حساب السعرات، خطوات مشي\n\n---\nRashaqa is an app for health and wellness\n\nRashaqa is an all-in-one health and fitness app that offers several advantages to its users. Among its features, the Calories Scanner stands out as a powerful tool for managing your diet and achieving your health goals. Here’s what you need to know:\nCalorie Tracking:\nRashaqa provides you with a calorie tracker program for all your meals. Whether you’re following a specific diet plan, practicing intermittent fasting, or simply aiming for weight loss, thi",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/18/b7/ba18b7ea-5d5a-df46-eecd-9eeaabbfdd77/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 235167079,
+      "size": 233418513,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/64/aa/0e64aa1b-a22d-122e-6881-37977fe3c145/9b84eac6-3b5d-44a5-8eff-07d9df6c9321_iphone6-main-arabic-02.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/42/f5/0a42f55b-5fd6-22f8-a08e-e526a267e066/41d4d39c-752d-4e50-b872-4edd5101b928_iphone6--_U062e_U0637_U0648_U0627_U062a-arabic.jpg/392x696bb.jpg",
@@ -80026,11 +80026,11 @@
       },
       "versions": [
         {
-          "version": "18.5",
-          "date": "2026-06-22",
+          "version": "18.6",
+          "date": "2026-06-28",
           "localizedDescription": "Tweaks: Rashaqa, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/رشاقة_حساب_السعرات،_خطوات_مشي_v18_5_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 235167079
+          "downloadURL": "https://telos.ftp.sh/ipas/رشاقة_حساب_السعرات،_خطوات_مشي_v18_6_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 233418513
         }
       ],
       "category": "health-&-fitness"
