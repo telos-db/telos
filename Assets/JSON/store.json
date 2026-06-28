@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.reddit.Reddit",
     "com.fluffyfairygames.idleminertycoon",
     "com.atebits.Tweetie2",
     "com.busuu.english.app",
-    "com.madarsoft.fitness",
-    "com.puresignal.strides"
+    "com.madarsoft.fitness"
   ],
   "apps": [
     {
@@ -54789,15 +54789,15 @@
       "name": "Reddit",
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "REDDIT, INC.",
-      "subtitle": "Tweaked with CydiaSubstrate, RedditFilter",
+      "subtitle": "Reddit for iOS",
       "version": "2026.25.1",
-      "versionDate": "2026-06-25",
-      "versionDescription": "Tweaks: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.25.1_Jacks_Apps.ipa",
-      "localizedDescription": "RedditDeluxe 2026.25.1",
+      "versionDate": "2026-06-28",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.reddit.Reddit-2026.25.1-eeveedecrypter.ipa",
+      "localizedDescription": "Reddit for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a6/0d/e6a60d60-e30f-e9b7-5499-38fc8e294a51/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 145801654,
+      "size": 149191003,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/b1/d4/5ab1d42a-6b46-14e8-0a42-e36651ee36cb/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/29/b6/0b29b650-0ac2-1a8b-fa99-0140c0e95608/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/392x696bb.png",
@@ -54827,10 +54827,10 @@
       "versions": [
         {
           "version": "2026.25.1",
-          "date": "2026-06-25",
-          "localizedDescription": "Tweaks: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.25.1_Jacks_Apps.ipa",
-          "size": 145801654
+          "date": "2026-06-28",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.reddit.Reddit-2026.25.1-eeveedecrypter.ipa",
+          "size": 149191003
         }
       ],
       "category": "news"
@@ -79817,7 +79817,7 @@
     {
       "title": "⚙️ Telos Update 6.28",
       "identifier": "telos-update-2026-06-28",
-      "caption": "32 Apps Updated:\n• 8 Health & Fitness\n• 6 Photo & Video\n• 4 Music\n• 4 Productivity\n• 2 Games\n• 2 Lifestyle\n• 2 Finance\n• 2 Education\n• 2 News",
+      "caption": "36 Apps Updated:\n• 8 Health & Fitness\n• 6 Photo & Video\n• 6 News\n• 4 Music\n• 4 Productivity\n• 2 Games\n• 2 Lifestyle\n• 2 Finance\n• 2 Education",
       "date": "2026-06-28",
       "tintColor": "#02433b",
       "notify": true,
