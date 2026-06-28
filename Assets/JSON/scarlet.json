@@ -19359,12 +19359,12 @@
       "bundleIdentifier": "com.fluffyfairygames.idleminertycoon",
       "developerName": "Kolibri Games GmbH",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nIdle Miner Tycoon\n\n---\nAre you a true gold miner? Join Business Empire in Idle Miner Tycoon, the leading business simulation trusted by millions. In this simulator, you take control as a top tycoon to build your mining empire. Unlike other tycoon games, this simulation game offers deep strategy. You can start your journey in this idle game even in offline games mode. Start as an idle miner and become an idle hero in this adventure - even as a clever goblin miner chasing hidden riches. This mine simulator is for anyone",
-      "version": "5.57.0",
-      "versionDate": "2026-06-19T05:33:13-00:00",
-      "versionDescription": "Build 96135 from @riftysIPAlibrary",
-      "size": 144029038,
+      "version": "5.58.0",
+      "versionDate": "2026-06-28T19:44:07-00:00",
+      "versionDescription": "Build 96331 from @riftysIPAlibrary",
+      "size": 144616011,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/32/50/2d3250f3-cd56-52c9-eb87-0e9448e09bff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Idle Miner Tycoon-v5.57.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Idle Miner Tycoon-v5.58.0-riftysipas.ipa",
       "minOSVersion": "15.2",
       "supportedPlatforms": [
         "iOS"
@@ -19377,7 +19377,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Idle Miner Tycoon-v5.57.0-riftysipas.ipa"
+        "originalFile": "Idle Miner Tycoon-v5.58.0-riftysipas.ipa"
       }
     },
     {
@@ -45202,32 +45202,6 @@
       }
     },
     {
-      "name": "Twitter",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "X Corp.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: DLTwitter, _by_iosdecrypted_[sideloadKeychainFix], zxPluginsInject\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
-      "version": "12.1",
-      "versionDate": "2026-06-24T18:07:46-00:00",
-      "versionDescription": "Build 11 from @thescholarslounge",
-      "size": 223209214,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/9f/e1/889fe148-e8a2-72ba-508d-2d945b3c6537/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]XX_12.1_DL_NF.ipa",
-      "minOSVersion": "15.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@thescholarslounge",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "[TG@i_osd]XX_12.1_DL_NF.ipa"
-      }
-    },
-    {
       "name": "Twitter [BHTwitter]",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X Corp.",
@@ -48746,6 +48720,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "WPS_Office_AI_Doc,_PDF,_Sheet_v26_6_2_PRO+AI_Unlocked_blatant_Patched.ipa"
+      }
+    },
+    {
+      "name": "X",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "X Corp.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DLTwitter, TWIGalaxy, TwitDate, _by_iosdecrypted_[sideloadKeychainFix]\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "version": "12.3",
+      "versionDate": "2026-06-28T19:37:41-00:00",
+      "versionDescription": "Build 10 from @thescholarslounge",
+      "size": 224151441,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/9f/e1/889fe148-e8a2-72ba-508d-2d945b3c6537/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/‎_X_v12_3_AppAssassin_@iosdecrypted_injected_@iosdecrypted_injected.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "‎_X_v12_3_AppAssassin_@iosdecrypted_injected_@iosdecrypted_injected.ipa"
       }
     },
     {
