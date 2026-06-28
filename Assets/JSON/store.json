@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.puresignal.strides",
     "com.unofficialcalculators.payplan",
     "net.mkswap.Dropshare-iOS",
     "com.LEMO.LemoFM",
-    "com.lake.coloring",
-    "RVS-Riverside.fm"
+    "com.lake.coloring"
   ],
   "apps": [
     {
@@ -65031,14 +65031,14 @@
       "bundleIdentifier": "com.puresignal.strides",
       "developerName": "Goals LLC",
       "subtitle": "*Tweak:** Plus Unlocked | *Patched ✓**",
-      "version": "19.9",
-      "versionDate": "2026-06-12",
+      "version": "19.10",
+      "versionDate": "2026-06-28",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Strides: Habit Tracker + Goals-v19.9-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Strides: Habit Tracker + Goals-v19.10-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Plus Unlocked | *Patched ✓**\n\nStrides: Habit Tracker + Goals",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/77/67/167767c3-3229-8077-ea9b-522fb81e2520/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 113815636,
+      "size": 116276570,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/55/ff/4f55ffd1-9bd1-df05-d154-c119cc75f1cf/780059c5-f9da-49ff-be2b-aa6eb4b4295b_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/38/c9/3b38c934-93f2-1cc3-b7e6-61b51b4b337a/3905dbe1-811f-4723-b0ab-81946b1bfada_2.png/392x696bb.png",
@@ -65068,11 +65068,11 @@
       },
       "versions": [
         {
-          "version": "19.9",
-          "date": "2026-06-12",
+          "version": "19.10",
+          "date": "2026-06-28",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Strides: Habit Tracker + Goals-v19.9-riftysipas.ipa",
-          "size": 113815636
+          "downloadURL": "https://telos.ftp.sh/ipas/Strides: Habit Tracker + Goals-v19.10-riftysipas.ipa",
+          "size": 116276570
         }
       ],
       "category": "productivity"
@@ -79819,7 +79819,7 @@
     {
       "title": "⚙️ Telos Update 6.28",
       "identifier": "telos-update-2026-06-28",
-      "caption": "22 Apps Updated:\n• 6 Health & Fitness\n• 6 Photo & Video\n• 4 Music\n• 2 Productivity\n• 2 Lifestyle\n• 2 Finance",
+      "caption": "26 Apps Updated:\n• 6 Health & Fitness\n• 6 Photo & Video\n• 6 Productivity\n• 4 Music\n• 2 Lifestyle\n• 2 Finance",
       "date": "2026-06-28",
       "tintColor": "#02433b",
       "notify": true,
