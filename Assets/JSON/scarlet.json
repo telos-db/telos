@@ -12133,32 +12133,6 @@
       }
     },
     {
-      "name": "EeveeSpotify [EeveeSpotify]",
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "Spotify",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, EeveeSpotify, zxPluginsInject\n\nEeveeSpotify\n\n---\nWith the Spotify app, you can explore an extensive library of music and podcasts for free. Curate the best playlists and stream millions of free songs, albums, and original podcasts on your phone or tablet. Subscribe to Spotify Premium to download and listen offline wherever you are, and unlock our catalog of audiobooks.\n\nWhy choose Spotify as your go-to music and podcast app? Here, you can:\n• Listen to over 100 million songs and 6 million podcast titles\n• Explore our selection of specially-craf",
-      "version": "9.1.56",
-      "versionDate": "2026-06-16T09:48:40-00:00",
-      "versionDescription": "Build 915600572 from @binnichtaktivsipas",
-      "size": 118396730,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/7b/26537b47-88c8-845a-fb1b-a65702602a10/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/EeveeSpotify 9.1.56.ipa",
-      "minOSVersion": "15.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "EeveeSpotify 9.1.56.ipa"
-      }
-    },
-    {
       "name": "eFHUB 26",
       "bundleIdentifier": "com.Nova.Peshub22",
       "developerName": "Nova Software Studio LTD",
@@ -39620,6 +39594,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "com.spotify.client-9.1.36-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "Spotify [EeveeSpotify]",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Spotify",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, EeveeSpotify, zxPluginsInject\n\n---\nWith the Spotify app, you can explore an extensive library of music and podcasts for free. Curate the best playlists and stream millions of free songs, albums, and original podcasts on your phone or tablet. Subscribe to Spotify Premium to download and listen offline wherever you are, and unlock our catalog of audiobooks.\n\nWhy choose Spotify as your go-to music and podcast app? Here, you can:\n• Listen to over 100 million songs and 6 million podcast titles\n• Explore our selection of specially-craf",
+      "version": "9.1.60",
+      "versionDate": "2026-06-28T03:36:00-00:00",
+      "versionDescription": "Build 916001969 from @binnichtaktivsipas",
+      "size": 126932754,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/7b/26537b47-88c8-845a-fb1b-a65702602a10/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/EeveeSpotify-6.6.6-9.1.60_patched[tg@compiledipas].ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "EeveeSpotify-6.6.6-9.1.60_patched[tg@compiledipas].ipa"
       }
     },
     {
