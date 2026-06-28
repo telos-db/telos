@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.unofficialcalculators.payplan",
+    "net.mkswap.Dropshare-iOS",
     "com.LEMO.LemoFM",
     "com.lake.coloring",
-    "RVS-Riverside.fm",
-    "co.bazaart.app",
-    "com.lightricks.Enlight-Video"
+    "RVS-Riverside.fm"
   ],
   "apps": [
     {
@@ -7213,14 +7213,14 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "subtitle": "*Tweak:** Full Version Unlocked | *Patched ✓**",
-      "version": "4.1.96",
-      "versionDate": "2026-06-27",
+      "version": "4.1.97",
+      "versionDate": "2026-06-28",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.96-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.97-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Full Version Unlocked | *Patched ✓** | *Developer:** Bill Tracker Pro, Inc.\n\nBill Tracker Pro",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/46/b0/a746b030-b429-b6ae-bf3f-20aa368a416e/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 150503508,
+      "size": 150509293,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/df/72/1cdf72bb-1d54-7a27-d6e4-e54ef4151c21/pr_source.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/ab/2c/f4ab2cef-41bd-f2bf-2980-f7910d3d3dd8/pr_source.png/552x414bb.png",
@@ -7247,11 +7247,11 @@
       },
       "versions": [
         {
-          "version": "4.1.96",
-          "date": "2026-06-27",
+          "version": "4.1.97",
+          "date": "2026-06-28",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.96-riftysipas.ipa",
-          "size": 150503508
+          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.97-riftysipas.ipa",
+          "size": 150509293
         }
       ],
       "category": "finance"
@@ -18287,15 +18287,15 @@
       "name": "Dropshare",
       "bundleIdentifier": "net.mkswap.Dropshare-iOS",
       "developerName": "Timo Josten",
-      "subtitle": "Pro Features Unlocked",
-      "version": "3.62",
-      "versionDate": "2026-05-31",
-      "versionDescription": "Tweaks: Dropshare, FilePickerFix\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Dropshare Pro 3.62.ipa",
-      "localizedDescription": "Pro Features Unlocked\n\nDropshare - File Sharing Tool",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "3.63",
+      "versionDate": "2026-06-28",
+      "versionDescription": "Tweaks: Dropshare, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Dropshare_File_Sharing_Tool_v3_63_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nDropshare - File Sharing Tool",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/b2/cd/88b2cdec-37ac-a0a0-76f6-dee9589aebca/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 66878309,
+      "size": 68600541,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/9d/5f/cc9d5fc6-ebaa-b969-b563-26e627af95e9/fe21a11e-b843-418e-b4a5-97f2af685482_ios-phone-screenshot-1-small.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/0b/77/290b7730-03cd-6112-61ce-30d08966f024/6e071ebb-c8f0-406d-a37e-b7ddb1a138d4_ios-phone-screenshot-2-small.png/392x696bb.png",
@@ -18316,11 +18316,11 @@
       },
       "versions": [
         {
-          "version": "3.62",
-          "date": "2026-05-29",
-          "localizedDescription": "Tweaks: Dropshare, FilePickerFix\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Dropshare Pro 3.62.ipa",
-          "size": 66878309
+          "version": "3.63",
+          "date": "2026-06-28",
+          "localizedDescription": "Tweaks: Dropshare, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Dropshare_File_Sharing_Tool_v3_63_Subscription_Unlocked_blatant.ipa",
+          "size": 68600541
         }
       ],
       "category": "productivity"
@@ -79819,7 +79819,7 @@
     {
       "title": "⚙️ Telos Update 6.28",
       "identifier": "telos-update-2026-06-28",
-      "caption": "20 Apps Updated:\n• 8 Health & Fitness\n• 6 Photo & Video\n• 4 Music\n• 2 Lifestyle",
+      "caption": "26 Apps Updated:\n• 6 Health & Fitness\n• 6 Photo & Video\n• 4 Music\n• 4 Productivity\n• 4 Finance\n• 2 Lifestyle",
       "date": "2026-06-28",
       "tintColor": "#02433b",
       "notify": true,
