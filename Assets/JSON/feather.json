@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.unofficialcalculators.payplan",
+    "net.mkswap.Dropshare-iOS",
     "com.LEMO.LemoFM",
     "com.lake.coloring",
-    "RVS-Riverside.fm",
-    "co.bazaart.app",
-    "com.lightricks.Enlight-Video"
+    "RVS-Riverside.fm"
   ],
   "apps": [
     {
@@ -7259,14 +7259,14 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.1.96",
-      "versionDate": "2026-06-27",
+      "version": "4.1.97",
+      "versionDate": "2026-06-28",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.96-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.97-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nBill Tracker Pro\n\n---\nBill Tracker Pro is the #1 app for tracking bills, income, and spending. Connect your bank, create a budget, track your cash flow, and take control of your finances.\n\nNew in Bill Tracker Pro:\n\nBank Sync with Plaid – Connect your accounts to sync transactions automatically.\n\nKnow What’s Safe to Spend – See your real-time spending power after upcoming bills.\n\nNever Miss a Bill – Set reminders, view your upcoming bills at a glance, and stay organized with widgets.\n\nFind Hidden Subscriptions – Uncov",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/46/b0/a746b030-b429-b6ae-bf3f-20aa368a416e/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 150503508,
+      "size": 150509293,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/df/72/1cdf72bb-1d54-7a27-d6e4-e54ef4151c21/pr_source.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/ab/2c/f4ab2cef-41bd-f2bf-2980-f7910d3d3dd8/pr_source.png/552x414bb.png",
@@ -7293,11 +7293,11 @@
       },
       "versions": [
         {
-          "version": "4.1.96",
-          "date": "2026-06-27",
+          "version": "4.1.97",
+          "date": "2026-06-28",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.96-riftysipas.ipa",
-          "size": 150503508
+          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.97-riftysipas.ipa",
+          "size": 150509293
         }
       ],
       "category": "finance"
@@ -18427,14 +18427,14 @@
       "bundleIdentifier": "net.mkswap.Dropshare-iOS",
       "developerName": "Timo Josten",
       "subtitle": "Tweaked with Dropshare, blatantsPatch",
-      "version": "3.61",
-      "versionDate": "2026-05-31",
+      "version": "3.63",
+      "versionDate": "2026-06-28",
       "versionDescription": "Tweaks: Dropshare, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Dropshare_File_Sharing_Tool_v3_61_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Dropshare_File_Sharing_Tool_v3_63_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Dropshare, blatantsPatch\n\nDropshare - File Sharing Tool\n\n---\nDropshare makes it easy to upload and share files from your iPhone or iPad using storage you already trust.\n\nUpload files, photos, videos, and more, then instantly get a download link you can share anywhere. Whether you want to use your own server, S3-compatible storage, or popular cloud services, Dropshare gives you a faster and more flexible file sharing workflow on iOS.\n\nWhy Dropshare:\n• Share files quickly via download URL\n• Upload from Photos, Files, or the Share Extension\n• Upload one file",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/b2/cd/88b2cdec-37ac-a0a0-76f6-dee9589aebca/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 68540693,
+      "size": 68600541,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/9d/5f/cc9d5fc6-ebaa-b969-b563-26e627af95e9/fe21a11e-b843-418e-b4a5-97f2af685482_ios-phone-screenshot-1-small.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/0b/77/290b7730-03cd-6112-61ce-30d08966f024/6e071ebb-c8f0-406d-a37e-b7ddb1a138d4_ios-phone-screenshot-2-small.png/392x696bb.png",
@@ -18455,11 +18455,11 @@
       },
       "versions": [
         {
-          "version": "3.61",
-          "date": "2026-05-31",
+          "version": "3.63",
+          "date": "2026-06-28",
           "localizedDescription": "Tweaks: Dropshare, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Dropshare_File_Sharing_Tool_v3_61_Subscription_Unlocked_blatant.ipa",
-          "size": 68540693
+          "downloadURL": "https://telos.ftp.sh/ipas/Dropshare_File_Sharing_Tool_v3_63_Subscription_Unlocked_blatant.ipa",
+          "size": 68600541
         }
       ],
       "category": "productivity"
