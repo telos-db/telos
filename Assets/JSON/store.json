@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.fluffyfairygames.idleminertycoon",
+    "com.atebits.Tweetie2",
     "com.busuu.english.app",
     "com.madarsoft.fitness",
-    "com.puresignal.strides",
-    "com.unofficialcalculators.payplan",
-    "net.mkswap.Dropshare-iOS"
+    "com.puresignal.strides"
   ],
   "apps": [
     {
@@ -30597,14 +30597,14 @@
       "bundleIdentifier": "com.fluffyfairygames.idleminertycoon",
       "developerName": "Kolibri Games GmbH",
       "subtitle": "*Tweak:** Free Iap | *Patched ✓**",
-      "version": "5.57.0",
-      "versionDate": "2026-06-19",
+      "version": "5.58.0",
+      "versionDate": "2026-06-28",
       "versionDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Idle Miner Tycoon-v5.57.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Idle Miner Tycoon-v5.58.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Free Iap | *Patched ✓**\n\nIdle Miner Tycoon",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/32/50/2d3250f3-cd56-52c9-eb87-0e9448e09bff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 144029038,
+      "size": 144616011,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/8a/66/bc8a6665-21f7-2f0f-feaa-9e67488bfd42/01_CVR_1242x2208_EN.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/8f/2e/5f8f2e4c-b163-528b-9ce9-40b367e35c96/2_1242x2208.png/392x696bb.png",
@@ -30632,11 +30632,11 @@
       },
       "versions": [
         {
-          "version": "5.57.0",
-          "date": "2026-06-19",
+          "version": "5.58.0",
+          "date": "2026-06-28",
           "localizedDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Idle Miner Tycoon-v5.57.0-riftysipas.ipa",
-          "size": 144029038
+          "downloadURL": "https://telos.ftp.sh/ipas/Idle Miner Tycoon-v5.58.0-riftysipas.ipa",
+          "size": 144616011
         }
       ],
       "category": "games"
@@ -71447,64 +71447,6 @@
       "category": "photo-&-video"
     },
     {
-      "name": "Twitter",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "X Corp.",
-      "subtitle": "Tweaked with BHTwitter, Cephei",
-      "version": "12.1",
-      "versionDate": "2026-06-24",
-      "versionDescription": "Tweaks: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]XX_12.1_BH_NF.ipa",
-      "localizedDescription": "Twitter for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/9f/e1/889fe148-e8a2-72ba-508d-2d945b3c6537/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 227775358,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/77/660e779a-d449-ebd3-0bd3-78502084f7bf/770e6822-f28e-4e4b-be51-8bfbe36f4307_iPad_12.9_-_1.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/2e/90e62e67-ccd1-8221-8149-49f305b8778d/7e053a3e-190b-4585-9927-509871425aad_iPad_12.9_-_2.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/55/81/e1558195-ef27-c4d9-7967-ab92de356af6/af4a69eb-36c5-463c-9677-c2a72dfaa7dc_iPad_12.9_-_3.png/552x414bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.associated-appclip-app-identifiers",
-          "aps-environment",
-          "com.apple.developer.devicecheck.appattest-environment",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.siri",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.networking.carrier-constrained.app-optimized",
-          "com.apple.developer.networking.carrier-constrained.appcategory",
-          "com.apple.security.application-groups",
-          "com.apple.developer.usernotifications.communication"
-        ],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
-          "NSCameraUsageDescription": "Capture and post photos and videos from Twitter.",
-          "NSMicrophoneUsageDescription": "Capture and post videos with sound from Twitter.",
-          "NSLocationWhenInUseUsageDescription": "Enjoy Twitter experience tailored to your location.",
-          "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
-          "NSCalendarsUsageDescription": "Add events to your calendar from Twitter.",
-          "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
-          "NSFaceIDUsageDescription": "Use FaceID to authenticate on Twitter.",
-          "NSBluetoothAlwaysUsageDescription": "Twitter uses Bluetooth to discover Cast-enabled devices near you.",
-          "NSLocalNetworkUsageDescription": "Twitter uses the local network to discover Cast-enabled devices on your WiFi network.",
-          "NSUserTrackingUsageDescription": "This helps Twitter show you more relevant ads.",
-          "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos."
-        }
-      },
-      "versions": [
-        {
-          "version": "12.1",
-          "date": "2026-06-24",
-          "localizedDescription": "Tweaks: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]XX_12.1_BH_NF.ipa",
-          "size": 227775358
-        }
-      ],
-      "category": "news"
-    },
-    {
       "name": "TypeAI",
       "bundleIdentifier": "com.codeway.AIKeyboard",
       "developerName": "DEEP FLOW SOFTWARE SERVICES",
@@ -77053,6 +76995,62 @@
       "category": "productivity"
     },
     {
+      "name": "X",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "X Corp.",
+      "subtitle": "Tweaked with CydiaSubstrate, DLTwitter",
+      "version": "12.3",
+      "versionDate": "2026-06-28",
+      "versionDescription": "Tweaks: CydiaSubstrate, DLTwitter, TWIGalaxy, TwitDate, _by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/‎_X_v12_3_AppAssassin_@iosdecrypted_injected_@iosdecrypted_injected.ipa",
+      "localizedDescription": "X for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/9f/e1/889fe148-e8a2-72ba-508d-2d945b3c6537/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 224151441,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/77/660e779a-d449-ebd3-0bd3-78502084f7bf/770e6822-f28e-4e4b-be51-8bfbe36f4307_iPad_12.9_-_1.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/2e/90e62e67-ccd1-8221-8149-49f305b8778d/7e053a3e-190b-4585-9927-509871425aad_iPad_12.9_-_2.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/55/81/e1558195-ef27-c4d9-7967-ab92de356af6/af4a69eb-36c5-463c-9677-c2a72dfaa7dc_iPad_12.9_-_3.png/552x414bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "aps-environment",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.siri",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.networking.carrier-constrained.app-optimized",
+          "com.apple.developer.networking.carrier-constrained.appcategory",
+          "com.apple.security.application-groups",
+          "com.apple.developer.usernotifications.communication"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSCameraUsageDescription": "Capture and post photos and videos from X.",
+          "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
+          "NSLocationWhenInUseUsageDescription": "Enjoy the X experience tailored to your location.",
+          "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
+          "NSCalendarsUsageDescription": "Add events to your calendar from X.",
+          "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
+          "NSFaceIDUsageDescription": "Use FaceID to authenticate on X.",
+          "NSUserTrackingUsageDescription": "This helps X show you more relevant ads.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos."
+        }
+      },
+      "versions": [
+        {
+          "version": "12.3",
+          "date": "2026-06-28",
+          "localizedDescription": "Tweaks: CydiaSubstrate, DLTwitter, TWIGalaxy, TwitDate, _by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/‎_X_v12_3_AppAssassin_@iosdecrypted_injected_@iosdecrypted_injected.ipa",
+          "size": 224151441
+        }
+      ],
+      "category": "news"
+    },
+    {
       "name": "x-kom",
       "bundleIdentifier": "pl.x-kom.mobileapi",
       "developerName": "x-kom",
@@ -79819,7 +79817,7 @@
     {
       "title": "⚙️ Telos Update 6.28",
       "identifier": "telos-update-2026-06-28",
-      "caption": "32 Apps Updated:\n• 10 Health & Fitness\n• 6 Photo & Video\n• 4 Music\n• 4 Productivity\n• 4 Education\n• 2 Lifestyle\n• 2 Finance",
+      "caption": "36 Apps Updated:\n• 8 Health & Fitness\n• 6 Photo & Video\n• 4 Music\n• 4 Productivity\n• 4 Games\n• 4 News\n• 2 Lifestyle\n• 2 Finance\n• 2 Education",
       "date": "2026-06-28",
       "tintColor": "#02433b",
       "notify": true,
