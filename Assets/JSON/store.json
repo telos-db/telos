@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.loyalty.dutchbros",
     "com.reddit.Reddit",
     "com.fluffyfairygames.idleminertycoon",
     "com.atebits.Tweetie2",
-    "com.busuu.english.app",
-    "com.madarsoft.fitness"
+    "com.busuu.english.app"
   ],
   "apps": [
     {
@@ -18743,6 +18743,52 @@
         }
       ],
       "category": "social-networking"
+    },
+    {
+      "name": "Dutch Bros",
+      "bundleIdentifier": "com.loyalty.dutchbros",
+      "developerName": "Dutch Bros., llc",
+      "subtitle": "Dutch Bros for iOS",
+      "version": "3.20.0",
+      "versionDate": "2026-06-28",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.loyalty.dutchbros-3.20.0-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/4b/7e/704b7ec0-4a35-e7a7-f85c-112ac208eca7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 78935718,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/c1/25/f5c12541-4f1f-9630-5bcb-2dc048abb020/DutchBros__App-Submission__5.5-iPhone__Screen-01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/15/7a/7e157af9-84ce-2f60-2f5f-44a49bd4f4a7/DutchBros__App-Submission__5.5-iPhone__Screen-02@1x.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/cc/cc/3dcccc42-4145-2a17-ab62-3d320e619107/DutchBros__App-Submission__5.5-iPhone__Screen-03@1x.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/6c/ba/946cbacd-1250-c300-1687-9ec1b99e6e3e/DutchBros__App-Submission__5.5-iPhone__Screen-04@1x.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/3f/77/693f77c5-b97f-4b46-acd2-8b881b97ecb3/DutchBros__App-Submission__5.5-iPhone__Screen-05@1x.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Dutch Bros can use your camera to scan gift cards.",
+          "NSLocationWhenInUseUsageDescription": "Your precise location is used to show your position on the map, estimate distances to Dutch Bros coffee shops, and enable Quick Pass.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Your precise location is used to show your positio on the map, estimate distances to Dutch Bros coffee shops, and enable Quick Pass.",
+          "NSContactsUsageDescription": "Share Your Contacts. Share The Luv. Give Dutch Bros access to your contacts for an easier gifting experience.",
+          "NSCalendarsUsageDescription": "App would like Calendar access (Create Events).",
+          "NSMotionUsageDescription": "App wants access to Motion Sensor data.",
+          "NSAppleMusicUsageDescription": "App wants media access (Possibly for import media).",
+          "NSSpeechRecognitionUsageDescription": "App wants access to Speech Recognition (Transcription Audio).",
+          "NSFaceIDUsageDescription": "App wants FACE ID access.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized offers and ads, and to create a customized experience for you. We do not sell your data to third parties and it will only be used as described in our Privacy Policy."
+        }
+      },
+      "versions": [
+        {
+          "version": "3.20.0",
+          "date": "2026-06-24",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.loyalty.dutchbros-3.20.0-eeveedecrypter.ipa",
+          "size": 78935718
+        }
+      ],
+      "category": "food-&-drink"
     },
     {
       "name": "Dynamic Lyrics",
@@ -79817,7 +79863,7 @@
     {
       "title": "⚙️ Telos Update 6.28",
       "identifier": "telos-update-2026-06-28",
-      "caption": "34 Apps Updated:\n• 8 Health & Fitness\n• 6 Photo & Video\n• 4 Music\n• 4 Productivity\n• 4 News\n• 2 Games\n• 2 Lifestyle\n• 2 Finance\n• 2 Education",
+      "caption": "38 Apps Updated:\n• 8 Health & Fitness\n• 6 Photo & Video\n• 4 Music\n• 4 Productivity\n• 4 News\n• 4 Food & Drink\n• 2 Games\n• 2 Lifestyle\n• 2 Finance\n• 2 Education",
       "date": "2026-06-28",
       "tintColor": "#02433b",
       "notify": true,
