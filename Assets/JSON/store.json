@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.LEMO.LemoFM",
     "com.lake.coloring",
     "RVS-Riverside.fm",
     "co.bazaart.app",
-    "com.lightricks.Enlight-Video",
-    "com.nuvio.media"
+    "com.lightricks.Enlight-Video"
   ],
   "apps": [
     {
@@ -35833,14 +35833,14 @@
       "bundleIdentifier": "com.LEMO.LemoFM",
       "developerName": "FocusPomo Apps",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "1.11.2",
-      "versionDate": "2026-06-17",
+      "version": "1.11.3",
+      "versionDate": "2026-06-28",
       "versionDescription": "Tweaks: LemoFM, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/LEMO_FM_relax_&_sleep_sound_v1_11_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LEMO_FM_relax_&_sleep_sound_v1_11_3_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nLEMO FM - relax & sleep sound",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/90/02/72900222-e3d9-34f6-e3fc-1e0e26c71c1c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 101861825,
+      "size": 103160476,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f7/06/fc/f706fce8-5a94-d5ea-ca56-5bf02c890cf1/d36b8b67-851e-4b5c-bc99-7da3b6d6cb6e__U82f1-_U5956_U9879.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/07/e7/23/07e72313-bd00-dc17-0f7c-1e573dcd9b96/e90bd5f5-2a6d-4a40-81c3-a326f3bfc836__U753b_U677f_U5907_U4efd_6.jpg/392x696bb.jpg",
@@ -35859,11 +35859,11 @@
       },
       "versions": [
         {
-          "version": "1.11.2",
-          "date": "2026-06-17",
+          "version": "1.11.3",
+          "date": "2026-06-28",
           "localizedDescription": "Tweaks: LemoFM, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/LEMO_FM_relax_&_sleep_sound_v1_11_2_Subscription_Unlocked_blatant.ipa",
-          "size": 101861825
+          "downloadURL": "https://telos.ftp.sh/ipas/LEMO_FM_relax_&_sleep_sound_v1_11_3_Subscription_Unlocked_blatant.ipa",
+          "size": 103160476
         }
       ],
       "category": "health-&-fitness"
@@ -79819,7 +79819,7 @@
     {
       "title": "⚙️ Telos Update 6.28",
       "identifier": "telos-update-2026-06-28",
-      "caption": "18 Apps Updated:\n• 6 Photo & Video\n• 4 Music\n• 4 Health & Fitness\n• 4 Lifestyle",
+      "caption": "20 Apps Updated:\n• 8 Health & Fitness\n• 6 Photo & Video\n• 4 Music\n• 2 Lifestyle",
       "date": "2026-06-28",
       "tintColor": "#02433b",
       "notify": true,
