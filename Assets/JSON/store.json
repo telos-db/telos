@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "io.labhouse.audioapp",
-    "com.dr1ven.eraser",
-    "ph.telegra.Telegraph",
-    "com.adobe.PSMobile",
-    "com.lampa.photo"
+    "org.reactjs.native.example.rootd",
+    "com.dopedevelopment.Panels",
+    "com.grandgames.carmatch",
+    "com.lightricks.Facetune2",
+    "com.lexwarelabs.goodmorning"
   ],
   "apps": [
     {
@@ -10744,14 +10744,14 @@
       "bundleIdentifier": "com.grandgames.carmatch",
       "developerName": "Grand Games A.Ş.",
       "subtitle": "*Tweak:** Free Iap | *Patched ✓**",
-      "version": "0.0.827",
-      "versionDate": "2026-06-11",
+      "version": "0.0.883",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, iOSGodsiAPCracker, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Car Match - Traffic Puzzle-v0.0.827-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Car Match - Traffic Puzzle-v0.0.883-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Free Iap | *Patched ✓**\n\nCar Match - Traffic Puzzle",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/3d/89/dd3d89ea-ac88-5728-7d4e-0c3d8d293311/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 191482479,
+      "size": 206317892,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/84/a1/6c84a16b-fb54-06a7-5af2-2baf48450897/1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/b1/a8/2ab1a8a2-5398-3d49-95eb-6e7684b46df6/2.jpg/392x696bb.jpg",
@@ -10767,11 +10767,11 @@
       },
       "versions": [
         {
-          "version": "0.0.827",
-          "date": "2026-06-11",
+          "version": "0.0.883",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, iOSGodsiAPCracker, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Car Match - Traffic Puzzle-v0.0.827-riftysipas.ipa",
-          "size": 191482479
+          "downloadURL": "https://telos.ftp.sh/ipas/Car Match - Traffic Puzzle-v0.0.883-riftysipas.ipa",
+          "size": 206317892
         }
       ],
       "category": "games"
@@ -21120,14 +21120,14 @@
       "bundleIdentifier": "com.lightricks.Facetune2",
       "developerName": "Lightricks Ltd.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "26.17",
-      "versionDate": "2026-06-24",
+      "version": "26.18",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_17_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_18_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFacetune: Photo & Video Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/bd/0b/24bd0ba0-1648-a278-f6f6-173fe83ef2f8/AppIconLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 421775210,
+      "size": 424440930,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/e1/25/81e125c3-0cff-38ab-c643-3cc8ebd60281/FT-250819-ASO-Baseline-5.5-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/52/66/e1526682-7c10-2655-d24a-0f0047c6fe71/FT-250819-ASO-Baseline-5.5-02.jpg/392x696bb.jpg",
@@ -21153,11 +21153,11 @@
       },
       "versions": [
         {
-          "version": "26.17",
-          "date": "2026-06-24",
+          "version": "26.18",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_17_Subscription_Unlocked_blatant.ipa",
-          "size": 421775210
+          "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_18_Subscription_Unlocked_blatant.ipa",
+          "size": 424440930
         }
       ],
       "category": "photo-&-video"
@@ -56364,14 +56364,14 @@
       "bundleIdentifier": "org.reactjs.native.example.rootd",
       "developerName": "Simply Rooted Media Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "3.1.58",
-      "versionDate": "2026-06-24",
+      "version": "3.1.59",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.58-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.59-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nRootd: Panic Attacks & Anxiety",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/e8/02/b5e8027e-1639-b9a6-63a8-e7639d9e711b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 64419001,
+      "size": 64505862,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/20/bb/2420bb85-208d-5c12-54a8-18e90ce18c3a/e46a7b02-ac14-4809-91f5-aa8575fef4ce_rteriphone_5.5_display_copy.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/22/b2/f822b2d7-8fa5-1e87-a43e-8fddfef3694e/f6665434-fc68-4954-9b95-8eacd3051608_1242x2208bb-16.png/392x696bb.png",
@@ -56405,11 +56405,11 @@
       },
       "versions": [
         {
-          "version": "3.1.58",
-          "date": "2026-06-24",
+          "version": "3.1.59",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.58-riftysipas.ipa",
-          "size": 64419001
+          "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.59-riftysipas.ipa",
+          "size": 64505862
         }
       ],
       "category": "health-&-fitness"
@@ -57654,14 +57654,14 @@
       "bundleIdentifier": "com.dopedevelopment.Panels",
       "developerName": "Appostrophe AB",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "9.42",
-      "versionDate": "2026-06-25",
+      "version": "9.43",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/SCRL: Photo Collage Maker-v9.42-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SCRL: Photo Collage Maker-v9.43-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nSCRL: Photo Collage Maker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/0e/04/6a0e0450-440d-6eee-b315-3b6c458f7322/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 63983576,
+      "size": 67036826,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/9f/cc/bf9fcc21-d31e-a730-109d-f0b037b8b55a/b50f3413-5af5-4401-afc8-59d1f050d406_IOS_5.5_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/dc/49/2adc49b4-9f3f-6591-8c4c-fe699045fd13/23d473c0-b9bb-4925-b93f-4d4a86fdee0f_IOS_5.5_2.jpg/392x696bb.jpg",
@@ -57685,11 +57685,11 @@
       },
       "versions": [
         {
-          "version": "9.42",
-          "date": "2026-06-25",
+          "version": "9.43",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/SCRL: Photo Collage Maker-v9.42-riftysipas.ipa",
-          "size": 63983576
+          "downloadURL": "https://telos.ftp.sh/ipas/SCRL: Photo Collage Maker-v9.43-riftysipas.ipa",
+          "size": 67036826
         }
       ],
       "category": "photo-&-video"
@@ -59753,14 +59753,14 @@
       "bundleIdentifier": "com.lexwarelabs.goodmorning",
       "developerName": "Sleep Cycle AB",
       "subtitle": "Premium Unlocked | Patched",
-      "version": "6.26.24",
-      "versionDate": "2026-06-22",
+      "version": "6.26.25",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: SleepCycle, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sleep_Cycle_Tracker_&_Sounds_v6_26_24_Premium_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sleep_Cycle_Tracker_&_Sounds_v6_26_25_Premium_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nSleep Cycle - Tracker & Sounds",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/35/f7/ee35f75a-26d7-58b6-62fe-ace5bc92ffa1/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 341680464,
+      "size": 341737659,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/1a/ca/b51acae8-a9fa-efc2-804c-ab27581d58a5/f706957a-db7a-4ce9-937e-f08c8a275a5e_SC_iPad_iOS_2048x2732px_01.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/30/6a/37306a67-340e-06ec-3884-28857d755ae4/f2cf43a7-619e-4879-ba35-398a32d3eb02_SC_iPad_iOS_2048x2732px_02.png/576x768bb.png",
@@ -59799,11 +59799,11 @@
       },
       "versions": [
         {
-          "version": "6.26.24",
-          "date": "2026-06-22",
+          "version": "6.26.25",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: SleepCycle, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Sleep_Cycle_Tracker_&_Sounds_v6_26_24_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 341680464
+          "downloadURL": "https://telos.ftp.sh/ipas/Sleep_Cycle_Tracker_&_Sounds_v6_26_25_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 341737659
         }
       ],
       "category": "health-&-fitness"
@@ -79936,7 +79936,7 @@
     {
       "title": "⚙️ Telos Update 6.29",
       "identifier": "telos-update-2026-06-29",
-      "caption": "56 Apps Updated:\n• 16 Photo & Video\n• 6 Productivity\n• 6 Entertainment\n• 4 Utilities\n• 4 Education\n• 4 Social Networking\n• 4 Health & Fitness\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Games\n• 2 Finance\n• 2 Music\n• 2 Sports",
+      "caption": "68 Apps Updated:\n• 22 Photo & Video\n• 10 Health & Fitness\n• 6 Entertainment\n• 6 Games\n• 4 Productivity\n• 4 Utilities\n• 4 Education\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Finance\n• 2 Music\n• 2 Sports\n• 2 Social Networking",
       "date": "2026-06-29",
       "tintColor": "#02433b",
       "notify": true,
