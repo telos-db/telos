@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.SixThree.POV",
     "com.evolve.helm",
     "com.elevateapp.elevate",
     "com.tranzmate.tranzmate1",
-    "com.duolingo.DuolingoMobile",
-    "com.bpmhealth.boostfitness"
+    "com.duolingo.DuolingoMobile"
   ],
   "apps": [
     {
@@ -52241,14 +52241,14 @@
       "bundleIdentifier": "com.SixThree.POV",
       "developerName": "Untitled Tech, Inc.",
       "subtitle": "*Tweak:** Unlimited Guests | *Patched ✓**",
-      "version": "5.70",
-      "versionDate": "2026-06-25",
+      "version": "5.71",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/POV – Disposable Camera Events-v5.70-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/POV – Disposable Camera Events-v5.71-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Unlimited Guests | *Patched ✓**\n\nPOV – Disposable Camera Events",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/14/67/9214672a-8be3-6b95-7a25-b9f5e9c8ee2e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 48827065,
+      "size": 48858104,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/19/50/961950f4-4094-a2a6-cb52-e332b81db5df/1_55.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/50/35/4a503595-4be7-c183-b43f-c67fd2590023/2_55.png/392x696bb.png",
@@ -52278,11 +52278,11 @@
       },
       "versions": [
         {
-          "version": "5.70",
-          "date": "2026-06-25",
+          "version": "5.71",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/POV – Disposable Camera Events-v5.70-riftysipas.ipa",
-          "size": 48827065
+          "downloadURL": "https://telos.ftp.sh/ipas/POV – Disposable Camera Events-v5.71-riftysipas.ipa",
+          "size": 48858104
         }
       ],
       "category": "photo-&-video"
@@ -79961,7 +79961,7 @@
     {
       "title": "⚙️ Telos Update 6.29",
       "identifier": "telos-update-2026-06-29",
-      "caption": "84 Apps Updated:\n• 16 Photo & Video\n• 16 Health & Fitness\n• 12 Education\n• 6 Entertainment\n• 6 Games\n• 4 Productivity\n• 4 Utilities\n• 4 Finance\n• 4 Music\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Sports\n• 2 Social Networking\n• 2 Navigation\n• 2 News",
+      "caption": "84 Apps Updated:\n• 20 Photo & Video\n• 12 Education\n• 12 Health & Fitness\n• 6 Entertainment\n• 6 Games\n• 4 Productivity\n• 4 Utilities\n• 4 Finance\n• 4 Music\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Sports\n• 2 Social Networking\n• 2 Navigation\n• 2 News",
       "date": "2026-06-29",
       "tintColor": "#02433b",
       "notify": true,
