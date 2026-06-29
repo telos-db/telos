@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.SixThree.POV",
     "com.evolve.helm",
     "com.elevateapp.elevate",
     "com.tranzmate.tranzmate1",
-    "com.duolingo.DuolingoMobile",
-    "com.bpmhealth.boostfitness"
+    "com.duolingo.DuolingoMobile"
   ],
   "apps": [
     {
@@ -52692,14 +52692,14 @@
       "bundleIdentifier": "com.SixThree.POV",
       "developerName": "Untitled Tech, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "5.70",
-      "versionDate": "2026-06-25",
+      "version": "5.71",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/POV – Disposable Camera Events-v5.70-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/POV – Disposable Camera Events-v5.71-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPOV – Disposable Camera Events\n\n---\nPOV helps you capture the point of view of everyone at your event. Perfect for weddings, parties, nights out, and more!\n\nLike a digital disposable camera –– cap the number of photos that each of your guests can take and have the photos reveal the next day!\n\nNO DOWNLOAD REQUIRED FOR GUESTS\nGuests can scan a code or tap on a link and don't have to download this app to participate.\n\nCAMERA\nThe camera is completely customizable –– you determine how many photos each of your guests can take.\n\nGALLERY",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/14/67/9214672a-8be3-6b95-7a25-b9f5e9c8ee2e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 48827065,
+      "size": 48858104,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/19/50/961950f4-4094-a2a6-cb52-e332b81db5df/1_55.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/50/35/4a503595-4be7-c183-b43f-c67fd2590023/2_55.png/392x696bb.png",
@@ -52729,11 +52729,11 @@
       },
       "versions": [
         {
-          "version": "5.70",
-          "date": "2026-06-25",
+          "version": "5.71",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/POV – Disposable Camera Events-v5.70-riftysipas.ipa",
-          "size": 48827065
+          "downloadURL": "https://telos.ftp.sh/ipas/POV – Disposable Camera Events-v5.71-riftysipas.ipa",
+          "size": 48858104
         }
       ],
       "category": "photo-&-video"
