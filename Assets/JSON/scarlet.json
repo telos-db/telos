@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-06-28",
+  "versionDate": "2026-06-29",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -21149,12 +21149,12 @@
       "bundleIdentifier": "com.genau.JournalCircle",
       "developerName": "Genau Factory",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nJournalCircle: Diary & Tracker\n\n---\nDiscover JournalCircle, a journaling app featured on the App Store across multiple regions. JournalCircle combines AI-powered journaling, voice notes, mood tracking, and entry analysis to help you record your daily life with clarity. Users often mention that the clean, beautiful design makes them want to journal more consistently.\n\nJournalCircle is a journaling and life log app designed to manage your diary, mood, routines, goals, and daily records in one place.\n\nAI-powered journaling tools\nJour",
-      "version": "3.4.2",
-      "versionDate": "2026-06-22T01:25:56-00:00",
+      "version": "3.4.3",
+      "versionDate": "2026-06-29T00:21:38-00:00",
       "versionDescription": "Build 1 from @riftysIPAlibrary",
-      "size": 13513850,
+      "size": 13513824,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/48/33/ed4833dd-86d9-8719-79bf-3cf44589f4bd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.3-riftysipas.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -21167,7 +21167,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "JournalCircle: Diary & Tracker-v3.4.2-riftysipas.ipa"
+        "originalFile": "JournalCircle: Diary & Tracker-v3.4.3-riftysipas.ipa"
       }
     },
     {
@@ -26234,12 +26234,12 @@
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "Genau Factory",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMoneyCircle: Spending,Expense\n\n---\nTrack your spending with clarity and control — meet MoneyCircle.\n\nMoneyCircle makes it easy to understand where your money goes.\nWith clean design, smart categorization, and intuitive insights,\nyou’ll gain control of your finances and uncover new opportunities to save.\n\nIf you've tried other expense tracking apps but found them cluttered or overwhelming,\nMoneyCircle offers a refreshing alternative — simple, beautiful, and focused on what matters: your spending habits.\n\nKey Features\nSmart Categor",
-      "version": "3.3.7",
-      "versionDate": "2026-06-24T20:08:51-00:00",
-      "versionDescription": "Build 1 from @riftysIPAlibrary",
-      "size": 13974026,
+      "version": "3.3.8",
+      "versionDate": "2026-06-29T00:22:14-00:00",
+      "versionDescription": "Build 3 from @riftysIPAlibrary",
+      "size": 13967441,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/2a/64/fa2a64b3-0a6b-6fda-3943-7353c92daf49/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.7-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.8-riftysipas.ipa",
       "minOSVersion": "16.6",
       "supportedPlatforms": [
         "iOS"
@@ -26252,7 +26252,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "MoneyCircle: Spending,Expense-v3.3.7-riftysipas.ipa"
+        "originalFile": "MoneyCircle: Spending,Expense-v3.3.8-riftysipas.ipa"
       }
     },
     {
