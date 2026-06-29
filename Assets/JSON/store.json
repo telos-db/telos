@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "background.remover.bg.eraser",
-    "com.getmimo.mimo",
-    "com.aoklab.fewerphotos",
-    "com.jahn.WLawson.genesis",
-    "com.blockpuzzle.us.ios"
+    "com.fishbrain.app",
+    "com.duuro.moneyCoach",
+    "com.mwm.guitartuner",
+    "com.zhiliaoapp.musically",
+    "background.remover.bg.eraser"
   ],
   "apps": [
     {
@@ -22516,14 +22516,14 @@
       "bundleIdentifier": "com.fishbrain.app",
       "developerName": "FishBrain",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "9.56.0",
-      "versionDate": "2026-06-16",
+      "version": "9.57.0",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fishbrain - Fishing App-v9.56.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fishbrain - Fishing App-v9.57.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nFishbrain - Fishing App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/7f/8a/5f7f8a30-1543-59a7-deb6-f468b011dc6a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 104090049,
+      "size": 104907817,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/91/94/349194cb-6260-048c-8706-410bd747c510/587a1251-897c-4222-b374-174bfde201ec_Lake_dock_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/1b/c6/301bc634-8349-8ade-fa39-e14c01234f5b/21e1c76d-0143-4bc2-b0c7-ee6863e2e22f_5.5_new_copy.png/392x696bb.png",
@@ -22553,11 +22553,11 @@
       },
       "versions": [
         {
-          "version": "9.56.0",
-          "date": "2026-06-16",
+          "version": "9.57.0",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fishbrain - Fishing App-v9.56.0-riftysipas.ipa",
-          "size": 104090049
+          "downloadURL": "https://telos.ftp.sh/ipas/Fishbrain - Fishing App-v9.57.0-riftysipas.ipa",
+          "size": 104907817
         }
       ],
       "category": "sports"
@@ -41650,14 +41650,14 @@
       "bundleIdentifier": "com.duuro.moneyCoach",
       "developerName": "MoneyCoach UG",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "11.4.1",
-      "versionDate": "2026-06-11",
+      "version": "11.4.3",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Money Coach My Budget Planner-v11.4.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Money Coach My Budget Planner-v11.4.3-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nMoney Coach My Budget Planner",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/61/94/0161942b-99e5-f732-b3de-0db6512ee2cd/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 107787374,
+      "size": 107234236,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -41681,11 +41681,11 @@
       },
       "versions": [
         {
-          "version": "11.4.1",
-          "date": "2026-06-11",
+          "version": "11.4.3",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Money Coach My Budget Planner-v11.4.1-riftysipas.ipa",
-          "size": 107787374
+          "downloadURL": "https://telos.ftp.sh/ipas/Money Coach My Budget Planner-v11.4.3-riftysipas.ipa",
+          "size": 107234236
         }
       ],
       "category": "finance"
@@ -69014,14 +69014,14 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok Ltd.",
       "subtitle": "Patched | Tweaked",
-      "version": "45.7.0",
-      "versionDate": "2026-06-22",
+      "version": "45.8.0",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: BHTikTok, CydiaSubstrate, FLEX, FLEXing, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_7_0_BHTikTok++_v1_9_3_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_8_0_BHTikTok++_v1_9_3_blatant_Patched.ipa",
       "localizedDescription": "Patched | Tweaked\n\nTikTok - Videos, Shop & LIVE",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c5/9f/6bc59f11-c2c3-1009-e18b-0033c4ef4d61/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 442878693,
+      "size": 446399534,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/392x696bb.png",
@@ -69062,11 +69062,11 @@
       },
       "versions": [
         {
-          "version": "45.7.0",
-          "date": "2026-06-22",
+          "version": "45.8.0",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: BHTikTok, CydiaSubstrate, FLEX, FLEXing, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_7_0_BHTikTok++_v1_9_3_blatant_Patched.ipa",
-          "size": 442878693
+          "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_8_0_BHTikTok++_v1_9_3_blatant_Patched.ipa",
+          "size": 446399534
         }
       ],
       "category": "entertainment"
@@ -71189,14 +71189,14 @@
       "bundleIdentifier": "com.mwm.guitartuner",
       "developerName": "MWM",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.00.06",
-      "versionDate": "2026-06-03",
+      "version": "4.01.00",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: TunerPro, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tuner_Pro_Guitar_Tuner_&_Tab_v4_00_06_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tuner_Pro_Guitar_Tuner_&_Tab_v4_01_00_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nTuner Pro: Guitar Tuner & Tab",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/51/08/68510832-21d3-c983-151f-b74d60b16815/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 285441459,
+      "size": 295764753,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/28/a0/8728a021-28c4-5ef4-6da9-1a176c8fc4c5/EN_ipad_01.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/a8/80/d4a880e3-4ac2-2aa2-bc3f-0b1b9770299d/EN_ipad_02.png/576x768bb.png",
@@ -71218,11 +71218,11 @@
       },
       "versions": [
         {
-          "version": "4.00.06",
-          "date": "2026-05-05",
+          "version": "4.01.00",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: TunerPro, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tuner_Pro_Guitar_Tuner_&_Tab_v4_00_06_Subscription_Unlocked_blatant.ipa",
-          "size": 285441459
+          "downloadURL": "https://telos.ftp.sh/ipas/Tuner_Pro_Guitar_Tuner_&_Tab_v4_01_00_Subscription_Unlocked_blatant.ipa",
+          "size": 295764753
         }
       ],
       "category": "music"
@@ -79936,7 +79936,7 @@
     {
       "title": "⚙️ Telos Update 6.29",
       "identifier": "telos-update-2026-06-29",
-      "caption": "26 Apps Updated:\n• 6 Utilities\n• 6 Education\n• 4 Graphics & Design\n• 4 Photo & Video\n• 2 Productivity\n• 2 Lifestyle\n• 2 Games",
+      "caption": "44 Apps Updated:\n• 12 Entertainment\n• 4 Utilities\n• 4 Education\n• 4 Photo & Video\n• 4 Finance\n• 4 Music\n• 4 Sports\n• 2 Productivity\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Games",
       "date": "2026-06-29",
       "tintColor": "#02433b",
       "notify": true,
