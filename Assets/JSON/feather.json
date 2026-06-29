@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.fishbrain.app",
-    "com.duuro.moneyCoach",
-    "com.mwm.guitartuner",
-    "com.zhiliaoapp.musically",
-    "background.remover.bg.eraser"
+    "io.labhouse.audioapp",
+    "com.dr1ven.eraser",
+    "ph.telegra.Telegraph",
+    "com.adobe.PSMobile",
+    "com.lampa.photo"
   ],
   "apps": [
     {
@@ -26471,23 +26471,24 @@
       "bundleIdentifier": "app.gentler.activity",
       "developerName": "Gentler Stories LLC",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "5.12.1",
-      "versionDate": "2026-06-08",
+      "version": "5.12.7",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Gentler_Streak_Workout_Tracker_v5_12_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Gentler_Streak_Workout_Tracker_v5_12_7_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nGentler Streak Workout Tracker\n\n---\nHey, welcome the Gentler Streak - the app that keeps your active life alive! An award-winning health and fitness tracker offers personalized guidance that adapts to your daily capabilities and not the other way around. For those of us who want to move consistently, not constantly.\n\nBuilt with care by a small indie team.\n\n• 2024 Apple Design Award - Social Impact | 2022 Apple Watch App of the Year | App of the Day | Editor’s Choice\n• Featured in The Verge, Forbes, TechCrunch, and more.\n\n▶ PRIVATE",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/20/c7/ac20c71c-574b-15bb-eb6d-2eb7803c2761/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 196014512,
+      "size": 199298302,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
-          "com.apple.developer.healthkit",
           "com.apple.developer.healthkit.background-delivery",
           "aps-environment",
           "com.apple.developer.icloud-container-environment",
-          "com.apple.security.application-groups",
-          "com.apple.developer.healthkit.access"
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.access",
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "This lets you choose an image from photo library to set as your Gentler Streak profile picture.",
@@ -26497,17 +26498,16 @@
           "NSLocationAlwaysAndWhenInUseUsageDescription": "It will enable Gentler Streak to draw a map of your route.",
           "NSMotionUsageDescription": "Gentler Streak would like to access your motion to remind you to end the workout once you've stopped.",
           "NSHealthShareUsageDescription": "Gentler Streak uses HealthKit data as a read-only database for on-device interpretation and visual representation.",
-          "NSHealthUpdateUsageDescription": "Permit Gentler Streak writing to HealthKit and thus saving your workout data.",
-          "NSUserTrackingUsageDescription": "We aim to constantly improve your experience and bring the app closer to others in need. Enabling tracking helps us achieve this goal. We won’t use this data for displaying ads within Gentler Streak, as our commitment is ad-free."
+          "NSHealthUpdateUsageDescription": "Permit Gentler Streak writing to HealthKit and thus saving your workout data."
         }
       },
       "versions": [
         {
-          "version": "5.12.1",
-          "date": "2026-06-08",
+          "version": "5.12.7",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Gentler_Streak_Workout_Tracker_v5_12_1_Subscription_Unlocked_blatant.ipa",
-          "size": 196014512
+          "downloadURL": "https://telos.ftp.sh/ipas/Gentler_Streak_Workout_Tracker_v5_12_7_Subscription_Unlocked_blatant.ipa",
+          "size": 199298302
         }
       ],
       "category": "health-&-fitness"
@@ -35663,14 +35663,14 @@
       "bundleIdentifier": "com.lampa.photo",
       "developerName": "Alexey Teplonogov",
       "subtitle": "Tweaked with Lampa, blatantsPatch",
-      "version": "2.0.3",
-      "versionDate": "2026-06-03",
+      "version": "2.1.0",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: Lampa, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lampa_—_Digital_&_Film_Camera_v2_0_3_Unlimited_Photos_+_Filters.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lampa_—_Digital_&_Film_Camera_v2_1_0_Unlimited_Photos_+_Filters.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Lampa, blatantsPatch\n\nLampa — Digital & Film Camera\n\n---\nLampa is a camera app for those who seek honest images and an analog look. It helps you get the most natural images without HDR or AI-driven effects and make soft, nostalgic photos and videos. The result feels balanced and film-like, ready straight from the camera without post-editing.\n\nNATURALLY PROCESSED PHOTO AND VIDEO\n— Minimal processing due to our own In-House Image Capture Engine. Lampa captures RAW data and processes it immediately with profiles. You get a result that can’t be achieved b",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/21/f0/4721f0c9-444d-0384-a9ba-81fc87701219/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 108013015,
+      "size": 108028207,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/f2/92/98f29201-294d-702a-2d32-418e95534cd9/168dd0e8-bcf5-4293-8038-098a304b57a4_5.5__01n.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/8b/79/098b79a3-73ff-22d9-0e56-78066bec848f/54945edd-ac58-41e7-8975-f0f2799b4ea5_5.5__05n.jpg/392x696bb.jpg",
@@ -35693,11 +35693,11 @@
       },
       "versions": [
         {
-          "version": "2.0.3",
-          "date": "2026-06-03",
+          "version": "2.1.0",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: Lampa, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lampa_—_Digital_&_Film_Camera_v2_0_3_Unlimited_Photos_+_Filters.ipa",
-          "size": 108013015
+          "downloadURL": "https://telos.ftp.sh/ipas/Lampa_—_Digital_&_Film_Camera_v2_1_0_Unlimited_Photos_+_Filters.ipa",
+          "size": 108028207
         }
       ],
       "category": "photo-&-video"
@@ -50073,14 +50073,14 @@
       "bundleIdentifier": "com.dr1ven.eraser",
       "developerName": "Photoroom",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2026.26.01",
-      "versionDate": "2026-06-22",
+      "version": "2026.27.01",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.26.01-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.27.01-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPhotoroom: AI Photo Editor\n\n---\nPhotoroom is the ultimate AI-powered photo editing app, trusted by over 300 million users.\n\nCreate studio-quality product photos in seconds with Photoroom’s advanced AI photo editing technology. No design skills required.\n\nWHY CHOOSE PHOTOROOM?\n\nENHANCE PRODUCT LISTINGS. Showcase clothing on virtual models, ghost mannequins, and flat lay. No studio required.\n\nREMOVE, REPLACE, AND RECOLOR. Remove backgrounds, swap for AI-generated edits, and recolor products in seconds.\n\nSAVE TIME WITH BATCH EDIT",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/65/e0/2165e04b-567a-cf7d-1dcb-a2fc8ab699e9/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 172811570,
+      "size": 173083140,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -50102,11 +50102,11 @@
       },
       "versions": [
         {
-          "version": "2026.26.01",
-          "date": "2026-06-22",
+          "version": "2026.27.01",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.26.01-riftysipas.ipa",
-          "size": 172811570
+          "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.27.01-riftysipas.ipa",
+          "size": 173083140
         }
       ],
       "category": "photo-&-video"
@@ -53514,15 +53514,15 @@
       "name": "PS Express",
       "bundleIdentifier": "com.adobe.PSMobile",
       "developerName": "Adobe Inc.",
-      "subtitle": "Tweaked with PhotoshopExpressPremium, sideloadKeychainfix",
-      "version": "26.14.0",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Tweaks: PhotoshopExpressPremium, sideloadKeychainfix\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/PS_Express_26.14.0.8704_Jacks_\nApps.ipa.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: PhotoshopExpressPremium, sideloadKeychainfix\n\nPhotoshop Express 26.15.0.8704\n\n---\nPHOTO EDITING MADE FUN AND EASY FOR EVERYONE\n\nTap into your creativity on the go with Photoshop Express—the fun, fast, and easy picture and video editor. Discover seamless one-touch photo transformations and simple video editing—used by millions of creative individuals.\n\nPhotoshop Express delivers a wide and diverse selection of features and aesthetics at your fingertips. Create stand out photo collage images, and fix and enhance your share-worthy moments for stunning social content. Unlock unli",
+      "subtitle": "Tweaked with PSExpress, blatantsPatch",
+      "version": "26.26.0",
+      "versionDate": "2026-06-29",
+      "versionDescription": "Tweaks: PSExpress, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Photoshop_Express_Photo_Editor_v26_26_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: PSExpress, blatantsPatch, sideloadKeychainfix\n\nPhotoshop Express Photo Editor\n\n---\nPHOTO EDITING MADE FUN AND EASY FOR EVERYONE\n\nTap into your creativity on the go with Photoshop Express—the fun, fast, and easy picture and video editor. Discover seamless one-touch photo transformations and simple video editing—used by millions of creative individuals.\n\nPhotoshop Express delivers a wide and diverse selection of features and aesthetics at your fingertips. Create stand out photo collage images, and fix and enhance your share-worthy moments for stunning social content. Unlock unli",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/a0/24/29a0241e-e384-ed7c-7358-b6df160fb524/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 152975357,
+      "size": 168421581,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/8e/e5/b28ee5f8-59e8-a224-53f1-ce12470a4411/5356e424-df7c-4726-867e-7001bfe18a13_TEST_7_03_PsX_iOS_5.5_Gen_Fill_1242x2208_US_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/0e/7f/260e7f56-8bde-ff7e-744e-d25646e96703/54f9de5a-de0d-4e33-b1ca-a12041aa252b_C_03_Adobe_PsX_iOS_5.5_AI_1242x2208_CA.png/392x696bb.png",
@@ -53549,11 +53549,11 @@
       },
       "versions": [
         {
-          "version": "26.14.0",
-          "date": "2026-06-15",
-          "localizedDescription": "Tweaks: PhotoshopExpressPremium, sideloadKeychainfix\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/PS_Express_26.14.0.8704_Jacks_\nApps.ipa.ipa",
-          "size": 152975357
+          "version": "26.26.0",
+          "date": "2026-06-29",
+          "localizedDescription": "Tweaks: PSExpress, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Photoshop_Express_Photo_Editor_v26_26_0_Subscription_Unlocked_blatant.ipa",
+          "size": 168421581
         }
       ],
       "category": "photo-&-video"
@@ -66515,14 +66515,14 @@
       "bundleIdentifier": "io.labhouse.audioapp",
       "developerName": "Labhouse Mobile",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.17.2",
-      "versionDate": "2026-06-16",
+      "version": "2.18.0",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Summary - AI Note Taker-v2.17.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Summary - AI Note Taker-v2.18.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSummary - AI Note Taker\n\n---\nSummary AI makes meetings more productive by automatically recording, transcribing, and summarizing conversations. Whether it’s a business meeting, interview, classroom lecture, or podcast, Summary AI captures everything clearly so you can stay present and focus.\n\nWith one tap, the app records audio, generates accurate transcripts with speaker labels, and creates easy-to-read summaries. You can even ask questions like, “What were the key action items from the marketing strategy session?” and get",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/8a/c0/f68ac0d9-104e-248d-0992-27c9ea3332a7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 101612424,
+      "size": 105019924,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -66544,11 +66544,11 @@
       },
       "versions": [
         {
-          "version": "2.17.2",
-          "date": "2026-06-16",
+          "version": "2.18.0",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Summary - AI Note Taker-v2.17.2-riftysipas.ipa",
-          "size": 101612424
+          "downloadURL": "https://telos.ftp.sh/ipas/Summary - AI Note Taker-v2.18.0-riftysipas.ipa",
+          "size": 105019924
         }
       ],
       "category": "productivity"
@@ -67951,15 +67951,15 @@
       "name": "Telegram",
       "bundleIdentifier": "ph.telegra.Telegraph",
       "developerName": "Telegram FZ-LLC",
-      "subtitle": "Telegram for iOS",
-      "version": "12.7",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/ph.telegra.Telegraph-12.7-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nPure instant messaging — simple, fast, secure, and synced across all your devices. One of the top 5 most downloaded apps in the world with over 1 billion active users.\n\nFAST: Telegram is the fastest messaging app on the market, connecting people via a unique, distributed network of data centers around the globe.\n\nSYNCED: You can access your messages from all your phones, tablets and computers at once. Telegram apps are standalone, so you don’t need to keep your phone connected. Start typing on o",
+      "subtitle": "Tweaked with Lead1.4.3, TelegramChatFixer",
+      "version": "12.8",
+      "versionDate": "2026-06-29",
+      "versionDescription": "Tweaks: Lead1.4.3, TelegramChatFixer, TelegramNotificationFix, sideloadFixerLol, zxPluginsInject\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Telegram_12.8_Lead_1.4.3.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Lead1.4.3, TelegramChatFixer, TelegramNotificationFix, sideloadFixerLol, zxPluginsInject\n\n---\nPure instant messaging — simple, fast, secure, and synced across all your devices. One of the top 5 most downloaded apps in the world with over 1 billion active users.\n\nFAST: Telegram is the fastest messaging app on the market, connecting people via a unique, distributed network of data centers around the globe.\n\nSYNCED: You can access your messages from all your phones, tablets and computers at once. Telegram apps are standalone, so you don’t need to keep your phone connected. Start typing on o",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/69/31/1f693117-6b3a-eacf-6b77-943856b02239/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 75657162,
+      "size": 86575514,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/43/08/c7430887-1b12-f786-988f-df61b671ac4b/0_APP_IPHONE_55_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/ac/b9/0dacb9fa-84e2-1b44-cab3-6c3b6f68a74a/1_APP_IPHONE_55_1.png/392x696bb.png",
@@ -67995,11 +67995,11 @@
       },
       "versions": [
         {
-          "version": "12.7",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/ph.telegra.Telegraph-12.7-eeveedecrypter.ipa",
-          "size": 75657162
+          "version": "12.8",
+          "date": "2026-06-29",
+          "localizedDescription": "Tweaks: Lead1.4.3, TelegramChatFixer, TelegramNotificationFix, sideloadFixerLol, zxPluginsInject\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Telegram_12.8_Lead_1.4.3.ipa",
+          "size": 86575514
         }
       ],
       "category": "social-networking"
