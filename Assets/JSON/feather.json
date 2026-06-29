@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.genau.MoneyCircle",
+    "com.genau.JournalCircle",
     "com.loyalty.dutchbros",
     "com.reddit.Reddit",
-    "com.fluffyfairygames.idleminertycoon",
-    "com.atebits.Tweetie2",
-    "com.busuu.english.app"
+    "com.fluffyfairygames.idleminertycoon"
   ],
   "apps": [
     {
@@ -33864,14 +33864,14 @@
       "bundleIdentifier": "com.genau.JournalCircle",
       "developerName": "Genau Factory",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.4.2",
-      "versionDate": "2026-06-22",
+      "version": "3.4.3",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.3-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nJournalCircle: Diary & Tracker\n\n---\nDiscover JournalCircle, a journaling app featured on the App Store across multiple regions. JournalCircle combines AI-powered journaling, voice notes, mood tracking, and entry analysis to help you record your daily life with clarity. Users often mention that the clean, beautiful design makes them want to journal more consistently.\n\nJournalCircle is a journaling and life log app designed to manage your diary, mood, routines, goals, and daily records in one place.\n\nAI-powered journaling tools\nJour",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/48/33/ed4833dd-86d9-8719-79bf-3cf44589f4bd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13513850,
+      "size": 13513824,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/4a/a9/e84aa9cc-2c5b-1709-f532-d5ee2be4a59f/6f8a71a6-a4e7-4824-b871-faad39c83dea_JC-ipad-1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/c1/92/9bc19287-5539-8310-51da-1b370a854e82/f6757f74-d22d-4973-b8e5-edb64fa626dc_JC-ipad-2.png/576x768bb.png",
@@ -33898,11 +33898,11 @@
       },
       "versions": [
         {
-          "version": "3.4.2",
-          "date": "2026-06-22",
+          "version": "3.4.3",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.2-riftysipas.ipa",
-          "size": 13513850
+          "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.3-riftysipas.ipa",
+          "size": 13513824
         }
       ],
       "category": "lifestyle"
@@ -42004,14 +42004,14 @@
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "Genau Factory",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.3.7",
-      "versionDate": "2026-06-24",
+      "version": "3.3.8",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.7-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.8-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMoneyCircle: Spending,Expense\n\n---\nTrack your spending with clarity and control — meet MoneyCircle.\n\nMoneyCircle makes it easy to understand where your money goes.\nWith clean design, smart categorization, and intuitive insights,\nyou’ll gain control of your finances and uncover new opportunities to save.\n\nIf you've tried other expense tracking apps but found them cluttered or overwhelming,\nMoneyCircle offers a refreshing alternative — simple, beautiful, and focused on what matters: your spending habits.\n\nKey Features\nSmart Categor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/2a/64/fa2a64b3-0a6b-6fda-3943-7353c92daf49/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13974026,
+      "size": 13967441,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -42027,11 +42027,11 @@
       },
       "versions": [
         {
-          "version": "3.3.7",
-          "date": "2026-06-24",
+          "version": "3.3.8",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.7-riftysipas.ipa",
-          "size": 13974026
+          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.8-riftysipas.ipa",
+          "size": 13967441
         }
       ],
       "category": "utilities"
