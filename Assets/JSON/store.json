@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.blockpuzzle.us.ios",
+    "com.intsig.CamScannerLite",
     "com.polywise.weekly",
     "com.devkrushna.mxplayer",
-    "com.genau.MoneyCircle",
-    "com.genau.JournalCircle",
-    "com.loyalty.dutchbros"
+    "com.genau.MoneyCircle"
   ],
   "apps": [
     {
@@ -7795,14 +7795,14 @@
       "bundleIdentifier": "com.blockpuzzle.us.ios",
       "developerName": "Hungry Studio",
       "subtitle": "*Tweak:** No Ads | *Patched ✓**",
-      "version": "7.2.2",
-      "versionDate": "2026-06-25",
+      "version": "7.2.3",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.3-riftysipas.ipa",
       "localizedDescription": "*Tweak:** No Ads | *Patched ✓**\n\nBlock Blast!",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/f0/1c/d7f01cec-d388-cece-0faa-685c3ce3f2d2/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 90611307,
+      "size": 99465869,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/76/ee/2a76ee57-90a6-9c88-7393-b77afd3b6508/4ac25f40-0f18-43c2-8be8-b3d2018fe240_2048X2732_1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/b3/98/acb39832-888e-a1cf-7f06-511f1b1dd114/94905e6c-232a-4e06-a5c0-8f2cd6c397c3_2048X2732_2.png/576x768bb.png",
@@ -7823,17 +7823,20 @@
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Used to select images from your photo library or save images to your device for app functionality.",
           "NSCameraUsageDescription": "Used to show your live camera view during gameplay.",
+          "NSMicrophoneUsageDescription": "Used to capture your voice for in-game commands.",
+          "NSSpeechRecognitionUsageDescription": "Used to recognize your voice commands.",
+          "NSBluetoothAlwaysUsageDescription": "Used to discover nearby players for transfer blocks feature.",
           "NSUserTrackingUsageDescription": "This identifier will be used to serve personalized ads to you.",
           "NSPhotoLibraryAddUsageDescription": "Used to select images from your photo library or save images to your device for app functionality."
         }
       },
       "versions": [
         {
-          "version": "7.2.2",
-          "date": "2026-06-25",
+          "version": "7.2.3",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.2-riftysipas.ipa",
-          "size": 90611307
+          "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.3-riftysipas.ipa",
+          "size": 99465869
         }
       ],
       "category": "games"
@@ -79583,14 +79586,14 @@
       "bundleIdentifier": "com.intsig.CamScannerLite",
       "developerName": "INTSIG Information Co., Ltd",
       "subtitle": "Vip Unlocked | Patched",
-      "version": "7.20.0",
-      "versionDate": "2026-06-22",
+      "version": "7.20.5",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CamScanner, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/CamScanner_PDF_Scanner_App_v7_20_0_VIP_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/CamScanner_PDF_Scanner_App_v7_20_5_VIP_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Vip Unlocked | Patched | Tweaked\n\nCamScanner - PDF Scanner App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/e9/2f/3ee92fdd-e169-e830-0237-3bc0815b9048/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 205989755,
+      "size": 206048617,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/00/6f/bd006f02-38ea-4084-6ed7-3920ef6d8e8a/f07b301d-3704-443a-8599-464c41bd25cb_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-1-1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e1/eb/4e/e1eb4e62-ad78-3f1f-9c1c-9e2b71d3928c/47f87bf1-8749-4190-87d3-f0d4080adbc4_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-2.jpg/392x696bb.jpg",
@@ -79625,11 +79628,11 @@
       },
       "versions": [
         {
-          "version": "7.20.0",
-          "date": "2026-06-22",
+          "version": "7.20.5",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CamScanner, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/CamScanner_PDF_Scanner_App_v7_20_0_VIP_Unlocked_blatant_Patched.ipa",
-          "size": 205989755
+          "downloadURL": "https://telos.ftp.sh/ipas/CamScanner_PDF_Scanner_App_v7_20_5_VIP_Unlocked_blatant_Patched.ipa",
+          "size": 206048617
         }
       ],
       "category": "productivity"
@@ -79901,11 +79904,11 @@
     {
       "title": "⚙️ Telos Update 6.29",
       "identifier": "telos-update-2026-06-29",
-      "caption": "8 Apps Updated:\n• 2 Utilities\n• 2 Education\n• 2 Lifestyle\n• 2 Photo & Video",
+      "caption": "16 Apps Updated:\n• 4 Productivity\n• 4 Games\n• 2 Utilities\n• 2 Education\n• 2 Lifestyle\n• 2 Photo & Video",
       "date": "2026-06-29",
       "tintColor": "#02433b",
       "notify": true,
-      "appID": "com.genau.MoneyCircle"
+      "appID": "com.intsig.CamScannerLite"
     },
     {
       "title": "⚙️ Telos Update 6.28",
