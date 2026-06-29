@@ -1374,6 +1374,31 @@
       }
     },
     {
+      "name": "AI Image",
+      "bundleIdentifier": "com.jahn.WLawson.genesis",
+      "developerName": "John Lawson",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nAlready Decrypted\n\n---\nUnleash your creativity with HGF AI Video, Image Generation, the AI-powered app that transforms your imagination into breathtaking art and captivating videos. Simply enter a text prompt, select a style, and watch as our advanced AI generates unique visual masterpieces!\n\nKey Features:\n\n• Text-to-Image Generation: Describe your vision, choose from 122 distinct art styles, and our app will create stunning images based on your words.\n\n• Text-to-Video Generation: Turn your ideas into short, dynamic v",
+      "version": "1.1.6",
+      "versionDate": "2026-06-29T07:20:59-00:00",
+      "versionDescription": "Build 13 from @thescholarslounge",
+      "size": 27201378,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/1e/7b/6a1e7b1e-69c2-8237-1f5c-e6be2872faaf/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.jahn.WLawson.genesis-1.1.6-eeveedecrypter.ipa",
+      "minOSVersion": "17.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.jahn.WLawson.genesis-1.1.6-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "AI Liberator",
       "bundleIdentifier": "com.ai.liberator",
       "developerName": "Cameron Wills",
