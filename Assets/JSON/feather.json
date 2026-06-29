@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "background.remover.bg.eraser",
+    "com.getmimo.mimo",
+    "com.aoklab.fewerphotos",
     "com.jahn.WLawson.genesis",
-    "com.blockpuzzle.us.ios",
-    "com.intsig.CamScannerLite",
-    "com.polywise.weekly",
-    "com.devkrushna.mxplayer"
+    "com.blockpuzzle.us.ios"
   ],
   "apps": [
     {
@@ -19959,14 +19959,14 @@
       "bundleIdentifier": "background.remover.bg.eraser",
       "developerName": "Video editor & maker app",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.16.0",
-      "versionDate": "2026-06-25",
+      "version": "2.16.1",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/AI Background Remover - Ereasy-v2.16.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AI Background Remover - Ereasy-v2.16.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nAI Background Remover - Ereasy\n\n---\nEreasy: Transform any photo with AI precision! From background removal and editing and object eraser to creative effects, blur tools, and instant sharing. Every feature is built to bring your photos to life and unleash your creativity!\n\n◐ KEY FEATURES:\n\n＊ One-tap Background Remover\n\nErase backgrounds instantly with advanced AI technology that delivers sharp edges and pixel-perfect precision in a single tap. Ereasy’s automatic remover cuts out subjects with unmatched accuracy, saving you time whi",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/13/3b/a4133bee-978c-c711-2791-5490f56bf7f7/AppIconV2-0-0-1x_U007ephone-0-11-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 88921923,
+      "size": 88921452,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -19981,11 +19981,11 @@
       },
       "versions": [
         {
-          "version": "2.16.0",
-          "date": "2026-06-25",
+          "version": "2.16.1",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/AI Background Remover - Ereasy-v2.16.0-riftysipas.ipa",
-          "size": 88921923
+          "downloadURL": "https://telos.ftp.sh/ipas/AI Background Remover - Ereasy-v2.16.1-riftysipas.ipa",
+          "size": 88921452
         }
       ],
       "category": "graphics-&-design"
@@ -41000,14 +41000,14 @@
       "bundleIdentifier": "com.getmimo.mimo",
       "developerName": "Mimo GmbH",
       "subtitle": "Tweaked with Mimo, blatantsPatch",
-      "version": "12.15.1",
-      "versionDate": "2026-06-24",
+      "version": "12.16.0",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: Mimo, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Mimo_Learn_Coding_Programming_v12_15_1_Max_Subscription_Unlocked.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Mimo_Learn_Coding_Programming_v12_16_0_Max_Subscription_Unlocked.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Mimo, blatantsPatch, sideloadKeychainfix\n\nMimo: Learn Coding/Programming\n\n---\nLearn Python, JavaScript, HTML, CSS, or SQL, and master modern AI-assisted development to become a developer in the age of AI. Mimo is a coding app that takes you from zero to building projects with AI. Gain the knowledge and tools to create production-ready software and pursue a job as a developer. Start building strong portfolio projects today, future-proof your skills, and take the next step beyond just coding syntax—download Mimo and launch your developer career now!\n\nWho It's For\n\nMimo stan",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/1c/ea/301cea49-da17-0244-e0fb-3672a549526d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 168185415,
+      "size": 171464159,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -41026,11 +41026,11 @@
       },
       "versions": [
         {
-          "version": "12.15.1",
-          "date": "2026-06-24",
+          "version": "12.16.0",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: Mimo, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Mimo_Learn_Coding_Programming_v12_15_1_Max_Subscription_Unlocked.ipa",
-          "size": 168185415
+          "downloadURL": "https://telos.ftp.sh/ipas/Mimo_Learn_Coding_Programming_v12_16_0_Max_Subscription_Unlocked.ipa",
+          "size": 171464159
         }
       ],
       "category": "education"
@@ -67260,14 +67260,14 @@
       "bundleIdentifier": "com.aoklab.fewerphotos",
       "developerName": "MWM",
       "subtitle": "Tweaked with SwipeWipe, blatantsPatch",
-      "version": "3.4.6",
-      "versionDate": "2026-06-23",
+      "version": "3.4.7",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: SwipeWipe, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Swipewipe  Photo Cleaner v3.4.6 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Swipewipe  Photo Cleaner v3.4.7 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SwipeWipe, blatantsPatch\n\nSwipewipe: Photo Cleaner\n\n---\nReclaim your camera roll, one swipe at a time. Swipewipe makes cleaning up your photos fun and easy. Reminisce as you declutter!\n\nFinally, a simple and elegant solution to manage your memories. Go month-by-month, or use our \"On This Day\" feature. Decide what to keep and what to delete with a simple swipe.\n\nWhy You'll Love It:\n• Simple Swipe: Right to keep, left to delete.\n• On This Day: Relive memories from years past.\n• Month-by-Month: Organize your photos chronologically.\n• Easy Navigation: Ta",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/b9/7d/80b97d59-8e01-a990-b4cb-4677278644fa/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 161559929,
+      "size": 161586536,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/56/6c/6a566cd1-ef9d-fbd3-c7a8-d6ab33a93216/EN_ipad_01.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/55/b0/aa55b0fc-daaa-7d07-7ead-c87254da1c85/EN_ipad_02.png/576x768bb.png",
@@ -67290,11 +67290,11 @@
       },
       "versions": [
         {
-          "version": "3.4.6",
-          "date": "2026-06-23",
+          "version": "3.4.7",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: SwipeWipe, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Swipewipe  Photo Cleaner v3.4.6 Pro Unlocked blatant Patched.ipa",
-          "size": 161559929
+          "downloadURL": "https://telos.ftp.sh/ipas/Swipewipe  Photo Cleaner v3.4.7 Pro Unlocked blatant Patched.ipa",
+          "size": 161586536
         }
       ],
       "category": "utilities"
