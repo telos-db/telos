@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.polywise.weekly",
+    "com.devkrushna.mxplayer",
     "com.genau.MoneyCircle",
     "com.genau.JournalCircle",
-    "com.loyalty.dutchbros",
-    "com.reddit.Reddit",
-    "com.fluffyfairygames.idleminertycoon"
+    "com.loyalty.dutchbros"
   ],
   "apps": [
     {
@@ -31273,14 +31273,14 @@
       "bundleIdentifier": "com.polywise.weekly",
       "developerName": "Polywise, Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "5.2.6",
-      "versionDate": "2026-06-22",
+      "version": "5.2.7",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Imprint: Learn Visually-v5.2.6-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Imprint: Learn Visually-v5.2.7-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nImprint: Learn Visually",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/71/a2/c771a258-5b35-d582-d729-b62806d90114/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 132160303,
+      "size": 132317810,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/12/8b/de128bbf-7a8a-ff6d-8304-790c9d629cb1/Microlearning_diagonal_414x736_fix.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/b4/14/e7b414e0-b916-d5ae-f539-c001418b4659/Split_Device_Small_3.png/392x696bb.png",
@@ -31304,11 +31304,11 @@
       },
       "versions": [
         {
-          "version": "5.2.6",
-          "date": "2026-06-22",
+          "version": "5.2.7",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Imprint: Learn Visually-v5.2.6-riftysipas.ipa",
-          "size": 132160303
+          "downloadURL": "https://telos.ftp.sh/ipas/Imprint: Learn Visually-v5.2.7-riftysipas.ipa",
+          "size": 132317810
         }
       ],
       "category": "education"
@@ -73514,6 +73514,44 @@
       "category": "photo-&-video"
     },
     {
+      "name": "VideoPlayer",
+      "bundleIdentifier": "com.devkrushna.mxplayer",
+      "developerName": "Devkrushna Infotech Private Limited",
+      "subtitle": "VideoPlayer for iOS",
+      "version": "2.1.3",
+      "versionDate": "2026-06-29",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.devkrushna.mxplayer-2.1.3-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/65/03/2165030f-2863-10de-d88f-79b00f31cfff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 385837608,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "\"Allow Access to All Photos\" is required to Show your video list and Play video.",
+          "NSCameraUsageDescription": "\"Allow Access to Camera\" is required to record video and get mp3",
+          "NSMicrophoneUsageDescription": "This app requires microphone access to record your voice, perform voice searches on YouTube, and create audio messages.",
+          "NSAppleMusicUsageDescription": "for select music to add music over video",
+          "NSFaceIDUsageDescription": "Unlock Video Player",
+          "NSLocalNetworkUsageDescription": "This app needs local network access to discover and connect to nearby devices.",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you.",
+          "NSPhotoLibraryAddUsageDescription": "\"Allow Access to All Photos\" is required to Show your video list and Play video."
+        }
+      },
+      "versions": [
+        {
+          "version": "2.1.3",
+          "date": "2026-06-12",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.devkrushna.mxplayer-2.1.3-eeveedecrypter.ipa",
+          "size": 385837608
+        }
+      ],
+      "category": "photo-&-video"
+    },
+    {
       "name": "VideoShow",
       "bundleIdentifier": "com.enjoy.VideoShow",
       "developerName": "VIDEOSHOW PTE. LTD.",
@@ -79863,7 +79901,7 @@
     {
       "title": "⚙️ Telos Update 6.29",
       "identifier": "telos-update-2026-06-29",
-      "caption": "8 Apps Updated:\n• 4 Utilities\n• 4 Lifestyle",
+      "caption": "12 Apps Updated:\n• 4 Education\n• 4 Photo & Video\n• 2 Utilities\n• 2 Lifestyle",
       "date": "2026-06-29",
       "tintColor": "#02433b",
       "notify": true,
