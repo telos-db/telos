@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.br.12min.mobile",
+    "com.JindoBlu.TwoPlayerGamesChallengeIOS",
+    "com.impalastudios.pianofree",
     "org.reactjs.native.example.rootd",
-    "com.dopedevelopment.Panels",
-    "com.grandgames.carmatch",
-    "com.lightricks.Facetune2",
-    "com.lexwarelabs.goodmorning"
+    "com.dopedevelopment.Panels"
   ],
   "apps": [
     {
@@ -337,14 +337,14 @@
       "bundleIdentifier": "com.br.12min.mobile",
       "developerName": "12 MIN SERVICOS DIGITAIS E NEGOCIOS LTDA",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.10.3",
-      "versionDate": "2026-06-22",
+      "version": "2.10.4",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftytwelvemins, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/12min: Book Summaries & Ideas-v2.10.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/12min: Book Summaries & Ideas-v2.10.4-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftytwelvemins, zxPluginsInject\n\n12min: Book Summaries & Ideas\n\n---\nLEARN FASTER, GROW EVERY DAY\n\nWith 12min, you turn any spare moment into progress — book summaries and audiobook content to build better habits, boost productivity, advance your career, and more, all in 12 minutes a day.\n\nNo more piles of unfinished books. We help you fit learning into your routine, whether it's your commute, workout, or coffee break. It is the ultimate self improvement app for busy people.\n-------------------------\nWHY CHOOSE 12MIN\n- Audiobook summaries & Text: Every title avai",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/87/2e/45872eed-8e04-e19a-6a39-59840f99e5c2/liquid_glass_icon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 49460953,
+      "size": 49470492,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -363,11 +363,11 @@
       },
       "versions": [
         {
-          "version": "2.10.3",
-          "date": "2026-06-22",
+          "version": "2.10.4",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftytwelvemins, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/12min: Book Summaries & Ideas-v2.10.3-riftysipas.ipa",
-          "size": 49460953
+          "downloadURL": "https://telos.ftp.sh/ipas/12min: Book Summaries & Ideas-v2.10.4-riftysipas.ipa",
+          "size": 49470492
         }
       ],
       "category": "education"
@@ -461,14 +461,14 @@
       "bundleIdentifier": "com.JindoBlu.TwoPlayerGamesChallengeIOS",
       "developerName": "Moreno Maio",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "7.17.6",
-      "versionDate": "2026-06-16",
+      "version": "7.18.4",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftytwoplayergames\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/2 Player Games : the Challenge-v7.17.6-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/2 Player Games : the Challenge-v7.18.4-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftytwoplayergames\n\n2 Player Games : the Challenge\n\n---\nIf you want to play with your friend on the same device, this is the right game!\nBut also if you have no friends to have fun in multiplayer on one device, just play alone against the AI!\nChallenge your friend with this collection of 2 player games and enjoy the beautiful graphics of the minigames!\n\nChoose between one of the 2 player games ( and remember that you can also play alone against the AI if you have no possibility to multiplayer):\n\nPing Pong :\nMove the racket with your finger and challe",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/41/ca/7c41caba-c4ad-cb32-45fa-d8df848b458f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 90010681,
+      "size": 90837425,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/4c/2e/5b4c2e15-6c8b-4189-cf08-f45753a50222/3ee1b73b-4bee-4809-aa54-3847a99ab286_2PG_1242x2208_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/5d/1d/c45d1deb-d9d0-bf5f-c194-9c8ecef65aa3/8d93640c-15e4-4173-b81c-ae4fe4e7ef1e_2PG_1242x2208_02.png/392x696bb.png",
@@ -477,7 +477,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/fd/98/32fd9878-dca1-6487-3e52-980f6f54c37d/9c905b2c-ef78-4978-b529-8e342d978926_2PG_1242x2208_04.png/392x696bb.png"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.declared-age-range"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "The app requires access to Photos to save media to it.",
           "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads instead of generic ones.",
@@ -486,11 +488,11 @@
       },
       "versions": [
         {
-          "version": "7.17.6",
-          "date": "2026-06-16",
+          "version": "7.18.4",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftytwoplayergames\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/2 Player Games : the Challenge-v7.17.6-riftysipas.ipa",
-          "size": 90010681
+          "downloadURL": "https://telos.ftp.sh/ipas/2 Player Games : the Challenge-v7.18.4-riftysipas.ipa",
+          "size": 90837425
         }
       ],
       "category": "games"
@@ -68903,14 +68905,14 @@
       "bundleIdentifier": "com.impalastudios.pianofree",
       "developerName": "Impala Studios",
       "subtitle": "Tweaked with ThePiano, blatantsPatch",
-      "version": "2.20.1",
-      "versionDate": "2026-06-16",
+      "version": "2.20.2",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: ThePiano, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Piano ٞ v2.20.1 Subscription Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Piano ٞ v2.20.2 Subscription Unlocked blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ThePiano, blatantsPatch\n\nPiano ٞ\n\n---\nJoin over 14 million music lovers discovering piano. Learn the fun and easy way, no lessons needed.\nPlay songs, practice piano, and create music in one intuitive app.\n\nChoose how you play: follow the rhythm in interactive gameplay to build timing and confidence, or switch to a realistic keyboard to explore chords, melodies, and your own musical ideas.\n\nWith Piano, you can jump right in. Play to the rhythm, explore notes and chords, and create music at your own pace.\n\nDesigned for iOS (iPhone & i",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/5f/9a/8e5f9a7f-16b1-01a3-97e3-a8b75a2462bf/pian_appIcon_2025-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 91236888,
+      "size": 91428000,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -68930,11 +68932,11 @@
       },
       "versions": [
         {
-          "version": "2.20.1",
-          "date": "2026-06-16",
+          "version": "2.20.2",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: ThePiano, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Piano ٞ v2.20.1 Subscription Unlocked blatant Patched.ipa",
-          "size": 91236888
+          "downloadURL": "https://telos.ftp.sh/ipas/Piano ٞ v2.20.2 Subscription Unlocked blatant Patched.ipa",
+          "size": 91428000
         }
       ],
       "category": "music"
