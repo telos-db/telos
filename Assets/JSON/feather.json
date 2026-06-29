@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.jahn.WLawson.genesis",
     "com.blockpuzzle.us.ios",
     "com.intsig.CamScannerLite",
     "com.polywise.weekly",
-    "com.devkrushna.mxplayer",
-    "com.genau.MoneyCircle"
+    "com.devkrushna.mxplayer"
   ],
   "apps": [
     {
@@ -2108,6 +2108,38 @@
           "localizedDescription": "Source: @thescholarslounge",
           "downloadURL": "https://telos.ftp.sh/ipas/com.JoshuaFowler.Generator-4.3.8-eeveedecrypter.ipa",
           "size": 38168003
+        }
+      ],
+      "category": "photo-&-video"
+    },
+    {
+      "name": "AI Image",
+      "bundleIdentifier": "com.jahn.WLawson.genesis",
+      "developerName": "John Lawson",
+      "subtitle": "AI Image for iOS",
+      "version": "1.1.6",
+      "versionDate": "2026-06-29",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.jahn.WLawson.genesis-1.1.6-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nAlready Decrypted\n\n---\nUnleash your creativity with HGF AI Video, Image Generation, the AI-powered app that transforms your imagination into breathtaking art and captivating videos. Simply enter a text prompt, select a style, and watch as our advanced AI generates unique visual masterpieces!\n\nKey Features:\n\n• Text-to-Image Generation: Describe your vision, choose from 122 distinct art styles, and our app will create stunning images based on your words.\n\n• Text-to-Video Generation: Turn your ideas into short, dynamic v",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/1e/7b/6a1e7b1e-69c2-8237-1f5c-e6be2872faaf/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 27201378,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Allow access to your gallery to create images based on your photos",
+          "NSPhotoLibraryAddUsageDescription": "Allow access to your gallery to save photos"
+        }
+      },
+      "versions": [
+        {
+          "version": "1.1.6",
+          "date": "2026-06-29",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.jahn.WLawson.genesis-1.1.6-eeveedecrypter.ipa",
+          "size": 27201378
         }
       ],
       "category": "photo-&-video"
