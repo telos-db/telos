@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.unofficialcalculators.payplan",
     "com.br.12min.mobile",
     "com.JindoBlu.TwoPlayerGamesChallengeIOS",
     "com.impalastudios.pianofree",
-    "org.reactjs.native.example.rootd",
-    "com.dopedevelopment.Panels"
+    "org.reactjs.native.example.rootd"
   ],
   "apps": [
     {
@@ -7247,14 +7247,14 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "subtitle": "*Tweak:** Full Version Unlocked | *Patched ✓**",
-      "version": "4.1.97",
-      "versionDate": "2026-06-28",
+      "version": "4.1.98",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.97-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.98-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Full Version Unlocked | *Patched ✓** | *Developer:** Bill Tracker Pro, Inc.\n\nBill Tracker Pro",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/46/b0/a746b030-b429-b6ae-bf3f-20aa368a416e/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 150509293,
+      "size": 147990835,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/df/72/1cdf72bb-1d54-7a27-d6e4-e54ef4151c21/pr_source.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/ab/2c/f4ab2cef-41bd-f2bf-2980-f7910d3d3dd8/pr_source.png/552x414bb.png",
@@ -7281,11 +7281,11 @@
       },
       "versions": [
         {
-          "version": "4.1.97",
-          "date": "2026-06-28",
+          "version": "4.1.98",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.97-riftysipas.ipa",
-          "size": 150509293
+          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.98-riftysipas.ipa",
+          "size": 147990835
         }
       ],
       "category": "finance"
@@ -79938,7 +79938,7 @@
     {
       "title": "⚙️ Telos Update 6.29",
       "identifier": "telos-update-2026-06-29",
-      "caption": "68 Apps Updated:\n• 16 Photo & Video\n• 8 Education\n• 8 Games\n• 6 Entertainment\n• 6 Music\n• 6 Health & Fitness\n• 4 Productivity\n• 4 Utilities\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Finance\n• 2 Sports\n• 2 Social Networking",
+      "caption": "66 Apps Updated:\n• 16 Photo & Video\n• 6 Education\n• 6 Entertainment\n• 6 Games\n• 6 Finance\n• 6 Health & Fitness\n• 4 Productivity\n• 4 Utilities\n• 4 Music\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Sports\n• 2 Social Networking",
       "date": "2026-06-29",
       "tintColor": "#02433b",
       "notify": true,
