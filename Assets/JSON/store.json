@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.elevateapp.elevate",
+    "com.tranzmate.tranzmate1",
     "com.duolingo.DuolingoMobile",
     "com.bpmhealth.boostfitness",
-    "com.atebits.Tweetie2",
-    "com.unofficialcalculators.payplan",
-    "com.br.12min.mobile"
+    "com.atebits.Tweetie2"
   ],
   "apps": [
     {
@@ -19248,14 +19248,14 @@
       "bundleIdentifier": "com.elevateapp.elevate",
       "developerName": "The Mind Company",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "5.245.0",
-      "versionDate": "2026-06-22",
+      "version": "5.246.0",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.245.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.246.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nElevate - Brain Training Games",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/31/5a/0f315a96-dad6-7d2c-e168-64cac49b5ab7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 394964806,
+      "size": 402827337,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -19276,11 +19276,11 @@
       },
       "versions": [
         {
-          "version": "5.245.0",
-          "date": "2026-06-22",
+          "version": "5.246.0",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.245.0-riftysipas.ipa",
-          "size": 394964806
+          "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.246.0-riftysipas.ipa",
+          "size": 402827337
         }
       ],
       "category": "education"
@@ -42133,14 +42133,14 @@
       "bundleIdentifier": "com.tranzmate.tranzmate1",
       "developerName": "Moovit App Global LTD",
       "subtitle": "Patched | Tweaked",
-      "version": "5.194.0",
-      "versionDate": "2026-06-16",
+      "version": "5.195.0",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: Moovit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Moovit_Bus_&_Transit_Tracker_v5_194_0_Moovit+_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Moovit_Bus_&_Transit_Tracker_v5_195_0_Moovit+_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Patched | Tweaked\n\nMoovit: Bus & Transit Tracker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/52/9b/06529bf0-f836-c65a-ca56-5e23a3c804a6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 108676544,
+      "size": 104793290,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/f9/4f/02f94f76-571c-93f5-6110-a0a3972b225e/mzl.upvezpae.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/16/ef/5316efcb-e0be-f62b-e188-4e55afd92bd2/mzl.mvtlndfz.jpg/392x696bb.jpg",
@@ -42176,11 +42176,11 @@
       },
       "versions": [
         {
-          "version": "5.194.0",
-          "date": "2026-06-16",
+          "version": "5.195.0",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: Moovit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Moovit_Bus_&_Transit_Tracker_v5_194_0_Moovit+_Unlocked_blatant_Patched.ipa",
-          "size": 108676544
+          "downloadURL": "https://telos.ftp.sh/ipas/Moovit_Bus_&_Transit_Tracker_v5_195_0_Moovit+_Unlocked_blatant_Patched.ipa",
+          "size": 104793290
         }
       ],
       "category": "navigation"
@@ -79961,7 +79961,7 @@
     {
       "title": "⚙️ Telos Update 6.29",
       "identifier": "telos-update-2026-06-29",
-      "caption": "76 Apps Updated:\n• 16 Photo & Video\n• 10 Education\n• 10 Health & Fitness\n• 6 Entertainment\n• 6 Games\n• 4 Productivity\n• 4 Utilities\n• 4 Finance\n• 4 Music\n• 4 News\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Sports\n• 2 Social Networking",
+      "caption": "82 Apps Updated:\n• 16 Education\n• 16 Photo & Video\n• 8 Health & Fitness\n• 6 Entertainment\n• 6 Games\n• 4 Productivity\n• 4 Utilities\n• 4 Finance\n• 4 Music\n• 4 Navigation\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Sports\n• 2 Social Networking\n• 2 News",
       "date": "2026-06-29",
       "tintColor": "#02433b",
       "notify": true,
