@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.evolve.helm",
     "com.elevateapp.elevate",
     "com.tranzmate.tranzmate1",
     "com.duolingo.DuolingoMobile",
-    "com.bpmhealth.boostfitness",
-    "com.atebits.Tweetie2"
+    "com.bpmhealth.boostfitness"
   ],
   "apps": [
     {
@@ -55652,14 +55652,14 @@
       "bundleIdentifier": "com.evolve.helm",
       "developerName": "Evolve Global, Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "3.192.1",
-      "versionDate": "2026-06-23",
+      "version": "3.193.0",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Rest: Fix Your Sleep For Good-v3.192.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Rest: Fix Your Sleep For Good-v3.193.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nRest: Fix Your Sleep For Good",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/b7/6a/f7b76af7-fa30-3da2-05c5-12e04d3fd0bd/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 126660025,
+      "size": 128518601,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c6/dd/74c6dd2c-8270-353b-e06c-51365da28c06/5.5_-_Slide_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/77/d9/8177d9cf-9598-cc3c-b752-2d2b19bd1041/5.5_-_Slide_2.png/392x696bb.png",
@@ -55691,11 +55691,11 @@
       },
       "versions": [
         {
-          "version": "3.192.1",
-          "date": "2026-06-23",
+          "version": "3.193.0",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Rest: Fix Your Sleep For Good-v3.192.1-riftysipas.ipa",
-          "size": 126660025
+          "downloadURL": "https://telos.ftp.sh/ipas/Rest: Fix Your Sleep For Good-v3.193.0-riftysipas.ipa",
+          "size": 128518601
         }
       ],
       "category": "health-&-fitness"
@@ -79961,7 +79961,7 @@
     {
       "title": "⚙️ Telos Update 6.29",
       "identifier": "telos-update-2026-06-29",
-      "caption": "76 Apps Updated:\n• 16 Photo & Video\n• 12 Education\n• 8 Health & Fitness\n• 6 Entertainment\n• 6 Games\n• 4 Productivity\n• 4 Utilities\n• 4 Finance\n• 4 Music\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Sports\n• 2 Social Networking\n• 2 Navigation\n• 2 News",
+      "caption": "84 Apps Updated:\n• 16 Photo & Video\n• 16 Health & Fitness\n• 12 Education\n• 6 Entertainment\n• 6 Games\n• 4 Productivity\n• 4 Utilities\n• 4 Finance\n• 4 Music\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Sports\n• 2 Social Networking\n• 2 Navigation\n• 2 News",
       "date": "2026-06-29",
       "tintColor": "#02433b",
       "notify": true,
