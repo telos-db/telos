@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.duolingo.DuolingoMobile",
+    "com.bpmhealth.boostfitness",
+    "com.atebits.Tweetie2",
     "com.unofficialcalculators.payplan",
-    "com.br.12min.mobile",
-    "com.JindoBlu.TwoPlayerGamesChallengeIOS",
-    "com.impalastudios.pianofree",
-    "org.reactjs.native.example.rootd"
+    "com.br.12min.mobile"
   ],
   "apps": [
     {
@@ -8435,14 +8435,14 @@
       "bundleIdentifier": "com.bpmhealth.boostfitness",
       "developerName": "BPM Health Co.",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "261",
-      "versionDate": "2026-06-16",
+      "version": "262",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Boostcamp_Workout_Programs_v261_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Boostcamp_Workout_Programs_v262_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nBoostcamp: Workout Programs\n\n---\nTrusted by over 1,000,000 lifters. 300M+ workouts logged. 4.8 stars.\n\nBoostcamp is the only app with the world's most popular strength training & muscle building programs built right in — nSuns, GZCLP, 5/3/1, Reddit PPL, PHUL, PHAT, and 100+ more. Pick a proven program, show up, and follow it. No spreadsheets, no guessing.\n\n\"Boostcamp has all the features of Strong and Hevy, but what puts Boostcamp decidedly #1 is that it features a library of programs from some of the most recognizable figures",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/cb/b4/2dcbb419-b912-df7c-1e43-f5f78d5e8f30/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 91072035,
+      "size": 91963338,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/cb/3a/69cb3a43-c195-9e66-2dc2-1dae4095d085/Frame_1153__U00281_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/88/f7/6188f7f3-f938-648d-8f5e-640580704de4/Frame_1148.png/392x696bb.png",
@@ -8471,11 +8471,11 @@
       },
       "versions": [
         {
-          "version": "261",
-          "date": "2026-06-16",
+          "version": "262",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Boostcamp_Workout_Programs_v261_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 91072035
+          "downloadURL": "https://telos.ftp.sh/ipas/Boostcamp_Workout_Programs_v262_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 91963338
         }
       ],
       "category": "health-&-fitness"
@@ -18799,14 +18799,14 @@
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "Duolingo",
       "subtitle": "Tweaked with CachefixPatch, CydiaSubstrate",
-      "version": "7.128.1",
-      "versionDate": "2026-06-24",
+      "version": "7.129.0",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_128_1_Duolingo_MAX_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_129_0_Duolingo_MAX_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nDuolingo: Language Lessons\n\n---\nLearn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n\nDesigned by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n\nAnd now, you can learn",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/a9/fc/f5a9fc8b-90a2-560e-1482-7c9fc708497e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 206445143,
+      "size": 207260150,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/16/35/0d16355e-7b7a-4903-aa0a-ecfefdaa7e08/b715d679-c25d-41c1-8b55-6c00114fa81e_en_iphone5.5_screen_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/14/cd/f814cd12-cb2b-baeb-2870-404d9186defb/93f4d1c8-4144-44de-8b57-a5a091c838f4_iPhone_5.5_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_3.png/392x696bb.png",
@@ -18839,11 +18839,11 @@
       },
       "versions": [
         {
-          "version": "7.128.1",
-          "date": "2026-06-24",
+          "version": "7.129.0",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_128_1_Duolingo_MAX_Unlocked_blatant.ipa",
-          "size": 206445143
+          "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_129_0_Duolingo_MAX_Unlocked_blatant.ipa",
+          "size": 207260150
         }
       ],
       "category": "education"
@@ -78199,13 +78199,13 @@
       "developerName": "X Corp.",
       "subtitle": "Tweaked with CydiaSubstrate, DLTwitter",
       "version": "12.3",
-      "versionDate": "2026-06-28",
+      "versionDate": "2026-06-29",
       "versionDescription": "Tweaks: CydiaSubstrate, DLTwitter, TWIGalaxy, TwitDate, _by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/‎_X_v12_3_AppAssassin_@iosdecrypted_injected_@iosdecrypted_injected.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DLTwitter, TWIGalaxy, TwitDate, _by_iosdecrypted_[sideloadKeychainFix]\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "downloadURL": "https://telos.ftp.sh/ipas/X_12.3_DLTwitter 2.17_TWIGalaxy_1.13.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DLTwitter, TWIGalaxy, TwitDate, _by_iosdecrypted_[sideloadKeychainFix]\n\nReply via Web, Downloads, and DMs working\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/9f/e1/889fe148-e8a2-72ba-508d-2d945b3c6537/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 224151441,
+      "size": 226013546,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/77/660e779a-d449-ebd3-0bd3-78502084f7bf/770e6822-f28e-4e4b-be51-8bfbe36f4307_iPad_12.9_-_1.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/2e/90e62e67-ccd1-8221-8149-49f305b8778d/7e053a3e-190b-4585-9927-509871425aad_iPad_12.9_-_2.png/552x414bb.png",
@@ -78213,17 +78213,40 @@
       ],
       "appPermissions": {
         "entitlements": [
-          "com.apple.developer.associated-appclip-app-identifiers",
-          "aps-environment",
-          "com.apple.developer.devicecheck.appattest-environment",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.siri",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.networking.carrier-constrained.app-optimized",
-          "com.apple.developer.networking.carrier-constrained.appcategory",
+          "com.apple.developer.avfoundation.multitasking-camera-access",
+          "com.apple.developer.networking.wifi-info",
           "com.apple.security.application-groups",
-          "com.apple.developer.usernotifications.communication"
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.authentication-services.autofill-credential-provider",
+          "com.apple.developer.ClassKit-environment",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.access",
+          "com.apple.developer.homekit",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.icloud-container-development-container-identifiers",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "inter-app-audio",
+          "com.apple.developer.networking.multipath",
+          "com.apple.developer.networking.networkextension",
+          "com.apple.developer.nfc.readersession.formats",
+          "aps-environment",
+          "com.apple.developer.siri",
+          "com.apple.external-accessory.wireless-configuration",
+          "com.apple.developer.coremedia.hls.low-latency",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.healthkit.recalibrate-estimates",
+          "com.apple.developer.weatherkit",
+          "com.apple.developer.kernel.increased-debugging-memory-limit",
+          "com.apple.developer.game-center",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.healthkit.background-delivery",
+          "com.apple.developer.user-fonts",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "com.apple.developer.networking.carrier-constrained.app-optimized",
+          "com.apple.developer.networking.carrier-constrained.appcategory"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
@@ -78241,10 +78264,10 @@
       "versions": [
         {
           "version": "12.3",
-          "date": "2026-06-28",
+          "date": "2026-06-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, DLTwitter, TWIGalaxy, TwitDate, _by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/‎_X_v12_3_AppAssassin_@iosdecrypted_injected_@iosdecrypted_injected.ipa",
-          "size": 224151441
+          "downloadURL": "https://telos.ftp.sh/ipas/X_12.3_DLTwitter 2.17_TWIGalaxy_1.13.ipa",
+          "size": 226013546
         }
       ],
       "category": "news"
