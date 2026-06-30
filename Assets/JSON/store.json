@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.mangacrush.ios",
     "com.myswimpro.apps.MySwimPro",
     "com.gma.water.sort.puzzle",
     "com.gingerlabs.Notability",
-    "eu.sun.litt",
-    "com.pixeldev.APEXRacers"
+    "eu.sun.litt"
   ],
   "apps": [
     {
@@ -66869,14 +66869,14 @@
       "bundleIdentifier": "com.mangacrush.ios",
       "developerName": "Tekbrio LLC",
       "subtitle": "Premium Unlocked | Patched",
-      "version": "4.15",
-      "versionDate": "2026-06-06",
+      "version": "4.16",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: Tachimanga, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tachimanga v4.15 Premium Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tachimanga v4.16 Premium Unlocked blatant Patched.ipa",
       "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nTachimanga",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/a5/f5/faa5f52d-7489-1a48-76a3-6cc00d7b9570/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 126780481,
+      "size": 126961216,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -66892,11 +66892,11 @@
       },
       "versions": [
         {
-          "version": "4.15",
-          "date": "2026-04-19",
+          "version": "4.16",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: Tachimanga, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tachimanga v4.15 Premium Unlocked blatant Patched.ipa",
-          "size": 126780481
+          "downloadURL": "https://telos.ftp.sh/ipas/Tachimanga v4.16 Premium Unlocked blatant Patched.ipa",
+          "size": 126961216
         }
       ],
       "category": "entertainment"
@@ -80001,7 +80001,7 @@
     {
       "title": "⚙️ Telos Update 6.30",
       "identifier": "telos-update-2026-06-30",
-      "caption": "24 Apps Updated:\n• 8 Games\n• 6 Productivity\n• 4 Weather\n• 4 Health & Fitness\n• 2 Photo & Video",
+      "caption": "22 Apps Updated:\n• 6 Games\n• 4 Productivity\n• 4 Weather\n• 4 Entertainment\n• 2 Photo & Video\n• 2 Health & Fitness",
       "date": "2026-06-30",
       "tintColor": "#02433b",
       "notify": true,
