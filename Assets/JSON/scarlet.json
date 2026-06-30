@@ -2575,12 +2575,12 @@
       "bundleIdentifier": "com.pixeldev.APEXRacers",
       "developerName": "G63 Holdings LTD",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nAPEX Racers\n\n---\nEnjoy the thrills of racing, tuning, customization, and the best of car culture - in pixel style!\n\nRETRO PLUS!\nUsing the 2.5D style, APEX Racer is able to create a compelling retro aesthetic... with a twist. Experience retro graphics with a touch of modern, 3D visuals that set itself apart from the competition.\n\nEXPRESS YOURSELF!\nAPEX Racer strives to deliver the most authentic representation of the tuning culture. Dozens of cars and hundreds of parts available for you to plan and build your ult",
-      "version": "0.9.53",
-      "versionDate": "2026-06-14T16:29:42-00:00",
-      "versionDescription": "Build 305 from @riftysIPAlibrary",
-      "size": 176378378,
+      "version": "0.9.56",
+      "versionDate": "2026-06-30T01:55:34-00:00",
+      "versionDescription": "Build 309 from @riftysIPAlibrary",
+      "size": 185216239,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/79/8d/47798d38-ef14-2e30-5cbf-2a26020980d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/APEX Racers-v0.9.53-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/APEX Racers-v0.9.56-riftysipas.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -2593,7 +2593,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "APEX Racers-v0.9.53-riftysipas.ipa"
+        "originalFile": "APEX Racers-v0.9.56-riftysipas.ipa"
       }
     },
     {
@@ -29096,12 +29096,12 @@
       "bundleIdentifier": "com.media720.offlinegames",
       "developerName": "720 Media LLC",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofflinegamesnowififun\n\nOffline Games No WiFi Fun 100+\n\n---\nOffline Games: Dive into Endless Fun without Wi-Fi!\n\nStep into a universe of gaming diversity, all available without an internet connection! With \"Offline Games,\" dive deep into an expansive collection, from brain-teasing puzzles and classic arcades to strategic board games and exciting card challenges. Whether you're merging objects, aiming for high scores in pinball, or chasing the iconic 2048, our suite ensures you're never short of options.\n\nAlways Offline: Play to your heart's content witho",
-      "version": "1.59",
-      "versionDate": "2026-06-27T19:39:49-00:00",
-      "versionDescription": "Build 15906 from @riftysIPAlibrary",
-      "size": 210165801,
+      "version": "1.60",
+      "versionDate": "2026-06-30T01:47:17-00:00",
+      "versionDescription": "Build 16001 from @riftysIPAlibrary",
+      "size": 209825135,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/1f/2c/eb1f2cbb-7ee9-0580-92bf-0129ba5850b7/OfflineGames-AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Offline Games No WiFi Fun 100+-v1.59-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Offline Games No WiFi Fun 100+-v1.60-riftysipas.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -29114,7 +29114,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Offline Games No WiFi Fun 100+-v1.59-riftysipas.ipa"
+        "originalFile": "Offline Games No WiFi Fun 100+-v1.60-riftysipas.ipa"
       }
     },
     {
@@ -29502,6 +29502,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "OpenCam_1.1.1_tg@Sa1y0miii.ipa"
+      }
+    },
+    {
+      "name": "OpenClaw",
+      "bundleIdentifier": "ai.openclawfoundation.app",
+      "developerName": "OpenClaw Foundation",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nOpenClaw is a personal AI assistant you run on your own devices.\n\nPair this iOS app with your OpenClaw Gateway to use your iPhone as a secure node for chat, voice, approvals, sharing, and device-aware automation.\n\nWhat you can do:\n- Pair with your private OpenClaw Gateway by QR code or setup code\n- Chat with your assistant from iPhone\n- Use realtime and background Talk mode\n- Review Gateway action approvals from your iPhone\n- Share text, links, and media directly from iOS into OpenClaw\n- Enable",
+      "version": "2026.6.10",
+      "versionDate": "2026-06-30T01:41:11-00:00",
+      "versionDescription": "Build 1 from @thescholarslounge",
+      "size": 12046791,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/42/59/ba42592d-fdd6-95f6-d588-545c6c5b9b24/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/ai.openclawfoundation.app-2026.6.10-eeveedecrypter.ipa",
+      "minOSVersion": "18.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "ai.openclawfoundation.app-2026.6.10-eeveedecrypter.ipa"
       }
     },
     {
@@ -41614,12 +41640,12 @@
       "bundleIdentifier": "eu.sun.litt",
       "developerName": "Flipping Hues Srls",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSun Position and Path Sunlitt\n\n---\n# Apple Design Awards Finalist\n# Featured on the App Store\n# Great on iOS 26\n# App of the Day\n# \"Apps We Love\" by Apple\n\nHarness the Power of the Sun with Sunlitt:\nyour all-in-one tool for tracking the sun’s position, movements, and shadows, anywhere and anytime.\n\n→ Follow the Sun’s Path and Position\nAccess precise, up-to-the-minute sun tracking data tailored to your location, anytime—even without an internet connection.\n\n→ Analyze Sunlight and Shadows\nDiscover how sunlight interacts with shadow",
-      "version": "4.10.4",
-      "versionDate": "2026-06-19T10:44:25-00:00",
+      "version": "4.10.5",
+      "versionDate": "2026-06-30T02:00:20-00:00",
       "versionDescription": "Build 5 from @riftysIPAlibrary",
-      "size": 116584890,
+      "size": 118052607,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/7d/7b/0b7d7b5a-5540-1a9b-58f4-ee7c1b5039fc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sun Position and Path Sunlitt-v4.10.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sun Position and Path Sunlitt-v4.10.5-riftysipas.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
@@ -41632,7 +41658,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Sun Position and Path Sunlitt-v4.10.4-riftysipas.ipa"
+        "originalFile": "Sun Position and Path Sunlitt-v4.10.5-riftysipas.ipa"
       }
     },
     {
