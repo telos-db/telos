@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "nz.co.petesmith.moonphasefree",
+    "com.andyworks.camera",
     "com.SixThree.POV",
     "com.evolve.helm",
-    "com.elevateapp.elevate",
-    "com.tranzmate.tranzmate1",
-    "com.duolingo.DuolingoMobile"
+    "com.elevateapp.elevate"
   ],
   "apps": [
     {
@@ -19,14 +19,14 @@
       "bundleIdentifier": "com.andyworks.camera",
       "developerName": "Not Boring Software LLC",
       "subtitle": "Tweaked with NotBoringCrack, blatantsPatch",
-      "version": "1.53",
-      "versionDate": "2026-06-14",
+      "version": "1.54",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Not_Boring_Camera_v1_53_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Not_Boring_Camera_v1_54_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NotBoringCrack, blatantsPatch\n\n(Not Boring) Camera\n\n---\n\"The most fun camera app I've used in forever.\" — The Verge\n\"My go-to for iPhone photography\" — Washington Post\n\"It’s so fun to use.\" —MKBHD\n\nCapture unique, honest, inspiring photos like the Pros in a fun, playful camera.\n\nSUPER RAW™\nNo AI or over-processed photos. Just natural grain, sharper images, & film-like exposures. Save Raw digital negative files (DNG) for processing in other tools like Darkroom, Lightroom, or Photoshop. Or capture using Apple's professional-level ProRaw.\n\nSKIP THE EDIT",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/ac/74/74ac74e0-40c9-0a47-bff0-66cf3a8cfd39/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 176862232,
+      "size": 177391060,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -42,11 +42,11 @@
       },
       "versions": [
         {
-          "version": "1.53",
-          "date": "2026-06-14",
+          "version": "1.54",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Not_Boring_Camera_v1_53_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 176862232
+          "downloadURL": "https://telos.ftp.sh/ipas/Not_Boring_Camera_v1_54_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 177391060
         }
       ],
       "category": "photo-&-video"
@@ -42443,14 +42443,14 @@
       "bundleIdentifier": "nz.co.petesmith.moonphasefree",
       "developerName": "Fascinating Projects",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "8.6.0",
-      "versionDate": "2026-06-26",
+      "version": "8.7.0",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.6.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.7.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMoon Phase Calendar Plus\n\n---\nLive by the moon! See the phases of the moon in clarity - for where YOU are now - not just the \"nearest city\". See a countdown to the next phase of the moon TO THE MINUTE, whether full or new, first or last quarter. See a current simulation of the moon as it appears to you - for now or any day in the past or future - on a large, simple, easy to read display. See Moon Rise and Set times - so you can plan your lunar activities. This IS the app you are looking for!\n\nIt shows:\n• The current phase of",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/53/e1/ee53e123-5378-c08f-e2a9-dc02b7a1f856/MoonPlus-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 20062526,
+      "size": 25418827,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -42460,11 +42460,11 @@
       },
       "versions": [
         {
-          "version": "8.6.0",
-          "date": "2026-06-26",
+          "version": "8.7.0",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.6.0-riftysipas.ipa",
-          "size": 20062526
+          "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.7.0-riftysipas.ipa",
+          "size": 25418827
         }
       ],
       "category": "weather"
