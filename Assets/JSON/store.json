@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.rockwellventures.mesmerize",
+    "com.google.ios.youtubemusic",
     "com.grandgames.magicsort",
     "com.gymbros.app",
-    "com.mwm.procolor",
-    "org.reactjs.native.example.rootd",
-    "com.sadpuppy.lemmings"
+    "com.mwm.procolor"
   ],
   "apps": [
     {
@@ -40348,14 +40348,14 @@
       "bundleIdentifier": "com.rockwellventures.mesmerize",
       "developerName": "Rockwell Ventures",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "2.41",
-      "versionDate": "2026-06-10",
+      "version": "2.42",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Mesmerize - Visual Meditation-v2.41-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Mesmerize - Visual Meditation-v2.42-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nMesmerize - Visual Meditation",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/52/fc/9d52fc95-adb9-548e-0a8d-e6f9a45a25d7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 228074129,
+      "size": 236422286,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/91/2a/b3912ac2-30e0-905e-7417-3e59f287a755/4c25d08d-b3e1-4ae7-945b-f92e18005ec2_11.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/2f/b6/3c2fb692-439b-9d32-af95-3361644a146e/eadd4afa-8cd4-4270-b159-adf56d99b405_12.jpg/392x696bb.jpg",
@@ -40382,11 +40382,11 @@
       },
       "versions": [
         {
-          "version": "2.41",
-          "date": "2026-06-09",
+          "version": "2.42",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Mesmerize - Visual Meditation-v2.41-riftysipas.ipa",
-          "size": 228074129
+          "downloadURL": "https://telos.ftp.sh/ipas/Mesmerize - Visual Meditation-v2.42-riftysipas.ipa",
+          "size": 236422286
         }
       ],
       "category": "health-&-fitness"
@@ -78046,15 +78046,15 @@
       "name": "YouTube Music",
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Google",
-      "subtitle": "Tweaked with CydiaSubstrate, ReturnYouTubeMusicDislikes",
-      "version": "9.24.2",
-      "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMABConfig, YTMusicUltimate, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]YM_9.24.2_YU.ipa",
-      "localizedDescription": "Build of YouTube Music 📀",
+      "subtitle": "YouTube Music for iOS",
+      "version": "9.26.2",
+      "versionDate": "2026-06-30",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.google.ios.youtubemusic-9.26-eeveedecrypter.ipa",
+      "localizedDescription": "YouTube Music for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/77/a5/c777a50a-7115-02c7-5987-c932b877fbcb/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 97579144,
+      "size": 96408168,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a9/e6/bca9e6a9-ecc1-035c-2a5b-b42b38684977/APP_IPHONE_55-0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/b0/e8/c5b0e871-f0de-f914-15aa-5323c4099b92/APP_IPHONE_55-1.png/392x696bb.png",
@@ -78085,11 +78085,11 @@
       },
       "versions": [
         {
-          "version": "9.24.2",
-          "date": "2026-06-16",
-          "localizedDescription": "Tweaks: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMABConfig, YTMusicUltimate, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]YM_9.24.2_YU.ipa",
-          "size": 97579144
+          "version": "9.26.2",
+          "date": "2026-06-30",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.google.ios.youtubemusic-9.26-eeveedecrypter.ipa",
+          "size": 96408168
         }
       ],
       "category": "music"
@@ -80121,7 +80121,7 @@
     {
       "title": "⚙️ Telos Update 6.30",
       "identifier": "telos-update-2026-06-30",
-      "caption": "72 Apps Updated:\n• 18 Health & Fitness\n• 14 Games\n• 8 Productivity\n• 6 Weather\n• 6 Entertainment\n• 4 Photo & Video\n• 4 Lifestyle\n• 4 Music\n• 2 Business\n• 2 Education\n• 2 Food & Drink\n• 2 Travel",
+      "caption": "74 Apps Updated:\n• 20 Health & Fitness\n• 12 Games\n• 8 Productivity\n• 8 Music\n• 6 Weather\n• 4 Photo & Video\n• 4 Entertainment\n• 4 Lifestyle\n• 2 Business\n• 2 Education\n• 2 Food & Drink\n• 2 Travel",
       "date": "2026-06-30",
       "tintColor": "#02433b",
       "notify": true,
