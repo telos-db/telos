@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.sfun.snapedit",
+    "scannerapp.free",
+    "com.alatona.4plan",
     "com.bravolol.bravoLang.chineseDictionary",
-    "com.mangacrush.ios",
-    "com.myswimpro.apps.MySwimPro",
-    "com.gma.water.sort.puzzle",
-    "com.gingerlabs.Notability"
+    "com.mangacrush.ios"
   ],
   "apps": [
     {
@@ -665,6 +665,44 @@
         }
       ],
       "category": "productivity"
+    },
+    {
+      "name": "4Plan",
+      "bundleIdentifier": "com.alatona.4plan",
+      "developerName": "Alatona",
+      "subtitle": "4Plan for iOS",
+      "version": "1.6.2",
+      "versionDate": "2026-06-30",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.alatona.4plan-1.6.2-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\n● 2D drawing and 3D view for each of your floor, room, indoor & outdoor projects\n● Easy and intuitive control with endless customizations\n● Photorealistic materials with a vast furniture and material catalog\n----------\nAre you looking for an easy-to-use home interior design and renovation app to plan your next project?\nDon’t have any knowledge about using interior design software?\n\nMeet 4Plan, which is designed with utmost simplicity to help you design rooms, floors, and outdoor areas from your",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/0e/1c/3c0e1c8f-be5c-4c7d-0232-9f02546168bb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 240468376,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/ac/39/4aac39a4-37cd-36e8-49c9-ebbf97006c9e/5344ef2a-64e1-48b9-baea-4a0e763f42b5_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-05-18_at_19.12.46.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/58/7d/03587dbf-40d1-d4cf-eaeb-a9c540cf725f/06070ab9-4646-4fb1-b7a0-334ef870f8cf_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-05-18_at_19.15.50.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/d4/29/bcd42995-1610-2196-d8b0-0dd9c5d326f4/ca9b0763-f03e-402d-9097-7479f061fd1d_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-05-18_at_19.16.28.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/3f/8e/203f8e3f-b50c-1e8e-5b56-0a4c2d69c260/d736868d-fa82-4ab2-992e-b488541214ac_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-05-18_at_19.17.19.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/0c/d5/030cd576-d964-2998-5094-b5c3b68add94/c58fd6d7-54fd-42d8-91f1-79f00772dd0e_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-05-18_at_19.18.02.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Augmented Reality experience requires access to Camera.",
+          "NSPhotoLibraryAddUsageDescription": "Save project snapshots"
+        }
+      },
+      "versions": [
+        {
+          "version": "1.6.2",
+          "date": "2026-06-30",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.alatona.4plan-1.6.2-eeveedecrypter.ipa",
+          "size": 240468376
+        }
+      ],
+      "category": "lifestyle"
     },
     {
       "name": "500 Stories",
@@ -57687,14 +57725,14 @@
       "bundleIdentifier": "scannerapp.free",
       "developerName": "Luni",
       "subtitle": "Tweaked with ScannerApp, blatantsPatch",
-      "version": "2.11.15",
-      "versionDate": "2026-06-23",
+      "version": "2.11.16",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: ScannerApp, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Scanner_–_Scan_PDF_&_Document_v2_11_15_Premium_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Scanner_–_Scan_PDF_&_Document_v2_11_16_Premium_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ScannerApp, blatantsPatch\n\nScanner – Scan PDF & Document\n\n---\nScanner PDF app will maximize your document management efficiency : a mobile scanner for your smartphone, to change paper into PDF, while saving both time and storage.\n\nScanner PDF supports image processing and can transform, rotate, sharpen your images, for best document quality, combined with Scanner PDF's top edge OCR engine.\n\nFeatures:\n- High resolution scans that preserve most of the original paper document details\n- Built with OCR technology\n- Multiple page PDF support\n- Modify, delete pag",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/1e/1b/041e1b3c-0693-d5d6-776c-405c34a119de/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 94058936,
+      "size": 94076818,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/75/dd/7275ddf2-81f7-861a-8560-51afeb5efbfb/3ec0394a-1d6d-4192-8461-e1a90c16763a_SCREEN_1_1_1242_x_2208.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/85/27/a38527f1-f7c8-8b4d-9393-316b688a07f7/168af86f-52dc-490d-b524-d8ce3d7013cc_SCREEN_2_1242_x_2208.jpg/392x696bb.jpg",
@@ -57720,11 +57758,11 @@
       },
       "versions": [
         {
-          "version": "2.11.15",
-          "date": "2026-06-23",
+          "version": "2.11.16",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: ScannerApp, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Scanner_–_Scan_PDF_&_Document_v2_11_15_Premium_Unlocked_blatant.ipa",
-          "size": 94058936
+          "downloadURL": "https://telos.ftp.sh/ipas/Scanner_–_Scan_PDF_&_Document_v2_11_16_Premium_Unlocked_blatant.ipa",
+          "size": 94076818
         }
       ],
       "category": "business"
@@ -61092,14 +61130,14 @@
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
       "subtitle": "Tweaked with SnapEdit, blatantsPatch",
-      "version": "6.15.0",
-      "versionDate": "2026-06-27",
+      "version": "6.16",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.15 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.16 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SnapEdit, blatantsPatch\n\nSnapEdit: Photo Editor AI\n\n---\nSnapEdit is one of the best photo editing apps using AI with a mission to make your editing easy, smooth and fun.\n\nTransform your photos like never before with SnapEdit, the ultimate photo editing app designed to effortlessly remove unwanted objects, enhance image quality, and create stunning visual masterpieces. Download SnapEdit now and unlock a world of possibilities for your photos!\n\nKEY FEATURES:\n\nONE-TOUCH OBJECT REMOVAL: Say goodbye to photobombers, unwanted elements, or distracting objec",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/91/fe/9b91fe48-1611-705a-fb61-64dc25461aaf/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 103729405,
+      "size": 108265051,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -61118,11 +61156,11 @@
       },
       "versions": [
         {
-          "version": "6.15.0",
-          "date": "2026-06-27",
+          "version": "6.16",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.15 Pro Unlocked blatant Patched.ipa",
-          "size": 103729405
+          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.16 Pro Unlocked blatant Patched.ipa",
+          "size": 108265051
         }
       ],
       "category": "photo-&-video"
