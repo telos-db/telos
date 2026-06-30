@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.grandgames.magicsort",
+    "com.gymbros.app",
+    "com.mwm.procolor",
     "org.reactjs.native.example.rootd",
-    "com.sadpuppy.lemmings",
-    "com.readdle.CalendarsLite",
-    "se.resenatverket.FlightRadar24-Free",
-    "com.soundcloud.TouchApp"
+    "com.sadpuppy.lemmings"
   ],
   "apps": [
     {
@@ -14222,14 +14222,14 @@
       "bundleIdentifier": "com.mwm.procolor",
       "developerName": "MWM",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "2.64.01",
-      "versionDate": "2026-06-24",
+      "version": "2.64.02",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: ColorPop, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Color_Pop_AI_Coloring_Book_v2_64_01_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Color_Pop_AI_Coloring_Book_v2_64_02_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nColor Pop AI: Coloring Book",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/d3/1f/1ed31f34-c009-f846-7733-819abc927b06/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 222063101,
+      "size": 181567469,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/5e/d6/a05ed6dd-e6aa-6286-a277-42849e51a3d7/EN_ipad_01.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/10/e9/f610e9be-e8c9-38dd-aa08-409f65933977/EN_ipad_02.png/576x768bb.png",
@@ -14254,11 +14254,11 @@
       },
       "versions": [
         {
-          "version": "2.64.01",
-          "date": "2026-06-24",
+          "version": "2.64.02",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: ColorPop, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Color_Pop_AI_Coloring_Book_v2_64_01_Subscription_Unlocked_blatant.ipa",
-          "size": 222063101
+          "downloadURL": "https://telos.ftp.sh/ipas/Color_Pop_AI_Coloring_Book_v2_64_02_Subscription_Unlocked_blatant.ipa",
+          "size": 181567469
         }
       ],
       "category": "entertainment"
@@ -36434,14 +36434,14 @@
       "bundleIdentifier": "com.gymbros.app",
       "developerName": "GymBros Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "2.13.21",
-      "versionDate": "2026-06-24",
+      "version": "2.13.22",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.21-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.22-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nLiftoff - Ranked Gym Workouts",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/5a/28/c15a288f-aa69-4ebf-2a12-8d42974575f6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 162668009,
+      "size": 162758148,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/40/b0/e040b0d8-24ec-03f6-d5cb-1e0882e08695/68ebee91-ba86-4f6c-a564-a276c908ac0f_img1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/6a/60/0c6a609e-6471-3dec-75b1-eecc22d821cf/ff0986a5-c1b8-4b14-8d14-70377d1d970a_img2.jpg/576x768bb.jpg",
@@ -36471,11 +36471,11 @@
       },
       "versions": [
         {
-          "version": "2.13.21",
-          "date": "2026-06-24",
+          "version": "2.13.22",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.21-riftysipas.ipa",
-          "size": 162668009
+          "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.22-riftysipas.ipa",
+          "size": 162758148
         }
       ],
       "category": "health-&-fitness"
@@ -80121,7 +80121,7 @@
     {
       "title": "⚙️ Telos Update 6.30",
       "identifier": "telos-update-2026-06-30",
-      "caption": "68 Apps Updated:\n• 16 Health & Fitness\n• 12 Games\n• 10 Productivity\n• 6 Weather\n• 4 Photo & Video\n• 4 Lifestyle\n• 4 Music\n• 4 Travel\n• 2 Entertainment\n• 2 Business\n• 2 Education\n• 2 Food & Drink",
+      "caption": "72 Apps Updated:\n• 18 Health & Fitness\n• 14 Games\n• 8 Productivity\n• 6 Weather\n• 6 Entertainment\n• 4 Photo & Video\n• 4 Lifestyle\n• 4 Music\n• 2 Business\n• 2 Education\n• 2 Food & Drink\n• 2 Travel",
       "date": "2026-06-30",
       "tintColor": "#02433b",
       "notify": true,
