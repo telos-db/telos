@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.AJNSNewMedia.KitchenStories",
+    "dog.training.woofz",
+    "com.11pets.petcare",
     "com.sfun.snapedit",
-    "scannerapp.free",
-    "com.alatona.4plan",
-    "com.bravolol.bravoLang.chineseDictionary",
-    "com.mangacrush.ios"
+    "scannerapp.free"
   ],
   "apps": [
     {
@@ -331,6 +331,47 @@
         }
       ],
       "category": "games"
+    },
+    {
+      "name": "11pets",
+      "bundleIdentifier": "com.11pets.petcare",
+      "developerName": "11Pets",
+      "subtitle": "11pets for iOS",
+      "version": "6.003.017",
+      "versionDate": "2026-06-30",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.11pets.petcare-V.6.003.017-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/c8/77/41c877e5-5be3-d5e7-56b2-8ed9311fc506/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 27614040,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3a/28/ca/3a28caf4-ea03-2142-3c58-e201d38a86fb/27c993eb-1218-4262-a71a-c93283e97fa4_iPhone_7_Plus_10.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/64/ed/2f/64ed2fe4-5b93-b6f8-e3e1-e56dab56010b/4e28da2a-3fe4-4f41-9e51-821a74be718d_iPhone_7_Plus_9.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/06/45/81/064581b1-1f54-237d-1ed1-794c196ac5f8/ea6f027a-fe1b-4403-9e46-a512cd8f4ea2_iPhone_7_Plus_8.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/43/fa/59/43fa59e9-4140-7c24-e13e-4f8c44b7718b/45bee094-3b19-4d41-ae72-4862437687b6_iPhone_7_Plus_7.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/68/17/44/6817449d-5279-ac6c-34b0-82c66d089e6a/ca77bfa7-aaa7-45b5-a120-aac3a5dbaefe_iPhone_7_Plus_6.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Photo Library Access Warning",
+          "NSCameraUsageDescription": "Allow access to camera to take photos of your pet and safely store them to the 11pets cloud",
+          "NSLocationWhenInUseUsageDescription": "App wants access to location when in use.",
+          "NSUserTrackingUsageDescription": "Delivery of personalized content",
+          "NSPhotoLibraryAddUsageDescription": "Allow access to photos to upload photos of your pet and safely store them to the 11pets cloud"
+        }
+      },
+      "versions": [
+        {
+          "version": "6.003.017",
+          "date": "2026-06-30",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.11pets.petcare-V.6.003.017-eeveedecrypter.ipa",
+          "size": 27614040
+        }
+      ],
+      "category": "health-&-fitness"
     },
     {
       "name": "12min",
@@ -34173,14 +34214,14 @@
       "bundleIdentifier": "com.AJNSNewMedia.KitchenStories",
       "developerName": "AJNS New Media",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "27.2.7",
-      "versionDate": "2026-06-16",
+      "version": "27.2.8",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Kitchen Stories Easy Recipes-v27.2.7-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Kitchen Stories Easy Recipes-v27.2.8-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nKitchen Stories Easy Recipes",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/62/01/0d6201ab-8ddc-bf69-1c82-e55a164c938c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 71596589,
+      "size": 71788254,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/b9/92/2cb99201-2633-d599-5be7-8480424c01a0/53.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/16/a3/ac16a3ba-71b7-cc5d-5bd4-48b3740e4ac0/54.png/392x696bb.png",
@@ -34204,11 +34245,11 @@
       },
       "versions": [
         {
-          "version": "27.2.7",
-          "date": "2026-06-16",
+          "version": "27.2.8",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Kitchen Stories Easy Recipes-v27.2.7-riftysipas.ipa",
-          "size": 71596589
+          "downloadURL": "https://telos.ftp.sh/ipas/Kitchen Stories Easy Recipes-v27.2.8-riftysipas.ipa",
+          "size": 71788254
         }
       ],
       "category": "food-&-drink"
@@ -76815,6 +76856,45 @@
       "category": "graphics-&-design"
     },
     {
+      "name": "Woofz",
+      "bundleIdentifier": "dog.training.woofz",
+      "developerName": "nove8",
+      "subtitle": "Woofz for iOS",
+      "version": "3.10.2",
+      "versionDate": "2026-06-30",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/dog.training.woofz-3.10.2-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/dd/99/a9dd9974-bc86-fd55-e99e-28600351abdd/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 69441524,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/64/7d/e6647d35-6825-9d9f-f7ff-f475e4cb189d/eng-5.5-vertical-screen_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/ac/4e/eeac4e2b-6b92-be44-0e73-ad5f040bcef2/Iphone-5.5-vertical-screen_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/b2/28/61b22871-e9b7-1789-ef7c-4e51a70013cc/Iphone-5.5-vertical-screen_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/dc/b4/b0dcb49f-22c3-2fb8-e573-69028b3d3534/Iphone-5.5-vertical-screen_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/e6/1d/ace61d1a-1960-c8a8-775d-2546a232ec07/Iphone-6.5-vertical-screen_5.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "App wants access to your media library.",
+          "NSMicrophoneUsageDescription": "microphone",
+          "NSLocationWhenInUseUsageDescription": "Allow Woofz to use your location to start a walk"
+        }
+      },
+      "versions": [
+        {
+          "version": "3.10.2",
+          "date": "2026-06-24",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/dog.training.woofz-3.10.2-eeveedecrypter.ipa",
+          "size": 69441524
+        }
+      ],
+      "category": "lifestyle"
+    },
+    {
       "name": "Word of the Day",
       "bundleIdentifier": "com.wordwordapp.en",
       "developerName": "Vocabulous US Inc.",
@@ -80039,7 +80119,7 @@
     {
       "title": "⚙️ Telos Update 6.30",
       "identifier": "telos-update-2026-06-30",
-      "caption": "34 Apps Updated:\n• 6 Photo & Video\n• 6 Games\n• 4 Productivity\n• 4 Weather\n• 4 Business\n• 4 Lifestyle\n• 2 Health & Fitness\n• 2 Entertainment\n• 2 Education",
+      "caption": "40 Apps Updated:\n• 6 Games\n• 6 Health & Fitness\n• 6 Lifestyle\n• 4 Photo & Video\n• 4 Productivity\n• 4 Weather\n• 4 Food & Drink\n• 2 Entertainment\n• 2 Business\n• 2 Education",
       "date": "2026-06-30",
       "tintColor": "#02433b",
       "notify": true,
