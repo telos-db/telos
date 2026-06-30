@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.mangacrush.ios",
     "com.myswimpro.apps.MySwimPro",
     "com.gma.water.sort.puzzle",
     "com.gingerlabs.Notability",
-    "eu.sun.litt",
-    "com.pixeldev.APEXRacers"
+    "eu.sun.litt"
   ],
   "apps": [
     {
@@ -67486,14 +67486,14 @@
       "bundleIdentifier": "com.mangacrush.ios",
       "developerName": "Tekbrio LLC",
       "subtitle": "Tweaked with Tachimanga, blatantsPatch",
-      "version": "4.15",
-      "versionDate": "2026-06-06",
+      "version": "4.16",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: Tachimanga, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tachimanga v4.15 Premium Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tachimanga v4.16 Premium Unlocked blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Tachimanga, blatantsPatch\n\nTachimanga\n\n---\nDiscover a new world of manga with Tachimanga.\n- Supports manga in ZIP/CBZ and EPUB formats.\n- Supports reading manga from Komga, which is a self-hosted manga server.\n\nTerms of Use:",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/a5/f5/faa5f52d-7489-1a48-76a3-6cc00d7b9570/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 126780481,
+      "size": 126961216,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -67509,11 +67509,11 @@
       },
       "versions": [
         {
-          "version": "4.15",
-          "date": "2026-06-06",
+          "version": "4.16",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: Tachimanga, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tachimanga v4.15 Premium Unlocked blatant Patched.ipa",
-          "size": 126780481
+          "downloadURL": "https://telos.ftp.sh/ipas/Tachimanga v4.16 Premium Unlocked blatant Patched.ipa",
+          "size": 126961216
         }
       ],
       "category": "entertainment"
