@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.grandgames.magicsort",
+    "com.gymbros.app",
+    "com.mwm.procolor",
     "org.reactjs.native.example.rootd",
-    "com.sadpuppy.lemmings",
-    "com.readdle.CalendarsLite",
-    "se.resenatverket.FlightRadar24-Free",
-    "com.soundcloud.TouchApp"
+    "com.sadpuppy.lemmings"
   ],
   "apps": [
     {
@@ -14290,14 +14290,14 @@
       "bundleIdentifier": "com.mwm.procolor",
       "developerName": "MWM",
       "subtitle": "Tweaked with ColorPop, blatantsPatch",
-      "version": "2.64.01",
-      "versionDate": "2026-06-24",
+      "version": "2.64.02",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: ColorPop, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Color_Pop_AI_Coloring_Book_v2_64_01_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Color_Pop_AI_Coloring_Book_v2_64_02_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ColorPop, blatantsPatch\n\nColor Pop AI: Coloring Book\n\n---\nUnleash your inner artist with Color Pop! Dive into a world of vibrant colors and endless creativity.\n\nWith millions of drawings at your fingertips, you're just a tap away from the best coloring experience. Join our community, get inspired, and share your masterpieces!\n\nWhy You'll Love It:\n\n• Extended catalog: Mandalas, animals, patterns, florals, and more.\n• Easy to paint: Tap to color or spill the paint bucket for quick fills.\n• Fun to use: Realistic tools, vibrant colors, and advanced effects",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/d3/1f/1ed31f34-c009-f846-7733-819abc927b06/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 222063101,
+      "size": 181567469,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/5e/d6/a05ed6dd-e6aa-6286-a277-42849e51a3d7/EN_ipad_01.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/10/e9/f610e9be-e8c9-38dd-aa08-409f65933977/EN_ipad_02.png/576x768bb.png",
@@ -14322,11 +14322,11 @@
       },
       "versions": [
         {
-          "version": "2.64.01",
-          "date": "2026-06-24",
+          "version": "2.64.02",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: ColorPop, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Color_Pop_AI_Coloring_Book_v2_64_01_Subscription_Unlocked_blatant.ipa",
-          "size": 222063101
+          "downloadURL": "https://telos.ftp.sh/ipas/Color_Pop_AI_Coloring_Book_v2_64_02_Subscription_Unlocked_blatant.ipa",
+          "size": 181567469
         }
       ],
       "category": "entertainment"
@@ -36915,14 +36915,14 @@
       "bundleIdentifier": "com.gymbros.app",
       "developerName": "GymBros Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, chocorc",
-      "version": "2.13.21",
-      "versionDate": "2026-06-24",
+      "version": "2.13.22",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.21-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.22-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nLiftoff - Ranked Gym Workouts\n\n---\nLiftoff is the best workout tracker app that ranks your gym performance. Get feedback on 400+ exercises, track progress, and compete with friends. Download the #1 gym rank app & join over 1 million lifters today!\n\nGamified Workout Tracker | Ranks | Streaks | Accountability | Logger\n\nBoost Your Fitness Journey with Liftoff app\n\nConnect and Compete\nJoin a vibrant community of fitness enthusiasts who make every workout count. Liftoff is a social platform where you can connect, compete, and share yo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/5a/28/c15a288f-aa69-4ebf-2a12-8d42974575f6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 162668009,
+      "size": 162758148,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/40/b0/e040b0d8-24ec-03f6-d5cb-1e0882e08695/68ebee91-ba86-4f6c-a564-a276c908ac0f_img1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/6a/60/0c6a609e-6471-3dec-75b1-eecc22d821cf/ff0986a5-c1b8-4b14-8d14-70377d1d970a_img2.jpg/576x768bb.jpg",
@@ -36952,11 +36952,11 @@
       },
       "versions": [
         {
-          "version": "2.13.21",
-          "date": "2026-06-24",
+          "version": "2.13.22",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.21-riftysipas.ipa",
-          "size": 162668009
+          "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.22-riftysipas.ipa",
+          "size": 162758148
         }
       ],
       "category": "health-&-fitness"
@@ -39376,14 +39376,14 @@
       "bundleIdentifier": "com.grandgames.magicsort",
       "developerName": "Grand Games A.Ş.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "26.84",
-      "versionDate": "2026-06-19",
+      "version": "0.0.2729",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, iOSGodsiAPCracker, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Magic Sort!-v26.84-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Magic Sort!-v0.0.2729-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, iOSGodsiAPCracker, popuprifty\n\nMagic Sort!\n\n---\nDiscover Magic Sort! Mix colors in a world where every splash of water is a step into mystery. This isn’t just a game; it’s a journey through puzzles that sparkle with charm, inviting you to sort, match, and puzzle your way through.\n\nQuick Play Guide\n\n- Start Simple: Tap a bottle to pick it up, and another to pour the water. Organize the water so each bottle has only one color.\n- Think Ahead: Pour water only if it matches the top color of the destination bottle and there’s room. Plan to avoid de",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/84/4a/bc844a68-043c-cdca-def3-34eb66aa9af9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 200271269,
+      "size": 200487163,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/6e/4e/4a6e4ee3-e67b-db0c-5b26-9c81cd0bd650/RainbowSS_1242x2208.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/7a/3f/f87a3f4c-f641-8546-4d64-08490a4fbc61/StoreUI02_challenge.jpg/392x696bb.jpg",
@@ -39403,11 +39403,11 @@
       },
       "versions": [
         {
-          "version": "26.84",
-          "date": "2026-06-19",
+          "version": "0.0.2729",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, iOSGodsiAPCracker, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Magic Sort!-v26.84-riftysipas.ipa",
-          "size": 200271269
+          "downloadURL": "https://telos.ftp.sh/ipas/Magic Sort!-v0.0.2729-riftysipas.ipa",
+          "size": 200487163
         }
       ],
       "category": "games"
