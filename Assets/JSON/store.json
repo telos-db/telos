@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.soundcloud.TouchApp",
-    "nutrition.coach",
-    "co.codeleap.bearable",
-    "com.podfactor.pod",
-    "com.yoyoapps.weather"
+    "org.reactjs.native.example.rootd",
+    "com.sadpuppy.lemmings",
+    "com.readdle.CalendarsLite",
+    "se.resenatverket.FlightRadar24-Free",
+    "com.soundcloud.TouchApp"
   ],
   "apps": [
     {
@@ -10096,14 +10096,14 @@
       "bundleIdentifier": "com.readdle.CalendarsLite",
       "developerName": "Readdle Technologies Limited",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "5.37.30",
-      "versionDate": "2026-06-26",
+      "version": "5.37.31",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: Calendars, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Calendars_Schedule_Planner_v5_37_30_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Calendars_Schedule_Planner_v5_37_31_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nCalendars: Schedule Planner",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/16/79/3f1679c8-a5a1-36c3-80a3-f43ed6ef1a83/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 307227654,
+      "size": 307243839,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/ae/c7/39aec7ed-f739-0217-9073-ec40c4bbc6c8/cacd5010-b49f-47c0-a3e9-4c5aa79a4d62_iPad_art_1_EN.jpg/552x414bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/08/b2/9a08b25c-1b45-3771-d455-c9808fd91f40/pr_source.jpg/552x414bb.jpg",
@@ -10133,11 +10133,11 @@
       },
       "versions": [
         {
-          "version": "5.37.30",
-          "date": "2026-06-26",
+          "version": "5.37.31",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: Calendars, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Calendars_Schedule_Planner_v5_37_30_Subscription_Unlocked_blatant.ipa",
-          "size": 307227654
+          "downloadURL": "https://telos.ftp.sh/ipas/Calendars_Schedule_Planner_v5_37_31_Subscription_Unlocked_blatant.ipa",
+          "size": 307243839
         }
       ],
       "category": "productivity"
@@ -23435,14 +23435,14 @@
       "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
       "developerName": "Flightradar24 AB",
       "subtitle": "Patched | Tweaked",
-      "version": "11.6.1",
-      "versionDate": "2026-06-18",
+      "version": "11.7.0",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: FlightRadar24, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Flightradar24_Flight_Tracker_v11_6_1_Gold_Lifetime_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Flightradar24_Flight_Tracker_v11_7_0_Gold_Lifetime_blatant_Patched.ipa",
       "localizedDescription": "Patched | Tweaked\n\nFlightradar24 | Flight Tracker",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/99/9f/6a999fe6-8406-d4a3-bc10-32a4941b8730/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/b3/73/6bb373e1-59b0-c48d-9a73-496ef19967a1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 225111742,
+      "size": 226230441,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/71/9c/5f719ce8-180f-b06c-f4c0-1b690dd63013/04ad4938-e8c5-4469-9ea7-a01168421d68_iphone8_screenshot_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/f8/02/0bf80293-7322-217f-b4ff-394b3c98d296/ccb55067-54dd-4aae-8aa1-e6a345501bb0_iphone8_screenshot_2.jpg/392x696bb.jpg",
@@ -23468,11 +23468,11 @@
       },
       "versions": [
         {
-          "version": "11.6.1",
-          "date": "2026-06-18",
+          "version": "11.7.0",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: FlightRadar24, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Flightradar24_Flight_Tracker_v11_6_1_Gold_Lifetime_blatant_Patched.ipa",
-          "size": 225111742
+          "downloadURL": "https://telos.ftp.sh/ipas/Flightradar24_Flight_Tracker_v11_7_0_Gold_Lifetime_blatant_Patched.ipa",
+          "size": 226230441
         }
       ],
       "category": "travel"
@@ -35947,14 +35947,14 @@
       "bundleIdentifier": "com.sadpuppy.lemmings",
       "developerName": "SAD PUPPY",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "9.3.2",
-      "versionDate": "2026-06-22",
+      "version": "9.4.0",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.3.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.4.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nLemmings: Strategy & Puzzle",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/fb/ec/b8fbec01-9cc3-0392-8e75-2f990fd05d55/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 122423926,
+      "size": 127559696,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/e4/7c/ede47c92-98b6-832b-9f27-6fc9ed19546f/cf6c4041-a14e-454c-a56d-aaafb1c5843c_1_Eng_1242x2208_iPhone6_COMPLETE.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/ee/7e/a4ee7e38-da81-ba8f-134b-b222e2e9a20b/29ac5f9b-e36c-4de5-9226-77b031aec539_7_Eng_1242x2208_iPhone6_DISCOVER.png/392x696bb.png",
@@ -35981,11 +35981,11 @@
       },
       "versions": [
         {
-          "version": "9.3.2",
-          "date": "2026-06-22",
+          "version": "9.4.0",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.3.2-riftysipas.ipa",
-          "size": 122423926
+          "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.4.0-riftysipas.ipa",
+          "size": 127559696
         }
       ],
       "category": "games"
@@ -56487,14 +56487,14 @@
       "bundleIdentifier": "org.reactjs.native.example.rootd",
       "developerName": "Simply Rooted Media Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "3.1.59",
-      "versionDate": "2026-06-29",
+      "version": "3.1.60",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.59-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.60-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nRootd: Panic Attacks & Anxiety",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/e8/02/b5e8027e-1639-b9a6-63a8-e7639d9e711b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 64505862,
+      "size": 64570521,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/20/bb/2420bb85-208d-5c12-54a8-18e90ce18c3a/e46a7b02-ac14-4809-91f5-aa8575fef4ce_rteriphone_5.5_display_copy.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/22/b2/f822b2d7-8fa5-1e87-a43e-8fddfef3694e/f6665434-fc68-4954-9b95-8eacd3051608_1242x2208bb-16.png/392x696bb.png",
@@ -56528,11 +56528,11 @@
       },
       "versions": [
         {
-          "version": "3.1.59",
-          "date": "2026-06-29",
+          "version": "3.1.60",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.59-riftysipas.ipa",
-          "size": 64505862
+          "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.60-riftysipas.ipa",
+          "size": 64570521
         }
       ],
       "category": "health-&-fitness"
@@ -80121,7 +80121,7 @@
     {
       "title": "⚙️ Telos Update 6.30",
       "identifier": "telos-update-2026-06-30",
-      "caption": "62 Apps Updated:\n• 16 Health & Fitness\n• 8 Games\n• 8 Productivity\n• 8 Weather\n• 6 Music\n• 4 Photo & Video\n• 4 Lifestyle\n• 2 Entertainment\n• 2 Business\n• 2 Education\n• 2 Food & Drink",
+      "caption": "68 Apps Updated:\n• 16 Health & Fitness\n• 12 Games\n• 10 Productivity\n• 6 Weather\n• 4 Photo & Video\n• 4 Lifestyle\n• 4 Music\n• 4 Travel\n• 2 Entertainment\n• 2 Business\n• 2 Education\n• 2 Food & Drink",
       "date": "2026-06-30",
       "tintColor": "#02433b",
       "notify": true,
