@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.aagame.aagame",
+    "com.lake.coloring",
+    "com.zarz.spotiflacAndroid",
     "com.soundscape.music",
-    "com.yazio.ios.YAZIO",
-    "com.madarsoft.fitness",
-    "com.moodtools.thoughtdiary",
-    "com.picsart.studio"
+    "com.yazio.ios.YAZIO"
   ],
   "apps": [
     {
@@ -1007,14 +1007,14 @@
       "bundleIdentifier": "com.aagame.aagame",
       "developerName": "General Adaptive Apps Pty Ltd",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "7.1.2",
-      "versionDate": "2026-06-12",
+      "version": "7.1.3",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/AA Game-v7.1.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AA Game-v7.1.3-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nAA Game",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/08/0f/3a080f21-14c2-ccc0-1d83-2cc951e9ac64/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 41630294,
+      "size": 42061134,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/3f/8b/d33f8b38-5ca0-6887-9129-3ea1bff3b9d5/5_5_inch_iPhone_Start.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/9b/d6/809bd6f0-6c1c-9f7f-4b6f-411cfd2152f1/5_5_inch_iPhone_Fail.png/392x696bb.png",
@@ -1033,11 +1033,11 @@
       },
       "versions": [
         {
-          "version": "7.1.2",
-          "date": "2026-05-17",
+          "version": "7.1.3",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/AA Game-v7.1.2-riftysipas.ipa",
-          "size": 41630294
+          "downloadURL": "https://telos.ftp.sh/ipas/AA Game-v7.1.3-riftysipas.ipa",
+          "size": 42061134
         }
       ],
       "category": "games"
@@ -35214,14 +35214,14 @@
       "bundleIdentifier": "com.lake.coloring",
       "developerName": "Lake Coloring",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.27.0",
-      "versionDate": "2026-06-28",
+      "version": "4.27.2",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lake_Coloring_Book_for_Adults_v4_27_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lake_Coloring_Book_for_Adults_v4_27_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nLake: Coloring Book for Adults",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/88/8c/95888ca0-498e-4729-e606-605b328b0bdb/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 209744514,
+      "size": 209743125,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/44/fc/4444fc20-f001-a7b6-208f-b2d509cbcb9a/iPhone_8_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/69/c6/7f69c69b-ba52-817c-b4f8-4906f5334710/iPhone_8_02.png/392x696bb.png",
@@ -35247,11 +35247,11 @@
       },
       "versions": [
         {
-          "version": "4.27.0",
-          "date": "2026-06-28",
+          "version": "4.27.2",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lake_Coloring_Book_for_Adults_v4_27_0_Subscription_Unlocked_blatant.ipa",
-          "size": 209744514
+          "downloadURL": "https://telos.ftp.sh/ipas/Lake_Coloring_Book_for_Adults_v4_27_2_Subscription_Unlocked_blatant.ipa",
+          "size": 209743125
         }
       ],
       "category": "lifestyle"
@@ -62945,22 +62945,22 @@
     {
       "name": "SpotiFLAC Mobile",
       "bundleIdentifier": "com.zarz.spotiflacAndroid",
-      "developerName": "Visible Service, LLC",
+      "developerName": "US Mobile Inc.",
       "subtitle": "No Ads",
-      "version": "4.6.0",
-      "versionDate": "2026-06-15",
+      "version": "4.7.0",
+      "versionDate": "2026-06-30",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/SpotiFLAC-v4.6.0-ios-unsigned.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SpotiFLAC-v4.7.0-ios-unsigned.ipa",
       "localizedDescription": "No Ads\n\nSpotiFLAC",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/f4/59/cdf459ef-85d3-0856-8e28-fd6171768cc3/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/af/75/93af75da-ea2d-9b9c-95b8-86721edbb4e4/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 34347687,
+      "size": 37442462,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/d1/20/f0d120d0-fa25-248e-e2f8-b45fd73f47ed/Apple-SE-Account-5.5.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/a0/d7/7aa0d7c2-2b24-2906-f445-e6f9645c8d78/Apple-SE-Shop-5.5.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/85/a3/c185a329-0a16-d8b9-1e3d-f267bd69b8f1/Apple-SE-Activate-5.5.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/23/e7/9823e79a-9a6c-ab88-4dfb-8c8cd07774b5/Apple-SE-Manage-5.5.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/24/e6/4d24e6b5-d248-cd7b-d5c8-ca2dbcdcebc3/Apple-SE-Manage-5.5-1.jpg/392x696bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/ab/1a/d6ab1a89-4c7d-9793-5965-1e00c3c64515/USM_SL_AppStore_iPhone-2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/3c/3b/c93c3bf0-3b22-8991-ef22-f8effbe5d2c1/df231d9f-5345-47e3-bf56-7f75c5df8252_app_store_apple_01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/35/62/2735622b-c668-3227-c269-5ad2f09c5c4b/063744f3-e14c-4650-a8ef-aa00ab8dec6f_app_store_apple_02.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/76/78/287678e3-c74a-3ffc-e267-80e7a85c8d0e/c6458b6b-1193-43dd-8c20-98b31fb45944_app_store_apple_03.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/86/b3/da86b37c-6cc3-1f9c-30f5-99462aa89be7/5655d7ac-5806-4ea9-8c2b-54d60bbbefab_app_store_apple_04.png/392x696bb.png"
       ],
       "appPermissions": {
         "entitlements": [],
@@ -62970,11 +62970,11 @@
       },
       "versions": [
         {
-          "version": "4.6.0",
-          "date": "2026-06-15",
+          "version": "4.7.0",
+          "date": "2026-06-30",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/SpotiFLAC-v4.6.0-ios-unsigned.ipa",
-          "size": 34347687
+          "downloadURL": "https://telos.ftp.sh/ipas/SpotiFLAC-v4.7.0-ios-unsigned.ipa",
+          "size": 37442462
         }
       ],
       "category": "utilities"
@@ -80121,7 +80121,7 @@
     {
       "title": "⚙️ Telos Update 6.30",
       "identifier": "telos-update-2026-06-30",
-      "caption": "102 Apps Updated:\n• 34 Health & Fitness\n• 12 Photo & Video\n• 12 Games\n• 8 Productivity\n• 8 Entertainment\n• 6 Weather\n• 6 Music\n• 4 Lifestyle\n• 4 Medical\n• 2 Business\n• 2 Education\n• 2 Food & Drink\n• 2 Travel",
+      "caption": "100 Apps Updated:\n• 26 Health & Fitness\n• 16 Games\n• 10 Photo & Video\n• 8 Productivity\n• 8 Lifestyle\n• 6 Weather\n• 6 Entertainment\n• 6 Music\n• 4 Utilities\n• 2 Business\n• 2 Education\n• 2 Food & Drink\n• 2 Travel\n• 2 Medical",
       "date": "2026-06-30",
       "tintColor": "#02433b",
       "notify": true,
