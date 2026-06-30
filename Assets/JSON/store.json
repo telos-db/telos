@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.dopedevelopment.Panels",
-    "com.rockwellventures.mesmerize",
-    "com.google.ios.youtubemusic",
-    "com.grandgames.magicsort",
-    "com.gymbros.app"
+    "com.soundscape.music",
+    "com.yazio.ios.YAZIO",
+    "com.madarsoft.fitness",
+    "com.moodtools.thoughtdiary",
+    "com.picsart.studio"
   ],
   "apps": [
     {
@@ -12752,14 +12752,14 @@
       "bundleIdentifier": "com.moodtools.thoughtdiary",
       "developerName": "Inquiry Health LLC",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "5.5.22",
-      "versionDate": "2026-06-15",
+      "version": "5.5.23",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: Clarity, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Clarity_CBT_Self_Help_Journal_v5_5_22_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Clarity_CBT_Self_Help_Journal_v5_5_23_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nClarity: CBT Self Help Journal",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/11/05/8b11052e-adef-2bcc-b346-9b72621d9e91/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 180422404,
+      "size": 160222276,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/58/96/9f589648-f328-c326-4423-9b9b0cdbd27e/615804b0-2a4f-41d6-9009-4d9e0fa0e631_ipad1v3.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/5f/a4/725fa4ef-4edd-1ec2-29bc-27783919128f/b567552b-2461-4f69-8f1c-b4267c097b1b_ipad2.png/576x768bb.png",
@@ -12781,11 +12781,11 @@
       },
       "versions": [
         {
-          "version": "5.5.22",
-          "date": "2026-06-15",
+          "version": "5.5.23",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: Clarity, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Clarity_CBT_Self_Help_Journal_v5_5_22_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 180422404
+          "downloadURL": "https://telos.ftp.sh/ipas/Clarity_CBT_Self_Help_Journal_v5_5_23_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 160222276
         }
       ],
       "category": "medical"
@@ -43354,14 +43354,14 @@
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "MyFitnessPal, Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "26.25.0",
-      "versionDate": "2026-06-23",
+      "version": "26.26.0",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal_Calorie_Counter_v26_25_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal_Calorie_Counter_v26_26_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nMyFitnessPal: Calorie Counter",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/32/c4/be32c467-6794-cd80-0446-539c429dce5f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/ee/f4/89eef492-dbdc-5289-8726-0f261b49ce57/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 341360311,
+      "size": 341378113,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -43385,11 +43385,11 @@
       },
       "versions": [
         {
-          "version": "26.25.0",
-          "date": "2026-06-23",
+          "version": "26.26.0",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal_Calorie_Counter_v26_25_0_Subscription_Unlocked_blatant.ipa",
-          "size": 341360311
+          "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal_Calorie_Counter_v26_26_0_Subscription_Unlocked_blatant.ipa",
+          "size": 341378113
         }
       ],
       "category": "health-&-fitness"
@@ -50279,14 +50279,14 @@
       "bundleIdentifier": "com.picsart.studio",
       "developerName": "PicsArt, Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "30.1.3",
-      "versionDate": "2026-06-17",
+      "version": "30.2.1",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_1_3_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_2_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPicsart AI Photo Editor, Video",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/86/9e/0f869ee2-ca40-a713-6cc4-4cb2bcdc82de/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 111971460,
+      "size": 112514149,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/19/4f/0c194fdc-8f88-0792-c4f8-e37c39f85265/072cbf42-fad7-40f4-b11e-015732e61666_1._Multiple_Use_Cases___iPhone_12.9_.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/b9/fd/deb9fdf2-7120-98a3-9443-618a3eec4b0e/c3a88056-d203-42c4-9fbd-56c9797d3eb7_2._Multiple_Use_Cases___iPhone_12.9_.png/576x768bb.png",
@@ -50318,11 +50318,11 @@
       },
       "versions": [
         {
-          "version": "30.1.3",
-          "date": "2026-06-17",
+          "version": "30.2.1",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_1_3_Subscription_Unlocked_blatant.ipa",
-          "size": 111971460
+          "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_2_1_Subscription_Unlocked_blatant.ipa",
+          "size": 112514149
         }
       ],
       "category": "photo-&-video"
@@ -61935,14 +61935,14 @@
       "bundleIdentifier": "com.soundscape.music",
       "developerName": "Soundscape",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "10.1.37",
-      "versionDate": "2026-06-24",
+      "version": "10.1.38",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.37-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.38-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nSoundscape: Sleep Focus Relax",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/0a/36/360a369f-1178-d1b9-ad5d-cd4085a8302d/SoundscapeIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/b9/8f/b6b98fc4-0eeb-b982-b116-554b20781314/SoundscapeIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 90992631,
+      "size": 91580506,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -61960,11 +61960,11 @@
       },
       "versions": [
         {
-          "version": "10.1.37",
-          "date": "2026-06-24",
+          "version": "10.1.38",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.37-riftysipas.ipa",
-          "size": 90992631
+          "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.38-riftysipas.ipa",
+          "size": 91580506
         }
       ],
       "category": "health-&-fitness"
@@ -66949,15 +66949,15 @@
       "name": "Tachimanga",
       "bundleIdentifier": "com.mangacrush.ios",
       "developerName": "Tekbrio LLC",
-      "subtitle": "Premium Unlocked | Patched",
+      "subtitle": "Tachimanga for iOS",
       "version": "4.16",
       "versionDate": "2026-06-30",
-      "versionDescription": "Tweaks: Tachimanga, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tachimanga v4.16 Premium Unlocked blatant Patched.ipa",
-      "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nTachimanga",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.mangacrush.ios-4.16-eeveedecrypter.ipa",
+      "localizedDescription": "Tachimanga for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/a5/f5/faa5f52d-7489-1a48-76a3-6cc00d7b9570/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 126961216,
+      "size": 117550318,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -66975,9 +66975,9 @@
         {
           "version": "4.16",
           "date": "2026-06-30",
-          "localizedDescription": "Tweaks: Tachimanga, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tachimanga v4.16 Premium Unlocked blatant Patched.ipa",
-          "size": 126961216
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.mangacrush.ios-4.16-eeveedecrypter.ipa",
+          "size": 117550318
         }
       ],
       "category": "entertainment"
@@ -77640,14 +77640,14 @@
       "bundleIdentifier": "com.yazio.ios.YAZIO",
       "developerName": "YAZIO",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "26.26.2",
-      "versionDate": "2026-06-26",
+      "version": "26.26.3",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v26_26_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v26_26_3_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nAI Calorie Tracker by Yazio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/f5/53/69f55376-d2af-5f99-ece4-0427b0aa4a87/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 140956283,
+      "size": 140998358,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/1b/ed/dd1bed03-d11e-5e69-88b3-10c1b502e14e/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a8/03/01a803c9-f793-71e8-02c8-b0a84d66334b/ea43d2d8-5944-4881-b46a-1cca3413f608_1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
@@ -77676,11 +77676,11 @@
       },
       "versions": [
         {
-          "version": "26.26.2",
-          "date": "2026-06-26",
+          "version": "26.26.3",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v26_26_2_Subscription_Unlocked_blatant.ipa",
-          "size": 140956283
+          "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v26_26_3_Subscription_Unlocked_blatant.ipa",
+          "size": 140998358
         }
       ],
       "category": "health-&-fitness"
@@ -79048,14 +79048,14 @@
       "bundleIdentifier": "com.madarsoft.fitness",
       "developerName": "Madar Al Parmaga",
       "subtitle": "Pro Unlocked | All Features",
-      "version": "18.6",
-      "versionDate": "2026-06-28",
+      "version": "18.7",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: Rashaqa, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/رشاقة_حساب_السعرات،_خطوات_مشي_v18_6_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/رشاقة_حساب_السعرات،_خطوات_مشي_v18_7_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | All Features | Patched | Tweaked\n\nرشاقة: حساب السعرات، خطوات مشي",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/18/b7/ba18b7ea-5d5a-df46-eecd-9eeaabbfdd77/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 233418513,
+      "size": 233418109,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/64/aa/0e64aa1b-a22d-122e-6881-37977fe3c145/9b84eac6-3b5d-44a5-8eff-07d9df6c9321_iphone6-main-arabic-02.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/42/f5/0a42f55b-5fd6-22f8-a08e-e526a267e066/41d4d39c-752d-4e50-b872-4edd5101b928_iphone6--_U062e_U0637_U0648_U0627_U062a-arabic.jpg/392x696bb.jpg",
@@ -79092,11 +79092,11 @@
       },
       "versions": [
         {
-          "version": "18.6",
-          "date": "2026-06-28",
+          "version": "18.7",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: Rashaqa, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/رشاقة_حساب_السعرات،_خطوات_مشي_v18_6_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 233418513
+          "downloadURL": "https://telos.ftp.sh/ipas/رشاقة_حساب_السعرات،_خطوات_مشي_v18_7_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 233418109
         }
       ],
       "category": "health-&-fitness"
@@ -80121,7 +80121,7 @@
     {
       "title": "⚙️ Telos Update 6.30",
       "identifier": "telos-update-2026-06-30",
-      "caption": "76 Apps Updated:\n• 18 Health & Fitness\n• 12 Games\n• 10 Photo & Video\n• 8 Productivity\n• 6 Weather\n• 6 Music\n• 4 Entertainment\n• 4 Lifestyle\n• 2 Business\n• 2 Education\n• 2 Food & Drink\n• 2 Travel",
+      "caption": "102 Apps Updated:\n• 34 Health & Fitness\n• 12 Photo & Video\n• 12 Games\n• 8 Productivity\n• 8 Entertainment\n• 6 Weather\n• 6 Music\n• 4 Lifestyle\n• 4 Medical\n• 2 Business\n• 2 Education\n• 2 Food & Drink\n• 2 Travel",
       "date": "2026-06-30",
       "tintColor": "#02433b",
       "notify": true,
