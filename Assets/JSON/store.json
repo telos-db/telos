@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.myswimpro.apps.MySwimPro",
+    "com.gma.water.sort.puzzle",
+    "com.gingerlabs.Notability",
     "eu.sun.litt",
-    "com.pixeldev.APEXRacers",
-    "com.media720.offlinegames",
-    "ai.openclawfoundation.app",
-    "nz.co.petesmith.moonphasefree"
+    "com.pixeldev.APEXRacers"
   ],
   "apps": [
     {
@@ -43429,14 +43429,14 @@
       "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
       "developerName": "MySwimPro, Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "9.0.7",
-      "versionDate": "2026-06-25",
+      "version": "9.0.8",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.0.7-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.0.8-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓** | *Bundle Id:** Com.Myswimpro.Apps.Myswimpro | *Developer:** Myswimpro, Inc.\n\nMySwimPro: #1 Swim Workout App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/81/49/3581499d-1c46-3f4e-bbc7-318a3bbe65ba/AppIcon-prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 47466663,
+      "size": 48974332,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -43466,11 +43466,11 @@
       },
       "versions": [
         {
-          "version": "9.0.7",
-          "date": "2026-06-25",
+          "version": "9.0.8",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.0.7-riftysipas.ipa",
-          "size": 47466663
+          "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.0.8-riftysipas.ipa",
+          "size": 48974332
         }
       ],
       "category": "health-&-fitness"
@@ -44910,14 +44910,14 @@
       "bundleIdentifier": "com.gingerlabs.Notability",
       "developerName": "Ginger Labs",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "16.5.1",
-      "versionDate": "2026-06-24",
+      "version": "16.5.2",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: Notability, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_5_1_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_5_2_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nNotability: AI Notes & PDF app",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/43/3c/75433c82-440d-bbd3-18ca-12dcc51f3bac/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 263434897,
+      "size": 263932243,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a8/6c/eea86cda-14d4-6a30-2c2c-c3e89532d4a3/1-iPhone55-EN.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/20/f5/f820f50c-2df3-745a-f955-1a70dfb4f1ff/2-iPhone55-EN.png/392x696bb.png",
@@ -44949,11 +44949,11 @@
       },
       "versions": [
         {
-          "version": "16.5.1",
-          "date": "2026-06-24",
+          "version": "16.5.2",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: Notability, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_5_1_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 263434897
+          "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_5_2_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 263932243
         }
       ],
       "category": "productivity"
@@ -75158,14 +75158,14 @@
       "bundleIdentifier": "com.gma.water.sort.puzzle",
       "developerName": "IEC GLOBAL PTY LTD",
       "subtitle": "*Tweak:** Free Iap | *Notes:** Restart If App Freezes",
-      "version": "30.0.0",
-      "versionDate": "2026-06-05",
+      "version": "32.0.0",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Water Sort Puzzle-v30.0.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Water Sort Puzzle-v32.0.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Free Iap | *Notes:** Restart If App Freezes | *Patched ✓**\n\nWater Sort Puzzle",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/cb/b5/69cbb533-ea05-2597-7067-00ef6122a86b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 114663939,
+      "size": 119231338,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2f/7a/48/2f7a4823-562b-3bd4-d35c-39e30c271e75/dd6cbb98-d86c-4f6f-9407-592fe09e19d5_WSP_SCR_1_V28.1_BGNight_Castle_1242x2208.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/32/57/d9/3257d950-ecde-4f57-7185-782734e57360/170fa6e3-0230-495d-ba6b-aaf643ce17da_WSP_SCR_2_V28.1_BGNight_Castle_1242x2208.jpg/392x696bb.jpg",
@@ -75189,11 +75189,11 @@
       },
       "versions": [
         {
-          "version": "30.0.0",
-          "date": "2026-06-02",
+          "version": "32.0.0",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Water Sort Puzzle-v30.0.0-riftysipas.ipa",
-          "size": 114663939
+          "downloadURL": "https://telos.ftp.sh/ipas/Water Sort Puzzle-v32.0.0-riftysipas.ipa",
+          "size": 119231338
         }
       ],
       "category": "games"
@@ -80001,7 +80001,7 @@
     {
       "title": "⚙️ Telos Update 6.30",
       "identifier": "telos-update-2026-06-30",
-      "caption": "20 Apps Updated:\n• 8 Games\n• 6 Weather\n• 4 Productivity\n• 2 Photo & Video",
+      "caption": "24 Apps Updated:\n• 8 Games\n• 6 Productivity\n• 4 Weather\n• 4 Health & Fitness\n• 2 Photo & Video",
       "date": "2026-06-30",
       "tintColor": "#02433b",
       "notify": true,
