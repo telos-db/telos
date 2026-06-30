@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.neybox.Pillow",
-    "com.unept.leveldevil",
-    "com.edjing.edjingdjturntable",
-    "com.AJNSNewMedia.KitchenStories",
-    "dog.training.woofz"
+    "com.soundcloud.TouchApp",
+    "nutrition.coach",
+    "co.codeleap.bearable",
+    "com.podfactor.pod",
+    "com.yoyoapps.weather"
   ],
   "apps": [
     {
@@ -6660,14 +6660,14 @@
       "bundleIdentifier": "co.codeleap.bearable",
       "developerName": "Bearable Ltd",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "1.0.600",
-      "versionDate": "2026-06-22",
+      "version": "1.0.601",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bearable_Symptom_Tracker_v1_0_600_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bearable_Symptom_Tracker_v1_0_601_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nBearable - Symptom Tracker\n\n---\nFeeling overwhelmed by your health? Bearable can help you feel more in control of your symptoms, flare-ups, and overall well-being.\n\nJoin over 900,000 people securely managing their Chronic Illnesses, Migraine, Pain, Headaches, Fatigue, IBS, PoTS, PCOS, EDS, Period, Mood, Mental Health and more - with Bearable.\n\nBearable helps you discover and manage triggers for changes in your health. Our simple, customizable tracking tools make it easy to understand the correlation between anything you do and",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/0f/70/400f70b8-fc67-76bf-a6cf-f2126c81f5cf/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 60404896,
+      "size": 60419954,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -6698,11 +6698,11 @@
       },
       "versions": [
         {
-          "version": "1.0.600",
-          "date": "2026-06-22",
+          "version": "1.0.601",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bearable_Symptom_Tracker_v1_0_600_Subscription_Unlocked_blatant.ipa",
-          "size": 60404896
+          "downloadURL": "https://telos.ftp.sh/ipas/Bearable_Symptom_Tracker_v1_0_601_Subscription_Unlocked_blatant.ipa",
+          "size": 60419954
         }
       ],
       "category": "health-&-fitness"
@@ -43544,14 +43544,14 @@
       "bundleIdentifier": "com.podfactor.pod",
       "developerName": "BUCKET LIST LABS S.L.",
       "subtitle": "Tweaked with MyCalendar, blatantsPatch",
-      "version": "2.106.2",
-      "versionDate": "2026-06-10",
+      "version": "2.106.3",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: MyCalendar, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Calendar_·_Planner_&_Reminders_v2_106_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Calendar_·_Planner_&_Reminders_v2_106_3_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MyCalendar, blatantsPatch\n\nCalendar · Planner & Reminders\n\n---\nThis is the simple, thoughtful app pushing the boundaries of what you expect from your calendar:\n\n- Intuitive, beautiful views of days and months\n- A single, unified view of events and reminders\n- Powerful natural language entry to quickly add events\n- History and context with any contact you're meeting\n- Supports all major calendars: Google, Exchange, iCloud, and more\n\nSUBSCRIPTIONS\n- You can subscribe for this app to get access premium features\n- Privacy & EULA can be found here :",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/12/e7/2312e7b3-e922-a00f-e745-a423eb055a78/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 22582077,
+      "size": 27536355,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -43570,11 +43570,11 @@
       },
       "versions": [
         {
-          "version": "2.106.2",
-          "date": "2026-06-10",
+          "version": "2.106.3",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: MyCalendar, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Calendar_·_Planner_&_Reminders_v2_106_2_Subscription_Unlocked_blatant.ipa",
-          "size": 22582077
+          "downloadURL": "https://telos.ftp.sh/ipas/Calendar_·_Planner_&_Reminders_v2_106_3_Subscription_Unlocked_blatant.ipa",
+          "size": 27536355
         }
       ],
       "category": "productivity"
@@ -45973,20 +45973,20 @@
       "bundleIdentifier": "nutrition.coach",
       "developerName": "Eclipse Studios",
       "subtitle": "Tweaked with NutriCoach, blatantsPatch",
-      "version": "2.1.5",
-      "versionDate": "2026-06-26",
+      "version": "2.1.6",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: NutriCoach, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_5_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_6_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NutriCoach, blatantsPatch\n\nNutrition Coach: Food tracker\n\n---\nEffortless calories counter, customized meals plan, and delicious recipes. Loose or gain weight in a sustainable way to achieve your objective.\n\nNutrition Coach is the result of 3 years of work by a team of passionate nutritionists. Our programs and calorie counter have been tested for months and approved with visible and sustainable results.\n\nHave you ever experienced a very restrictive diet almost impossible to sustain for more than a couple of days?\nHave you ever experienced weight loss follo",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/11/b3/1511b3e4-a114-2d56-8fbf-d60a8807e2ea/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/2d/ac/722dace6-698a-1d4b-cdcf-68abb6545a63/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 73540634,
+      "size": 73426397,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5c/7d/c65c7d42-9758-a9f6-b97b-864d52e346df/41392711-be29-4b4a-81aa-f2631d6bffd1_Nutricoach-screenshot-01.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/21/c6/9221c666-c6e9-cb68-430d-b07e70d8dce5/5f6ea8ed-ee1c-4a9c-9ac4-98f42fce78d0_Nutricoach-screenshot-02.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/79/c7/b279c7e0-efcb-64ec-39b4-47f2a5a9ad3a/ed4392c1-1b1b-42fe-8be0-e76978e298c6_Nutricoach-screenshot-03.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/52/97/535297f1-e910-3a39-3a92-cf54d671dfeb/4bfea753-80ce-4d1b-b6ff-a4554866e9ee_Nutricoach-screenshot-04-1.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/33/ff/ae33ffc7-09ad-93d2-506b-d4350eb3a42b/2988a673-564b-4199-b968-3be19c1827f0_Nutricoach-screenshot-05.jpg/392x696bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/c6/36/e7c63605-1d22-a72a-fac7-2c684f450697/41392711-be29-4b4a-81aa-f2631d6bffd1_Nutricoach-screenshot-01.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/2b/f2/a42bf243-4513-c8aa-acff-f4b1ece3d3ed/5f6ea8ed-ee1c-4a9c-9ac4-98f42fce78d0_Nutricoach-screenshot-02.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/68/78/336878b8-b4c6-affa-45dc-a595cadf332e/ed4392c1-1b1b-42fe-8be0-e76978e298c6_Nutricoach-screenshot-03.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/68/2a/6f682a79-3e24-6f44-bae3-d77d22ffadca/4bfea753-80ce-4d1b-b6ff-a4554866e9ee_Nutricoach-screenshot-04-1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/b5/22/45b52288-0147-365d-d721-2bad538e8b6c/2988a673-564b-4199-b968-3be19c1827f0_Nutricoach-screenshot-05.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
         "entitlements": [
@@ -46005,11 +46005,11 @@
       },
       "versions": [
         {
-          "version": "2.1.5",
-          "date": "2026-06-26",
+          "version": "2.1.6",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: NutriCoach, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_5_Subscription_Unlocked_blatant.ipa",
-          "size": 73540634
+          "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_6_Subscription_Unlocked_blatant.ipa",
+          "size": 73426397
         }
       ],
       "category": "health-&-fitness"
@@ -62216,14 +62216,14 @@
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "developerName": "SoundCloud Global Limited & Co KG",
       "subtitle": "Tweaked with SoundCloudPlus, substrate",
-      "version": "8.66.1",
-      "versionDate": "2026-06-25",
+      "version": "8.67.0",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: SoundCloudPlus, substrate, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.66.1 NoAds.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.67.0 NoAds.ipa",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: SoundCloudPlus, substrate, zxPluginsInject\n\nAppstore link : SoundCloud\n\n---\nWhat’s next in music is first on SoundCloud.\n\nBe the first to discover, play and share your favorite tracks from emerging artists\n\nAccess the world’s largest music discovery platform\n- That’s 300M+ tracks from 30M+ artists in 193 countries\n\nDiscover new music, picked just for you\n- Play curated mixes and playlists based on the music you love\n\nListen to exclusive music on SoundCloud\n- Hear tracks you can’t find anywhere else\n\nFind and connect with your music community\n- Share tracks, reach a glob",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/32/6d/ef326dd6-73ee-e52a-df14-28c43d51fd1a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 120303097,
+      "size": 120789280,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/0e/9a/790e9a39-985d-ec35-8d6b-135fc84523da/ccfb3f9a-137d-4905-827f-40c6d6726ab1_iPad_Pro_1A.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/f1/7b/58f17b47-e6f8-86a6-276c-f46dd2f735a0/57293b7c-1d2e-4ccd-a634-892d4af7f8a1_iPad_Pro_2A.png/576x768bb.png",
@@ -62278,11 +62278,11 @@
       },
       "versions": [
         {
-          "version": "8.66.1",
-          "date": "2026-06-25",
+          "version": "8.67.0",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: SoundCloudPlus, substrate, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.66.1 NoAds.ipa",
-          "size": 120303097
+          "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.67.0 NoAds.ipa",
+          "size": 120789280
         }
       ],
       "category": "music"
@@ -76651,14 +76651,14 @@
       "bundleIdentifier": "com.yoyoapps.weather",
       "developerName": "BUCKET LIST LABS S.L.",
       "subtitle": "Tweaked with Weather, blatantsPatch",
-      "version": "4.1.6",
-      "versionDate": "2026-06-01",
+      "version": "4.1.7",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: Weather, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Weather_Pro_·_Radar_Alerts_v4_1_4_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Weather_Pro_·_Radar_Alerts_v4_1_7_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Weather, blatantsPatch\n\nWeather Pro · Radar Alerts\n\n---\nExperience the weather like never before.\nWeather Pro combines elegant design with precise weather data to help you plan your day with confidence.\n\nGet real-time rain alerts, explore an interactive weather radar, and check hyperlocal forecasts for the next hours or the next 10 days — all in one beautifully designed app.\n\nKey Features:\n\nAccurate & Real-Time Forecasts\nStay ahead with precise, up-to-the-minute weather updates powered by reliable data sources.\n\nRain & Severe Weather Alerts\nReceive i",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/91/46/819146d6-f4c2-a8b2-835c-38e6f8927c57/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 95964623,
+      "size": 164435101,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/1c/8b/341c8bdb-d45d-ce69-3f9b-a943e47d2572/f31dc40f-3b64-47eb-98c7-71189ba79fa3_ECRAN_1_-_2732_x_2048.jpg/552x414bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/65/93/856593fe-b9bc-6be6-0475-9ba18710927b/2c505516-7f60-4b8d-b52b-c1a5120dbdbe_ECRAN_2_-_2732_x_2048.jpg/552x414bb.jpg",
@@ -76679,11 +76679,11 @@
       },
       "versions": [
         {
-          "version": "4.1.6",
-          "date": "2026-06-01",
+          "version": "4.1.7",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: Weather, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Weather_Pro_·_Radar_Alerts_v4_1_4_Subscription_Unlocked_blatant.ipa",
-          "size": 95964623
+          "downloadURL": "https://telos.ftp.sh/ipas/Weather_Pro_·_Radar_Alerts_v4_1_7_Subscription_Unlocked_blatant.ipa",
+          "size": 164435101
         }
       ],
       "category": "weather"
