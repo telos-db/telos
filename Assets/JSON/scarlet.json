@@ -25448,18 +25448,17 @@
       "bundleIdentifier": "com.rockwellventures.mesmerize",
       "developerName": "Rockwell Ventures",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMesmerize - Visual Meditation\n\n---\nClear your mind and relax with a unique audio-visual meditation experience.\n\nMesmerize combines engaging visuals with relaxing music and expertly crafted guided meditations to give you an all encompassing meditation experience.\n\nBENEFITS\n• Relieve Stress\n• Lower Anxiety\n• Better Sleep\n• Overcome Depression\n• Enhance Self-Awareness\n• Deeper Relaxation\n• Reduce Pain\n• Overcome Addiction\n• Increase Focus\n• In fact, there are many more proven benefits to meditation. The impact of a consistent medita",
-      "version": "2.38",
-      "versionDate": "2026-06-14T16:23:29-00:00",
-      "versionDescription": "Build 2 from @riftysIPAlibrary",
-      "size": 235055226,
+      "version": "2.42",
+      "versionDate": "2026-06-30T16:50:06-00:00",
+      "versionDescription": "Build 4 from @riftysIPAlibrary",
+      "size": 236422286,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/52/fc/9d52fc95-adb9-548e-0a8d-e6f9a45a25d7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Mesmerize - Visual Meditation-v2.38-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Mesmerize - Visual Meditation-v2.42-riftysipas.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -25467,7 +25466,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Mesmerize - Visual Meditation-v2.38-riftysipas.ipa"
+        "originalFile": "Mesmerize - Visual Meditation-v2.42-riftysipas.ipa"
       }
     },
     {
@@ -49419,13 +49418,13 @@
       "name": "YouTube Music",
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Google",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, YTMusicUltimate\n\n---\nConnecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs",
-      "version": "9.16.4",
-      "versionDate": "2026-06-16T11:44:38-00:00",
-      "versionDescription": "Build 9.16.4 from @binnichtaktivsipas",
-      "size": 101757109,
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nConnecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs",
+      "version": "9.26.2",
+      "versionDate": "2026-06-30T16:40:01-00:00",
+      "versionDescription": "Build 9.26.2 from @thescholarslounge",
+      "size": 96408168,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/77/a5/c777a50a-7115-02c7-5987-c932b877fbcb/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/YTMusicUltimate_v9.16.4.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.google.ios.youtubemusic-9.26-eeveedecrypter.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -49435,10 +49434,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
+        "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "YTMusicUltimate_v9.16.4.ipa"
+        "originalFile": "com.google.ios.youtubemusic-9.26-eeveedecrypter.ipa"
       }
     },
     {
