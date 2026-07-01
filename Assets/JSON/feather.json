@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "co.vulcanlabs.moodtracker",
+    "com.agent.super.extension.safari",
     "com.resonantcavity.Voloco",
     "com.future.kapi",
-    "com.wellocution.iosapp",
-    "com.adrise.tubitv",
-    "tv.pluto.ios"
+    "com.wellocution.iosapp"
   ],
   "apps": [
     {
@@ -12010,14 +12010,14 @@
       "bundleIdentifier": "co.vulcanlabs.moodtracker",
       "developerName": "Vulcan Labs Company Limited",
       "subtitle": "Tweaked with CydiaSubstrate, SatellaJailed",
-      "version": "8.260615.2",
-      "versionDate": "2026-06-19",
+      "version": "8.260622.1",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: CydiaSubstrate, SatellaJailed, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/AI Chatbot: AI Chat Smith 5.0-v8.260615.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AI Chatbot: AI Chat Smith 5.0-v8.260622.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, SatellaJailed, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nAI Chatbot: AI Chat Smith 5.0\n\n---\nMeet Chat Smith, your next-generation AI assistant built to think deeper, create faster, and help you achieve more. Powered by the world’s most advanced models Claude Sonnet 4.6, GPT-5.2, GPT-5, GPT-4, GPT-4o, Gemini 3, DeepSeek, and Grok-4, Chat Smith combines human-like reasoning with powerful AI chat capabilities.\n\nWhether you need an AI writer, a coding expert, or a deep research tool, Chat Smith is the all-in-one productivity assistant designed to simplify your life.\n\nAI IMAGE GENERATOR\nCre",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/8c/26/d98c267a-6757-382b-f291-5f8506ab0874/AppIcon132-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 575719474,
+      "size": 576278535,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/ad/84/6ead848d-9f09-e17d-cf0d-833042063f51/15611293-15b1-46ad-8bdf-674096229f71_GPT-screenshot-0.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/2b/e6/ad2be66c-4a9e-2797-37e6-b35d8e0c310b/f5e51d50-4299-47c3-802f-72da44729d00_GPT-screenshot-1a.jpg/576x768bb.jpg",
@@ -12044,11 +12044,11 @@
       },
       "versions": [
         {
-          "version": "8.260615.2",
-          "date": "2026-06-19",
+          "version": "8.260622.1",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/AI Chatbot: AI Chat Smith 5.0-v8.260615.2-riftysipas.ipa",
-          "size": 575719474
+          "downloadURL": "https://telos.ftp.sh/ipas/AI Chatbot: AI Chat Smith 5.0-v8.260622.1-riftysipas.ipa",
+          "size": 576278535
         }
       ],
       "category": "productivity"
@@ -66799,14 +66799,14 @@
       "bundleIdentifier": "com.agent.super.extension.safari",
       "developerName": "Super Agent, Inc",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "4.4.0",
-      "versionDate": "2026-06-25",
+      "version": "4.4.1",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_4_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_4_1_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nSuper Agent for Safari\n\n---\nTired of cookie pop-ups on every website?\n\nSuper Agent automates cookie consent based on your preferences. Set once, applies everywhere.\n\nHow it works:\nChoose your preferences for Advertising, Functional, and Performance cookies. Super Agent fills out consent forms automatically on supported sites.\nSite not working? Tap Report. AI analyzes patterns to add coverage faster—without accessing your data.\n\nFeatures:\n- Automatic consent for Safari on iOS/iPad\n- One-time setup, works across thousands of",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/b6/51/15b65158-89cb-d0a2-5af5-7440be0bde38/superagent-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/33/4b/a2334b04-5b7a-e06c-e6de-388ecc265c28/superagent-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 25835088,
+      "size": 25835039,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/08/54/730854bf-a830-da4f-b988-479c163d0558/af9c9ef5-aff8-4bfd-8d9c-289e3e771424_4.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/42/9b/47429b30-925b-13ee-d231-8bbedeba7581/e3ee2f2a-aaed-475c-bb6e-ef910d1f2ca5_5.jpg/392x696bb.jpg",
@@ -66824,11 +66824,11 @@
       },
       "versions": [
         {
-          "version": "4.4.0",
-          "date": "2026-06-25",
+          "version": "4.4.1",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_4_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 25835088
+          "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_4_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 25835039
         }
       ],
       "category": "utilities"
