@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.behindtechlines.HTTPBot",
     "co.vulcanlabs.moodtracker",
     "com.agent.super.extension.safari",
     "com.resonantcavity.Voloco",
-    "com.future.kapi",
-    "com.wellocution.iosapp"
+    "com.future.kapi"
   ],
   "apps": [
     {
@@ -30132,14 +30132,14 @@
       "bundleIdentifier": "com.behindtechlines.HTTPBot",
       "developerName": "Arvindh Sukumar",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "2026.5",
-      "versionDate": "2026-06-19",
+      "version": "2026.5.1",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/HTTPBot-v2026.5-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/HTTPBot-v2026.5.1-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nHTTPBot",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/27/ba/2427ba4d-c481-2e3c-3cdd-c6388bd88944/HTTPBot_Liquid_Glass-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 36454381,
+      "size": 36489616,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/ce/cf/1acecf1e-ecf4-3496-a5f4-a75c685e000d/ab954c30-5e7f-48f3-b487-53c28adf2a89_display_55_01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/56/6b/d6566baa-ba44-f741-0c84-6f4a027a4f30/faf011c1-ec5b-4c14-98d4-ea8475e78b24_display_55_02.jpg/392x696bb.jpg",
@@ -30157,11 +30157,11 @@
       },
       "versions": [
         {
-          "version": "2026.5",
-          "date": "2026-06-19",
+          "version": "2026.5.1",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/HTTPBot-v2026.5-riftysipas.ipa",
-          "size": 36454381
+          "downloadURL": "https://telos.ftp.sh/ipas/HTTPBot-v2026.5.1-riftysipas.ipa",
+          "size": 36489616
         }
       ],
       "category": "developer-tools"
@@ -80201,7 +80201,7 @@
     {
       "title": "⚙️ Telos Update 7.1",
       "identifier": "telos-update-2026-07-01",
-      "caption": "8 Apps Updated:\n• 4 Productivity\n• 4 Utilities",
+      "caption": "8 Apps Updated:\n• 4 Developer Tools\n• 2 Productivity\n• 2 Utilities",
       "date": "2026-07-01",
       "tintColor": "#02433b",
       "notify": true,
