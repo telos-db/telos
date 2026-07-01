@@ -2105,26 +2105,24 @@
       "bundleIdentifier": "com.alltrails.AllTrails",
       "developerName": "AllTrails, Inc.",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: AllTrailsPatch, CachefixPatch, CydiaSubstrate, NewFix1, NewFix2\n\nAllTrails\n\n---\nWhether you hike, bike, run, or walk, AllTrails is your companion and guide to the outdoors. Find detailed reviews and inspiration from a community of trailgoers like you. We’ll help you plan, live, and share your outdoor adventures.\n\nAllTrails offers more than a running app or fitness activity tracker. It helps you discover dog-friendly, kid-friendly, stroller-friendly, or wheelchair-friendly trails, and more with turn-by-turn navigation to guide you through it.\n\n◆ Discover trails: Search over",
-      "version": "26.3.50",
-      "versionDate": "2026-06-11T22:12:02-00:00",
-      "versionDescription": "Build 98801 from @binnichtaktivsipas",
-      "size": 94157619,
+      "version": "26.6.41",
+      "versionDate": "2026-07-01T10:32:02-00:00",
+      "versionDescription": "Build 104986 from @binnichtaktivsipas",
+      "size": 142088573,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/c0/52/cec052b3-8250-9122-1ed9-c36323e02cc0/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/AllTrails Pro 26.3.50.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AllTrails Pro 26.6.41.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "AllTrails Pro 26.3.50.ipa"
+        "originalFile": "AllTrails Pro 26.6.41.ipa"
       }
     },
     {
@@ -4210,13 +4208,13 @@
       "name": "Bazaart",
       "bundleIdentifier": "co.bazaart.app",
       "developerName": "Bazaart Ltd.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Bazaart, blatantsPatch\n\nBazaart AI Photo Editor Design\n\n---\nBazaart is an easy-to-use AI photo editor, video editor, and design app. No design background needed. Create fast for online selling, digital marketing, and social media. Get your design superpowers today!\n\nWhat you can make\n\nFor your business:\nProduct photos, model shots, home listings, profile pics, logos, flyers, ads, posters.\n\nFor your social media:\nReels, TikTok videos, stories, posts, slideshows, thumbnails, stop motion videos.\n\nFor your everyday life:\nCollages, cards, invitations, memes,",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: BazaartAIPhotoEditorDesignPatch\n\nBazaart: Design, Photo & Video\n\n---\nBazaart is an easy-to-use AI photo editor, video editor, and design app. No design background needed. Create fast for online selling, digital marketing, and social media. Get your design superpowers today!\n\nWhat you can make\n\nFor your business:\nProduct photos, model shots, home listings, profile pics, logos, flyers, ads, posters.\n\nFor your social media:\nReels, TikTok videos, stories, posts, slideshows, thumbnails, stop motion videos.\n\nFor your everyday life:\nCollages, cards, invitations, memes,",
       "version": "26.3.7",
-      "versionDate": "2026-06-28T08:58:05-00:00",
-      "versionDescription": "Build 1336 from @blatants",
-      "size": 102653914,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/36/5e/2c365e0a-3c3f-821c-08f7-09531a512ced/Bazaart_Icon_v3-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bazaart_AI_Photo_Editor_Design_v26_3_7_Premium_Unlocked_blatant.ipa",
+      "versionDate": "2026-07-01T10:28:24-00:00",
+      "versionDescription": "Build 1336 from @binnichtaktivsipas",
+      "size": 102836614,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/aa/ee/58aaee6f-bae7-5a3b-40fa-af0639a50cd7/Bazaart_Icon_v3-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bazaart Premium 26.3.7.ipa",
       "minOSVersion": "16",
       "supportedPlatforms": [
         "iOS"
@@ -4226,10 +4224,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Bazaart_AI_Photo_Editor_Design_v26_3_7_Premium_Unlocked_blatant.ipa"
+        "originalFile": "Bazaart Premium 26.3.7.ipa"
       }
     },
     {
@@ -4645,6 +4643,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "BetterSleep Premium 24.10.ipa"
+      }
+    },
+    {
+      "name": "BHTikTokPlus [BHTikTok]",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "TikTok Ltd.",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: AutoCacheDelete, BH++Fix, BHTikTokPlus, CydiaSubstrate\n\nBHTikTokPlus\n\n---\nTikTok is the global discovery platform for videos, streaming on LIVE, shopping, and more. Our mission is to inspire creativity and bring joy. Over a billion people come to TikTok to share what they love, learn new things, and find ideas that make everyday life more interesting.\n\nYour experience on TikTok is built around what you're into, not who you know. Just watch, like, and scroll to discover videos, creators, and communities you are delighted to discover. From quick recipes to game highligh",
+      "version": "45.8.0",
+      "versionDate": "2026-07-01T10:21:41-00:00",
+      "versionDescription": "Build 458026 from @binnichtaktivsipas",
+      "size": 434535936,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c5/9f/6bc59f11-c2c3-1009-e18b-0033c4ef4d61/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/BHTikTokPlus 45.8.0.ipa",
+      "minOSVersion": "14.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "BHTikTokPlus 45.8.0.ipa"
       }
     },
     {
@@ -8107,13 +8131,13 @@
       "name": "Clarity",
       "bundleIdentifier": "com.moodtools.thoughtdiary",
       "developerName": "Inquiry Health LLC",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Clarity, blatantsPatch\n\nClarity: CBT Self Help Journal\n\n---\nClarity is your all-in-one mental health hub for managing stress, anxiety, and low mood. Learn what affects your mood, develop healthier thought patterns, problem solve with the AI chatbot, practice effective coping skills, build resilience, and foster personal growth.\n\nHOW IT WORKS\nClarity is built on proven methods widely studied and endorsed in the world of mental health. The core principle is simple yet powerful: by understanding and changing your thoughts, you can better manage your emotion",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Clarity\n\nClarity - CBT Thought Diary\n\n---\nClarity is your all-in-one mental health hub for managing stress, anxiety, and low mood. Learn what affects your mood, develop healthier thought patterns, problem solve with the AI chatbot, practice effective coping skills, build resilience, and foster personal growth.\n\nHOW IT WORKS\nClarity is built on proven methods widely studied and endorsed in the world of mental health. The core principle is simple yet powerful: by understanding and changing your thoughts, you can better manage your emotion",
       "version": "5.5.23",
-      "versionDate": "2026-06-30T21:34:10-00:00",
-      "versionDescription": "Build 252 from @blatants",
-      "size": 160222276,
+      "versionDate": "2026-07-01T09:14:33-00:00",
+      "versionDescription": "Build 252 from @binnichtaktivsipas",
+      "size": 158302201,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/11/05/8b11052e-adef-2bcc-b346-9b72621d9e91/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Clarity_CBT_Self_Help_Journal_v5_5_23_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Clarity Pro 5.5.23.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -8123,10 +8147,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Clarity_CBT_Self_Help_Journal_v5_5_23_Pro_Unlocked_blatant_Patched.ipa"
+        "originalFile": "Clarity Pro 5.5.23.ipa"
       }
     },
     {
@@ -14882,13 +14906,13 @@
       "name": "Flightradar24",
       "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
       "developerName": "Flightradar24 AB",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FlightRadar24, blatantsPatch\n\nFlightradar24 | Flight Tracker\n\n---\nThe world's best flight tracker app - #1 Travel app in over 150 countries.\n\nTurn your iPhone or iPad into a live flight tracker and see planes around the world move in real-time on a detailed map. Or point your device at a plane to find out where it’s going and what kind of aircraft it is. Download for free today and discover why millions are already tracking flights and checking flight status with Flightradar24.\n\n• Watch aircraft move around the world in real-time\n• Identify flights overhead &",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: FlightRadar24\n\nFlightradar24 | Flight Tracker\n\n---\nThe world's best flight tracker app - #1 Travel app in over 150 countries.\n\nTurn your iPhone or iPad into a live flight tracker and see planes around the world move in real-time on a detailed map. Or point your device at a plane to find out where it’s going and what kind of aircraft it is. Download for free today and discover why millions are already tracking flights and checking flight status with Flightradar24.\n\n• Watch aircraft move around the world in real-time\n• Identify flights overhead &",
       "version": "11.7.0",
-      "versionDate": "2026-06-30T14:06:52-00:00",
-      "versionDescription": "Build 202606291238 from @blatants",
-      "size": 226230441,
+      "versionDate": "2026-07-01T09:27:49-00:00",
+      "versionDescription": "Build 202606291238 from @binnichtaktivsipas",
+      "size": 221509754,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/b3/73/6bb373e1-59b0-c48d-9a73-496ef19967a1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Flightradar24_Flight_Tracker_v11_7_0_Gold_Lifetime_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Flightradar Gold 11.7.0.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -14898,10 +14922,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Flightradar24_Flight_Tracker_v11_7_0_Gold_Lifetime_blatant_Patched.ipa"
+        "originalFile": "Flightradar Gold 11.7.0.ipa"
       }
     },
     {
@@ -20678,14 +20702,14 @@
       "name": "IPTV Expert",
       "bundleIdentifier": "com.iptv.player",
       "developerName": "LIFTOFF",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: Fixipa1, Fixipa2, iPTVSy, substrate\n\napplication IPTV Expert\n\n---\nIPTV Expert: The Ultimate IPTV Player for Seamless Streaming\nAre you tired of unsatisfactory IPTV players? Meet IPTV Expert, the ultimate IPTV player designed for peak performance. Loved and trusted by thousands, IPTV Expert supports all IPTV providers and media content, offering you unmatched viewing pleasure.\n\nWhy Choose IPTV Expert?\n• Easy Playlist Import: Effortlessly import M3U/M3U8 playlists via URL, Xtream Codes API, or Stalker Portal.\n• Superior Sorting: Automatically categorizes your pl",
-      "version": "8.13.6",
-      "versionDate": "2026-02-28T06:46:49-00:00",
-      "versionDescription": "Build 249 from @thescholarslounge",
-      "size": 37255073,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9d/d8/929dd8a9-2170-d196-dbbf-7031b445a9db/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/IPTV.Expert_8.13.6_3BodSy.ipa",
-      "minOSVersion": "10.0",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26\n\nIPTV Smarters Player Expert\n\n---\nIPTV Expert: The Ultimate IPTV Player for Seamless Streaming\nAre you tired of unsatisfactory IPTV players? Meet IPTV Expert, the ultimate IPTV player designed for peak performance. Loved and trusted by thousands, IPTV Expert supports all IPTV providers and media content, offering you unmatched viewing pleasure.\n\nWhy Choose IPTV Expert?\n• Easy Playlist Import: Effortlessly import M3U/M3U8 playlists via URL, Xtream Codes API, or Stalker Portal.\n• Superior Sorting: Automatically categorizes your pl",
+      "version": "10.0.5",
+      "versionDate": "2026-07-01T10:34:17-00:00",
+      "versionDescription": "Build 275 from @binnichtaktivsipas",
+      "size": 47137175,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/6c/23/fe6c2355-3695-a8bd-b8e0-6a3d629e3af5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/IPTV Smarters Player Expert Pro 10.0.5.ipa",
+      "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -20694,10 +20718,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@thescholarslounge",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "IPTV Expert_8.13.6_3BodSy.ipa"
+        "originalFile": "IPTV Smarters Player Expert Pro 10.0.5.ipa"
       }
     },
     {
@@ -21448,6 +21472,31 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Karteto_0.7.0_tg@Sa1y0miii.ipa"
+      }
+    },
+    {
+      "name": "Kegel Exercises",
+      "bundleIdentifier": "games.calico.mantracker",
+      "developerName": "Sebastien Menozzi",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nDr Kegel 2: Men Health Edition\n\n---\nWe at Kegel Exercises believe every man deserves the confidence and vitality that comes with robust personal health. Our app offers a science-backed, holistic approach to strengthening your pelvic floor muscles, improving stamina, and elevating your overall well-being. With consistent effort, you can reclaim control over your wellness and enjoy the benefits of a revitalized lifestyle.\n\nWHAT MAKES Kegel Exercises THE ULTIMATE SOLUTION FOR MEN?\n1. Effective Kegel Exercises Made Simple\nTransform yo",
+      "version": "1.0.13",
+      "versionDate": "2026-07-01T09:09:55-00:00",
+      "versionDescription": "Build 182 from @binnichtaktivsipas",
+      "size": 140410437,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/7b/8d/c37b8d94-310d-e34f-5f54-24674e228ca8/AppIcon-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Dr Kegel 2 Pro 1.0.13.ipa",
+      "minOSVersion": "15.1",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Dr Kegel 2 Pro 1.0.13.ipa"
       }
     },
     {
@@ -22518,12 +22567,12 @@
       "bundleIdentifier": "com.huami.LoadController",
       "developerName": "LCS Family of Companies",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\n本次更新：\n\n---\nAt LCS, we strive to lead the way in making a difference in people's lives. Our LCS Live Well app offers you easy access to company opportunities and communication such as:\n- Connecting with LCS\n- Career Opportunities\n- Conferences\n- LCS News",
-      "version": "1.1",
-      "versionDate": "2026-06-27T12:20:52-00:00",
-      "versionDescription": "Build 8 from @thescholarslounge",
-      "size": 18793401,
+      "version": "1.2",
+      "versionDate": "2026-07-01T09:05:29-00:00",
+      "versionDescription": "Build 1 from @thescholarslounge",
+      "size": 19343968,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/5f/da/9d5fda4b-0687-345d-f5be-49110d55be85/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/LCSign-1.1-8.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LCSign-1.2-1.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -22536,7 +22585,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "LCSign-1.1-8.ipa"
+        "originalFile": "LCSign-1.2-1.ipa"
       }
     },
     {
@@ -27683,16 +27732,16 @@
       }
     },
     {
-      "name": "NC v18.200.19",
+      "name": "NC v18.400.7",
       "bundleIdentifier": "nt.nc.ios",
-      "developerName": "TRANSPORTATION, NORTH CAROLINA DEPARTMENT OF",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nNull's Clash\n\n---\nNC Quick Pass makes it easy to pay tolls in 19 states.\n\nWith the app easily:\n - Pay a toll invoice\n - Manage your account\n - Set HOV status\n - Order a transponder and save 50% on tolls in North Carolina",
-      "version": "18.200.19",
-      "versionDate": "2026-06-11T19:13:44-00:00",
-      "versionDescription": "Build 18.200.19 from @binnichtaktivsipas",
-      "size": 415208741,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/78/58/457858a5-a3a4-3455-0683-fb3fac7c1e07/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Null's Clash 18.200.19.ipa",
+      "developerName": "Driver-Start.Com",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nNull's Clash\n\n---\nSpecific for North Carolina.\nBased on North Carolina DMV Manual.\n\nThis application is professionally created for the people who want save their time, prepare in couple hours and pass North Carolina Driver Knowledge Test on the first attempt. This application runs on iPhone/iPad/iPod and doesn't require an Internet connection. You can download this helpful application and use it anywhere when you have a free moment.\n\nFEATURES\n\nChoose the convenient way to study:\n- Flashcards.\n- List with all ques",
+      "version": "18.400.7",
+      "versionDate": "2026-07-01T10:51:43-00:00",
+      "versionDescription": "Build 18.400.7 from @binnichtaktivsipas",
+      "size": 461276778,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/69/b8/5c/69b85cb6-adf9-e370-9261-39ae0847df17/AppIcon-1x_U007emarketing-85-220-0-8.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Null's Clash 18.400.7.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -27705,7 +27754,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Null's Clash 18.200.19.ipa"
+        "originalFile": "Null's Clash 18.400.7.ipa"
       }
     },
     {
@@ -31043,12 +31092,12 @@
       "bundleIdentifier": "com.tickettothemoon.video.persona",
       "developerName": "Ticket To The Moon, Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPersona: Beauty Camera\n\n---\nMaster your look with Persona - a professional beauty camera and editor crafted for perfection. Smart AI and powerful tools deliver flawless photos and videos effortlessly, live or in edits.\n\nMAIN FEATURES:\n\n • Face Beauty Filters: Choose from dozens of filters to smooth skin, add a bright glow, or perfect your look naturally - instant with one click, for photos and videos.\n • Hair Upgrades: Boost volume or switch to new hairstyles fast, works on any shot.\n • Body Tuning: Shape your figure a bit",
-      "version": "1.15.40",
-      "versionDate": "2026-06-19T16:51:01-00:00",
-      "versionDescription": "Build 2358 from @riftysIPAlibrary",
-      "size": 188577879,
+      "version": "1.15.42",
+      "versionDate": "2026-07-01T11:00:14-00:00",
+      "versionDescription": "Build 2368 from @riftysIPAlibrary",
+      "size": 201369581,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/c0/40/2fc040d4-f7ce-f0c0-2743-147d41eb8b54/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.40-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.42-riftysipas.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -31061,7 +31110,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Persona: Beauty Camera-v1.15.40-riftysipas.ipa"
+        "originalFile": "Persona: Beauty Camera-v1.15.42-riftysipas.ipa"
       }
     },
     {
@@ -31172,18 +31221,17 @@
       "bundleIdentifier": "com.diagnostics.ios",
       "developerName": "HITEK_NOVA",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: SatellaJailed\n\nPhone Diagnostics\n\n---\nPhone diagnostics helps the end user to easily test and check the functionalities of mobile devices before buying, sending to repair shop, or after repair.\n\nIt helps to find the repair shop near you.\n\nThis app can also be used by QC in repair shop or refurbish factory.\nMost of the refurbish/repair factory is using manual QC process. The QC staff tends to skip/miss the test items and some items need several steps to perform one test case. With this app you can improve the quality and productivity",
-      "version": "4.1.1",
-      "versionDate": "2026-06-11T01:45:31-00:00",
-      "versionDescription": "Build 889 from @binnichtaktivsipas",
-      "size": 17004185,
+      "version": "4.1.7",
+      "versionDate": "2026-07-01T10:38:59-00:00",
+      "versionDescription": "Build 906 from @binnichtaktivsipas",
+      "size": 12919012,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/02/ad/cc02ade8-9ac5-d52d-7ff0-fb36eb7d8233/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Phone Diagnostics IAP 4.1.1.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Phone Diagnostics IAP 4.1.7.ipa",
       "minOSVersion": "12",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -31191,7 +31239,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Phone Diagnostics IAP 4.1.1.ipa"
+        "originalFile": "Phone Diagnostics IAP 4.1.7.ipa"
       }
     },
     {
@@ -31795,13 +31843,13 @@
       "name": "Picsart",
       "bundleIdentifier": "com.picsart.studio",
       "developerName": "PicsArt, Inc.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Picsart, blatantsPatch, sideloadKeychainfix\n\nPicsart AI Photo Editor, Video\n\n---\nIgnite your creative potential with Picsart — the all-in-one AI photo editor, AI video editor, and design studio that’s free and easy to use. From business designs to AI art, go from inspiration to creation fast. Create with an AI photo generator and AI video generator, edit with an AI image editor, remove backgrounds with Background Remover (BG remover), erase objects with Object Remover (Object Eraser), apply AI effects, filters, and retouch tools, and turn ideas into designs with templates, c",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Picsart\n\nPicsart AI Photo Video Editor\n\n---\nIgnite your creative potential with Picsart — the all-in-one AI photo editor, AI video editor, and design studio that’s free and easy to use. From business designs to AI art, go from inspiration to creation fast. Create with an AI photo generator and AI video generator, edit with an AI image editor, remove backgrounds with Background Remover (BG remover), erase objects with Object Remover (Object Eraser), apply AI effects, filters, and retouch tools, and turn ideas into designs with templates, c",
       "version": "30.2.1",
-      "versionDate": "2026-06-30T21:28:23-00:00",
-      "versionDescription": "Build 30201 from @blatants",
-      "size": 112514149,
+      "versionDate": "2026-07-01T10:38:16-00:00",
+      "versionDescription": "Build 30201 from @binnichtaktivsipas",
+      "size": 105474135,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/86/9e/0f869ee2-ca40-a713-6cc4-4cb2bcdc82de/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_2_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Picsart Pro 30.2.1.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -31811,10 +31859,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Picsart_AI_Photo_Editor,_Video_v30_2_1_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Picsart Pro 30.2.1.ipa"
       }
     },
     {
@@ -32450,12 +32498,12 @@
       "bundleIdentifier": "com.mobivalley.LookAroundApp",
       "developerName": "Mobivalley",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: PlaceGuesserPro\n\nPlace Guesser\n\n---\nYou are dropped somewhere in the world in and you have to find clues and guess your location on the world map.\n\nEmbark on a thrilling global adventure with our immersive travel game!\n\nExplore the world like never before with our two exciting game modes: Quick Play and Country Streak.\nIn Quick Play, test your observation skills and race against the clock to guess your location based on captivating 360° panorama look around view images.\n\nWant to challenge your geographical knowledge even further?",
-      "version": "1.54.0",
-      "versionDate": "2026-06-10T21:30:29-00:00",
-      "versionDescription": "Build 4 from @binnichtaktivsipas",
-      "size": 46349234,
+      "version": "1.55.0",
+      "versionDate": "2026-07-01T09:19:03-00:00",
+      "versionDescription": "Build 3 from @binnichtaktivsipas",
+      "size": 50420603,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/15/75/30157593-4bfe-119c-b4a7-85c8de092b4a/app_icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Place Guesser Pro 1.54.0.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Place Guesser Pro 1.55.0.ipa",
       "minOSVersion": "17.6",
       "supportedPlatforms": [
         "iOS"
@@ -32468,7 +32516,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Place Guesser Pro 1.54.0.ipa"
+        "originalFile": "Place Guesser Pro 1.55.0.ipa"
       }
     },
     {
@@ -32501,19 +32549,18 @@
       "name": "Plane Finder",
       "bundleIdentifier": "uk.co.leeus.planefinderfree",
       "developerName": "pinkfroot limited",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, PlaneFinderPatch\n\nPlane Finder ⁃ Flight Tracker\n\n---\nUncover the mysteries of live air traffic in one beautiful and easy to use app. Is it a bird? Is it a plane?! If it’s the latter, Plane Finder can tell you exactly which plane it is.\n\nPlane Finder is incredibly easy to use and utterly fascinating. It enables you to see live air traffic patterns with real-time tracking of almost any plane you’re interested in, and in addition to the aircraft’s location you can see its current altitude, its speed and where it’s heading.\n\nGet live information on fl",
-      "version": "2026.2.4",
-      "versionDate": "2026-06-11T22:26:41-00:00",
-      "versionDescription": "Build 4242 from @binnichtaktivsipas",
-      "size": 95180443,
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, PlaneFinderPatch, blatantsPatch\n\nPlane Finder ⁃ Flight Tracker\n\n---\nUncover the mysteries of live air traffic in one beautiful and easy to use app. Is it a bird? Is it a plane?! If it’s the latter, Plane Finder can tell you exactly which plane it is.\n\nPlane Finder is incredibly easy to use and utterly fascinating. It enables you to see live air traffic patterns with real-time tracking of almost any plane you’re interested in, and in addition to the aircraft’s location you can see its current altitude, its speed and where it’s heading.\n\nGet live information on fl",
+      "version": "2026.3.1",
+      "versionDate": "2026-07-01T09:22:03-00:00",
+      "versionDescription": "Build 4249 from @binnichtaktivsipas",
+      "size": 95805153,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/30/87/f7308769-5101-6a7b-4c2e-5d3d7b2aac18/AppLiveIcon-0-1x_U007epad-0-1-0-0-sRGB-GLES2_U002c0-512MB-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Plane Finder Premium 2026.2.4.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Plane Finder Premium 2026.3.1.ipa",
       "minOSVersion": "17.5",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -32521,7 +32568,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Plane Finder Premium 2026.2.4.ipa"
+        "originalFile": "Plane Finder Premium 2026.3.1.ipa"
       }
     },
     {
@@ -36911,26 +36958,25 @@
       "bundleIdentifier": "com.shapr3d.shapr",
       "developerName": "Shapr3D Zrt",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Shapr3DPatch\n\nShapr 3D CAD modeling\n\n---\nFrom design to manufacturing. Teams collaborate with more impact. Instinctive design meets multidevice capability and full interoperability for the ultimate 3D design workflow.\n\nAll platforms\nPick your device and your input tool leveraging the first CAD tool envisioned for multidevice. Hybrid workflow meets cross-functional team processes with automatic sync across devices. Work from any device or offline: design and collaborate at your best, everywhere.\n\nCompact tools. Space for focus.\nAn adapt",
-      "version": "26.50.0",
-      "versionDate": "2026-06-14T19:19:18-00:00",
-      "versionDescription": "Build 10685 from @binnichtaktivsipas",
-      "size": 1183310527,
+      "version": "26.113.0",
+      "versionDate": "2026-07-01T09:55:56-00:00",
+      "versionDescription": "Build 11178 from @binnichtaktivsipas",
+      "size": 1330780518,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/dc/90/14dc90c9-2b5e-24f9-ea1e-7def8dce4bb2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Shapr Pro 26.50.0.ipa",
-      "minOSVersion": "16.0",
+      "downloadURL": "https://telos.ftp.sh/ipas/Shapr Pro 26.113.0.ipa",
+      "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        2,
+        1
       ],
       "metadata": {
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Shapr Pro 26.50.0.ipa"
+        "originalFile": "Shapr Pro 26.113.0.ipa"
       }
     },
     {
@@ -43477,14 +43523,14 @@
       "name": "Threads",
       "bundleIdentifier": "com.burbn.barcelona",
       "developerName": "Instagram, Inc.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2, ThreadSaver, blatantsPatch\n\n---\nDiscover new perspectives and connect through conversation on Threads.\n\nSee what people are talking about right now—from niche interests to big moments. With communities, you can find people who also care about your interests on Threads. Reply, listen, share or just follow along.\n\nHere’s what you can do on Threads:\n\n■ Start a thread, share your take\nHave something on your mind? Take it to Threads. Share a thought, ask a question or open up a conversation. There’s more than one way to kick things",
-      "version": "431.0.0",
-      "versionDate": "2026-06-16T10:55:29-00:00",
-      "versionDescription": "Build 979167741 from @binnichtaktivsipas",
-      "size": 95855801,
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2, ThreadSaver, blatantsPatch\n\nThreads\n\n---\nDiscover new perspectives and connect through conversation on Threads.\n\nSee what people are talking about right now—from niche interests to big moments. With communities, you can find people who also care about your interests on Threads. Reply, listen, share or just follow along.\n\nHere’s what you can do on Threads:\n\n■ Start a thread, share your take\nHave something on your mind? Take it to Threads. Share a thought, ask a question or open up a conversation. There’s more than one way to kick things",
+      "version": "436.0.0",
+      "versionDate": "2026-07-01T09:17:28-00:00",
+      "versionDescription": "Build 1005037864 from @binnichtaktivsipas",
+      "size": 95311330,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/8d/03/828d0384-e59f-86a9-6d60-7d9d99ce7a82/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Threads_431.0.0_ThreadSaver.ipa",
-      "minOSVersion": "10.0",
+      "downloadURL": "https://telos.ftp.sh/ipas/ThreadSaver 436.0.0.ipa",
+      "minOSVersion": "16.3",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -43495,7 +43541,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Threads_431.0.0_ThreadSaver.ipa"
+        "originalFile": "ThreadSaver 436.0.0.ipa"
       }
     },
     {
@@ -43784,32 +43830,6 @@
       }
     },
     {
-      "name": "TikTok [BHTikTok]",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "TikTok Ltd.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BHTikTok, CydiaSubstrate, FLEX, FLEXing, blatantsPatch\n\nTikTok - Videos, Shop & LIVE\n\n---\nTikTok is the global discovery platform for videos, streaming on LIVE, shopping, and more. Our mission is to inspire creativity and bring joy. Over a billion people come to TikTok to share what they love, learn new things, and find ideas that make everyday life more interesting.\n\nYour experience on TikTok is built around what you're into, not who you know. Just watch, like, and scroll to discover videos, creators, and communities you are delighted to discover. From quick recipes to game highligh",
-      "version": "45.8.0",
-      "versionDate": "2026-06-29T10:51:30-00:00",
-      "versionDescription": "Build 458026 from @blatants",
-      "size": 446399534,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c5/9f/6bc59f11-c2c3-1009-e18b-0033c4ef4d61/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_8_0_BHTikTok++_v1_9_3_blatant_Patched.ipa",
-      "minOSVersion": "14.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@blatants",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "TikTok_Videos,_Shop_&_LIVE_v45_8_0_BHTikTok++_v1_9_3_blatant_Patched.ipa"
-      }
-    },
-    {
       "name": "TikTok [LRD]",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok Ltd.",
@@ -43839,13 +43859,13 @@
       "name": "TikTok [VibeTok]",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok Ltd.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, VibeTok, blatantsPatch, sideloadKeychainfixBlatants\n\nTikTok - Videos, Shop & LIVE\n\n---\nTikTok is the global discovery platform for videos, streaming on LIVE, shopping, and more. Our mission is to inspire creativity and bring joy. Over a billion people come to TikTok to share what they love, learn new things, and find ideas that make everyday life more interesting.\n\nYour experience on TikTok is built around what you're into, not who you know. Just watch, like, and scroll to discover videos, creators, and communities you are delighted to discover. From quick recipes to game highligh",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: AutoCacheDelete, CydiaSubstrate, VibeTok\n\nVibeTok\n\n---\nTikTok is the global discovery platform for videos, streaming on LIVE, shopping, and more. Our mission is to inspire creativity and bring joy. Over a billion people come to TikTok to share what they love, learn new things, and find ideas that make everyday life more interesting.\n\nYour experience on TikTok is built around what you're into, not who you know. Just watch, like, and scroll to discover videos, creators, and communities you are delighted to discover. From quick recipes to game highligh",
       "version": "45.8.0",
-      "versionDate": "2026-06-29T10:37:25-00:00",
-      "versionDescription": "Build 458026 from @blatants",
-      "size": 445734375,
+      "versionDate": "2026-07-01T10:10:06-00:00",
+      "versionDescription": "Build 458026 from @binnichtaktivsipas",
+      "size": 434079400,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c5/9f/6bc59f11-c2c3-1009-e18b-0033c4ef4d61/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_8_0_VibeTok_v1_72_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/VibeTok 45.8.0.ipa",
       "minOSVersion": "14.0",
       "supportedPlatforms": [
         "iOS"
@@ -43855,10 +43875,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "TikTok_Videos,_Shop_&_LIVE_v45_8_0_VibeTok_v1_72_blatant_Patched.ipa"
+        "originalFile": "VibeTok 45.8.0.ipa"
       }
     },
     {
@@ -46437,12 +46457,12 @@
       "bundleIdentifier": "com.videobrowser.ios",
       "developerName": "Video Lite, Inc.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, VideoLite, blatantsPatch\n\nVideo Lite\n\n---\nVideo Lite is an all-in-one browser for video websites that lets you:\n\n• Experience a seamless, native app experience\n• Chromecast on iOS\n• Picture-in-picture mode\n• Dark mode\n• Sleep timer and more\n\nTerms of service:",
-      "version": "623000",
-      "versionDate": "2026-06-19T22:21:41-00:00",
-      "versionDescription": "Build 623000 from @blatants",
-      "size": 39669645,
+      "version": "623200",
+      "versionDate": "2026-07-01T09:07:38-00:00",
+      "versionDescription": "Build 623200 from @blatants",
+      "size": 41102249,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/e1/87/c8e1876d-631e-705b-8fe2-84095dd50ca3/AppIcon.Bolt.TV.Light-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Video Lite v6.23.000 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Video Lite v6.23.200 Pro Unlocked blatant Patched.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -46455,7 +46475,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Video Lite v6.23.000 Pro Unlocked blatant Patched.ipa"
+        "originalFile": "Video Lite v6.23.200 Pro Unlocked blatant Patched.ipa"
       }
     },
     {
@@ -49466,13 +49486,13 @@
       "name": "YouTube Music",
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Google",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nConnecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMusicUltimate, blatantsPatch\n\nYTMusicUltimate\n\n---\nConnecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs",
       "version": "9.26.2",
-      "versionDate": "2026-06-30T16:40:01-00:00",
-      "versionDescription": "Build 9.26.2 from @thescholarslounge",
-      "size": 96408168,
+      "versionDate": "2026-07-01T10:23:55-00:00",
+      "versionDescription": "Build 9.26.2 from @binnichtaktivsipas",
+      "size": 100227409,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/77/a5/c777a50a-7115-02c7-5987-c932b877fbcb/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.google.ios.youtubemusic-9.26-eeveedecrypter.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/YouTube Music Ultimate 9.26.2.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -49482,10 +49502,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@thescholarslounge",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "com.google.ios.youtubemusic-9.26-eeveedecrypter.ipa"
+        "originalFile": "YouTube Music Ultimate 9.26.2.ipa"
       }
     },
     {
