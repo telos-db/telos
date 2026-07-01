@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.app-livity",
-    "com.stromming.Plants",
-    "com.joincarbon.nutrition",
-    "com.fluffyfairygames.idleminertycoon",
-    "com.awave.noisemachine"
+    "br.com.marcosatanaka.music-harbor",
+    "RVS-Riverside.fm",
+    "games.urmobi.found.it",
+    "com.jakemor.firness-ai",
+    "com.atebits.Tweetie2"
   ],
   "apps": [
     {
@@ -5017,6 +5017,47 @@
           "localizedDescription": "Source: @thescholarslounge",
           "downloadURL": "https://telos.ftp.sh/ipas/com.insideinternet.Asobi-1.3.6-eeveedecrypter.ipa",
           "size": 293543870
+        }
+      ],
+      "category": "games"
+    },
+    {
+      "name": "ASolver",
+      "bundleIdentifier": "ru.bnice.asolver-ios",
+      "developerName": "B-Nice Soft",
+      "subtitle": "ASolver for iOS",
+      "version": "25.09.271",
+      "versionDate": "2026-07-01",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/ru.bnice.asolver-ios-25.09.27-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nTake a photo of your Magic Cube with the camera and see how to solve the puzzle.\n\nThe 100 patterns on the Magic Cube will not leave you indifferent.\n\nIncredible Feature! Some puzzles have been broken - disassembled and reassembled incorrectly. Such puzzles are impossible to solve. ASolver knows how to solve and fix such a puzzle.\n\nThe app uses the camera to recognize and solve puzzles:\n - 3x3x3 Magic Cube (Speed Cube, Puzzle Cube)\n - 2x2x2 Pocket Cube (Mini Cube)\n - 4x4x4 Rubik's Revenge (Master",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/ed/8e/06ed8e37-d0bb-51a7-7330-cfe7d847e052/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 50134066,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/0d/a8/880da8eb-7186-5762-5091-ca920d12ccc5/ce103207-4b80-4f41-8de5-c6e935c493e6__0.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/57/6c/a0576c4a-1e8f-9926-1cc5-f82826a1f15e/78efd4d8-e8f1-416a-93bf-ca8e970d81fa_1242x2208_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/7e/e8/427ee881-0711-5f6c-464e-69c98a9e5f4f/7b399fd7-1a38-427b-929d-4ca1ed37a806_en_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/d1/5a/17d15aab-67ad-c671-7563-000e447b95f1/2b06365f-0ecf-42eb-9dda-90a6b8c27db7_en_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/07/93/b0079335-24a8-2678-d188-99b667443411/d55733da-2bd6-4d7b-b349-30a3beefcb19_en_4.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "ASolver needs permission to access the camera to recognize puzzles",
+          "NSMicrophoneUsageDescription": "ASolver needs permission to access the camera to recognize puzzles",
+          "NSLocationWhenInUseUsageDescription": "ASolver needs your location for analytics and advertising purposes",
+          "NSCalendarsUsageDescription": "ASolver needs your calendar to provide personalised advertising experience tailored to you",
+          "NSUserTrackingUsageDescription": "ASolver needs your advertising identifier to provide personalised advertising experience tailored to you"
+        }
+      },
+      "versions": [
+        {
+          "version": "25.09.271",
+          "date": "2026-07-01",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/ru.bnice.asolver-ios-25.09.27-eeveedecrypter.ipa",
+          "size": 50134066
         }
       ],
       "category": "games"
@@ -23170,14 +23211,14 @@
       "bundleIdentifier": "com.jakemor.firness-ai",
       "developerName": "FitnessAI Inc.",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "20.2",
-      "versionDate": "2026-06-20",
+      "version": "20.3",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v20_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v20_3_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nFitness AI Gym Workout Planner\n\n---\nWorkout at home or at the gym with FitnessAI’s advanced training algorithm to guide you through the perfect set, rep and weight combination to reach your fitness goals.\n\n● Get results with whatever equipment you have available to you. Whether your fitness goals are to build muscle, get toned or lose weight fast, FitnessAI is the simplest way to access a world class training regiment.\n\n● Our easy to follow gym and home workouts are backed by data, not intuition. FitnessAI’s simple layout allows f",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/1b/f6/7d1bf61c-4f64-1779-871a-3e7fbddf5c7a/AppIcon-0-1x_U007ephone-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 65314846,
+      "size": 65216062,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -23205,11 +23246,11 @@
       },
       "versions": [
         {
-          "version": "20.2",
-          "date": "2026-06-20",
+          "version": "20.3",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v20_2_Subscription_Unlocked_blatant.ipa",
-          "size": 65314846
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v20_3_Subscription_Unlocked_blatant.ipa",
+          "size": 65216062
         }
       ],
       "category": "health-&-fitness"
@@ -25311,14 +25352,14 @@
       "bundleIdentifier": "games.urmobi.found.it",
       "developerName": "Lion Studios Plus",
       "subtitle": "Tweaked with CydiaSubstrate, SatellaJailed",
-      "version": "1.70.9",
-      "versionDate": "2026-06-23",
+      "version": "1.71.59",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: CydiaSubstrate, SatellaJailed, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Found It! Hidden Object Game-v1.70.9-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Found It! Hidden Object Game-v1.71.59-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, SatellaJailed, fixipa1, fixipa2, popuprifty\n\nFound It! Hidden Object Game\n\n---\nAre you ready to experience the most addictive hidden objects game right now?\n\nFind all hidden objects by moving around the interactive maps and completing quests to unlock new colorful locations. Found It! is a fun and engaging hidden picture game that exercises your brain and promotes problem-solving skills.\n\nFound It is a new search and find bright hidden object game where you should solve the objects puzzles and unlock new maps for free. All you need to do is to focus on the requested item,",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/a5/e7/b0a5e757-bbaf-05f6-8195-f8ea69a15c9f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 247245257,
+      "size": 234673062,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/ab/2f/7dab2f4f-09a0-e243-759b-bd4b36d3ac33/31f37689-5a29-47e3-bc36-0ebfc5c2eaed_FNI_aso_screenshots_07_en_static_1242x2208.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/e7/5f/97e75f22-2b1b-f505-ad90-9ca9cb357fb9/d42053b6-4356-44d3-ad2d-b32247293b03_FNI_aso_screenshots_06_en_static_1242x2208.png/392x696bb.png",
@@ -25340,11 +25381,11 @@
       },
       "versions": [
         {
-          "version": "1.70.9",
-          "date": "2026-06-23",
+          "version": "1.71.59",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Found It! Hidden Object Game-v1.70.9-riftysipas.ipa",
-          "size": 247245257
+          "downloadURL": "https://telos.ftp.sh/ipas/Found It! Hidden Object Game-v1.71.59-riftysipas.ipa",
+          "size": 234673062
         }
       ],
       "category": "games"
@@ -43394,14 +43435,14 @@
       "bundleIdentifier": "br.com.marcosatanaka.music-harbor",
       "developerName": "Loop Apps LTDA",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "5.2.8",
-      "versionDate": "2026-06-24",
+      "version": "5.2.9",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MusicHarbor - Track New Music-v5.2.8-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MusicHarbor - Track New Music-v5.2.9-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMusicHarbor - Track New Music\n\n---\nAn award-winning app for keeping track of new music releases, music videos, news, and concerts from all your favorite artists and record labels. Critically acclaimed by MacStories, 9to5Mac, iOS Today, AppleInsider, The Sweet Setup, and more.\n\nMacStories: “If you care about new music releases and staying on top of your favorite artists, you need MusicHarbor”\niOS Today: “This is a great app for folks who are trying to find new music from their favorite artists”\n9to5Mac: “MusicHarbor does what you",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/9b/97/869b97e7-5d5a-fa16-f142-fd58ce3290f7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 49417881,
+      "size": 49472772,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/79/eb/9179eb41-2d81-c8b0-5364-faa4b7e427d6/b05845d3-898f-47d8-b1aa-b9699435dd84_4.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/06/bd/4b06bdcb-5859-8735-9df8-e79f2bf318a1/72fa8ce1-1264-448a-9548-5c446c0d9454_5.png/392x696bb.png",
@@ -43425,11 +43466,11 @@
       },
       "versions": [
         {
-          "version": "5.2.8",
-          "date": "2026-06-24",
+          "version": "5.2.9",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MusicHarbor - Track New Music-v5.2.8-riftysipas.ipa",
-          "size": 49417881
+          "downloadURL": "https://telos.ftp.sh/ipas/MusicHarbor - Track New Music-v5.2.9-riftysipas.ipa",
+          "size": 49472772
         }
       ],
       "category": "music"
@@ -56859,14 +56900,14 @@
       "bundleIdentifier": "RVS-Riverside.fm",
       "developerName": "RIVERSIDEFM, INC",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.16.0",
-      "versionDate": "2026-06-28",
+      "version": "4.16.1",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Riverside Podcast Video Studio-v4.16.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Riverside Podcast Video Studio-v4.16.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nRiverside Podcast Video Studio\n\n---\nRiverside is a powerful podcast and video maker that allows you to record and edit video and audio easily.\n\nWith AI features like captions, transcription, and teleprompter, and capabilities like text-based editing and studio-quality recording, you can publish top-notch videos, podcasts and social media clips from anywhere, anytime.\n\nJoin thousands of podcasters, media companies, influencers and online content creators who trust Riverside for high-definition video and audio. Whether you're making",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/4e/b9/f04eb9a1-6219-e6a6-4d1b-435969a4fcea/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/62/20/356220c9-a26a-fc1c-75ee-2ca0fc7b558b/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 115966416,
+      "size": 115974748,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -56884,11 +56925,11 @@
       },
       "versions": [
         {
-          "version": "4.16.0",
-          "date": "2026-06-28",
+          "version": "4.16.1",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Riverside Podcast Video Studio-v4.16.0-riftysipas.ipa",
-          "size": 115966416
+          "downloadURL": "https://telos.ftp.sh/ipas/Riverside Podcast Video Studio-v4.16.1-riftysipas.ipa",
+          "size": 115974748
         }
       ],
       "category": "photo-&-video"
@@ -72767,64 +72808,6 @@
       "category": "photo-&-video"
     },
     {
-      "name": "Twitter [BHTwitter]",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "X Corp.",
-      "subtitle": "Tweaked with BHTwitter, Cephei",
-      "version": "12.1",
-      "versionDate": "2026-06-24",
-      "versionDescription": "Tweaks: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]XX_12.1_BH_NF.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/9f/e1/889fe148-e8a2-72ba-508d-2d945b3c6537/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 227775358,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/77/660e779a-d449-ebd3-0bd3-78502084f7bf/770e6822-f28e-4e4b-be51-8bfbe36f4307_iPad_12.9_-_1.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/2e/90e62e67-ccd1-8221-8149-49f305b8778d/7e053a3e-190b-4585-9927-509871425aad_iPad_12.9_-_2.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/55/81/e1558195-ef27-c4d9-7967-ab92de356af6/af4a69eb-36c5-463c-9677-c2a72dfaa7dc_iPad_12.9_-_3.png/552x414bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.associated-appclip-app-identifiers",
-          "aps-environment",
-          "com.apple.developer.devicecheck.appattest-environment",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.siri",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.networking.carrier-constrained.app-optimized",
-          "com.apple.developer.networking.carrier-constrained.appcategory",
-          "com.apple.security.application-groups",
-          "com.apple.developer.usernotifications.communication"
-        ],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
-          "NSCameraUsageDescription": "Capture and post photos and videos from Twitter.",
-          "NSMicrophoneUsageDescription": "Capture and post videos with sound from Twitter.",
-          "NSLocationWhenInUseUsageDescription": "Enjoy Twitter experience tailored to your location.",
-          "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
-          "NSCalendarsUsageDescription": "Add events to your calendar from Twitter.",
-          "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
-          "NSFaceIDUsageDescription": "Use FaceID to authenticate on Twitter.",
-          "NSBluetoothAlwaysUsageDescription": "Twitter uses Bluetooth to discover Cast-enabled devices near you.",
-          "NSLocalNetworkUsageDescription": "Twitter uses the local network to discover Cast-enabled devices on your WiFi network.",
-          "NSUserTrackingUsageDescription": "This helps Twitter show you more relevant ads.",
-          "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos."
-        }
-      },
-      "versions": [
-        {
-          "version": "12.1",
-          "date": "2026-06-24",
-          "localizedDescription": "Tweaks: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]XX_12.1_BH_NF.ipa",
-          "size": 227775358
-        }
-      ],
-      "category": "news"
-    },
-    {
       "name": "Twitter [FreeBird]",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X Corp.",
@@ -78577,6 +78560,85 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, DLTwitter, TWIGalaxy, TwitDate, _by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
           "downloadURL": "https://telos.ftp.sh/ipas/X_12.3_DLTwitter 2.17_TWIGalaxy_1.13.ipa",
           "size": 226013546
+        }
+      ],
+      "category": "news"
+    },
+    {
+      "name": "X [BHTwitter]",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "X Corp.",
+      "subtitle": "Tweaked with BHTwitter, CydiaSubstrate",
+      "version": "12.5",
+      "versionDate": "2026-07-01",
+      "versionDescription": "Tweaks: BHTwitter, CydiaSubstrate, TWIGalaxy, TwitDate, _by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/X_12.5_1782925260.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BHTwitter, CydiaSubstrate, TWIGalaxy, TwitDate, _by_iosdecrypted_[sideloadKeychainFix]\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/9f/e1/889fe148-e8a2-72ba-508d-2d945b3c6537/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 488902441,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/77/660e779a-d449-ebd3-0bd3-78502084f7bf/770e6822-f28e-4e4b-be51-8bfbe36f4307_iPad_12.9_-_1.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/2e/90e62e67-ccd1-8221-8149-49f305b8778d/7e053a3e-190b-4585-9927-509871425aad_iPad_12.9_-_2.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/55/81/e1558195-ef27-c4d9-7967-ab92de356af6/af4a69eb-36c5-463c-9677-c2a72dfaa7dc_iPad_12.9_-_3.png/552x414bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.avfoundation.multitasking-camera-access",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.authentication-services.autofill-credential-provider",
+          "com.apple.developer.ClassKit-environment",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.access",
+          "com.apple.developer.homekit",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.icloud-container-development-container-identifiers",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "inter-app-audio",
+          "com.apple.developer.networking.multipath",
+          "com.apple.developer.networking.networkextension",
+          "com.apple.developer.nfc.readersession.formats",
+          "aps-environment",
+          "com.apple.developer.siri",
+          "com.apple.external-accessory.wireless-configuration",
+          "com.apple.developer.coremedia.hls.low-latency",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.healthkit.recalibrate-estimates",
+          "com.apple.developer.weatherkit",
+          "com.apple.developer.kernel.increased-debugging-memory-limit",
+          "com.apple.developer.game-center",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.healthkit.background-delivery",
+          "com.apple.developer.user-fonts",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "com.apple.developer.networking.carrier-constrained.app-optimized",
+          "com.apple.developer.networking.carrier-constrained.appcategory"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSCameraUsageDescription": "Capture and post photos and videos from X.",
+          "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
+          "NSLocationWhenInUseUsageDescription": "Enjoy the X experience tailored to your location.",
+          "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
+          "NSCalendarsUsageDescription": "Add events to your calendar from X.",
+          "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
+          "NSFaceIDUsageDescription": "Use FaceID to authenticate on X.",
+          "NSUserTrackingUsageDescription": "This helps X show you more relevant ads.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos."
+        }
+      },
+      "versions": [
+        {
+          "version": "12.5",
+          "date": "2026-07-01",
+          "localizedDescription": "Tweaks: BHTwitter, CydiaSubstrate, TWIGalaxy, TwitDate, _by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/X_12.5_1782925260.ipa",
+          "size": 488902441
         }
       ],
       "category": "news"
