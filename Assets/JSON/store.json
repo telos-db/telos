@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "co.vulcanlabs.moodtracker",
+    "com.agent.super.extension.safari",
     "com.resonantcavity.Voloco",
     "com.future.kapi",
-    "com.wellocution.iosapp",
-    "com.adrise.tubitv",
-    "tv.pluto.ios"
+    "com.wellocution.iosapp"
   ],
   "apps": [
     {
@@ -11941,14 +11941,14 @@
       "bundleIdentifier": "co.vulcanlabs.moodtracker",
       "developerName": "Vulcan Labs Company Limited",
       "subtitle": "*Tweak:** Satella Injected For Unlocking Subscription | *Patched ✓**",
-      "version": "8.260615.2",
-      "versionDate": "2026-06-19",
+      "version": "8.260622.1",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: CydiaSubstrate, SatellaJailed, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/AI Chatbot: AI Chat Smith 5.0-v8.260615.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AI Chatbot: AI Chat Smith 5.0-v8.260622.1-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Satella Injected For Unlocking Subscription | *Patched ✓**\n\nAI Chatbot: AI Chat Smith 5.0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/8c/26/d98c267a-6757-382b-f291-5f8506ab0874/AppIcon132-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 575719474,
+      "size": 576278535,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/ad/84/6ead848d-9f09-e17d-cf0d-833042063f51/15611293-15b1-46ad-8bdf-674096229f71_GPT-screenshot-0.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/2b/e6/ad2be66c-4a9e-2797-37e6-b35d8e0c310b/f5e51d50-4299-47c3-802f-72da44729d00_GPT-screenshot-1a.jpg/576x768bb.jpg",
@@ -11975,11 +11975,11 @@
       },
       "versions": [
         {
-          "version": "8.260615.2",
-          "date": "2026-06-19",
+          "version": "8.260622.1",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/AI Chatbot: AI Chat Smith 5.0-v8.260615.2-riftysipas.ipa",
-          "size": 575719474
+          "downloadURL": "https://telos.ftp.sh/ipas/AI Chatbot: AI Chat Smith 5.0-v8.260622.1-riftysipas.ipa",
+          "size": 576278535
         }
       ],
       "category": "productivity"
@@ -66217,14 +66217,14 @@
       "bundleIdentifier": "com.agent.super.extension.safari",
       "developerName": "Super Agent, Inc",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.4.0",
-      "versionDate": "2026-06-25",
+      "version": "4.4.1",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_4_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_4_1_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSuper Agent for Safari",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/b6/51/15b65158-89cb-d0a2-5af5-7440be0bde38/superagent-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/33/4b/a2334b04-5b7a-e06c-e6de-388ecc265c28/superagent-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 25835088,
+      "size": 25835039,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/08/54/730854bf-a830-da4f-b988-479c163d0558/af9c9ef5-aff8-4bfd-8d9c-289e3e771424_4.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/42/9b/47429b30-925b-13ee-d231-8bbedeba7581/e3ee2f2a-aaed-475c-bb6e-ef910d1f2ca5_5.jpg/392x696bb.jpg",
@@ -66242,11 +66242,11 @@
       },
       "versions": [
         {
-          "version": "4.4.0",
-          "date": "2026-06-25",
+          "version": "4.4.1",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_4_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 25835088
+          "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_4_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 25835039
         }
       ],
       "category": "utilities"
@@ -80199,11 +80199,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 7.1",
+      "identifier": "telos-update-2026-07-01",
+      "caption": "8 Apps Updated:\n• 4 Productivity\n• 4 Utilities",
+      "date": "2026-07-01",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "co.vulcanlabs.moodtracker"
+    },
+    {
       "title": "⚙️ Telos Update 6.30",
       "identifier": "telos-update-2026-06-30",
-      "caption": "114 Apps Updated:\n• 26 Health & Fitness\n• 14 Photo & Video\n• 14 Games\n• 14 Entertainment\n• 10 Music\n• 8 Productivity\n• 6 Weather\n• 6 Education\n• 6 Lifestyle\n• 2 Business\n• 2 Food & Drink\n• 2 Travel\n• 2 Medical\n• 2 Utilities",
+      "caption": "104 Apps Updated:\n• 26 Health & Fitness\n• 14 Games\n• 12 Photo & Video\n• 10 Entertainment\n• 8 Productivity\n• 8 Music\n• 6 Weather\n• 6 Lifestyle\n• 4 Education\n• 2 Business\n• 2 Food & Drink\n• 2 Travel\n• 2 Medical\n• 2 Utilities",
       "date": "2026-06-30",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.andyworks.camera"
     },
@@ -80212,7 +80221,7 @@
       "identifier": "telos-update-2026-06-29",
       "caption": "82 Apps Updated:\n• 18 Photo & Video\n• 12 Education\n• 12 Health & Fitness\n• 6 Entertainment\n• 6 Games\n• 4 Productivity\n• 4 Utilities\n• 4 Finance\n• 4 Music\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Sports\n• 2 Social Networking\n• 2 Navigation\n• 2 News",
       "date": "2026-06-29",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.intsig.CamScannerLite"
     },
@@ -80221,7 +80230,7 @@
       "identifier": "telos-update-2026-06-28",
       "caption": "36 Apps Updated:\n• 8 Health & Fitness\n• 6 Photo & Video\n• 4 Music\n• 4 Productivity\n• 4 News\n• 2 Games\n• 2 Lifestyle\n• 2 Finance\n• 2 Education\n• 2 Food & Drink",
       "date": "2026-06-28",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.spotify.client"
     },
@@ -80230,7 +80239,7 @@
       "identifier": "telos-update-2026-06-27",
       "caption": "48 Apps Updated:\n• 6 Productivity\n• 6 Health & Fitness\n• 5 Photo & Video\n• 5 Graphics & Design\n• 4 Education\n• 4 Business\n• 2 Music\n• 2 Social Networking\n• 2 News\n• 2 Finance\n• 2 Entertainment\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Games",
       "date": "2026-06-27",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.withopal.opal"
     },
@@ -80239,7 +80248,7 @@
       "identifier": "telos-update-2026-06-26",
       "caption": "84 Apps Updated:\n• 21 Photo & Video\n• 10 Productivity\n• 8 Utilities\n• 8 Health & Fitness\n• 6 Games\n• 6 Weather\n• 5 Graphics & Design\n• 4 Lifestyle\n• 4 News\n• 4 Entertainment\n• 4 Medical\n• 2 Education\n• 2 Developer Tools",
       "date": "2026-06-26",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "cameronnazemi.Tappy"
     },
@@ -80248,7 +80257,7 @@
       "identifier": "telos-update-2026-06-25",
       "caption": "94 Apps Updated:\n• 20 Photo & Video\n• 20 Health & Fitness\n• 8 Games\n• 8 Productivity\n• 6 Education\n• 6 Utilities\n• 4 Music\n• 4 Entertainment\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Business\n• 2 Sports\n• 2 Finance\n• 2 Books\n• 2 Developer Tools\n• 2 News\n• 2 Navigation",
       "date": "2026-06-25",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.miniclip.8ballpoolmult"
     },
@@ -80257,7 +80266,7 @@
       "identifier": "telos-update-2026-06-24",
       "caption": "114 Apps Updated:\n• 24 Health & Fitness\n• 14 Photo & Video\n• 12 Lifestyle\n• 10 Utilities\n• 10 News\n• 8 Productivity\n• 8 Graphics & Design\n• 6 Education\n• 6 Games\n• 6 Music\n• 4 Developer Tools\n• 2 Food & Drink\n• 2 Entertainment\n• 2 Finance",
       "date": "2026-06-24",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.getmimo.mimo"
     },
@@ -80266,7 +80275,7 @@
       "identifier": "telos-update-2026-06-23",
       "caption": "104 Apps Updated:\n• 22 Health & Fitness\n• 12 Photo & Video\n• 8 Music\n• 6 Navigation\n• 6 Productivity\n• 6 Education\n• 6 Utilities\n• 6 Business\n• 4 Shopping\n• 4 Graphics & Design\n• 4 Developer Tools\n• 4 Lifestyle\n• 4 Games\n• 2 Entertainment\n• 2 Travel\n• 2 Weather\n• 2 Food & Drink\n• 2 Sports\n• 2 News",
       "date": "2026-06-23",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.evolve.helm"
     },
@@ -80275,18 +80284,9 @@
       "identifier": "telos-update-2026-06-22",
       "caption": "128 Apps Updated:\n• 30 Photo & Video\n• 24 Health & Fitness\n• 14 Utilities\n• 14 Education\n• 8 Games\n• 6 Productivity\n• 6 Entertainment\n• 4 Lifestyle\n• 4 Weather\n• 4 Travel\n• 4 Social Networking\n• 4 Shopping\n• 2 Reference\n• 2 Graphics & Design\n• 2 Finance",
       "date": "2026-06-22",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "com.stremio.pal"
-    },
-    {
-      "title": "⚙️ Telos Update 6.21",
-      "identifier": "telos-update-2026-06-21",
-      "caption": "46 Apps Updated:\n• 10 Utilities\n• 8 Photo & Video\n• 8 Social Networking\n• 6 Education\n• 2 Health & Fitness\n• 2 Entertainment\n• 2 Developer Tools\n• 2 Lifestyle\n• 2 Productivity\n• 2 Books\n• 2 Sports",
-      "date": "2026-06-21",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.AppChief.ArabicArt"
+      "appID": "com.stremio.pal"
     }
   ]
 }
