@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.N2BunpouApp.yuki",
-    "co.videobakery.ReelsEditor",
-    "co.smartreceipts.ios",
-    "com.textasticapp.textastic-universal",
-    "co.visualsupply.cam"
+    "com.tickettothemoon.video.persona",
+    "nt.nc.ios",
+    "com.diagnostics.ios",
+    "com.picsart.studio",
+    "com.iptv.player"
   ],
   "apps": [
     {
@@ -3190,14 +3190,14 @@
       "bundleIdentifier": "com.alltrails.AllTrails",
       "developerName": "AllTrails, Inc.",
       "subtitle": "Pro Features Unlocked",
-      "version": "26.6.10",
-      "versionDate": "2026-06-08",
+      "version": "26.6.41",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: AllTrailsPatch, CachefixPatch, CydiaSubstrate, NewFix1, NewFix2\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/AllTrails Pro 26.6.10.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AllTrails Pro 26.6.41.ipa",
       "localizedDescription": "Pro Features Unlocked\n\nAllTrails",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/c0/52/cec052b3-8250-9122-1ed9-c36323e02cc0/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 131033844,
+      "size": 142088573,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -3227,11 +3227,11 @@
       },
       "versions": [
         {
-          "version": "26.6.10",
-          "date": "2026-06-03",
+          "version": "26.6.41",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: AllTrailsPatch, CachefixPatch, CydiaSubstrate, NewFix1, NewFix2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/AllTrails Pro 26.6.10.ipa",
-          "size": 131033844
+          "downloadURL": "https://telos.ftp.sh/ipas/AllTrails Pro 26.6.41.ipa",
+          "size": 142088573
         }
       ],
       "category": "health-&-fitness"
@@ -6495,15 +6495,15 @@
       "name": "Bazaart",
       "bundleIdentifier": "co.bazaart.app",
       "developerName": "Bazaart Ltd.",
-      "subtitle": "Premium Unlocked | Patched",
+      "subtitle": "Pro Features Unlocked",
       "version": "26.3.7",
-      "versionDate": "2026-06-28",
-      "versionDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bazaart_AI_Photo_Editor_Design_v26_3_7_Premium_Unlocked_blatant.ipa",
-      "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nBazaart AI Photo Editor Design",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/36/5e/2c365e0a-3c3f-821c-08f7-09531a512ced/Bazaart_Icon_v3-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
+      "versionDate": "2026-07-01",
+      "versionDescription": "Tweaks: BazaartAIPhotoEditorDesignPatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bazaart Premium 26.3.7.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nBazaart: Design, Photo & Video",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/aa/ee/58aaee6f-bae7-5a3b-40fa-af0639a50cd7/Bazaart_Icon_v3-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 102653914,
+      "size": 102836614,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -6527,9 +6527,9 @@
         {
           "version": "26.3.7",
           "date": "2026-06-28",
-          "localizedDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bazaart_AI_Photo_Editor_Design_v26_3_7_Premium_Unlocked_blatant.ipa",
-          "size": 102653914
+          "localizedDescription": "Tweaks: BazaartAIPhotoEditorDesignPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Bazaart Premium 26.3.7.ipa",
+          "size": 102836614
         }
       ],
       "category": "photo-&-video"
@@ -7211,6 +7211,68 @@
         }
       ],
       "category": "health-&-fitness"
+    },
+    {
+      "name": "BHTikTokPlus",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "TikTok Ltd.",
+      "subtitle": "Tweaked with AutoCacheDelete, BH++Fix",
+      "version": "45.8.0",
+      "versionDate": "2026-07-01",
+      "versionDescription": "Tweaks: AutoCacheDelete, BH++Fix, BHTikTokPlus, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/BHTikTokPlus 45.8.0.ipa",
+      "localizedDescription": "BHTikTokPlus",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c5/9f/6bc59f11-c2c3-1009-e18b-0033c4ef4d61/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 434535936,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.declared-age-range",
+          "com.apple.developer.group-session",
+          "aps-environment",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.siri",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "To upload from or download to your device, allow access to your photos in your phone settings.",
+          "NSCameraUsageDescription": "You'll be able to record video.",
+          "NSMicrophoneUsageDescription": "To record audio, allow us to access your Microphone.",
+          "NSLocationWhenInUseUsageDescription": "If location services are enabled, TikTok will collect, store and use your device's approximate location to improve your experience.",
+          "NSContactsUsageDescription": "Sync your contacts to easily find people you know on TikTok. Your contacts will only be used to help you connect with friends.",
+          "NSCalendarsUsageDescription": "Add events to your device calendar to get reminders when events start.",
+          "NSAppleMusicUsageDescription": "To select sound from your library, allow us to access your Apple Music.",
+          "NSFaceIDUsageDescription": "We'll use this to unlock features that require added security.",
+          "NSBluetoothAlwaysUsageDescription": "This will allow \"TikTok\" to find and connect to Bluetooth accessories. This app may also use Bluetooth to connect with nearby devices.",
+          "NSBluetoothPeripheralUsageDescription": "This will allow \"TikTok\" to find and connect to Bluetooth accessories. This app may also use Bluetooth to connect with nearby devices.",
+          "NSLocalNetworkUsageDescription": "The TikTok app will be able to discover and connect with devices that have the TikTok app installed for camera and screen sharing.",
+          "NSUserTrackingUsageDescription": "This allows TikTok to provide you with a better ads experience.",
+          "NSPhotoLibraryAddUsageDescription": "To upload from or download to your device, allow access to your photos in your phone settings."
+        }
+      },
+      "versions": [
+        {
+          "version": "45.8.0",
+          "date": "2026-07-01",
+          "localizedDescription": "Tweaks: AutoCacheDelete, BH++Fix, BHTikTokPlus, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/BHTikTokPlus 45.8.0.ipa",
+          "size": 434535936
+        }
+      ],
+      "category": "entertainment"
     },
     {
       "name": "Bible Study",
@@ -12751,15 +12813,15 @@
       "name": "Clarity",
       "bundleIdentifier": "com.moodtools.thoughtdiary",
       "developerName": "Inquiry Health LLC",
-      "subtitle": "Pro Unlocked | Patched",
+      "subtitle": "Pro Features Unlocked",
       "version": "5.5.23",
-      "versionDate": "2026-06-30",
-      "versionDescription": "Tweaks: Clarity, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Clarity_CBT_Self_Help_Journal_v5_5_23_Pro_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nClarity: CBT Self Help Journal",
+      "versionDate": "2026-07-01",
+      "versionDescription": "Tweaks: Clarity\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Clarity Pro 5.5.23.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nClarity - CBT Thought Diary",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/11/05/8b11052e-adef-2bcc-b346-9b72621d9e91/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 160222276,
+      "size": 158302201,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/58/96/9f589648-f328-c326-4423-9b9b0cdbd27e/615804b0-2a4f-41d6-9009-4d9e0fa0e631_ipad1v3.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/5f/a4/725fa4ef-4edd-1ec2-29bc-27783919128f/b567552b-2461-4f69-8f1c-b4267c097b1b_ipad2.png/576x768bb.png",
@@ -12782,10 +12844,10 @@
       "versions": [
         {
           "version": "5.5.23",
-          "date": "2026-06-30",
-          "localizedDescription": "Tweaks: Clarity, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Clarity_CBT_Self_Help_Journal_v5_5_23_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 160222276
+          "date": "2026-07-01",
+          "localizedDescription": "Tweaks: Clarity\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Clarity Pro 5.5.23.ipa",
+          "size": 158302201
         }
       ],
       "category": "medical"
@@ -23434,15 +23496,15 @@
       "name": "Flightradar24",
       "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
       "developerName": "Flightradar24 AB",
-      "subtitle": "Patched | Tweaked",
+      "subtitle": "Tweaked with FlightRadar24",
       "version": "11.7.0",
-      "versionDate": "2026-06-30",
-      "versionDescription": "Tweaks: FlightRadar24, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Flightradar24_Flight_Tracker_v11_7_0_Gold_Lifetime_blatant_Patched.ipa",
-      "localizedDescription": "Patched | Tweaked\n\nFlightradar24 | Flight Tracker",
+      "versionDate": "2026-07-01",
+      "versionDescription": "Tweaks: FlightRadar24\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Flightradar Gold 11.7.0.ipa",
+      "localizedDescription": "Flightradar24 | Flight Tracker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/b3/73/6bb373e1-59b0-c48d-9a73-496ef19967a1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 226230441,
+      "size": 221509754,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/71/9c/5f719ce8-180f-b06c-f4c0-1b690dd63013/04ad4938-e8c5-4469-9ea7-a01168421d68_iphone8_screenshot_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/f8/02/0bf80293-7322-217f-b4ff-394b3c98d296/ccb55067-54dd-4aae-8aa1-e6a345501bb0_iphone8_screenshot_2.jpg/392x696bb.jpg",
@@ -23469,10 +23531,10 @@
       "versions": [
         {
           "version": "11.7.0",
-          "date": "2026-06-30",
-          "localizedDescription": "Tweaks: FlightRadar24, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Flightradar24_Flight_Tracker_v11_7_0_Gold_Lifetime_blatant_Patched.ipa",
-          "size": 226230441
+          "date": "2026-07-01",
+          "localizedDescription": "Tweaks: FlightRadar24\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Flightradar Gold 11.7.0.ipa",
+          "size": 221509754
         }
       ],
       "category": "travel"
@@ -32625,15 +32687,15 @@
       "name": "IPTV Expert",
       "bundleIdentifier": "com.iptv.player",
       "developerName": "LIFTOFF",
-      "subtitle": "Tweaked with Fixipa1, Fixipa2",
-      "version": "8.13.6",
-      "versionDate": "2026-02-28",
-      "versionDescription": "Tweaks: Fixipa1, Fixipa2, iPTVSy, substrate\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/IPTV.Expert_8.13.6_3BodSy.ipa",
-      "localizedDescription": "application IPTV Expert\n\n---\n\nIPTV Expert: The Ultimate IPTV Player for Seamless Streaming\nAre you tired of unsatisfactory IPTV players? Meet IPTV Expert, the ultimate IPTV player designed for peak performance. Loved and trusted by thousands, IPTV Expert supports all IPTV providers and media content, offering you unmatched viewing pleasure.\n\nWhy Choose IPTV Expert?\n• Easy Playlist Import: Effortlessly import M3U/M3U8 playlists via URL, Xtream Codes API, or Stalker Portal.\n• Superior Sorting: Automatically categorizes your pl",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9d/d8/929dd8a9-2170-d196-dbbf-7031b445a9db/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "subtitle": "Pro Features Unlocked",
+      "version": "10.0.5",
+      "versionDate": "2026-07-01",
+      "versionDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/IPTV Smarters Player Expert Pro 10.0.5.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nIPTV Smarters Player Expert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/6c/23/fe6c2355-3695-a8bd-b8e0-6a3d629e3af5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 37255073,
+      "size": 47137175,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/d6/ef/1fd6ef16-6548-416a-2990-228ef758e5e5/7197b4c7-757f-4550-9550-54cb212d6e5b_0_APP_IPAD_PRO_129_0.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/79/15/94791589-5e96-6448-5923-d2461333dd5e/988c7174-33df-4487-8479-4a23e62165a7_1_APP_IPAD_PRO_129_1.png/552x414bb.png",
@@ -32652,11 +32714,11 @@
       },
       "versions": [
         {
-          "version": "8.13.6",
-          "date": "2026-02-28",
-          "localizedDescription": "Tweaks: Fixipa1, Fixipa2, iPTVSy, substrate\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/IPTV.Expert_8.13.6_3BodSy.ipa",
-          "size": 37255073
+          "version": "10.0.5",
+          "date": "2026-06-30",
+          "localizedDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/IPTV Smarters Player Expert Pro 10.0.5.ipa",
+          "size": 47137175
         }
       ],
       "category": "entertainment"
@@ -33853,6 +33915,44 @@
         }
       ],
       "category": "education"
+    },
+    {
+      "name": "Kegel Exercises",
+      "bundleIdentifier": "games.calico.mantracker",
+      "developerName": "Sebastien Menozzi",
+      "subtitle": "Pro Features Unlocked",
+      "version": "1.0.13",
+      "versionDate": "2026-07-01",
+      "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Dr Kegel 2 Pro 1.0.13.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nDr Kegel 2: Men Health Edition",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/7b/8d/c37b8d94-310d-e34f-5f54-24674e228ca8/AppIcon-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 140410437,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.usernotifications.time-sensitive",
+          "aps-environment",
+          "com.apple.developer.devicecheck.appattest-environment"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "App wants access to your media library.",
+          "NSCameraUsageDescription": "App wants access to your camera.",
+          "NSLocationWhenInUseUsageDescription": "App wants access to location when in use.",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.0.13",
+          "date": "2026-07-01",
+          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Dr Kegel 2 Pro 1.0.13.ipa",
+          "size": 140410437
+        }
+      ],
+      "category": "health-&-fitness"
     },
     {
       "name": "Keka",
@@ -35582,14 +35682,14 @@
       "bundleIdentifier": "com.huami.LoadController",
       "developerName": "LCS Family of Companies",
       "subtitle": "LCSign for iOS",
-      "version": "1.1",
-      "versionDate": "2026-06-27",
+      "version": "1.2",
+      "versionDate": "2026-07-01",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/LCSign-1.1-8.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LCSign-1.2-1.ipa",
       "localizedDescription": "本次更新：",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/5f/da/9d5fda4b-0687-345d-f5be-49110d55be85/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 18793401,
+      "size": 19343968,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/af/da/ad/afdaada5-a2ff-d438-a098-e8e0d0503b49/56cb6459-9f75-44c8-be48-75c081cb94b2_IOS-Screenshots_1242x2208_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/af/05/d3/af05d3d1-59be-810e-4ba9-f76daadfd93d/68a8e4cc-a781-4db5-a033-dcf48430c8dc_IOS-Screenshots_1242x2208_5.png/392x696bb.png",
@@ -35605,11 +35705,11 @@
       },
       "versions": [
         {
-          "version": "1.1",
-          "date": "2026-06-27",
+          "version": "1.2",
+          "date": "2026-07-01",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/LCSign-1.1-8.ipa",
-          "size": 18793401
+          "downloadURL": "https://telos.ftp.sh/ipas/LCSign-1.2-1.ipa",
+          "size": 19343968
         }
       ],
       "category": "business"
@@ -43847,24 +43947,24 @@
       ]
     },
     {
-      "name": "NC v18.200.19",
+      "name": "NC v18.400.7",
       "bundleIdentifier": "nt.nc.ios",
-      "developerName": "TRANSPORTATION, NORTH CAROLINA DEPARTMENT OF",
+      "developerName": "Driver-Start.Com",
       "subtitle": "Unlimited Gems",
-      "version": "18.200.19",
-      "versionDate": "2026-06-11",
+      "version": "18.400.7",
+      "versionDate": "2026-07-01",
       "versionDescription": "Source: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Null's Clash 18.200.19.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Null's Clash 18.400.7.ipa",
       "localizedDescription": "Unlimited Gems\n\nNull's Clash",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/78/58/457858a5-a3a4-3455-0683-fb3fac7c1e07/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/69/b8/5c/69b85cb6-adf9-e370-9261-39ae0847df17/AppIcon-1x_U007emarketing-85-220-0-8.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 415208741,
+      "size": 461276778,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/1d/55/471d5504-3558-43e3-f6bd-67c43f13e4ee/c9741d42-777c-45aa-b9e8-57c1feb98b97_40926_NCQP_Apple_5.5_Portrait_1242x2208_1_Release.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/51/7b/b7517b1c-a8ce-a32d-e8a8-c33daa8c1963/aa3532b6-2ff6-4bbd-bba8-20ac20665431_40926_NCQP_Apple_5.5_Portrait_1242x2208_2_Release.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/f8/b6/b7f8b648-88fe-d27b-a7d2-404aa640e4ad/4461216f-2c69-4b53-83f1-9848d1e5d6a6_40926_NCQP_Apple_5.5_Portrait_1242x2208_3_Release.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/88/7f/67887f46-5488-170d-caef-cbe0af1b5d17/7411c5cc-ff20-4343-9829-f1b9c8acc42c_40926_NCQP_Apple_5.5_Portrait_1242x2208_4_Release.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/dd/45/7bdd451c-1fd7-87d2-d386-9277dc299d82/77a8cdf5-884d-4733-bd1f-0381c7744798_40926_NCQP_Apple_5.5_Portrait_1242x2208_5_Release.jpg/392x696bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/3d/f8/17/3df81730-3738-f4a4-2974-bcb78ca39a3d/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/07/73/eb/0773eb85-bec8-772e-c374-9ba24ff4c120/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/9b/d4/d3/9bd4d35d-cb21-2972-0c24-5c2f02ab332c/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/59/b0/85/59b085c0-7555-71f8-eec3-607b784b07ef/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/58/4b/ba/584bba50-2246-6a07-00b9-6ee3180055bb/pr_source.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
         "entitlements": [],
@@ -43876,14 +43976,14 @@
       },
       "versions": [
         {
-          "version": "18.200.19",
-          "date": "2026-06-11",
+          "version": "18.400.7",
+          "date": "2026-07-01",
           "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Null's Clash 18.200.19.ipa",
-          "size": 415208741
+          "downloadURL": "https://telos.ftp.sh/ipas/Null's Clash 18.400.7.ipa",
+          "size": 461276778
         }
       ],
-      "category": "travel"
+      "category": "education"
     },
     {
       "name": "NCT",
@@ -49066,14 +49166,14 @@
       "bundleIdentifier": "com.tickettothemoon.video.persona",
       "developerName": "Ticket To The Moon, Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Notes:** Restart App If Subscription Isn'T Unlocked",
-      "version": "1.15.40",
-      "versionDate": "2026-06-19",
+      "version": "1.15.42",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.40-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.42-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Notes:** Restart App If Subscription Isn'T Unlocked | *Patched ✓**\n\nPersona: Beauty Camera",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/c0/40/2fc040d4-f7ce-f0c0-2743-147d41eb8b54/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 188577879,
+      "size": 201369581,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/e8/3f/86e83fd9-a8a2-d374-093c-5cf9db87038f/1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/96/ea/5896ea61-9d97-835e-e869-654385f1af2e/5.jpg/392x696bb.jpg",
@@ -49097,11 +49197,11 @@
       },
       "versions": [
         {
-          "version": "1.15.40",
-          "date": "2026-06-19",
+          "version": "1.15.42",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.40-riftysipas.ipa",
-          "size": 188577879
+          "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.42-riftysipas.ipa",
+          "size": 201369581
         }
       ],
       "category": "photo-&-video"
@@ -49260,14 +49360,14 @@
       "bundleIdentifier": "com.diagnostics.ios",
       "developerName": "HITEK_NOVA",
       "subtitle": "Tweaked with SatellaJailed",
-      "version": "4.1.3",
-      "versionDate": "2026-06-09",
+      "version": "4.1.7",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Phone Diagnostics IAP 4.1.3.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Phone Diagnostics IAP 4.1.7.ipa",
       "localizedDescription": "Phone Diagnostics",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/02/ad/cc02ade8-9ac5-d52d-7ff0-fb36eb7d8233/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 17009850,
+      "size": 12919012,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c4/b5/f9/c4b5f986-c246-5639-5a71-a308b94a7ed7/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a3/5f/79/a35f79d4-4ef6-d510-31b5-5f0dcdfe1c21/pr_source.png/392x696bb.png",
@@ -49299,11 +49399,11 @@
       },
       "versions": [
         {
-          "version": "4.1.3",
-          "date": "2026-05-12",
+          "version": "4.1.7",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Phone Diagnostics IAP 4.1.3.ipa",
-          "size": 17009850
+          "downloadURL": "https://telos.ftp.sh/ipas/Phone Diagnostics IAP 4.1.7.ipa",
+          "size": 12919012
         }
       ],
       "category": "utilities"
@@ -50278,15 +50378,15 @@
       "name": "Picsart",
       "bundleIdentifier": "com.picsart.studio",
       "developerName": "PicsArt, Inc.",
-      "subtitle": "Subscription Unlocked | Patched",
+      "subtitle": "Pro Features Unlocked",
       "version": "30.2.1",
-      "versionDate": "2026-06-30",
-      "versionDescription": "Tweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_2_1_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPicsart AI Photo Editor, Video",
+      "versionDate": "2026-07-01",
+      "versionDescription": "Tweaks: Picsart\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Picsart Pro 30.2.1.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nPicsart AI Photo Video Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/86/9e/0f869ee2-ca40-a713-6cc4-4cb2bcdc82de/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 112514149,
+      "size": 105474135,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/19/4f/0c194fdc-8f88-0792-c4f8-e37c39f85265/072cbf42-fad7-40f4-b11e-015732e61666_1._Multiple_Use_Cases___iPhone_12.9_.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/b9/fd/deb9fdf2-7120-98a3-9443-618a3eec4b0e/c3a88056-d203-42c4-9fbd-56c9797d3eb7_2._Multiple_Use_Cases___iPhone_12.9_.png/576x768bb.png",
@@ -50319,10 +50419,10 @@
       "versions": [
         {
           "version": "30.2.1",
-          "date": "2026-06-30",
-          "localizedDescription": "Tweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_2_1_Subscription_Unlocked_blatant.ipa",
-          "size": 112514149
+          "date": "2026-07-01",
+          "localizedDescription": "Tweaks: Picsart\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Picsart Pro 30.2.1.ipa",
+          "size": 105474135
         }
       ],
       "category": "photo-&-video"
@@ -51321,14 +51421,14 @@
       "bundleIdentifier": "com.mobivalley.LookAroundApp",
       "developerName": "Mobivalley",
       "subtitle": "Pro Features Unlocked",
-      "version": "1.54.0",
-      "versionDate": "2026-06-10",
+      "version": "1.55.0",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: PlaceGuesserPro\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Place Guesser Pro 1.54.0.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Place Guesser Pro 1.55.0.ipa",
       "localizedDescription": "Pro Features Unlocked\n\nPlace Guesser",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/15/75/30157593-4bfe-119c-b4a7-85c8de092b4a/app_icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 46349234,
+      "size": 50420603,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/4b/60/514b60ac-3b79-298e-d3c1-5ea2a68c951b/c1bbff5b-10ab-4abd-8a67-b28a01a01ffd_iphoneSE3rdGeneration-mockup2.001.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/0e/64/b50e64e7-de5e-b29d-fc41-f6108aa2762f/850d9138-244b-42b5-b96e-f99aaf22b12b_iphoneSE3rdGeneration-mockup.003.png/392x696bb.png",
@@ -51347,11 +51447,11 @@
       },
       "versions": [
         {
-          "version": "1.54.0",
-          "date": "2026-06-07",
+          "version": "1.55.0",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: PlaceGuesserPro\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Place Guesser Pro 1.54.0.ipa",
-          "size": 46349234
+          "downloadURL": "https://telos.ftp.sh/ipas/Place Guesser Pro 1.55.0.ipa",
+          "size": 50420603
         }
       ],
       "category": "games"
@@ -51396,14 +51496,14 @@
       "bundleIdentifier": "uk.co.leeus.planefinderfree",
       "developerName": "pinkfroot limited",
       "subtitle": "Tweaked with CydiaSubstrate, PlaneFinderPatch",
-      "version": "2026.2.5",
-      "versionDate": "2026-06-09",
+      "version": "2026.3.1",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: CydiaSubstrate, PlaneFinderPatch, blatantsPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Plane Finder Premium 2026.2.5.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Plane Finder Premium 2026.3.1.ipa",
       "localizedDescription": "Plane Finder ⁃ Flight Tracker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/30/87/f7308769-5101-6a7b-4c2e-5d3d7b2aac18/AppLiveIcon-0-1x_U007epad-0-1-0-0-sRGB-GLES2_U002c0-512MB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 95435717,
+      "size": 95805153,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -51422,11 +51522,11 @@
       },
       "versions": [
         {
-          "version": "2026.2.5",
-          "date": "2026-06-09",
+          "version": "2026.3.1",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: CydiaSubstrate, PlaneFinderPatch, blatantsPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Plane Finder Premium 2026.2.5.ipa",
-          "size": 95435717
+          "downloadURL": "https://telos.ftp.sh/ipas/Plane Finder Premium 2026.3.1.ipa",
+          "size": 95805153
         }
       ],
       "category": "travel"
@@ -58492,14 +58592,14 @@
       "bundleIdentifier": "com.shapr3d.shapr",
       "developerName": "Shapr3D Zrt",
       "subtitle": "Pro Features Unlocked",
-      "version": "26.100.0",
-      "versionDate": "2026-06-10",
+      "version": "26.113.0",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: Shapr3DPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Shapr Pro 26.100.0.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Shapr Pro 26.113.0.ipa",
       "localizedDescription": "Pro Features Unlocked\n\nShapr 3D CAD modeling",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/dc/90/14dc90c9-2b5e-24f9-ea1e-7def8dce4bb2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 1185180250,
+      "size": 1330780518,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/60/e5/b460e5b9-660e-9958-97b7-61b667059cd9/0_APP_IPAD_PRO_129_0.jpg/552x414bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/2d/3c/ce2d3c42-453b-3515-9958-806edb74652f/1_APP_IPAD_PRO_129_1.jpg/552x414bb.jpg",
@@ -58525,11 +58625,11 @@
       },
       "versions": [
         {
-          "version": "26.100.0",
-          "date": "2026-06-10",
+          "version": "26.113.0",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: Shapr3DPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Shapr Pro 26.100.0.ipa",
-          "size": 1185180250
+          "downloadURL": "https://telos.ftp.sh/ipas/Shapr Pro 26.113.0.ipa",
+          "size": 1330780518
         }
       ],
       "category": "productivity"
@@ -68815,14 +68915,14 @@
       "bundleIdentifier": "com.burbn.barcelona",
       "developerName": "Instagram, Inc.",
       "subtitle": "Tweaked with Sideloadbypass1, Sideloadbypass2",
-      "version": "433.0.0",
-      "versionDate": "2026-06-10",
+      "version": "436.0.0",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, ThreadSaver, blatantsPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/ThreadSaver 433.0.0.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ThreadSaver 436.0.0.ipa",
       "localizedDescription": "Threads",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/8d/03/828d0384-e59f-86a9-6d60-7d9d99ce7a82/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 89519163,
+      "size": 95311330,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -68848,11 +68948,11 @@
       },
       "versions": [
         {
-          "version": "433.0.0",
-          "date": "2026-06-10",
+          "version": "436.0.0",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, ThreadSaver, blatantsPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/ThreadSaver 433.0.0.ipa",
-          "size": 89519163
+          "downloadURL": "https://telos.ftp.sh/ipas/ThreadSaver 436.0.0.ipa",
+          "size": 95311330
         }
       ],
       "category": "social-networking"
@@ -69167,68 +69267,6 @@
         }
       ],
       "category": "productivity"
-    },
-    {
-      "name": "TikTok",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "TikTok Ltd.",
-      "subtitle": "Patched | Tweaked",
-      "version": "45.8.0",
-      "versionDate": "2026-06-29",
-      "versionDescription": "Tweaks: BHTikTok, CydiaSubstrate, FLEX, FLEXing, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_8_0_BHTikTok++_v1_9_3_blatant_Patched.ipa",
-      "localizedDescription": "Patched | Tweaked\n\nTikTok - Videos, Shop & LIVE",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c5/9f/6bc59f11-c2c3-1009-e18b-0033c4ef4d61/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 446399534,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/392x696bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.declared-age-range",
-          "com.apple.developer.group-session",
-          "aps-environment",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.networking.wifi-info",
-          "com.apple.developer.siri",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "com.apple.security.application-groups"
-        ],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "To upload from or download to your device, allow access to your photos in your phone settings.",
-          "NSCameraUsageDescription": "You'll be able to record video.",
-          "NSMicrophoneUsageDescription": "To record audio, allow us to access your Microphone.",
-          "NSLocationWhenInUseUsageDescription": "If location services are enabled, TikTok will collect, store and use your device's approximate location to improve your experience.",
-          "NSContactsUsageDescription": "Sync your contacts to easily find people you know on TikTok. Your contacts will only be used to help you connect with friends.",
-          "NSCalendarsUsageDescription": "Add events to your device calendar to get reminders when events start.",
-          "NSAppleMusicUsageDescription": "To select sound from your library, allow us to access your Apple Music.",
-          "NSFaceIDUsageDescription": "We'll use this to unlock features that require added security.",
-          "NSBluetoothAlwaysUsageDescription": "This will allow \"TikTok\" to find and connect to Bluetooth accessories. This app may also use Bluetooth to connect with nearby devices.",
-          "NSBluetoothPeripheralUsageDescription": "This will allow \"TikTok\" to find and connect to Bluetooth accessories. This app may also use Bluetooth to connect with nearby devices.",
-          "NSLocalNetworkUsageDescription": "The TikTok app will be able to discover and connect with devices that have the TikTok app installed for camera and screen sharing.",
-          "NSUserTrackingUsageDescription": "This allows TikTok to provide you with a better ads experience.",
-          "NSPhotoLibraryAddUsageDescription": "To upload from or download to your device, allow access to your photos in your phone settings."
-        }
-      },
-      "versions": [
-        {
-          "version": "45.8.0",
-          "date": "2026-06-29",
-          "localizedDescription": "Tweaks: BHTikTok, CydiaSubstrate, FLEX, FLEXing, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/TikTok_Videos,_Shop_&_LIVE_v45_8_0_BHTikTok++_v1_9_3_blatant_Patched.ipa",
-          "size": 446399534
-        }
-      ],
-      "category": "entertainment"
     },
     {
       "name": "TikTok",
@@ -73315,14 +73353,14 @@
       "bundleIdentifier": "com.videobrowser.ios",
       "developerName": "Video Lite, Inc.",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "623000",
-      "versionDate": "2026-06-19",
+      "version": "623200",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, VideoLite, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Video Lite v6.23.000 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Video Lite v6.23.200 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nVideo Lite",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/e1/87/c8e1876d-631e-705b-8fe2-84095dd50ca3/AppIcon.Bolt.TV.Light-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 39669645,
+      "size": 41102249,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/a3/37/e2a337f2-7aaa-14ed-f3da-add4f3aa808e/6ba646c5-da0c-40ed-905b-486199f2c96b_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-10-16_at_22.09.10.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/19/c1/ac19c16d-9149-4808-1e72-16a433c1da20/ef6fc410-60b8-43f0-81c8-45b622027d20_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-02-04_at_14.28.20.png/392x696bb.png",
@@ -73348,11 +73386,11 @@
       },
       "versions": [
         {
-          "version": "623000",
-          "date": "2026-06-19",
+          "version": "623200",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, VideoLite, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Video Lite v6.23.000 Pro Unlocked blatant Patched.ipa",
-          "size": 39669645
+          "downloadURL": "https://telos.ftp.sh/ipas/Video Lite v6.23.200 Pro Unlocked blatant Patched.ipa",
+          "size": 41102249
         }
       ],
       "category": "photo-&-video"
@@ -78126,15 +78164,15 @@
       "name": "YouTube Music",
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Google",
-      "subtitle": "YouTube Music for iOS",
+      "subtitle": "Tweaked with CydiaSubstrate, ReturnYouTubeMusicDislikes",
       "version": "9.26.2",
-      "versionDate": "2026-06-30",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.google.ios.youtubemusic-9.26-eeveedecrypter.ipa",
-      "localizedDescription": "YouTube Music for iOS",
+      "versionDate": "2026-07-01",
+      "versionDescription": "Tweaks: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMusicUltimate, blatantsPatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/YouTube Music Ultimate 9.26.2.ipa",
+      "localizedDescription": "YTMusicUltimate",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/77/a5/c777a50a-7115-02c7-5987-c932b877fbcb/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 96408168,
+      "size": 100227409,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a9/e6/bca9e6a9-ecc1-035c-2a5b-b42b38684977/APP_IPHONE_55-0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/b0/e8/c5b0e871-f0de-f914-15aa-5323c4099b92/APP_IPHONE_55-1.png/392x696bb.png",
@@ -78166,10 +78204,10 @@
       "versions": [
         {
           "version": "9.26.2",
-          "date": "2026-06-30",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.google.ios.youtubemusic-9.26-eeveedecrypter.ipa",
-          "size": 96408168
+          "date": "2026-07-01",
+          "localizedDescription": "Tweaks: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMusicUltimate, blatantsPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/YouTube Music Ultimate 9.26.2.ipa",
+          "size": 100227409
         }
       ],
       "category": "music"
@@ -80201,7 +80239,7 @@
     {
       "title": "⚙️ Telos Update 7.1",
       "identifier": "telos-update-2026-07-01",
-      "caption": "26 Apps Updated:\n• 6 Developer Tools\n• 6 Finance\n• 6 Photo & Video\n• 4 Education\n• 2 Productivity\n• 2 Utilities",
+      "caption": "94 Apps Updated:\n• 20 Photo & Video\n• 12 Entertainment\n• 8 Travel\n• 8 Health & Fitness\n• 6 Productivity\n• 6 Utilities\n• 6 Education\n• 4 Developer Tools\n• 4 Finance\n• 4 Music\n• 4 Social Networking\n• 4 Games\n• 4 Business\n• 4 Medical",
       "date": "2026-07-01",
       "tintColor": "#02433b",
       "notify": true,
