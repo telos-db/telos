@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-06-30",
+  "versionDate": "2026-07-01",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -5330,12 +5330,12 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BoldVoice, blatantsPatch\n\nBoldVoice: Accent Training\n\n---\nBoldVoice is the top-rated English speaking and pronunciation app, with over 2 million global users. Our Hollywood accent coaches and AI-powered feedback will help you achieve clear, confident pronunciation, with only 10 minutes of daily practice.\n\nWHY CHOOSE BOLDVOICE:\nLearn from professional accent coaches who train Hollywood actors\nRecord your voice and receive instant, AI-powered pronunciation feedback\nPractice with daily-life scenarios and professional conversations\nMonitor progress through",
-      "version": "4.0.8",
-      "versionDate": "2026-06-27T01:38:27-00:00",
-      "versionDescription": "Build 1 from @blatants",
-      "size": 148235400,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/54/3e/5d543e2c-51bb-1d38-261b-2f75ad39987c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_8_Subscription_Unlocked_blatant_Patched.ipa",
+      "version": "4.0.9",
+      "versionDate": "2026-06-30T23:48:36-00:00",
+      "versionDescription": "Build 3 from @blatants",
+      "size": 158299050,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_9_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "15.5",
       "supportedPlatforms": [
         "iOS"
@@ -5348,7 +5348,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "BoldVoice_Accent_Training_v4_0_8_Subscription_Unlocked_blatant_Patched.ipa"
+        "originalFile": "BoldVoice_Accent_Training_v4_0_9_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -32731,6 +32731,32 @@
       }
     },
     {
+      "name": "Pluto TV",
+      "bundleIdentifier": "tv.pluto.ios",
+      "developerName": "Pluto.tv",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nWelcome to Pluto TV! This Summer, watch Arrow, Hart of Dixie, The 100 & more, streaming on Pluto TV.\n\nWatch your favorite entertainment anytime, anywhere, on any device. All year round, Pluto TV is the ultimate app for films, movies and TV shows streaming on demand.Stream now, Pay never.\n\nWatch free entertainment any time you want with:\n- Free live TV streaming channels (sports, crime, comedy, anime, & more)\n- Stream zillions of free films, movies and TV network shows\n- Stay up to date with loca",
+      "version": "5.75.1",
+      "versionDate": "2026-06-30T23:42:36-00:00",
+      "versionDescription": "Build 1 from @thescholarslounge",
+      "size": 66669459,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/af/d5/b8afd5bd-f1ea-b082-2314-bef8ea0b834e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/tv.pluto.ios-5.75.1-eeveedecrypter.ipa",
+      "minOSVersion": "16.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "tv.pluto.ios-5.75.1-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "pocket",
       "bundleIdentifier": "com.TimonHarz.pocket",
       "developerName": "Rica Harz",
@@ -45064,6 +45090,32 @@
       }
     },
     {
+      "name": "Tubi",
+      "bundleIdentifier": "com.adrise.tubitv",
+      "developerName": "Tubi, Inc",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nNice to meet you, we’re Tubi. We’re more than a completely fee-free streamer with the largest library in the entire streaming universe. We’re entertainment fiends and collectors, and never judgers. So, get comfy and settle into whatever you’re feeling. It’s about to get good.\n\nWATCH WITH ZERO FEES EVER (YES, REALLY!):\n\nLive TV: news, weather, sports, & entertainment\nIt’s live, always on, forever fee-free and has way fewer ads than cable. We call that a win-win-win-win.\n+ Check your local news ch",
+      "version": "10.26.0",
+      "versionDate": "2026-06-30T23:44:18-00:00",
+      "versionDescription": "Build 8 from @thescholarslounge",
+      "size": 127323114,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/c2/8c/c6c28cef-044f-c475-4e57-2bd1d9cb8e3e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.adrise.tubitv-10.26.0-eeveedecrypter.ipa",
+      "minOSVersion": "16.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.adrise.tubitv-10.26.0-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "Tubidy Video Music : FM player",
       "bundleIdentifier": "com.playAllYourMoments",
       "developerName": "Sarmad Majeed",
@@ -47174,12 +47226,12 @@
       "bundleIdentifier": "com.resonantcavity.Voloco",
       "developerName": "Resonant Cavity, Inc",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nVoloco: Vocal Recording Studio\n\n---\nVoloco is a mobile recording studio and audio editor that helps you sound your best.\n\n70+ MILLION DOWNLOADS\nSingers, rappers, musicians, and content creators have downloaded Voloco 70+ million times because we elevate your sound and let you record like a professional with intuitive tools. Make music and content with Voloco––the top-rated singing and recording app. Record better tracks, demos, voice-overs, and video performances with this audio editor and voice recorder today.\n\nSTUDIO SOUND WITHO",
-      "version": "9.16.2",
-      "versionDate": "2026-06-27T02:56:41-00:00",
-      "versionDescription": "Build 635 from @riftysIPAlibrary",
-      "size": 117463071,
+      "version": "9.16.3",
+      "versionDate": "2026-06-30T23:58:58-00:00",
+      "versionDescription": "Build 637 from @riftysIPAlibrary",
+      "size": 117477897,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/ef/86/c6ef86bf-a4ce-72cd-aaa3-783145fc90c3/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.3-riftysipas.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
@@ -47192,7 +47244,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Voloco: Vocal Recording Studio-v9.16.2-riftysipas.ipa"
+        "originalFile": "Voloco: Vocal Recording Studio-v9.16.3-riftysipas.ipa"
       }
     },
     {
@@ -50353,12 +50405,12 @@
       "bundleIdentifier": "com.future.kapi",
       "developerName": "Shanghai Yuhuan Technology Co., LTD",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: KapiCam, blatantsPatch\n\nKapi Cam - Y2K & CCD Camera\n\n---\nKAPI is an application that allows you to shoot DV, CCD, and film. You can use it to record the beautiful moments in life and enjoy the retro-style picture texture and atmosphere.\n\n• Simulates real DV and CCD effects, taking you back to the millennium in one second.\n• Provides a variety of retro-style filters and special effects, allowing you to create different visual effects as you like.\n• Supports real-time preview of effects, allowing you to easily capture your favorite images.\n• Simple and",
-      "version": "4.27.0",
-      "versionDate": "2026-06-22T22:09:47-00:00",
-      "versionDescription": "Build 488 from @blatants",
-      "size": 201759784,
+      "version": "4.29.0",
+      "versionDate": "2026-06-30T23:54:38-00:00",
+      "versionDescription": "Build 498 from @blatants",
+      "size": 201776710,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/cf/27/cdcf2763-37de-1622-5735-d3b427208fbb/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Kapi_Cam_Y2K_&_CCD_Camera_v4_27_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Kapi_Cam_Y2K_&_CCD_Camera_v4_29_0_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "12.0",
       "supportedPlatforms": [
         "iOS"
@@ -50370,7 +50422,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Kapi_Cam_Y2K_&_CCD_Camera_v4_27_0_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Kapi_Cam_Y2K_&_CCD_Camera_v4_29_0_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
