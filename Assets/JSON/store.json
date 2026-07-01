@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.aagame.aagame",
-    "com.lake.coloring",
-    "com.zarz.spotiflacAndroid",
-    "com.soundscape.music",
-    "com.yazio.ios.YAZIO"
+    "com.resonantcavity.Voloco",
+    "com.future.kapi",
+    "com.wellocution.iosapp",
+    "com.adrise.tubitv",
+    "tv.pluto.ios"
   ],
   "apps": [
     {
@@ -8300,14 +8300,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.0.8",
-      "versionDate": "2026-06-27",
+      "version": "4.0.9",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_8_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_9_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nBoldVoice: Accent Training",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/54/3e/5d543e2c-51bb-1d38-261b-2f75ad39987c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 148235400,
+      "size": 158299050,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8327,11 +8327,11 @@
       },
       "versions": [
         {
-          "version": "4.0.8",
-          "date": "2026-06-27",
+          "version": "4.0.9",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_8_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 148235400
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_9_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 158299050
         }
       ],
       "category": "education"
@@ -51759,6 +51759,42 @@
       "category": "education"
     },
     {
+      "name": "Pluto TV",
+      "bundleIdentifier": "tv.pluto.ios",
+      "developerName": "Pluto.tv",
+      "subtitle": "Pluto TV for iOS",
+      "version": "5.75.1",
+      "versionDate": "2026-06-30",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/tv.pluto.ios-5.75.1-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/af/d5/b8afd5bd-f1ea-b082-2314-bef8ea0b834e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 66669459,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Pluto TV uses the microphone to listen for a PIN when connecting to near by chromecast devices.",
+          "NSBluetoothAlwaysUsageDescription": "Pluto TV uses the Bluetooth Peripheral to enable audio with Bluetooth devices and discover nearby Chromecast devices.",
+          "NSBluetoothPeripheralUsageDescription": "Pluto TV uses the Bluetooth Peripheral to enable audio with Bluetooth devices.",
+          "NSLocalNetworkUsageDescription": "Pluto TV uses the local network to discover Cast-enabled devices on your WiFi\nnetwork.",
+          "NSUserTrackingUsageDescription": "We want to provide you with a more personalized content and ad experience here and on other services you visit. Please click \"Allow\" to permit this. Learn more in our Privacy Policy.",
+          "NSPhotoLibraryAddUsageDescription": "Pluto TV uses photo library to save content images."
+        }
+      },
+      "versions": [
+        {
+          "version": "5.75.1",
+          "date": "2026-05-29",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/tv.pluto.ios-5.75.1-eeveedecrypter.ipa",
+          "size": 66669459
+        }
+      ],
+      "category": "entertainment"
+    },
+    {
       "name": "pocket",
       "bundleIdentifier": "com.TimonHarz.pocket",
       "developerName": "Rica Harz",
@@ -71226,6 +71262,50 @@
       "category": "music"
     },
     {
+      "name": "Tubi",
+      "bundleIdentifier": "com.adrise.tubitv",
+      "developerName": "Tubi, Inc",
+      "subtitle": "Tubi for iOS",
+      "version": "10.26.0",
+      "versionDate": "2026-06-30",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.adrise.tubitv-10.26.0-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/c2/8c/c6c28cef-044f-c475-4e57-2bd1d9cb8e3e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 127323114,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/8b/53/8e8b538b-8771-c31e-7dff-656727b9b5cc/Apple_Mobile-5.5_04A_Explore_Hub.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/d3/2c/a4d32cd7-4476-8610-ecb2-05d7ab7e22ef/Apple_Mobile-5.5_04A_Replay_Beyond.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/a0/81/11a0814c-d2d8-f266-d996-9569e1260665/Apple_Mobile-5.5_05A.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/dc/7d/dedc7d7d-3085-a990-919b-1c946cd88dc6/Apple_Mobile-5.5_03B_ANIMATION.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/e3/85/1de38535-eae4-e93d-1140-31bd36aeb8a3/Apple_Mobile-5.5_04A.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Tubi would like to use your camera to capture pictures of the issue.",
+          "NSMicrophoneUsageDescription": "Tubi would like to use the microphone to enable speech to text.",
+          "NSSpeechRecognitionUsageDescription": "Tubi would like to access the microphone for speech recognition.",
+          "NSBluetoothAlwaysUsageDescription": "Tubi would like to use bluetooth for discovering Google Cast devices near you.",
+          "NSBluetoothPeripheralUsageDescription": "Tubi would like to use bluetooth for discovering Google Cast devices near you.",
+          "NSLocalNetworkUsageDescription": "Tubi uses this to find and connect to devices to cast to your TV.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver more personalized video ads during content playback.",
+          "NSPhotoLibraryAddUsageDescription": "We need permission to save images to your Photos library."
+        }
+      },
+      "versions": [
+        {
+          "version": "10.26.0",
+          "date": "2026-06-30",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.adrise.tubitv-10.26.0-eeveedecrypter.ipa",
+          "size": 127323114
+        }
+      ],
+      "category": "entertainment"
+    },
+    {
       "name": "Tubidy Video Music : FM player",
       "bundleIdentifier": "com.playAllYourMoments",
       "developerName": "Sarmad Majeed",
@@ -74493,14 +74573,14 @@
       "bundleIdentifier": "com.resonantcavity.Voloco",
       "developerName": "Resonant Cavity, Inc",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "9.16.2",
-      "versionDate": "2026-06-27",
+      "version": "9.16.3",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.3-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nVoloco: Vocal Recording Studio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/ef/86/c6ef86bf-a4ce-72cd-aaa3-783145fc90c3/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 117463071,
+      "size": 117477897,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -74521,11 +74601,11 @@
       },
       "versions": [
         {
-          "version": "9.16.2",
-          "date": "2026-06-27",
+          "version": "9.16.3",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.2-riftysipas.ipa",
-          "size": 117463071
+          "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.3-riftysipas.ipa",
+          "size": 117477897
         }
       ],
       "category": "music"
@@ -79726,14 +79806,14 @@
       "bundleIdentifier": "com.future.kapi",
       "developerName": "Shanghai Yuhuan Technology Co., LTD",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.27.0",
-      "versionDate": "2026-06-22",
+      "version": "4.29.0",
+      "versionDate": "2026-06-30",
       "versionDescription": "Tweaks: KapiCam, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Kapi_Cam_Y2K_&_CCD_Camera_v4_27_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Kapi_Cam_Y2K_&_CCD_Camera_v4_29_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nKapi Cam - Y2K & CCD Camera",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/cf/27/cdcf2763-37de-1622-5735-d3b427208fbb/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 201759784,
+      "size": 201776710,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -79756,11 +79836,11 @@
       },
       "versions": [
         {
-          "version": "4.27.0",
-          "date": "2026-06-22",
+          "version": "4.29.0",
+          "date": "2026-06-30",
           "localizedDescription": "Tweaks: KapiCam, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Kapi_Cam_Y2K_&_CCD_Camera_v4_27_0_Subscription_Unlocked_blatant.ipa",
-          "size": 201759784
+          "downloadURL": "https://telos.ftp.sh/ipas/Kapi_Cam_Y2K_&_CCD_Camera_v4_29_0_Subscription_Unlocked_blatant.ipa",
+          "size": 201776710
         }
       ],
       "category": "photo-&-video"
@@ -80121,7 +80201,7 @@
     {
       "title": "⚙️ Telos Update 6.30",
       "identifier": "telos-update-2026-06-30",
-      "caption": "100 Apps Updated:\n• 26 Health & Fitness\n• 16 Games\n• 10 Photo & Video\n• 8 Productivity\n• 8 Lifestyle\n• 6 Weather\n• 6 Entertainment\n• 6 Music\n• 4 Utilities\n• 2 Business\n• 2 Education\n• 2 Food & Drink\n• 2 Travel\n• 2 Medical",
+      "caption": "114 Apps Updated:\n• 26 Health & Fitness\n• 14 Photo & Video\n• 14 Games\n• 14 Entertainment\n• 10 Music\n• 8 Productivity\n• 6 Weather\n• 6 Education\n• 6 Lifestyle\n• 2 Business\n• 2 Food & Drink\n• 2 Travel\n• 2 Medical\n• 2 Utilities",
       "date": "2026-06-30",
       "tintColor": "#02433b",
       "notify": true,
