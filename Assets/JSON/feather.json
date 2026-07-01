@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.tickettothemoon.video.persona",
-    "nt.nc.ios",
-    "com.diagnostics.ios",
-    "com.picsart.studio",
-    "com.iptv.player"
+    "gronda.gmbh",
+    "com.glucobit.cravingBuster.CravingBuster",
+    "com.bakeryscent.recipeai",
+    "com.fishbrain.app",
+    "com.gunthermarktl.stepapp"
   ],
   "apps": [
     {
@@ -1766,15 +1766,15 @@
       "name": "Adobe Fresco",
       "bundleIdentifier": "com.adobe.fresco.ios",
       "developerName": "Adobe Inc.",
-      "subtitle": "Tweaked with AdobeFresco, FilePickerFix",
+      "subtitle": "Tweaked with CydiaSubstrate, SatellaJailed",
       "version": "7.4.2",
-      "versionDate": "2026-06-27",
-      "versionDescription": "Tweaks: AdobeFresco, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Fresco_Draw_&_Paint_App_v7_4_2_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AdobeFresco, FilePickerFix, blatantsPatch\n\nAdobe Fresco: Draw & Paint App\n\n---\nAdobe Fresco is a free drawing and painting app designed for digital artists. Built for iPad and iPhone with Apple Pencil Pro compatibility, Fresco offers a wide variety of brushes and features to help you create your next masterpiece.\n\nTake your artwork to the next level by adding motion with Fresco’s suite of animation and motion path tools. Explore frame-by-frame animation and revolutionary motion paths. Draw and paint with rotational and reflective symmetry guides. Paste photos from your cli",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/77/fd/0777fdc2-1d88-79b2-2c44-b7d8d317b02f/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
+      "versionDate": "2026-07-01",
+      "versionDescription": "Tweaks: CydiaSubstrate, SatellaJailed, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Adobe Fresco IAP 7.4.2.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, SatellaJailed, SideloadSpoofer-08\n\nAdobe Fresco\n\n---\nAdobe Fresco is a free, professional drawing and painting app made for everyone. Built for iPad and iPhone with Apple Pencil Pro compatibility, Fresco offers powerful features and thousands of brushes to help you create your next masterpiece.\n\nCREATE & SHARE YOUR ARTWORK\nTake your artwork to the next level with Fresco’s suite of animation tools, visual effects, and expansive brush library. Perfect your artwork with unlimited layers, and easily export and share your work with multiple export pres",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/6b/28/c46b2827-af1a-c39d-bdeb-ee394481b2af/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 679397636,
+      "size": 671347428,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/01/1e/8d011ed1-bbc9-e5e5-6930-d0b6cc5df1d9/96345c11-0e8f-4fc4-95c1-967ebbf1eac2_A_01_Adobe_Fresco_iPad12.9_2ndGen_DrawingTool_2732x2048_CA.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/ca/45/2bca45db-b1ab-803d-2ae5-b43c78f67a99/9a611307-3da9-404c-b932-64123aab1653_A_02_Adobe_Fresco_iPad12.9_2ndGen_Precision_2732x2048_CA.png/576x768bb.png",
@@ -1800,10 +1800,10 @@
       "versions": [
         {
           "version": "7.4.2",
-          "date": "2026-06-27",
-          "localizedDescription": "Tweaks: AdobeFresco, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Fresco_Draw_&_Paint_App_v7_4_2_Subscription_Unlocked_blatant.ipa",
-          "size": 679397636
+          "date": "2026-07-01",
+          "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Adobe Fresco IAP 7.4.2.ipa",
+          "size": 671347428
         }
       ],
       "category": "graphics-&-design"
@@ -11118,14 +11118,14 @@
       "bundleIdentifier": "ovz.Car-Scanner",
       "developerName": "Stanislav Svistunov",
       "subtitle": "Tweaked with SatellaJailed",
-      "version": "2.1.25",
-      "versionDate": "2026-06-09",
+      "version": "2.1.46",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Car Scanner ELM OBD2 Pro 2.1.25.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Car Scanner ELM OBD2 Pro 2.1.46.ipa",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: SatellaJailed\n\nCar Scanner ELM OBD2\n\n---\nCheck what your car is doing in realtime, get OBD fault codes, car performance, sensor data and more!\nCar Scanner is a vehicle / car performance / trip computer / diagnostics tool and scanner that uses an OBD II Wi-Fi or Bluetooth 4.0 (Bluetooth LE) adapter to connect to your OBD2 engine management / ECU.\nCar Scanner gives you a bunch of unique features:\n1) Layout your own dashboard with the gauges and charts you want!\n2) Add custom (extended PIDs) and get information, that was hidden from you b",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/4e/d4/c74ed4bd-6cc2-a97c-dd01-b7f9b9b1d3d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 69530029,
+      "size": 70167983,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/15/0a/76/150a7638-0a44-90f5-54ea-3c5a7dfb2c8b/mzl.ueseydxs.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a0/4d/b7/a04db726-431f-85e3-7f1f-0c6a94492feb/mzl.dmfuesnn.png/392x696bb.png",
@@ -11152,11 +11152,11 @@
       },
       "versions": [
         {
-          "version": "2.1.25",
-          "date": "2026-06-09",
+          "version": "2.1.46",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Car Scanner ELM OBD2 Pro 2.1.25.ipa",
-          "size": 69530029
+          "downloadURL": "https://telos.ftp.sh/ipas/Car Scanner ELM OBD2 Pro 2.1.46.ipa",
+          "size": 70167983
         }
       ],
       "category": "utilities"
@@ -17682,14 +17682,14 @@
       "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
       "developerName": "Readdle Technologies Limited",
       "subtitle": "Tweaked with Documents, FilePickerFix",
-      "version": "8.20.1",
-      "versionDate": "2026-06-22",
+      "version": "8.20.2",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: Documents, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Documents_File_Manager_&_Docs_v8_20_1_DocumentsPlus_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Documents_File_Manager_&_Docs_v8_20_2_DocumentsPlus_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Documents, FilePickerFix, blatantsPatch\n\nDocuments: File Manager & Docs\n\n---\nDocuments by Readdle is a super app for iPhone and iPad. It’s your all-in-one solution for working with files at home, in the office, at university, or on the go. Whether you edit, annotate, convert, listen to, or read, Documents brings everything together in one seamless experience. From books, scans, and receipts to articles, PDFs, audio, and video files, and even ZIP & RAR archives — every type of content finds its home in Documents. One app – infinite capabilities.\n\nServing as your PDF reade",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/4d/18/2b4d188a-eeb7-983e-628c-5845472f2155/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 324381652,
+      "size": 266646885,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -17718,11 +17718,11 @@
       },
       "versions": [
         {
-          "version": "8.20.1",
-          "date": "2026-06-22",
+          "version": "8.20.2",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: Documents, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Documents_File_Manager_&_Docs_v8_20_1_DocumentsPlus_Unlocked_blatant.ipa",
-          "size": 324381652
+          "downloadURL": "https://telos.ftp.sh/ipas/Documents_File_Manager_&_Docs_v8_20_2_DocumentsPlus_Unlocked_blatant.ipa",
+          "size": 266646885
         }
       ],
       "category": "productivity"
@@ -22923,14 +22923,14 @@
       "bundleIdentifier": "com.fishbrain.app",
       "developerName": "FishBrain",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "9.57.0",
-      "versionDate": "2026-06-29",
+      "version": "9.57.1",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fishbrain - Fishing App-v9.57.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fishbrain - Fishing App-v9.57.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nFishbrain - Fishing App\n\n---\nFish smarter with Fishbrain! Find new fishing spots, get detailed local info, and connect with a community of more than 20 million anglers. Fishbrain provides you with the maps and tools you need to improve your fishing skills.\n\nFIND NEW FISHING SPOTS\nFishbrain is the fastest and easiest way to find places to fish. Explore thousands of fishing waters and see exactly where fish are being caught with the Fishbrain map. Take your scouting to the next level with advanced map layers and customization",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/7f/8a/5f7f8a30-1543-59a7-deb6-f468b011dc6a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 104907817,
+      "size": 104908011,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/91/94/349194cb-6260-048c-8706-410bd747c510/587a1251-897c-4222-b374-174bfde201ec_Lake_dock_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/1b/c6/301bc634-8349-8ade-fa39-e14c01234f5b/21e1c76d-0143-4bc2-b0c7-ee6863e2e22f_5.5_new_copy.png/392x696bb.png",
@@ -22960,11 +22960,11 @@
       },
       "versions": [
         {
-          "version": "9.57.0",
-          "date": "2026-06-29",
+          "version": "9.57.1",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fishbrain - Fishing App-v9.57.0-riftysipas.ipa",
-          "size": 104907817
+          "downloadURL": "https://telos.ftp.sh/ipas/Fishbrain - Fishing App-v9.57.1-riftysipas.ipa",
+          "size": 104908011
         }
       ],
       "category": "sports"
@@ -27775,14 +27775,14 @@
       "bundleIdentifier": "gronda.gmbh",
       "developerName": "Gronda GmbH",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "8.23.3",
-      "versionDate": "2026-06-24",
+      "version": "8.24.1",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.23.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.24.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nGronda: Recipes for Chefs\n\n---\nApple’s App of the Day in 120+ Countries\n\n Used by 2M+ Chefs Worldwide\n\n\"Unlimited amount of inspiration\" — Netflix Superstar Ana Roš\n\nGronda is the #1 app for professional and home chefs. Learn from the world’s best, fine dining recipes, and connect with a global community of culinary experts. Discover inspiration, sharpen your skills, and build your personal brand as a chef.\n\nExplore an extensive library of 50,000+ recipes from top chefs, 60+ masterclasses from industry legends, and exclusive",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/25/9f/50259fc7-21e1-ce83-dac6-f535654f358f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 52950761,
+      "size": 53373841,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/5d/43/475d4391-f91c-85a7-e3e6-a4f5466a2dc6/12.9__EN-1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ca/0a/e0ca0a9a-ddcc-2fb8-ed4c-9dcbbd409ba3/12.9__EN-2.jpg/576x768bb.jpg",
@@ -27815,11 +27815,11 @@
       },
       "versions": [
         {
-          "version": "8.23.3",
-          "date": "2026-06-24",
+          "version": "8.24.1",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.23.3-riftysipas.ipa",
-          "size": 52950761
+          "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.24.1-riftysipas.ipa",
+          "size": 53373841
         }
       ],
       "category": "food-&-drink"
@@ -41185,14 +41185,14 @@
       "bundleIdentifier": "com.getmimo.mimo",
       "developerName": "Mimo GmbH",
       "subtitle": "Tweaked with Mimo, blatantsPatch",
-      "version": "12.16.0",
-      "versionDate": "2026-06-29",
+      "version": "12.16.1",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: Mimo, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Mimo_Learn_Coding_Programming_v12_16_0_Max_Subscription_Unlocked.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Mimo_Learn_Coding_Programming_v12_16_1_Max_Subscription_Unlocked.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Mimo, blatantsPatch, sideloadKeychainfix\n\nMimo: Learn Coding/Programming\n\n---\nLearn Python, JavaScript, HTML, CSS, or SQL, and master modern AI-assisted development to become a developer in the age of AI. Mimo is a coding app that takes you from zero to building projects with AI. Gain the knowledge and tools to create production-ready software and pursue a job as a developer. Start building strong portfolio projects today, future-proof your skills, and take the next step beyond just coding syntax—download Mimo and launch your developer career now!\n\nWho It's For\n\nMimo stan",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/1c/ea/301cea49-da17-0244-e0fb-3672a549526d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 171464159,
+      "size": 171483361,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -41211,11 +41211,11 @@
       },
       "versions": [
         {
-          "version": "12.16.0",
-          "date": "2026-06-29",
+          "version": "12.16.1",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: Mimo, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Mimo_Learn_Coding_Programming_v12_16_0_Max_Subscription_Unlocked.ipa",
-          "size": 171464159
+          "downloadURL": "https://telos.ftp.sh/ipas/Mimo_Learn_Coding_Programming_v12_16_1_Max_Subscription_Unlocked.ipa",
+          "size": 171483361
         }
       ],
       "category": "education"
@@ -43881,15 +43881,15 @@
       "name": "MyFitnessPal",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "MyFitnessPal, Inc.",
-      "subtitle": "Tweaked with MyFitnessPal, blatantsPatch",
+      "subtitle": "Tweaked with CydiaSubstrate, MyFitnessPal",
       "version": "26.26.0",
-      "versionDate": "2026-06-30",
-      "versionDescription": "Tweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal_Calorie_Counter_v26_26_0_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nMyFitnessPal: Calorie Counter\n\n---\nAchieve your nutrition, calorie, macro & fitness goals with MyFitnessPal – the AI-powered food & fitness tracker with everything you need. Calories, macros, food, workouts – track it all in one place with one of the most comprehensive health, nutrition & fitness tracking apps available. Now with a built-in AI nutrition Coach for personalized guidance based on your goals and history. Plus GLP-1 journey support - log doses and set reminders in the app.\n\nCreate personalized fitness & nutrition goal",
+      "versionDate": "2026-07-01",
+      "versionDescription": "Tweaks: CydiaSubstrate, MyFitnessPal, SideloadSpoofer-08, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal Premium 26.26.0.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, MyFitnessPal, SideloadSpoofer-08, Sideloadbypass1, Sideloadbypass2\n\nMyFitnessPal: Calorie Counter\n\n---\nAchieve your nutrition, calorie, macro & fitness goals with MyFitnessPal – the AI-powered food & fitness tracker with everything you need. Calories, macros, food, workouts – track it all in one place with one of the most comprehensive health, nutrition & fitness tracking apps available. Now with a built-in AI nutrition Coach for personalized guidance based on your goals and history. Plus GLP-1 journey support - log doses and set reminders in the app.\n\nCreate personalized fitness & nutrition goal",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/ee/f4/89eef492-dbdc-5289-8726-0f261b49ce57/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 341378113,
+      "size": 335252493,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -43914,10 +43914,10 @@
       "versions": [
         {
           "version": "26.26.0",
-          "date": "2026-06-30",
-          "localizedDescription": "Tweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal_Calorie_Counter_v26_26_0_Subscription_Unlocked_blatant.ipa",
-          "size": 341378113
+          "date": "2026-07-01",
+          "localizedDescription": "Tweaks: CydiaSubstrate, MyFitnessPal, SideloadSpoofer-08, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal Premium 26.26.0.ipa",
+          "size": 335252493
         }
       ],
       "category": "health-&-fitness"
@@ -46075,14 +46075,14 @@
       "bundleIdentifier": "nutrition.coach",
       "developerName": "Eclipse Studios",
       "subtitle": "Tweaked with NutriCoach, blatantsPatch",
-      "version": "2.1.6",
-      "versionDate": "2026-06-30",
+      "version": "2.1.7",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: NutriCoach, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_6_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_7_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NutriCoach, blatantsPatch\n\nNutrition Coach: Food tracker\n\n---\nEffortless calories counter, customized meals plan, and delicious recipes. Loose or gain weight in a sustainable way to achieve your objective.\n\nNutrition Coach is the result of 3 years of work by a team of passionate nutritionists. Our programs and calorie counter have been tested for months and approved with visible and sustainable results.\n\nHave you ever experienced a very restrictive diet almost impossible to sustain for more than a couple of days?\nHave you ever experienced weight loss follo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/2d/ac/722dace6-698a-1d4b-cdcf-68abb6545a63/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 73426397,
+      "size": 73428952,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/c6/36/e7c63605-1d22-a72a-fac7-2c684f450697/41392711-be29-4b4a-81aa-f2631d6bffd1_Nutricoach-screenshot-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/2b/f2/a42bf243-4513-c8aa-acff-f4b1ece3d3ed/5f6ea8ed-ee1c-4a9c-9ac4-98f42fce78d0_Nutricoach-screenshot-02.jpg/392x696bb.jpg",
@@ -46107,11 +46107,11 @@
       },
       "versions": [
         {
-          "version": "2.1.6",
-          "date": "2026-06-30",
+          "version": "2.1.7",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: NutriCoach, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_6_Subscription_Unlocked_blatant.ipa",
-          "size": 73426397
+          "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_7_Subscription_Unlocked_blatant.ipa",
+          "size": 73428952
         }
       ],
       "category": "health-&-fitness"
@@ -47566,14 +47566,14 @@
       "bundleIdentifier": "com.itwcalculator.worldradarfree",
       "developerName": "Impala Studios",
       "subtitle": "Tweaked with WeatherRadar, blatantsPatch",
-      "version": "6.0.1",
-      "versionDate": "2026-06-26",
+      "version": "6.0.2",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: WeatherRadar, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Weather_Radar_Ora_Channel_v6_0_1_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Weather_Radar_Ora_Channel_v6_0_2_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: WeatherRadar, blatantsPatch\n\nWeather Radar - Ora Channel\n\n---\nUnpredictable rain. Sudden storms. Missed alerts.\n\nThe weather can change everything - your plans, your safety, your day. Whether you’re heading out for a jog, planning a trip, or keeping an eye on a nearby hurricane, staying informed should be easy.\n\nWeather Radar brings everything you need into one simple, powerful app - a live radar map, storm tracker, and accurate forecast tool designed to help you plan better, stay safe, and feel in control.\n\nWITH WEATHER RADAR YOU CAN:\n ▶ See live radar ma",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/7a/53/847a53a3-25bd-d483-2611-083ad8c01a9b/appIcon_2025-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 102841747,
+      "size": 102841800,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/2e/b0/282eb076-e49b-5770-c533-9d985ca845d5/d4728989-f20d-4c8b-aea9-4416524952fa_iPhone5.5_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/d8/f5/ded8f574-2bf0-e8e2-7031-d9d276817f36/3f20bc18-77a9-417f-a7a7-36fccb4a11e7_iPhone5.5_02.png/392x696bb.png",
@@ -47597,11 +47597,11 @@
       },
       "versions": [
         {
-          "version": "6.0.1",
-          "date": "2026-06-26",
+          "version": "6.0.2",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: WeatherRadar, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Weather_Radar_Ora_Channel_v6_0_1_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 102841747
+          "downloadURL": "https://telos.ftp.sh/ipas/Weather_Radar_Ora_Channel_v6_0_2_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 102841800
         }
       ],
       "category": "weather"
@@ -52621,6 +52621,57 @@
       "category": "entertainment"
     },
     {
+      "name": "Pokémon GO",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "Niantic, Inc.",
+      "subtitle": "Pokémon GO for iOS",
+      "version": "0.417.1",
+      "versionDate": "2026-07-01",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.nianticlabs.pokemongo-0.417.1-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nJoin Trainers across the globe who are discovering Pokémon as they explore the world around them. Pokémon GO is the global gaming sensation that has been downloaded over 1 billion times and named “Best Mobile Game” by the Game Developers Choice Awards and “Best App of the Year” by TechCrunch.\n_\n\nUNCOVER THE WORLD OF POKÉMON: Explore and discover Pokémon wherever you are!\n\nCATCH more Pokémon to complete your Pokédex!\n\nJOURNEY alongside your Buddy Pokémon to help make your Pokémon stronger and ear",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/63/94/e5639414-6661-2586-552d-d081266a0c64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 154140753,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/50/ab/9d/50ab9d05-4725-a079-0b01-95092d80c60a/1fb4d850-cb26-49d0-b3ba-4aeef5f8585b_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b8/e1/09/b8e10933-1a88-7e23-47f2-8eb1c0cfaba8/a4069ca6-f67f-4f3f-a3ed-e6a085820bc7_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/59/d7/be/59d7be1f-ca08-e932-dcec-dfce8142bc13/7d141306-09ab-4f2b-bd39-255c6292f1f3_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/12/22/d8/1222d84c-4995-02af-00e3-ed42aa86e465/2c9cedd8-9a4b-4dc8-9931-28019d8f054c_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/bc/b0/c0/bcb0c095-ed98-0d7e-779e-62d7b167086e/1e095f42-ad23-4aaf-bd8c-614189484264_5.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "In order to save pictures of encountered Pokémon",
+          "NSCameraUsageDescription": "Enabling this setting allows you to use AR when catching Pokémon.",
+          "NSMicrophoneUsageDescription": "App wants access to your microphone.",
+          "NSLocationWhenInUseUsageDescription": "Pokémon GO requires your mobile device’s location permissions to be enabled in order to find Pokémon and PokéStops near you.",
+          "NSLocationAlwaysUsageDescription": "Set your device’s location permissions to Always to collect Candy, hatch Eggs, and earn rewards—even when Pokémon GO isn’t open!",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Set your device’s location permissions to Always to collect Candy, hatch Eggs, and earn rewards—even when Pokémon GO isn’t open!",
+          "NSContactsUsageDescription": "Pokémon GO needs to access and upload your contacts to our servers to send game invites and friend requests to people in your address book.",
+          "NSCalendarsUsageDescription": "In order to add Live Event calendar items",
+          "NSMotionUsageDescription": "Pokémon GO requires your mobile device’s motion permissions to be enabled in order to let you know when new Pokémon are nearby.",
+          "NSHealthShareUsageDescription": "Pokémon GO needs your activity data to hatch Pokémon eggs, help your Pokémon find candies, and display total distance walked.",
+          "NSHealthUpdateUsageDescription": "Pokémon GO needs your activity data to hatch Pokémon eggs, help your Pokémon find candies, and display total distance walked.",
+          "NSBluetoothAlwaysUsageDescription": "Allows pairing to devices including peripherals and consoles.",
+          "NSBluetoothPeripheralUsageDescription": "Allows for usage of the Pokémon GO Plus",
+          "NSUserTrackingUsageDescription": "If you enable this setting, your information can be used to deliver personalized ads to you regarding Pokémon GO exclusive offers, promotions, and events.",
+          "NSPhotoLibraryAddUsageDescription": "In order to save pictures of encountered Pokémon"
+        }
+      },
+      "versions": [
+        {
+          "version": "0.417.1",
+          "date": "2026-07-01",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.nianticlabs.pokemongo-0.417.1-eeveedecrypter.ipa",
+          "size": 154140753
+        }
+      ],
+      "category": "games"
+    },
+    {
       "name": "Pokémon HOME",
       "bundleIdentifier": "jp.pokemon.pokemonhome",
       "developerName": "The Pokemon Company",
@@ -54753,14 +54804,14 @@
       "bundleIdentifier": "ai.qwenlm.chat.ios",
       "developerName": "杭州深度求索人工智能基础技术研究有限公司",
       "subtitle": "Qwen Studio for iOS",
-      "version": "2.1.0",
-      "versionDate": "2026-06-15",
+      "version": "2.5.2",
+      "versionDate": "2026-07-01",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/ai.qwenlm.chat.ios-2.1.0-eeveedecrypter.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ai.qwenlm.chat.ios-2.5.2-eeveedecrypter.ipa",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nExperience seamless interaction with DeepSeek's official AI assistant for free!\nPowered by DeepSeek’s latest flagship model, it delivers faster responses and more powerful features to help you solve problems and live more efficiently.\n\nContact us:\nTwitter: @deepseek_ai\nEmail: service@deepseek.com",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/c7/f7/a5c7f72f-ef99-7a2e-5489-f9ce977a11b1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/11/1c/cd111c71-432e-031f-43fc-5459925ccc73/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 52280639,
+      "size": 54854786,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -54773,11 +54824,11 @@
       },
       "versions": [
         {
-          "version": "2.1.0",
-          "date": "2026-06-15",
+          "version": "2.5.2",
+          "date": "2026-07-01",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/ai.qwenlm.chat.ios-2.1.0-eeveedecrypter.ipa",
-          "size": 52280639
+          "downloadURL": "https://telos.ftp.sh/ipas/ai.qwenlm.chat.ios-2.5.2-eeveedecrypter.ipa",
+          "size": 54854786
         }
       ],
       "category": "productivity"
@@ -55431,15 +55482,15 @@
       "name": "Recify",
       "bundleIdentifier": "com.bakeryscent.recipeai",
       "developerName": "MIRO CONSULTING SRL",
-      "subtitle": "Recify for iOS",
-      "version": "1.7.3",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.bakeryscent.recipeai-1.7.1-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nRecipe Keeper & Saver - Recify: Your Ultimate Cookbook Organizer & Manager\n\nTransform your cooking experience with Recify, the smartest recipe keeper and meal planner app available today! Save and organize all your favorite recipes in one beautifully designed digital cookbook. Never lose track of that perfect dinner idea again!\n\nThe Ultimate Recipe Saver for Food Enthusiasts\n\nEffortlessly collect and save recipes from social media platforms and websites with just one tap. Our powerful AI technol",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/24/89/192489ee-97f8-1863-fc4b-a8f260dc135c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
+      "version": "1.7.4",
+      "versionDate": "2026-07-01",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/Recipe Keeper & Saver - Recify-v1.7.4-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nRecipe Keeper & Saver - Recify\n\n---\nRecipe Keeper & Saver - Recify: Your Ultimate Cookbook Organizer & Manager\n\nTransform your cooking experience with Recify, the smartest recipe keeper and meal planner app available today! Save and organize all your favorite recipes in one beautifully designed digital cookbook. Never lose track of that perfect dinner idea again!\n\nThe Ultimate Recipe Saver for Food Enthusiasts\n\nEffortlessly collect and save recipes from social media platforms and websites with just one tap. Our powerful AI technol",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/bf/4f/73bf4f84-dd27-9ad1-3e98-81d0b50d9371/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 38389560,
+      "size": 37914514,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -55455,11 +55506,11 @@
       },
       "versions": [
         {
-          "version": "1.7.3",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.bakeryscent.recipeai-1.7.1-eeveedecrypter.ipa",
-          "size": 38389560
+          "version": "1.7.4",
+          "date": "2026-07-01",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/Recipe Keeper & Saver - Recify-v1.7.4-riftysipas.ipa",
+          "size": 37914514
         }
       ],
       "category": "food-&-drink"
@@ -55880,14 +55931,14 @@
       "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
       "developerName": "Glucobit Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.9.72",
-      "versionDate": "2026-06-26",
+      "version": "3.9.73",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.72-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.73-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nReframe: Drink Less & Thrive\n\n---\nReframe is the #1 alcohol reduction app, built to help you drink less and live more. Whether your goal is to cut back or quit drinking entirely, Reframe’s neuroscience approach can help you change the way alcohol shows up in your life.\n\nWith a core 160-day, evidence-based, education program, progress tracking, a private community, and a multitude of tools (think meditations, games, and more!), you’ve got everything you need to change your relationship with booze at the click of a button.\n\nNeed e",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/07/cc/3107cc33-dd6e-3b8d-a2aa-d9dc33f80b01/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 242833857,
+      "size": 247297612,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -55915,11 +55966,11 @@
       },
       "versions": [
         {
-          "version": "3.9.72",
-          "date": "2026-06-26",
+          "version": "3.9.73",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.72-riftysipas.ipa",
-          "size": 242833857
+          "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.73-riftysipas.ipa",
+          "size": 247297612
         }
       ],
       "category": "health-&-fitness"
@@ -55929,14 +55980,14 @@
       "bundleIdentifier": "com.damienelledge.Dual-Shot-Camera",
       "developerName": "DAMIEN, NATHANAEL ELLEDGE",
       "subtitle": "Tweaked with RevenueCatFix26",
-      "version": "1.0.11",
-      "versionDate": "2026-06-09",
+      "version": "1.0.12",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/ReFrame Pro 1.0.11.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ReFrame Pro 1.0.12.ipa",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26\n\nReFrame: Multi-Angle Recorder\n\n---\nReFrame: Multi-Angle Recorder makes it effortless to capture landscape and portrait video at the same time, from a single recording. Hit record once and walk away with both a 16:9 horizontal video for YouTube and a 9:16 vertical video for Reels, Shorts, and TikTok. No re-recording. No duplicating shots. Just one take, two ready-to-publish videos.\n\n- ONE TAKE. TWO ASPECT RATIOS.\nTraditional cameras force you to choose: landscape or portrait. Content creators know the pain. You nail the perfect ta",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/fb/eb/51fbeb3a-c1b7-2863-3f3d-5aa8e1fa303e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 5624393,
+      "size": 5641922,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -55950,11 +56001,11 @@
       },
       "versions": [
         {
-          "version": "1.0.11",
-          "date": "2026-06-09",
+          "version": "1.0.12",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/ReFrame Pro 1.0.11.ipa",
-          "size": 5624393
+          "downloadURL": "https://telos.ftp.sh/ipas/ReFrame Pro 1.0.12.ipa",
+          "size": 5641922
         }
       ],
       "category": "photo-&-video"
@@ -60070,14 +60121,14 @@
       "bundleIdentifier": "com.joytunes.asla",
       "developerName": "Simply Ltd",
       "subtitle": "Tweaked with SimplyCrack, blatantsPatch",
-      "version": "9.10.75",
-      "versionDate": "2026-06-23",
+      "version": "9.10.76",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Piano_Learn_Piano_Fast_v9_10_75_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Piano_Learn_Piano_Fast_v9_10_76_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SimplyCrack, blatantsPatch\n\nSimply Piano: Learn Piano Fast\n\n---\nSimply Piano is a fast and fun way to learn piano, from beginner to pro. Works with any piano or keyboard. Chosen as one of the best iPhone apps.\n\n- Tons of fun songs like Imagine, Chandelier, All Of Me and Counting Stars, also J.S. Bach\n- Includes courses for different musical tastes and playing levels\n- Learn the basics step-by-step from reading sheet music to playing with both hands\n- Slow down library songs to choose your own pace for easy learning\n- Personalized 5-Min Workouts ensuring you",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/6f/3c/146f3c0c-b2f4-c1e0-12de-f83d3dcd6517/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/10/a9/2f10a9f1-0b36-7236-3f3a-086a753ae45a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 167372230,
+      "size": 167639831,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/df/82/08df8229-bd28-58e7-798d-ef8b9cf7c494/01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/d1/7c/44d17cee-2d5b-02bd-afc7-9375fed307e0/2.jpg/392x696bb.jpg",
@@ -60104,11 +60155,11 @@
       },
       "versions": [
         {
-          "version": "9.10.75",
-          "date": "2026-06-23",
+          "version": "9.10.76",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Piano_Learn_Piano_Fast_v9_10_75_Subscription_Unlocked_blatant.ipa",
-          "size": 167372230
+          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Piano_Learn_Piano_Fast_v9_10_76_Subscription_Unlocked_blatant.ipa",
+          "size": 167639831
         }
       ],
       "category": "education"
@@ -61311,14 +61362,14 @@
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
       "subtitle": "Tweaked with SnapEdit, blatantsPatch",
-      "version": "6.16",
-      "versionDate": "2026-06-30",
+      "version": "6.17",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.16 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.17 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SnapEdit, blatantsPatch\n\nSnapEdit: Photo Editor AI\n\n---\nSnapEdit is one of the best photo editing apps using AI with a mission to make your editing easy, smooth and fun.\n\nTransform your photos like never before with SnapEdit, the ultimate photo editing app designed to effortlessly remove unwanted objects, enhance image quality, and create stunning visual masterpieces. Download SnapEdit now and unlock a world of possibilities for your photos!\n\nKEY FEATURES:\n\nONE-TOUCH OBJECT REMOVAL: Say goodbye to photobombers, unwanted elements, or distracting objec",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/91/fe/9b91fe48-1611-705a-fb61-64dc25461aaf/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/cb/0d/5dcb0d82-ae96-8bac-4c11-6782319bb3a4/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 108265051,
+      "size": 106127228,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -61337,11 +61388,11 @@
       },
       "versions": [
         {
-          "version": "6.16",
-          "date": "2026-06-30",
+          "version": "6.17",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.16 Pro Unlocked blatant Patched.ipa",
-          "size": 108265051
+          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.17 Pro Unlocked blatant Patched.ipa",
+          "size": 106127228
         }
       ],
       "category": "photo-&-video"
@@ -62948,14 +62999,14 @@
       "bundleIdentifier": "com.jps.gpspeedhud",
       "developerName": "BITHAUS.TECH, UNIPESSOAL LDA",
       "subtitle": "Tweaked with CydiaSubstrate, RevenueCatFix26",
-      "version": "8.0.13",
-      "versionDate": "2026-06-11",
+      "version": "9.0.6",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: CydiaSubstrate, RevenueCatFix26, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Speedometer Pro 8.0.13.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Speedometer Pro 9.0.6.ipa",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, RevenueCatFix26, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSpeedometer Speed Tracker GPS\n\n---\nTransform every journey into valuable data with GPS Speedometer - the most comprehensive speed tracking app for driving, cycling, boating, and beyond. Experience professional-grade features that keep you informed and in control.\n\nCORE FEATURES:\n- Real-time GPS speed tracking with precision accuracy\n- Comprehensive trip computer: speed, distance, altitude, heading, duration\n- Trip recording with route tracking\n- Live map view with real-time position tracking\n- Save and export your journeys\n\nADVAN",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/bc/1a/f6bc1ab7-7ebf-7ef3-579b-8cb97c66923b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/22/40/f02240e2-de6c-7f5f-61c0-20f0e1d637bd/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 33970286,
+      "size": 45718568,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/77/3e/a0773e7e-4c3d-4695-cf10-baaf639f3565/cd7b22c9-b51a-49f2-a6e9-572ed38a1774_01_ipad_2ndGen.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/ec/55/09ec55bc-8f4f-260d-873d-59d77de06132/bf84e6b8-108f-411c-a86e-5be7c3272142_02_ipad_2ndGen.png/552x414bb.png",
@@ -62978,11 +63029,11 @@
       },
       "versions": [
         {
-          "version": "8.0.13",
-          "date": "2026-06-11",
+          "version": "9.0.6",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: CydiaSubstrate, RevenueCatFix26, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Speedometer Pro 8.0.13.ipa",
-          "size": 33970286
+          "downloadURL": "https://telos.ftp.sh/ipas/Speedometer Pro 9.0.6.ipa",
+          "size": 45718568
         }
       ],
       "category": "navigation"
@@ -64468,14 +64519,14 @@
       "bundleIdentifier": "com.gunthermarktl.stepapp",
       "developerName": "StepsApp GmbH",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "8.10.0",
-      "versionDate": "2026-06-19",
+      "version": "8.11.0",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.10.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.11.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nStepsApp Pedometer\n\n---\nThe step counter that actually gets you moving.\n\nJoin over 100 million people building healthier habits with StepsApp. Track your daily activity, stay consistent with streaks, and now compete with friends through leaderboards, group challenges, and social features that make walking surprisingly addictive.\n\nFEATURES\n\n• Automatic step tracking\n• Daily goals and streaks\n• Challenges with friends, family, and coworkers\n• Leaderboards and groups\n• Workout tracking with Heart Rate Zones and Insights\n•",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/98/72/4798721a-55ac-e3bf-dd25-65d9f04d5fb4/AppIconNew-0-1x_U007ephone-0-1-0-sRGB-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 217855889,
+      "size": 219200158,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/94/5e/63945ee0-33a0-de35-a71e-297dd4a183cc/2259ae29-c352-4f85-87ff-2599f6490dd1_0_APP_IPHONE_55_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/07/ff/6d07ff0c-db7e-bf4c-5a2f-489684ed88dc/3fb04dc2-bcb4-4a4d-8001-c7f8172fbdbd_2_APP_IPHONE_55_2.png/392x696bb.png",
@@ -64518,11 +64569,11 @@
       },
       "versions": [
         {
-          "version": "8.10.0",
-          "date": "2026-06-19",
+          "version": "8.11.0",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.10.0-riftysipas.ipa",
-          "size": 217855889
+          "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.11.0-riftysipas.ipa",
+          "size": 219200158
         }
       ],
       "category": "health-&-fitness"
@@ -74587,14 +74638,14 @@
       "bundleIdentifier": "videoeditor.app",
       "developerName": "Luni",
       "subtitle": "Tweaked with VideoStudio, blatantsPatch",
-      "version": "3.21.3",
-      "versionDate": "2026-06-24",
+      "version": "3.21.4",
+      "versionDate": "2026-07-01",
       "versionDescription": "Tweaks: VideoStudio, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Video_Editor_·_v3_21_3_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Video_Editor_·_v3_21_4_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: VideoStudio, blatantsPatch\n\nVideo Editor ·\n\n---\nVideo Editor is the most powerful movie & slideshow editor application on iPhone. Create and edit any video or images, add music, texts, and stickers and export it to your iOS devices or your favorite social networks.\n\nWhether you are in a waiting room, on public transport or comfortably at home, Video Editor is the reference application on the AppStore to create your video project.\nIt is very frequently used to make and share videos on Tik Tok, YouTube, Instagram or Facebook.\n\n- CREATE your pro",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/a9/cd/d6a9cdd4-e1d8-de96-ce2d-d4fbd7622a38/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 211601476,
+      "size": 211656078,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/e7/f5/9be7f5ba-a680-f2a7-f44a-f285e6aaa8ee/1a347d5e-46d2-465f-aa09-5d541862d0e7_V1-8-Screenshot-01-EN.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/58/9e/3a589e6e-80f8-9dc8-61fd-6080c365729d/bfd88dbd-d55d-4af4-a95e-07ce5d5858ea_V1-8-Screenshot-02-EN.png/392x696bb.png",
@@ -74616,11 +74667,11 @@
       },
       "versions": [
         {
-          "version": "3.21.3",
-          "date": "2026-06-24",
+          "version": "3.21.4",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: VideoStudio, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Video_Editor_·_v3_21_3_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 211601476
+          "downloadURL": "https://telos.ftp.sh/ipas/Video_Editor_·_v3_21_4_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 211656078
         }
       ],
       "category": "photo-&-video"
