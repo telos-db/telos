@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "co.visualsupply.cam",
     "com.unofficialcalculators.payplan",
     "com.behindtechlines.HTTPBot",
     "co.vulcanlabs.moodtracker",
-    "com.agent.super.extension.safari",
-    "com.resonantcavity.Voloco"
+    "com.agent.super.extension.safari"
   ],
   "apps": [
     {
@@ -74696,15 +74696,15 @@
       "name": "VSCO",
       "bundleIdentifier": "co.visualsupply.cam",
       "developerName": "Visual Supply Company",
-      "subtitle": "Pro Features Unlocked",
-      "version": "461.4.0",
-      "versionDate": "2026-06-08",
-      "versionDescription": "Tweaks: CydiaSubstrate, RevenueCatFix26, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/VSCO Pro 461.4.0.ipa",
-      "localizedDescription": "Pro Features Unlocked\n\nVSCO: Photo & Video Editor",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/e3/9d/2ce39da1-9621-b119-9851-be6c0b3b2a3a/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "461.5.0",
+      "versionDate": "2026-07-01",
+      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nVSCO: Photo & Video Editor",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/da/df/13dadff7-ba65-d78d-357f-44191bb36fbb/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 203239662,
+      "size": 209319605,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/b0/22/3cb0225e-03cb-363b-dd97-451f113b4481/mzl.iminvglq.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/50/ec/c550ec30-fffa-f371-b7bf-20386ef2fc7d/mzl.rwpqyyls.jpg/576x768bb.jpg",
@@ -74733,11 +74733,11 @@
       },
       "versions": [
         {
-          "version": "461.4.0",
-          "date": "2026-06-08",
-          "localizedDescription": "Tweaks: CydiaSubstrate, RevenueCatFix26, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/VSCO Pro 461.4.0.ipa",
-          "size": 203239662
+          "version": "461.5.0",
+          "date": "2026-07-01",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_0_Subscription_Unlocked_blatant.ipa",
+          "size": 209319605
         }
       ],
       "category": "photo-&-video"
@@ -80201,7 +80201,7 @@
     {
       "title": "⚙️ Telos Update 7.1",
       "identifier": "telos-update-2026-07-01",
-      "caption": "8 Apps Updated:\n• 2 Productivity\n• 2 Developer Tools\n• 2 Utilities\n• 2 Finance",
+      "caption": "12 Apps Updated:\n• 4 Photo & Video\n• 2 Productivity\n• 2 Developer Tools\n• 2 Utilities\n• 2 Finance",
       "date": "2026-07-01",
       "tintColor": "#02433b",
       "notify": true,
