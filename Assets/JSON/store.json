@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "lt.manodrabuziai.fr",
     "com.vertventures.stella",
     "com.risesci.nyx",
     "jp.naver.linecamera",
-    "com.bowery-digital.bend",
-    "boomer.Smart-Video"
+    "com.bowery-digital.bend"
   ],
   "apps": [
     {
@@ -74240,6 +74240,50 @@
       "category": "utilities"
     },
     {
+      "name": "Vinted",
+      "bundleIdentifier": "lt.manodrabuziai.fr",
+      "developerName": "Vinted Limited",
+      "subtitle": "Vinted for iOS",
+      "version": "26.25.0",
+      "versionDate": "2026-07-02",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/lt.manodrabuziai.fr-26.25.0-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/fc/09/e9fc0918-8775-83aa-8e8d-9c414b9fbda3/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 129439648,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/44/e3/2244e397-986c-e6e9-68ab-b73aa1ced90d/96cc4f9d-5dec-4cda-9d04-e9237849cb5f_App_store_-_US_-_Ipad_-_1.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/e4/4a/cfe44ac0-8371-f5b4-e71e-46ce6aa1f00a/28074f7e-08be-4b71-9d45-a4b6b487391f_App_store_-_US_-_Ipad_-_2.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/14/87/f51487f3-034d-81e5-fb61-ad10300173aa/06463ce4-da93-46a0-bac1-9c1c1b8a40e2_App_store_-_US_-_Ipad_-_3.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/76/db/1076dbeb-f544-1fb3-ea57-9b9de3581a6f/84d960aa-1906-41d7-97cb-82c36ff3dab8_App_store_-_US_-_Ipad_-_4.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/1c/50/ff1c5070-28d8-9fb3-21e3-f97bc7e96673/6e01c35e-566a-4fdc-a8b5-4816d0672c96_App_store_-_US_-_Ipad_-_5.png/576x768bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "To allow the user to add previously made photos to a listing they’re creating.",
+          "NSCameraUsageDescription": "Enable camera access to take photos when creating a listing or searching with an image in the app",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your Close-Ups videos.",
+          "NSLocationWhenInUseUsageDescription": "Required to see nearby listings.",
+          "NSSpeechRecognitionUsageDescription": "This lets you dictate the title and description for items you list.",
+          "NSFaceIDUsageDescription": "Use Face ID to secure your account in seconds.",
+          "NSUserTrackingUsageDescription": "This will be used to improve your experience and show you personalised ads.",
+          "NSPhotoLibraryAddUsageDescription": "To allow the user to add previously made photos to a listing they’re creating."
+        }
+      },
+      "versions": [
+        {
+          "version": "26.25.0",
+          "date": "2026-06-29",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/lt.manodrabuziai.fr-26.25.0-eeveedecrypter.ipa",
+          "size": 129439648
+        }
+      ],
+      "category": "shopping"
+    },
+    {
       "name": "Vintify",
       "bundleIdentifier": "vintage.photo.editor.retro.aesthetic.effect",
       "developerName": "Hashone Tech LLP",
@@ -80441,7 +80485,7 @@
     {
       "title": "⚙️ Telos Update 7.2",
       "identifier": "telos-update-2026-07-02",
-      "caption": "87 Apps Updated:\n• 23 Photo & Video\n• 13 Health & Fitness\n• 10 Games\n• 9 Lifestyle\n• 6 Medical\n• 4 Food & Drink\n• 3 Music\n• 3 Productivity\n• 2 Books\n• 2 Finance\n• 2 Utilities\n• 2 Navigation\n• 2 Sports\n• 2 Shopping\n• 2 Education\n• 2 Entertainment",
+      "caption": "91 Apps Updated:\n• 23 Photo & Video\n• 13 Health & Fitness\n• 10 Games\n• 9 Lifestyle\n• 6 Medical\n• 6 Shopping\n• 4 Food & Drink\n• 3 Music\n• 3 Productivity\n• 2 Books\n• 2 Finance\n• 2 Utilities\n• 2 Navigation\n• 2 Sports\n• 2 Education\n• 2 Entertainment",
       "date": "2026-07-02",
       "tintColor": "#02433b",
       "notify": true,
