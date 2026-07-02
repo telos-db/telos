@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.huckleberry-labs.app",
-    "lt.manodrabuziai.fr",
-    "com.vertventures.stella",
-    "com.risesci.nyx",
-    "jp.naver.linecamera"
+    "com.ketchapp.horizon",
+    "com.hiiker.hiiker",
+    "br.com.marcosatanaka.music-harbor",
+    "com.google.ios.youtube",
+    "com.huckleberry-labs.app"
   ],
   "apps": [
     {
@@ -29555,14 +29555,14 @@
       "bundleIdentifier": "com.hiiker.hiiker",
       "developerName": "Waymarked Trails LTD",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "26.65",
-      "versionDate": "2026-06-23",
+      "version": "26.71",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/HiiKER: The Hiking Maps App-v26.65-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/HiiKER: The Hiking Maps App-v26.71-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nHiiKER: The Hiking Maps App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/ba/3c/41ba3c76-ec39-32bb-3762-c49f80f7c2d3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 120181610,
+      "size": 120186103,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/d1/f0/b9d1f09a-a1e3-6f9a-1e2b-04776138af7b/4fd42d7f-8457-45ed-bd48-ae7df5b7928a_6.5_U201d_1242_x_2688_-_166__U00281_U0029.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/72/88/9d7288a2-cf02-02a0-86aa-b8710447d8e9/d63f82fb-ed09-4e11-98b0-9d3a3e30fe43_5.5_U201d_1242_x_2208.jpg/392x696bb.jpg",
@@ -29591,11 +29591,11 @@
       },
       "versions": [
         {
-          "version": "26.65",
-          "date": "2026-06-23",
+          "version": "26.71",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/HiiKER: The Hiking Maps App-v26.65-riftysipas.ipa",
-          "size": 120181610
+          "downloadURL": "https://telos.ftp.sh/ipas/HiiKER: The Hiking Maps App-v26.71-riftysipas.ipa",
+          "size": 120186103
         }
       ],
       "category": "navigation"
@@ -30013,14 +30013,14 @@
       "bundleIdentifier": "com.ketchapp.horizon",
       "developerName": "Ketchapp",
       "subtitle": "*Tweak:** Free Iap | *Patched ✓**",
-      "version": "1.3.11",
-      "versionDate": "2026-06-13",
+      "version": "1.3.12",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Horizon-v1.3.11-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Horizon-v1.3.12-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Free Iap | *Patched ✓**\n\nHorizon",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/2a/79/552a79dd-b4f0-b376-b6f0-b5c18eea693c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 87877065,
+      "size": 88173526,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/6e/50/40/6e5040fc-6d56-500b-5309-818f5a731903/pr_source.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ab/ac/87/abac8751-2a57-8ba1-1501-36b8fef12795/pr_source.jpg/392x696bb.jpg",
@@ -30034,18 +30034,17 @@
           "com.apple.developer.game-center"
         ],
         "privacy": {
-          "NSLocationWhenInUseUsageDescription": "Your location is used to show you more relevant ad content.",
           "NSCalendarsUsageDescription": "Some Ads may use this.",
           "NSUserTrackingUsageDescription": "Your data will be used to deliver you personalized and relevant ads"
         }
       },
       "versions": [
         {
-          "version": "1.3.11",
-          "date": "2026-04-28",
+          "version": "1.3.12",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Horizon-v1.3.11-riftysipas.ipa",
-          "size": 87877065
+          "downloadURL": "https://telos.ftp.sh/ipas/Horizon-v1.3.12-riftysipas.ipa",
+          "size": 88173526
         }
       ],
       "category": "games"
@@ -43054,14 +43053,14 @@
       "bundleIdentifier": "br.com.marcosatanaka.music-harbor",
       "developerName": "Loop Apps LTDA",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "5.2.9",
-      "versionDate": "2026-07-01",
+      "version": "5.3.0",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MusicHarbor - Track New Music-v5.2.9-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MusicHarbor - Track New Music-v5.3.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nMusicHarbor - Track New Music",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/9b/97/869b97e7-5d5a-fa16-f142-fd58ce3290f7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 49472772,
+      "size": 49483661,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/79/eb/9179eb41-2d81-c8b0-5364-faa4b7e427d6/b05845d3-898f-47d8-b1aa-b9699435dd84_4.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/06/bd/4b06bdcb-5859-8735-9df8-e79f2bf318a1/72fa8ce1-1264-448a-9548-5c446c0d9454_5.png/392x696bb.png",
@@ -43085,11 +43084,11 @@
       },
       "versions": [
         {
-          "version": "5.2.9",
-          "date": "2026-07-01",
+          "version": "5.3.0",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MusicHarbor - Track New Music-v5.2.9-riftysipas.ipa",
-          "size": 49472772
+          "downloadURL": "https://telos.ftp.sh/ipas/MusicHarbor - Track New Music-v5.3.0-riftysipas.ipa",
+          "size": 49483661
         }
       ],
       "category": "music"
@@ -78353,12 +78352,12 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "subtitle": "Cracked",
+      "subtitle": "Tweaked with Analytics, CydiaSubstrate",
       "version": "21.26.4",
       "versionDate": "2026-07-02",
-      "versionDescription": "Tweaks: Analytics, CydiaSubstrate, DontEatMyContent, Gonerino, YTABConfig\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/YouTube_5.7.6_ace_extra.ipa",
-      "localizedDescription": "Cracked\n\nYTKP 5.7.6 cracked by @itzzace0",
+      "versionDescription": "Tweaks: Analytics, CydiaSubstrate, DontEatMyContent, Gonerino, YTABConfig\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/YouTubeKP_5.7.6_ace_extra.ipa",
+      "localizedDescription": "YouTube for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
       "size": 136302826,
@@ -78399,8 +78398,8 @@
         {
           "version": "21.26.4",
           "date": "2026-07-02",
-          "localizedDescription": "Tweaks: Analytics, CydiaSubstrate, DontEatMyContent, Gonerino, YTABConfig\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/YouTube_5.7.6_ace_extra.ipa",
+          "localizedDescription": "Tweaks: Analytics, CydiaSubstrate, DontEatMyContent, Gonerino, YTABConfig\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/YouTubeKP_5.7.6_ace_extra.ipa",
           "size": 136302826
         }
       ],
@@ -80485,7 +80484,7 @@
     {
       "title": "⚙️ Telos Update 7.2",
       "identifier": "telos-update-2026-07-02",
-      "caption": "93 Apps Updated:\n• 23 Photo & Video\n• 13 Health & Fitness\n• 10 Games\n• 10 Medical\n• 9 Lifestyle\n• 4 Food & Drink\n• 4 Shopping\n• 3 Music\n• 3 Productivity\n• 2 Books\n• 2 Finance\n• 2 Utilities\n• 2 Navigation\n• 2 Sports\n• 2 Education\n• 2 Entertainment",
+      "caption": "107 Apps Updated:\n• 27 Photo & Video\n• 14 Games\n• 13 Health & Fitness\n• 9 Lifestyle\n• 8 Medical\n• 7 Music\n• 6 Navigation\n• 4 Food & Drink\n• 4 Shopping\n• 3 Productivity\n• 2 Books\n• 2 Finance\n• 2 Utilities\n• 2 Sports\n• 2 Education\n• 2 Entertainment",
       "date": "2026-07-02",
       "tintColor": "#02433b",
       "notify": true,
