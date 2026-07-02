@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.maplepop.bmcx",
+    "com.offlinemusic",
     "com.campmobile.snow",
     "com.nuvio.media",
-    "com.google.ios.youtube",
-    "com.pixeldev.APEXRacers",
-    "com.tr.paraphrasingtool.rewritertool.textrewriter"
+    "com.google.ios.youtube"
   ],
   "apps": [
     {
@@ -39996,14 +39996,14 @@
       "bundleIdentifier": "com.maplepop.bmcx",
       "developerName": "Maplepop LLC",
       "subtitle": "Tweaked with MapleReadCX, blatantsPatch",
-      "version": "6.4",
-      "versionDate": "2026-06-19",
+      "version": "6.4.2",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: MapleReadCX, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/MapleRead CX v6.4.1 Subscription Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MapleRead CX v6.4.2 Subscription Unlocked blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MapleReadCX, blatantsPatch\n\nMapleRead CX\n\n---\nMapleRead is dedicated to enable unique audio-visual reading experience for everyone.\n\n------------\nOur MapleRead app family has 3 members, namely SE, CE and CX.\n- SE is our flagship product with all features.\n- CE is SE without PDF reader and built-in Library Server.\n- CX is CE with some limitation. Free to try.\n- No recurring subscription fees. No ads. Just buy it once. Gratuity optional.\n- Moreover, SE and CE can be run side-by-side via split-view multitasking.\n- Recommend SE for use on multi",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/1f/3f/b01f3f1d-d8f2-afcf-794c-de958701266c/AppIcon-mpr-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/0c/69/090c69e7-8d11-f273-35bb-ac9f3c86de83/AppIcon-mpr-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 19107686,
+      "size": 19107778,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/15/f0/bf/15f0bf27-7821-c99c-f35b-4950f3782cc5/9fde496e-d60c-4fed-ba16-fbd2ab751ead_library_scenes.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/51/0d/80/510d80ee-4bc4-e4dd-5ac8-3817e50ea048/c1953ac3-9a21-4ae1-baa0-a97dabf49424_magnify_book_cover.png/392x696bb.png",
@@ -40023,11 +40023,11 @@
       },
       "versions": [
         {
-          "version": "6.4",
-          "date": "2026-06-19",
+          "version": "6.4.2",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: MapleReadCX, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/MapleRead CX v6.4.1 Subscription Unlocked blatant Patched.ipa",
-          "size": 19107686
+          "downloadURL": "https://telos.ftp.sh/ipas/MapleRead CX v6.4.2 Subscription Unlocked blatant Patched.ipa",
+          "size": 19107778
         }
       ],
       "category": "books"
@@ -46737,14 +46737,14 @@
       "bundleIdentifier": "com.offlinemusic",
       "developerName": "Md Zakir Hossain",
       "subtitle": "Tweaked with OfflineMusicPlayer, blatantsPatch",
-      "version": "3.8.6",
-      "versionDate": "2026-06-23",
+      "version": "3.8.7",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.6 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.7 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nOffline Music Player\n\n---\nImport your favorite Music and Play anywhere! Listen OFFLINE, No LIMITS!\n\nMAJOR FEATURES-\n\n● The easiest way to play offline music.\n● Save music for offline access.\n● Play offline–no internet or WiFi needed.\n● Easily transfer tracks to iPhone, iPad, and iPod touch.\n● Almost all the popular format is supported.\n● .Mp3,.Flac,.wav, .caf, .wav, .aac etc.\n● Add music to your favorite playlist.\n● Beautiful design.\n● Headphone control.\n● Create & manage playlists.\n● Powerful music player.\n● Equalizer.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/62/e3/5d62e34f-c473-a1e1-99d4-9133d525a351/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 97707113,
+      "size": 97298269,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/74/3d/e0743d5f-5903-ff53-ac44-b4b859a53051/14112d4b-9e03-402e-b9d0-0f90e8c8cabb_iPhone_screenshot.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/f7/4f/37f74f82-c6bf-7eb7-7b76-1c48717e0d22/637cd3d6-5191-4d9f-be32-400fdd95d0d0_iPhone_screenshot1.png/392x696bb.png",
@@ -46773,11 +46773,11 @@
       },
       "versions": [
         {
-          "version": "3.8.6",
-          "date": "2026-06-23",
+          "version": "3.8.7",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.6 Pro Unlocked blatant Patched.ipa",
-          "size": 97707113
+          "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.7 Pro Unlocked blatant Patched.ipa",
+          "size": 97298269
         }
       ],
       "category": "music"
