@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.unofficialcalculators.payplan",
-    "com.genau.MoneyCircle",
-    "com.choiceapps.recipesfdw",
-    "com.ToweringTower.KnightLancer",
-    "com.sfun.snapedit"
+    "com.piano.star.tiles.music.circles.dancing.beat.magic",
+    "com.sadpuppy.lemmings",
+    "de.komoot.berlinbikeapp",
+    "com.kalavision.alfred",
+    "com.tickettothemoon.video.persona"
   ],
   "apps": [
     {
@@ -2844,14 +2844,14 @@
       "bundleIdentifier": "com.kalavision.alfred",
       "developerName": "Alfred Systems Inc.",
       "subtitle": "Pro Features Unlocked",
-      "version": "2026.12.0",
-      "versionDate": "2026-06-09",
+      "version": "2026.13.2",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: RevenueCatFix26, sideloadKeychainfix\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Alfred Home Security Camera Premium 2026.12.0.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Alfred Home Security Camera Premium 2026.13.2.ipa",
       "localizedDescription": "Pro Features Unlocked\n\nAlfred Home Security Camera",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/bb/b1/40bbb129-e133-f780-3d13-70f2d9b83327/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 116638567,
+      "size": 117685177,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/10/ba/3510ba98-8e41-8c1a-9486-8e2dfeb40f51/iphone_5.5__1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/57/29/205729cf-b0ba-f256-e7dc-ab9812776c11/iphone_5.5__2__U00281_U0029.png/392x696bb.png",
@@ -2885,11 +2885,11 @@
       },
       "versions": [
         {
-          "version": "2026.12.0",
-          "date": "2026-06-09",
+          "version": "2026.13.2",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: RevenueCatFix26, sideloadKeychainfix\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Alfred Home Security Camera Premium 2026.12.0.ipa",
-          "size": 116638567
+          "downloadURL": "https://telos.ftp.sh/ipas/Alfred Home Security Camera Premium 2026.13.2.ipa",
+          "size": 117685177
         }
       ],
       "category": "lifestyle"
@@ -8005,6 +8005,53 @@
         }
       ],
       "category": "utilities"
+    },
+    {
+      "name": "Blitzer.de PRO",
+      "bundleIdentifier": "com.eifrig.blitzerdepro",
+      "developerName": "Eifrig Media",
+      "subtitle": "Tweaked with SatellaJailed",
+      "version": "400.3.3",
+      "versionDate": "2026-07-02",
+      "versionDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Blitzer.de PRO IAP 400.3.3.ipa",
+      "localizedDescription": "Blitzer.de PRO",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/57/5a/8c575a9f-5cbe-89a6-38ac-d42358ca0208/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 50237736,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/87/d3/1287d3e5-70b3-5fc9-bb96-66a669baff8c/EN_5_5_inch_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/af/3d/afaf3dfc-4b72-b920-5d4e-e1044f180fcc/EN_5_5_inch_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/07/92/95079291-bf75-b237-34e0-c67546717ab3/EN_5_5_inch_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/af/25/f7af2503-4ab8-6099-5d25-541cc00e331d/EN_5_5_inch_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/89/fb/f089fb67-93b0-8bfe-3b1a-77e02e34cc50/EN_5_5_inch_5.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.private.skip-library-validation",
+          "com.apple.security.application-groups",
+          "platform-application",
+          "run-unsigned-code"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "The app needs photo access if you want to attach an image when contacting us.",
+          "NSCameraUsageDescription": "The app needs camera access if you want to attach a camera image when contacting us.",
+          "NSLocationWhenInUseUsageDescription": "For the app to give alerts it needs your location.",
+          "NSLocationAlwaysUsageDescription": "For the app to give alerts it needs your location.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "For the app to give alerts it needs your location."
+        }
+      },
+      "versions": [
+        {
+          "version": "400.3.3",
+          "date": "2026-07-02",
+          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Blitzer.de PRO IAP 400.3.3.ipa",
+          "size": 50237736
+        }
+      ],
+      "category": "navigation"
     },
     {
       "name": "Block Blast!",
@@ -34813,20 +34860,20 @@
       "bundleIdentifier": "de.komoot.berlinbikeapp",
       "developerName": "komoot GmbH",
       "subtitle": "Tweaked with CydiaSubstrate, KomootPatch",
-      "version": "2026.24.1",
-      "versionDate": "2026-06-16",
+      "version": "2026.26.2",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, KomootPatch, SideloadSpoofer-08, blatantsPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/komoot Premium 2026.24.1.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/komoot Premium 2026.26.2.ipa",
       "localizedDescription": "komoot - hike, bike & run",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/93/95/c593950b-b171-98fc-829e-902106458a4d/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/33/45/8a334556-7f8a-a1d8-0119-437bf4296f4a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 108232256,
+      "size": 110377822,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/32/af/3132af68-9df0-16da-1363-93f88fb557da/89f34834-4833-45bc-8093-bcb0e22b3cd2_1.jpg/576x768bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/e8/b5/20e8b5ed-b6c0-7428-6a99-61ffa02f473d/9f169a8e-07fd-4379-80b9-358ddc3b989c_2.jpg/576x768bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/6d/f1/466df1e8-2fa2-88f0-2702-4a9c373ea0ad/050c7295-588e-4a25-be15-4477171cce6a_3.jpg/576x768bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/ca/77/d5ca77ed-4e99-f617-a550-c1159a4c1f50/99277eab-b7dd-432f-8264-24d5b257dde2_4.jpg/576x768bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/bc/ee/2ebcee6f-1942-2159-68ff-9f763c6dacf1/efde5003-d64c-4f91-af30-c4b6ccd59696_5.jpg/576x768bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/d4/85/eed4857a-24dc-013c-4cec-3289141d1005/89f34834-4833-45bc-8093-bcb0e22b3cd2_1.jpg/576x768bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/3a/b2/f03ab2f4-a40c-a14d-665c-4cef5268f717/9f169a8e-07fd-4379-80b9-358ddc3b989c_2.jpg/576x768bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/d2/bd/33d2bdb6-bc7e-7041-4dc1-260b2aafb8af/050c7295-588e-4a25-be15-4477171cce6a_3.jpg/576x768bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/b3/1b/42b31b34-e667-a647-4d46-278656a6622c/99277eab-b7dd-432f-8264-24d5b257dde2_4.jpg/576x768bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/5e/1d/a15e1d7f-8fe2-7131-c59e-de8ad05554ea/efde5003-d64c-4f91-af30-c4b6ccd59696_5.jpg/576x768bb.jpg"
       ],
       "appPermissions": {
         "entitlements": [
@@ -34855,11 +34902,11 @@
       },
       "versions": [
         {
-          "version": "2026.24.1",
-          "date": "2026-06-16",
+          "version": "2026.26.2",
+          "date": "2026-06-26",
           "localizedDescription": "Tweaks: CydiaSubstrate, KomootPatch, SideloadSpoofer-08, blatantsPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/komoot Premium 2026.24.1.ipa",
-          "size": 108232256
+          "downloadURL": "https://telos.ftp.sh/ipas/komoot Premium 2026.26.2.ipa",
+          "size": 110377822
         }
       ],
       "category": "health-&-fitness"
@@ -36089,14 +36136,14 @@
       "bundleIdentifier": "com.sadpuppy.lemmings",
       "developerName": "SAD PUPPY",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "9.4.0",
-      "versionDate": "2026-06-30",
+      "version": "9.4.1",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.4.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.4.1-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nLemmings: Strategy & Puzzle",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/fb/ec/b8fbec01-9cc3-0392-8e75-2f990fd05d55/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 127559696,
+      "size": 127561016,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/e4/7c/ede47c92-98b6-832b-9f27-6fc9ed19546f/cf6c4041-a14e-454c-a56d-aaafb1c5843c_1_Eng_1242x2208_iPhone6_COMPLETE.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/ee/7e/a4ee7e38-da81-ba8f-134b-b222e2e9a20b/29ac5f9b-e36c-4de5-9226-77b031aec539_7_Eng_1242x2208_iPhone6_DISCOVER.png/392x696bb.png",
@@ -36123,11 +36170,11 @@
       },
       "versions": [
         {
-          "version": "9.4.0",
-          "date": "2026-06-30",
+          "version": "9.4.1",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.4.0-riftysipas.ipa",
-          "size": 127559696
+          "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.4.1-riftysipas.ipa",
+          "size": 127561016
         }
       ],
       "category": "games"
@@ -49208,15 +49255,15 @@
       "name": "Persona",
       "bundleIdentifier": "com.tickettothemoon.video.persona",
       "developerName": "Ticket To The Moon, Inc.",
-      "subtitle": "*Tweak:** Subscription Unlocked | *Notes:** Restart App If Subscription Isn'T Unlocked",
+      "subtitle": "Tweaked with RevenueCatFix26",
       "version": "1.15.42",
-      "versionDate": "2026-07-01",
-      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.42-riftysipas.ipa",
-      "localizedDescription": "*Tweak:** Subscription Unlocked | *Notes:** Restart App If Subscription Isn'T Unlocked | *Patched ✓**\n\nPersona: Beauty Camera",
+      "versionDate": "2026-07-02",
+      "versionDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Persona VIP 1.15.42.ipa",
+      "localizedDescription": "Persona: Beauty Camera",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/c0/40/2fc040d4-f7ce-f0c0-2743-147d41eb8b54/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 201369581,
+      "size": 201825343,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/e8/3f/86e83fd9-a8a2-d374-093c-5cf9db87038f/1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/96/ea/5896ea61-9d97-835e-e869-654385f1af2e/5.jpg/392x696bb.jpg",
@@ -49241,10 +49288,10 @@
       "versions": [
         {
           "version": "1.15.42",
-          "date": "2026-07-01",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.42-riftysipas.ipa",
-          "size": 201369581
+          "date": "2026-07-02",
+          "localizedDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Persona VIP 1.15.42.ipa",
+          "size": 201825343
         }
       ],
       "category": "photo-&-video"
@@ -49334,14 +49381,14 @@
       "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
       "developerName": "RAY INFORMATICS YAZILIM TEKNOLOJI MEDYA DANISMANLIK VE EGITIM TICARET LIMITED SIRKETI",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "3.4.1",
-      "versionDate": "2026-06-10",
+      "version": "3.4.2",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Phocus_DSLR_Portrait_Camera_v3_4_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Phocus_DSLR_Portrait_Camera_v3_4_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPhocus: DSLR Portrait Camera",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/85/82/1a858289-1fc9-cb02-7c2c-5dd020eb276a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/7d/82/a57d8257-9352-d828-e2ac-976f52cb4966/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 245772099,
+      "size": 272358335,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -49357,11 +49404,11 @@
       },
       "versions": [
         {
-          "version": "3.4.1",
-          "date": "2026-06-10",
+          "version": "3.4.2",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Phocus_DSLR_Portrait_Camera_v3_4_1_Subscription_Unlocked_blatant.ipa",
-          "size": 245772099
+          "downloadURL": "https://telos.ftp.sh/ipas/Phocus_DSLR_Portrait_Camera_v3_4_2_Subscription_Unlocked_blatant.ipa",
+          "size": 272358335
         }
       ],
       "category": "photo-&-video"
@@ -50111,14 +50158,14 @@
       "bundleIdentifier": "com.piano.star.tiles.music.circles.dancing.beat.magic",
       "developerName": "TINYMAX HONGKONG LIMITED",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "1.7.4",
-      "versionDate": "2026-06-22",
+      "version": "1.7.5",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, popuprifty, riftyspianostar\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Piano Star - Tap Your Music-v1.7.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Piano Star - Tap Your Music-v1.7.5-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nPiano Star - Tap Your Music",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/4f/cc/a74fcc1d-6a36-b6b0-32c4-8f7f706d79a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 169278575,
+      "size": 169258989,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/8c/0f/e48c0fe2-797e-737c-0ab7-e891183ff1c4/51490eb7-a98b-4b1d-8775-bd3af301e00b_2.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/29/4a/af/294aaf79-27a4-5d53-c123-0b64a4b5acc9/b1c999f6-b5b3-40b8-a66e-c6361f091419_3.jpg/392x696bb.jpg",
@@ -50139,11 +50186,11 @@
       },
       "versions": [
         {
-          "version": "1.7.4",
-          "date": "2026-06-22",
+          "version": "1.7.5",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, popuprifty, riftyspianostar\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Piano Star - Tap Your Music-v1.7.4-riftysipas.ipa",
-          "size": 169278575
+          "downloadURL": "https://telos.ftp.sh/ipas/Piano Star - Tap Your Music-v1.7.5-riftysipas.ipa",
+          "size": 169258989
         }
       ],
       "category": "games"
@@ -66130,14 +66177,14 @@
       "bundleIdentifier": "com.ocho.SudokuaDay",
       "developerName": "Ocho",
       "subtitle": "Pro Features Unlocked",
-      "version": "2.2.5",
-      "versionDate": "2026-06-11",
+      "version": "2.3.0",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sudoku a Day Pro 2.2.5.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sudoku a Day Pro 2.3.0.ipa",
       "localizedDescription": "Pro Features Unlocked\n\nSudoku a Day",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/6b/6b/9f6b6b29-545d-a9c4-a59d-5474aac002c7/appIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 88500316,
+      "size": 113136047,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -66155,11 +66202,11 @@
       },
       "versions": [
         {
-          "version": "2.2.5",
-          "date": "2026-04-17",
+          "version": "2.3.0",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Sudoku a Day Pro 2.2.5.ipa",
-          "size": 88500316
+          "downloadURL": "https://telos.ftp.sh/ipas/Sudoku a Day Pro 2.3.0.ipa",
+          "size": 113136047
         }
       ],
       "category": "games"
@@ -80354,7 +80401,7 @@
     {
       "title": "⚙️ Telos Update 7.2",
       "identifier": "telos-update-2026-07-02",
-      "caption": "41 Apps Updated:\n• 11 Photo & Video\n• 6 Games\n• 5 Health & Fitness\n• 5 Productivity\n• 4 Finance\n• 4 Utilities\n• 3 Music\n• 2 Books\n• 1 Lifestyle",
+      "caption": "63 Apps Updated:\n• 17 Photo & Video\n• 16 Games\n• 9 Health & Fitness\n• 5 Lifestyle\n• 4 Navigation\n• 3 Music\n• 3 Productivity\n• 2 Books\n• 2 Finance\n• 2 Utilities",
       "date": "2026-07-02",
       "tintColor": "#02433b",
       "notify": true,
