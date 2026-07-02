@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.maplepop.bmcx",
-    "com.offlinemusic",
-    "com.campmobile.snow",
-    "com.nuvio.media",
-    "com.google.ios.youtube"
+    "com.unofficialcalculators.payplan",
+    "com.genau.MoneyCircle",
+    "com.choiceapps.recipesfdw",
+    "com.ToweringTower.KnightLancer",
+    "com.sfun.snapedit"
   ],
   "apps": [
     {
@@ -7429,14 +7429,14 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "subtitle": "*Tweak:** Full Version Unlocked | *Patched ✓**",
-      "version": "4.1.99",
-      "versionDate": "2026-07-01",
+      "version": "4.1.100",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.99-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.100-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Full Version Unlocked | *Patched ✓** | *Developer:** Bill Tracker Pro, Inc.\n\nBill Tracker Pro",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/61/b5/8a61b500-b5a9-ea91-7776-d63a1d2d9a18/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 148189515,
+      "size": 148191239,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/df/72/1cdf72bb-1d54-7a27-d6e4-e54ef4151c21/pr_source.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/ab/2c/f4ab2cef-41bd-f2bf-2980-f7910d3d3dd8/pr_source.png/552x414bb.png",
@@ -7463,11 +7463,11 @@
       },
       "versions": [
         {
-          "version": "4.1.99",
-          "date": "2026-07-01",
+          "version": "4.1.100",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.99-riftysipas.ipa",
-          "size": 148189515
+          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.100-riftysipas.ipa",
+          "size": 148191239
         }
       ],
       "category": "finance"
@@ -34573,14 +34573,14 @@
       "bundleIdentifier": "com.ToweringTower.KnightLancer",
       "developerName": "BABAR SAEED JANJUA",
       "subtitle": "*Tweak:** Free Iap | *Patched ✓**",
-      "version": "1.62",
-      "versionDate": "2026-06-08",
+      "version": "1.63",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Knight Lancer-v1.62-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Knight Lancer-v1.63-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Free Iap | *Patched ✓**\n\nKnight Lancer",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/fb/62/d7fb6288-59fb-ee1a-a77b-71c780811af2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 109114669,
+      "size": 109310714,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/4a/b1/2d4ab169-54c9-81b8-7af1-04434e460c68/5a94fbd6-e2b5-4fc7-8ff4-32030d93123a_Screenshot_-_Joust.png/406x228bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/1d/95/b11d9589-40f4-e4cb-0b0c-ec6edb5d7517/f4529222-e96d-49ea-ac10-582480bdbcfe_Screenshot_-_Create_your_Knight.png/406x228bb.png",
@@ -34598,11 +34598,11 @@
       },
       "versions": [
         {
-          "version": "1.62",
-          "date": "2026-06-05",
+          "version": "1.63",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Knight Lancer-v1.62-riftysipas.ipa",
-          "size": 109114669
+          "downloadURL": "https://telos.ftp.sh/ipas/Knight Lancer-v1.63-riftysipas.ipa",
+          "size": 109310714
         }
       ],
       "category": "games"
@@ -41840,14 +41840,14 @@
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "Genau Factory",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "3.3.8",
-      "versionDate": "2026-06-29",
+      "version": "3.3.9",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.8-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.9-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nMoneyCircle: Spending,Expense",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/2a/64/fa2a64b3-0a6b-6fda-3943-7353c92daf49/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/16/62/0d166286-c90c-055c-6fe7-a9828b8d86ac/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13967441,
+      "size": 13968451,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -41863,11 +41863,11 @@
       },
       "versions": [
         {
-          "version": "3.3.8",
-          "date": "2026-06-29",
+          "version": "3.3.9",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.8-riftysipas.ipa",
-          "size": 13967441
+          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.3.9-riftysipas.ipa",
+          "size": 13968451
         }
       ],
       "category": "utilities"
@@ -60954,14 +60954,14 @@
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "6.17",
-      "versionDate": "2026-07-01",
+      "version": "6.18",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.17 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.18 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nSnapEdit: Photo Editor AI",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/cb/0d/5dcb0d82-ae96-8bac-4c11-6782319bb3a4/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 106127228,
+      "size": 106678903,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -60980,11 +60980,11 @@
       },
       "versions": [
         {
-          "version": "6.17",
-          "date": "2026-07-01",
+          "version": "6.18",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.17 Pro Unlocked blatant Patched.ipa",
-          "size": 106127228
+          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.18 Pro Unlocked blatant Patched.ipa",
+          "size": 106678903
         }
       ],
       "category": "photo-&-video"
@@ -74588,14 +74588,14 @@
       "bundleIdentifier": "com.choiceapps.recipesfdw",
       "developerName": "Voicepal Limited",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "2.2.8",
-      "versionDate": "2026-06-08",
+      "version": "2.2.10",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Voicepal: your AI Ghostwriter-v2.2.8-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Voicepal: your AI Ghostwriter-v2.2.10-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nVoicepal: your AI Ghostwriter",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/90/1c/d8901ce1-4dfc-a136-2c84-e68f339d9661/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 45017358,
+      "size": 48203528,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/e3/46/2ce3464e-c72d-dc8a-ed1f-53792d822fed/916f89e3-6811-4fc6-b470-9e9ddba03404_iPhone_5.5__U00287_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/dc/2d/ebdc2dce-6ce9-5dca-144d-49a9b4930afb/169d4ab2-633f-495e-a51c-46047b824f87_iPhone_5.5__U00281_U0029.jpeg/392x696bb.jpg",
@@ -74621,11 +74621,11 @@
       },
       "versions": [
         {
-          "version": "2.2.8",
-          "date": "2026-06-05",
+          "version": "2.2.10",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Voicepal: your AI Ghostwriter-v2.2.8-riftysipas.ipa",
-          "size": 45017358
+          "downloadURL": "https://telos.ftp.sh/ipas/Voicepal: your AI Ghostwriter-v2.2.10-riftysipas.ipa",
+          "size": 48203528
         }
       ],
       "category": "productivity"
@@ -80354,7 +80354,7 @@
     {
       "title": "⚙️ Telos Update 7.2",
       "identifier": "telos-update-2026-07-02",
-      "caption": "25 Apps Updated:\n• 7 Photo & Video\n• 5 Health & Fitness\n• 5 Music\n• 4 Books\n• 2 Games\n• 1 Productivity\n• 1 Lifestyle",
+      "caption": "41 Apps Updated:\n• 11 Photo & Video\n• 6 Games\n• 5 Health & Fitness\n• 5 Productivity\n• 4 Finance\n• 4 Utilities\n• 3 Music\n• 2 Books\n• 1 Lifestyle",
       "date": "2026-07-02",
       "tintColor": "#02433b",
       "notify": true,
