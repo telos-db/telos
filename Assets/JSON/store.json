@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.nuvio.media",
+    "com.google.ios.youtube",
     "com.pixeldev.APEXRacers",
     "com.tr.paraphrasingtool.rewritertool.textrewriter",
-    "com.n3twork.tetris",
-    "com.jabhi.clarido",
-    "com.soundcloud.TouchApp"
+    "com.n3twork.tetris"
   ],
   "apps": [
     {
@@ -45773,14 +45773,14 @@
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "RGN VENTURES LTD",
       "subtitle": "Nuvio for iOS",
-      "version": "0.2.14",
-      "versionDate": "2026-06-28",
+      "version": "0.2.16",
+      "versionDate": "2026-07-02",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.14-Full.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.16-Full.ipa",
       "localizedDescription": "Nuvio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 38756816,
+      "size": 38844733,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -45788,11 +45788,11 @@
       },
       "versions": [
         {
-          "version": "0.2.14",
-          "date": "2026-06-28",
+          "version": "0.2.16",
+          "date": "2026-07-02",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.14-Full.ipa",
-          "size": 38756816
+          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.16-Full.ipa",
+          "size": 38844733
         }
       ],
       "category": "health-&-fitness"
@@ -78223,14 +78223,14 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
       "subtitle": "Cracked",
-      "version": "21.25.5",
-      "versionDate": "2026-06-23",
-      "versionDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/YTKP_5.7.2Cracked_YT_21.25.5.ipa",
-      "localizedDescription": "Cracked\n\nYTKP 5.7.2 cracked by @itzzace0",
+      "version": "21.26.4",
+      "versionDate": "2026-07-02",
+      "versionDescription": "Tweaks: Analytics, CydiaSubstrate, DontEatMyContent, Gonerino, YTABConfig\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/YouTube_5.7.6_ace_extra.ipa",
+      "localizedDescription": "Cracked\n\nYTKP 5.7.6 cracked by @itzzace0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 135278600,
+      "size": 136302826,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -78240,38 +78240,17 @@
       ],
       "appPermissions": {
         "entitlements": [
-          "aps-environment",
-          "com.apple.developer.ClassKit-environment",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.authentication-services.autofill-credential-provider",
-          "com.apple.developer.avfoundation.multitasking-camera-access",
-          "com.apple.developer.coremedia.hls.low-latency",
-          "com.apple.developer.devicecheck.appattest-environment",
-          "com.apple.developer.game-center",
-          "com.apple.developer.healthkit",
-          "com.apple.developer.healthkit.access",
-          "com.apple.developer.healthkit.background-delivery",
-          "com.apple.developer.healthkit.recalibrate-estimates",
-          "com.apple.developer.homekit",
-          "com.apple.developer.icloud-container-development-container-identifiers",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.kernel.increased-debugging-memory-limit",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "com.apple.developer.networking.HotspotConfiguration",
-          "com.apple.developer.networking.multipath",
-          "com.apple.developer.networking.networkextension",
-          "com.apple.developer.networking.wifi-info",
-          "com.apple.developer.nfc.readersession.formats",
-          "com.apple.developer.siri",
-          "com.apple.developer.system-extension.install",
-          "com.apple.developer.user-fonts",
           "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.declared-age-range",
+          "com.apple.developer.group-session",
+          "com.apple.developer.networking.wifi-info",
+          "aps-environment",
           "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.weatherkit",
-          "com.apple.external-accessory.wireless-configuration",
-          "com.apple.security.application-groups",
-          "inter-app-audio"
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.device-information.user-assigned-device-name",
+          "com.apple.developer.siri",
+          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
@@ -78287,11 +78266,11 @@
       },
       "versions": [
         {
-          "version": "21.25.5",
-          "date": "2026-06-23",
-          "localizedDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/YTKP_5.7.2Cracked_YT_21.25.5.ipa",
-          "size": 135278600
+          "version": "21.26.4",
+          "date": "2026-07-02",
+          "localizedDescription": "Tweaks: Analytics, CydiaSubstrate, DontEatMyContent, Gonerino, YTABConfig\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/YouTube_5.7.6_ace_extra.ipa",
+          "size": 136302826
         }
       ],
       "category": "photo-&-video"
@@ -80375,7 +80354,7 @@
     {
       "title": "⚙️ Telos Update 7.2",
       "identifier": "telos-update-2026-07-02",
-      "caption": "18 Apps Updated:\n• 6 Photo & Video\n• 4 Games\n• 2 Health & Fitness\n• 2 Music\n• 2 Productivity\n• 2 Lifestyle",
+      "caption": "21 Apps Updated:\n• 9 Health & Fitness\n• 7 Photo & Video\n• 2 Games\n• 1 Music\n• 1 Productivity\n• 1 Lifestyle",
       "date": "2026-07-02",
       "tintColor": "#02433b",
       "notify": true,
@@ -80384,7 +80363,7 @@
     {
       "title": "⚙️ Telos Update 7.1",
       "identifier": "telos-update-2026-07-01",
-      "caption": "164 Apps Updated:\n• 30 Health & Fitness\n• 26 Photo & Video\n• 18 Games\n• 12 Utilities\n• 12 Education\n• 10 Productivity\n• 8 Music\n• 8 Entertainment\n• 6 Lifestyle\n• 4 Developer Tools\n• 4 Finance\n• 4 Travel\n• 4 Social Networking\n• 4 Food & Drink\n• 2 Business\n• 2 Medical\n• 2 Graphics & Design\n• 2 Weather\n• 2 Navigation\n• 2 Sports\n• 2 News",
+      "caption": "151 Apps Updated:\n• 29 Health & Fitness\n• 23 Photo & Video\n• 14 Games\n• 12 Education\n• 10 Utilities\n• 9 Productivity\n• 8 Entertainment\n• 7 Music\n• 5 Lifestyle\n• 4 Developer Tools\n• 4 Finance\n• 4 Travel\n• 4 Social Networking\n• 4 Food & Drink\n• 2 Business\n• 2 Medical\n• 2 Graphics & Design\n• 2 Weather\n• 2 Navigation\n• 2 Sports\n• 2 News",
       "date": "2026-07-01",
       "tintColor": "#1a4f4a",
       "notify": true,
