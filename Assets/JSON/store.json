@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.huckleberry-labs.app",
     "lt.manodrabuziai.fr",
     "com.vertventures.stella",
     "com.risesci.nyx",
-    "jp.naver.linecamera",
-    "com.bowery-digital.bend"
+    "jp.naver.linecamera"
   ],
   "apps": [
     {
@@ -30322,14 +30322,14 @@
       "bundleIdentifier": "com.huckleberry-labs.app",
       "developerName": "Huckleberry Labs Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "0.9.298",
-      "versionDate": "2026-06-12",
+      "version": "0.9.299",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Huckleberry: Baby & Child-v0.9.298-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Huckleberry: Baby & Child-v0.9.299-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nHuckleberry: Baby & Child",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/69/f4/8369f40a-ac3c-13ed-2c7a-b6f417064a92/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 65069307,
+      "size": 65632555,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/b8/f1/edb8f1b5-b763-9a0c-d1d4-972ca4cc589f/1_iPhone_5.5_Intro_Best_Parents_Badge.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/f7/f8/42f7f8bd-047d-03ac-b831-1f58af098512/2_iPhone_5.5_Summary_Report.jpg/392x696bb.jpg",
@@ -30361,11 +30361,11 @@
       },
       "versions": [
         {
-          "version": "0.9.298",
-          "date": "2026-06-12",
+          "version": "0.9.299",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Huckleberry: Baby & Child-v0.9.298-riftysipas.ipa",
-          "size": 65069307
+          "downloadURL": "https://telos.ftp.sh/ipas/Huckleberry: Baby & Child-v0.9.299-riftysipas.ipa",
+          "size": 65632555
         }
       ],
       "category": "medical"
@@ -80485,7 +80485,7 @@
     {
       "title": "⚙️ Telos Update 7.2",
       "identifier": "telos-update-2026-07-02",
-      "caption": "89 Apps Updated:\n• 23 Photo & Video\n• 13 Health & Fitness\n• 10 Games\n• 9 Lifestyle\n• 6 Medical\n• 4 Food & Drink\n• 4 Shopping\n• 3 Music\n• 3 Productivity\n• 2 Books\n• 2 Finance\n• 2 Utilities\n• 2 Navigation\n• 2 Sports\n• 2 Education\n• 2 Entertainment",
+      "caption": "93 Apps Updated:\n• 23 Photo & Video\n• 13 Health & Fitness\n• 10 Games\n• 10 Medical\n• 9 Lifestyle\n• 4 Food & Drink\n• 4 Shopping\n• 3 Music\n• 3 Productivity\n• 2 Books\n• 2 Finance\n• 2 Utilities\n• 2 Navigation\n• 2 Sports\n• 2 Education\n• 2 Entertainment",
       "date": "2026-07-02",
       "tintColor": "#02433b",
       "notify": true,
