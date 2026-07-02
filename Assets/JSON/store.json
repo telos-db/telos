@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.jojoapps.Medication-List",
+    "com.saltycrackers.daygram",
     "com.piano.star.tiles.music.circles.dancing.beat.magic",
     "com.sadpuppy.lemmings",
-    "de.komoot.berlinbikeapp",
-    "com.kalavision.alfred",
-    "com.tickettothemoon.video.persona"
+    "de.komoot.berlinbikeapp"
   ],
   "apps": [
     {
@@ -16050,14 +16050,14 @@
       "bundleIdentifier": "com.saltycrackers.daygram",
       "developerName": "EUIHYUNG JUNG",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "5.6.9",
-      "versionDate": "2026-06-19",
+      "version": "5.7.0",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdaygram, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.6.9-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.7.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nDaygram: Daily Journal",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/e8/75/c4e875b4-fe09-51c9-e086-060edae54603/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 30350726,
+      "size": 30352856,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/2f/e9/4a2fe921-332c-01bb-3b52-06f662c15feb/6e903ad4-5910-409e-9df2-b33c130e5a8c_old_ipad_en_0.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/ca/cf/59cacf18-57da-f9dc-a90b-92599c37046e/mzl.qksssrcf.png/576x768bb.png",
@@ -16082,11 +16082,11 @@
       },
       "versions": [
         {
-          "version": "5.6.9",
-          "date": "2026-06-19",
+          "version": "5.7.0",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdaygram, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.6.9-riftysipas.ipa",
-          "size": 30350726
+          "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.7.0-riftysipas.ipa",
+          "size": 30352856
         }
       ],
       "category": "lifestyle"
@@ -40214,14 +40214,14 @@
       "bundleIdentifier": "com.jojoapps.Medication-List",
       "developerName": "JOJO APPS",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "1.8.10",
-      "versionDate": "2026-06-12",
+      "version": "1.8.11",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Medication List-v1.8.10-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Medication List-v1.8.11-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nMedication List",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/ae/c3/c6aec3ef-0e13-3c5c-4858-3f297fafa42c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 19047065,
+      "size": 18797204,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -40238,11 +40238,11 @@
       },
       "versions": [
         {
-          "version": "1.8.10",
-          "date": "2026-06-12",
+          "version": "1.8.11",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Medication List-v1.8.10-riftysipas.ipa",
-          "size": 19047065
+          "downloadURL": "https://telos.ftp.sh/ipas/Medication List-v1.8.11-riftysipas.ipa",
+          "size": 18797204
         }
       ],
       "category": "medical"
@@ -80401,7 +80401,7 @@
     {
       "title": "⚙️ Telos Update 7.2",
       "identifier": "telos-update-2026-07-02",
-      "caption": "63 Apps Updated:\n• 17 Photo & Video\n• 16 Games\n• 9 Health & Fitness\n• 5 Lifestyle\n• 4 Navigation\n• 3 Music\n• 3 Productivity\n• 2 Books\n• 2 Finance\n• 2 Utilities",
+      "caption": "55 Apps Updated:\n• 13 Photo & Video\n• 10 Games\n• 7 Health & Fitness\n• 7 Lifestyle\n• 4 Medical\n• 3 Music\n• 3 Productivity\n• 2 Books\n• 2 Finance\n• 2 Utilities\n• 2 Navigation",
       "date": "2026-07-02",
       "tintColor": "#02433b",
       "notify": true,
