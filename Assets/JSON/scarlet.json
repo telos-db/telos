@@ -1894,18 +1894,17 @@
       "bundleIdentifier": "com.kalavision.alfred",
       "developerName": "Alfred Systems Inc.",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26, sideloadKeychainfix\n\nAlfred Home Security Camera\n\n---\nWe are the world’s most popular and top-rated security camera app for iOS & Android phones, with over 90 million families around the world choosing AlfredCamera to turn their old phones into powerful home security cameras, baby monitors, pet cams, and more.\n\nAlfredCamera is an all-in-one home security camera app providing more features than a expensive CCTV security camera system. It's live cam with instant intruder alert is perfect as a security camera, baby monitor, nanny cam, pet monitor, dog",
-      "version": "2026.7.0",
-      "versionDate": "2026-06-11T22:16:00-00:00",
-      "versionDescription": "Build 7720 from @binnichtaktivsipas",
-      "size": 149748375,
+      "version": "2026.13.2",
+      "versionDate": "2026-07-02T07:23:12-00:00",
+      "versionDescription": "Build 7952 from @binnichtaktivsipas",
+      "size": 117685177,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/bb/b1/40bbb129-e133-f780-3d13-70f2d9b83327/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Alfred Home Security Camera Premium 2026.7.0.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Alfred Home Security Camera Premium 2026.13.2.ipa",
       "minOSVersion": "12.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -1913,7 +1912,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Alfred Home Security Camera Premium 2026.7.0.ipa"
+        "originalFile": "Alfred Home Security Camera Premium 2026.13.2.ipa"
       }
     },
     {
@@ -5135,6 +5134,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "net.blip.ios-1.1.9-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "Blitzer.de PRO",
+      "bundleIdentifier": "com.eifrig.blitzerdepro",
+      "developerName": "Eifrig Media",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: SatellaJailed\n\nBlitzer.de PRO\n\n---\nThe best traffic safety app!\nBlitzer.de PRO keeps you informed with live alerts on mobile and fixed hazards, breakdowns, accidents, traffic jams, and more in your vicinity. Join Europe's largest and most well-known traffic community with over 5 million active users, making your car journey safer and more relaxed.\n\n► VARIOUS VIEWS\nChoose between the simple Classic view, the map view, or the discreet Dark Mode.\n\n►AUTO START & STOP\nJust get in & drive! Define your own shortcuts, and the app activat",
+      "version": "400.3.3",
+      "versionDate": "2026-07-02T07:10:30-00:00",
+      "versionDescription": "Build 7658 from @binnichtaktivsipas",
+      "size": 50237736,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/57/5a/8c575a9f-5cbe-89a6-38ac-d42358ca0208/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Blitzer.de PRO IAP 400.3.3.ipa",
+      "minOSVersion": "14",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Blitzer.de PRO IAP 400.3.3.ipa"
       }
     },
     {
@@ -22046,12 +22071,12 @@
       "bundleIdentifier": "de.komoot.berlinbikeapp",
       "developerName": "komoot GmbH",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, KomootPatch, SideloadSpoofer-08, blatantsPatch\n\nkomoot - hike, bike & run\n\n---\nTurn your next ride, hike, or run into an adventure with komoot. Get inspired by tapping into shared community knowledge and recommendations, then bring your adventures to life with the easy route planner.\n\nPLAN YOUR PERFECT HIKING, MOUNTAIN BIKING OR ROAD CYCLING ADVENTURE\nGet the route perfect for your sport—be it smooth asphalt for your road bike, singletracks for your mountain bike, silent cycling paths for touring or natural trails for your hikes. Plan down to the last detail with at-your-f",
-      "version": "2026.24.1",
-      "versionDate": "2026-06-16T10:39:05-00:00",
-      "versionDescription": "Build 262401001 from @binnichtaktivsipas",
-      "size": 108232256,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/93/95/c593950b-b171-98fc-829e-902106458a4d/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/komoot Premium 2026.24.1.ipa",
+      "version": "2026.26.2",
+      "versionDate": "2026-07-02T07:26:32-00:00",
+      "versionDescription": "Build 262602001 from @binnichtaktivsipas",
+      "size": 110377822,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/33/45/8a334556-7f8a-a1d8-0119-437bf4296f4a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/komoot Premium 2026.26.2.ipa",
       "minOSVersion": "16.4",
       "supportedPlatforms": [
         "iOS"
@@ -22064,7 +22089,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "komoot Premium 2026.24.1.ipa"
+        "originalFile": "komoot Premium 2026.26.2.ipa"
       }
     },
     {
@@ -22824,12 +22849,12 @@
       "bundleIdentifier": "com.sadpuppy.lemmings",
       "developerName": "SAD PUPPY",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nLemmings: Strategy & Puzzle\n\n---\nLemmings game is an offline classic puzzle game in which you have to guide Lemmings in the right direction for their survival, build with tools and use commands to get them out of traps and puzzles to win missions.\n\nLemmings is a classic puzzle strategy game for those who love to play survival games. There are thousands of levels available to enjoy the endless Lemmings fun. Lemmings are crazy, they run through the Lasers independently- You have to save the Lemmings by directing them in the right",
-      "version": "9.4.0",
-      "versionDate": "2026-06-30T14:23:29-00:00",
-      "versionDescription": "Build 1122 from @riftysIPAlibrary",
-      "size": 127559696,
+      "version": "9.4.1",
+      "versionDate": "2026-07-02T07:31:27-00:00",
+      "versionDescription": "Build 1140 from @riftysIPAlibrary",
+      "size": 127561016,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/fb/ec/b8fbec01-9cc3-0392-8e75-2f990fd05d55/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.4.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.4.1-riftysipas.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -22842,7 +22867,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Lemmings: Strategy & Puzzle-v9.4.0-riftysipas.ipa"
+        "originalFile": "Lemmings: Strategy & Puzzle-v9.4.1-riftysipas.ipa"
       }
     },
     {
@@ -31114,13 +31139,13 @@
       "name": "Persona",
       "bundleIdentifier": "com.tickettothemoon.video.persona",
       "developerName": "Ticket To The Moon, Inc.",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPersona: Beauty Camera\n\n---\nMaster your look with Persona - a professional beauty camera and editor crafted for perfection. Smart AI and powerful tools deliver flawless photos and videos effortlessly, live or in edits.\n\nMAIN FEATURES:\n\n • Face Beauty Filters: Choose from dozens of filters to smooth skin, add a bright glow, or perfect your look naturally - instant with one click, for photos and videos.\n • Hair Upgrades: Boost volume or switch to new hairstyles fast, works on any shot.\n • Body Tuning: Shape your figure a bit",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26\n\nPersona: Beauty Camera\n\n---\nMaster your look with Persona - a professional beauty camera and editor crafted for perfection. Smart AI and powerful tools deliver flawless photos and videos effortlessly, live or in edits.\n\nMAIN FEATURES:\n\n • Face Beauty Filters: Choose from dozens of filters to smooth skin, add a bright glow, or perfect your look naturally - instant with one click, for photos and videos.\n • Hair Upgrades: Boost volume or switch to new hairstyles fast, works on any shot.\n • Body Tuning: Shape your figure a bit",
       "version": "1.15.42",
-      "versionDate": "2026-07-01T11:00:14-00:00",
-      "versionDescription": "Build 2368 from @riftysIPAlibrary",
-      "size": 201369581,
+      "versionDate": "2026-07-02T07:20:28-00:00",
+      "versionDescription": "Build 2368 from @binnichtaktivsipas",
+      "size": 201825343,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/c0/40/2fc040d4-f7ce-f0c0-2743-147d41eb8b54/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.42-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Persona VIP 1.15.42.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -31130,10 +31155,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@riftysIPAlibrary",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Persona: Beauty Camera-v1.15.42-riftysipas.ipa"
+        "originalFile": "Persona VIP 1.15.42.ipa"
       }
     },
     {
@@ -31191,13 +31216,13 @@
       "name": "Phocus",
       "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
       "developerName": "RAY INFORMATICS YAZILIM TEKNOLOJI MEDYA DANISMANLIK VE EGITIM TICARET LIMITED SIRKETI",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nPhocus: DSLR Portrait Camera\n\n---\nPhocus is an AI-based portrait camera, depth editor, and 3D relight studio for iPhone and iPad. Capture DSLR-style portraits, shape realistic background blur, refine depth with precision, and create polished images with more control over focus, lens character, color, and mood.\n\nWith Phocus, you can go beyond simple portrait blur. Edit depth-aware masks, simulate lens behavior, refine subject separation, and explore your image as a 3D scene. Whether you're creating cinematic portraits, dramatic l",
-      "version": "3.4.1",
-      "versionDate": "2026-06-10T20:22:15-00:00",
-      "versionDescription": "Build 7516 from @blatants",
-      "size": 245772099,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/85/82/1a858289-1fc9-cb02-7c2c-5dd020eb276a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Phocus_DSLR_Portrait_Camera_v3_4_1_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nPhocus: DSLR Portrait Camera\n\n---\nPhocus is a portrait camera and depth editor for iPhone and iPad, built for realistic bokeh, lens character, focus control, and cinematic color. Capture DSLR-style portraits, preview lens and depth effects live, refine background blur with precision, and create polished images with more control over focus, tone, and mood.\n\nWith Phocus, you can go beyond simple portrait blur. Shoot with real-time lens and bokeh previews, import your own LUTs, shape aperture and focus depth, edit depth-aware masks",
+      "version": "3.4.2",
+      "versionDate": "2026-07-02T07:08:15-00:00",
+      "versionDescription": "Build 7517 from @blatants",
+      "size": 272358335,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/7d/82/a57d8257-9352-d828-e2ac-976f52cb4966/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Phocus_DSLR_Portrait_Camera_v3_4_2_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "15.6",
       "supportedPlatforms": [
         "iOS"
@@ -31210,7 +31235,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Phocus_DSLR_Portrait_Camera_v3_4_1_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Phocus_DSLR_Portrait_Camera_v3_4_2_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -31662,12 +31687,12 @@
       "bundleIdentifier": "com.piano.star.tiles.music.circles.dancing.beat.magic",
       "developerName": "TINYMAX HONGKONG LIMITED",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, fixipa1, fixipa2, popuprifty, riftyspianostar\n\nPiano Star - Tap Your Music\n\n---\nFollow the rhythm! PIANO STAR is an amazing music game with lots of popular POP songs and Classical Piano songs.\n\nTap the black tiles! You can easily perform a piano music by yourself. With fun and ease, melody and rhythm of piano songs will flow freely by your fingers.\n\n# How to play:\n1. Tap the black tiles.\n2. Tap and hold on the long tiles.\n3. Tap double black tiles quickly.\n4. Don't miss any tiles.\n\n# Features:\n1. New piano songs are added every week.\n2. Let's play Endless mode.\n3. PVP and o",
-      "version": "1.7.4",
-      "versionDate": "2026-06-22T09:27:38-00:00",
-      "versionDescription": "Build 99 from @riftysIPAlibrary",
-      "size": 169278575,
+      "version": "1.7.5",
+      "versionDate": "2026-07-02T07:37:49-00:00",
+      "versionDescription": "Build 100 from @riftysIPAlibrary",
+      "size": 169258989,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/4f/cc/a74fcc1d-6a36-b6b0-32c4-8f7f706d79a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Piano Star - Tap Your Music-v1.7.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Piano Star - Tap Your Music-v1.7.5-riftysipas.ipa",
       "minOSVersion": "13.0",
       "supportedPlatforms": [
         "iOS"
@@ -31680,7 +31705,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Piano Star - Tap Your Music-v1.7.4-riftysipas.ipa"
+        "originalFile": "Piano Star - Tap Your Music-v1.7.5-riftysipas.ipa"
       }
     },
     {
@@ -41676,26 +41701,24 @@
       "bundleIdentifier": "com.ocho.SudokuaDay",
       "developerName": "Ocho",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSudoku a Day\n\n---\nA beautiful Sudoku a day for iPhone. No ads, no clutter, no endless puzzle lists — just a calm daily ritual.\n\nSudoku a Day is built for people who want a quick, satisfying puzzle without the noise of typical puzzle apps. Open the app, play today’s board, keep your streak alive, and get on with your day feeling a little sharper.\n\nWhy players love Sudoku a Day\n• A new puzzle every day\n• Choose your difficulty, from beginner to expert\n• Clean, minimalist design built for iPhone\n• Focus Mode for dis",
-      "version": "2.2.4",
-      "versionDate": "2026-06-11T19:29:16-00:00",
-      "versionDescription": "Build 1 from @binnichtaktivsipas",
-      "size": 88305428,
+      "version": "2.3.0",
+      "versionDate": "2026-07-02T07:13:56-00:00",
+      "versionDescription": "Build 6 from @binnichtaktivsipas",
+      "size": 113136047,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/6b/6b/9f6b6b29-545d-a9c4-a59d-5474aac002c7/appIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sudoku a Day Pro 2.2.4.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sudoku a Day Pro 2.3.0.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Sudoku a Day Pro 2.2.4.ipa"
+        "originalFile": "Sudoku a Day Pro 2.3.0.ipa"
       }
     },
     {
