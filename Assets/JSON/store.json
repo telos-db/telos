@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.glucobit.cravingBuster.CravingBuster",
     "com.ketchapp.horizon",
     "com.hiiker.hiiker",
     "br.com.marcosatanaka.music-harbor",
-    "com.google.ios.youtube",
-    "com.huckleberry-labs.app"
+    "com.google.ios.youtube"
   ],
   "apps": [
     {
@@ -55567,14 +55567,14 @@
       "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
       "developerName": "Glucobit Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "3.9.73",
-      "versionDate": "2026-07-01",
+      "version": "3.9.74",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.73-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.74-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nReframe: Drink Less & Thrive",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/07/cc/3107cc33-dd6e-3b8d-a2aa-d9dc33f80b01/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 247297612,
+      "size": 244328345,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -55602,11 +55602,11 @@
       },
       "versions": [
         {
-          "version": "3.9.73",
-          "date": "2026-07-01",
+          "version": "3.9.74",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.73-riftysipas.ipa",
-          "size": 247297612
+          "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.74-riftysipas.ipa",
+          "size": 244328345
         }
       ],
       "category": "health-&-fitness"
@@ -80484,7 +80484,7 @@
     {
       "title": "⚙️ Telos Update 7.2",
       "identifier": "telos-update-2026-07-02",
-      "caption": "107 Apps Updated:\n• 27 Photo & Video\n• 14 Games\n• 13 Health & Fitness\n• 9 Lifestyle\n• 8 Medical\n• 7 Music\n• 6 Navigation\n• 4 Food & Drink\n• 4 Shopping\n• 3 Productivity\n• 2 Books\n• 2 Finance\n• 2 Utilities\n• 2 Sports\n• 2 Education\n• 2 Entertainment",
+      "caption": "103 Apps Updated:\n• 25 Photo & Video\n• 17 Health & Fitness\n• 12 Games\n• 9 Lifestyle\n• 8 Medical\n• 5 Music\n• 4 Food & Drink\n• 4 Navigation\n• 4 Shopping\n• 3 Productivity\n• 2 Books\n• 2 Finance\n• 2 Utilities\n• 2 Sports\n• 2 Education\n• 2 Entertainment",
       "date": "2026-07-02",
       "tintColor": "#02433b",
       "notify": true,
