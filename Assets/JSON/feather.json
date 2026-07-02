@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.jojoapps.Medication-List",
-    "com.saltycrackers.daygram",
-    "com.piano.star.tiles.music.circles.dancing.beat.magic",
-    "com.sadpuppy.lemmings",
-    "de.komoot.berlinbikeapp"
+    "video.up.editor.maker",
+    "com.365scores.365scroesapp",
+    "gronda.gmbh",
+    "com.bakeryscent.recipeai",
+    "com.jojoapps.Medication-List"
   ],
   "apps": [
     {
@@ -592,14 +592,14 @@
       "bundleIdentifier": "com.365scores.365scroesapp",
       "developerName": "365Scores",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "6.5.7",
-      "versionDate": "2026-06-23",
+      "version": "6.5.8",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftys365score\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/365Scores: Live Scores & News-v6.5.7-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/365Scores: Live Scores & News-v6.5.8-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftys365score\n\n365Scores: Live Scores & News\n\n---\nBe the 1st to Know! 365Scores helps you become an EXPERT OF THE GAME with Live Scores, Pre-Game Stats, In-Depth Data, News Updates, Upcoming Fixtures, Lineups - and everything else you need to stay connected to your favorite players, teams, and competitions.\n\nJoin over 150 million sports fans who rely on 365Scores for real-time updates and pre-game stats.\n\n EXTENSIVE SPORTS COVERAGE\nFollow the NFL, NBA, MLB, NHL, MLS, UEFA Champions League, English Premier League, and 2000+ global sports competi",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/13/eb/8113eb9e-d297-a348-372c-1511e25c6115/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 77993570,
+      "size": 82242237,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/87/9c/6e879c87-f8ae-c396-2fd0-c898ed42f0db/12.9_Ipad_1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/30/1e/a9301ec4-edc6-d2cb-9bff-3fc3229f4501/12.9_Ipad_2.png/576x768bb.png",
@@ -615,7 +615,6 @@
           "NSPhotoLibraryUsageDescription": "365Scores uses photos",
           "NSCameraUsageDescription": "To present a stadium in augmented reality",
           "NSMicrophoneUsageDescription": "365Scores uses the microphone to record your speech and convert it to text.",
-          "NSLocationWhenInUseUsageDescription": "Your location will be used to deliver you stories and updates about teams and players in your area",
           "NSCalendarsUsageDescription": "We’d like to access your calendar to add relevant events",
           "NSBluetoothPeripheralUsageDescription": "Advertisement would like to use bluetooth.",
           "NSUserTrackingUsageDescription": "Your data will be used to show ads that are more relevant to you",
@@ -624,11 +623,11 @@
       },
       "versions": [
         {
-          "version": "6.5.7",
-          "date": "2026-06-23",
+          "version": "6.5.8",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftys365score\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/365Scores: Live Scores & News-v6.5.7-riftysipas.ipa",
-          "size": 77993570
+          "downloadURL": "https://telos.ftp.sh/ipas/365Scores: Live Scores & News-v6.5.8-riftysipas.ipa",
+          "size": 82242237
         }
       ],
       "category": "sports"
@@ -27866,14 +27865,14 @@
       "bundleIdentifier": "gronda.gmbh",
       "developerName": "Gronda GmbH",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "8.24.1",
-      "versionDate": "2026-07-01",
+      "version": "8.24.2",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.24.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.24.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nGronda: Recipes for Chefs\n\n---\nApple’s App of the Day in 120+ Countries\n\n Used by 2M+ Chefs Worldwide\n\n\"Unlimited amount of inspiration\" — Netflix Superstar Ana Roš\n\nGronda is the #1 app for professional and home chefs. Learn from the world’s best, fine dining recipes, and connect with a global community of culinary experts. Discover inspiration, sharpen your skills, and build your personal brand as a chef.\n\nExplore an extensive library of 50,000+ recipes from top chefs, 60+ masterclasses from industry legends, and exclusive",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/25/9f/50259fc7-21e1-ce83-dac6-f535654f358f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 53373841,
+      "size": 53367904,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/5d/43/475d4391-f91c-85a7-e3e6-a4f5466a2dc6/12.9__EN-1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ca/0a/e0ca0a9a-ddcc-2fb8-ed4c-9dcbbd409ba3/12.9__EN-2.jpg/576x768bb.jpg",
@@ -27906,11 +27905,11 @@
       },
       "versions": [
         {
-          "version": "8.24.1",
-          "date": "2026-07-01",
+          "version": "8.24.2",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.24.1-riftysipas.ipa",
-          "size": 53373841
+          "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.24.2-riftysipas.ipa",
+          "size": 53367904
         }
       ],
       "category": "food-&-drink"
@@ -55582,14 +55581,14 @@
       "bundleIdentifier": "com.bakeryscent.recipeai",
       "developerName": "MIRO CONSULTING SRL",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.7.4",
-      "versionDate": "2026-07-01",
+      "version": "1.7.5",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Recipe Keeper & Saver - Recify-v1.7.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Recipe Keeper & Saver - Recify-v1.7.5-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nRecipe Keeper & Saver - Recify\n\n---\nRecipe Keeper & Saver - Recify: Your Ultimate Cookbook Organizer & Manager\n\nTransform your cooking experience with Recify, the smartest recipe keeper and meal planner app available today! Save and organize all your favorite recipes in one beautifully designed digital cookbook. Never lose track of that perfect dinner idea again!\n\nThe Ultimate Recipe Saver for Food Enthusiasts\n\nEffortlessly collect and save recipes from social media platforms and websites with just one tap. Our powerful AI technol",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/bf/4f/73bf4f84-dd27-9ad1-3e98-81d0b50d9371/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 37914514,
+      "size": 37914531,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -55605,11 +55604,11 @@
       },
       "versions": [
         {
-          "version": "1.7.4",
-          "date": "2026-07-01",
+          "version": "1.7.5",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Recipe Keeper & Saver - Recify-v1.7.4-riftysipas.ipa",
-          "size": 37914514
+          "downloadURL": "https://telos.ftp.sh/ipas/Recipe Keeper & Saver - Recify-v1.7.5-riftysipas.ipa",
+          "size": 37914531
         }
       ],
       "category": "food-&-drink"
@@ -74761,14 +74760,14 @@
       "bundleIdentifier": "video.up.editor.maker",
       "developerName": "Video editor & maker app",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.6.0",
-      "versionDate": "2026-06-13",
+      "version": "3.0.0",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Video Up! Video Editor & Maker-v2.6.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Video Up! Video Editor & Maker-v3.0.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nVideo Up! Video Editor & Maker\n\n---\nVideo Up! makes it easy, quick, and fun to create high-quality videos. Use powerful video editor tools or the new AI video editor to customize your videos with visual effects, music, transitions, and animations.\n\nWhether you're creating family memories, content for social media, or a polished promo clip, this is your go-to video editor and video maker with music. You can instantly add music to video, apply cinematic filters, or edit everything from scratch using a video template as your starting",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/48/e9/fc48e998-ed5b-8456-89e5-c789c41cd542/AppIcon-Default-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 188969107,
+      "size": 184209106,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -74794,11 +74793,11 @@
       },
       "versions": [
         {
-          "version": "2.6.0",
-          "date": "2026-06-13",
+          "version": "3.0.0",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Video Up! Video Editor & Maker-v2.6.0-riftysipas.ipa",
-          "size": 188969107
+          "downloadURL": "https://telos.ftp.sh/ipas/Video Up! Video Editor & Maker-v3.0.0-riftysipas.ipa",
+          "size": 184209106
         }
       ],
       "category": "photo-&-video"
