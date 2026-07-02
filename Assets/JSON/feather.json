@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.jojoapps.Medication-List",
+    "com.saltycrackers.daygram",
     "com.piano.star.tiles.music.circles.dancing.beat.magic",
     "com.sadpuppy.lemmings",
-    "de.komoot.berlinbikeapp",
-    "com.kalavision.alfred",
-    "com.tickettothemoon.video.persona"
+    "de.komoot.berlinbikeapp"
   ],
   "apps": [
     {
@@ -16122,14 +16122,14 @@
       "bundleIdentifier": "com.saltycrackers.daygram",
       "developerName": "EUIHYUNG JUNG",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "5.6.9",
-      "versionDate": "2026-06-19",
+      "version": "5.7.0",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdaygram, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.6.9-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.7.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdaygram, zxPluginsInject\n\nDaygram: Daily Journal\n\n---\n• App Store Best of the Year • Best New App • Featured in App Store Stories\nDayGram is a beautifully minimal journal and diary app with an elegant E-Ink style display. Write one line a day, keep a daily journal, or create a private digital memoir.\n\n◆ WHY DAYGRAM?\n\n- Distraction-free writing with a clean, paper-like interface\n- No ads, no subscriptions – one-time purchase for Premium\n- Password & Face ID protection for complete privacy\n- iCloud sync keeps your diary safe across all devices\n\n◆ FEA",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/e8/75/c4e875b4-fe09-51c9-e086-060edae54603/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 30350726,
+      "size": 30352856,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/2f/e9/4a2fe921-332c-01bb-3b52-06f662c15feb/6e903ad4-5910-409e-9df2-b33c130e5a8c_old_ipad_en_0.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/ca/cf/59cacf18-57da-f9dc-a90b-92599c37046e/mzl.qksssrcf.png/576x768bb.png",
@@ -16154,11 +16154,11 @@
       },
       "versions": [
         {
-          "version": "5.6.9",
-          "date": "2026-06-19",
+          "version": "5.7.0",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdaygram, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.6.9-riftysipas.ipa",
-          "size": 30350726
+          "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.7.0-riftysipas.ipa",
+          "size": 30352856
         }
       ],
       "category": "lifestyle"
@@ -40661,31 +40661,35 @@
       "bundleIdentifier": "com.jojoapps.Medication-List",
       "developerName": "JOJO APPS",
       "subtitle": "Tweaked with CydiaSubstrate, chocorc",
-      "version": "1.8.0",
-      "versionDate": "2026-06-14",
+      "version": "1.8.11",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Medication List-v1.8.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Medication List-v1.8.11-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nMedication List\n\n---\nTake control of your health with the Medication Tracker & Reminder app, your all-in-one solution for managing medications and supplements. Whether you’re managing daily prescriptions or keeping track of vitamins and supplements, this app ensures you never miss a dose.\n\nFeatures:\n\nPersonalized Medication Scheduling: Set up customized schedules for each medication. Choose from daily, weekly, or specific days, and even set multiple reminders per day.\n\nSmart Reminders: Receive timely notifications t",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/ae/c3/c6aec3ef-0e13-3c5c-4858-3f297fafa42c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 18232532,
+      "size": 18797204,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.background-delivery",
           "com.apple.security.application-groups",
           "com.apple.developer.usernotifications.critical-alerts"
         ],
         "privacy": {
-          "NSCameraUsageDescription": "Users can optionally add images of medicines."
+          "NSCameraUsageDescription": "Users can optionally add images of medicines.",
+          "NSHealthShareUsageDescription": "We use your health data to import your current medications, schedules, and logged doses from Apple Health so your reminders stay perfectly in sync.",
+          "NSHealthUpdateUsageDescription": "We use this to export and save your completed medication doses directly to Apple Health, keeping your health history complete and up to date."
         }
       },
       "versions": [
         {
-          "version": "1.8.0",
-          "date": "2026-06-14",
+          "version": "1.8.11",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Medication List-v1.8.0-riftysipas.ipa",
-          "size": 18232532
+          "downloadURL": "https://telos.ftp.sh/ipas/Medication List-v1.8.11-riftysipas.ipa",
+          "size": 18797204
         }
       ],
       "category": "medical"
