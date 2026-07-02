@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.glucobit.cravingBuster.CravingBuster",
     "com.ketchapp.horizon",
     "com.hiiker.hiiker",
     "br.com.marcosatanaka.music-harbor",
-    "com.google.ios.youtube",
-    "com.huckleberry-labs.app"
+    "com.google.ios.youtube"
   ],
   "apps": [
     {
@@ -56029,14 +56029,14 @@
       "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
       "developerName": "Glucobit Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.9.73",
-      "versionDate": "2026-07-01",
+      "version": "3.9.74",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.73-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.74-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nReframe: Drink Less & Thrive\n\n---\nReframe is the #1 alcohol reduction app, built to help you drink less and live more. Whether your goal is to cut back or quit drinking entirely, Reframe’s neuroscience approach can help you change the way alcohol shows up in your life.\n\nWith a core 160-day, evidence-based, education program, progress tracking, a private community, and a multitude of tools (think meditations, games, and more!), you’ve got everything you need to change your relationship with booze at the click of a button.\n\nNeed e",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/07/cc/3107cc33-dd6e-3b8d-a2aa-d9dc33f80b01/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 247297612,
+      "size": 244328345,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -56064,11 +56064,11 @@
       },
       "versions": [
         {
-          "version": "3.9.73",
-          "date": "2026-07-01",
+          "version": "3.9.74",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.73-riftysipas.ipa",
-          "size": 247297612
+          "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.74-riftysipas.ipa",
+          "size": 244328345
         }
       ],
       "category": "health-&-fitness"
