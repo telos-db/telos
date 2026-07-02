@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.basenji.mood",
+    "uni.cbum",
     "video.up.editor.maker",
     "com.365scores.365scroesapp",
-    "gronda.gmbh",
-    "com.bakeryscent.recipeai",
-    "com.jojoapps.Medication-List"
+    "gronda.gmbh"
   ],
   "apps": [
     {
@@ -9447,14 +9447,14 @@
       "bundleIdentifier": "com.basenji.mood",
       "developerName": "Basenji Apps",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.5.7",
-      "versionDate": "2026-06-24",
+      "version": "3.5.8",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysbreeze, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Breeze: Start Self-Discovery-v3.5.7-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Breeze: Start Self-Discovery-v3.5.8-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysbreeze, zxPluginsInject\n\nBreeze: Start Self-Discovery\n\n---\nFeel more like yourself — one small step at a time\nBreeze is your daily companion for self-discovery, self-care, and mental health support. We believe understanding how you feel is the first step toward living with more clarity, balance, and purpose.\n\nDiscover what makes you you\n\nExplore tools designed to help you reflect, grow, and reconnect with yourself.\nLearn about your:\n- Strengths and patterns\n- Personality traits and communication style\n- Emotional responses and impulse control\n- Ideal ca",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/c6/36/ecc636d1-6831-d170-5210-52aa4a12fd85/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 188857986,
+      "size": 188993652,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/be/01/dabe01b9-d750-662c-bc17-b74a9f8aefc8/28417fc2-7f4a-4a8e-b82a-2a6a84c6446a_ip_8_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/9d/79/619d79af-e230-4377-14cc-1d5cfa55243e/1ae79baf-12b4-46b0-8af0-a1720af2fe97_ip_8_2.jpg/392x696bb.jpg",
@@ -9479,11 +9479,11 @@
       },
       "versions": [
         {
-          "version": "3.5.7",
-          "date": "2026-06-24",
+          "version": "3.5.8",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysbreeze, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Breeze: Start Self-Discovery-v3.5.7-riftysipas.ipa",
-          "size": 188857986
+          "downloadURL": "https://telos.ftp.sh/ipas/Breeze: Start Self-Discovery-v3.5.8-riftysipas.ipa",
+          "size": 188993652
         }
       ],
       "category": "lifestyle"
@@ -65215,14 +65215,14 @@
       "bundleIdentifier": "uni.cbum",
       "developerName": "Set The Standard LLC",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "4.1.42",
-      "versionDate": "2026-06-22",
+      "version": "4.1.43",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/STNDRD_Workout_&_Fitness_Plans_v4_1_42_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/STNDRD_Workout_&_Fitness_Plans_v4_1_43_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nSTNDRD Workout & Fitness Plans\n\n---\nTry STNDRD FREE for 7 days\n\nCoached by 6x Mr. Olympia Chris Bumstead. Featured by Apple. 150,000+ Members Setting Their Standard.\nSTNDRD is a strength training app for people who are serious about getting better. Real programs. Real coaches. Real progress, week after week.\nThis is NOT AI-generated workouts. This is structured training built by champions who've actually done the work, and who want to help you do yours.\n\nSET YOUR STANDARD\n\nWhatever stronger means to you, this is where you build it",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/c1/cb/56c1cb82-e9fa-ea28-bfd8-d1d452ab15c3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/db/03/b9db03ae-d4aa-1429-3650-a3928b493d67/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 108981858,
+      "size": 103515786,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/a3/58/66a3585e-1aad-90a9-e3e9-6c74e051802c/first5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/fe/10/a1fe106d-4f15-5008-495d-d079d2467edd/dd85a9f9-5d0d-405c-a765-80ec2c5e11c9_Appstore2.png/392x696bb.png",
@@ -65232,13 +65232,13 @@
       ],
       "appPermissions": {
         "entitlements": [
+          "com.apple.developer.associated-domains",
           "com.apple.developer.healthkit.background-delivery",
           "com.apple.developer.healthkit",
           "com.apple.developer.applesignin",
           "aps-environment",
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.healthkit.access"
+          "com.apple.developer.healthkit.access",
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Runner requires this permission for uploading your profile picture and engaging with the community.",
@@ -65252,11 +65252,11 @@
       },
       "versions": [
         {
-          "version": "4.1.42",
-          "date": "2026-06-22",
+          "version": "4.1.43",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/STNDRD_Workout_&_Fitness_Plans_v4_1_42_Subscription_Unlocked_blatant.ipa",
-          "size": 108981858
+          "downloadURL": "https://telos.ftp.sh/ipas/STNDRD_Workout_&_Fitness_Plans_v4_1_43_Subscription_Unlocked_blatant.ipa",
+          "size": 103515786
         }
       ],
       "category": "health-&-fitness"
