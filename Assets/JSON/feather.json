@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.studentbeans.studentbeans",
     "com.basenji.mood",
     "uni.cbum",
     "video.up.editor.maker",
-    "com.365scores.365scroesapp",
-    "gronda.gmbh"
+    "com.365scores.365scroesapp"
   ],
   "apps": [
     {
@@ -66374,6 +66374,46 @@
         }
       ],
       "category": "music"
+    },
+    {
+      "name": "StudentBeans",
+      "bundleIdentifier": "com.studentbeans.studentbeans",
+      "developerName": "The Beans Group",
+      "subtitle": "StudentBeans for iOS",
+      "version": "8.16.0",
+      "versionDate": "2026-07-02",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.studentbeans.studentbeans-8.16.0-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nDownload the Student Beans app and unlock hundreds of exclusive student discounts handpicked for you.\n\n#1 RATED STUDENT DISCOUNT APP\n\nExclusive discounts to make student life a little sweeter and a lot cheaper.\n\nStudent Beans is the top-rated money-saving app for students. We’ve got exclusive discounts you can't find anywhere else and more offers than any other app.\n\nWE MAKE SAVING MONEY EASY\n\nIt’s FREE for all college students\nSign up and verify as a student in just seconds\nAccess the widest ra",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/82/37/1c82371b-1c0e-7715-88f8-4c395d9a93b7/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 52607009,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/68/12/786812c8-7e69-6ce5-0c31-9bd86f2f8397/App_Store_Imgs_iOS_US_5.5_SLIDE01_250707.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/56/cb/b856cb3b-fb94-9e90-deef-198979c5551f/App_Store_Imgs_iOS_US_5.5_SLIDE02_250707.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/f0/68/78f068e8-5e9c-301e-e483-d0cab523efd5/App_Store_Imgs_iOS_US_5.5_SLIDE03_250707.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/4a/0c/cb4a0c08-9fbb-8483-1ceb-691586e6ecfc/App_Store_Imgs_iOS_US_5.5_SLIDE04_250707__U00281_U0029.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/cc/f2/b7ccf212-f011-978a-204e-dc8d65e580b6/App_Store_Imgs_iOS_US_5.5_SLIDE05_250707.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "StudentBeans requires access to the photo library.",
+          "NSCameraUsageDescription": "StudentBeans requires access to the camera.",
+          "NSLocationWhenInUseUsageDescription": "This app will use your location to show the most relevant discounts near you",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalised ads to you"
+        }
+      },
+      "versions": [
+        {
+          "version": "8.16.0",
+          "date": "2026-07-02",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.studentbeans.studentbeans-8.16.0-eeveedecrypter.ipa",
+          "size": 52607009
+        }
+      ],
+      "category": "shopping"
     },
     {
       "name": "Studio",
