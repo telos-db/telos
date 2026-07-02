@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "ai.befreed.freed-frontend-rn",
-    "com.revivasoftworks.Snore-Lab",
+    "com.bowery-digital.bend",
     "boomer.Smart-Video",
-    "com.luma-touch.LumaFusion",
-    "com.studentbeans.studentbeans"
+    "com.mcdiamondfinder.app",
+    "ai.befreed.freed-frontend-rn",
+    "com.revivasoftworks.Snore-Lab"
   ],
   "apps": [
     {
@@ -7007,14 +7007,14 @@
       "bundleIdentifier": "com.bowery-digital.bend",
       "developerName": "Bowery Digital",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "7.6.2",
-      "versionDate": "2026-06-23",
+      "version": "7.6.3",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Stretching & Flexibility: Bend-v7.6.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stretching & Flexibility: Bend-v7.6.3-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nStretching & Flexibility: Bend",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/da/55/1bda5508-35be-4ef3-03a1-3fb2c8227544/App-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 143158914,
+      "size": 168601686,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/3e/4e/cf3e4ec2-b120-a19c-2707-453a1ed49bcc/0_APP_IPHONE_55_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/fa/e5/b3fae593-0198-09b2-464b-e3b0b3aaa02e/1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
@@ -7039,11 +7039,11 @@
       },
       "versions": [
         {
-          "version": "7.6.2",
-          "date": "2026-06-23",
+          "version": "7.6.3",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Stretching & Flexibility: Bend-v7.6.2-riftysipas.ipa",
-          "size": 143158914
+          "downloadURL": "https://telos.ftp.sh/ipas/Stretching & Flexibility: Bend-v7.6.3-riftysipas.ipa",
+          "size": 168601686
         }
       ],
       "category": "health-&-fitness"
@@ -10922,15 +10922,15 @@
       "name": "Captions",
       "bundleIdentifier": "boomer.Smart-Video",
       "developerName": "Captions, LLC (US)",
-      "subtitle": "Subscription Unlocked | Patched",
+      "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
       "version": "13.24.0",
       "versionDate": "2026-07-02",
-      "versionDescription": "Tweaks: CachefixPatch, Captions, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Captions_AI_Edits_Your_Video_v13_24_0_Scale_Subscription_Unlocked.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nCaptions: AI Edits Your Video",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.24.0-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nCaptions: For Talking Videos",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/20/53/922053df-7ad0-74d3-499e-9ccd4f81cc0f/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 118081007,
+      "size": 109471682,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/5b/87/b05b8741-4960-1913-3f58-eb3cf3bff922/2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/2a/a6/942aa6f7-e910-aab9-be7f-1ff8d5de1a95/3.png/392x696bb.png",
@@ -10962,9 +10962,9 @@
         {
           "version": "13.24.0",
           "date": "2026-07-02",
-          "localizedDescription": "Tweaks: CachefixPatch, Captions, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Captions_AI_Edits_Your_Video_v13_24_0_Scale_Subscription_Unlocked.ipa",
-          "size": 118081007
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.24.0-riftysipas.ipa",
+          "size": 109471682
         }
       ],
       "category": "photo-&-video"
@@ -17086,14 +17086,14 @@
       "bundleIdentifier": "com.mcdiamondfinder.app",
       "developerName": "Digital App Group GmbH",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "9.2.1",
-      "versionDate": "2026-06-01",
+      "version": "9.2.2",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: DiamondFinder, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Diamond_Finder_for_Minecraft_+_v9_0_5_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Diamond_Finder_for_Minecraft_+_v9_0_6_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nDiamond Finder for Minecraft +",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/b7/45/50b74549-6849-0bb1-d4ee-85b3719267ac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/c1/3e/69c13e0f-519f-bb2c-a7ac-07185a0fa9e9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 50146762,
+      "size": 75930655,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/63/17/36631760-d4a6-b5d5-a69f-47c19d2a1fba/d5ba64b7-c970-4aa0-9b3d-d5983bb3ba09_1242x2208_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/67/fb/ce67fb0c-8792-e826-d7df-098593ae0a5d/0e220864-fb59-4933-8226-973716ceb1d1_1242x2208_1-1.png/392x696bb.png",
@@ -17116,11 +17116,11 @@
       },
       "versions": [
         {
-          "version": "9.2.1",
-          "date": "2026-06-01",
+          "version": "9.2.2",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: DiamondFinder, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Diamond_Finder_for_Minecraft_+_v9_0_5_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 50146762
+          "downloadURL": "https://telos.ftp.sh/ipas/Diamond_Finder_for_Minecraft_+_v9_0_6_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 75930655
         }
       ],
       "category": "entertainment"
@@ -80440,7 +80440,7 @@
     {
       "title": "⚙️ Telos Update 7.2",
       "identifier": "telos-update-2026-07-02",
-      "caption": "83 Apps Updated:\n• 21 Photo & Video\n• 10 Games\n• 10 Medical\n• 9 Health & Fitness\n• 7 Lifestyle\n• 4 Food & Drink\n• 4 Education\n• 3 Music\n• 3 Productivity\n• 2 Books\n• 2 Finance\n• 2 Utilities\n• 2 Navigation\n• 2 Sports\n• 2 Shopping",
+      "caption": "87 Apps Updated:\n• 23 Photo & Video\n• 13 Health & Fitness\n• 10 Games\n• 7 Lifestyle\n• 6 Medical\n• 4 Food & Drink\n• 4 Entertainment\n• 3 Music\n• 3 Productivity\n• 2 Books\n• 2 Finance\n• 2 Utilities\n• 2 Navigation\n• 2 Sports\n• 2 Shopping\n• 2 Education",
       "date": "2026-07-02",
       "tintColor": "#02433b",
       "notify": true,
