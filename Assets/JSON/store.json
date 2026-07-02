@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.campmobile.snow",
     "com.nuvio.media",
     "com.google.ios.youtube",
     "com.pixeldev.APEXRacers",
-    "com.tr.paraphrasingtool.rewritertool.textrewriter",
-    "com.n3twork.tetris"
+    "com.tr.paraphrasingtool.rewritertool.textrewriter"
   ],
   "apps": [
     {
@@ -61276,14 +61276,14 @@
       "bundleIdentifier": "com.campmobile.snow",
       "developerName": "SNOW Corporation",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "15.2.6",
-      "versionDate": "2026-06-26",
+      "version": "15.2.7",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: SNOW, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SNOW_AI_Profile_v15_2_6_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SNOW_AI_Profile_v15_2_7_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSNOW - AI Profile",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/e0/d6/30e0d6a8-9253-583b-f057-6caf2f73c7b6/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/a1/2d/8ba12d11-3f3b-d84b-c74d-99545928437a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 149919943,
+      "size": 149922390,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/37/ca/d237cad8-e57f-cefa-8a66-b576cbe65834/haircolor_en__U00282_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/2d/b8/362db83a-6f35-e6fe-c79d-48e68191ffe7/_U110b_U1161_U110b_U1175_U1111_U1169_U11ab_EN.png/392x696bb.png",
@@ -61313,11 +61313,11 @@
       },
       "versions": [
         {
-          "version": "15.2.6",
-          "date": "2026-06-26",
+          "version": "15.2.7",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: SNOW, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SNOW_AI_Profile_v15_2_6_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 149919943
+          "downloadURL": "https://telos.ftp.sh/ipas/SNOW_AI_Profile_v15_2_7_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 149922390
         }
       ],
       "category": "photo-&-video"
@@ -80354,7 +80354,7 @@
     {
       "title": "⚙️ Telos Update 7.2",
       "identifier": "telos-update-2026-07-02",
-      "caption": "15 Apps Updated:\n• 5 Health & Fitness\n• 5 Photo & Video\n• 2 Games\n• 1 Music\n• 1 Productivity\n• 1 Lifestyle",
+      "caption": "19 Apps Updated:\n• 9 Photo & Video\n• 5 Health & Fitness\n• 2 Games\n• 1 Music\n• 1 Productivity\n• 1 Lifestyle",
       "date": "2026-07-02",
       "tintColor": "#02433b",
       "notify": true,
