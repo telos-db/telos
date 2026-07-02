@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "br.com.marcosatanaka.music-harbor",
-    "RVS-Riverside.fm",
-    "games.urmobi.found.it",
-    "com.jakemor.firness-ai",
-    "com.atebits.Tweetie2"
+    "com.pixeldev.APEXRacers",
+    "com.tr.paraphrasingtool.rewritertool.textrewriter",
+    "com.n3twork.tetris",
+    "com.jabhi.clarido",
+    "com.soundcloud.TouchApp"
   ],
   "apps": [
     {
@@ -4011,14 +4011,14 @@
       "bundleIdentifier": "com.pixeldev.APEXRacers",
       "developerName": "G63 Holdings LTD",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "0.9.56",
-      "versionDate": "2026-06-30",
+      "version": "0.9.57",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/APEX Racers-v0.9.56-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/APEX Racers-v0.9.57-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nAPEX Racers",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/79/8d/47798d38-ef14-2e30-5cbf-2a26020980d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 185216239,
+      "size": 185231465,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/2e/0e/162e0ee4-c518-d43e-e32e-f88bd660c478/cebaeb5f-b7b4-480f-8f43-b9045969df95_Frame_199.png/406x228bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/e7/27/49e72719-c5fb-8d31-89da-9551a794539f/4a96470b-44a5-484c-a5e3-a6dfe31f0312_Frame_206.png/406x228bb.png",
@@ -4035,11 +4035,11 @@
       },
       "versions": [
         {
-          "version": "0.9.56",
-          "date": "2026-06-30",
+          "version": "0.9.57",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/APEX Racers-v0.9.56-riftysipas.ipa",
-          "size": 185216239
+          "downloadURL": "https://telos.ftp.sh/ipas/APEX Racers-v0.9.57-riftysipas.ipa",
+          "size": 185231465
         }
       ],
       "category": "games"
@@ -12817,14 +12817,14 @@
       "bundleIdentifier": "com.jabhi.clarido",
       "developerName": "Jabhi Studios",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "3.1.10",
-      "versionDate": "2026-06-20",
+      "version": "3.1.11",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Clarido: AI Notes & Memory-v3.1.10-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Clarido: AI Notes & Memory-v3.1.11-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nClarido: AI Notes & Memory",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/3b/38/7d3b3895-f946-c359-a3a4-2a0c5366ede4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 8407645,
+      "size": 8437843,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -12841,11 +12841,11 @@
       },
       "versions": [
         {
-          "version": "3.1.10",
-          "date": "2026-06-20",
+          "version": "3.1.11",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Clarido: AI Notes & Memory-v3.1.10-riftysipas.ipa",
-          "size": 8407645
+          "downloadURL": "https://telos.ftp.sh/ipas/Clarido: AI Notes & Memory-v3.1.11-riftysipas.ipa",
+          "size": 8437843
         }
       ],
       "category": "lifestyle"
@@ -15194,14 +15194,14 @@
       "bundleIdentifier": "com.frameoneapps.Crsel",
       "developerName": "Crsel Sp. z o.o.",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "1.3.715",
-      "versionDate": "2026-06-19",
+      "version": "1.4.0",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: Crsel, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_3_715_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_4_0_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nCrsel: Carousel, Collage Maker",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/f5/3f/edf53f92-35a8-5301-4662-6ed9e7f67a50/AppIcon-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/74/2d/50742dab-b3a2-e88b-f27c-b868901215c6/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 147082772,
+      "size": 117545197,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -15215,11 +15215,11 @@
       },
       "versions": [
         {
-          "version": "1.3.715",
-          "date": "2026-06-19",
+          "version": "1.4.0",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: Crsel, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_3_715_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 147082772
+          "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_4_0_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 117545197
         }
       ],
       "category": "photo-&-video"
@@ -38462,14 +38462,14 @@
       "bundleIdentifier": "com.skylum.luminaripad",
       "developerName": "Skylum",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.0",
-      "versionDate": "2026-06-25",
+      "version": "4.1",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: FilePickerFix, Luminar, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nLuminar: Image Editor&Enhancer",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/1a/6e/b01a6e0f-f061-2ca4-9d3a-44be7d2bf8b9/LuminarLogo-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/13/33/791333d2-21bb-46f8-cbd1-3a78a9a2ef14/LuminarLogo-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 535830652,
+      "size": 536067442,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/5e/a0/065ea076-8f7b-26c0-adcc-df15d87c995f/12a21320-1dde-4f81-9957-774e26de1981_3.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/cd/6d/28cd6d0d-ddd3-c301-fb2c-2a1d596d64ac/6faabc21-360e-427f-a4c1-dcfa5e330231_4.png/392x696bb.png",
@@ -38494,11 +38494,11 @@
       },
       "versions": [
         {
-          "version": "4.0",
-          "date": "2026-06-25",
+          "version": "4.1",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: FilePickerFix, Luminar, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_0_Subscription_Unlocked_blatant.ipa",
-          "size": 535830652
+          "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_1_Subscription_Unlocked_blatant.ipa",
+          "size": 536067442
         }
       ],
       "category": "photo-&-video"
@@ -48247,14 +48247,14 @@
       "bundleIdentifier": "com.tr.paraphrasingtool.rewritertool.textrewriter",
       "developerName": "talha rehman",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "1.6.7",
-      "versionDate": "2026-06-19",
+      "version": "1.6.9",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Paraphrasing Tool - Paraphrase-v1.6.7-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Paraphrasing Tool - Paraphrase-v1.6.9-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nParaphrasing Tool - Paraphrase",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/21/02/a921028e-722a-4e27-f90e-068983d9e63e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 10903748,
+      "size": 10906401,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -48269,11 +48269,11 @@
       },
       "versions": [
         {
-          "version": "1.6.7",
-          "date": "2026-06-19",
+          "version": "1.6.9",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Paraphrasing Tool - Paraphrase-v1.6.7-riftysipas.ipa",
-          "size": 10903748
+          "downloadURL": "https://telos.ftp.sh/ipas/Paraphrasing Tool - Paraphrase-v1.6.9-riftysipas.ipa",
+          "size": 10906401
         }
       ],
       "category": "productivity"
@@ -50421,15 +50421,15 @@
       "name": "Picsart",
       "bundleIdentifier": "com.picsart.studio",
       "developerName": "PicsArt, Inc.",
-      "subtitle": "Pro Features Unlocked",
-      "version": "30.2.1",
-      "versionDate": "2026-07-01",
-      "versionDescription": "Tweaks: Picsart\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Picsart Pro 30.2.1.ipa",
-      "localizedDescription": "Pro Features Unlocked\n\nPicsart AI Photo Video Editor",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "30.2.2",
+      "versionDate": "2026-07-02",
+      "versionDescription": "Tweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_2_2_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPicsart AI Photo Editor, Video",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/86/9e/0f869ee2-ca40-a713-6cc4-4cb2bcdc82de/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 105474135,
+      "size": 112511776,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/19/4f/0c194fdc-8f88-0792-c4f8-e37c39f85265/072cbf42-fad7-40f4-b11e-015732e61666_1._Multiple_Use_Cases___iPhone_12.9_.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/b9/fd/deb9fdf2-7120-98a3-9443-618a3eec4b0e/c3a88056-d203-42c4-9fbd-56c9797d3eb7_2._Multiple_Use_Cases___iPhone_12.9_.png/576x768bb.png",
@@ -50461,11 +50461,11 @@
       },
       "versions": [
         {
-          "version": "30.2.1",
-          "date": "2026-07-01",
-          "localizedDescription": "Tweaks: Picsart\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Picsart Pro 30.2.1.ipa",
-          "size": 105474135
+          "version": "30.2.2",
+          "date": "2026-07-02",
+          "localizedDescription": "Tweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_2_2_Subscription_Unlocked_blatant.ipa",
+          "size": 112511776
         }
       ],
       "category": "photo-&-video"
@@ -59222,14 +59222,14 @@
       "bundleIdentifier": "health.sleep.sounds.tracker.alarm.calm",
       "developerName": "Enerjoy Pte. Ltd.",
       "subtitle": "Premium Unlocked | Patched",
-      "version": "3.4.5",
-      "versionDate": "2026-06-25",
+      "version": "3.4.6",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: ShutEye, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/ShutEye®_Sleep_Tracker,_Sound_v3_4_5_Premium_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ShutEye®_Sleep_Tracker,_Sound_v3_4_6_Premium_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nShutEye®: Sleep Tracker, Sound",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/fb/a2/33fba2c1-8bce-1c88-ef17-e3cb2f454cf1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/8d/00/968d000a-100e-f58b-d4f0-1e29a2af075a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 510614725,
+      "size": 513197467,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -59255,11 +59255,11 @@
       },
       "versions": [
         {
-          "version": "3.4.5",
-          "date": "2026-06-25",
+          "version": "3.4.6",
+          "date": "2026-07-01",
           "localizedDescription": "Tweaks: ShutEye, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/ShutEye®_Sleep_Tracker,_Sound_v3_4_5_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 510614725
+          "downloadURL": "https://telos.ftp.sh/ipas/ShutEye®_Sleep_Tracker,_Sound_v3_4_6_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 513197467
         }
       ],
       "category": "health-&-fitness"
@@ -61994,14 +61994,14 @@
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "developerName": "SoundCloud Global Limited & Co KG",
       "subtitle": "Go+ Unlocked",
-      "version": "8.67.0",
-      "versionDate": "2026-06-30",
+      "version": "8.67.1",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: SoundCloudPlus, substrate, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.67.0 NoAds.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.67.1 NoAds.ipa",
       "localizedDescription": "Go+ Unlocked\n\nAppstore link : SoundCloud",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/32/6d/ef326dd6-73ee-e52a-df14-28c43d51fd1a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 120789280,
+      "size": 120786079,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/0e/9a/790e9a39-985d-ec35-8d6b-135fc84523da/ccfb3f9a-137d-4905-827f-40c6d6726ab1_iPad_Pro_1A.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/f1/7b/58f17b47-e6f8-86a6-276c-f46dd2f735a0/57293b7c-1d2e-4ccd-a634-892d4af7f8a1_iPad_Pro_2A.png/576x768bb.png",
@@ -62056,11 +62056,11 @@
       },
       "versions": [
         {
-          "version": "8.67.0",
-          "date": "2026-06-30",
+          "version": "8.67.1",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: SoundCloudPlus, substrate, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.67.0 NoAds.ipa",
-          "size": 120789280
+          "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.67.1 NoAds.ipa",
+          "size": 120786079
         }
       ],
       "category": "music"
@@ -63175,22 +63175,22 @@
     {
       "name": "SpotiFLAC Mobile",
       "bundleIdentifier": "com.zarz.spotiflacAndroid",
-      "developerName": "US Mobile Inc.",
+      "developerName": "Visible Service, LLC",
       "subtitle": "No Ads",
-      "version": "4.7.0",
-      "versionDate": "2026-06-30",
+      "version": "4.7.1",
+      "versionDate": "2026-07-01",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/SpotiFLAC-v4.7.0-ios-unsigned.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SpotiFLAC-v4.7.1-ios-unsigned.ipa",
       "localizedDescription": "No Ads\n\nSpotiFLAC",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/af/75/93af75da-ea2d-9b9c-95b8-86721edbb4e4/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/03/df/9403dff8-b57c-d59b-2c1e-a19ea405bf60/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 37442462,
+      "size": 37455821,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/ab/1a/d6ab1a89-4c7d-9793-5965-1e00c3c64515/USM_SL_AppStore_iPhone-2.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/3c/3b/c93c3bf0-3b22-8991-ef22-f8effbe5d2c1/df231d9f-5345-47e3-bf56-7f75c5df8252_app_store_apple_01.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/35/62/2735622b-c668-3227-c269-5ad2f09c5c4b/063744f3-e14c-4650-a8ef-aa00ab8dec6f_app_store_apple_02.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/76/78/287678e3-c74a-3ffc-e267-80e7a85c8d0e/c6458b6b-1193-43dd-8c20-98b31fb45944_app_store_apple_03.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/86/b3/da86b37c-6cc3-1f9c-30f5-99462aa89be7/5655d7ac-5806-4ea9-8c2b-54d60bbbefab_app_store_apple_04.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/d1/20/f0d120d0-fa25-248e-e2f8-b45fd73f47ed/Apple-SE-Account-5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/a0/d7/7aa0d7c2-2b24-2906-f445-e6f9645c8d78/Apple-SE-Shop-5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/85/a3/c185a329-0a16-d8b9-1e3d-f267bd69b8f1/Apple-SE-Activate-5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/23/e7/9823e79a-9a6c-ab88-4dfb-8c8cd07774b5/Apple-SE-Manage-5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/24/e6/4d24e6b5-d248-cd7b-d5c8-ca2dbcdcebc3/Apple-SE-Manage-5.5-1.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
         "entitlements": [],
@@ -63200,11 +63200,11 @@
       },
       "versions": [
         {
-          "version": "4.7.0",
-          "date": "2026-06-30",
+          "version": "4.7.1",
+          "date": "2026-07-01",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/SpotiFLAC-v4.7.0-ios-unsigned.ipa",
-          "size": 37442462
+          "downloadURL": "https://telos.ftp.sh/ipas/SpotiFLAC-v4.7.1-ios-unsigned.ipa",
+          "size": 37455821
         }
       ],
       "category": "utilities"
@@ -68224,14 +68224,14 @@
       "bundleIdentifier": "com.n3twork.tetris",
       "developerName": "PlayStudios",
       "subtitle": "*Tweak:** No Ads | *Patched ✓**",
-      "version": "7.7.7",
-      "versionDate": "2026-06-23",
+      "version": "7.7.8",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: NetworkBlocker(adblocker), Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tetris®-v7.7.7-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tetris®-v7.7.8-riftysipas.ipa",
       "localizedDescription": "*Tweak:** No Ads | *Patched ✓**\n\nTetris®",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/39/24/853924d3-54b2-f0d0-2856-9607070f863c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 146583259,
+      "size": 146845656,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/8a/c4/4f8ac47c-177c-5159-3c85-d5fa95844428/d391cc40-e73c-44b6-9772-a47f58ab0142_SS_iOS_Revamp-01_ASO_1242x2208.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/7f/76/ff7f7659-7362-de08-7656-1fb8c412a056/d1544309-ee7d-4946-9024-8fa838baa0ed_SS_GP_RevampWithoutWhiteSpace-2_ASO_1242x2208.jpg/392x696bb.jpg",
@@ -68256,11 +68256,11 @@
       },
       "versions": [
         {
-          "version": "7.7.7",
-          "date": "2026-06-23",
+          "version": "7.7.8",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tetris®-v7.7.7-riftysipas.ipa",
-          "size": 146583259
+          "downloadURL": "https://telos.ftp.sh/ipas/Tetris®-v7.7.8-riftysipas.ipa",
+          "size": 146845656
         }
       ],
       "category": "games"
@@ -77070,6 +77070,48 @@
       "category": "graphics-&-design"
     },
     {
+      "name": "Woodoku Blast",
+      "bundleIdentifier": "com.tripledot.blockbash",
+      "developerName": "Tripledot Studios",
+      "subtitle": "Woodoku Blast for iOS",
+      "version": "1.22.00",
+      "versionDate": "2026-07-01",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.tripledot.blockbash-1.22.00-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/67/ef/5d67ef49-775c-6fd6-181d-d9dca40e32a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 122083028,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/b9/84/ddb984ff-4fd8-7c3a-1c4e-3e5625e44ed9/92073fa1-8a42-4272-9f60-a3e1b9a1e444_004_AppStoreScreenshots_BT_Colors_iOS_2048x2732_1.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/1b/38/411b3893-f89a-dbba-1f95-56c6e84443e4/d3f490cf-a239-4be4-9fd8-75c707eda2be_004_AppStoreScreenshots_BT_Colors_iOS_2048x2732_2.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/c0/fd/acc0fd29-8e84-4018-a2c2-4618f19cfddd/dbbfafc0-3823-466e-85d8-4001690007d8_004_AppStoreScreenshots_BT_Colors_iOS_2048x2732_3.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/4e/5f/f74e5f5b-b556-b395-deaf-6ce4076f96a9/fcf97203-93dd-4808-8e2d-06366c989d7b_004_AppStoreScreenshots_BT_Colors_iOS_2048x2732_4.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/ca/66/b0ca6614-fa99-8c9c-f119-3a1611f6bf65/ac30bbb6-53ac-48c4-a815-b64a1772e6fa_004_AppStoreScreenshots_BT_Colors_iOS_2048x2732_5.png/576x768bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "We need access to your photo library to provide better support experience",
+          "NSLocationWhenInUseUsageDescription": "App wants access to location when in use.",
+          "NSLocationAlwaysUsageDescription": "App wants Background Location Access (ALWAYS).",
+          "NSCalendarsUsageDescription": "App would like Calendar access (Create Events).",
+          "NSUserTrackingUsageDescription": "The data will be used to improve your experience and deliver personalized ads.",
+          "NSPhotoLibraryAddUsageDescription": "The app requires access to Photos to save media to it."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.22.00",
+          "date": "2026-06-25",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.tripledot.blockbash-1.22.00-eeveedecrypter.ipa",
+          "size": 122083028
+        }
+      ],
+      "category": "games"
+    },
+    {
       "name": "Woofz",
       "bundleIdentifier": "dog.training.woofz",
       "developerName": "nove8",
@@ -80331,11 +80373,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 7.2",
+      "identifier": "telos-update-2026-07-02",
+      "caption": "18 Apps Updated:\n• 6 Photo & Video\n• 4 Games\n• 2 Health & Fitness\n• 2 Music\n• 2 Productivity\n• 2 Lifestyle",
+      "date": "2026-07-02",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "health.sleep.sounds.tracker.alarm.calm"
+    },
+    {
       "title": "⚙️ Telos Update 7.1",
       "identifier": "telos-update-2026-07-01",
-      "caption": "150 Apps Updated:\n• 30 Health & Fitness\n• 22 Photo & Video\n• 14 Games\n• 12 Education\n• 8 Productivity\n• 8 Utilities\n• 8 Music\n• 8 Entertainment\n• 4 Developer Tools\n• 4 Finance\n• 4 Travel\n• 4 Social Networking\n• 4 Food & Drink\n• 4 Lifestyle\n• 4 News\n• 2 Business\n• 2 Medical\n• 2 Graphics & Design\n• 2 Weather\n• 2 Navigation\n• 2 Sports",
+      "caption": "164 Apps Updated:\n• 30 Health & Fitness\n• 26 Photo & Video\n• 18 Games\n• 12 Utilities\n• 12 Education\n• 10 Productivity\n• 8 Music\n• 8 Entertainment\n• 6 Lifestyle\n• 4 Developer Tools\n• 4 Finance\n• 4 Travel\n• 4 Social Networking\n• 4 Food & Drink\n• 2 Business\n• 2 Medical\n• 2 Graphics & Design\n• 2 Weather\n• 2 Navigation\n• 2 Sports\n• 2 News",
       "date": "2026-07-01",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "co.vulcanlabs.moodtracker"
     },
@@ -80344,7 +80395,7 @@
       "identifier": "telos-update-2026-06-30",
       "caption": "104 Apps Updated:\n• 26 Health & Fitness\n• 14 Games\n• 12 Photo & Video\n• 10 Entertainment\n• 8 Productivity\n• 8 Music\n• 6 Weather\n• 6 Lifestyle\n• 4 Education\n• 2 Business\n• 2 Food & Drink\n• 2 Travel\n• 2 Medical\n• 2 Utilities",
       "date": "2026-06-30",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.andyworks.camera"
     },
@@ -80353,7 +80404,7 @@
       "identifier": "telos-update-2026-06-29",
       "caption": "82 Apps Updated:\n• 18 Photo & Video\n• 12 Education\n• 12 Health & Fitness\n• 6 Entertainment\n• 6 Games\n• 4 Productivity\n• 4 Utilities\n• 4 Finance\n• 4 Music\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Sports\n• 2 Social Networking\n• 2 Navigation\n• 2 News",
       "date": "2026-06-29",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.intsig.CamScannerLite"
     },
@@ -80362,7 +80413,7 @@
       "identifier": "telos-update-2026-06-28",
       "caption": "36 Apps Updated:\n• 8 Health & Fitness\n• 6 Photo & Video\n• 4 Music\n• 4 Productivity\n• 4 News\n• 2 Games\n• 2 Lifestyle\n• 2 Finance\n• 2 Education\n• 2 Food & Drink",
       "date": "2026-06-28",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.spotify.client"
     },
@@ -80371,7 +80422,7 @@
       "identifier": "telos-update-2026-06-27",
       "caption": "48 Apps Updated:\n• 6 Productivity\n• 6 Health & Fitness\n• 5 Photo & Video\n• 5 Graphics & Design\n• 4 Education\n• 4 Business\n• 2 Music\n• 2 Social Networking\n• 2 News\n• 2 Finance\n• 2 Entertainment\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Games",
       "date": "2026-06-27",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.withopal.opal"
     },
@@ -80380,7 +80431,7 @@
       "identifier": "telos-update-2026-06-26",
       "caption": "84 Apps Updated:\n• 21 Photo & Video\n• 10 Productivity\n• 8 Utilities\n• 8 Health & Fitness\n• 6 Games\n• 6 Weather\n• 5 Graphics & Design\n• 4 Lifestyle\n• 4 News\n• 4 Entertainment\n• 4 Medical\n• 2 Education\n• 2 Developer Tools",
       "date": "2026-06-26",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "cameronnazemi.Tappy"
     },
@@ -80389,7 +80440,7 @@
       "identifier": "telos-update-2026-06-25",
       "caption": "94 Apps Updated:\n• 20 Photo & Video\n• 20 Health & Fitness\n• 8 Games\n• 8 Productivity\n• 6 Education\n• 6 Utilities\n• 4 Music\n• 4 Entertainment\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Business\n• 2 Sports\n• 2 Finance\n• 2 Books\n• 2 Developer Tools\n• 2 News\n• 2 Navigation",
       "date": "2026-06-25",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.miniclip.8ballpoolmult"
     },
@@ -80398,7 +80449,7 @@
       "identifier": "telos-update-2026-06-24",
       "caption": "114 Apps Updated:\n• 24 Health & Fitness\n• 14 Photo & Video\n• 12 Lifestyle\n• 10 Utilities\n• 10 News\n• 8 Productivity\n• 8 Graphics & Design\n• 6 Education\n• 6 Games\n• 6 Music\n• 4 Developer Tools\n• 2 Food & Drink\n• 2 Entertainment\n• 2 Finance",
       "date": "2026-06-24",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.getmimo.mimo"
     },
@@ -80407,18 +80458,9 @@
       "identifier": "telos-update-2026-06-23",
       "caption": "104 Apps Updated:\n• 22 Health & Fitness\n• 12 Photo & Video\n• 8 Music\n• 6 Navigation\n• 6 Productivity\n• 6 Education\n• 6 Utilities\n• 6 Business\n• 4 Shopping\n• 4 Graphics & Design\n• 4 Developer Tools\n• 4 Lifestyle\n• 4 Games\n• 2 Entertainment\n• 2 Travel\n• 2 Weather\n• 2 Food & Drink\n• 2 Sports\n• 2 News",
       "date": "2026-06-23",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "com.evolve.helm"
-    },
-    {
-      "title": "⚙️ Telos Update 6.22",
-      "identifier": "telos-update-2026-06-22",
-      "caption": "128 Apps Updated:\n• 30 Photo & Video\n• 24 Health & Fitness\n• 14 Utilities\n• 14 Education\n• 8 Games\n• 6 Productivity\n• 6 Entertainment\n• 4 Lifestyle\n• 4 Weather\n• 4 Travel\n• 4 Social Networking\n• 4 Shopping\n• 2 Reference\n• 2 Graphics & Design\n• 2 Finance",
-      "date": "2026-06-22",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.stremio.pal"
+      "appID": "com.evolve.helm"
     }
   ]
 }
