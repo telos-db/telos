@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.vertventures.stella",
+    "com.risesci.nyx",
+    "jp.naver.linecamera",
     "com.bowery-digital.bend",
-    "boomer.Smart-Video",
-    "com.mcdiamondfinder.app",
-    "ai.befreed.freed-frontend-rn",
-    "com.revivasoftworks.Snore-Lab"
+    "boomer.Smart-Video"
   ],
   "apps": [
     {
@@ -5237,14 +5237,14 @@
       "bundleIdentifier": "com.vertventures.stella",
       "developerName": "Vert Ventures",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.12.27",
-      "versionDate": "2026-06-19",
+      "version": "3.12.30",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.27-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.30-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nAstra - Life Advice\n\n---\nWork through life challenges. Talk about compatibility with friends and romantic interests. Discuss personal growth. Learn about your dreams. All of this and more is at your fingertips with Astra!\n\nIf you have any questions comments or feedback, please email us astracontact111@gmail.com\n\nTerms:\n\nAccess to Astra requires a paid subscription",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/8d/2f/068d2f3d-a97c-a7d2-e4a0-b02bc8c8db7e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 79165555,
+      "size": 80239833,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/d5/e2/6bd5e202-c048-b4cb-712b-af6417ff5b55/2fe2b2a5-46d8-4e8f-bc0b-77a923776e42_Frame_832.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/70/54/6a705462-1826-1556-7c33-714f49e9f94a/b86cb528-6044-44eb-9a6a-d61ab51ec09a_Frame_822.jpg/392x696bb.jpg",
@@ -5255,6 +5255,7 @@
         "entitlements": [
           "aps-environment",
           "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.associated-domains",
           "com.apple.security.application-groups"
         ],
         "privacy": {
@@ -5268,11 +5269,11 @@
       },
       "versions": [
         {
-          "version": "3.12.27",
-          "date": "2026-06-19",
+          "version": "3.12.30",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.27-riftysipas.ipa",
-          "size": 79165555
+          "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.30-riftysipas.ipa",
+          "size": 80239833
         }
       ],
       "category": "lifestyle"
@@ -37435,14 +37436,14 @@
       "bundleIdentifier": "jp.naver.linecamera",
       "developerName": "SNOW Corporation",
       "subtitle": "Tweaked with LINECamera, blatantsPatch",
-      "version": "18.3.3",
-      "versionDate": "2026-06-17",
+      "version": "18.4.0",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_3_3_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_4_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: LINECamera, blatantsPatch\n\nLINE Camera - Photo editor\n\n---\nA photo editing camera app used by over 200 million people worldwide! 『LINE Camera』\n\n- Over 30,000 stickers and frames\nFrom decorations to face covers, the possibilities are endless.\nA wide variety of items is updated weekly.\n\n- Cute, sleek filters\nHighly customizable filters let you make your photos look just how you like them.\n\n- Make your own original stickers!\nUse your own illustrations, text, or photos to make your own stickers.\n\n- Use the Beauty feature to bring out the natural beauty in y",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/4f/4f/3b4f4fbe-ba07-4208-1147-9066229d47c7/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/62/ed/0c62ed35-c46c-d28d-6789-b34b52cd141d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 200582993,
+      "size": 202262987,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/27/8f/39278fe6-038f-45b8-f616-2b00cd9b4329/1242x2208_filter.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/68/b3/c968b397-9270-cd57-6a02-1728925d0c44/1242x2208_blur.png/392x696bb.png",
@@ -37465,11 +37466,11 @@
       },
       "versions": [
         {
-          "version": "18.3.3",
-          "date": "2026-06-17",
+          "version": "18.4.0",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_3_3_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 200582993
+          "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_4_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 202262987
         }
       ],
       "category": "photo-&-video"
@@ -56857,14 +56858,14 @@
       "bundleIdentifier": "com.risesci.nyx",
       "developerName": "Rise Science Inc",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "0.1.606",
-      "versionDate": "2026-07-01",
+      "version": "0.1.607",
+      "versionDate": "2026-07-02",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_606_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_607_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nRISE: Sleep Tracker\n\n---\nJoin over 10 million users! Become a better sleeper and morning person thanks to 100 years of sleep science with RISE, the only sleep tracker that also measures your sleep debt and energy levels.\n\nRecommended by the Sleep Foundation and trusted by teams in the NFL, MLB, and NBA, and top Fortune 500 companies, RISE makes it easy to improve your sleep and energy.\n\nBut RISE is more than a sleep and energy tracker. Users can access widgets, calendar integration, sleeping sounds, meditation guides, s",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/78/be/d178be1e-bd03-e7c3-4023-e8fb723b6db2/App-Icon-Glass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 145789796,
+      "size": 147720402,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/fe/b7/f5feb7b6-0c2d-3758-7ecd-21e4553cd2c7/a457da92-9a8d-48e8-8150-8f355011e70e_5.5_SS1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/32/1f/ee321f6f-dd06-60b8-533c-19d00ca084f9/6c0d466d-dd53-4e7e-a3e7-fe3bdb1f5f29_5.5_SS2.png/392x696bb.png",
@@ -56898,11 +56899,11 @@
       },
       "versions": [
         {
-          "version": "0.1.606",
-          "date": "2026-07-01",
+          "version": "0.1.607",
+          "date": "2026-07-02",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_606_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 145789796
+          "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_607_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 147720402
         }
       ],
       "category": "health-&-fitness"
