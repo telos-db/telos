@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.luma-touch.LumaFusion",
     "com.studentbeans.studentbeans",
     "com.basenji.mood",
     "uni.cbum",
-    "video.up.editor.maker",
-    "com.365scores.365scroesapp"
+    "video.up.editor.maker"
   ],
   "apps": [
     {
@@ -38928,14 +38928,14 @@
       "bundleIdentifier": "com.luma-touch.LumaFusion",
       "developerName": "Luma Touch LLC",
       "subtitle": "LumaFusion for iOS",
-      "version": "5.4.4",
-      "versionDate": "2026-06-27",
+      "version": "5.5.0",
+      "versionDate": "2026-07-02",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/LumaFusion-5.4.4.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LumaFusion-5.5.0.ipa",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nLumaFusion\n\n---\nLumaFusion: The Ultimate Storytelling Experience for Video Editing\n\nWelcome to the App Store’s “App of the Year” for 2021 and the recipient of the Editors’ Choice Award! The gold standard for storytellers worldwide. Offering a fluid, intuitive, touch-screen editing experience.\n\nPROFESSIONAL EDITING MADE EASY\n• Six video/audio or graphic tracks: Create multiple layer edits with smooth handling of 4K ProRes and HDR media.\n• Six Additional audio tracks: Build your soundscape.\n• The ultimate Timelin",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/45/39/a64539ec-1521-9f96-fcd0-c7ac15a753ec/LumaFusionComposerIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 172104026,
+      "size": 180264304,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -38947,11 +38947,11 @@
       },
       "versions": [
         {
-          "version": "5.4.4",
-          "date": "2026-06-27",
+          "version": "5.5.0",
+          "date": "2026-07-02",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/LumaFusion-5.4.4.ipa",
-          "size": 172104026
+          "downloadURL": "https://telos.ftp.sh/ipas/LumaFusion-5.5.0.ipa",
+          "size": 180264304
         }
       ],
       "category": "photo-&-video"
