@@ -10209,12 +10209,12 @@
       "bundleIdentifier": "com.saltycrackers.daygram",
       "developerName": "EUIHYUNG JUNG",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdaygram, zxPluginsInject\n\nDaygram: Daily Journal\n\n---\n• App Store Best of the Year • Best New App • Featured in App Store Stories\nDayGram is a beautifully minimal journal and diary app with an elegant E-Ink style display. Write one line a day, keep a daily journal, or create a private digital memoir.\n\n◆ WHY DAYGRAM?\n\n- Distraction-free writing with a clean, paper-like interface\n- No ads, no subscriptions – one-time purchase for Premium\n- Password & Face ID protection for complete privacy\n- iCloud sync keeps your diary safe across all devices\n\n◆ FEA",
-      "version": "5.6.9",
-      "versionDate": "2026-06-19T18:39:58-00:00",
-      "versionDescription": "Build 7191 from @riftysIPAlibrary",
-      "size": 30350726,
+      "version": "5.7.0",
+      "versionDate": "2026-07-02T08:24:46-00:00",
+      "versionDescription": "Build 7192 from @riftysIPAlibrary",
+      "size": 30352856,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/e8/75/c4e875b4-fe09-51c9-e086-060edae54603/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.6.9-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.7.0-riftysipas.ipa",
       "minOSVersion": "15.6",
       "supportedPlatforms": [
         "iOS"
@@ -10227,7 +10227,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Daygram: Daily Journal-v5.6.9-riftysipas.ipa"
+        "originalFile": "Daygram: Daily Journal-v5.7.0-riftysipas.ipa"
       }
     },
     {
@@ -25337,18 +25337,17 @@
       "bundleIdentifier": "com.jojoapps.Medication-List",
       "developerName": "JOJO APPS",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nMedication List\n\n---\nTake control of your health with the Medication Tracker & Reminder app, your all-in-one solution for managing medications and supplements. Whether you’re managing daily prescriptions or keeping track of vitamins and supplements, this app ensures you never miss a dose.\n\nFeatures:\n\nPersonalized Medication Scheduling: Set up customized schedules for each medication. Choose from daily, weekly, or specific days, and even set multiple reminders per day.\n\nSmart Reminders: Receive timely notifications t",
-      "version": "1.8.0",
-      "versionDate": "2026-06-14T13:15:22-00:00",
-      "versionDescription": "Build 46 from @riftysIPAlibrary",
-      "size": 18232532,
+      "version": "1.8.11",
+      "versionDate": "2026-07-02T08:25:58-00:00",
+      "versionDescription": "Build 57 from @riftysIPAlibrary",
+      "size": 18797204,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/ae/c3/c6aec3ef-0e13-3c5c-4858-3f297fafa42c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Medication List-v1.8.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Medication List-v1.8.11-riftysipas.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -25356,7 +25355,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Medication List-v1.8.0-riftysipas.ipa"
+        "originalFile": "Medication List-v1.8.11-riftysipas.ipa"
       }
     },
     {
