@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.uqxuwtxbbu.parkingjam",
     "com.moonly.Moonly",
     "com.picsart.studio",
     "com.snowcorp.epik",
-    "co.vulcanlabs.moodtracker",
-    "com.nianticlabs.pokemongo"
+    "co.vulcanlabs.moodtracker"
   ],
   "apps": [
     {
@@ -48900,14 +48900,14 @@
       "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
       "developerName": "Popcore GmbH",
       "subtitle": "Tweaked with CydiaSubstrate, fixipa1",
-      "version": "232.0.5",
-      "versionDate": "2026-06-26",
+      "version": "232.0.6",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, parkingjam3drifty, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v232.0.5-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v232.0.6-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, fixipa1, fixipa2, parkingjam3drifty, popuprifty\n\nParking Jam 3D\n\n---\nParking Jam 3D is one of the most downloaded Puzzle Board games with more than 50,000,000 installs.\n\nParking Jam is a fun and addictive puzzle board game. It’s more than just parking - it's a fun driving experience that'll take you to another level!\n\nJams in parking lots, challenging parking situations, angry grannies and much more. Experience one of the best parking board games, get rewarded and unlock skins, solve puzzles which get harder each level, choose which car to move so you can find sm",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/ce/c5/0ecec593-d4b5-740c-42ab-8fde6650f2c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 225622834,
+      "size": 224101579,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/67/26/7567264b-c0bc-8ea6-fa05-d06100d5e54b/4__U00282_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/1b/57/601b57c4-89f9-8fc5-14eb-8e4ab86f8386/5__U00282_U0029.png/392x696bb.png",
@@ -48932,11 +48932,11 @@
       },
       "versions": [
         {
-          "version": "232.0.5",
-          "date": "2026-06-26",
+          "version": "232.0.6",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, parkingjam3drifty, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v232.0.5-riftysipas.ipa",
-          "size": 225622834
+          "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v232.0.6-riftysipas.ipa",
+          "size": 224101579
         }
       ],
       "category": "games"
