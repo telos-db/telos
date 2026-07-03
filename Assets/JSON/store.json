@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "io.fadel.Spiik",
     "com.codeway.cleanerplus",
     "com.sbs.train",
     "com.robnorback.LiveTranscribe",
-    "com.unicostudio.braintest",
-    "com.ulisesolave.Fitia"
+    "com.unicostudio.braintest"
   ],
   "apps": [
     {
@@ -62756,14 +62756,14 @@
       "bundleIdentifier": "io.fadel.Spiik",
       "developerName": "Fadel.io OU",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "1.0.130",
-      "versionDate": "2026-06-13",
+      "version": "1.0.131",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Voice Recorder AI Notes: Spiik-v1.0.130-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Voice Recorder AI Notes: Spiik-v1.0.131-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nVoice Recorder AI Notes: Spiik",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/d6/ff/95d6ff60-fdcb-b595-a925-30ef477aff19/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 31305637,
+      "size": 31379205,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/d0/d3/a0d0d346-d8a4-fbe9-ca8d-9c61f5fb3d34/d9601271-22f4-4758-9211-3d94f07d7e07_iPhone_5.5_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/78/eb/0478eb2e-fd49-c8f7-cf79-39efb848890b/5bd74a38-e9cb-412a-913e-b474b086dfc3_iPhone_5.5_2.png/392x696bb.png",
@@ -62783,11 +62783,11 @@
       },
       "versions": [
         {
-          "version": "1.0.130",
-          "date": "2026-04-15",
+          "version": "1.0.131",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Voice Recorder AI Notes: Spiik-v1.0.130-riftysipas.ipa",
-          "size": 31305637
+          "downloadURL": "https://telos.ftp.sh/ipas/Voice Recorder AI Notes: Spiik-v1.0.131-riftysipas.ipa",
+          "size": 31379205
         }
       ],
       "category": "utilities"
@@ -80514,7 +80514,7 @@
     {
       "title": "⚙️ Telos Update 7.3",
       "identifier": "telos-update-2026-07-03",
-      "caption": "52 Apps Updated:\n• 10 Health & Fitness\n• 10 Photo & Video\n• 8 Utilities\n• 6 Lifestyle\n• 6 Games\n• 4 Productivity\n• 4 Music\n• 2 Education\n• 2 Graphics & Design",
+      "caption": "54 Apps Updated:\n• 10 Utilities\n• 10 Health & Fitness\n• 10 Photo & Video\n• 6 Lifestyle\n• 6 Games\n• 4 Productivity\n• 4 Music\n• 2 Education\n• 2 Graphics & Design",
       "date": "2026-07-03",
       "tintColor": "#02433b",
       "notify": true,
