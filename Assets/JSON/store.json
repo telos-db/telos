@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.snowcorp.epik",
     "co.vulcanlabs.moodtracker",
     "com.nianticlabs.pokemongo",
     "br.com.marcosatanaka.musicwhiz",
-    "br.com.marcosatanaka.musicbox",
-    "io.fadel.VidCap"
+    "br.com.marcosatanaka.musicbox"
   ],
   "apps": [
     {
@@ -19921,14 +19921,14 @@
       "bundleIdentifier": "com.snowcorp.epik",
       "developerName": "SNOW Corporation",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "7.1.42",
-      "versionDate": "2026-06-16",
+      "version": "7.2.0",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: EPIK, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/EPIK_AI_Photo_&_Video_Editor_v7_1_42_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/EPIK_AI_Photo_&_Video_Editor_v7_2_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nEPIK - AI Photo & Video Editor",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/67/3a/e4673a5f-3461-bdee-942c-c8ef4491caef/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/46/02/14460241-f6b8-abd1-7661-8c9d4d2b7b0b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 195182744,
+      "size": 195318023,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/11/c0/9b11c0d5-9d65-1003-f761-9202091178ee/Event_en.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/e5/e0/e8e5e0dc-6415-7da4-3221-ab6941dfc4c7/AIfilter_en.png/392x696bb.png",
@@ -19940,6 +19940,7 @@
         "entitlements": [
           "com.apple.developer.applesignin",
           "aps-environment",
+          "com.apple.developer.devicecheck.appattest-environment",
           "com.apple.developer.associated-domains",
           "com.apple.security.application-groups"
         ],
@@ -19956,11 +19957,11 @@
       },
       "versions": [
         {
-          "version": "7.1.42",
-          "date": "2026-06-16",
+          "version": "7.2.0",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: EPIK, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/EPIK_AI_Photo_&_Video_Editor_v7_1_42_Subscription_Unlocked_blatant.ipa",
-          "size": 195182744
+          "downloadURL": "https://telos.ftp.sh/ipas/EPIK_AI_Photo_&_Video_Editor_v7_2_0_Subscription_Unlocked_blatant.ipa",
+          "size": 195318023
         }
       ],
       "category": "photo-&-video"
@@ -80513,7 +80514,7 @@
     {
       "title": "⚙️ Telos Update 7.3",
       "identifier": "telos-update-2026-07-03",
-      "caption": "30 Apps Updated:\n• 6 Productivity\n• 4 Lifestyle\n• 4 Music\n• 4 Health & Fitness\n• 4 Games\n• 2 Utilities\n• 2 Education\n• 2 Photo & Video\n• 2 Graphics & Design",
+      "caption": "30 Apps Updated:\n• 6 Photo & Video\n• 4 Lifestyle\n• 4 Productivity\n• 4 Music\n• 4 Health & Fitness\n• 2 Utilities\n• 2 Education\n• 2 Games\n• 2 Graphics & Design",
       "date": "2026-07-03",
       "tintColor": "#02433b",
       "notify": true,
