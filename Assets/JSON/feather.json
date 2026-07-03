@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "io.fadel.Spiik",
     "com.codeway.cleanerplus",
     "com.sbs.train",
     "com.robnorback.LiveTranscribe",
-    "com.unicostudio.braintest",
-    "com.ulisesolave.Fitia"
+    "com.unicostudio.braintest"
   ],
   "apps": [
     {
@@ -63219,14 +63219,14 @@
       "bundleIdentifier": "io.fadel.Spiik",
       "developerName": "Fadel.io OU",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.0.129",
-      "versionDate": "2026-06-14",
+      "version": "1.0.131",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Voice Recorder AI Notes: Spiik-v1.0.129-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Voice Recorder AI Notes: Spiik-v1.0.131-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nVoice Recorder AI Notes: Spiik\n\n---\nSpiik is an easy-to-use voice recording and auto-transcribing app. Record lectures, interviews, meetings, personal notes or ideas and get automatic transcriptions.\n\nGenerate detailed notes, summaries, quizzes, flashcards from your recordings with our built-in AI.\n\nFEATURES:\n\n• Record, save and replay audio without limits.\n\n• Transcribe and translate in over 100 languages.\n\n• Generate structured notes, summaries, quizzes, flashcards, and more with our AI-powered note taker.\n\n• Organize your recor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/d6/ff/95d6ff60-fdcb-b595-a925-30ef477aff19/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 30877422,
+      "size": 31379205,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/d0/d3/a0d0d346-d8a4-fbe9-ca8d-9c61f5fb3d34/d9601271-22f4-4758-9211-3d94f07d7e07_iPhone_5.5_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/78/eb/0478eb2e-fd49-c8f7-cf79-39efb848890b/5bd74a38-e9cb-412a-913e-b474b086dfc3_iPhone_5.5_2.png/392x696bb.png",
@@ -63246,11 +63246,11 @@
       },
       "versions": [
         {
-          "version": "1.0.129",
-          "date": "2026-06-14",
+          "version": "1.0.131",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Voice Recorder AI Notes: Spiik-v1.0.129-riftysipas.ipa",
-          "size": 30877422
+          "downloadURL": "https://telos.ftp.sh/ipas/Voice Recorder AI Notes: Spiik-v1.0.131-riftysipas.ipa",
+          "size": 31379205
         }
       ],
       "category": "utilities"
