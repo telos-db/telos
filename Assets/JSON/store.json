@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.andydev.alpenglow",
     "com.dopedevelopment.Panels",
+    "com.google.ios.youtube",
+    "com.andydev.alpenglow",
     "com.sfun.snapedit",
-    "co.visualsupply.cam",
-    "com.wellocution.iosapp"
+    "co.visualsupply.cam"
   ],
   "apps": [
     {
@@ -58082,15 +58082,15 @@
       "name": "SCRL",
       "bundleIdentifier": "com.dopedevelopment.Panels",
       "developerName": "Appostrophe AB",
-      "subtitle": "Subscription Unlocked | Patched",
+      "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
       "version": "9.44",
       "versionDate": "2026-07-03",
-      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SCRL_Photo_Collage_Maker_v9_44_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSCRL: Photo Collage Maker",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/SCRL: Photo Collage Maker-v9.44-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nSCRL: Photo Collage Maker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/57/50/6b57500d-9f8f-3c68-788b-0102aa547091/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 71693654,
+      "size": 67052156,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/9f/cc/bf9fcc21-d31e-a730-109d-f0b037b8b55a/b50f3413-5af5-4401-afc8-59d1f050d406_IOS_5.5_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/dc/49/2adc49b4-9f3f-6591-8c4c-fe699045fd13/23d473c0-b9bb-4925-b93f-4d4a86fdee0f_IOS_5.5_2.jpg/392x696bb.jpg",
@@ -58116,9 +58116,9 @@
         {
           "version": "9.44",
           "date": "2026-07-03",
-          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SCRL_Photo_Collage_Maker_v9_44_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 71693654
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/SCRL: Photo Collage Maker-v9.44-riftysipas.ipa",
+          "size": 67052156
         }
       ],
       "category": "photo-&-video"
@@ -78382,15 +78382,15 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "subtitle": "YouTube for iOS",
+      "subtitle": "Cracked",
       "version": "21.26.4",
       "versionDate": "2026-07-03",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.google.ios.youtube-21.26.4-eeveedecrypter.ipa",
-      "localizedDescription": "YouTube for iOS",
+      "versionDescription": "Tweaks: CydiaSubstrate, YTKPlus, lowiqentity\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/YouTube_v21.26.4-YTKillerPlus-v5.8.0-Cracked-[lowiqentity].ipa",
+      "localizedDescription": "Cracked\n\nYouTube 21.26.4 YTKP 5.8.0 Cracked by lowiqentity thanks to @ballermc for sharing",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 138374761,
+      "size": 328087321,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -78400,17 +78400,41 @@
       ],
       "appPermissions": {
         "entitlements": [
+          "com.apple.developer.avfoundation.multitasking-camera-access",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.authentication-services.autofill-credential-provider",
+          "com.apple.developer.ClassKit-environment",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.access",
+          "com.apple.developer.homekit",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.icloud-container-development-container-identifiers",
           "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "inter-app-audio",
+          "com.apple.developer.networking.multipath",
+          "com.apple.developer.networking.networkextension",
+          "com.apple.developer.nfc.readersession.formats",
+          "aps-environment",
+          "com.apple.developer.siri",
+          "com.apple.external-accessory.wireless-configuration",
+          "com.apple.developer.coremedia.hls.low-latency",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.healthkit.recalibrate-estimates",
+          "com.apple.developer.weatherkit",
+          "com.apple.developer.kernel.increased-debugging-memory-limit",
+          "com.apple.developer.game-center",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.healthkit.background-delivery",
+          "com.apple.developer.user-fonts",
+          "com.apple.developer.applesignin",
           "com.apple.developer.declared-age-range",
           "com.apple.developer.group-session",
-          "com.apple.developer.networking.wifi-info",
-          "aps-environment",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.associated-domains",
           "com.apple.developer.device-information.user-assigned-device-name",
-          "com.apple.developer.siri",
-          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
-          "com.apple.security.application-groups"
+          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
@@ -78428,9 +78452,9 @@
         {
           "version": "21.26.4",
           "date": "2026-07-03",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.google.ios.youtube-21.26.4-eeveedecrypter.ipa",
-          "size": 138374761
+          "localizedDescription": "Tweaks: CydiaSubstrate, YTKPlus, lowiqentity\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/YouTube_v21.26.4-YTKillerPlus-v5.8.0-Cracked-[lowiqentity].ipa",
+          "size": 328087321
         }
       ],
       "category": "photo-&-video"
@@ -80514,7 +80538,7 @@
     {
       "title": "⚙️ Telos Update 7.3",
       "identifier": "telos-update-2026-07-03",
-      "caption": "66 Apps Updated:\n• 18 Photo & Video\n• 10 Health & Fitness\n• 8 Utilities\n• 6 Lifestyle\n• 6 Games\n• 4 Productivity\n• 4 Music\n• 4 Education\n• 4 Weather\n• 2 Graphics & Design",
+      "caption": "70 Apps Updated:\n• 24 Photo & Video\n• 10 Health & Fitness\n• 8 Utilities\n• 6 Lifestyle\n• 6 Games\n• 4 Productivity\n• 4 Music\n• 4 Education\n• 2 Graphics & Design\n• 2 Weather",
       "date": "2026-07-03",
       "tintColor": "#02433b",
       "notify": true,
