@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.netflix.Netflix",
     "com.dopedevelopment.Panels",
     "com.google.ios.youtube",
     "com.andydev.alpenglow",
-    "com.sfun.snapedit",
-    "co.visualsupply.cam"
+    "com.sfun.snapedit"
   ],
   "apps": [
     {
@@ -44431,14 +44431,14 @@
       "bundleIdentifier": "com.netflix.Netflix",
       "developerName": "Netflix, Inc.",
       "subtitle": "Netflix for iOS",
-      "version": "18.29.0",
-      "versionDate": "2026-06-15",
+      "version": "18.38.0",
+      "versionDate": "2026-07-03",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.netflix.Netflix-18.29.0-eeveedecrypter.ipa",
-      "localizedDescription": "Netflix for iOS",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.netflix.Netflix-18.38.0-eeveedecrypter.ipa",
+      "localizedDescription": "Already Decrypted",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/31/da/8531da6d-f838-d24f-88ce-2a7da950b2b6/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 83575822,
+      "size": 85942529,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/2d/41/a22d4158-6f5d-8865-0420-04d542f6b062/1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/23/9b/ec239b84-74a8-651b-6ff8-d388f1c4f1d9/2_APP_IPHONE_55_2.jpg/392x696bb.jpg",
@@ -44459,11 +44459,11 @@
       },
       "versions": [
         {
-          "version": "18.29.0",
-          "date": "2026-06-15",
+          "version": "18.38.0",
+          "date": "2026-07-03",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.netflix.Netflix-18.29.0-eeveedecrypter.ipa",
-          "size": 83575822
+          "downloadURL": "https://telos.ftp.sh/ipas/com.netflix.Netflix-18.38.0-eeveedecrypter.ipa",
+          "size": 85942529
         }
       ],
       "category": "entertainment"
@@ -80538,7 +80538,7 @@
     {
       "title": "⚙️ Telos Update 7.3",
       "identifier": "telos-update-2026-07-03",
-      "caption": "70 Apps Updated:\n• 24 Photo & Video\n• 10 Health & Fitness\n• 8 Utilities\n• 6 Lifestyle\n• 6 Games\n• 4 Productivity\n• 4 Music\n• 4 Education\n• 2 Graphics & Design\n• 2 Weather",
+      "caption": "70 Apps Updated:\n• 20 Photo & Video\n• 10 Health & Fitness\n• 8 Utilities\n• 6 Lifestyle\n• 6 Games\n• 4 Productivity\n• 4 Music\n• 4 Education\n• 4 Entertainment\n• 2 Graphics & Design\n• 2 Weather",
       "date": "2026-07-03",
       "tintColor": "#02433b",
       "notify": true,
