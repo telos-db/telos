@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.aheadsolutions.aHead",
+    "com.google.ios.youtube",
     "com.uqxuwtxbbu.parkingjam",
     "com.moonly.Moonly",
-    "com.picsart.studio",
-    "com.snowcorp.epik",
-    "co.vulcanlabs.moodtracker"
+    "com.picsart.studio"
   ],
   "apps": [
     {
@@ -1961,14 +1961,14 @@
       "bundleIdentifier": "com.aheadsolutions.aHead",
       "developerName": "ahead Solutions GmbH",
       "subtitle": "Tweaked with Sideloadbypass1, Sideloadbypass2",
-      "version": "1.60.21",
-      "versionDate": "2026-06-14",
+      "version": "1.60.26",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Ahead: Emotions Coach-v1.60.21-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Ahead: Emotions Coach-v1.60.26-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nAhead: Emotions Coach\n\n---\nAhead - the app that teaches us what school didn’t: How to be in charge of our emotions! Developed by learning behavior-change scientists\n\nDo you sometimes regret having been so thin-skinned, worried, lazy, impulsive, shy, pessimistic, insensitive, people-pleasing…? Imagine being like one of those rare people who’re always calm and kind, even under pressure…\n\nWe wanted that too. Because having emotional intelligence impacts our lives more than anything else: It makes us better partners, parents,",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/b5/ba/e7b5bac7-05c5-7188-2869-fa119c086d74/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/6f/8e/036f8eed-7640-3737-257b-5c3c23814134/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 411863550,
+      "size": 189397802,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/54/3e/21543ed6-1b6c-de81-49c9-de4676c75ab8/eb468f18-3f2c-4055-8e00-3501f58a826a_Playful_11_5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/9e/34/1b9e3430-b1fa-0171-41da-69938079a8ff/Playful_5.5_Screen_2.jpg/392x696bb.jpg",
@@ -1998,11 +1998,11 @@
       },
       "versions": [
         {
-          "version": "1.60.21",
-          "date": "2026-06-14",
+          "version": "1.60.26",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Ahead: Emotions Coach-v1.60.21-riftysipas.ipa",
-          "size": 411863550
+          "downloadURL": "https://telos.ftp.sh/ipas/Ahead: Emotions Coach-v1.60.26-riftysipas.ipa",
+          "size": 189397802
         }
       ],
       "category": "health-&-fitness"
@@ -79524,15 +79524,15 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "subtitle": "Tweaked with Analytics, CydiaSubstrate",
+      "subtitle": "YouTube for iOS",
       "version": "21.26.4",
-      "versionDate": "2026-07-02",
-      "versionDescription": "Tweaks: Analytics, CydiaSubstrate, DontEatMyContent, Gonerino, YTABConfig\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/YouTubeKP_5.7.6_ace_extra.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Analytics, CydiaSubstrate, DontEatMyContent, Gonerino, YTABConfig\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
+      "versionDate": "2026-07-03",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.google.ios.youtube-21.26.4-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 136302826,
+      "size": 138374761,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -79569,10 +79569,10 @@
       "versions": [
         {
           "version": "21.26.4",
-          "date": "2026-07-02",
-          "localizedDescription": "Tweaks: Analytics, CydiaSubstrate, DontEatMyContent, Gonerino, YTABConfig\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/YouTubeKP_5.7.6_ace_extra.ipa",
-          "size": 136302826
+          "date": "2026-07-03",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.google.ios.youtube-21.26.4-eeveedecrypter.ipa",
+          "size": 138374761
         }
       ],
       "category": "photo-&-video"
