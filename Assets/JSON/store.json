@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.unicostudio.braintest",
+    "com.ulisesolave.Fitia",
+    "com.aiarlabs.prequel",
     "com.aheadsolutions.aHead",
-    "com.google.ios.youtube",
-    "com.uqxuwtxbbu.parkingjam",
-    "com.moonly.Moonly",
-    "com.picsart.studio"
+    "com.google.ios.youtube"
   ],
   "apps": [
     {
@@ -8987,14 +8987,14 @@
       "bundleIdentifier": "com.unicostudio.braintest",
       "developerName": "UNICO STUDIO",
       "subtitle": "*Tweak:** Unlimited Bulbs, Free Iap | *Patched ✓**",
-      "version": "2.767.0",
-      "versionDate": "2026-06-08",
+      "version": "2.768.0",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: CydiaSubstrate, SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Brain Test: Tricky Puzzles-v2.767.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Brain Test: Tricky Puzzles-v2.768.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Unlimited Bulbs, Free Iap | *Patched ✓**\n\nBrain Test: Tricky Puzzles",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/8a/00/388a009e-f5e9-88d7-164a-add9afa32ac6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 146877111,
+      "size": 145527553,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/81/96/8f819631-c098-ee93-a924-3b2305b3f69b/2108ee0b-3b30-46a7-885e-29501aef64ff_240315_SS_Reward_1242x2208_EN.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/84/ef/4484efbe-4f86-b5b1-9f7b-46672664cbe6/20b45d45-7263-420f-b6a7-f2b64b8e1d61_BT1_Klasik_IOS_5_5inch_EN_02.jpg/392x696bb.jpg",
@@ -9016,11 +9016,11 @@
       },
       "versions": [
         {
-          "version": "2.767.0",
-          "date": "2026-06-04",
+          "version": "2.768.0",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Brain Test: Tricky Puzzles-v2.767.0-riftysipas.ipa",
-          "size": 146877111
+          "downloadURL": "https://telos.ftp.sh/ipas/Brain Test: Tricky Puzzles-v2.768.0-riftysipas.ipa",
+          "size": 145527553
         }
       ],
       "category": "games"
@@ -22897,14 +22897,14 @@
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "23.1.20",
-      "versionDate": "2026-07-01",
+      "version": "23.2",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_20_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFitia: Calorie Counter & Diet",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/47/d4/b547d4cc-44d3-6dc9-ef04-35495fc25ce1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 125066391,
+      "size": 98210544,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -22931,11 +22931,11 @@
       },
       "versions": [
         {
-          "version": "23.1.20",
-          "date": "2026-07-01",
+          "version": "23.2",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_1_20_Subscription_Unlocked_blatant.ipa",
-          "size": 125066391
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_2_Subscription_Unlocked_blatant.ipa",
+          "size": 98210544
         }
       ],
       "category": "health-&-fitness"
@@ -52924,14 +52924,14 @@
       "bundleIdentifier": "com.aiarlabs.prequel",
       "developerName": "Prequel Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "2.95.0",
-      "versionDate": "2026-06-22",
+      "version": "2.96.0",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: Prequel, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Prequel_Photo_&_Video_Editor_v2_95_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Prequel_Photo_&_Video_Editor_v2_96_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPrequel: Photo & Video Editor",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/8c/f5/9b8cf5f1-52a5-f74e-982c-4b822c48c892/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/10/e4/d310e44d-59b2-764f-5863-f125de123beb/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 281136094,
+      "size": 260247116,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -52952,11 +52952,11 @@
       },
       "versions": [
         {
-          "version": "2.95.0",
-          "date": "2026-06-22",
+          "version": "2.96.0",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: Prequel, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Prequel_Photo_&_Video_Editor_v2_95_Subscription_Unlocked_blatant.ipa",
-          "size": 281136094
+          "downloadURL": "https://telos.ftp.sh/ipas/Prequel_Photo_&_Video_Editor_v2_96_Subscription_Unlocked_blatant.ipa",
+          "size": 260247116
         }
       ],
       "category": "photo-&-video"
@@ -80514,7 +80514,7 @@
     {
       "title": "⚙️ Telos Update 7.3",
       "identifier": "telos-update-2026-07-03",
-      "caption": "42 Apps Updated:\n• 10 Photo & Video\n• 8 Health & Fitness\n• 6 Lifestyle\n• 4 Productivity\n• 4 Music\n• 4 Games\n• 2 Utilities\n• 2 Education\n• 2 Graphics & Design",
+      "caption": "50 Apps Updated:\n• 12 Photo & Video\n• 10 Health & Fitness\n• 8 Games\n• 6 Lifestyle\n• 4 Productivity\n• 4 Music\n• 2 Utilities\n• 2 Education\n• 2 Graphics & Design",
       "date": "2026-07-03",
       "tintColor": "#02433b",
       "notify": true,
