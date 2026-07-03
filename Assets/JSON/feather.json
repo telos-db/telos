@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.picsart.studio",
     "com.snowcorp.epik",
     "co.vulcanlabs.moodtracker",
     "com.nianticlabs.pokemongo",
-    "br.com.marcosatanaka.musicwhiz",
-    "br.com.marcosatanaka.musicbox"
+    "br.com.marcosatanaka.musicwhiz"
   ],
   "apps": [
     {
@@ -50962,20 +50962,20 @@
       "bundleIdentifier": "com.picsart.studio",
       "developerName": "PicsArt, Inc.",
       "subtitle": "Tweaked with Picsart, blatantsPatch",
-      "version": "30.2.2",
-      "versionDate": "2026-07-02",
+      "version": "30.2.3",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_2_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_2_3_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Picsart, blatantsPatch, sideloadKeychainfix\n\nPicsart AI Photo Editor, Video\n\n---\nIgnite your creative potential with Picsart — the all-in-one AI photo editor, AI video editor, and design studio that’s free and easy to use. From business designs to AI art, go from inspiration to creation fast. Create with an AI photo generator and AI video generator, edit with an AI image editor, remove backgrounds with Background Remover (BG remover), erase objects with Object Remover (Object Eraser), apply AI effects, filters, and retouch tools, and turn ideas into designs with templates, c",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/86/9e/0f869ee2-ca40-a713-6cc4-4cb2bcdc82de/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/0d/96/190d9691-6cb5-f1b6-e3a7-cc7c2a7b7230/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 112511776,
+      "size": 107493299,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/19/4f/0c194fdc-8f88-0792-c4f8-e37c39f85265/072cbf42-fad7-40f4-b11e-015732e61666_1._Multiple_Use_Cases___iPhone_12.9_.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/b9/fd/deb9fdf2-7120-98a3-9443-618a3eec4b0e/c3a88056-d203-42c4-9fbd-56c9797d3eb7_2._Multiple_Use_Cases___iPhone_12.9_.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/12/87/551287ef-55b7-8809-0f5d-3ee0c5dca1cd/b89cdf66-e6ac-4e18-a02c-3b0b3607e4ec_3._AI_bg___iPad_12.9_U201d.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/09/99/30099904-7320-3e37-84ad-f98626d89db7/ebd41a95-5bdd-4b08-87fc-314da545b9cc_4._Remove_Background___iPad_12.9_U201d.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/72/eb/5f72ebfb-da17-1490-3f68-4e54c208f7b1/0807b7a2-b443-48a2-b67d-ed4a44d52d23_5._Templates___iPad_12.9_.png/576x768bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/32/5c/b3325cd5-a5ec-f47f-d691-b4021ff4e83b/072cbf42-fad7-40f4-b11e-015732e61666_1._Multiple_Use_Cases___iPhone_12.9_.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/9d/6e/d89d6e96-d766-01dd-9e81-245562468926/c3a88056-d203-42c4-9fbd-56c9797d3eb7_2._Multiple_Use_Cases___iPhone_12.9_.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/99/ed/1699ede5-54fb-9034-2abe-65e7b655238b/b89cdf66-e6ac-4e18-a02c-3b0b3607e4ec_3._AI_bg___iPad_12.9_U201d.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/af/70/a6af70ca-03e3-dc93-98d2-7dff5a58e368/ebd41a95-5bdd-4b08-87fc-314da545b9cc_4._Remove_Background___iPad_12.9_U201d.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/b0/76/abb07604-54e8-0138-3f4e-38372db10d4d/0807b7a2-b443-48a2-b67d-ed4a44d52d23_5._Templates___iPad_12.9_.png/576x768bb.png"
       ],
       "appPermissions": {
         "entitlements": [
@@ -51001,11 +51001,11 @@
       },
       "versions": [
         {
-          "version": "30.2.2",
-          "date": "2026-07-02",
+          "version": "30.2.3",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_2_2_Subscription_Unlocked_blatant.ipa",
-          "size": 112511776
+          "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_2_3_Subscription_Unlocked_blatant.ipa",
+          "size": 107493299
         }
       ],
       "category": "photo-&-video"
