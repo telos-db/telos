@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.glucobit.cravingBuster.CravingBuster",
-    "com.ketchapp.horizon",
-    "com.hiiker.hiiker",
-    "br.com.marcosatanaka.music-harbor",
-    "com.google.ios.youtube"
+    "com.puresignal.strides",
+    "com.genau.JournalCircle",
+    "com.wellocution.iosapp",
+    "com.bonsaisoft.militarytime",
+    "com.glucobit.cravingBuster.CravingBuster"
   ],
   "apps": [
     {
@@ -8450,14 +8450,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.0.9",
-      "versionDate": "2026-06-30",
+      "version": "4.1.0",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_9_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nBoldVoice: Accent Training",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 158299050,
+      "size": 158336353,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8477,11 +8477,11 @@
       },
       "versions": [
         {
-          "version": "4.0.9",
-          "date": "2026-06-30",
+          "version": "4.1.0",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_9_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 158299050
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 158336353
         }
       ],
       "category": "education"
@@ -40842,6 +40842,35 @@
       "category": "travel"
     },
     {
+      "name": "Military Time",
+      "bundleIdentifier": "com.bonsaisoft.militarytime",
+      "developerName": "Bonsaisoft LLC",
+      "subtitle": "Military Time for iOS",
+      "version": "1.5",
+      "versionDate": "2026-07-03",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.bonsaisoft.militarytime-1.5-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/ab/1c/fcab1c13-04f7-1c94-0934-67dca37d6cdc/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 7465899,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.5",
+          "date": "2025-11-19",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.bonsaisoft.militarytime-1.5-eeveedecrypter.ipa",
+          "size": 7465899
+        }
+      ],
+      "category": "utilities"
+    },
+    {
       "name": "Mimo",
       "bundleIdentifier": "com.getmimo.mimo",
       "developerName": "Mimo GmbH",
@@ -65511,14 +65540,14 @@
       "bundleIdentifier": "com.puresignal.strides",
       "developerName": "Goals LLC",
       "subtitle": "*Tweak:** Plus Unlocked | *Patched ✓**",
-      "version": "19.10",
-      "versionDate": "2026-06-28",
+      "version": "19.11",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Strides: Habit Tracker + Goals-v19.10-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Strides: Habit Tracker + Goals-v19.11-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Plus Unlocked | *Patched ✓**\n\nStrides: Habit Tracker + Goals",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/77/67/167767c3-3229-8077-ea9b-522fb81e2520/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 116276570,
+      "size": 116276423,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/55/ff/4f55ffd1-9bd1-df05-d154-c119cc75f1cf/780059c5-f9da-49ff-be2b-aa6eb4b4295b_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/38/c9/3b38c934-93f2-1cc3-b7e6-61b51b4b337a/3905dbe1-811f-4723-b0ab-81946b1bfada_2.png/392x696bb.png",
@@ -65548,11 +65577,11 @@
       },
       "versions": [
         {
-          "version": "19.10",
-          "date": "2026-06-28",
+          "version": "19.11",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Strides: Habit Tracker + Goals-v19.10-riftysipas.ipa",
-          "size": 116276570
+          "downloadURL": "https://telos.ftp.sh/ipas/Strides: Habit Tracker + Goals-v19.11-riftysipas.ipa",
+          "size": 116276423
         }
       ],
       "category": "productivity"
@@ -80482,11 +80511,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 7.3",
+      "identifier": "telos-update-2026-07-03",
+      "caption": "16 Apps Updated:\n• 4 Lifestyle\n• 4 Productivity\n• 4 Utilities\n• 4 Education",
+      "date": "2026-07-03",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "com.genau.JournalCircle"
+    },
+    {
       "title": "⚙️ Telos Update 7.2",
       "identifier": "telos-update-2026-07-02",
       "caption": "101 Apps Updated:\n• 25 Photo & Video\n• 15 Health & Fitness\n• 12 Games\n• 9 Lifestyle\n• 8 Medical\n• 5 Music\n• 4 Food & Drink\n• 4 Navigation\n• 4 Shopping\n• 3 Productivity\n• 2 Books\n• 2 Finance\n• 2 Utilities\n• 2 Sports\n• 2 Education\n• 2 Entertainment",
       "date": "2026-07-02",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "health.sleep.sounds.tracker.alarm.calm"
     },
@@ -80495,7 +80533,7 @@
       "identifier": "telos-update-2026-07-01",
       "caption": "151 Apps Updated:\n• 29 Health & Fitness\n• 23 Photo & Video\n• 14 Games\n• 12 Education\n• 10 Utilities\n• 9 Productivity\n• 8 Entertainment\n• 7 Music\n• 5 Lifestyle\n• 4 Developer Tools\n• 4 Finance\n• 4 Travel\n• 4 Social Networking\n• 4 Food & Drink\n• 2 Business\n• 2 Medical\n• 2 Graphics & Design\n• 2 Weather\n• 2 Navigation\n• 2 Sports\n• 2 News",
       "date": "2026-07-01",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "co.vulcanlabs.moodtracker"
     },
@@ -80504,7 +80542,7 @@
       "identifier": "telos-update-2026-06-30",
       "caption": "104 Apps Updated:\n• 26 Health & Fitness\n• 14 Games\n• 12 Photo & Video\n• 10 Entertainment\n• 8 Productivity\n• 8 Music\n• 6 Weather\n• 6 Lifestyle\n• 4 Education\n• 2 Business\n• 2 Food & Drink\n• 2 Travel\n• 2 Medical\n• 2 Utilities",
       "date": "2026-06-30",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.andyworks.camera"
     },
@@ -80513,7 +80551,7 @@
       "identifier": "telos-update-2026-06-29",
       "caption": "82 Apps Updated:\n• 18 Photo & Video\n• 12 Education\n• 12 Health & Fitness\n• 6 Entertainment\n• 6 Games\n• 4 Productivity\n• 4 Utilities\n• 4 Finance\n• 4 Music\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Sports\n• 2 Social Networking\n• 2 Navigation\n• 2 News",
       "date": "2026-06-29",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.intsig.CamScannerLite"
     },
@@ -80522,7 +80560,7 @@
       "identifier": "telos-update-2026-06-28",
       "caption": "36 Apps Updated:\n• 8 Health & Fitness\n• 6 Photo & Video\n• 4 Music\n• 4 Productivity\n• 4 News\n• 2 Games\n• 2 Lifestyle\n• 2 Finance\n• 2 Education\n• 2 Food & Drink",
       "date": "2026-06-28",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.spotify.client"
     },
@@ -80531,7 +80569,7 @@
       "identifier": "telos-update-2026-06-27",
       "caption": "48 Apps Updated:\n• 6 Productivity\n• 6 Health & Fitness\n• 5 Photo & Video\n• 5 Graphics & Design\n• 4 Education\n• 4 Business\n• 2 Music\n• 2 Social Networking\n• 2 News\n• 2 Finance\n• 2 Entertainment\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Games",
       "date": "2026-06-27",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.withopal.opal"
     },
@@ -80540,7 +80578,7 @@
       "identifier": "telos-update-2026-06-26",
       "caption": "84 Apps Updated:\n• 21 Photo & Video\n• 10 Productivity\n• 8 Utilities\n• 8 Health & Fitness\n• 6 Games\n• 6 Weather\n• 5 Graphics & Design\n• 4 Lifestyle\n• 4 News\n• 4 Entertainment\n• 4 Medical\n• 2 Education\n• 2 Developer Tools",
       "date": "2026-06-26",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "cameronnazemi.Tappy"
     },
@@ -80549,7 +80587,7 @@
       "identifier": "telos-update-2026-06-25",
       "caption": "94 Apps Updated:\n• 20 Photo & Video\n• 20 Health & Fitness\n• 8 Games\n• 8 Productivity\n• 6 Education\n• 6 Utilities\n• 4 Music\n• 4 Entertainment\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Business\n• 2 Sports\n• 2 Finance\n• 2 Books\n• 2 Developer Tools\n• 2 News\n• 2 Navigation",
       "date": "2026-06-25",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.miniclip.8ballpoolmult"
     },
@@ -80558,18 +80596,9 @@
       "identifier": "telos-update-2026-06-24",
       "caption": "114 Apps Updated:\n• 24 Health & Fitness\n• 14 Photo & Video\n• 12 Lifestyle\n• 10 Utilities\n• 10 News\n• 8 Productivity\n• 8 Graphics & Design\n• 6 Education\n• 6 Games\n• 6 Music\n• 4 Developer Tools\n• 2 Food & Drink\n• 2 Entertainment\n• 2 Finance",
       "date": "2026-06-24",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "com.getmimo.mimo"
-    },
-    {
-      "title": "⚙️ Telos Update 6.23",
-      "identifier": "telos-update-2026-06-23",
-      "caption": "104 Apps Updated:\n• 22 Health & Fitness\n• 12 Photo & Video\n• 8 Music\n• 6 Navigation\n• 6 Productivity\n• 6 Education\n• 6 Utilities\n• 6 Business\n• 4 Shopping\n• 4 Graphics & Design\n• 4 Developer Tools\n• 4 Lifestyle\n• 4 Games\n• 2 Entertainment\n• 2 Travel\n• 2 Weather\n• 2 Food & Drink\n• 2 Sports\n• 2 News",
-      "date": "2026-06-23",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.evolve.helm"
+      "appID": "com.getmimo.mimo"
     }
   ]
 }
