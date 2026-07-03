@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.sfun.snapedit",
+    "co.visualsupply.cam",
+    "com.wellocution.iosapp",
     "io.fadel.Spiik",
-    "com.codeway.cleanerplus",
-    "com.sbs.train",
-    "com.robnorback.LiveTranscribe",
-    "com.unicostudio.braintest"
+    "com.codeway.cleanerplus"
   ],
   "apps": [
     {
@@ -8501,14 +8501,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Tweaked with BoldVoice, blatantsPatch",
-      "version": "4.1.0",
+      "version": "4.1.1",
       "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_1_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BoldVoice, blatantsPatch\n\nBoldVoice: Accent Training\n\n---\nBoldVoice is the top-rated English speaking and pronunciation app, with over 2 million global users. Our Hollywood accent coaches and AI-powered feedback will help you achieve clear, confident pronunciation, with only 10 minutes of daily practice.\n\nWHY CHOOSE BOLDVOICE:\nLearn from professional accent coaches who train Hollywood actors\nRecord your voice and receive instant, AI-powered pronunciation feedback\nPractice with daily-life scenarios and professional conversations\nMonitor progress through",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 158336353,
+      "size": 143898024,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8528,11 +8528,11 @@
       },
       "versions": [
         {
-          "version": "4.1.0",
+          "version": "4.1.1",
           "date": "2026-07-03",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 158336353
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 143898024
         }
       ],
       "category": "education"
@@ -61490,14 +61490,14 @@
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
       "subtitle": "Tweaked with SnapEdit, blatantsPatch",
-      "version": "6.18",
-      "versionDate": "2026-07-02",
+      "version": "6.18.1",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.18 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_18_1_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SnapEdit, blatantsPatch\n\nSnapEdit: Photo Editor AI\n\n---\nSnapEdit is one of the best photo editing apps using AI with a mission to make your editing easy, smooth and fun.\n\nTransform your photos like never before with SnapEdit, the ultimate photo editing app designed to effortlessly remove unwanted objects, enhance image quality, and create stunning visual masterpieces. Download SnapEdit now and unlock a world of possibilities for your photos!\n\nKEY FEATURES:\n\nONE-TOUCH OBJECT REMOVAL: Say goodbye to photobombers, unwanted elements, or distracting objec",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/cb/0d/5dcb0d82-ae96-8bac-4c11-6782319bb3a4/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 106678903,
+      "size": 106548471,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -61516,11 +61516,11 @@
       },
       "versions": [
         {
-          "version": "6.18",
-          "date": "2026-07-02",
+          "version": "6.18.1",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.18 Pro Unlocked blatant Patched.ipa",
-          "size": 106678903
+          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_18_1_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 106548471
         }
       ],
       "category": "photo-&-video"
@@ -75996,14 +75996,14 @@
       "bundleIdentifier": "co.visualsupply.cam",
       "developerName": "Visual Supply Company",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "461.5.0",
-      "versionDate": "2026-07-01",
+      "version": "461.5.1",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nVSCO: Photo & Video Editor\n\n---\nWelcome to VSCO — your complete photography platform solution for unmatched photo filters, AI photo editing, video editing, portfolio sites, client workflows, and community. VSCO is where photographers turn pro.\n\nGet access to a premium AI photo editor that provides precision and quality. From editing with our photo presets that match your style to delivering stunning client photo galleries, the VSCO photo and video editing app is a seamless way to run your photography business in one place. Dow",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/da/df/13dadff7-ba65-d78d-357f-44191bb36fbb/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 209319605,
+      "size": 209332380,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/b0/22/3cb0225e-03cb-363b-dd97-451f113b4481/mzl.iminvglq.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/50/ec/c550ec30-fffa-f371-b7bf-20386ef2fc7d/mzl.rwpqyyls.jpg/576x768bb.jpg",
@@ -76032,11 +76032,11 @@
       },
       "versions": [
         {
-          "version": "461.5.0",
-          "date": "2026-07-01",
+          "version": "461.5.1",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_0_Subscription_Unlocked_blatant.ipa",
-          "size": 209319605
+          "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_1_Subscription_Unlocked_blatant.ipa",
+          "size": 209332380
         }
       ],
       "category": "photo-&-video"
