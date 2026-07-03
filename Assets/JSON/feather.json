@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.robnorback.LiveTranscribe",
     "com.unicostudio.braintest",
     "com.ulisesolave.Fitia",
     "com.aiarlabs.prequel",
-    "com.aheadsolutions.aHead",
-    "com.google.ios.youtube"
+    "com.aheadsolutions.aHead"
   ],
   "apps": [
     {
@@ -38043,14 +38043,14 @@
       "bundleIdentifier": "com.robnorback.LiveTranscribe",
       "developerName": "Mighty Fine Apps LLC",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.64.1",
-      "versionDate": "2026-06-26",
+      "version": "2.65",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.64.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.65-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nLive Transcribe\n\n---\nLive Captioning for d/Deaf and hard of hearing in 145+ languages. Built for simplicity and ease of use. [We are not associated with Google.]\n\nUsers love it:\n“Just so you know, this app has changed my 86 year old mother's life. It is simple and easy for her and her friends to use. This is so important for the elderly since so many other apps are way too complicated. She can really have one on one conversations, especially with me, which is so very important.”\n- Mark M\n\nDoctors trust it:\n\"I use th",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/7e/ae/1e7eaeee-70f4-cc0a-61d4-fc0615410d1e/AppIconProduction-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 51672620,
+      "size": 52287717,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/52/87/33528769-24aa-edc0-1501-8fce8721fb5e/fa04c1ee-2a3a-47a7-8efe-5d3ed1ecd22e_Frame_56.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/20/00/3e20003b-6ee8-d721-c524-2d3fcd6bdc01/f1e95d0e-fa96-41bd-8f26-4116ff2069e2_Frame_63.jpg/392x696bb.jpg",
@@ -38073,11 +38073,11 @@
       },
       "versions": [
         {
-          "version": "2.64.1",
-          "date": "2026-06-26",
+          "version": "2.65",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.64.1-riftysipas.ipa",
-          "size": 51672620
+          "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.65-riftysipas.ipa",
+          "size": 52287717
         }
       ],
       "category": "utilities"
