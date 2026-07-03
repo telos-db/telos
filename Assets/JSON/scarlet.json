@@ -1273,26 +1273,24 @@
       "bundleIdentifier": "com.aheadsolutions.aHead",
       "developerName": "ahead Solutions GmbH",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nAhead: Emotions Coach\n\n---\nAhead - the app that teaches us what school didn’t: How to be in charge of our emotions! Developed by learning behavior-change scientists\n\nDo you sometimes regret having been so thin-skinned, worried, lazy, impulsive, shy, pessimistic, insensitive, people-pleasing…? Imagine being like one of those rare people who’re always calm and kind, even under pressure…\n\nWe wanted that too. Because having emotional intelligence impacts our lives more than anything else: It makes us better partners, parents,",
-      "version": "1.60.21",
-      "versionDate": "2026-06-14T16:56:47-00:00",
-      "versionDescription": "Build 920 from @riftysIPAlibrary",
-      "size": 411863550,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/b5/ba/e7b5bac7-05c5-7188-2869-fa119c086d74/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Ahead: Emotions Coach-v1.60.21-riftysipas.ipa",
+      "version": "1.60.26",
+      "versionDate": "2026-07-03T09:39:35-00:00",
+      "versionDescription": "Build 928 from @riftysIPAlibrary",
+      "size": 189397802,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/6f/8e/036f8eed-7640-3737-257b-5c3c23814134/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Ahead: Emotions Coach-v1.60.26-riftysipas.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Ahead: Emotions Coach-v1.60.21-riftysipas.ipa"
+        "originalFile": "Ahead: Emotions Coach-v1.60.26-riftysipas.ipa"
       }
     },
     {
@@ -49576,13 +49574,13 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Analytics, CydiaSubstrate, DontEatMyContent, Gonerino, YTABConfig\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
       "version": "21.26.4",
-      "versionDate": "2026-07-02T21:36:38-00:00",
-      "versionDescription": "Build 21.26.4 from @binnichtaktivsipas",
-      "size": 136302826,
+      "versionDate": "2026-07-03T09:33:26-00:00",
+      "versionDescription": "Build 21.26.4 from @thescholarslounge",
+      "size": 138374761,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/YouTubeKP_5.7.6_ace_extra.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.google.ios.youtube-21.26.4-eeveedecrypter.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -49592,10 +49590,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
+        "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "YouTubeKP_5.7.6_ace_extra.ipa"
+        "originalFile": "com.google.ios.youtube-21.26.4-eeveedecrypter.ipa"
       }
     },
     {
