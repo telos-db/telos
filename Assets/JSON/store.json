@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.o-p-e-n.open",
+    "com.locket.Locket",
     "com.genau.MoneyCircle",
     "com.netflix.Netflix",
-    "com.dopedevelopment.Panels",
-    "com.google.ios.youtube",
-    "com.andydev.alpenglow"
+    "com.dopedevelopment.Panels"
   ],
   "apps": [
     {
@@ -37989,14 +37989,14 @@
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "Locket Labs, Inc.",
       "subtitle": "Patched | Tweaked",
-      "version": "2.53.0",
-      "versionDate": "2026-06-27",
+      "version": "2.54.0",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.53.0 Locket Gold blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.54.0 Locket Gold blatant Patched.ipa",
       "localizedDescription": "Patched | Tweaked\n\nLocket Widget",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/fe/ab/9cfeab99-6119-c8b2-4147-30535afb3f78/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/2c/cb/772ccbb2-90e9-7902-3cfc-6792acbe4935/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 337332202,
+      "size": 337364473,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -38024,11 +38024,11 @@
       },
       "versions": [
         {
-          "version": "2.53.0",
-          "date": "2026-06-27",
+          "version": "2.54.0",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.53.0 Locket Gold blatant Patched.ipa",
-          "size": 337332202
+          "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.54.0 Locket Gold blatant Patched.ipa",
+          "size": 337364473
         }
       ],
       "category": "social-networking"
@@ -46942,14 +46942,14 @@
       "bundleIdentifier": "com.o-p-e-n.open",
       "developerName": "Open Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "26.25",
-      "versionDate": "2026-06-19",
+      "version": "26.26",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Open: Breathwork + Meditation-v26.25-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Open: Breathwork + Meditation-v26.26-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nOpen: Breathwork + Meditation",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/51/f3/7f51f3ae-2100-8d16-929c-c78ca502b968/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 126137766,
+      "size": 126216226,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -46977,11 +46977,11 @@
       },
       "versions": [
         {
-          "version": "26.25",
-          "date": "2026-06-19",
+          "version": "26.26",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Open: Breathwork + Meditation-v26.25-riftysipas.ipa",
-          "size": 126137766
+          "downloadURL": "https://telos.ftp.sh/ipas/Open: Breathwork + Meditation-v26.26-riftysipas.ipa",
+          "size": 126216226
         }
       ],
       "category": "health-&-fitness"
@@ -80538,7 +80538,7 @@
     {
       "title": "⚙️ Telos Update 7.3",
       "identifier": "telos-update-2026-07-03",
-      "caption": "72 Apps Updated:\n• 20 Photo & Video\n• 12 Utilities\n• 10 Health & Fitness\n• 6 Lifestyle\n• 6 Games\n• 4 Productivity\n• 4 Music\n• 4 Education\n• 2 Graphics & Design\n• 2 Weather\n• 2 Entertainment",
+      "caption": "78 Apps Updated:\n• 20 Photo & Video\n• 14 Health & Fitness\n• 10 Utilities\n• 6 Lifestyle\n• 6 Games\n• 4 Productivity\n• 4 Music\n• 4 Education\n• 4 Social Networking\n• 2 Graphics & Design\n• 2 Weather\n• 2 Entertainment",
       "date": "2026-07-03",
       "tintColor": "#02433b",
       "notify": true,
