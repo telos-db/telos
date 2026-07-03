@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.aheadsolutions.aHead",
+    "com.google.ios.youtube",
     "com.uqxuwtxbbu.parkingjam",
     "com.moonly.Moonly",
-    "com.picsart.studio",
-    "com.snowcorp.epik",
-    "co.vulcanlabs.moodtracker"
+    "com.picsart.studio"
   ],
   "apps": [
     {
@@ -1961,14 +1961,14 @@
       "bundleIdentifier": "com.aheadsolutions.aHead",
       "developerName": "ahead Solutions GmbH",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "1.60.25",
-      "versionDate": "2026-06-08",
+      "version": "1.60.26",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Ahead: Emotions Coach-v1.60.25-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Ahead: Emotions Coach-v1.60.26-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nAhead: Emotions Coach",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/b5/ba/e7b5bac7-05c5-7188-2869-fa119c086d74/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/6f/8e/036f8eed-7640-3737-257b-5c3c23814134/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 412768512,
+      "size": 189397802,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/54/3e/21543ed6-1b6c-de81-49c9-de4676c75ab8/eb468f18-3f2c-4055-8e00-3501f58a826a_Playful_11_5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/9e/34/1b9e3430-b1fa-0171-41da-69938079a8ff/Playful_5.5_Screen_2.jpg/392x696bb.jpg",
@@ -1998,11 +1998,11 @@
       },
       "versions": [
         {
-          "version": "1.60.25",
-          "date": "2026-06-08",
+          "version": "1.60.26",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Ahead: Emotions Coach-v1.60.25-riftysipas.ipa",
-          "size": 412768512
+          "downloadURL": "https://telos.ftp.sh/ipas/Ahead: Emotions Coach-v1.60.26-riftysipas.ipa",
+          "size": 189397802
         }
       ],
       "category": "health-&-fitness"
@@ -78382,15 +78382,15 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "subtitle": "Tweaked with Analytics, CydiaSubstrate",
+      "subtitle": "YouTube for iOS",
       "version": "21.26.4",
-      "versionDate": "2026-07-02",
-      "versionDescription": "Tweaks: Analytics, CydiaSubstrate, DontEatMyContent, Gonerino, YTABConfig\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/YouTubeKP_5.7.6_ace_extra.ipa",
+      "versionDate": "2026-07-03",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.google.ios.youtube-21.26.4-eeveedecrypter.ipa",
       "localizedDescription": "YouTube for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 136302826,
+      "size": 138374761,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -78427,10 +78427,10 @@
       "versions": [
         {
           "version": "21.26.4",
-          "date": "2026-07-02",
-          "localizedDescription": "Tweaks: Analytics, CydiaSubstrate, DontEatMyContent, Gonerino, YTABConfig\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/YouTubeKP_5.7.6_ace_extra.ipa",
-          "size": 136302826
+          "date": "2026-07-03",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.google.ios.youtube-21.26.4-eeveedecrypter.ipa",
+          "size": 138374761
         }
       ],
       "category": "photo-&-video"
@@ -80514,7 +80514,7 @@
     {
       "title": "⚙️ Telos Update 7.3",
       "identifier": "telos-update-2026-07-03",
-      "caption": "36 Apps Updated:\n• 6 Lifestyle\n• 6 Photo & Video\n• 6 Games\n• 4 Productivity\n• 4 Music\n• 4 Health & Fitness\n• 2 Utilities\n• 2 Education\n• 2 Graphics & Design",
+      "caption": "42 Apps Updated:\n• 10 Photo & Video\n• 8 Health & Fitness\n• 6 Lifestyle\n• 4 Productivity\n• 4 Music\n• 4 Games\n• 2 Utilities\n• 2 Education\n• 2 Graphics & Design",
       "date": "2026-07-03",
       "tintColor": "#02433b",
       "notify": true,
