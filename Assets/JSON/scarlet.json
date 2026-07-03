@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-07-02",
+  "versionDate": "2026-07-03",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -5404,12 +5404,12 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BoldVoice, blatantsPatch\n\nBoldVoice: Accent Training\n\n---\nBoldVoice is the top-rated English speaking and pronunciation app, with over 2 million global users. Our Hollywood accent coaches and AI-powered feedback will help you achieve clear, confident pronunciation, with only 10 minutes of daily practice.\n\nWHY CHOOSE BOLDVOICE:\nLearn from professional accent coaches who train Hollywood actors\nRecord your voice and receive instant, AI-powered pronunciation feedback\nPractice with daily-life scenarios and professional conversations\nMonitor progress through",
-      "version": "4.0.9",
-      "versionDate": "2026-06-30T23:48:36-00:00",
-      "versionDescription": "Build 3 from @blatants",
-      "size": 158299050,
+      "version": "4.1.0",
+      "versionDate": "2026-07-03T00:32:06-00:00",
+      "versionDescription": "Build 4 from @blatants",
+      "size": 158336353,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_9_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_0_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "15.5",
       "supportedPlatforms": [
         "iOS"
@@ -5422,7 +5422,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "BoldVoice_Accent_Training_v4_0_9_Subscription_Unlocked_blatant_Patched.ipa"
+        "originalFile": "BoldVoice_Accent_Training_v4_1_0_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -21295,12 +21295,12 @@
       "bundleIdentifier": "com.genau.JournalCircle",
       "developerName": "Genau Factory",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nJournalCircle: Diary & Tracker\n\n---\nDiscover JournalCircle, a journaling app featured on the App Store across multiple regions. JournalCircle combines AI-powered journaling, voice notes, mood tracking, and entry analysis to help you record your daily life with clarity. Users often mention that the clean, beautiful design makes them want to journal more consistently.\n\nJournalCircle is a journaling and life log app designed to manage your diary, mood, routines, goals, and daily records in one place.\n\nAI-powered journaling tools\nJour",
-      "version": "3.4.3",
-      "versionDate": "2026-06-29T00:21:38-00:00",
-      "versionDescription": "Build 1 from @riftysIPAlibrary",
-      "size": 13513824,
+      "version": "3.4.4",
+      "versionDate": "2026-07-03T00:33:00-00:00",
+      "versionDescription": "Build 4 from @riftysIPAlibrary",
+      "size": 13556939,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/48/33/ed4833dd-86d9-8719-79bf-3cf44589f4bd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.4-riftysipas.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -21313,7 +21313,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "JournalCircle: Diary & Tracker-v3.4.3-riftysipas.ipa"
+        "originalFile": "JournalCircle: Diary & Tracker-v3.4.4-riftysipas.ipa"
       }
     },
     {
@@ -25718,6 +25718,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Track Live Flights - Mileways-v4.7.1-riftysipas.ipa"
+      }
+    },
+    {
+      "name": "Military Time",
+      "bundleIdentifier": "com.bonsaisoft.militarytime",
+      "developerName": "Bonsaisoft LLC",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nMaster Military Time Effortlessly!\n\nConfused by military time? Whether you're navigating schedules, coordinating across time zones, or simply trying to learn the 24-hour format, the Military Time Converter app is your ultimate tool for clarity and precision.\n\nKey Features\n\n • Instant Time Conversion: Seamlessly switch between 12-hour (AM/PM) and 24-hour (military) formats with just a tap.\n • Local Time Display: View your current time in both formats side by side for easy comparison.\n • Time Zone",
+      "version": "1.5",
+      "versionDate": "2026-07-03T00:28:55-00:00",
+      "versionDescription": "Build 9 from @thescholarslounge",
+      "size": 7465899,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/ab/1c/fcab1c13-04f7-1c94-0934-67dca37d6cdc/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.bonsaisoft.militarytime-1.5-eeveedecrypter.ipa",
+      "minOSVersion": "16.6",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.bonsaisoft.militarytime-1.5-eeveedecrypter.ipa"
       }
     },
     {
@@ -41285,12 +41311,12 @@
       "bundleIdentifier": "com.puresignal.strides",
       "developerName": "Goals LLC",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nStrides: Habit Tracker + Goals\n\n---\nImagine having all of your most important habits, routines and goals together in one simple to do list. Now you can! With Strides, you can track good or bad habits, SMART goals, and more. Keep up with reminders to hold you accountable and charts to keep you motivated. Explore new ways to manage your life with over 150 templates and the ability to create your own trackers.\n\nGet organized with a daily checklist to help create your perfect routine. Keep up with what you’ve accomplished with progres",
-      "version": "19.10",
-      "versionDate": "2026-06-28T17:26:41-00:00",
-      "versionDescription": "Build 3090 from @riftysIPAlibrary",
-      "size": 116276570,
+      "version": "19.11",
+      "versionDate": "2026-07-03T00:36:33-00:00",
+      "versionDescription": "Build 3091 from @riftysIPAlibrary",
+      "size": 116276423,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/77/67/167767c3-3229-8077-ea9b-522fb81e2520/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Strides: Habit Tracker + Goals-v19.10-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Strides: Habit Tracker + Goals-v19.11-riftysipas.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -41303,7 +41329,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Strides: Habit Tracker + Goals-v19.10-riftysipas.ipa"
+        "originalFile": "Strides: Habit Tracker + Goals-v19.11-riftysipas.ipa"
       }
     },
     {
