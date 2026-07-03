@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.o-p-e-n.open",
+    "com.locket.Locket",
     "com.genau.MoneyCircle",
     "com.netflix.Netflix",
-    "com.dopedevelopment.Panels",
-    "com.google.ios.youtube",
-    "com.andydev.alpenglow"
+    "com.dopedevelopment.Panels"
   ],
   "apps": [
     {
@@ -38476,14 +38476,14 @@
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "Locket Labs, Inc.",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "2.53.0",
-      "versionDate": "2026-06-27",
+      "version": "2.54.0",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.53.0 Locket Gold blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.54.0 Locket Gold blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nLocket Widget\n\n---\nLocket is a widget that shows live photos from your best friends, right to your Home Screen. You and your best friends will see new pictures from each other every time you unlock your phone. It’s a little glimpse of what everyone’s up to throughout the day.\n\nHOW IT WORKS\n1. Add the Locket widget to your Home Screen\n2. When a friend sends you a photo, it instantly appears on your Locket widget!\n3. To share a pic back, tap into the widget, take a pic with the camera, and then hit send! It appears",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/fe/ab/9cfeab99-6119-c8b2-4147-30535afb3f78/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/2c/cb/772ccbb2-90e9-7902-3cfc-6792acbe4935/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 337332202,
+      "size": 337364473,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -38511,11 +38511,11 @@
       },
       "versions": [
         {
-          "version": "2.53.0",
-          "date": "2026-06-27",
+          "version": "2.54.0",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.53.0 Locket Gold blatant Patched.ipa",
-          "size": 337332202
+          "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.54.0 Locket Gold blatant Patched.ipa",
+          "size": 337364473
         }
       ],
       "category": "social-networking"
@@ -47386,14 +47386,14 @@
       "bundleIdentifier": "com.o-p-e-n.open",
       "developerName": "Open Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "26.25",
-      "versionDate": "2026-06-19",
+      "version": "26.26",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Open: Breathwork + Meditation-v26.25-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Open: Breathwork + Meditation-v26.26-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nOpen: Breathwork + Meditation\n\n---\n“We believe that mindfulness is more than a form of stress relief — it can be a tool for personal growth, deeper understanding, vibrancy. More than a way to disconnect — it can be a way to feel a part of something bigger. More than simply silence — it can be immersive, beautiful, moving.”\n\n–Raed Khawaja, Open Co-founder & CEO\n\nRegulate your nervous system with Open. Bridge science and spirituality to cleanse your body and mind. Learn breathwork, meditation, and movement techniques designed by ex",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/51/f3/7f51f3ae-2100-8d16-929c-c78ca502b968/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 126137766,
+      "size": 126216226,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -47421,11 +47421,11 @@
       },
       "versions": [
         {
-          "version": "26.25",
-          "date": "2026-06-19",
+          "version": "26.26",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Open: Breathwork + Meditation-v26.25-riftysipas.ipa",
-          "size": 126137766
+          "downloadURL": "https://telos.ftp.sh/ipas/Open: Breathwork + Meditation-v26.26-riftysipas.ipa",
+          "size": 126216226
         }
       ],
       "category": "health-&-fitness"
