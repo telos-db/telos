@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.puresignal.strides",
-    "com.genau.JournalCircle",
-    "com.wellocution.iosapp",
-    "com.bonsaisoft.militarytime",
-    "com.glucobit.cravingBuster.CravingBuster"
+    "br.com.marcosatanaka.musicwhiz",
+    "br.com.marcosatanaka.musicbox",
+    "io.fadel.VidCap",
+    "tech.miidii.MDBlank",
+    "tech.miidii.MDClock"
   ],
   "apps": [
     {
@@ -40492,14 +40492,14 @@
       "bundleIdentifier": "tech.miidii.MDClock",
       "developerName": "MD Studio",
       "subtitle": "Tweaked with MDClock, blatantsPatch",
-      "version": "2.69.1",
-      "versionDate": "2026-06-11",
+      "version": "2.70",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: MDClock, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/MD Clock - Flip Clock v2.69.1 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MD Clock - Flip Clock v2.70 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MDClock, blatantsPatch\n\nMD Clock - Flip Clock\n\n---\nMD Clock is a crafted clock app to accompany you in studying, working, and life. 2022 Apple Design Award finalist.\n\n◎ 24 exquisite themes, and more to come\n◎ Fully adapted to the new Liquid Glass design—dynamic and luminous\n◎ Rich widgets and custom APP logo to meet your personality\n◎ Perfectly supports StandBy\n◎ Widgets support clear and blurred backgrounds, which are more integrated with the desktop\n◎ Support multiple timers, chimes and alarms\n◎ Refined animation and sound effects, polish ever",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/d8/10/c4d8105f-b1d3-f3f3-ceda-5efd67f20c9f/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 196778411,
+      "size": 325136997,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/72/d9/4c72d924-e420-c457-a619-b98cec9f7509/8a85730d-9891-4618-8a37-dbbde7bab58c__U82f1_U8bed.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/56/38/21563844-609f-98f9-41cb-9993b2495eb8/8e2ce13d-e38e-4aca-a3a1-2ac8db4fcd51__U82f1_U6587_5.5-2.jpg/392x696bb.jpg",
@@ -40523,11 +40523,11 @@
       },
       "versions": [
         {
-          "version": "2.69.1",
-          "date": "2026-06-11",
+          "version": "2.70",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: MDClock, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/MD Clock - Flip Clock v2.69.1 Pro Unlocked blatant Patched.ipa",
-          "size": 196778411
+          "downloadURL": "https://telos.ftp.sh/ipas/MD Clock - Flip Clock v2.70 Pro Unlocked blatant Patched.ipa",
+          "size": 325136997
         }
       ],
       "category": "lifestyle"
@@ -43477,14 +43477,14 @@
       "bundleIdentifier": "br.com.marcosatanaka.musicbox",
       "developerName": "Loop Apps LTDA",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.7.6",
-      "versionDate": "2026-06-24",
+      "version": "1.7.7",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MusicBox: Save Music for Later-v1.7.6-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MusicBox: Save Music for Later-v1.7.7-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMusicBox: Save Music for Later\n\n---\nA personal music library you actually own and control. Catalog albums and songs from any service, organize them exactly the way you think, and rediscover your music collection.\n\nCritically acclaimed and award-winning.\n\n■ MacStories Selects 2022: Best New App\n\nMacStories: \"It’s rare for me these days to find new apps that elicit this kind of enthusiasm\"\n9to5Mac: \"With MusicBox, users can finally keep track of songs they want to listen to later\"\niMore: \"If you imagined a read-later app but for mus",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/23/a6/9223a60f-e418-2f2c-7488-bb75edb34f0f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 29464073,
+      "size": 29474871,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/26/ab/d226ab9c-e408-4a1e-d951-ea190b12f4ec/ba4f6ede-d5ac-4ff8-a58d-509f83282a24_slice1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/06/b2/3806b2ed-c214-71da-8742-8ead59d9baf2/c420ae9d-360d-4514-abae-f7a6f158ec23_slice2.png/392x696bb.png",
@@ -43505,11 +43505,11 @@
       },
       "versions": [
         {
-          "version": "1.7.6",
-          "date": "2026-06-24",
+          "version": "1.7.7",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MusicBox: Save Music for Later-v1.7.6-riftysipas.ipa",
-          "size": 29464073
+          "downloadURL": "https://telos.ftp.sh/ipas/MusicBox: Save Music for Later-v1.7.7-riftysipas.ipa",
+          "size": 29474871
         }
       ],
       "category": "music"
@@ -43564,14 +43564,14 @@
       "bundleIdentifier": "br.com.marcosatanaka.musicwhiz",
       "developerName": "Loop Apps LTDA",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.3.1",
-      "versionDate": "2026-06-24",
+      "version": "2.3.2",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MusicSmart - Liner Notes-v2.3.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MusicSmart - Liner Notes-v2.3.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMusicSmart - Liner Notes\n\n---\nEver wonder who wrote that song? MusicSmart reveals every credit instantly. It’s like IMDb for music. Critically acclaimed by MacStories, 9to5Mac, MacMagazine, and more.\n\nMusicSmart aggregates music knowledge from various sources into a powerful and easy-to-use app. With features such as Smart Sections and Roles/Instruments Insights, you can gain a deeper understanding of the music creation process and the responsibilities of each role.\n\nNavigate the catalog from within the main app or share mus",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/99/07/799907e1-785c-f5cd-e37f-0dde94480911/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 24383357,
+      "size": 24696672,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/17/bd/d317bdf0-831a-7332-60d2-202a6ebbaada/edad6f69-1716-416b-b02d-4fa66594a9f5_slice1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/7b/cb/2d7bcb0a-50a5-3564-782e-a9752c063ede/6ec8c920-8646-4108-ad8e-570a7e046854_slice2.png/392x696bb.png",
@@ -43590,11 +43590,11 @@
       },
       "versions": [
         {
-          "version": "2.3.1",
-          "date": "2026-06-24",
+          "version": "2.3.2",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MusicSmart - Liner Notes-v2.3.1-riftysipas.ipa",
-          "size": 24383357
+          "downloadURL": "https://telos.ftp.sh/ipas/MusicSmart - Liner Notes-v2.3.2-riftysipas.ipa",
+          "size": 24696672
         }
       ],
       "category": "music"
@@ -46283,14 +46283,14 @@
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "RGN VENTURES LTD",
       "subtitle": "Nuvio for iOS",
-      "version": "0.2.16",
-      "versionDate": "2026-07-02",
+      "version": "0.2.17",
+      "versionDate": "2026-07-03",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.16-Full.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.17-Full.ipa",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nNuvio\n\n---\nNuvio – Master Your Cold Plunge Routine\nTake control of your recovery like never before. The Nuvio app seamlessly connects to your Recovery Chiller, giving you full command over your cold plunge experience—anytime, anywhere. No ice. No hassle. Just cold, clean performance on your schedule.\nPERSONALIZED CONTROL. PEAK PERFORMANCE.\nDial in your perfect temperature, schedule sessions in advance, activate purification, and monitor your plunge history—all from your phone. Nuvio is designed to fit your",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 38844733,
+      "size": 39093830,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -46298,11 +46298,11 @@
       },
       "versions": [
         {
-          "version": "0.2.16",
-          "date": "2026-07-02",
+          "version": "0.2.17",
+          "date": "2026-07-03",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.16-Full.ipa",
-          "size": 38844733
+          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.17-Full.ipa",
+          "size": 39093830
         }
       ],
       "category": "health-&-fitness"
@@ -74525,14 +74525,14 @@
       "bundleIdentifier": "io.fadel.VidCap",
       "developerName": "Fadel.io OU",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.0.215",
-      "versionDate": "2026-03-10",
+      "version": "1.0.233",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/AI.Captions.for.Videos.VidCap-v1.0.215-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSubscription Unlocked\n\n---\nAdd accurate automatic subtitles to your videos in seconds.\n\nWant your users watching on mute to engage with your videos? Then you definitely need to add closed captions, or else you'll be missing out on engagement on Instagram, TikTok and other social platforms.\n\nFEATURES\n\n• Ultra-accurate automatic subtitles: the accuracy beats any similar app with 100+ languages supported.\n\n• Unlimited video duration.\n\n• Custom text font, style and animations.\n\n• AI Eye Contact\n\n• Video Teleprompter\n\n• Backgr",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/5f/69/095f6925-f7bc-5cd5-bd03-0f530114f236/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/AI Captions for Videos: VidCap-v1.0.233-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nAI Captions for Videos: VidCap\n\n---\nAdd accurate automatic subtitles to your videos in seconds.\n\nWant your users watching on mute to engage with your videos? Then you definitely need to add closed captions, or else you'll be missing out on engagement on Instagram, TikTok and other social platforms.\n\nFEATURES\n\n• Ultra-accurate automatic subtitles: the accuracy beats any similar app with 100+ languages supported.\n\n• Unlimited video duration.\n\n• Custom text font, style and animations.\n\n• AI Eye Contact\n\n• Video Teleprompter\n\n• Backgr",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/c0/53/cec053ab-8d32-ca76-9384-df7a5434526a/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 32487665,
+      "size": 35409961,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/18/52/50185235-8b0e-8402-900d-c17337a0e22c/0b3924aa-9136-4863-b19e-0f184dae368e_VCP_ASO_SS_5.5_01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/9a/49/039a4998-7239-aeac-43c4-541eb49baa55/d284fea0-1122-4cb4-9601-1cbec06c6b43_VCP_ASO_SS_5.5_02.jpg/392x696bb.jpg",
@@ -74556,11 +74556,11 @@
       },
       "versions": [
         {
-          "version": "1.0.215",
-          "date": "2026-03-10",
+          "version": "1.0.233",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/AI.Captions.for.Videos.VidCap-v1.0.215-riftysipas.ipa",
-          "size": 32487665
+          "downloadURL": "https://telos.ftp.sh/ipas/AI Captions for Videos: VidCap-v1.0.233-riftysipas.ipa",
+          "size": 35409961
         }
       ],
       "category": "photo-&-video"
