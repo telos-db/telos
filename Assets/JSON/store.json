@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.sbs.train",
     "com.robnorback.LiveTranscribe",
     "com.unicostudio.braintest",
     "com.ulisesolave.Fitia",
-    "com.aiarlabs.prequel",
-    "com.aheadsolutions.aHead"
+    "com.aiarlabs.prequel"
   ],
   "apps": [
     {
@@ -77511,15 +77511,15 @@
       "name": "Workouts",
       "bundleIdentifier": "com.sbs.train",
       "developerName": "Stronger By Science Technologies LLC",
-      "subtitle": "Workouts for iOS",
-      "version": "1.2.2",
-      "versionDate": "2026-06-27",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.sbs.train-1.2.2-eeveedecrypter.ipa",
-      "localizedDescription": "Workouts for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/a5/39/90a539fe-f1d6-f851-63fc-f2fe6bb91dd3/WorkoutsAppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "1.2.3",
+      "versionDate": "2026-07-03",
+      "versionDescription": "Tweaks: MacroFactorWorkouts, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/MacroFactor_Workouts_Tracker_v1_2_3_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nMacroFactor Workouts - Tracker",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/dc/61/dedc61e9-8afa-1027-d91d-5d84efff13de/WorkoutsAppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 199083922,
+      "size": 201631663,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -77543,11 +77543,11 @@
       },
       "versions": [
         {
-          "version": "1.2.2",
-          "date": "2026-05-29",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.sbs.train-1.2.2-eeveedecrypter.ipa",
-          "size": 199083922
+          "version": "1.2.3",
+          "date": "2026-07-03",
+          "localizedDescription": "Tweaks: MacroFactorWorkouts, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/MacroFactor_Workouts_Tracker_v1_2_3_Subscription_Unlocked_blatant.ipa",
+          "size": 201631663
         }
       ],
       "category": "health-&-fitness"
@@ -80514,7 +80514,7 @@
     {
       "title": "⚙️ Telos Update 7.3",
       "identifier": "telos-update-2026-07-03",
-      "caption": "46 Apps Updated:\n• 10 Photo & Video\n• 8 Health & Fitness\n• 6 Lifestyle\n• 6 Games\n• 4 Productivity\n• 4 Music\n• 4 Utilities\n• 2 Education\n• 2 Graphics & Design",
+      "caption": "50 Apps Updated:\n• 12 Health & Fitness\n• 10 Photo & Video\n• 6 Lifestyle\n• 6 Games\n• 4 Productivity\n• 4 Music\n• 4 Utilities\n• 2 Education\n• 2 Graphics & Design",
       "date": "2026-07-03",
       "tintColor": "#02433b",
       "notify": true,
