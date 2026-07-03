@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "co.vulcanlabs.moodtracker",
+    "com.nianticlabs.pokemongo",
     "br.com.marcosatanaka.musicwhiz",
     "br.com.marcosatanaka.musicbox",
-    "io.fadel.VidCap",
-    "tech.miidii.MDBlank",
-    "tech.miidii.MDClock"
+    "io.fadel.VidCap"
   ],
   "apps": [
     {
@@ -12091,14 +12091,14 @@
       "bundleIdentifier": "co.vulcanlabs.moodtracker",
       "developerName": "Vulcan Labs Company Limited",
       "subtitle": "*Tweak:** Satella Injected For Unlocking Subscription | *Patched ✓**",
-      "version": "8.260622.1",
-      "versionDate": "2026-07-01",
+      "version": "8.260629.2",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: CydiaSubstrate, SatellaJailed, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/AI Chatbot: AI Chat Smith 5.0-v8.260622.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AI Chatbot: AI Chat Smith 5.0-v8.260629.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Satella Injected For Unlocking Subscription | *Patched ✓**\n\nAI Chatbot: AI Chat Smith 5.0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/8c/26/d98c267a-6757-382b-f291-5f8506ab0874/AppIcon132-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 576278535,
+      "size": 578545128,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/ad/84/6ead848d-9f09-e17d-cf0d-833042063f51/15611293-15b1-46ad-8bdf-674096229f71_GPT-screenshot-0.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/2b/e6/ad2be66c-4a9e-2797-37e6-b35d8e0c310b/f5e51d50-4299-47c3-802f-72da44729d00_GPT-screenshot-1a.jpg/576x768bb.jpg",
@@ -12125,11 +12125,11 @@
       },
       "versions": [
         {
-          "version": "8.260622.1",
-          "date": "2026-07-01",
+          "version": "8.260629.2",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/AI Chatbot: AI Chat Smith 5.0-v8.260622.1-riftysipas.ipa",
-          "size": 576278535
+          "downloadURL": "https://telos.ftp.sh/ipas/AI Chatbot: AI Chat Smith 5.0-v8.260629.2-riftysipas.ipa",
+          "size": 578545128
         }
       ],
       "category": "productivity"
@@ -52290,14 +52290,14 @@
       "bundleIdentifier": "com.nianticlabs.pokemongo",
       "developerName": "Niantic, Inc.",
       "subtitle": "Pokémon GO for iOS",
-      "version": "0.417.1",
-      "versionDate": "2026-07-01",
+      "version": "0.417.2",
+      "versionDate": "2026-07-03",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.nianticlabs.pokemongo-0.417.1-eeveedecrypter.ipa",
-      "localizedDescription": "Decrypted",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.nianticlabs.pokemongo-0.417.2-eeveedecrypter.ipa",
+      "localizedDescription": "Pokémon GO for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/63/94/e5639414-6661-2586-552d-d081266a0c64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 154140753,
+      "size": 154135702,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/50/ab/9d/50ab9d05-4725-a079-0b01-95092d80c60a/1fb4d850-cb26-49d0-b3ba-4aeef5f8585b_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b8/e1/09/b8e10933-1a88-7e23-47f2-8eb1c0cfaba8/a4069ca6-f67f-4f3f-a3ed-e6a085820bc7_2.jpg/392x696bb.jpg",
@@ -52327,11 +52327,11 @@
       },
       "versions": [
         {
-          "version": "0.417.1",
-          "date": "2026-06-30",
+          "version": "0.417.2",
+          "date": "2026-07-03",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.nianticlabs.pokemongo-0.417.1-eeveedecrypter.ipa",
-          "size": 154140753
+          "downloadURL": "https://telos.ftp.sh/ipas/com.nianticlabs.pokemongo-0.417.2-eeveedecrypter.ipa",
+          "size": 154135702
         }
       ],
       "category": "games"
@@ -80513,7 +80513,7 @@
     {
       "title": "⚙️ Telos Update 7.3",
       "identifier": "telos-update-2026-07-03",
-      "caption": "36 Apps Updated:\n• 8 Music\n• 8 Health & Fitness\n• 6 Lifestyle\n• 4 Photo & Video\n• 4 Graphics & Design\n• 2 Productivity\n• 2 Utilities\n• 2 Education",
+      "caption": "30 Apps Updated:\n• 6 Productivity\n• 4 Lifestyle\n• 4 Music\n• 4 Health & Fitness\n• 4 Games\n• 2 Utilities\n• 2 Education\n• 2 Photo & Video\n• 2 Graphics & Design",
       "date": "2026-07-03",
       "tintColor": "#02433b",
       "notify": true,
