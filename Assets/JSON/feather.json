@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.glucobit.cravingBuster.CravingBuster",
-    "com.ketchapp.horizon",
-    "com.hiiker.hiiker",
-    "br.com.marcosatanaka.music-harbor",
-    "com.google.ios.youtube"
+    "com.puresignal.strides",
+    "com.genau.JournalCircle",
+    "com.wellocution.iosapp",
+    "com.bonsaisoft.militarytime",
+    "com.glucobit.cravingBuster.CravingBuster"
   ],
   "apps": [
     {
@@ -8501,14 +8501,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Tweaked with BoldVoice, blatantsPatch",
-      "version": "4.0.9",
-      "versionDate": "2026-06-30",
+      "version": "4.1.0",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_9_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BoldVoice, blatantsPatch\n\nBoldVoice: Accent Training\n\n---\nBoldVoice is the top-rated English speaking and pronunciation app, with over 2 million global users. Our Hollywood accent coaches and AI-powered feedback will help you achieve clear, confident pronunciation, with only 10 minutes of daily practice.\n\nWHY CHOOSE BOLDVOICE:\nLearn from professional accent coaches who train Hollywood actors\nRecord your voice and receive instant, AI-powered pronunciation feedback\nPractice with daily-life scenarios and professional conversations\nMonitor progress through",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 158299050,
+      "size": 158336353,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8528,11 +8528,11 @@
       },
       "versions": [
         {
-          "version": "4.0.9",
-          "date": "2026-06-30",
+          "version": "4.1.0",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_0_9_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 158299050
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 158336353
         }
       ],
       "category": "education"
@@ -34135,14 +34135,14 @@
       "bundleIdentifier": "com.genau.JournalCircle",
       "developerName": "Genau Factory",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.4.3",
-      "versionDate": "2026-06-29",
+      "version": "3.4.4",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.4-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nJournalCircle: Diary & Tracker\n\n---\nDiscover JournalCircle, a journaling app featured on the App Store across multiple regions. JournalCircle combines AI-powered journaling, voice notes, mood tracking, and entry analysis to help you record your daily life with clarity. Users often mention that the clean, beautiful design makes them want to journal more consistently.\n\nJournalCircle is a journaling and life log app designed to manage your diary, mood, routines, goals, and daily records in one place.\n\nAI-powered journaling tools\nJour",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/48/33/ed4833dd-86d9-8719-79bf-3cf44589f4bd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13513824,
+      "size": 13556939,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/4a/a9/e84aa9cc-2c5b-1709-f532-d5ee2be4a59f/6f8a71a6-a4e7-4824-b871-faad39c83dea_JC-ipad-1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/c1/92/9bc19287-5539-8310-51da-1b370a854e82/f6757f74-d22d-4973-b8e5-edb64fa626dc_JC-ipad-2.png/576x768bb.png",
@@ -34169,11 +34169,11 @@
       },
       "versions": [
         {
-          "version": "3.4.3",
-          "date": "2026-06-29",
+          "version": "3.4.4",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.3-riftysipas.ipa",
-          "size": 13513824
+          "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.4-riftysipas.ipa",
+          "size": 13556939
         }
       ],
       "category": "lifestyle"
@@ -41278,6 +41278,35 @@
         }
       ],
       "category": "travel"
+    },
+    {
+      "name": "Military Time",
+      "bundleIdentifier": "com.bonsaisoft.militarytime",
+      "developerName": "Bonsaisoft LLC",
+      "subtitle": "Military Time for iOS",
+      "version": "1.5",
+      "versionDate": "2026-07-03",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.bonsaisoft.militarytime-1.5-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nMaster Military Time Effortlessly!\n\nConfused by military time? Whether you're navigating schedules, coordinating across time zones, or simply trying to learn the 24-hour format, the Military Time Converter app is your ultimate tool for clarity and precision.\n\nKey Features\n\n • Instant Time Conversion: Seamlessly switch between 12-hour (AM/PM) and 24-hour (military) formats with just a tap.\n • Local Time Display: View your current time in both formats side by side for easy comparison.\n • Time Zone",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/ab/1c/fcab1c13-04f7-1c94-0934-67dca37d6cdc/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 7465899,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.5",
+          "date": "2026-07-03",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.bonsaisoft.militarytime-1.5-eeveedecrypter.ipa",
+          "size": 7465899
+        }
+      ],
+      "category": "utilities"
     },
     {
       "name": "Mimo",
@@ -66104,14 +66133,14 @@
       "bundleIdentifier": "com.puresignal.strides",
       "developerName": "Goals LLC",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "19.10",
-      "versionDate": "2026-06-28",
+      "version": "19.11",
+      "versionDate": "2026-07-03",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Strides: Habit Tracker + Goals-v19.10-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Strides: Habit Tracker + Goals-v19.11-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nStrides: Habit Tracker + Goals\n\n---\nImagine having all of your most important habits, routines and goals together in one simple to do list. Now you can! With Strides, you can track good or bad habits, SMART goals, and more. Keep up with reminders to hold you accountable and charts to keep you motivated. Explore new ways to manage your life with over 150 templates and the ability to create your own trackers.\n\nGet organized with a daily checklist to help create your perfect routine. Keep up with what you’ve accomplished with progres",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/77/67/167767c3-3229-8077-ea9b-522fb81e2520/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 116276570,
+      "size": 116276423,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/55/ff/4f55ffd1-9bd1-df05-d154-c119cc75f1cf/780059c5-f9da-49ff-be2b-aa6eb4b4295b_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/38/c9/3b38c934-93f2-1cc3-b7e6-61b51b4b337a/3905dbe1-811f-4723-b0ab-81946b1bfada_2.png/392x696bb.png",
@@ -66141,11 +66170,11 @@
       },
       "versions": [
         {
-          "version": "19.10",
-          "date": "2026-06-28",
+          "version": "19.11",
+          "date": "2026-07-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Strides: Habit Tracker + Goals-v19.10-riftysipas.ipa",
-          "size": 116276570
+          "downloadURL": "https://telos.ftp.sh/ipas/Strides: Habit Tracker + Goals-v19.11-riftysipas.ipa",
+          "size": 116276423
         }
       ],
       "category": "productivity"
