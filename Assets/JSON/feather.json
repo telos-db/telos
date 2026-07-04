@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.ld.TakeBrowser",
     "com.footballaddicts.livescoreaddicts",
     "com.napper",
     "com.google.ios.youtube",
-    "com.revivasoftworks.Snore-Lab",
-    "com.stromming.Plants"
+    "com.revivasoftworks.Snore-Lab"
   ],
   "apps": [
     {
@@ -3329,14 +3329,14 @@
       "bundleIdentifier": "com.ld.TakeBrowser",
       "developerName": "Baoding Lehuo Network Technology Co., Ltd.",
       "subtitle": "Alook for iOS",
-      "version": "22.7",
-      "versionDate": "2026-06-26",
+      "version": "22.8",
+      "versionDate": "2026-07-04",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.7.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.8.ipa",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nAlook Browser - 8x Speed\n\n---\nAlook is a minimalist yet powerful browser, aiming to be the best for iOS.\n\nCore Features\n- Lightning-fast experience: No push notifications, no news, no ads, millisecond startup.\n- Audio and video features: Floating playback, adjustable speed (0.5x-16.0x), background playback, AirPlay casting, DLNA casting, small window playback, single track loop, picture-in-picture, screenshots, mirroring, long press for speed control, and more.\n- File management: Manual downloads, unzip/compress (zip, rar, 7",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/48/46/5d484629-5050-ec50-2586-6398095fda10/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 12278132,
+      "size": 12276951,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/66/ae/6166aecb-a256-1f0e-38ee-03d31a42b123/mzl.nwwaqpwn.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/59/28/e75928c8-ce3e-a099-c742-ddbeb91451ec/mzl.sksamjyd.png/392x696bb.png",
@@ -3357,11 +3357,11 @@
       },
       "versions": [
         {
-          "version": "22.7",
-          "date": "2026-06-26",
+          "version": "22.8",
+          "date": "2026-07-04",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.7.ipa",
-          "size": 12278132
+          "downloadURL": "https://telos.ftp.sh/ipas/Alook-22.8.ipa",
+          "size": 12276951
         }
       ],
       "category": "utilities"
