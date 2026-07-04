@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.stromming.Plants",
+    "com.reveri.reverihealth",
     "com.mangacrush.ios",
     "com.o-p-e-n.open",
-    "com.locket.Locket",
-    "com.genau.MoneyCircle",
-    "com.netflix.Netflix"
+    "com.locket.Locket"
   ],
   "apps": [
     {
@@ -51705,14 +51705,14 @@
       "bundleIdentifier": "com.stromming.Plants",
       "developerName": "Planta AB",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "3.117.1",
-      "versionDate": "2026-07-01",
+      "version": "3.117.2",
+      "versionDate": "2026-07-04",
       "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Planta: Plant & Garden Care-v3.117.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Planta: Plant & Garden Care-v3.117.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nPlanta: Plant & Garden Care",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/c6/6b/31c66ba1-a8f7-14c3-7eca-19b2acb95d59/AppIcon-Prod-0-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 130691145,
+      "size": 130783664,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/33/50/463350d3-46a0-750b-05ac-3826f2c9443b/21a249f3-1bba-4ab6-ac5b-11c024f95e6b_Planta_PPO_Social_proof_iOS_5.5_Mobile_1242x2208px_view1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/df/9d/26df9d37-49cc-3607-dc92-6687602a92ee/89ccdf54-1ee6-4acf-a87e-c61e1823ba9d_1242x2208bb-2.png/392x696bb.png",
@@ -51742,11 +51742,11 @@
       },
       "versions": [
         {
-          "version": "3.117.1",
-          "date": "2026-07-01",
+          "version": "3.117.2",
+          "date": "2026-07-04",
           "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Planta: Plant & Garden Care-v3.117.1-riftysipas.ipa",
-          "size": 130691145
+          "downloadURL": "https://telos.ftp.sh/ipas/Planta: Plant & Garden Care-v3.117.2-riftysipas.ipa",
+          "size": 130783664
         }
       ],
       "category": "lifestyle"
@@ -56206,14 +56206,14 @@
       "bundleIdentifier": "com.reveri.reverihealth",
       "developerName": "Reveri Health, Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "4.10.0",
-      "versionDate": "2026-06-27",
+      "version": "4.11.0",
+      "versionDate": "2026-07-04",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Reveri: Brain Over Pain-v4.10.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Reveri: Brain Over Pain-v4.11.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nReveri: Brain Over Pain",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/14/2d/53142de6-c53b-b1d4-153c-30db0f93e71a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 87706263,
+      "size": 87662564,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/c5/fb/09c5fb9c-deee-4afc-8b1e-4d71d173e23b/01_AppStore_5-5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/e1/65/a0e165af-194f-4649-fa55-6f3b501b0c9f/02_AppStore_5-5.png/392x696bb.png",
@@ -56241,11 +56241,11 @@
       },
       "versions": [
         {
-          "version": "4.10.0",
-          "date": "2026-06-27",
+          "version": "4.11.0",
+          "date": "2026-07-04",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Reveri: Brain Over Pain-v4.10.0-riftysipas.ipa",
-          "size": 87706263
+          "downloadURL": "https://telos.ftp.sh/ipas/Reveri: Brain Over Pain-v4.11.0-riftysipas.ipa",
+          "size": 87662564
         }
       ],
       "category": "health-&-fitness"
@@ -80538,7 +80538,7 @@
     {
       "title": "⚙️ Telos Update 7.4",
       "identifier": "telos-update-2026-07-04",
-      "caption": "2 Apps Updated:\n• 2 Entertainment",
+      "caption": "10 Apps Updated:\n• 4 Health & Fitness\n• 4 Lifestyle\n• 2 Entertainment",
       "date": "2026-07-04",
       "tintColor": "#02433b",
       "notify": true,
