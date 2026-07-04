@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.sublime.capture",
+    "com.firecore.infuse",
     "com.nuvio.media",
     "com.ld.TakeBrowser",
-    "com.footballaddicts.livescoreaddicts",
-    "com.napper",
-    "com.google.ios.youtube"
+    "com.footballaddicts.livescoreaddicts"
   ],
   "apps": [
     {
@@ -31852,15 +31852,15 @@
       "name": "Infuse",
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "Firecore, LLC",
-      "subtitle": "Patched | Tweaked",
+      "subtitle": "Infuse for iOS",
       "version": "8.4.8",
-      "versionDate": "2026-07-01",
-      "versionDescription": "Tweaks: CydiaSubstrate, InfusePlus, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Infuse v8.4.8 Infuse Plus v2.5 blatant Patched.ipa",
-      "localizedDescription": "Patched | Tweaked\n\nInfuse",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/75/2f/e6752f0d-6382-3024-67c7-4f4cdba6d1a6/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
+      "versionDate": "2026-07-04",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.firecore.infuse-8.4.8-eeveedecrypter.ipa",
+      "localizedDescription": "Infuse for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/a6/ea/dea6ea46-69ed-5601-3e1d-0acf3ed654e9/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 102043390,
+      "size": 100893872,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -31885,9 +31885,9 @@
         {
           "version": "8.4.8",
           "date": "2026-07-01",
-          "localizedDescription": "Tweaks: CydiaSubstrate, InfusePlus, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Infuse v8.4.8 Infuse Plus v2.5 blatant Patched.ipa",
-          "size": 102043390
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.firecore.infuse-8.4.8-eeveedecrypter.ipa",
+          "size": 100893872
         }
       ],
       "category": "entertainment"
@@ -46797,14 +46797,14 @@
       "bundleIdentifier": "com.sublime.capture",
       "developerName": "Oniri Inc",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "5.2.2",
-      "versionDate": "2026-06-08",
+      "version": "6.0.2",
+      "versionDate": "2026-07-04",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Oniri - Your Dream Journal-v5.2.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Oniri - Your Dream Journal-v6.0.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nOniri - Your Dream Journal",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/27/e0/9127e005-97b0-923c-b925-da30175fc547/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 77009230,
+      "size": 108287776,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/2a/0e/462a0ef8-676e-7247-7652-9216d0e6d5f2/9be8a32b-31fa-41a7-af46-b70574beadbc_55_EN_01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/8b/d5/f38bd57c-fece-5315-e5ec-148491776ba6/36d00e91-ef6e-4de2-bfe2-324db49e1f19_55_EN_02.jpg/392x696bb.jpg",
@@ -46815,15 +46815,16 @@
       "appPermissions": {
         "entitlements": [
           "aps-environment",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.healthkit",
           "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.associated-domains",
           "com.apple.developer.siri",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.applesignin",
           "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Oniri uses your photo library to add pictures to your dreams.",
+          "NSCameraUsageDescription": "Oniri uses your camera to add pictures to your dreams.",
           "NSMicrophoneUsageDescription": "Oniri needs access to the microphone if you want to record vocal notes.",
           "NSHealthShareUsageDescription": "Oniri needs access to Health to display your sleep data.",
           "NSHealthUpdateUsageDescription": "Oniri needs access to Health to display your sleep data.",
@@ -46834,11 +46835,11 @@
       },
       "versions": [
         {
-          "version": "5.2.2",
-          "date": "2026-06-04",
+          "version": "6.0.2",
+          "date": "2026-07-04",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Oniri - Your Dream Journal-v5.2.2-riftysipas.ipa",
-          "size": 77009230
+          "downloadURL": "https://telos.ftp.sh/ipas/Oniri - Your Dream Journal-v6.0.2-riftysipas.ipa",
+          "size": 108287776
         }
       ],
       "category": "health-&-fitness"
@@ -80517,7 +80518,7 @@
     {
       "title": "⚙️ Telos Update 7.4",
       "identifier": "telos-update-2026-07-04",
-      "caption": "20 Apps Updated:\n• 8 Health & Fitness\n• 2 Entertainment\n• 2 Medical\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Photo & Video",
+      "caption": "28 Apps Updated:\n• 12 Health & Fitness\n• 6 Entertainment\n• 2 Medical\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Photo & Video",
       "date": "2026-07-04",
       "tintColor": "#02433b",
       "notify": true,
