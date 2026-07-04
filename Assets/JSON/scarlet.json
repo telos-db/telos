@@ -7893,6 +7893,32 @@
       }
     },
     {
+      "name": "Chessbook",
+      "bundleIdentifier": "com.chessbook.app",
+      "developerName": "Chessbook",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nChessbook is the fastest way to build a bulletproof opening repertoire.\n\nKey features:\n• Create a custom repertoire\n• Train with spaced repetition\n• Find gaps automatically\n• Avoid obscure moves\n• Handle transpositions\n• Find mistakes in your online games\n• Fast & modern interface\n\n“A fun and simple way to build an opening repertoire based on probabilities of most likely lines. You will actually learn the moves that will happen on the board!”\n—Grandmaster Eugene Perelshteyn\n\nFIND THE GAPS IN YOU",
+      "version": "1.3.30",
+      "versionDate": "2026-07-04T18:22:31-00:00",
+      "versionDescription": "Build 195 from @thescholarslounge",
+      "size": 113864177,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/a2/ff/91a2ff4d-2ef8-f9fe-a76a-189371083974/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.chessbook.app-1.3.31-eeveedecrypter.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.chessbook.app-1.3.31-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "ChessMovePro",
       "bundleIdentifier": "com.sethsetse.ChessMovePro",
       "developerName": "Setse LLC",
