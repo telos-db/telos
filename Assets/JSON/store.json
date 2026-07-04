@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.google.ios.youtube",
     "com.revivasoftworks.Snore-Lab",
     "com.stromming.Plants",
     "com.reveri.reverihealth",
-    "com.mangacrush.ios",
-    "com.o-p-e-n.open"
+    "com.mangacrush.ios"
   ],
   "apps": [
     {
@@ -78382,15 +78382,15 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "subtitle": "Cracked",
+      "subtitle": "Tweaked with CydiaSubstrate, DontEatMyContent",
       "version": "21.26.4",
-      "versionDate": "2026-07-03",
-      "versionDescription": "Tweaks: CydiaSubstrate, YTKPlus, lowiqentity\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/YouTube_v21.26.4-YTKillerPlus-v5.8.0-Cracked-[lowiqentity].ipa",
-      "localizedDescription": "Cracked\n\nYouTube 21.26.4 YTKP 5.8.0 Cracked by lowiqentity thanks to @ballermc for sharing",
+      "versionDate": "2026-07-04",
+      "versionDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, NoYTPremium, YTABConfig, YTLite\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]YT_21.26.4_YP.ipa",
+      "localizedDescription": "YouTube for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 328087321,
+      "size": 142434296,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -78400,41 +78400,17 @@
       ],
       "appPermissions": {
         "entitlements": [
-          "com.apple.developer.avfoundation.multitasking-camera-access",
-          "com.apple.developer.networking.wifi-info",
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.authentication-services.autofill-credential-provider",
-          "com.apple.developer.ClassKit-environment",
-          "com.apple.developer.healthkit",
-          "com.apple.developer.healthkit.access",
-          "com.apple.developer.homekit",
-          "com.apple.developer.networking.HotspotConfiguration",
-          "com.apple.developer.icloud-container-development-container-identifiers",
           "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "inter-app-audio",
-          "com.apple.developer.networking.multipath",
-          "com.apple.developer.networking.networkextension",
-          "com.apple.developer.nfc.readersession.formats",
-          "aps-environment",
-          "com.apple.developer.siri",
-          "com.apple.external-accessory.wireless-configuration",
-          "com.apple.developer.coremedia.hls.low-latency",
-          "com.apple.developer.devicecheck.appattest-environment",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.healthkit.recalibrate-estimates",
-          "com.apple.developer.weatherkit",
-          "com.apple.developer.kernel.increased-debugging-memory-limit",
-          "com.apple.developer.game-center",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "com.apple.developer.healthkit.background-delivery",
-          "com.apple.developer.user-fonts",
-          "com.apple.developer.applesignin",
           "com.apple.developer.declared-age-range",
           "com.apple.developer.group-session",
+          "com.apple.developer.networking.wifi-info",
+          "aps-environment",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.associated-domains",
           "com.apple.developer.device-information.user-assigned-device-name",
-          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection"
+          "com.apple.developer.siri",
+          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
@@ -78451,10 +78427,10 @@
       "versions": [
         {
           "version": "21.26.4",
-          "date": "2026-07-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, YTKPlus, lowiqentity\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/YouTube_v21.26.4-YTKillerPlus-v5.8.0-Cracked-[lowiqentity].ipa",
-          "size": 328087321
+          "date": "2026-07-04",
+          "localizedDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, NoYTPremium, YTABConfig, YTLite\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]YT_21.26.4_YP.ipa",
+          "size": 142434296
         }
       ],
       "category": "photo-&-video"
@@ -80538,7 +80514,7 @@
     {
       "title": "⚙️ Telos Update 7.4",
       "identifier": "telos-update-2026-07-04",
-      "caption": "10 Apps Updated:\n• 4 Medical\n• 2 Entertainment\n• 2 Health & Fitness\n• 2 Lifestyle",
+      "caption": "12 Apps Updated:\n• 4 Photo & Video\n• 2 Entertainment\n• 2 Health & Fitness\n• 2 Medical\n• 2 Lifestyle",
       "date": "2026-07-04",
       "tintColor": "#02433b",
       "notify": true,
