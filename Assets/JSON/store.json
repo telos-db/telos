@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.sfun.snapedit",
-    "com.hevyapp.hevy",
-    "com.revivasoftworks.Snore-Lab",
-    "com.ideation.Stress",
-    "app.uplens"
+    "com.leshko.cloudplayer",
+    "com.frameoneapps.Crsel",
+    "com.upskew.encode.ios",
+    "com.solveit.lut-studio",
+    "com.sfun.snapedit"
   ],
   "apps": [
     {
@@ -15276,14 +15276,14 @@
       "bundleIdentifier": "com.frameoneapps.Crsel",
       "developerName": "Crsel Sp. z o.o.",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "1.4.0",
-      "versionDate": "2026-07-02",
+      "version": "1.4.1",
+      "versionDate": "2026-07-04",
       "versionDescription": "Tweaks: Crsel, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_4_0_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_4_1_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nCrsel: Carousel, Collage Maker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/74/2d/50742dab-b3a2-e88b-f27c-b868901215c6/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 117545197,
+      "size": 117546409,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -15297,11 +15297,11 @@
       },
       "versions": [
         {
-          "version": "1.4.0",
-          "date": "2026-07-01",
+          "version": "1.4.1",
+          "date": "2026-07-04",
           "localizedDescription": "Tweaks: Crsel, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_4_0_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 117545197
+          "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_4_1_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 117546409
         }
       ],
       "category": "photo-&-video"
@@ -19787,14 +19787,14 @@
       "bundleIdentifier": "com.upskew.encode.ios",
       "developerName": "Upskew Pty. Ltd.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "6.20.2",
-      "versionDate": "2026-02-15",
+      "version": "6.21.0",
+      "versionDate": "2026-07-04",
       "versionDescription": "Tweaks: Encode, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Encode_Learn_to_Code_v6_20_2_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nEncode: Learn to Code\n\n---\n\nStart coding today with short, interactive lessons! Learn Python, SQL, HTML/CSS, JavaScript (and more) at your own pace. Encode makes learning to code easy!\n\nBite-Sized Learning:\nFit coding into your busy life with effective lessons you can complete in just 15 minutes daily.\n\nHands-On Coding:\nWrite REAL code from lesson one! Our interactive quizzes, coding exercises, and challenges build practical, real-world skills.\n\nMaster In-Demand Languages:\nLearn Python, JavaScript, HTML, CSS, & SQL. Plus, ",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/31/75/f2317509-894e-cf9b-ece6-99c35dd2ad4d/App-Icon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Encode_Learn_to_Code_v6_21_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nEncode: Learn to Code",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/75/5e/da755e1b-98fa-8256-cdb8-8674911e3364/App-Icon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 47185945,
+      "size": 42339921,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/7e/32/437e3203-e7a1-0c74-a1d0-888ad6a4fba8/app-store-5.5-inch-5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/62/34/62623498-284e-845b-1f07-188e27c03f20/app-store-5.5-inch.png/392x696bb.png",
@@ -19813,11 +19813,11 @@
       },
       "versions": [
         {
-          "version": "6.20.2",
-          "date": "2026-02-14",
+          "version": "6.21.0",
+          "date": "2026-07-04",
           "localizedDescription": "Tweaks: Encode, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Encode_Learn_to_Code_v6_20_2_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 47185945
+          "downloadURL": "https://telos.ftp.sh/ipas/Encode_Learn_to_Code_v6_21_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 42339921
         }
       ],
       "category": "education"
@@ -20651,14 +20651,14 @@
       "bundleIdentifier": "com.leshko.cloudplayer",
       "developerName": "EVERAPPZ SL",
       "subtitle": "Subscription Unlocked | All Features",
-      "version": "8.6",
-      "versionDate": "2026-06-03",
+      "version": "8.7",
+      "versionDate": "2026-07-04",
       "versionDescription": "Tweaks: Evermusic, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Evermusic_Cloud_Music_Player_v8_6_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Evermusic_Cloud_Music_Player_v8_7_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | All Features | Patched | Tweaked\n\nEvermusic: Cloud Music Player",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/20/38/fe2038cc-9bf8-10eb-360f-87f13fec88de/AppIcon_evermusic_free-0-0-1x_U007epad-0-1-sRGB-512MB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/6d/8f/026d8fa8-a236-74e3-09e0-cab654e868ad/AppIcon_evermusic_free-0-0-1x_U007epad-0-1-sRGB-512MB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 82856600,
+      "size": 94517181,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -20682,11 +20682,11 @@
       },
       "versions": [
         {
-          "version": "8.6",
-          "date": "2026-05-08",
+          "version": "8.7",
+          "date": "2026-07-04",
           "localizedDescription": "Tweaks: Evermusic, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Evermusic_Cloud_Music_Player_v8_6_Subscription_Unlocked_blatant.ipa",
-          "size": 82856600
+          "downloadURL": "https://telos.ftp.sh/ipas/Evermusic_Cloud_Music_Player_v8_7_Subscription_Unlocked_blatant.ipa",
+          "size": 94517181
         }
       ],
       "category": "music"
@@ -38710,16 +38710,16 @@
     {
       "name": "LUT-Studio",
       "bundleIdentifier": "com.solveit.lut-studio",
-      "developerName": "Georgy Romelashvili",
+      "developerName": "Phoneframes AG",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "3.0.12",
-      "versionDate": "2026-06-01",
+      "version": "3.0.13",
+      "versionDate": "2026-07-04",
       "versionDescription": "Tweaks: LUTStudio, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/LUT_Studio_Color_Grading_App_v3_0_12_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LUT_Studio_Color_Grading_App_v3_0_13_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nLUT Studio: Color Grading App",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/9b/93/589b935b-0157-08a6-fc7d-102fe48b0a2b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/86/4b/c0864b11-5ad3-1865-d164-e2cdf1ca27f7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 109341483,
+      "size": 109395125,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/fb/75/f8fb759d-655c-4821-b378-e938eaeace27/129fed41-b0a4-4943-a5fb-dc4fbd94e0d7_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/12/1f/72121f9e-dce2-6cf2-9e76-5bce2f2722d9/f1b435de-8ae9-4db4-af6f-d03b532c6f50_2.jpg/392x696bb.jpg",
@@ -38738,11 +38738,11 @@
       },
       "versions": [
         {
-          "version": "3.0.12",
-          "date": "2026-05-22",
+          "version": "3.0.13",
+          "date": "2026-07-04",
           "localizedDescription": "Tweaks: LUTStudio, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/LUT_Studio_Color_Grading_App_v3_0_12_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 109341483
+          "downloadURL": "https://telos.ftp.sh/ipas/LUT_Studio_Color_Grading_App_v3_0_13_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 109395125
         }
       ],
       "category": "photo-&-video"
@@ -80544,7 +80544,7 @@
     {
       "title": "⚙️ Telos Update 7.4",
       "identifier": "telos-update-2026-07-04",
-      "caption": "88 Apps Updated:\n• 18 Health & Fitness\n• 16 Social Networking\n• 16 Business\n• 14 Photo & Video\n• 6 Medical\n• 4 Entertainment\n• 4 Travel\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Education\n• 2 Music",
+      "caption": "74 Apps Updated:\n• 16 Photo & Video\n• 14 Health & Fitness\n• 8 Social Networking\n• 8 Business\n• 6 Education\n• 6 Music\n• 4 Entertainment\n• 4 Medical\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Travel",
       "date": "2026-07-04",
       "tintColor": "#02433b",
       "notify": true,
