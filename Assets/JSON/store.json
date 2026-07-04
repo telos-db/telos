@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.deezer.Deezer",
     "com.chessbook.app",
     "com.sublime.capture",
     "com.firecore.infuse",
-    "com.nuvio.media",
-    "com.ld.TakeBrowser"
+    "com.nuvio.media"
   ],
   "apps": [
     {
@@ -16586,15 +16586,15 @@
       "name": "Deezer",
       "bundleIdentifier": "com.deezer.Deezer",
       "developerName": "DEEZER SA",
-      "subtitle": "Requires Ios >=15.0",
-      "version": "7.15.0",
-      "versionDate": "2026-01-30",
+      "subtitle": "Tweaked with Deezelife",
+      "version": "9.49.0",
+      "versionDate": "2026-07-04",
       "versionDescription": "Tweaks: Deezelife\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Deezelife-7.15.0-zxcvbn.ipa",
-      "localizedDescription": "Requires Ios >=15.0\n\ndeezelife v0.5 | premium, downloading works (if you don't have an account)\n\n---\n\nDeezer is more than just a music platform.\nIt’s a fully personalized listening experience that adapts to you. From mood-driven mixes to curated playlists, discover music that sounds like you.\n\nDeezer is where you can embrace your tastes, turn up the volume, and Live the Music.\n\nWith a Deezer Premium plan, you'll get everything you need in one app:\n\nMusic you love, made for you\n• A massive catalog with all the tracks you could ever want\n• Flow, your infinite, personalized mix of favorites and new",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/f6/3c/a8f63c58-3e03-1b4e-7a22-8076557aa191/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Dezzer-v9.49.ipa",
+      "localizedDescription": "Deezer for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/45/4e/62454e18-041c-f9cd-a799-0d4ebbc292bd/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 31883195,
+      "size": 64913053,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -16617,11 +16617,11 @@
       },
       "versions": [
         {
-          "version": "7.15.0",
-          "date": "2026-01-30",
+          "version": "9.49.0",
+          "date": "2026-07-04",
           "localizedDescription": "Tweaks: Deezelife\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Deezelife-7.15.0-zxcvbn.ipa",
-          "size": 31883195
+          "downloadURL": "https://telos.ftp.sh/ipas/Dezzer-v9.49.ipa",
+          "size": 64913053
         }
       ],
       "category": "music"
@@ -80553,7 +80553,7 @@
     {
       "title": "⚙️ Telos Update 7.4",
       "identifier": "telos-update-2026-07-04",
-      "caption": "28 Apps Updated:\n• 10 Health & Fitness\n• 4 Entertainment\n• 4 Education\n• 2 Medical\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Photo & Video",
+      "caption": "30 Apps Updated:\n• 10 Health & Fitness\n• 4 Entertainment\n• 4 Music\n• 2 Medical\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Education\n• 2 Photo & Video",
       "date": "2026-07-04",
       "tintColor": "#02433b",
       "notify": true,
