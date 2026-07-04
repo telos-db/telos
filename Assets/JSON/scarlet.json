@@ -20095,13 +20095,13 @@
       "name": "Infuse",
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "Firecore, LLC",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, InfusePlus, blatantsPatch\n\nInfuse\n\n---\nIgnite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, Mac, and Vision. No need to convert files! Infuse is optimized for iOS 26, with powerful streaming options, Trakt sync, and unmatched AirPlay & subtitle support. Gorgeous interface. Precise controls. And silky-smooth playback.\n\n- PLAY MORE VIDEO TYPES\nA powerful video player that plays just about anything, including MP4, MKV, M4V and MOV – plus many others. Includes support",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nIgnite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, Mac, and Vision. No need to convert files! Infuse is optimized for iOS 26, with powerful streaming options, Trakt sync, and unmatched AirPlay & subtitle support. Gorgeous interface. Precise controls. And silky-smooth playback.\n\n- PLAY MORE VIDEO TYPES\nA powerful video player that plays just about anything, including MP4, MKV, M4V and MOV – plus many others. Includes support",
       "version": "8.4.8",
-      "versionDate": "2026-07-01T18:06:40-00:00",
-      "versionDescription": "Build 8.4.5690 from @blatants",
-      "size": 102043390,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/75/2f/e6752f0d-6382-3024-67c7-4f4cdba6d1a6/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Infuse v8.4.8 Infuse Plus v2.5 blatant Patched.ipa",
+      "versionDate": "2026-07-04T17:30:24-00:00",
+      "versionDescription": "Build 8.4.5690 from @thescholarslounge",
+      "size": 100893872,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/a6/ea/dea6ea46-69ed-5601-3e1d-0acf3ed654e9/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.firecore.infuse-8.4.8-eeveedecrypter.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
@@ -20111,10 +20111,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Infuse v8.4.8 Infuse Plus v2.5 blatant Patched.ipa"
+        "originalFile": "com.firecore.infuse-8.4.8-eeveedecrypter.ipa"
       }
     },
     {
@@ -29547,18 +29547,17 @@
       "bundleIdentifier": "com.sublime.capture",
       "developerName": "Oniri Inc",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nOniri - Your Dream Journal\n\n---\nThe most complete app for keeping a dream journal, analyzing your dreams, and having lucid dreams!\n\n◆ DREAM JOURNALING\n\n□ Write down your dreams and keep track of the emotions, people, places, actions, and many more details about them.\n□ Record oral notes when you don't have time to write them down.\n□ [NEW] Generate images based on your dream! Or search for existing images to add them.\n\n◆ DREAM ANALYSIS\n\n□ Get a personalized, context-based analysis for each of your dreams. Powered by A.I, based",
-      "version": "5.1.0",
-      "versionDate": "2026-06-14T17:55:50-00:00",
-      "versionDescription": "Build 1 from @riftysIPAlibrary",
-      "size": 80998098,
+      "version": "6.0.2",
+      "versionDate": "2026-07-04T17:33:23-00:00",
+      "versionDescription": "Build 104 from @riftysIPAlibrary",
+      "size": 108287776,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/27/e0/9127e005-97b0-923c-b925-da30175fc547/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Oniri - Your Dream Journal-v5.1.0-riftysipas.ipa",
-      "minOSVersion": "18.0",
+      "downloadURL": "https://telos.ftp.sh/ipas/Oniri - Your Dream Journal-v6.0.2-riftysipas.ipa",
+      "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -29566,7 +29565,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Oniri - Your Dream Journal-v5.1.0-riftysipas.ipa"
+        "originalFile": "Oniri - Your Dream Journal-v6.0.2-riftysipas.ipa"
       }
     },
     {
