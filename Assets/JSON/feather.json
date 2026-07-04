@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.mangacrush.ios",
     "com.o-p-e-n.open",
     "com.locket.Locket",
     "com.genau.MoneyCircle",
-    "com.netflix.Netflix",
-    "com.dopedevelopment.Panels"
+    "com.netflix.Netflix"
   ],
   "apps": [
     {
@@ -67923,15 +67923,15 @@
       "name": "Tachimanga",
       "bundleIdentifier": "com.mangacrush.ios",
       "developerName": "Tekbrio LLC",
-      "subtitle": "Tachimanga for iOS",
-      "version": "4.16",
-      "versionDate": "2026-06-30",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.mangacrush.ios-4.16-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nDiscover a new world of manga with Tachimanga.\n- Supports manga in ZIP/CBZ and EPUB formats.\n- Supports reading manga from Komga, which is a self-hosted manga server.\n\nTerms of Use:",
+      "subtitle": "Tweaked with Tachimanga, blatantsPatch",
+      "version": "4.17",
+      "versionDate": "2026-07-04",
+      "versionDescription": "Tweaks: Tachimanga, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tachimanga v4.17 Premium Unlocked blatant Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Tachimanga, blatantsPatch\n\nTachimanga\n\n---\nDiscover a new world of manga with Tachimanga.\n- Supports manga in ZIP/CBZ and EPUB formats.\n- Supports reading manga from Komga, which is a self-hosted manga server.\n\nTerms of Use:",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/a5/f5/faa5f52d-7489-1a48-76a3-6cc00d7b9570/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 117550318,
+      "size": 127459650,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -67947,11 +67947,11 @@
       },
       "versions": [
         {
-          "version": "4.16",
-          "date": "2026-06-30",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.mangacrush.ios-4.16-eeveedecrypter.ipa",
-          "size": 117550318
+          "version": "4.17",
+          "date": "2026-07-04",
+          "localizedDescription": "Tweaks: Tachimanga, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Tachimanga v4.17 Premium Unlocked blatant Patched.ipa",
+          "size": 127459650
         }
       ],
       "category": "entertainment"
