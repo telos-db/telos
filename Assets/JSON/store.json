@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.footballaddicts.livescoreaddicts",
     "com.napper",
     "com.google.ios.youtube",
     "com.revivasoftworks.Snore-Lab",
-    "com.stromming.Plants",
-    "com.reveri.reverihealth"
+    "com.stromming.Plants"
   ],
   "apps": [
     {
@@ -25001,20 +25001,20 @@
       "bundleIdentifier": "com.footballaddicts.livescoreaddicts",
       "developerName": "Forza Football AB",
       "subtitle": "*Tweak:** Legend Unlocked | *Patched ✓**",
-      "version": "7.0.4",
-      "versionDate": "2026-06-25",
+      "version": "7.0.5",
+      "versionDate": "2026-07-04",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Forza Football - Live Scores-v7.0.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Forza Football - Live Scores-v7.0.5-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Legend Unlocked | *Patched ✓**\n\nForza Football - Live Scores",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/5c/6c/645c6ca4-f609-493b-c02e-1af76b7bb6fb/icon_default-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/83/f9/5c83f9ba-dd12-70f7-de0b-f3a3165b7a93/icon_default-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 120234750,
+      "size": 136043586,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/91/7c/a0917c02-ca02-a97c-8fee-ca17efacf80b/02.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/19/3c/8a193cc5-c784-78c1-3c57-9aafee8acb86/03.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/9e/ed/299eed44-7b0e-5f00-1c5b-870b11ade5b1/03.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/3c/0d/813c0d17-0869-a2a2-79ba-4fb9271d1204/04.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/0b/ab/770bab9f-d849-be9f-5f21-43b3a1a0641a/05.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/91/70/dd9170a0-0f44-5dbf-ae42-ca08931b74f1/iPhones__5.5-01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/fe/0d/44fe0d70-d95e-0e29-20ba-6d7b19f55ea1/iPhones__5.5-02.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/c2/c6/c3c2c64d-443f-11d9-329f-281b03c661bc/iPhones__5.5-03.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/b6/d9/a2b6d9cc-1289-3df4-9675-4b1390477296/iPhones__5.5-04.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/4d/4b/3e4d4bc8-5adf-95f2-2806-1e2ca0736953/iPhones__5.5-05.png/392x696bb.png"
       ],
       "appPermissions": {
         "entitlements": [
@@ -25034,11 +25034,11 @@
       },
       "versions": [
         {
-          "version": "7.0.4",
-          "date": "2026-06-25",
+          "version": "7.0.5",
+          "date": "2026-07-04",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Forza Football - Live Scores-v7.0.4-riftysipas.ipa",
-          "size": 120234750
+          "downloadURL": "https://telos.ftp.sh/ipas/Forza Football - Live Scores-v7.0.5-riftysipas.ipa",
+          "size": 136043586
         }
       ],
       "category": "sports"
@@ -80517,7 +80517,7 @@
     {
       "title": "⚙️ Telos Update 7.4",
       "identifier": "telos-update-2026-07-04",
-      "caption": "14 Apps Updated:\n• 6 Health & Fitness\n• 2 Entertainment\n• 2 Medical\n• 2 Lifestyle\n• 2 Photo & Video",
+      "caption": "16 Apps Updated:\n• 4 Health & Fitness\n• 4 Sports\n• 2 Entertainment\n• 2 Medical\n• 2 Lifestyle\n• 2 Photo & Video",
       "date": "2026-07-04",
       "tintColor": "#02433b",
       "notify": true,
