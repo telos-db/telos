@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.nuvio.media",
     "com.ld.TakeBrowser",
     "com.footballaddicts.livescoreaddicts",
     "com.napper",
-    "com.google.ios.youtube",
-    "com.revivasoftworks.Snore-Lab"
+    "com.google.ios.youtube"
   ],
   "apps": [
     {
@@ -45852,14 +45852,14 @@
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "RGN VENTURES LTD",
       "subtitle": "Nuvio for iOS",
-      "version": "0.2.17",
-      "versionDate": "2026-07-03",
+      "version": "0.2.18",
+      "versionDate": "2026-07-04",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.17-Full.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.18-Full.ipa",
       "localizedDescription": "Nuvio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 39093830,
+      "size": 39152131,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -45867,11 +45867,11 @@
       },
       "versions": [
         {
-          "version": "0.2.17",
-          "date": "2026-07-03",
+          "version": "0.2.18",
+          "date": "2026-07-04",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.17-Full.ipa",
-          "size": 39093830
+          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.18-Full.ipa",
+          "size": 39152131
         }
       ],
       "category": "health-&-fitness"
@@ -80517,7 +80517,7 @@
     {
       "title": "⚙️ Telos Update 7.4",
       "identifier": "telos-update-2026-07-04",
-      "caption": "16 Apps Updated:\n• 4 Health & Fitness\n• 2 Entertainment\n• 2 Medical\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Photo & Video",
+      "caption": "24 Apps Updated:\n• 12 Health & Fitness\n• 2 Entertainment\n• 2 Medical\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Photo & Video",
       "date": "2026-07-04",
       "tintColor": "#02433b",
       "notify": true,
