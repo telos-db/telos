@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.chessbook.app",
     "com.sublime.capture",
     "com.firecore.infuse",
     "com.nuvio.media",
-    "com.ld.TakeBrowser",
-    "com.footballaddicts.livescoreaddicts"
+    "com.ld.TakeBrowser"
   ],
   "apps": [
     {
@@ -12543,6 +12543,41 @@
         }
       ],
       "category": "games"
+    },
+    {
+      "name": "Chessbook",
+      "bundleIdentifier": "com.chessbook.app",
+      "developerName": "Chessbook",
+      "subtitle": "Chessbook for iOS",
+      "version": "1.3.30",
+      "versionDate": "2026-07-04",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.chessbook.app-1.3.31-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nChessbook is the fastest way to build a bulletproof opening repertoire.\n\nKey features:\n• Create a custom repertoire\n• Train with spaced repetition\n• Find gaps automatically\n• Avoid obscure moves\n• Handle transpositions\n• Find mistakes in your online games\n• Fast & modern interface\n\n“A fun and simple way to build an opening repertoire based on probabilities of most likely lines. You will actually learn the moves that will happen on the board!”\n—Grandmaster Eugene Perelshteyn\n\nFIND THE GAPS IN YOU",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/a2/ff/91a2ff4d-2ef8-f9fe-a76a-189371083974/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 113864177,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4e/2c/86/4e2c868a-7461-c29c-38b9-f1296b5df9f3/cddce326-4ce3-4aac-b250-5a12c685c82d_ios_home_small.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/46/ad/1e/46ad1e3f-54e9-5635-91a0-1cd3f292a3db/909adffc-b667-4e31-8afa-dca9773a2181_1_APP_IPHONE_55_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6d/a2/fe/6da2fe76-48c8-2627-315b-f5322bc364b4/8470b4bc-c0c2-4a1b-9ce5-274f4ca1c33c_2_APP_IPHONE_55_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/02/70/a9/0270a95a-3b9e-5f3c-6515-31c841bf0cdc/65083f03-6142-4b54-bc23-027a3103d09f_3_APP_IPHONE_55_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/be/e4/49/bee4498b-f474-84b0-4821-21fb0560c1d6/486d8961-66de-4bad-861a-340a7f7b3122_4_APP_IPHONE_55_4.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.3.30",
+          "date": "2026-07-04",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.chessbook.app-1.3.31-eeveedecrypter.ipa",
+          "size": 113864177
+        }
+      ],
+      "category": "education"
     },
     {
       "name": "ChessMovePro",
