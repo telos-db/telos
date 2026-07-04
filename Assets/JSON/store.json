@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.deezer.Deezer",
-    "com.chessbook.app",
-    "com.sublime.capture",
-    "com.firecore.infuse",
-    "com.nuvio.media"
+    "com.sfun.snapedit",
+    "com.hevyapp.hevy",
+    "com.revivasoftworks.Snore-Lab",
+    "com.ideation.Stress",
+    "app.uplens"
   ],
   "apps": [
     {
@@ -29360,14 +29360,14 @@
       "bundleIdentifier": "com.hevyapp.hevy",
       "developerName": "Hevy Studios S.L.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "3.1.1",
-      "versionDate": "2026-07-01",
+      "version": "3.1.2",
+      "versionDate": "2026-07-04",
       "versionDescription": "Tweaks: Hevy, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nHevy - Workout Tracker Gym Log",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/5e/07/e55e071a-5e2f-fe3e-7867-302a87395225/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 119749882,
+      "size": 119227774,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/65/23/a565237a-1107-085e-1071-57c537ce452a/4f85acc6-9488-4d7b-bbc5-96ef1b35a303_screenshot0__U00281_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/20/11/9e2011c2-ef21-e716-c60a-5c2fe0b26297/a66b427f-5742-4ef6-9f1f-7fb2aeb5f927_screenshot1.png/392x696bb.png",
@@ -29404,11 +29404,11 @@
       },
       "versions": [
         {
-          "version": "3.1.1",
-          "date": "2026-07-01",
+          "version": "3.1.2",
+          "date": "2026-07-04",
           "localizedDescription": "Tweaks: Hevy, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_1_Subscription_Unlocked_blatant.ipa",
-          "size": 119749882
+          "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_2_Subscription_Unlocked_blatant.ipa",
+          "size": 119227774
         }
       ],
       "category": "health-&-fitness"
@@ -61069,14 +61069,14 @@
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "6.18.1",
-      "versionDate": "2026-07-03",
+      "version": "6.19",
+      "versionDate": "2026-07-04",
       "versionDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_18_1_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.19 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nSnapEdit: Photo Editor AI",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/cb/0d/5dcb0d82-ae96-8bac-4c11-6782319bb3a4/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 106548471,
+      "size": 106706798,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -61095,11 +61095,11 @@
       },
       "versions": [
         {
-          "version": "6.18.1",
-          "date": "2026-07-03",
+          "version": "6.19",
+          "date": "2026-07-04",
           "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_18_1_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 106548471
+          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit  Photo Editor AI v6.19 Pro Unlocked blatant Patched.ipa",
+          "size": 106706798
         }
       ],
       "category": "photo-&-video"
@@ -61348,15 +61348,15 @@
       "name": "SnoreLab",
       "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
       "developerName": "Reviva Softworks Ltd",
-      "subtitle": "*Tweak:** Satella Injected For Unlocking Subscription | *Patched ✓**",
+      "subtitle": "Subscription Unlocked | Patched",
       "version": "6.4.1",
       "versionDate": "2026-07-04",
-      "versionDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab : Record Your Snoring-v6.4.1-riftysipas.ipa",
-      "localizedDescription": "*Tweak:** Satella Injected For Unlocking Subscription | *Patched ✓**\n\nSnoreLab : Record Your Snoring",
+      "versionDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab_Record_Your_Snoring_v6_4_1_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSnoreLab : Record Your Snoring",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/71/42/497142b4-e607-e91f-bfc4-beed630d564e/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 155220615,
+      "size": 158604728,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -61379,9 +61379,9 @@
         {
           "version": "6.4.1",
           "date": "2026-07-04",
-          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab : Record Your Snoring-v6.4.1-riftysipas.ipa",
-          "size": 155220615
+          "localizedDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab_Record_Your_Snoring_v6_4_1_Subscription_Unlocked_blatant.ipa",
+          "size": 158604728
         }
       ],
       "category": "medical"
@@ -65394,14 +65394,14 @@
       "bundleIdentifier": "com.ideation.Stress",
       "developerName": "One Hundred Bad Ideas Limited",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "3.2.0",
-      "versionDate": "2026-06-20",
+      "version": "3.2.1",
+      "versionDate": "2026-07-04",
       "versionDescription": "Tweaks: StressWatch, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/StressWatch_AI_Stress_Monitor_v3_2_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/StressWatch_AI_Stress_Monitor_v3_2_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nStressWatch: AI Stress Monitor",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/a5/71/37a5714e-35ae-caf2-a7a5-d00d3ad9ec1b/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/05/c9/3305c94b-b235-74bb-d7c9-951ae2fe5fc0/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 353326050,
+      "size": 353812638,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -65426,11 +65426,11 @@
       },
       "versions": [
         {
-          "version": "3.2.0",
-          "date": "2026-06-20",
+          "version": "3.2.1",
+          "date": "2026-07-04",
           "localizedDescription": "Tweaks: StressWatch, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/StressWatch_AI_Stress_Monitor_v3_2_0_Subscription_Unlocked_blatant.ipa",
-          "size": 353326050
+          "downloadURL": "https://telos.ftp.sh/ipas/StressWatch_AI_Stress_Monitor_v3_2_1_Subscription_Unlocked_blatant.ipa",
+          "size": 353812638
         }
       ],
       "category": "health-&-fitness"
@@ -71296,14 +71296,14 @@
       "bundleIdentifier": "app.tripsy.ios",
       "developerName": "Tripsy LLC",
       "subtitle": "Lifetime Unlocked | Patched",
-      "version": "3.8.11",
-      "versionDate": "2026-06-01",
+      "version": "3.8.12",
+      "versionDate": "2026-07-04",
       "versionDescription": "Tweaks: Tripsy, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tripsy_Travel_Planner_v3_8_11_Lifetime_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tripsy_Travel_Planner_v3_8_12_Lifetime_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Lifetime Unlocked | Patched | Tweaked\n\nTripsy: Travel Planner",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/b6/7f/2ab67f55-fcde-f63b-496e-0786efb44ce6/App_Icon_Original-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/d2/29/92d2298d-281a-5b07-77a6-8ae8b9aac7b4/App_Icon_Original-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 130935304,
+      "size": 78112240,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/b6/03/bbb60361-435a-2dd5-4d68-df0468832962/1c2f8b3c-6c0c-4efb-ad74-92f30addd11a_1_opaque.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/02/53/8b025308-9e97-347a-fddf-bd7dae18a60b/2ad203a9-0557-49e9-927a-43f232bde457_2_opaque.png/552x414bb.png",
@@ -71329,11 +71329,11 @@
       },
       "versions": [
         {
-          "version": "3.8.11",
-          "date": "2026-05-23",
+          "version": "3.8.12",
+          "date": "2026-07-04",
           "localizedDescription": "Tweaks: Tripsy, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tripsy_Travel_Planner_v3_8_11_Lifetime_Unlocked_blatant_Patched.ipa",
-          "size": 130935304
+          "downloadURL": "https://telos.ftp.sh/ipas/Tripsy_Travel_Planner_v3_8_12_Lifetime_Unlocked_blatant_Patched.ipa",
+          "size": 78112240
         }
       ],
       "category": "travel"
@@ -72921,14 +72921,14 @@
       "bundleIdentifier": "app.uplens",
       "developerName": "MPGames",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.1.0",
-      "versionDate": "2026-06-16",
+      "version": "4.1.1",
+      "versionDate": "2026-07-04",
       "versionDescription": "Tweaks: Uplens, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Uplens_Photo_&_Video_Editor_v4_1_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Uplens_Photo_&_Video_Editor_v4_1_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nUplens: Photo & Video Editor",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/a6/c1/8ca6c162-7672-a75d-2364-e6e11deccf46/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/49/d3/d449d315-e7fe-84d5-11a1-c43bbffc1398/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 177659930,
+      "size": 177668232,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/0d/af/920daf67-cc96-dd95-5589-037513b2e843/daf3b126-3496-4cd4-b672-86d05ce53882_1-5_U00275-en.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/47/40/6b474032-d7f4-2734-94b1-4add0520fe2f/24864328-dab1-450c-9a87-20009c67cce8_2-5_U00275-en.jpg/392x696bb.jpg",
@@ -72952,11 +72952,11 @@
       },
       "versions": [
         {
-          "version": "4.1.0",
-          "date": "2026-06-16",
+          "version": "4.1.1",
+          "date": "2026-07-04",
           "localizedDescription": "Tweaks: Uplens, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Uplens_Photo_&_Video_Editor_v4_1_0_Subscription_Unlocked_blatant.ipa",
-          "size": 177659930
+          "downloadURL": "https://telos.ftp.sh/ipas/Uplens_Photo_&_Video_Editor_v4_1_1_Subscription_Unlocked_blatant.ipa",
+          "size": 177668232
         }
       ],
       "category": "photo-&-video"
@@ -74625,14 +74625,14 @@
       "bundleIdentifier": "com.frontrow.vlog",
       "developerName": "Ubiquiti Labs, LLC",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "2.5.2",
-      "versionDate": "2026-06-20",
+      "version": "2.16.0",
+      "versionDate": "2026-07-04",
       "versionDescription": "Tweaks: VlogNow, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_5_2_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_16_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nVN: Photo & Video Editor",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/9a/b4/cb9ab4ff-ba1e-6766-6b54-c5f9d60979b1/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/ae/77/acae77db-e5fe-cc70-c331-5becd4f0380b/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 453299413,
+      "size": 456225369,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/7b/a8/177ba862-5fce-c8b0-7ad1-a848dc96383c/en_plus_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/c1/36/f1c136c9-23de-894e-7cb2-6f2222a4a985/en_plus_04.png/392x696bb.png",
@@ -74661,11 +74661,11 @@
       },
       "versions": [
         {
-          "version": "2.5.2",
-          "date": "2026-06-20",
+          "version": "2.16.0",
+          "date": "2026-07-04",
           "localizedDescription": "Tweaks: VlogNow, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_5_2_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 453299413
+          "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_16_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 456225369
         }
       ],
       "category": "photo-&-video"
@@ -79617,15 +79617,15 @@
       "name": "‎WA Business",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
       "developerName": "WhatsApp Inc.",
-      "subtitle": "Cracked",
-      "version": "26.21.74",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiToolsSL\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/net.whatsapp.WhatsAppSMB_26.21.74_watusi3_1.3.15_sl.ipa",
-      "localizedDescription": "Cracked\n\nWatusi for WhatsApp Business",
+      "subtitle": "Tweaked with BlockWAUpdates, ContactSync",
+      "version": "26.25.10",
+      "versionDate": "2026-07-04",
+      "versionDescription": "Tweaks: BlockWAUpdates, ContactSync, CydiaSubstrate, OnlineNotify, Stalky\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/[TG@wabeta_ipa]B_26.25.10_WC.ipa",
+      "localizedDescription": "‎WA Business for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/81/ec/ad81eca8-2eaa-030b-4073-5166976f714e/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 163548619,
+      "size": 156164430,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/75/4e/86754ed1-e732-d4ff-79d5-1fb670efa4bf/01_iOS_Profile.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/ed/39/c6ed3962-4b40-b9b1-2f54-cd6f2a2297ef/02_iOS_Status.png/392x696bb.png",
@@ -79636,18 +79636,20 @@
       "appPermissions": {
         "entitlements": [
           "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.pushkit.unrestricted-voip",
           "com.apple.developer.avfoundation.multitasking-camera-access",
-          "aps-environment",
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.messaging-app",
-          "com.apple.developer.associated-domains",
           "com.apple.developer.siri",
-          "com.apple.developer.calling-app",
+          "com.apple.developer.kernel.extended-virtual-addressing",
           "com.apple.developer.networking.carrier-constrained.app-optimized",
           "com.apple.developer.carplay-messaging",
-          "com.apple.developer.networking.carrier-constrained.appcategory",
-          "com.apple.security.application-groups"
+          "com.apple.security.application-groups",
+          "com.apple.developer.pushkit.unrestricted-voip",
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.calling-app",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.messaging-app",
+          "com.apple.developer.authentication-services.account-creation-requires-phone-number",
+          "com.apple.developer.networking.carrier-constrained.appcategory"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "‎This lets you send photos and videos from your library and save the ones you capture.",
@@ -79668,11 +79670,11 @@
       },
       "versions": [
         {
-          "version": "26.21.74",
-          "date": "2026-06-15",
-          "localizedDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiToolsSL\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/net.whatsapp.WhatsAppSMB_26.21.74_watusi3_1.3.15_sl.ipa",
-          "size": 163548619
+          "version": "26.25.10",
+          "date": "2026-07-04",
+          "localizedDescription": "Tweaks: BlockWAUpdates, ContactSync, CydiaSubstrate, OnlineNotify, Stalky\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/[TG@wabeta_ipa]B_26.25.10_WC.ipa",
+          "size": 156164430
         }
       ],
       "category": "business"
@@ -79845,15 +79847,15 @@
       "name": "‎WhatsApp",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "developerName": "WhatsApp Inc.",
-      "subtitle": "Tweaked with CydiaSubstrate, WGold",
-      "version": "26.22.79",
-      "versionDate": "2026-06-21",
-      "versionDescription": "Tweaks: CydiaSubstrate, WGold\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/‎WhatsApp_26.22.79_WGold_2.1.ipa",
+      "subtitle": "Tweaked with BlockWAUpdates, ContactSync",
+      "version": "26.26.10",
+      "versionDate": "2026-07-04",
+      "versionDescription": "Tweaks: BlockWAUpdates, ContactSync, CydiaSubstrate, OnlineNotify, Stalky\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/[TG@wabeta_ipa]_26.26.10_WC.ipa",
       "localizedDescription": "‎WhatsApp for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/fc/69/5dfc6928-acee-faaa-5c06-9b3b13197ebd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 150727095,
+      "size": 148592598,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/b8/e8/66b8e8e3-f8e8-4c8d-098f-59ba61d270a8/1f8cb34e-74b3-422f-a601-e5f35e7665f7_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/c9/47/bac947f8-5381-1945-4962-08386ce8c3c9/25634664-e3c6-4732-8e2a-f9ca1267441b_2.png/392x696bb.png",
@@ -79863,37 +79865,26 @@
       ],
       "appPermissions": {
         "entitlements": [
-          "com.apple.developer.avfoundation.multitasking-camera-access",
-          "com.apple.developer.networking.wifi-info",
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.authentication-services.autofill-credential-provider",
-          "com.apple.developer.ClassKit-environment",
-          "com.apple.developer.healthkit",
-          "com.apple.developer.healthkit.access",
-          "com.apple.developer.homekit",
-          "com.apple.developer.networking.HotspotConfiguration",
-          "com.apple.developer.icloud-container-development-container-identifiers",
           "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "inter-app-audio",
-          "com.apple.developer.networking.multipath",
-          "com.apple.developer.networking.networkextension",
-          "com.apple.developer.nfc.readersession.formats",
-          "aps-environment",
+          "com.apple.developer.avfoundation.multitasking-camera-access",
+          "com.apple.developer.upi-device-validation",
           "com.apple.developer.siri",
-          "com.apple.external-accessory.wireless-configuration",
-          "com.apple.developer.coremedia.hls.low-latency",
-          "com.apple.developer.devicecheck.appattest-environment",
           "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.healthkit.recalibrate-estimates",
-          "com.apple.developer.weatherkit",
-          "com.apple.developer.kernel.increased-debugging-memory-limit",
-          "com.apple.developer.game-center",
+          "com.apple.developer.networking.carrier-constrained.app-optimized",
+          "com.apple.developer.carplay-messaging",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "com.apple.developer.declared-age-range",
+          "com.apple.developer.pushkit.unrestricted-voip",
+          "com.apple.developer.calling-app",
           "com.apple.developer.kernel.increased-memory-limit",
-          "com.apple.developer.healthkit.background-delivery",
-          "com.apple.developer.user-fonts",
-          "com.apple.developer.applesignin"
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.messaging-app",
+          "com.apple.developer.authentication-services.account-creation-requires-phone-number",
+          "com.apple.developer.networking.carrier-constrained.appcategory"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "‎This lets you send photos and videos from your library and save the ones you capture.",
@@ -79916,11 +79907,11 @@
       },
       "versions": [
         {
-          "version": "26.22.79",
-          "date": "2026-06-21",
-          "localizedDescription": "Tweaks: CydiaSubstrate, WGold\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/‎WhatsApp_26.22.79_WGold_2.1.ipa",
-          "size": 150727095
+          "version": "26.26.10",
+          "date": "2026-07-04",
+          "localizedDescription": "Tweaks: BlockWAUpdates, ContactSync, CydiaSubstrate, OnlineNotify, Stalky\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/[TG@wabeta_ipa]_26.26.10_WC.ipa",
+          "size": 148592598
         }
       ],
       "category": "social-networking"
@@ -80553,7 +80544,7 @@
     {
       "title": "⚙️ Telos Update 7.4",
       "identifier": "telos-update-2026-07-04",
-      "caption": "30 Apps Updated:\n• 10 Health & Fitness\n• 4 Entertainment\n• 4 Music\n• 2 Medical\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Education\n• 2 Photo & Video",
+      "caption": "88 Apps Updated:\n• 18 Health & Fitness\n• 16 Social Networking\n• 16 Business\n• 14 Photo & Video\n• 6 Medical\n• 4 Entertainment\n• 4 Travel\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Education\n• 2 Music",
       "date": "2026-07-04",
       "tintColor": "#02433b",
       "notify": true,
