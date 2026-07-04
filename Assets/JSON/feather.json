@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.revivasoftworks.Snore-Lab",
     "com.stromming.Plants",
     "com.reveri.reverihealth",
     "com.mangacrush.ios",
-    "com.o-p-e-n.open",
-    "com.locket.Locket"
+    "com.o-p-e-n.open"
   ],
   "apps": [
     {
@@ -61775,14 +61775,14 @@
       "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
       "developerName": "Reviva Softworks Ltd",
       "subtitle": "Tweaked with SatellaJailed, Sideloadbypass1",
-      "version": "6.4",
-      "versionDate": "2026-07-02",
+      "version": "6.4.1",
+      "versionDate": "2026-07-04",
       "versionDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab : Record Your Snoring-v6.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab : Record Your Snoring-v6.4.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSnoreLab : Record Your Snoring\n\n---\nThe most popular and innovative app of its kind, SnoreLab records, measures and tracks your snoring and helps you to discover effective ways to reduce it.\n\nSnoreLab has monitored more than 50 million nights of sleep and has helped millions of people to better understand or even eliminate their snoring problem.\n\nThe app is very easy to use: simply set SnoreLab running next to your bed whilst you sleep. In the morning you will discover your Snore Score, exactly when and how loudly you snored, and",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/71/42/497142b4-e607-e91f-bfc4-beed630d564e/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 155223268,
+      "size": 155220615,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -61803,11 +61803,11 @@
       },
       "versions": [
         {
-          "version": "6.4",
-          "date": "2026-07-02",
+          "version": "6.4.1",
+          "date": "2026-07-04",
           "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab : Record Your Snoring-v6.4-riftysipas.ipa",
-          "size": 155223268
+          "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab : Record Your Snoring-v6.4.1-riftysipas.ipa",
+          "size": 155220615
         }
       ],
       "category": "medical"
