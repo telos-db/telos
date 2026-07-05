@@ -41814,6 +41814,32 @@
       }
     },
     {
+      "name": "SuiteSpot",
+      "bundleIdentifier": "io.suitespot.suiteinspector2",
+      "developerName": "SuiteSpot Inc.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nSuiteSpot is an AI-powered platform that helps multifamily operators run maintenance and capital projects more efficiently. By intelligently orchestrating workflows, centralizing operations, and automating routine tasks, we drive down costs, protect assets, and elevate the experience for both residents and on-site teams.",
+      "version": "2.8.0",
+      "versionDate": "2026-07-05T13:21:53-00:00",
+      "versionDescription": "Build 20800001 from @thescholarslounge",
+      "size": 40602384,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/79/83/7479833a-e903-697f-bf55-8d6423113a93/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/io.suitespot.suiteinspector2-2.8.0-eeveedecrypter.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "io.suitespot.suiteinspector2-2.8.0-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "Sumato",
       "bundleIdentifier": "com.talhayavcin.summarize",
       "developerName": "ZipoApps",
