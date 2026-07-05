@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.moonly.Moonly",
+    "com.prisma3D.prisma3D",
+    "com.burbn.instagram",
     "com.huami.LoadController",
-    "nutrition.coach",
-    "com.vertventures.stella",
-    "io.suitespot.suiteinspector2",
-    "com.duuro.moneyCoach"
+    "nutrition.coach"
   ],
   "apps": [
     {
@@ -32787,15 +32787,15 @@
       "name": "Instagram [Regram]",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram, Inc.",
-      "subtitle": "Tweaked with Beegram, CydiaSubstrate",
+      "subtitle": "Tweaked with Regram, RegramExtension",
       "version": "435.0.0",
-      "versionDate": "2026-06-22",
-      "versionDescription": "Tweaks: Beegram, CydiaSubstrate, RegramExtension, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@igbeta_ipa]_435.0.0_BE.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: Beegram, CydiaSubstrate, RegramExtension, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
+      "versionDate": "2026-07-05",
+      "versionDescription": "Tweaks: Regram, RegramExtension\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/Instagram-435-Regram5.1_patch_zarzel.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: Regram, RegramExtension\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/27/d5/0827d502-4f9c-106e-9086-63fbfef56ca6/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 307196691,
+      "size": 316525532,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/c5/c7/b9c5c720-07ca-29c7-a67f-8fd2e2cd2b72/2_iOS_5.5.jpg/392x696bb.jpg",
@@ -32838,10 +32838,10 @@
       "versions": [
         {
           "version": "435.0.0",
-          "date": "2026-06-22",
-          "localizedDescription": "Tweaks: Beegram, CydiaSubstrate, RegramExtension, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/[TG@igbeta_ipa]_435.0.0_BE.ipa",
-          "size": 307196691
+          "date": "2026-07-05",
+          "localizedDescription": "Tweaks: Regram, RegramExtension\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/Instagram-435-Regram5.1_patch_zarzel.ipa",
+          "size": 316525532
         }
       ],
       "category": "photo-&-video"
@@ -42890,14 +42890,14 @@
       "bundleIdentifier": "com.moonly.Moonly",
       "developerName": "Cosmic Vibrations, Inc.",
       "subtitle": "Tweaked with Moonly, blatantsPatch",
-      "version": "2.8.4",
-      "versionDate": "2026-07-03",
+      "version": "2.8.5",
+      "versionDate": "2026-07-05",
       "versionDescription": "Tweaks: Moonly, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Moonly_Moon_Phases_&_Calendar_v2_8_4_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Moonly_Moon_Phases_&_Calendar_v2_8_5_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Moonly, blatantsPatch\n\nMoonly: Moon Phases & Calendar\n\n---\nMoonly: your Personal Astrologer and Spiritual Guide\n\nLife moves fast. Moonly helps you slow down, tune in, and reconnect — with yourself and the Universe. Your personal guide to astrology, moon phases, meditation, mindfulness, and spiritual practices rooted in ancient wisdom, built for real life.\n\nDaily Horoscope & Cosmic Guidance\n\nNo days are the same and your horoscope shouldn't be either. Get a personalized daily horoscope, rituals, and mindful tips based on your unique Birth Chart, so every",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/16/e9/a916e998-6032-15e6-3b09-e73807872be5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 89978783,
+      "size": 128638104,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/7b/41/2a7b410c-f754-e069-97ab-5d2bd88c720e/1763a805-2657-47a8-b660-4ca84c4f773e_1_cover_EN_8.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/c1/ff/a9c1ffe6-95aa-9777-d36a-995a91ad08cf/f0d5937d-5e51-490a-ae6c-c4a2ae3b5915_2_Personal_Tips_EN_8.jpg/392x696bb.jpg",
@@ -42924,11 +42924,11 @@
       },
       "versions": [
         {
-          "version": "2.8.4",
-          "date": "2026-07-03",
+          "version": "2.8.5",
+          "date": "2026-07-05",
           "localizedDescription": "Tweaks: Moonly, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Moonly_Moon_Phases_&_Calendar_v2_8_4_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 89978783
+          "downloadURL": "https://telos.ftp.sh/ipas/Moonly_Moon_Phases_&_Calendar_v2_8_5_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 128638104
         }
       ],
       "category": "lifestyle"
@@ -53575,6 +53575,41 @@
         }
       ],
       "category": "social-networking"
+    },
+    {
+      "name": "Prisma3D",
+      "bundleIdentifier": "com.prisma3D.prisma3D",
+      "developerName": "WondaPix Technologies GmbH",
+      "subtitle": "Prisma3D for iOS",
+      "version": "3.2.6",
+      "versionDate": "2026-07-05",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.prisma3D.prisma3D-3.2.6-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nPrisma 3D is an easy-to-use tool to create 3D models and stunning 3D animated scenes. There are no limits to your creativity. Creating 3D worlds becomes even easier with the help of a modelstore, that includes 3D characters and game animations.\nNo experience in 3D design? Don’t worry! - Prisma 3D helps you learn 3D creation step by step, while at the same time providing the full range of 3D animation and 3D modeling possibilities.\n\nFEATURES\n- Add 3D objects, models, lights & cameras\n- 3D Object",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/c7/65/39c7657e-0e6c-d085-5514-787a9fb82d3b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 57818766,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This app needs access to your photo library to save and share media.",
+          "NSCameraUsageDescription": "Your camera is never used in this app.",
+          "NSMicrophoneUsageDescription": "Your microphone is never used in this app.",
+          "NSLocationWhenInUseUsageDescription": "Your location is never used in this app.",
+          "NSUserTrackingUsageDescription": "This app will use an identifier to deliver personalized ads to you."
+        }
+      },
+      "versions": [
+        {
+          "version": "3.2.6",
+          "date": "2026-07-05",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.prisma3D.prisma3D-3.2.6-eeveedecrypter.ipa",
+          "size": 57818766
+        }
+      ],
+      "category": "graphics-&-design"
     },
     {
       "name": "Privacy Redirect",
