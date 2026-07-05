@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.genau.JournalCircle",
+    "com.mwm.stems",
+    "com.mwm.guitartuner",
     "com.meal.plan.ios",
-    "com.genau.MemoryCircle",
-    "in.muditbhargava.LookUp",
-    "com.stippl.stippl",
-    "com.dopedevelopment.Panels"
+    "com.genau.MemoryCircle"
   ],
   "apps": [
     {
@@ -64000,14 +64000,14 @@
       "bundleIdentifier": "com.mwm.stems",
       "developerName": "MWM",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "5.04.00",
-      "versionDate": "2026-06-23",
+      "version": "5.04.01",
+      "versionDate": "2026-07-05",
       "versionDescription": "Tweaks: Stemz, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Stemz_remover_vocal_audio_pro_v5_04_00_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stemz_remover_vocal_audio_pro_v5_04_01_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nStemz: remover vocal audio pro",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/5d/ea/975dea47-82d4-8bbd-70ad-5ac398d538d5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/41/ca/5b41ca70-3700-36cb-6912-baa537e61d4c/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 317121431,
+      "size": 317132881,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/60/35/45603510-f119-68a1-8b2f-85804e8f7357/eca17049-11d4-4a6d-80b8-d2a7c66f5481_en-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ee/12/a4ee1294-b408-b10c-1c4d-f2bd7d310951/8183a966-cf9c-4df3-a739-9c32fcb46cb2_en-02.jpg/392x696bb.jpg",
@@ -64027,11 +64027,11 @@
       },
       "versions": [
         {
-          "version": "5.04.00",
-          "date": "2026-06-23",
+          "version": "5.04.01",
+          "date": "2026-07-05",
           "localizedDescription": "Tweaks: Stemz, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Stemz_remover_vocal_audio_pro_v5_04_00_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 317121431
+          "downloadURL": "https://telos.ftp.sh/ipas/Stemz_remover_vocal_audio_pro_v5_04_01_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 317132881
         }
       ],
       "category": "music"
@@ -71788,14 +71788,14 @@
       "bundleIdentifier": "com.mwm.guitartuner",
       "developerName": "MWM",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.01.00",
-      "versionDate": "2026-06-29",
+      "version": "4.01.01",
+      "versionDate": "2026-07-05",
       "versionDescription": "Tweaks: TunerPro, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tuner_Pro_Guitar_Tuner_&_Tab_v4_01_00_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tuner_Pro_Guitar_Tuner_&_Tab_v4_01_01_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nTuner Pro: Guitar Tuner & Tab",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/51/08/68510832-21d3-c983-151f-b74d60b16815/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/02/25/5f022515-58e2-ca6e-315c-a5956e1eda7a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 295764753,
+      "size": 296264621,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/28/a0/8728a021-28c4-5ef4-6da9-1a176c8fc4c5/EN_ipad_01.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/a8/80/d4a880e3-4ac2-2aa2-bc3f-0b1b9770299d/EN_ipad_02.png/576x768bb.png",
@@ -71817,11 +71817,11 @@
       },
       "versions": [
         {
-          "version": "4.01.00",
-          "date": "2026-06-29",
+          "version": "4.01.01",
+          "date": "2026-07-05",
           "localizedDescription": "Tweaks: TunerPro, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tuner_Pro_Guitar_Tuner_&_Tab_v4_01_00_Subscription_Unlocked_blatant.ipa",
-          "size": 295764753
+          "downloadURL": "https://telos.ftp.sh/ipas/Tuner_Pro_Guitar_Tuner_&_Tab_v4_01_01_Subscription_Unlocked_blatant.ipa",
+          "size": 296264621
         }
       ],
       "category": "music"
@@ -80653,7 +80653,7 @@
     {
       "title": "⚙️ Telos Update 7.5",
       "identifier": "telos-update-2026-07-05",
-      "caption": "54 Apps Updated:\n• 12 Photo & Video\n• 10 Education\n• 4 Lifestyle\n• 4 Utilities\n• 4 Food & Drink\n• 4 Reference\n• 2 Music\n• 2 News\n• 2 Finance\n• 2 Productivity\n• 2 Health & Fitness\n• 2 Graphics & Design\n• 2 Travel\n• 2 Games",
+      "caption": "60 Apps Updated:\n• 12 Photo & Video\n• 10 Music\n• 8 Education\n• 8 Lifestyle\n• 4 Utilities\n• 2 News\n• 2 Finance\n• 2 Productivity\n• 2 Health & Fitness\n• 2 Graphics & Design\n• 2 Food & Drink\n• 2 Travel\n• 2 Games\n• 2 Reference",
       "date": "2026-07-05",
       "tintColor": "#02433b",
       "notify": true,
