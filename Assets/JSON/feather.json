@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.huami.LoadController",
     "nutrition.coach",
     "com.vertventures.stella",
     "io.suitespot.suiteinspector2",
-    "com.duuro.moneyCoach",
-    "com.joytunes.asla"
+    "com.duuro.moneyCoach"
   ],
   "apps": [
     {
@@ -36294,16 +36294,16 @@
     {
       "name": "LCSign",
       "bundleIdentifier": "com.huami.LoadController",
-      "developerName": "LCS Family of Companies",
+      "developerName": "BrightSign",
       "subtitle": "LCSign for iOS",
       "version": "1.2",
-      "versionDate": "2026-07-01",
+      "versionDate": "2026-07-05",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/LCSign-1.2-1.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n本次更新：\n\n---\nAt LCS, we strive to lead the way in making a difference in people's lives. Our LCS Live Well app offers you easy access to company opportunities and communication such as:\n- Connecting with LCS\n- Career Opportunities\n- Conferences\n- LCS News",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/5f/da/9d5fda4b-0687-345d-f5be-49110d55be85/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/LCSign-1.2-4.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n本次更新：\n\n---\nControl and manage your BrightSign digital signage media player directly from your iPad or iPhone. Select any BrightSign player connected to the local network, and then use your mobile device to change user variables for the current presentation, or to trigger presentation events and transitions.\n\nAll locally connected BrightSign players are automatically detected. Select a player, and controls for that player's presentation are immediately available for real time interaction.\n\nFeatures\n\n· Local",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/51/36/5051362f-34f9-c8ec-67f4-c9f22e73ff3c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 19343968,
+      "size": 19553682,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/af/da/ad/afdaada5-a2ff-d438-a098-e8e0d0503b49/56cb6459-9f75-44c8-be48-75c081cb94b2_IOS-Screenshots_1242x2208_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/af/05/d3/af05d3d1-59be-810e-4ba9-f76daadfd93d/68a8e4cc-a781-4db5-a033-dcf48430c8dc_IOS-Screenshots_1242x2208_5.png/392x696bb.png",
@@ -36320,13 +36320,13 @@
       "versions": [
         {
           "version": "1.2",
-          "date": "2026-07-01",
+          "date": "2026-07-05",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/LCSign-1.2-1.ipa",
-          "size": 19343968
+          "downloadURL": "https://telos.ftp.sh/ipas/LCSign-1.2-4.ipa",
+          "size": 19553682
         }
       ],
-      "category": "business"
+      "category": "utilities"
     },
     {
       "name": "LD",
