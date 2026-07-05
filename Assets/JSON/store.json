@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "nutrition.coach",
     "com.vertventures.stella",
     "io.suitespot.suiteinspector2",
     "com.duuro.moneyCoach",
-    "com.joytunes.asla",
-    "co.bazaart.app"
+    "com.joytunes.asla"
   ],
   "apps": [
     {
@@ -45837,14 +45837,14 @@
       "bundleIdentifier": "nutrition.coach",
       "developerName": "Eclipse Studios",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "2.1.7",
-      "versionDate": "2026-07-01",
+      "version": "2.1.8",
+      "versionDate": "2026-07-05",
       "versionDescription": "Tweaks: NutriCoach, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_7_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_8_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nNutrition Coach: Food tracker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/2d/ac/722dace6-698a-1d4b-cdcf-68abb6545a63/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 73428952,
+      "size": 73431319,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/c6/36/e7c63605-1d22-a72a-fac7-2c684f450697/41392711-be29-4b4a-81aa-f2631d6bffd1_Nutricoach-screenshot-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/2b/f2/a42bf243-4513-c8aa-acff-f4b1ece3d3ed/5f6ea8ed-ee1c-4a9c-9ac4-98f42fce78d0_Nutricoach-screenshot-02.jpg/392x696bb.jpg",
@@ -45869,11 +45869,11 @@
       },
       "versions": [
         {
-          "version": "2.1.7",
-          "date": "2026-07-01",
+          "version": "2.1.8",
+          "date": "2026-07-05",
           "localizedDescription": "Tweaks: NutriCoach, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_7_Subscription_Unlocked_blatant.ipa",
-          "size": 73428952
+          "downloadURL": "https://telos.ftp.sh/ipas/Nutrition_Coach_Food_tracker_v2_1_8_Subscription_Unlocked_blatant.ipa",
+          "size": 73431319
         }
       ],
       "category": "health-&-fitness"
@@ -80618,7 +80618,7 @@
     {
       "title": "⚙️ Telos Update 7.5",
       "identifier": "telos-update-2026-07-05",
-      "caption": "24 Apps Updated:\n• 6 Photo & Video\n• 6 Education\n• 4 Lifestyle\n• 2 Music\n• 2 News\n• 2 Finance\n• 2 Productivity",
+      "caption": "26 Apps Updated:\n• 6 Photo & Video\n• 6 Education\n• 4 Health & Fitness\n• 2 Music\n• 2 News\n• 2 Lifestyle\n• 2 Finance\n• 2 Productivity",
       "date": "2026-07-05",
       "tintColor": "#02433b",
       "notify": true,
