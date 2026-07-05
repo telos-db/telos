@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "co.visualsupply.cam",
     "com.genau.JournalCircle",
     "com.mwm.stems",
     "com.mwm.guitartuner",
-    "com.meal.plan.ios",
-    "com.genau.MemoryCircle"
+    "com.meal.plan.ios"
   ],
   "apps": [
     {
@@ -75137,14 +75137,14 @@
       "bundleIdentifier": "co.visualsupply.cam",
       "developerName": "Visual Supply Company",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "461.5.1",
-      "versionDate": "2026-07-03",
+      "version": "461.5.2",
+      "versionDate": "2026-07-05",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nVSCO: Photo & Video Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/da/df/13dadff7-ba65-d78d-357f-44191bb36fbb/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 209332380,
+      "size": 209332964,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/b0/22/3cb0225e-03cb-363b-dd97-451f113b4481/mzl.iminvglq.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/50/ec/c550ec30-fffa-f371-b7bf-20386ef2fc7d/mzl.rwpqyyls.jpg/576x768bb.jpg",
@@ -75173,11 +75173,11 @@
       },
       "versions": [
         {
-          "version": "461.5.1",
-          "date": "2026-07-03",
+          "version": "461.5.2",
+          "date": "2026-07-05",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_1_Subscription_Unlocked_blatant.ipa",
-          "size": 209332380
+          "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_2_Subscription_Unlocked_blatant.ipa",
+          "size": 209332964
         }
       ],
       "category": "photo-&-video"
@@ -80653,7 +80653,7 @@
     {
       "title": "⚙️ Telos Update 7.5",
       "identifier": "telos-update-2026-07-05",
-      "caption": "60 Apps Updated:\n• 12 Photo & Video\n• 10 Music\n• 8 Education\n• 8 Lifestyle\n• 4 Utilities\n• 2 News\n• 2 Finance\n• 2 Productivity\n• 2 Health & Fitness\n• 2 Graphics & Design\n• 2 Food & Drink\n• 2 Travel\n• 2 Games\n• 2 Reference",
+      "caption": "58 Apps Updated:\n• 16 Photo & Video\n• 8 Education\n• 6 Music\n• 6 Lifestyle\n• 4 Utilities\n• 2 News\n• 2 Finance\n• 2 Productivity\n• 2 Health & Fitness\n• 2 Graphics & Design\n• 2 Food & Drink\n• 2 Travel\n• 2 Games\n• 2 Reference",
       "date": "2026-07-05",
       "tintColor": "#02433b",
       "notify": true,
