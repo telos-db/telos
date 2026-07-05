@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "co.bazaart.app",
     "com.lightricks.Facetune2",
     "com.joytunes.Sing",
     "com.stebtech.lingora",
-    "com.sfun.snapedit",
-    "com.reddit.Reddit"
+    "com.sfun.snapedit"
   ],
   "apps": [
     {
@@ -6587,15 +6587,15 @@
       "name": "Bazaart",
       "bundleIdentifier": "co.bazaart.app",
       "developerName": "Bazaart Ltd.",
-      "subtitle": "Tweaked with BazaartAIPhotoEditorDesignPatch",
-      "version": "26.3.7",
-      "versionDate": "2026-07-01",
-      "versionDescription": "Tweaks: BazaartAIPhotoEditorDesignPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bazaart Premium 26.3.7.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: BazaartAIPhotoEditorDesignPatch\n\nBazaart: Design, Photo & Video\n\n---\nBazaart is an easy-to-use AI photo editor, video editor, and design app. No design background needed. Create fast for online selling, digital marketing, and social media. Get your design superpowers today!\n\nWhat you can make\n\nFor your business:\nProduct photos, model shots, home listings, profile pics, logos, flyers, ads, posters.\n\nFor your social media:\nReels, TikTok videos, stories, posts, slideshows, thumbnails, stop motion videos.\n\nFor your everyday life:\nCollages, cards, invitations, memes,",
+      "subtitle": "Tweaked with Bazaart, blatantsPatch",
+      "version": "26.3.8",
+      "versionDate": "2026-07-05",
+      "versionDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bazaart_AI_Photo_Editor_Design_v26_3_8_Premium_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Bazaart, blatantsPatch\n\nBazaart AI Photo Editor Design\n\n---\nBazaart is an easy-to-use AI photo editor, video editor, and design app. No design background needed. Create fast for online selling, digital marketing, and social media. Get your design superpowers today!\n\nWhat you can make\n\nFor your business:\nProduct photos, model shots, home listings, profile pics, logos, flyers, ads, posters.\n\nFor your social media:\nReels, TikTok videos, stories, posts, slideshows, thumbnails, stop motion videos.\n\nFor your everyday life:\nCollages, cards, invitations, memes,",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/aa/ee/58aaee6f-bae7-5a3b-40fa-af0639a50cd7/Bazaart_Icon_v3-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 102836614,
+      "size": 104932767,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -6617,11 +6617,11 @@
       },
       "versions": [
         {
-          "version": "26.3.7",
-          "date": "2026-07-01",
-          "localizedDescription": "Tweaks: BazaartAIPhotoEditorDesignPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bazaart Premium 26.3.7.ipa",
-          "size": 102836614
+          "version": "26.3.8",
+          "date": "2026-07-05",
+          "localizedDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Bazaart_AI_Photo_Editor_Design_v26_3_8_Premium_Unlocked_blatant.ipa",
+          "size": 104932767
         }
       ],
       "category": "photo-&-video"
