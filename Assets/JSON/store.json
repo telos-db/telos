@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.joytunes.asla",
     "co.bazaart.app",
     "com.lightricks.Facetune2",
     "com.joytunes.Sing",
-    "com.stebtech.lingora",
-    "com.sfun.snapedit"
+    "com.stebtech.lingora"
   ],
   "apps": [
     {
@@ -59860,14 +59860,14 @@
       "bundleIdentifier": "com.joytunes.asla",
       "developerName": "Simply Ltd",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "9.10.76",
-      "versionDate": "2026-07-01",
+      "version": "9.10.77",
+      "versionDate": "2026-07-05",
       "versionDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Piano_Learn_Piano_Fast_v9_10_76_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Piano_Learn_Piano_Fast_v9_10_77_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSimply Piano: Learn Piano Fast",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/10/a9/2f10a9f1-0b36-7236-3f3a-086a753ae45a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 167639831,
+      "size": 167773228,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/df/82/08df8229-bd28-58e7-798d-ef8b9cf7c494/01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/d1/7c/44d17cee-2d5b-02bd-afc7-9375fed307e0/2.jpg/392x696bb.jpg",
@@ -59894,11 +59894,11 @@
       },
       "versions": [
         {
-          "version": "9.10.76",
-          "date": "2026-07-01",
+          "version": "9.10.77",
+          "date": "2026-07-05",
           "localizedDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Piano_Learn_Piano_Fast_v9_10_76_Subscription_Unlocked_blatant.ipa",
-          "size": 167639831
+          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Piano_Learn_Piano_Fast_v9_10_77_Subscription_Unlocked_blatant.ipa",
+          "size": 167773228
         }
       ],
       "category": "education"
@@ -80581,7 +80581,7 @@
     {
       "title": "⚙️ Telos Update 7.5",
       "identifier": "telos-update-2026-07-05",
-      "caption": "16 Apps Updated:\n• 8 Photo & Video\n• 4 Education\n• 2 Music\n• 2 News",
+      "caption": "18 Apps Updated:\n• 8 Education\n• 6 Photo & Video\n• 2 Music\n• 2 News",
       "date": "2026-07-05",
       "tintColor": "#02433b",
       "notify": true,
