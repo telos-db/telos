@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.vertventures.stella",
     "io.suitespot.suiteinspector2",
     "com.duuro.moneyCoach",
     "com.joytunes.asla",
-    "co.bazaart.app",
-    "com.lightricks.Facetune2"
+    "co.bazaart.app"
   ],
   "apps": [
     {
@@ -5237,14 +5237,14 @@
       "bundleIdentifier": "com.vertventures.stella",
       "developerName": "Vert Ventures",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.12.30",
-      "versionDate": "2026-07-02",
+      "version": "3.12.31",
+      "versionDate": "2026-07-05",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.30-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.31-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nAstra - Life Advice\n\n---\nWork through life challenges. Talk about compatibility with friends and romantic interests. Discuss personal growth. Learn about your dreams. All of this and more is at your fingertips with Astra!\n\nIf you have any questions comments or feedback, please email us astracontact111@gmail.com\n\nTerms:\n\nAccess to Astra requires a paid subscription",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/8d/2f/068d2f3d-a97c-a7d2-e4a0-b02bc8c8db7e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/c4/8f/78c48fc1-5326-a437-dc9a-4dd70dc0611f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 80239833,
+      "size": 80019256,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/d5/e2/6bd5e202-c048-b4cb-712b-af6417ff5b55/2fe2b2a5-46d8-4e8f-bc0b-77a923776e42_Frame_832.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/70/54/6a705462-1826-1556-7c33-714f49e9f94a/b86cb528-6044-44eb-9a6a-d61ab51ec09a_Frame_822.jpg/392x696bb.jpg",
@@ -5269,11 +5269,11 @@
       },
       "versions": [
         {
-          "version": "3.12.30",
-          "date": "2026-07-02",
+          "version": "3.12.31",
+          "date": "2026-07-05",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.30-riftysipas.ipa",
-          "size": 80239833
+          "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.31-riftysipas.ipa",
+          "size": 80019256
         }
       ],
       "category": "lifestyle"
