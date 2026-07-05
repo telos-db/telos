@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.lightricks.Facetune2",
     "com.joytunes.Sing",
     "com.stebtech.lingora",
     "com.sfun.snapedit",
-    "com.reddit.Reddit",
-    "com.lotuschess.app"
+    "com.reddit.Reddit"
   ],
   "apps": [
     {
@@ -21607,14 +21607,14 @@
       "bundleIdentifier": "com.lightricks.Facetune2",
       "developerName": "Lightricks Ltd.",
       "subtitle": "Tweaked with Facetune, blatantsPatch",
-      "version": "26.18",
-      "versionDate": "2026-06-29",
+      "version": "26.19",
+      "versionDate": "2026-07-05",
       "versionDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_18_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_19_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Facetune, blatantsPatch, sideloadKeychainfix\n\nFacetune: Photo & Video Editor\n\n---\nWelcome to Facetune, where every photo hits.\nYour camera captures the moment. Facetune makes it unforgettable. From quick touch-ups to full transformations, we've built the tools that let you show up exactly how you want.\n‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿\n\nKey Features:\n\nRetouch & Refine:\n Smooth: Achieve a natural, flawless complexion by removing blemishes and imperfections instantly.\n Reshape: Subtly enhance your features with precise, natural-looking adjustments.\n Whiten: Brighten your s",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/bd/0b/24bd0ba0-1648-a278-f6f6-173fe83ef2f8/AppIconLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/bb/f0/1cbbf08f-9b1d-5ad4-933c-8d8a1b0b5737/AppIconLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 424440930,
+      "size": 433109689,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/e1/25/81e125c3-0cff-38ab-c643-3cc8ebd60281/FT-250819-ASO-Baseline-5.5-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/52/66/e1526682-7c10-2655-d24a-0f0047c6fe71/FT-250819-ASO-Baseline-5.5-02.jpg/392x696bb.jpg",
@@ -21640,11 +21640,11 @@
       },
       "versions": [
         {
-          "version": "26.18",
-          "date": "2026-06-29",
+          "version": "26.19",
+          "date": "2026-07-05",
           "localizedDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_18_Subscription_Unlocked_blatant.ipa",
-          "size": 424440930
+          "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_19_Subscription_Unlocked_blatant.ipa",
+          "size": 433109689
         }
       ],
       "category": "photo-&-video"
