@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.lotuschess.app",
     "com.leshko.cloudplayer",
     "com.frameoneapps.Crsel",
     "com.upskew.encode.ios",
-    "com.solveit.lut-studio",
-    "com.sfun.snapedit"
+    "com.solveit.lut-studio"
   ],
   "apps": [
     {
@@ -38313,6 +38313,38 @@
         }
       ],
       "category": "games"
+    },
+    {
+      "name": "Lotus Chess",
+      "bundleIdentifier": "com.lotuschess.app",
+      "developerName": "Lotus Chess UG",
+      "subtitle": "Lotus Chess for iOS",
+      "version": "2.6.2",
+      "versionDate": "2026-07-05",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.lotuschess.app-2.6.2-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/38/3f/27383fb9-7120-b8b6-f921-c1835b21c793/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 111850394,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This app does not require access to your photos, but it is needed by a third-party component for proper functionality.",
+          "NSUserTrackingUsageDescription": "We use device tracking to measure ad campaign performance and improve acquisition."
+        }
+      },
+      "versions": [
+        {
+          "version": "2.6.2",
+          "date": "2026-05-20",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.lotuschess.app-2.6.2-eeveedecrypter.ipa",
+          "size": 111850394
+        }
+      ],
+      "category": "education"
     },
     {
       "name": "Loupe",
@@ -80542,11 +80574,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 7.5",
+      "identifier": "telos-update-2026-07-05",
+      "caption": "4 Apps Updated:\n• 4 Education",
+      "date": "2026-07-05",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "com.lotuschess.app"
+    },
+    {
       "title": "⚙️ Telos Update 7.4",
       "identifier": "telos-update-2026-07-04",
       "caption": "66 Apps Updated:\n• 14 Health & Fitness\n• 12 Photo & Video\n• 8 Social Networking\n• 8 Business\n• 4 Entertainment\n• 4 Medical\n• 4 Education\n• 4 Music\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Travel",
       "date": "2026-07-04",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.mangacrush.ios"
     },
@@ -80555,7 +80596,7 @@
       "identifier": "telos-update-2026-07-03",
       "caption": "74 Apps Updated:\n• 20 Photo & Video\n• 12 Health & Fitness\n• 10 Utilities\n• 6 Lifestyle\n• 6 Games\n• 4 Productivity\n• 4 Music\n• 4 Education\n• 2 Graphics & Design\n• 2 Weather\n• 2 Entertainment\n• 2 Social Networking",
       "date": "2026-07-03",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.genau.JournalCircle"
     },
@@ -80564,7 +80605,7 @@
       "identifier": "telos-update-2026-07-02",
       "caption": "101 Apps Updated:\n• 25 Photo & Video\n• 15 Health & Fitness\n• 12 Games\n• 9 Lifestyle\n• 8 Medical\n• 5 Music\n• 4 Food & Drink\n• 4 Navigation\n• 4 Shopping\n• 3 Productivity\n• 2 Books\n• 2 Finance\n• 2 Utilities\n• 2 Sports\n• 2 Education\n• 2 Entertainment",
       "date": "2026-07-02",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "health.sleep.sounds.tracker.alarm.calm"
     },
@@ -80573,7 +80614,7 @@
       "identifier": "telos-update-2026-07-01",
       "caption": "151 Apps Updated:\n• 29 Health & Fitness\n• 23 Photo & Video\n• 14 Games\n• 12 Education\n• 10 Utilities\n• 9 Productivity\n• 8 Entertainment\n• 7 Music\n• 5 Lifestyle\n• 4 Developer Tools\n• 4 Finance\n• 4 Travel\n• 4 Social Networking\n• 4 Food & Drink\n• 2 Business\n• 2 Medical\n• 2 Graphics & Design\n• 2 Weather\n• 2 Navigation\n• 2 Sports\n• 2 News",
       "date": "2026-07-01",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "co.vulcanlabs.moodtracker"
     },
@@ -80582,7 +80623,7 @@
       "identifier": "telos-update-2026-06-30",
       "caption": "104 Apps Updated:\n• 26 Health & Fitness\n• 14 Games\n• 12 Photo & Video\n• 10 Entertainment\n• 8 Productivity\n• 8 Music\n• 6 Weather\n• 6 Lifestyle\n• 4 Education\n• 2 Business\n• 2 Food & Drink\n• 2 Travel\n• 2 Medical\n• 2 Utilities",
       "date": "2026-06-30",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.andyworks.camera"
     },
@@ -80591,7 +80632,7 @@
       "identifier": "telos-update-2026-06-29",
       "caption": "82 Apps Updated:\n• 18 Photo & Video\n• 12 Education\n• 12 Health & Fitness\n• 6 Entertainment\n• 6 Games\n• 4 Productivity\n• 4 Utilities\n• 4 Finance\n• 4 Music\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Sports\n• 2 Social Networking\n• 2 Navigation\n• 2 News",
       "date": "2026-06-29",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.intsig.CamScannerLite"
     },
@@ -80600,7 +80641,7 @@
       "identifier": "telos-update-2026-06-28",
       "caption": "36 Apps Updated:\n• 8 Health & Fitness\n• 6 Photo & Video\n• 4 Music\n• 4 Productivity\n• 4 News\n• 2 Games\n• 2 Lifestyle\n• 2 Finance\n• 2 Education\n• 2 Food & Drink",
       "date": "2026-06-28",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.spotify.client"
     },
@@ -80609,7 +80650,7 @@
       "identifier": "telos-update-2026-06-27",
       "caption": "48 Apps Updated:\n• 6 Productivity\n• 6 Health & Fitness\n• 5 Photo & Video\n• 5 Graphics & Design\n• 4 Education\n• 4 Business\n• 2 Music\n• 2 Social Networking\n• 2 News\n• 2 Finance\n• 2 Entertainment\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Games",
       "date": "2026-06-27",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.withopal.opal"
     },
@@ -80618,18 +80659,9 @@
       "identifier": "telos-update-2026-06-26",
       "caption": "84 Apps Updated:\n• 21 Photo & Video\n• 10 Productivity\n• 8 Utilities\n• 8 Health & Fitness\n• 6 Games\n• 6 Weather\n• 5 Graphics & Design\n• 4 Lifestyle\n• 4 News\n• 4 Entertainment\n• 4 Medical\n• 2 Education\n• 2 Developer Tools",
       "date": "2026-06-26",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "cameronnazemi.Tappy"
-    },
-    {
-      "title": "⚙️ Telos Update 6.25",
-      "identifier": "telos-update-2026-06-25",
-      "caption": "94 Apps Updated:\n• 20 Photo & Video\n• 20 Health & Fitness\n• 8 Games\n• 8 Productivity\n• 6 Education\n• 6 Utilities\n• 4 Music\n• 4 Entertainment\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Business\n• 2 Sports\n• 2 Finance\n• 2 Books\n• 2 Developer Tools\n• 2 News\n• 2 Navigation",
-      "date": "2026-06-25",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.miniclip.8ballpoolmult"
+      "appID": "cameronnazemi.Tappy"
     }
   ]
 }
