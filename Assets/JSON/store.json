@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.meal.plan.ios",
+    "com.genau.MemoryCircle",
+    "in.muditbhargava.LookUp",
     "com.stippl.stippl",
-    "com.dopedevelopment.Panels",
-    "com.genau.MoneyCircle",
-    "com.easybrain.crossword.puzzles",
-    "com.moonly.Moonly"
+    "com.dopedevelopment.Panels"
   ],
   "apps": [
     {
@@ -15222,14 +15222,14 @@
       "bundleIdentifier": "com.meal.plan.ios",
       "developerName": "Crouton LLC",
       "subtitle": "*Tweak:** Plus Unlocked | *Patched ✓**",
-      "version": "2026.1",
-      "versionDate": "2026-06-13",
+      "version": "2026.1.1",
+      "versionDate": "2026-07-05",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Crouton: Recipe Manager-v2026.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Crouton: Recipe Manager-v2026.1.1-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Plus Unlocked | *Patched ✓**\n\nCrouton: Recipe Manager",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/c0/6d/08c06ddd-b628-0065-0a62-5ff32d0e6ac0/AppIcon-0-1x_U007epad-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 334379599,
+      "size": 335088448,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/6e/54/0c6e542a-c9ea-cd52-3624-218e4c735461/a5de2fc4-6635-460f-b7d7-97a748652005_1._Meal_Detail.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/9a/3e/c19a3e8b-4836-30cd-1a27-dff9d6dc2883/ce8e3d9b-8588-4064-a914-074e6ef825b0_2._Timers.png/392x696bb.png",
@@ -15250,23 +15250,23 @@
           "com.apple.security.application-groups"
         ],
         "privacy": {
-          "NSPhotoLibraryUsageDescription": "Crouton requires access to photos to add photos to your recipes",
-          "NSCameraUsageDescription": "Crouton requires access to the camera to take photos for your recipes, scan ingredients and also use TrueDepth to track your face in the step by step hands free navigation",
-          "NSLocationWhenInUseUsageDescription": "Crouton requires your location to determine weather conditions for displaying in the meal plan",
-          "NSRemindersUsageDescription": "Crouton requires access to reminders in order to manage your grocery list",
-          "NSSiriUsageDescription": "Share Meals with Siri to find out information about your meals",
-          "NSBluetoothAlwaysUsageDescription": "Bluetooth is used to communicate with hardware products.",
-          "NSBluetoothPeripheralUsageDescription": "Bluetooth is used to communicate with hardware products.",
-          "NSPhotoLibraryAddUsageDescription": "Crouton requires library access to save QR code links for recipes"
+          "NSPhotoLibraryUsageDescription": "Crouton uses your photo library so you can choose recipe images and import recipe photos from your library.",
+          "NSCameraUsageDescription": "Crouton uses the camera to photograph recipes, scan recipe text and ingredients, scan recipe QR codes, and use TrueDepth face tracking for hands-free step navigation.",
+          "NSLocationWhenInUseUsageDescription": "Crouton uses your location to show local weather alongside your meal plan.",
+          "NSRemindersUsageDescription": "Crouton uses Reminders to create and sync your grocery list with Apple's Reminders app.",
+          "NSSiriUsageDescription": "Crouton uses Siri so you can ask about meals, start recipe timers, and open recipe-related shortcuts by voice.",
+          "NSBluetoothAlwaysUsageDescription": "Crouton uses Bluetooth to discover and connect to supported cooking hardware, such as temperature probes and kitchen scales.",
+          "NSBluetoothPeripheralUsageDescription": "Crouton uses Bluetooth to read measurements from supported cooking hardware, such as temperature probes and kitchen scales.",
+          "NSPhotoLibraryAddUsageDescription": "Crouton saves recipe QR codes to your photo library so you can share or print links to your recipes."
         }
       },
       "versions": [
         {
-          "version": "2026.1",
-          "date": "2026-04-20",
+          "version": "2026.1.1",
+          "date": "2026-07-05",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Crouton: Recipe Manager-v2026.1-riftysipas.ipa",
-          "size": 334379599
+          "downloadURL": "https://telos.ftp.sh/ipas/Crouton: Recipe Manager-v2026.1.1-riftysipas.ipa",
+          "size": 335088448
         }
       ],
       "category": "food-&-drink"
@@ -38188,14 +38188,14 @@
       "bundleIdentifier": "in.muditbhargava.LookUp",
       "developerName": "Squircle Apps LLP",
       "subtitle": "Patched | Tweaked",
-      "version": "12.1",
-      "versionDate": "2026-06-08",
+      "version": "12.1.1",
+      "versionDate": "2026-07-05",
       "versionDescription": "Tweaks: LookUp, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/LookUp_English_Dictionary_App_v12_1_LookUp+_Lifetime_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LookUp_English_Dictionary_App_v12_1_1_LookUp+_Lifetime_blatant_Patched.ipa",
       "localizedDescription": "Patched | Tweaked\n\nLookUp: English Dictionary App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/5c/c0/b15cc0af-b4a7-c9d9-c48b-aeda4033b7da/LiquidLookUp-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 207324891,
+      "size": 207279206,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/4f/a2/c44fa277-f9bf-faff-c5d9-935edb2a0f36/362a8c77-8d5c-4df3-b2ef-b1ba69963348_Zones_1_Copy_11.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/bb/9f/68bb9f57-253e-2ce7-c9e0-f5661a16e74d/716d0024-9e26-4d8d-b6dd-3b4a85aac439_Zones_1_Copy_5.png/392x696bb.png",
@@ -38220,11 +38220,11 @@
       },
       "versions": [
         {
-          "version": "12.1",
-          "date": "2026-06-05",
+          "version": "12.1.1",
+          "date": "2026-07-05",
           "localizedDescription": "Tweaks: LookUp, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/LookUp_English_Dictionary_App_v12_1_LookUp+_Lifetime_blatant_Patched.ipa",
-          "size": 207324891
+          "downloadURL": "https://telos.ftp.sh/ipas/LookUp_English_Dictionary_App_v12_1_1_LookUp+_Lifetime_blatant_Patched.ipa",
+          "size": 207279206
         }
       ],
       "category": "reference"
@@ -74784,14 +74784,14 @@
       "bundleIdentifier": "com.genau.MemoryCircle",
       "developerName": "Genau Factory",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "3.2.8",
-      "versionDate": "2026-06-13",
+      "version": "3.2.9",
+      "versionDate": "2026-07-05",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/VocaCircle: AI Smart Flashcard-v3.2.8-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/VocaCircle: AI Smart Flashcard-v3.2.9-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nVocaCircle: AI Smart Flashcard",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/7e/7d/d87e7dce-f27f-1bec-6ffd-c962a9e1d393/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 14615428,
+      "size": 14643690,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -74806,11 +74806,11 @@
       },
       "versions": [
         {
-          "version": "3.2.8",
-          "date": "2026-06-13",
+          "version": "3.2.9",
+          "date": "2026-07-05",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/VocaCircle: AI Smart Flashcard-v3.2.8-riftysipas.ipa",
-          "size": 14615428
+          "downloadURL": "https://telos.ftp.sh/ipas/VocaCircle: AI Smart Flashcard-v3.2.9-riftysipas.ipa",
+          "size": 14643690
         }
       ],
       "category": "education"
@@ -80653,7 +80653,7 @@
     {
       "title": "⚙️ Telos Update 7.5",
       "identifier": "telos-update-2026-07-05",
-      "caption": "42 Apps Updated:\n• 12 Photo & Video\n• 6 Education\n• 4 Lifestyle\n• 4 Utilities\n• 2 Music\n• 2 News\n• 2 Finance\n• 2 Productivity\n• 2 Health & Fitness\n• 2 Graphics & Design\n• 2 Travel\n• 2 Games",
+      "caption": "54 Apps Updated:\n• 12 Photo & Video\n• 10 Education\n• 4 Lifestyle\n• 4 Utilities\n• 4 Food & Drink\n• 4 Reference\n• 2 Music\n• 2 News\n• 2 Finance\n• 2 Productivity\n• 2 Health & Fitness\n• 2 Graphics & Design\n• 2 Travel\n• 2 Games",
       "date": "2026-07-05",
       "tintColor": "#02433b",
       "notify": true,
