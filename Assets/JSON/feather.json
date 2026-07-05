@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "co.visualsupply.cam",
     "com.genau.JournalCircle",
     "com.mwm.stems",
     "com.mwm.guitartuner",
-    "com.meal.plan.ios",
-    "com.genau.MemoryCircle"
+    "com.meal.plan.ios"
   ],
   "apps": [
     {
@@ -76144,14 +76144,14 @@
       "bundleIdentifier": "co.visualsupply.cam",
       "developerName": "Visual Supply Company",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "461.5.1",
-      "versionDate": "2026-07-03",
+      "version": "461.5.2",
+      "versionDate": "2026-07-05",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nVSCO: Photo & Video Editor\n\n---\nWelcome to VSCO — your complete photography platform solution for unmatched photo filters, AI photo editing, video editing, portfolio sites, client workflows, and community. VSCO is where photographers turn pro.\n\nGet access to a premium AI photo editor that provides precision and quality. From editing with our photo presets that match your style to delivering stunning client photo galleries, the VSCO photo and video editing app is a seamless way to run your photography business in one place. Dow",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/da/df/13dadff7-ba65-d78d-357f-44191bb36fbb/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 209332380,
+      "size": 209332964,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/b0/22/3cb0225e-03cb-363b-dd97-451f113b4481/mzl.iminvglq.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/50/ec/c550ec30-fffa-f371-b7bf-20386ef2fc7d/mzl.rwpqyyls.jpg/576x768bb.jpg",
@@ -76180,11 +76180,11 @@
       },
       "versions": [
         {
-          "version": "461.5.1",
-          "date": "2026-07-03",
+          "version": "461.5.2",
+          "date": "2026-07-05",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_1_Subscription_Unlocked_blatant.ipa",
-          "size": 209332380
+          "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_2_Subscription_Unlocked_blatant.ipa",
+          "size": 209332964
         }
       ],
       "category": "photo-&-video"
