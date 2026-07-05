@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.joytunes.Sing",
     "com.stebtech.lingora",
     "com.sfun.snapedit",
     "com.reddit.Reddit",
-    "com.lotuschess.app",
-    "com.leshko.cloudplayer"
+    "com.lotuschess.app"
   ],
   "apps": [
     {
@@ -60367,15 +60367,15 @@
       "name": "SimplySing",
       "bundleIdentifier": "com.joytunes.Sing",
       "developerName": "Simply Ltd",
-      "subtitle": "Tweaked with SimplySingPatch",
-      "version": "3.0.2",
-      "versionDate": "2026-03-22",
-      "versionDescription": "Tweaks: SimplySingPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Simply.Sing.Premium.3.0.2.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: SimplySingPatch\n\nSimply Sing: My Singing App\n\n---\nWith Simply Sing, you’ll feel confident singing the songs you love.\n\nIf you've ever felt that singing well was beyond your reach, that changes now.​ Believing you can starts here.\n\nNAIL SONGS YOU LOVE\nNo more struggling to hit notes—the app finds your voice type, adjusts songs to you, and gives feedback to help you sing them better\n\nGROW WITH SINGING TIPS\nStart with easy songs and unlock levels to take on more challenging ones, with daily tips that keep you growing\n\nLEVEL UP YOUR CONFIDENCE\nThe",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/44/37/2444370c-d825-715a-08b9-66236a2de10a/AppIcon-new-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "subtitle": "Tweaked with SimplyCrack, blatantsPatch",
+      "version": "3.0.3",
+      "versionDate": "2026-07-05",
+      "versionDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Sing_My_Singing_App_v3_0_3_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SimplyCrack, blatantsPatch\n\nSimply Sing: My Singing App\n\n---\nWith Simply Sing, you’ll feel confident singing the songs you love.\n\nIf you've ever felt that singing well was beyond your reach, that changes now.​ Believing you can starts here.\n\nNAIL SONGS YOU LOVE\nNo more struggling to hit notes—the app finds your voice type, adjusts songs to you, and gives feedback to help you sing them better\n\nGROW WITH SINGING TIPS\nStart with easy songs and unlock levels to take on more challenging ones, with daily tips that keep you growing\n\nLEVEL UP YOUR CONFIDENCE\nThe",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/c7/3d/8cc73d9a-bf5a-eb08-4aec-23f943ff3ecf/AppIcon-new-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 96195404,
+      "size": 128443427,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/a8/6d/caa86d47-4f66-38fd-6de1-45c8e344271d/80124bc5-c119-4a00-980e-1131fb7afd56_5.5_-_7.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/cb/e3/b2cbe3c2-d630-8c72-c076-c4c81b365fc9/a9b51ee4-6e46-4cdb-82e1-c37a243b9d4e_5.5_-_8.jpg/392x696bb.jpg",
@@ -60384,7 +60384,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/2b/d6/4c2bd6d9-764d-97ee-b3f7-c71ecf609e7b/caec5150-8dad-40eb-b447-49efea4eec52_5.5_-_11.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Send photos to help resolve app issues",
           "NSMicrophoneUsageDescription": "Simply Sing needs to listen to your voice in order to adapt songs to your vocal range",
@@ -60396,11 +60401,11 @@
       },
       "versions": [
         {
-          "version": "3.0.2",
-          "date": "2026-03-22",
-          "localizedDescription": "Tweaks: SimplySingPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Simply.Sing.Premium.3.0.2.ipa",
-          "size": 96195404
+          "version": "3.0.3",
+          "date": "2026-07-05",
+          "localizedDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Sing_My_Singing_App_v3_0_3_Subscription_Unlocked_blatant.ipa",
+          "size": 128443427
         }
       ],
       "category": "music"
