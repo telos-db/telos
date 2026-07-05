@@ -24131,6 +24131,32 @@
       }
     },
     {
+      "name": "Lotus Chess",
+      "bundleIdentifier": "com.lotuschess.app",
+      "developerName": "Lotus Chess UG",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nLotus Chess is a powerful chess training app designed to help you improve faster than any other chess learning app. It provides a complete system for mastering openings, tactics, and endgames.\n\nJoin more than 250.000 chess learners across the world — from beginners starting with the fundamentals to competitive players with 2300 Elo.\n\nUnlike most apps — which focus on engine-perfect theory — Lotus Chess teaches attacking chess that helps you win against human opponents.\n\n---\n\nOpening Training Bui",
+      "version": "2.6.2",
+      "versionDate": "2026-07-05T02:24:48-00:00",
+      "versionDescription": "Build 193 from @thescholarslounge",
+      "size": 111850394,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/38/3f/27383fb9-7120-b8b6-f921-c1835b21c793/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.lotuschess.app-2.6.2-eeveedecrypter.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.lotuschess.app-2.6.2-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "Loupe",
       "bundleIdentifier": "co.mysk.loupe",
       "developerName": "Mysk Inc.",
