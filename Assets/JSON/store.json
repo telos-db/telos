@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "co.bazaart.app",
     "com.lightricks.Facetune2",
     "com.joytunes.Sing",
     "com.stebtech.lingora",
-    "com.sfun.snapedit",
-    "com.reddit.Reddit"
+    "com.sfun.snapedit"
   ],
   "apps": [
     {
@@ -6536,15 +6536,15 @@
       "name": "Bazaart",
       "bundleIdentifier": "co.bazaart.app",
       "developerName": "Bazaart Ltd.",
-      "subtitle": "Pro Features Unlocked",
-      "version": "26.3.7",
-      "versionDate": "2026-07-01",
-      "versionDescription": "Tweaks: BazaartAIPhotoEditorDesignPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bazaart Premium 26.3.7.ipa",
-      "localizedDescription": "Pro Features Unlocked\n\nBazaart: Design, Photo & Video",
+      "subtitle": "Premium Unlocked | Patched",
+      "version": "26.3.8",
+      "versionDate": "2026-07-05",
+      "versionDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bazaart_AI_Photo_Editor_Design_v26_3_8_Premium_Unlocked_blatant.ipa",
+      "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nBazaart AI Photo Editor Design",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/aa/ee/58aaee6f-bae7-5a3b-40fa-af0639a50cd7/Bazaart_Icon_v3-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 102836614,
+      "size": 104932767,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -6566,11 +6566,11 @@
       },
       "versions": [
         {
-          "version": "26.3.7",
-          "date": "2026-06-28",
-          "localizedDescription": "Tweaks: BazaartAIPhotoEditorDesignPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bazaart Premium 26.3.7.ipa",
-          "size": 102836614
+          "version": "26.3.8",
+          "date": "2026-07-05",
+          "localizedDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Bazaart_AI_Photo_Editor_Design_v26_3_8_Premium_Unlocked_blatant.ipa",
+          "size": 104932767
         }
       ],
       "category": "photo-&-video"
@@ -80581,7 +80581,7 @@
     {
       "title": "⚙️ Telos Update 7.5",
       "identifier": "telos-update-2026-07-05",
-      "caption": "14 Apps Updated:\n• 6 Photo & Video\n• 4 Education\n• 2 Music\n• 2 News",
+      "caption": "16 Apps Updated:\n• 8 Photo & Video\n• 4 Education\n• 2 Music\n• 2 News",
       "date": "2026-07-05",
       "tintColor": "#02433b",
       "notify": true,
