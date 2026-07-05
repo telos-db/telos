@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.lotuschess.app",
     "com.leshko.cloudplayer",
     "com.frameoneapps.Crsel",
     "com.upskew.encode.ios",
-    "com.solveit.lut-studio",
-    "com.sfun.snapedit"
+    "com.solveit.lut-studio"
   ],
   "apps": [
     {
@@ -38800,6 +38800,38 @@
         }
       ],
       "category": "games"
+    },
+    {
+      "name": "Lotus Chess",
+      "bundleIdentifier": "com.lotuschess.app",
+      "developerName": "Lotus Chess UG",
+      "subtitle": "Lotus Chess for iOS",
+      "version": "2.6.2",
+      "versionDate": "2026-07-05",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.lotuschess.app-2.6.2-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nLotus Chess is a powerful chess training app designed to help you improve faster than any other chess learning app. It provides a complete system for mastering openings, tactics, and endgames.\n\nJoin more than 250.000 chess learners across the world — from beginners starting with the fundamentals to competitive players with 2300 Elo.\n\nUnlike most apps — which focus on engine-perfect theory — Lotus Chess teaches attacking chess that helps you win against human opponents.\n\n---\n\nOpening Training Bui",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/38/3f/27383fb9-7120-b8b6-f921-c1835b21c793/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 111850394,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This app does not require access to your photos, but it is needed by a third-party component for proper functionality.",
+          "NSUserTrackingUsageDescription": "We use device tracking to measure ad campaign performance and improve acquisition."
+        }
+      },
+      "versions": [
+        {
+          "version": "2.6.2",
+          "date": "2026-07-05",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.lotuschess.app-2.6.2-eeveedecrypter.ipa",
+          "size": 111850394
+        }
+      ],
+      "category": "education"
     },
     {
       "name": "Loupe",
