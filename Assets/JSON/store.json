@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "io.suitespot.suiteinspector2",
     "com.duuro.moneyCoach",
     "com.joytunes.asla",
     "co.bazaart.app",
-    "com.lightricks.Facetune2",
-    "com.joytunes.Sing"
+    "com.lightricks.Facetune2"
   ],
   "apps": [
     {
@@ -66357,6 +66357,43 @@
       "category": "games"
     },
     {
+      "name": "SuiteSpot",
+      "bundleIdentifier": "io.suitespot.suiteinspector2",
+      "developerName": "SuiteSpot Inc.",
+      "subtitle": "SuiteSpot for iOS",
+      "version": "2.8.0",
+      "versionDate": "2026-07-05",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/io.suitespot.suiteinspector2-2.8.0-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/79/83/7479833a-e903-697f-bf55-8d6423113a93/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 40602384,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This app accesses your photos to allow you to select and attach existing images of property or equipment conditions to your inspection reports and work orders.",
+          "NSCameraUsageDescription": "This app uses the camera to document maintenance needs and property conditions by attaching photos and videos directly to your work orders and inspections.",
+          "NSMicrophoneUsageDescription": "This app uses the camera to document maintenance needs and property conditions by attaching photos and videos directly to your work orders and inspections as visual evidence.",
+          "NSLocationWhenInUseUsageDescription": "Your location is used to automatically geotag inspection photos, providing verified proof of where a maintenance task or property assessment was performed.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "This app uses your location to provide accurate geotagging for inspection photos. This ensures your work orders are correctly mapped even if you capture a photo immediately after opening the app.",
+          "NSFaceIDUsageDescription": "Unlock to authorize app",
+          "NSPhotoLibraryAddUsageDescription": "This app requires permission to save captured inspection photos and videos directly to your device gallery for your internal maintenance records."
+        }
+      },
+      "versions": [
+        {
+          "version": "2.8.0",
+          "date": "2026-06-18",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/io.suitespot.suiteinspector2-2.8.0-eeveedecrypter.ipa",
+          "size": 40602384
+        }
+      ],
+      "category": "productivity"
+    },
+    {
       "name": "Sumato",
       "bundleIdentifier": "com.talhayavcin.summarize",
       "developerName": "ZipoApps",
@@ -80581,7 +80618,7 @@
     {
       "title": "⚙️ Telos Update 7.5",
       "identifier": "telos-update-2026-07-05",
-      "caption": "18 Apps Updated:\n• 6 Photo & Video\n• 6 Education\n• 2 Music\n• 2 News\n• 2 Finance",
+      "caption": "22 Apps Updated:\n• 6 Photo & Video\n• 6 Education\n• 4 Productivity\n• 2 Music\n• 2 News\n• 2 Finance",
       "date": "2026-07-05",
       "tintColor": "#02433b",
       "notify": true,
