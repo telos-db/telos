@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.solveit.lut-studio",
+    "com.yoyoapps.weather",
+    "com.iaftt.flightplusfree",
     "app.justRead.justRead",
-    "com.gear.app",
-    "com.TickTick.task",
-    "com.zerone.hidesktop",
-    "com.intsig.CamScannerLite"
+    "com.gear.app"
   ],
   "apps": [
     {
@@ -23578,14 +23578,14 @@
       "bundleIdentifier": "com.iaftt.flightplusfree",
       "developerName": "Impala Studios",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "8.7.14",
-      "versionDate": "2026-06-22",
+      "version": "8.7.15",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: blatantsPatch, flighttracker+\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Flight_Tracker_+_v8_7_14_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Flight_Tracker_+_v8_7_15_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFlight Tracker +",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/37/a0/7137a0a9-8fd7-5cbd-125b-053d9b37a5e7/tft_appicon_2025-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/ca/d4/83cad415-aad1-a101-c2b2-9edf527d8286/tft_appicon_2025-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 123380922,
+      "size": 123367786,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -23607,11 +23607,11 @@
       },
       "versions": [
         {
-          "version": "8.7.14",
-          "date": "2026-06-22",
+          "version": "8.7.15",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: blatantsPatch, flighttracker+\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Flight_Tracker_+_v8_7_14_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 123380922
+          "downloadURL": "https://telos.ftp.sh/ipas/Flight_Tracker_+_v8_7_15_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 123367786
         }
       ],
       "category": "travel"
@@ -38811,14 +38811,14 @@
       "bundleIdentifier": "com.solveit.lut-studio",
       "developerName": "Phoneframes AG",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "3.0.13",
-      "versionDate": "2026-07-04",
+      "version": "3.0.14",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: LUTStudio, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/LUT_Studio_Color_Grading_App_v3_0_13_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LUT_Studio_Color_Grading_App_v3_0_14_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nLUT Studio: Color Grading App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/86/4b/c0864b11-5ad3-1865-d164-e2cdf1ca27f7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 109395125,
+      "size": 66262578,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/fb/75/f8fb759d-655c-4821-b378-e938eaeace27/129fed41-b0a4-4943-a5fb-dc4fbd94e0d7_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/12/1f/72121f9e-dce2-6cf2-9e76-5bce2f2722d9/f1b435de-8ae9-4db4-af6f-d03b532c6f50_2.jpg/392x696bb.jpg",
@@ -38837,11 +38837,11 @@
       },
       "versions": [
         {
-          "version": "3.0.13",
-          "date": "2026-07-04",
+          "version": "3.0.14",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: LUTStudio, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/LUT_Studio_Color_Grading_App_v3_0_13_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 109395125
+          "downloadURL": "https://telos.ftp.sh/ipas/LUT_Studio_Color_Grading_App_v3_0_14_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 66262578
         }
       ],
       "category": "photo-&-video"
@@ -76160,14 +76160,14 @@
       "bundleIdentifier": "com.yoyoapps.weather",
       "developerName": "BUCKET LIST LABS S.L.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.1.7",
-      "versionDate": "2026-06-30",
+      "version": "4.1.8",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: Weather, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Weather_Pro_·_Radar_Alerts_v4_1_7_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Weather_Pro_·_Radar_Alerts_v4_1_8_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nWeather Pro · Radar Alerts",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/91/46/819146d6-f4c2-a8b2-835c-38e6f8927c57/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/67/58/f26758c3-33c3-f976-d76e-74273a75461c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 164435101,
+      "size": 168533761,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/1c/8b/341c8bdb-d45d-ce69-3f9b-a943e47d2572/f31dc40f-3b64-47eb-98c7-71189ba79fa3_ECRAN_1_-_2732_x_2048.jpg/552x414bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/65/93/856593fe-b9bc-6be6-0475-9ba18710927b/2c505516-7f60-4b8d-b52b-c1a5120dbdbe_ECRAN_2_-_2732_x_2048.jpg/552x414bb.jpg",
@@ -76188,11 +76188,11 @@
       },
       "versions": [
         {
-          "version": "4.1.7",
-          "date": "2026-06-30",
+          "version": "4.1.8",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: Weather, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Weather_Pro_·_Radar_Alerts_v4_1_7_Subscription_Unlocked_blatant.ipa",
-          "size": 164435101
+          "downloadURL": "https://telos.ftp.sh/ipas/Weather_Pro_·_Radar_Alerts_v4_1_8_Subscription_Unlocked_blatant.ipa",
+          "size": 168533761
         }
       ],
       "category": "weather"
@@ -80720,7 +80720,7 @@
     {
       "title": "⚙️ Telos Update 7.6",
       "identifier": "telos-update-2026-07-06",
-      "caption": "12 Apps Updated:\n• 4 Books\n• 4 Productivity\n• 2 Graphics & Design\n• 2 Utilities",
+      "caption": "22 Apps Updated:\n• 4 Productivity\n• 4 Photo & Video\n• 4 Weather\n• 4 Travel\n• 2 Books\n• 2 Graphics & Design\n• 2 Utilities",
       "date": "2026-07-06",
       "tintColor": "#02433b",
       "notify": true,
