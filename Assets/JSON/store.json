@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.hammerandchisel.discord",
-    "com.pixite.pigment",
-    "com.nuvio.media",
-    "com.gunthermarktl.stepapp",
-    "com.inflow.app"
+    "com.digitas.solidstarts",
+    "com.manymanypixels.pomodrone",
+    "com.unofficialcalculators.payplan",
+    "com.feelty",
+    "com.sbs.diet"
   ],
   "apps": [
     {
@@ -7429,14 +7429,14 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "subtitle": "*Tweak:** Full Version Unlocked | *Patched ✓**",
-      "version": "4.1.100",
-      "versionDate": "2026-07-02",
+      "version": "4.1.101",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.100-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.101-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Full Version Unlocked | *Patched ✓** | *Developer:** Bill Tracker Pro, Inc.\n\nBill Tracker Pro",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/61/b5/8a61b500-b5a9-ea91-7776-d63a1d2d9a18/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 148191239,
+      "size": 148314866,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/df/72/1cdf72bb-1d54-7a27-d6e4-e54ef4151c21/pr_source.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/ab/2c/f4ab2cef-41bd-f2bf-2980-f7910d3d3dd8/pr_source.png/552x414bb.png",
@@ -7446,11 +7446,13 @@
       ],
       "appPermissions": {
         "entitlements": [
-          "com.apple.developer.applesignin",
+          "com.apple.developer.financekit",
           "aps-environment",
           "com.apple.developer.icloud-container-environment",
           "com.apple.developer.associated-domains",
-          "com.apple.security.application-groups"
+          "com.apple.developer.applesignin",
+          "com.apple.security.application-groups",
+          "com.apple.developer.financekit.transaction-picker"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "To select your user photo.",
@@ -7463,11 +7465,11 @@
       },
       "versions": [
         {
-          "version": "4.1.100",
-          "date": "2026-07-02",
+          "version": "4.1.101",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.100-riftysipas.ipa",
-          "size": 148191239
+          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.101-riftysipas.ipa",
+          "size": 148314866
         }
       ],
       "category": "finance"
@@ -19701,14 +19703,14 @@
       "bundleIdentifier": "com.manymanypixels.pomodrone",
       "developerName": "Aleksandr Fiodorov",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "10.6.0",
-      "versionDate": "2026-06-13",
+      "version": "10.6.2",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Emphasis: Flow & Focus Timer-v10.6.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Emphasis: Flow & Focus Timer-v10.6.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nEmphasis: Flow & Focus Timer",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/84/bb/e984bb46-8bcb-20ed-780b-2964439abed4/icon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 28634929,
+      "size": 29091650,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/12/48/5b1248c7-9098-6ec8-63d4-6d337dd562c8/1fcb5c6d-00cb-43e0-a0ef-655f41bacedb_3214.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/c0/16/4cc016ab-a34f-9e13-6cdf-6a169e462438/58253d93-5b9e-4cca-bd89-611aee69c41b_2.png/392x696bb.png",
@@ -19729,11 +19731,11 @@
       },
       "versions": [
         {
-          "version": "10.6.0",
-          "date": "2026-05-05",
+          "version": "10.6.2",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Emphasis: Flow & Focus Timer-v10.6.0-riftysipas.ipa",
-          "size": 28634929
+          "downloadURL": "https://telos.ftp.sh/ipas/Emphasis: Flow & Focus Timer-v10.6.2-riftysipas.ipa",
+          "size": 29091650
         }
       ],
       "category": "productivity"
@@ -24212,21 +24214,21 @@
       "name": "FLTR",
       "bundleIdentifier": "com.feelty",
       "developerName": "Onelight Apps CY Ltd",
-      "subtitle": "Pro Features Unlocked",
-      "version": "4.21.0",
-      "versionDate": "2026-02-20",
-      "versionDescription": "Tweaks: CydiaSubstrate, FLTR\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Presets.for.Lightroom.Pro.4.21.0.ipa",
-      "localizedDescription": "Pro Features Unlocked\n\nPresets Lightroom, Filter・FLTR\n\n---\n\nGet free trendy presets for Lightroom by FLTR! Try perfect photo & video filters, customize iOS app icons & highlights for Instagram.\n\nIn collaboration with professional photographers and famous bloggers, we collected only top presets that allow you to edit & filter favorite shots, videos, plan your social media posts and take your content to the next level!\n\nFLTR FEATURES\n\nLIGHTROOM PRESETS\nChoose from 1000+ presets (80+ packs) and make edits on-the-go!\nThese presets will look good on every pho",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/03/91/3a03918a-3ca7-a987-c2cb-4ae826ea806d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "4.22.0",
+      "versionDate": "2026-07-06",
+      "versionDescription": "Tweaks: blatantsPatch, fltr\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Presets_for_Lightroom_FLTR_v4_22_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPresets for Lightroom - FLTR",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/c8/be/f1c8bebf-ebde-21eb-10bd-d0124c2bc0d9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 116733519,
+      "size": 117570958,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/8e/64/c48e64b5-d789-6352-0f5c-86e9601635fc/d6e1c903-1008-44e9-b52b-0652e63565f9_1_iphone55.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/e8/e4/31e8e49d-086e-d0b5-7d9f-0b51d2ffd5de/222ec982-e378-4e83-9111-fdda5f99c7e3_2_iphone55.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/97/e0/2697e0d5-c9a7-ee7f-a0d8-d973ba77b4e0/1315ddbc-be80-4320-a818-e070635b0fe3_2_APP_IPHONE_55_2.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/c2/bc/3ac2bc34-0934-2bef-94e1-0e45a7dbbf38/b9840120-5217-487e-8a0e-8b9a9919921c_3_APP_IPHONE_55_3.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/7c/f4/ab7cf4f0-6686-c270-323c-b9f7b9cb5e5a/a1ea411b-d27d-44f3-91b7-aac8792cc253_4_APP_IPHONE_55_4.jpg/392x696bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/22/ce/2722ce07-ff75-bf95-0899-765f55ce51e6/d6e1c903-1008-44e9-b52b-0652e63565f9_1_iphone55.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/ab/4f/f5ab4fa5-84ec-84fc-6ffa-cc1f94b19405/222ec982-e378-4e83-9111-fdda5f99c7e3_2_iphone55.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/99/e2/d799e216-c63b-1146-49f4-ffb25aed29c0/1315ddbc-be80-4320-a818-e070635b0fe3_2_APP_IPHONE_55_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/14/00/0014005b-7e5c-9d98-b6fe-24512c7afe2d/b9840120-5217-487e-8a0e-8b9a9919921c_3_APP_IPHONE_55_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/74/16/5b7416c2-7f6b-77f2-56cb-5fe36cdad986/a1ea411b-d27d-44f3-91b7-aac8792cc253_4_APP_IPHONE_55_4.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
         "entitlements": [
@@ -24235,17 +24237,17 @@
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "This will allow you to add photos from Library, edit and save them to camera roll.",
-          "NSCameraUsageDescription": "This will allow you to pick images manually and sent them as attachment to suppor team.",
+          "NSCameraUsageDescription": "This will allow you to pick images manually and send them as an attachment to the support team.",
           "NSUserTrackingUsageDescription": "It helps us to create personalized experience tailored to your interests."
         }
       },
       "versions": [
         {
-          "version": "4.21.0",
-          "date": "2026-02-19",
-          "localizedDescription": "Tweaks: CydiaSubstrate, FLTR\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Presets.for.Lightroom.Pro.4.21.0.ipa",
-          "size": 116733519
+          "version": "4.22.0",
+          "date": "2026-07-06",
+          "localizedDescription": "Tweaks: blatantsPatch, fltr\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Presets_for_Lightroom_FLTR_v4_22_0_Subscription_Unlocked_blatant.ipa",
+          "size": 117570958
         }
       ],
       "category": "photo-&-video"
@@ -37051,14 +37053,14 @@
       "bundleIdentifier": "jp.naver.linecamera",
       "developerName": "SNOW Corporation",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "18.4.0",
-      "versionDate": "2026-07-02",
+      "version": "18.4.1",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_4_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_4_1_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nLINE Camera - Photo editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/62/ed/0c62ed35-c46c-d28d-6789-b34b52cd141d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 202262987,
+      "size": 202269076,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/27/8f/39278fe6-038f-45b8-f616-2b00cd9b4329/1242x2208_filter.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/68/b3/c968b397-9270-cd57-6a02-1728925d0c44/1242x2208_blur.png/392x696bb.png",
@@ -37081,11 +37083,11 @@
       },
       "versions": [
         {
-          "version": "18.4.0",
-          "date": "2026-07-02",
+          "version": "18.4.1",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_4_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 202262987
+          "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_4_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 202269076
         }
       ],
       "category": "photo-&-video"
@@ -39022,14 +39024,14 @@
       "bundleIdentifier": "com.sbs.diet",
       "developerName": "Stronger By Science Technologies LLC",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "5.7.8",
-      "versionDate": "2026-06-03",
+      "version": "5.8.2",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/MacroFactor_Macro_Tracker_v5_7_8_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MacroFactor_Macro_Tracker_v5_8_2_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nMacroFactor - Macro Tracker",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/7c/6e/e57c6e85-845c-8ab7-3190-f7842eb0ba19/MacroFactorAppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/94/15/69941535-ac35-3c86-2059-4bfedbdcc5a7/MacroFactorAppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 102319939,
+      "size": 78027706,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/d3/89/76d389d6-9707-3e97-18f5-f148d7b527ab/147e0e46-08ae-40bb-a891-01d70282bffb_12.9.1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/d7/94/23d794dd-9f71-a006-e1b2-e86852c84dbd/93374863-68c6-4796-bf62-70adbd6a7cd2_12.9.2.png/576x768bb.png",
@@ -39059,11 +39061,11 @@
       },
       "versions": [
         {
-          "version": "5.7.8",
-          "date": "2026-06-03",
+          "version": "5.8.2",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/MacroFactor_Macro_Tracker_v5_7_8_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 102319939
+          "downloadURL": "https://telos.ftp.sh/ipas/MacroFactor_Macro_Tracker_v5_8_2_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 78027706
         }
       ],
       "category": "health-&-fitness"
@@ -61882,14 +61884,14 @@
       "bundleIdentifier": "com.digitas.solidstarts",
       "developerName": "SolidStarts LLC",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "5.4.1",
-      "versionDate": "2026-06-23",
+      "version": "5.5.0",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Solid Starts: Baby First Foods-v5.4.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Solid Starts: Baby First Foods-v5.5.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nSolid Starts: Baby First Foods",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/a0/e3/dfa0e3fa-e0bd-f11d-9724-fb02be4bdabe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/3e/40/b33e4000-1f4b-27b4-a2db-b7d5b5e7b22b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 81697831,
+      "size": 81888127,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -61897,16 +61899,19 @@
           "com.apple.developer.applesignin"
         ],
         "privacy": {
+          "NSPhotoLibraryUsageDescription": "Allow Solid Starts to access your photos and videos so you can attach screenshots or videos to support requests.",
+          "NSCameraUsageDescription": "Allow SolidStarts to access your camera",
+          "NSMicrophoneUsageDescription": "Allow SolidStarts to access your microphone",
           "NSUserTrackingUsageDescription": "Help us see which ads brought you here, so we can reach more parents starting solids."
         }
       },
       "versions": [
         {
-          "version": "5.4.1",
-          "date": "2026-06-23",
+          "version": "5.5.0",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Solid Starts: Baby First Foods-v5.4.1-riftysipas.ipa",
-          "size": 81697831
+          "downloadURL": "https://telos.ftp.sh/ipas/Solid Starts: Baby First Foods-v5.5.0-riftysipas.ipa",
+          "size": 81888127
         }
       ],
       "category": "education"
@@ -80720,7 +80725,7 @@
     {
       "title": "⚙️ Telos Update 7.6",
       "identifier": "telos-update-2026-07-06",
-      "caption": "60 Apps Updated:\n• 18 Health & Fitness\n• 12 Photo & Video\n• 4 Productivity\n• 4 Utilities\n• 4 Lifestyle\n• 4 Social Networking\n• 2 Books\n• 2 Graphics & Design\n• 2 Weather\n• 2 Travel\n• 2 Education\n• 2 Business\n• 2 Music",
+      "caption": "82 Apps Updated:\n• 22 Health & Fitness\n• 20 Photo & Video\n• 8 Productivity\n• 6 Education\n• 4 Utilities\n• 4 Finance\n• 4 Lifestyle\n• 2 Books\n• 2 Graphics & Design\n• 2 Weather\n• 2 Travel\n• 2 Business\n• 2 Music\n• 2 Social Networking",
       "date": "2026-07-06",
       "tintColor": "#02433b",
       "notify": true,
