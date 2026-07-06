@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.pixite.pigment",
+    "com.nuvio.media",
     "com.gunthermarktl.stepapp",
     "com.inflow.app",
-    "uni.cbum",
-    "com.dr1ven.eraser",
-    "eu.gowod"
+    "uni.cbum"
   ],
   "apps": [
     {
@@ -45986,14 +45986,14 @@
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "RGN VENTURES LTD",
       "subtitle": "Nuvio for iOS",
-      "version": "0.2.18",
-      "versionDate": "2026-07-04",
+      "version": "0.2.19",
+      "versionDate": "2026-07-06",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.18-Full.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.19-Full.ipa",
       "localizedDescription": "Nuvio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 39152131,
+      "size": 39276321,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -46001,11 +46001,11 @@
       },
       "versions": [
         {
-          "version": "0.2.18",
-          "date": "2026-07-04",
+          "version": "0.2.19",
+          "date": "2026-07-06",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.18-Full.ipa",
-          "size": 39152131
+          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.19-Full.ipa",
+          "size": 39276321
         }
       ],
       "category": "health-&-fitness"
@@ -50848,14 +50848,14 @@
       "bundleIdentifier": "com.pixite.pigment",
       "developerName": "Pixite Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "3.12.2",
-      "versionDate": "2026-06-19",
+      "version": "3.13",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.12.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nAdult Coloring Book - Pigment",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/b5/38/9cb538ef-8540-21ee-22d2-ddf8644cf03a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/06/13/9e061338-f5e3-8adf-4ccc-833586cd0bb8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 136573972,
+      "size": 145005212,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -50876,11 +50876,11 @@
       },
       "versions": [
         {
-          "version": "3.12.2",
-          "date": "2026-06-19",
+          "version": "3.13",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.12.2-riftysipas.ipa",
-          "size": 136573972
+          "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13-riftysipas.ipa",
+          "size": 145005212
         }
       ],
       "category": "lifestyle"
@@ -80720,7 +80720,7 @@
     {
       "title": "⚙️ Telos Update 7.6",
       "identifier": "telos-update-2026-07-06",
-      "caption": "54 Apps Updated:\n• 20 Health & Fitness\n• 12 Photo & Video\n• 4 Productivity\n• 4 Utilities\n• 2 Books\n• 2 Graphics & Design\n• 2 Weather\n• 2 Travel\n• 2 Education\n• 2 Business\n• 2 Music",
+      "caption": "64 Apps Updated:\n• 22 Health & Fitness\n• 12 Photo & Video\n• 8 Lifestyle\n• 4 Productivity\n• 4 Utilities\n• 2 Books\n• 2 Graphics & Design\n• 2 Weather\n• 2 Travel\n• 2 Education\n• 2 Business\n• 2 Music",
       "date": "2026-07-06",
       "tintColor": "#02433b",
       "notify": true,
