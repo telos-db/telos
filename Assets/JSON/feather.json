@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.gear.app",
     "com.TickTick.task",
     "com.zerone.hidesktop",
     "com.intsig.CamScannerLite",
-    "co.visualsupply.cam",
-    "com.genau.JournalCircle"
+    "co.visualsupply.cam"
   ],
   "apps": [
     {
@@ -26534,6 +26534,41 @@
         }
       ],
       "category": "shopping"
+    },
+    {
+      "name": "Gear",
+      "bundleIdentifier": "com.gear.app",
+      "developerName": "Binary Gear LLC",
+      "subtitle": "Tweaked with GearPro, Sideloadbypass1",
+      "version": "6.11.1",
+      "versionDate": "2026-07-06",
+      "versionDescription": "Tweaks: GearPro, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Gear Browser Pro 6.11.1.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: GearPro, Sideloadbypass1, Sideloadbypass2\n\nGear Browser - Userscripts\n\n---\n\"A new browser with a nice design and advanced features that will appeal to enthusiasts.\" - LifeHacker\n\nGear is a modern browser built with powerful web extensions, on-device intelligence, minimal design, and strong privacy protection to provide an exclusive browsing experience and empower productivity.\n\n# Powerful Extension Engine\nThe first web browser to support both Web Extension and UserScript, designed for high performance and seamlessly integrated with the browser, providing unlimited poss",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/0e/2b/ca0e2b38-c953-8324-8cc0-c0425e843e5b/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 17925849,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Accessing Camera from the web site",
+          "NSMicrophoneUsageDescription": "Accessing Microphone from the web site",
+          "NSLocationWhenInUseUsageDescription": "Accessing Location when in use from the web site",
+          "NSMotionUsageDescription": "Accessing Motion from the web site",
+          "NSPhotoLibraryAddUsageDescription": "Accessing Photo from the web site"
+        }
+      },
+      "versions": [
+        {
+          "version": "6.11.1",
+          "date": "2026-07-06",
+          "localizedDescription": "Tweaks: GearPro, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Gear Browser Pro 6.11.1.ipa",
+          "size": 17925849
+        }
+      ],
+      "category": "utilities"
     },
     {
       "name": "Gear.Club Stradale",
