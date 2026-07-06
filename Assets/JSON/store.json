@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.nibbleapps.MealPrepPro",
-    "com.leomehlig.today",
-    "com.thehungrywasp.iamsober",
-    "com.dreamer.Habits",
-    "com.soundcloud.TouchApp"
+    "com.intvl.app",
+    "app.monelyze.ToDo",
+    "com.SofaScore.iOS",
+    "com.evolve.podcast",
+    "com.elevateapp.elevate"
   ],
   "apps": [
     {
@@ -19514,14 +19514,14 @@
       "bundleIdentifier": "com.elevateapp.elevate",
       "developerName": "The Mind Company",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "5.246.0",
-      "versionDate": "2026-06-29",
+      "version": "5.247.0",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.246.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.247.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nElevate - Brain Training Games",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/31/5a/0f315a96-dad6-7d2c-e168-64cac49b5ab7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/46/bb/b346bb91-1ac0-0404-b1b9-29b7cadd6388/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 402827337,
+      "size": 402845626,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -19542,11 +19542,11 @@
       },
       "versions": [
         {
-          "version": "5.246.0",
-          "date": "2026-06-29",
+          "version": "5.247.0",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.246.0-riftysipas.ipa",
-          "size": 402827337
+          "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.247.0-riftysipas.ipa",
+          "size": 402845626
         }
       ],
       "category": "education"
@@ -32623,14 +32623,14 @@
       "bundleIdentifier": "com.intvl.app",
       "developerName": "INTVL PTY LTD",
       "subtitle": "*Tweak:** Gold Unlocked | *Patched ✓**",
-      "version": "3.5.0",
-      "versionDate": "2026-06-08",
+      "version": "4.0.0",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/INTVL-v3.5.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/INTVL-v4.0.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Gold Unlocked | *Patched ✓**\n\nINTVL",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/6a/86/826a86d3-929f-cc9e-79ea-edf9be2aae53/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 98984923,
+      "size": 96544226,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/e3/7f/46e37fdb-bad1-d6e1-2baf-bd92d49ed560/17b36d39-1bcc-4967-897f-678e90c27449_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/ac/32/13ac32cc-a042-25b9-6790-6865feb75048/82eba914-5957-4e21-b81c-0e0b2860fe8d_02.png/392x696bb.png",
@@ -32654,21 +32654,22 @@
           "NSLocationWhenInUseUsageDescription": "Allow INTVL to use your location to track your runs using GPS while in the run mode.",
           "NSLocationAlwaysUsageDescription": "Allow INTVL to use your location to track your runs using GPS while in the run mode.",
           "NSLocationAlwaysAndWhenInUseUsageDescription": "Allow INTVL to use your location to track your runs using GPS while in the run mode.",
-          "NSMotionUsageDescription": "This app uses motion activity tracking.",
+          "NSMotionUsageDescription": "INTVL uses motion data to keep the game fair and free from cheaters.",
           "NSHealthShareUsageDescription": "We care about your well-being! Please grant us access to your health data, so we can provide personalized insights and recommendations to help you achieve your fitness goals.",
           "NSHealthUpdateUsageDescription": "Stay motivated and track your progress effortlessly! Allow us to write health data to your Health app, so we can record your workouts and activities for a more accurate fitness analysis.",
           "NSFaceIDUsageDescription": "Allow INTVL to access your Face ID biometric data.",
+          "NSLocalNetworkUsageDescription": "Expo Dev Launcher uses the local network to discover and connect to development servers running on your computer.",
           "NSUserTrackingUsageDescription": "This helps us track how effective our ads are so we can share INTVL with more people.",
           "NSPhotoLibraryAddUsageDescription": "Allow INTVL to save photos."
         }
       },
       "versions": [
         {
-          "version": "3.5.0",
-          "date": "2026-06-05",
+          "version": "4.0.0",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/INTVL-v3.5.0-riftysipas.ipa",
-          "size": 98984923
+          "downloadURL": "https://telos.ftp.sh/ipas/INTVL-v4.0.0-riftysipas.ipa",
+          "size": 96544226
         }
       ],
       "category": "health-&-fitness"
@@ -52305,14 +52306,14 @@
       "bundleIdentifier": "com.evolve.podcast",
       "developerName": "Evolve Global, Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "7.9.0",
-      "versionDate": "2026-06-27",
+      "version": "7.10.0",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.9.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.10.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nPodcast App",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/90/77/59907776-cc35-c081-818a-bed20351c05e/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/8a/e7/588ae7cf-ee36-29b9-e94e-8e7c9740fde4/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 52385807,
+      "size": 52559933,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/d3/03/b3d30346-9743-a201-b3cc-a20c1ef3ae19/dab702f7-c5a1-41ec-8f24-22240e56c809_EN_-_5.5_-_Screenshot_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/7a/a4/c47aa4ac-6667-d771-d1fe-76dd5369744f/6404e4fd-5396-4389-b62f-292adf70d49a_EN_-_5.5_-_Screenshot_02.png/392x696bb.png",
@@ -52341,11 +52342,11 @@
       },
       "versions": [
         {
-          "version": "7.9.0",
-          "date": "2026-06-27",
+          "version": "7.10.0",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.9.0-riftysipas.ipa",
-          "size": 52385807
+          "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.10.0-riftysipas.ipa",
+          "size": 52559933
         }
       ],
       "category": "news"
@@ -61753,14 +61754,14 @@
       "bundleIdentifier": "com.SofaScore.iOS",
       "developerName": "Sofascore",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "26.05.20",
-      "versionDate": "2026-06-05",
+      "version": "26.06.29",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofascore\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sofascore - Live sports scores-v26.05.20-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sofascore - Live sports scores-v26.06.29-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nSofascore - Live sports scores",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/5c/e1/925ce174-1c36-5c6e-6fe8-b1d4058662e7/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/6e/97/8c6e9770-2b4d-b1cc-834a-0911fdda3480/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 93584138,
+      "size": 94673600,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/49/0e/fd490e32-f511-7158-7212-e1edeee22b7e/18da3b96-33c2-4a9f-b596-61ab5a7d53c5_UK_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/18/5b/7b185bcf-aece-3163-99c4-db84f72fdd5a/bacde706-eaff-40db-b4f8-13bfcfe409d6_AU_2.png/392x696bb.png",
@@ -61786,11 +61787,11 @@
       },
       "versions": [
         {
-          "version": "26.05.20",
-          "date": "2026-06-03",
+          "version": "26.06.29",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofascore\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Sofascore - Live sports scores-v26.05.20-riftysipas.ipa",
-          "size": 93584138
+          "downloadURL": "https://telos.ftp.sh/ipas/Sofascore - Live sports scores-v26.06.29-riftysipas.ipa",
+          "size": 94673600
         }
       ],
       "category": "sports"
@@ -70302,14 +70303,14 @@
       "bundleIdentifier": "app.monelyze.ToDo",
       "developerName": "Monelyze Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "7.2.4",
-      "versionDate": "2026-06-12",
+      "version": "7.2.6",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.2.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.2.6-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nToDo",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/8c/ad/e18cad41-e95d-a0ed-e0f1-2a39ceb732b0/ToDo-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/d9/ff/02d9ff4f-9331-f5b6-7189-48aebd29fd0d/ToDo-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 27688741,
+      "size": 27762435,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -70324,11 +70325,11 @@
       },
       "versions": [
         {
-          "version": "7.2.4",
-          "date": "2026-06-12",
+          "version": "7.2.6",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.2.4-riftysipas.ipa",
-          "size": 27688741
+          "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.2.6-riftysipas.ipa",
+          "size": 27762435
         }
       ],
       "category": "productivity"
@@ -80726,7 +80727,7 @@
     {
       "title": "⚙️ Telos Update 7.6",
       "identifier": "telos-update-2026-07-06",
-      "caption": "98 Apps Updated:\n• 20 Health & Fitness\n• 18 Productivity\n• 16 Photo & Video\n• 8 Education\n• 8 Lifestyle\n• 6 Music\n• 4 Utilities\n• 4 Food & Drink\n• 2 Books\n• 2 Graphics & Design\n• 2 Weather\n• 2 Travel\n• 2 Business\n• 2 Finance\n• 2 Social Networking",
+      "caption": "108 Apps Updated:\n• 24 Health & Fitness\n• 16 Productivity\n• 16 Photo & Video\n• 14 Education\n• 6 Lifestyle\n• 4 Utilities\n• 4 Music\n• 4 News\n• 4 Sports\n• 2 Books\n• 2 Graphics & Design\n• 2 Weather\n• 2 Travel\n• 2 Business\n• 2 Finance\n• 2 Social Networking\n• 2 Food & Drink",
       "date": "2026-07-06",
       "tintColor": "#02433b",
       "notify": true,
