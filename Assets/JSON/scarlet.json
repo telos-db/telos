@@ -16661,6 +16661,32 @@
       }
     },
     {
+      "name": "Gear",
+      "bundleIdentifier": "com.gear.app",
+      "developerName": "Binary Gear LLC",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: GearPro, Sideloadbypass1, Sideloadbypass2\n\nGear Browser - Userscripts\n\n---\n\"A new browser with a nice design and advanced features that will appeal to enthusiasts.\" - LifeHacker\n\nGear is a modern browser built with powerful web extensions, on-device intelligence, minimal design, and strong privacy protection to provide an exclusive browsing experience and empower productivity.\n\n# Powerful Extension Engine\nThe first web browser to support both Web Extension and UserScript, designed for high performance and seamlessly integrated with the browser, providing unlimited poss",
+      "version": "6.11.1",
+      "versionDate": "2026-07-06T05:20:39-00:00",
+      "versionDescription": "Build 6102 from @binnichtaktivsipas",
+      "size": 17925849,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/0e/2b/ca0e2b38-c953-8324-8cc0-c0425e843e5b/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Gear Browser Pro 6.11.1.ipa",
+      "minOSVersion": "14.2",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Gear Browser Pro 6.11.1.ipa"
+      }
+    },
+    {
       "name": "Gear.Club Stradale",
       "bundleIdentifier": "com.edengames.stradale",
       "developerName": "Eden Games S.A.S.",
