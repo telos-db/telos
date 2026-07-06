@@ -21495,6 +21495,32 @@
       }
     },
     {
+      "name": "justRead.app",
+      "bundleIdentifier": "app.justRead.justRead",
+      "developerName": "PETR JAHODA",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nThe all-in-one EPUB & PDF reader for iOS, with audiobooks support. Built natively with SwiftUI. Fully customizable, fast, and designed to disappear so you can simply read.\n\nYOUR BOOKS, YOUR WAY\nChoose from 200+ built-in fonts or import your own. Adjust size, weight, line spacing, paragraph spacing, alignment, and hyphenation so your eyes never fight the page. Set different margins for portrait and landscape. Save per-book preferences so a textbook, a novel, and poetry each display perfectly ever",
+      "version": "3.7",
+      "versionDate": "2026-07-06T06:22:41-00:00",
+      "versionDescription": "Build 1 from @thescholarslounge",
+      "size": 57701113,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/7e/03/3f7e032d-4ad4-e436-bf56-daa54dd552fd/justRead-0-0-1x_U007epad-0-1-0-sRGB-GLES2_U002c0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/app.justRead.justRead-3.7-eeveedecrypter.ipa",
+      "minOSVersion": "18.1",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "app.justRead.justRead-3.7-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "Kalak",
       "bundleIdentifier": "gg.kalak",
       "developerName": "Sadu Studios",
