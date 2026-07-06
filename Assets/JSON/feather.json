@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.gunthermarktl.stepapp",
+    "com.inflow.app",
+    "uni.cbum",
     "com.dr1ven.eraser",
-    "eu.gowod",
-    "com.adobe.lrmobilephone",
-    "scannerapp.free",
-    "com.adobe.lrmobile"
+    "eu.gowod"
   ],
   "apps": [
     {
@@ -32039,14 +32039,14 @@
       "bundleIdentifier": "com.inflow.app",
       "developerName": "Get Inflow Ltd.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.2.7",
-      "versionDate": "2026-06-12",
+      "version": "3.2.8",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Inflow - Manage your ADHD-v3.2.7-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Inflow - Manage your ADHD-v3.2.8-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nInflow - Manage your ADHD\n\n---\nA science-based ADHD app for focus, productivity, and daily life. Manage your ADHD in just 5 minutes a day!\n\nInflow is designed by people with ADHD, for people with ADHD. We are not a glorified timer or calendar. Inflow is a science-based program designed to help you manage focus, procrastination, and follow-through in a way that works with your brain, not against it. Developed with clinical psychologists and featured in peer-reviewed research.\n\nDOES THIS SOUND LIKE YOU?\n\nDo you struggle with fo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/d5/99/8dd59918-64b9-3175-c6a1-6da91291a470/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 42905098,
+      "size": 45402857,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/00/f1/8600f15c-4991-dbfe-fc00-47cdd5bc7ac3/bf8509f4-c0c5-4839-83dc-b33591ddad5e_Screen_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/6f/e7/9c6fe709-5e1f-e144-4d40-c9150580d8bd/f7355d93-4434-4fed-ba30-94cb33520b3a_Screen_2.jpg/392x696bb.jpg",
@@ -32071,11 +32071,11 @@
       },
       "versions": [
         {
-          "version": "3.2.7",
-          "date": "2026-06-12",
+          "version": "3.2.8",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Inflow - Manage your ADHD-v3.2.7-riftysipas.ipa",
-          "size": 42905098
+          "downloadURL": "https://telos.ftp.sh/ipas/Inflow - Manage your ADHD-v3.2.8-riftysipas.ipa",
+          "size": 45402857
         }
       ],
       "category": "health-&-fitness"
@@ -64825,14 +64825,14 @@
       "bundleIdentifier": "com.gunthermarktl.stepapp",
       "developerName": "StepsApp GmbH",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "8.11.0",
-      "versionDate": "2026-07-01",
+      "version": "8.11.1",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.11.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.11.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nStepsApp Pedometer\n\n---\nThe step counter that actually gets you moving.\n\nJoin over 100 million people building healthier habits with StepsApp. Track your daily activity, stay consistent with streaks, and now compete with friends through leaderboards, group challenges, and social features that make walking surprisingly addictive.\n\nFEATURES\n\n• Automatic step tracking\n• Daily goals and streaks\n• Challenges with friends, family, and coworkers\n• Leaderboards and groups\n• Workout tracking with Heart Rate Zones and Insights\n•",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/98/72/4798721a-55ac-e3bf-dd25-65d9f04d5fb4/AppIconNew-0-1x_U007ephone-0-1-0-sRGB-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 219200158,
+      "size": 229724559,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/94/5e/63945ee0-33a0-de35-a71e-297dd4a183cc/2259ae29-c352-4f85-87ff-2599f6490dd1_0_APP_IPHONE_55_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/07/ff/6d07ff0c-db7e-bf4c-5a2f-489684ed88dc/3fb04dc2-bcb4-4a4d-8001-c7f8172fbdbd_2_APP_IPHONE_55_2.png/392x696bb.png",
@@ -64875,11 +64875,11 @@
       },
       "versions": [
         {
-          "version": "8.11.0",
-          "date": "2026-07-01",
+          "version": "8.11.1",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.11.0-riftysipas.ipa",
-          "size": 219200158
+          "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.11.1-riftysipas.ipa",
+          "size": 229724559
         }
       ],
       "category": "health-&-fitness"
@@ -65423,14 +65423,14 @@
       "bundleIdentifier": "uni.cbum",
       "developerName": "Set The Standard LLC",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "4.1.43",
-      "versionDate": "2026-07-02",
+      "version": "4.1.44",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/STNDRD_Workout_&_Fitness_Plans_v4_1_43_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/STNDRD_Workout_&_Fitness_Plans_v4_1_44_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nSTNDRD Workout & Fitness Plans\n\n---\nTry STNDRD FREE for 7 days\n\nCoached by 6x Mr. Olympia Chris Bumstead. Featured by Apple. 150,000+ Members Setting Their Standard.\nSTNDRD is a strength training app for people who are serious about getting better. Real programs. Real coaches. Real progress, week after week.\nThis is NOT AI-generated workouts. This is structured training built by champions who've actually done the work, and who want to help you do yours.\n\nSET YOUR STANDARD\n\nWhatever stronger means to you, this is where you build it",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/db/03/b9db03ae-d4aa-1429-3650-a3928b493d67/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 103515786,
+      "size": 109962360,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/a3/58/66a3585e-1aad-90a9-e3e9-6c74e051802c/first5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/fe/10/a1fe106d-4f15-5008-495d-d079d2467edd/dd85a9f9-5d0d-405c-a765-80ec2c5e11c9_Appstore2.png/392x696bb.png",
@@ -65460,11 +65460,11 @@
       },
       "versions": [
         {
-          "version": "4.1.43",
-          "date": "2026-07-02",
+          "version": "4.1.44",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/STNDRD_Workout_&_Fitness_Plans_v4_1_43_Subscription_Unlocked_blatant.ipa",
-          "size": 103515786
+          "downloadURL": "https://telos.ftp.sh/ipas/STNDRD_Workout_&_Fitness_Plans_v4_1_44_Subscription_Unlocked_blatant.ipa",
+          "size": 109962360
         }
       ],
       "category": "health-&-fitness"
