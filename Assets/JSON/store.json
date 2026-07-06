@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "app.justRead.justRead",
     "com.gear.app",
     "com.TickTick.task",
     "com.zerone.hidesktop",
-    "com.intsig.CamScannerLite",
-    "co.visualsupply.cam"
+    "com.intsig.CamScannerLite"
   ],
   "apps": [
     {
@@ -33959,6 +33959,38 @@
         }
       ],
       "category": "finance"
+    },
+    {
+      "name": "justRead.app",
+      "bundleIdentifier": "app.justRead.justRead",
+      "developerName": "PETR JAHODA",
+      "subtitle": "justRead.app for iOS",
+      "version": "3.7",
+      "versionDate": "2026-07-06",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/app.justRead.justRead-3.7-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/7e/03/3f7e032d-4ad4-e436-bf56-daa54dd552fd/justRead-0-0-1x_U007epad-0-1-0-sRGB-GLES2_U002c0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 57701113,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "justRead uses your approximate location to calculate sunrise and sunset times for automatic color preset switching.",
+          "NSLocalNetworkUsageDescription": "justRead uses the local network to discover and connect to your Calibre Content Server for syncing books."
+        }
+      },
+      "versions": [
+        {
+          "version": "3.7",
+          "date": "2026-07-05",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/app.justRead.justRead-3.7-eeveedecrypter.ipa",
+          "size": 57701113
+        }
+      ],
+      "category": "books"
     },
     {
       "name": "Kalak",
@@ -80688,11 +80720,11 @@
     {
       "title": "⚙️ Telos Update 7.6",
       "identifier": "telos-update-2026-07-06",
-      "caption": "10 Apps Updated:\n• 4 Productivity\n• 4 Utilities\n• 2 Graphics & Design",
+      "caption": "12 Apps Updated:\n• 4 Books\n• 4 Productivity\n• 2 Graphics & Design\n• 2 Utilities",
       "date": "2026-07-06",
       "tintColor": "#02433b",
       "notify": true,
-      "appID": "com.zerone.hidesktop"
+      "appID": "app.justRead.justRead"
     },
     {
       "title": "⚙️ Telos Update 7.5",
