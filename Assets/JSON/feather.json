@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.pixite.pigment",
+    "com.nuvio.media",
     "com.gunthermarktl.stepapp",
     "com.inflow.app",
-    "uni.cbum",
-    "com.dr1ven.eraser",
-    "eu.gowod"
+    "uni.cbum"
   ],
   "apps": [
     {
@@ -46421,14 +46421,14 @@
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "RGN VENTURES LTD",
       "subtitle": "Nuvio for iOS",
-      "version": "0.2.18",
-      "versionDate": "2026-07-04",
+      "version": "0.2.19",
+      "versionDate": "2026-07-06",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.18-Full.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.19-Full.ipa",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nNuvio\n\n---\nNuvio – Master Your Cold Plunge Routine\nTake control of your recovery like never before. The Nuvio app seamlessly connects to your Recovery Chiller, giving you full command over your cold plunge experience—anytime, anywhere. No ice. No hassle. Just cold, clean performance on your schedule.\nPERSONALIZED CONTROL. PEAK PERFORMANCE.\nDial in your perfect temperature, schedule sessions in advance, activate purification, and monitor your plunge history—all from your phone. Nuvio is designed to fit your",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 39152131,
+      "size": 39276321,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -46436,11 +46436,11 @@
       },
       "versions": [
         {
-          "version": "0.2.18",
-          "date": "2026-07-04",
+          "version": "0.2.19",
+          "date": "2026-07-06",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.18-Full.ipa",
-          "size": 39152131
+          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.19-Full.ipa",
+          "size": 39276321
         }
       ],
       "category": "health-&-fitness"
@@ -51312,14 +51312,14 @@
       "bundleIdentifier": "com.pixite.pigment",
       "developerName": "Pixite Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.12.2",
-      "versionDate": "2026-06-19",
+      "version": "3.13",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.12.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nAdult Coloring Book - Pigment\n\n---\n= = =\n\nColoring is a great way to relax and reduce stress and anxiety. Just 10 minutes of coloring can provide the same benefits as meditation. It helps you practice mindfulness, stay present, enhance concentration, build creativity, and is a great alternative to games!\n\nPigment, an award-winning coloring app, is a sanctuary for relaxation, nourishing your creative spirit, and providing daily inspiration. Within its vibrant community of artists, you'll discover a wealth of positivity and wholehe",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/b5/38/9cb538ef-8540-21ee-22d2-ddf8644cf03a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/06/13/9e061338-f5e3-8adf-4ccc-833586cd0bb8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 136573972,
+      "size": 145005212,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -51340,11 +51340,11 @@
       },
       "versions": [
         {
-          "version": "3.12.2",
-          "date": "2026-06-19",
+          "version": "3.13",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.12.2-riftysipas.ipa",
-          "size": 136573972
+          "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13-riftysipas.ipa",
+          "size": 145005212
         }
       ],
       "category": "lifestyle"
