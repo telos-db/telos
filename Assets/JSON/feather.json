@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.TickTick.task",
     "com.zerone.hidesktop",
     "com.intsig.CamScannerLite",
     "co.visualsupply.cam",
-    "com.genau.JournalCircle",
-    "com.mwm.stems"
+    "com.genau.JournalCircle"
   ],
   "apps": [
     {
@@ -70118,20 +70118,20 @@
       "bundleIdentifier": "com.TickTick.task",
       "developerName": "Appest Limited",
       "subtitle": "Tweaked with Ticktick, blatantsPatch",
-      "version": "8.1.10",
-      "versionDate": "2026-06-24",
+      "version": "8.1.20",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: Ticktick, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_10_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_20_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Ticktick, blatantsPatch\n\nTickTick:To-Do List & Calendar\n\n---\nTickTick is a powerful to-do & task management app with seamless cloud synchronization across all your devices. Whether you need to schedule an agenda, make memos, share shopping lists, collaborate in a team, or even develop a new habit, set countdown for birthdays, TickTick is always here to help you get stuff done and keep life on track.\n\nKey features of TickTick:\n• Sync tasks across all devices\n• Multiple reminders\n• Flexible calendar views\n• Integrate with calendar application\n• Set flexible",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/fd/85/4bfd85a1-3a99-4e17-da24-7c160f3bef28/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/63/5b/3b635b46-2333-f453-ce84-df1c871cc217/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 107086756,
+      "size": 107725141,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/83/a3/f483a328-db13-be47-3d13-85227c32b0c4/1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/05/47/780547c6-a5cf-6233-3699-fa2328c18a8d/2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/d3/0a/4fd30a8e-c19b-702e-da97-5fc5bf3124de/3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/cb/73/60cb73a5-096e-0e3f-d397-d67fac1ebf41/4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/47/b9/2647b98a-4c6b-f89e-5d9a-f844a0650c03/5.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/b2/70/eeb270e8-eddf-d428-e861-6d1fd22858d0/1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/f4/88/54f48874-fe96-1623-48f0-6a9061a1d34b/2-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/f4/d5/99f4d549-f6c2-0f0a-b513-35aa39f88fda/3-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/d7/51/32d75156-cd94-a2be-6edb-4197cce6223b/4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/82/61/69826175-1697-8ceb-a549-4e424cb986d4/5.png/392x696bb.png"
       ],
       "appPermissions": {
         "entitlements": [
@@ -70170,11 +70170,11 @@
       },
       "versions": [
         {
-          "version": "8.1.10",
-          "date": "2026-06-24",
+          "version": "8.1.20",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: Ticktick, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_10_Subscription_Unlocked_blatant.ipa",
-          "size": 107086756
+          "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_20_Subscription_Unlocked_blatant.ipa",
+          "size": 107725141
         }
       ],
       "category": "productivity"
