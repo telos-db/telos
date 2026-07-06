@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.digitas.solidstarts",
-    "com.manymanypixels.pomodrone",
-    "com.unofficialcalculators.payplan",
-    "com.feelty",
-    "com.sbs.diet"
+    "com.nibbleapps.MealPrepPro",
+    "com.leomehlig.today",
+    "com.thehungrywasp.iamsober",
+    "com.dreamer.Habits",
+    "com.soundcloud.TouchApp"
   ],
   "apps": [
     {
@@ -28336,14 +28336,14 @@
       "bundleIdentifier": "com.dreamer.Habits",
       "developerName": "Michal Tuma",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "7.3.1",
-      "versionDate": "2026-06-13",
+      "version": "7.4",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Awesome Habits: Habit Tracker-v7.3.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Awesome Habits: Habit Tracker-v7.4-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nAwesome Habits: Habit Tracker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/51/7b/d5517b5b-f42e-1357-5d93-d331dc20b959/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 14087392,
+      "size": 16439482,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/fd/fb/75fdfb58-9e75-e0ec-caf5-0895b635c73d/d9e00d8a-596e-4177-9476-9f34b94e1a6d_1iPad.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/97/ff/4c97ff27-8b63-8893-fa85-2ca8a7fec7dc/e335f138-9033-4f72-a991-301dbacb0331_2.png/576x768bb.png",
@@ -28368,11 +28368,11 @@
       },
       "versions": [
         {
-          "version": "7.3.1",
-          "date": "2026-06-13",
+          "version": "7.4",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Awesome Habits: Habit Tracker-v7.3.1-riftysipas.ipa",
-          "size": 14087392
+          "downloadURL": "https://telos.ftp.sh/ipas/Awesome Habits: Habit Tracker-v7.4-riftysipas.ipa",
+          "size": 16439482
         }
       ],
       "category": "productivity"
@@ -30604,14 +30604,14 @@
       "bundleIdentifier": "com.thehungrywasp.iamsober",
       "developerName": "I Am Sober LLC",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "8.6.8",
-      "versionDate": "2026-06-25",
+      "version": "8.6.9",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/I Am Sober-v8.6.8-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/I Am Sober-v8.6.9-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nI Am Sober",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/db/06/f6db0686-b0e8-6b9b-fb3b-c00774e17f3c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 39075032,
+      "size": 38945998,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/75/69/147569b9-61b7-dbd0-c9bd-e0703e39f14a/64baf7b4-5fb2-4df1-8a2f-bd5b3b281f54_0_APP_IPHONE_55_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/03/84/d503847c-744b-8a0c-c520-e71886d8393e/45e1f965-0cd7-496d-b852-7fb3cfbada8c_1_APP_IPHONE_55_1.png/392x696bb.png",
@@ -30621,6 +30621,7 @@
       ],
       "appPermissions": {
         "entitlements": [
+          "com.apple.developer.declared-age-range",
           "com.apple.developer.applesignin",
           "aps-environment",
           "com.apple.developer.associated-domains",
@@ -30636,11 +30637,11 @@
       },
       "versions": [
         {
-          "version": "8.6.8",
-          "date": "2026-06-25",
+          "version": "8.6.9",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/I Am Sober-v8.6.8-riftysipas.ipa",
-          "size": 39075032
+          "downloadURL": "https://telos.ftp.sh/ipas/I Am Sober-v8.6.9-riftysipas.ipa",
+          "size": 38945998
         }
       ],
       "category": "lifestyle"
@@ -40261,14 +40262,14 @@
       "bundleIdentifier": "com.nibbleapps.MealPrepPro",
       "developerName": "Nibble Apps Ltd",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "3.140",
-      "versionDate": "2026-06-10",
+      "version": "3.141",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MealPrepPro Planner & Recipes-v3.140-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MealPrepPro Planner & Recipes-v3.141-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓** | *Bundle Id:** Com.Nibbleapps.Mealpreppro\n\nMealPrepPro Planner & Recipes",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/8d/13/108d13a2-41d6-91e2-88e9-6d2702ba6a2f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 129245684,
+      "size": 131332238,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -40288,11 +40289,11 @@
       },
       "versions": [
         {
-          "version": "3.140",
-          "date": "2026-06-09",
+          "version": "3.141",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MealPrepPro Planner & Recipes-v3.140-riftysipas.ipa",
-          "size": 129245684
+          "downloadURL": "https://telos.ftp.sh/ipas/MealPrepPro Planner & Recipes-v3.141-riftysipas.ipa",
+          "size": 131332238
         }
       ],
       "category": "food-&-drink"
@@ -59875,14 +59876,14 @@
       "bundleIdentifier": "com.joytunes.Draw",
       "developerName": "Simply Ltd",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "1.6.36",
-      "versionDate": "2026-06-26",
+      "version": "1.6.37",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_36_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_37_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSimply Draw: Learn to Draw",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/1c/b4/1f1cb47a-7c46-e5c0-5d41-01e445152aca/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/15/ea/8815ea36-fd2e-be1c-6d72-e0451bb05672/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 137768043,
+      "size": 138112712,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -59901,11 +59902,11 @@
       },
       "versions": [
         {
-          "version": "1.6.36",
-          "date": "2026-06-26",
+          "version": "1.6.37",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_36_Subscription_Unlocked_blatant.ipa",
-          "size": 137768043
+          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_37_Subscription_Unlocked_blatant.ipa",
+          "size": 138112712
         }
       ],
       "category": "education"
@@ -62253,14 +62254,14 @@
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "developerName": "SoundCloud Global Limited & Co KG",
       "subtitle": "Go+ Unlocked",
-      "version": "8.67.1",
-      "versionDate": "2026-07-02",
+      "version": "8.68.0",
+      "versionDate": "2026-07-06",
       "versionDescription": "Tweaks: SoundCloudPlus, substrate, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.67.1 NoAds.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.68.0 NoAds.ipa",
       "localizedDescription": "Go+ Unlocked\n\nAppstore link : SoundCloud",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/32/6d/ef326dd6-73ee-e52a-df14-28c43d51fd1a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/c1/2b/cfc12be5-fd1e-58da-d9c9-cfe189b73d64/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 120786079,
+      "size": 120853125,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/0e/9a/790e9a39-985d-ec35-8d6b-135fc84523da/ccfb3f9a-137d-4905-827f-40c6d6726ab1_iPad_Pro_1A.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/f1/7b/58f17b47-e6f8-86a6-276c-f46dd2f735a0/57293b7c-1d2e-4ccd-a634-892d4af7f8a1_iPad_Pro_2A.png/576x768bb.png",
@@ -62315,11 +62316,11 @@
       },
       "versions": [
         {
-          "version": "8.67.1",
-          "date": "2026-07-02",
+          "version": "8.68.0",
+          "date": "2026-07-06",
           "localizedDescription": "Tweaks: SoundCloudPlus, substrate, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.67.1 NoAds.ipa",
-          "size": 120786079
+          "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.68.0 NoAds.ipa",
+          "size": 120853125
         }
       ],
       "category": "music"
@@ -65919,15 +65920,15 @@
       "name": "Structured",
       "bundleIdentifier": "com.leomehlig.today",
       "developerName": "unorderly GmbH",
-      "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.5.1",
-      "versionDate": "2026-06-07",
-      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Structured_Daily_Planner_Todo_v4_5_1_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nStructured: Daily Planner Todo",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/4b/17/684b17ae-bc3d-d02b-51fa-0d0dad2e8326/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
+      "version": "4.5.2",
+      "versionDate": "2026-07-06",
+      "versionDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/Structured - Daily Planner-v4.5.2-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nStructured - Daily Planner",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/01/01/1d010138-01b0-d4bf-4919-25cbda23c727/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 74967907,
+      "size": 139854054,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -65953,11 +65954,11 @@
       },
       "versions": [
         {
-          "version": "4.5.1",
-          "date": "2026-06-07",
-          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Structured_Daily_Planner_Todo_v4_5_1_Subscription_Unlocked_blatant.ipa",
-          "size": 74967907
+          "version": "4.5.2",
+          "date": "2026-07-06",
+          "localizedDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/Structured - Daily Planner-v4.5.2-riftysipas.ipa",
+          "size": 139854054
         }
       ],
       "category": "productivity"
@@ -80725,7 +80726,7 @@
     {
       "title": "⚙️ Telos Update 7.6",
       "identifier": "telos-update-2026-07-06",
-      "caption": "82 Apps Updated:\n• 22 Health & Fitness\n• 20 Photo & Video\n• 8 Productivity\n• 6 Education\n• 4 Utilities\n• 4 Finance\n• 4 Lifestyle\n• 2 Books\n• 2 Graphics & Design\n• 2 Weather\n• 2 Travel\n• 2 Business\n• 2 Music\n• 2 Social Networking",
+      "caption": "98 Apps Updated:\n• 20 Health & Fitness\n• 18 Productivity\n• 16 Photo & Video\n• 8 Education\n• 8 Lifestyle\n• 6 Music\n• 4 Utilities\n• 4 Food & Drink\n• 2 Books\n• 2 Graphics & Design\n• 2 Weather\n• 2 Travel\n• 2 Business\n• 2 Finance\n• 2 Social Networking",
       "date": "2026-07-06",
       "tintColor": "#02433b",
       "notify": true,
