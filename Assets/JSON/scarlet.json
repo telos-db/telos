@@ -5554,33 +5554,6 @@
       }
     },
     {
-      "name": "Bound",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName": "Discord Inc.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: BTLoader, CydiaSubstrate\n\n---\nDiscord is designed for gaming and great for just chilling with friends or building a community. Customize your own space and gather your friends to talk while playing your favorite games, or just hang out.\n\nGROUP CHAT THAT’S ALL FUN & GAMES\n∙ Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out in.\n\nMAKE YOUR GROUP CHATS MORE FUN\n∙ Create custom emoji, stickers, soundboard effects, and more to",
-      "version": "318.0",
-      "versionDate": "2026-03-08T19:37:42-00:00",
-      "versionDescription": "Build 94578 from @binnichtaktivsipas",
-      "size": 90792123,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/9a/f1/2c9af1b7-a250-e68e-8be2-120e4b956aac/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/bound.ipa",
-      "minOSVersion": "15.1",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        0,
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "bound.ipa"
-      }
-    },
-    {
       "name": "Bowmasters",
       "bundleIdentifier": "com.playgendary.bowmasters",
       "developerName": "Playgendary Limited",
@@ -11027,6 +11000,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Dig Tycoon - Idle Game-v3.4.1-riftysipas.ipa"
+      }
+    },
+    {
+      "name": "Discord",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Discord Inc.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nDiscord is designed for gaming and great for just chilling with friends or building a community. Customize your own space and gather your friends to talk while playing your favorite games, or just hang out.\n\nGROUP CHAT THAT’S ALL FUN & GAMES\n∙ Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out in.\n\nMAKE YOUR GROUP CHATS MORE FUN\n∙ Create custom emoji, stickers, soundboard effects, and more to",
+      "version": "335.0",
+      "versionDate": "2026-07-06T14:23:31-00:00",
+      "versionDescription": "Build 104701 from @thescholarslounge",
+      "size": 102786285,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/f6/de/adf6de1e-d577-e13b-2058-763741916e15/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.hammerandchisel.discord-335.0-eeveedecrypter.ipa",
+      "minOSVersion": "16.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.hammerandchisel.discord-335.0-eeveedecrypter.ipa"
       }
     },
     {
