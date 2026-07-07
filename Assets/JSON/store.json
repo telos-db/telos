@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.algoriddim.djay-iphone-free",
+    "com.SofaScore.iOS",
     "org.reactjs.native.example.rootd",
     "gronda.gmbh",
-    "com.unofficialcalculators.payplan",
-    "com.evolve.helm",
-    "com.zerone.hidesktop"
+    "com.unofficialcalculators.payplan"
   ],
   "apps": [
     {
@@ -17510,14 +17510,14 @@
       "bundleIdentifier": "com.algoriddim.djay-iphone-free",
       "developerName": "Algoriddim GmbH",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "5.6.6",
-      "versionDate": "2026-06-25",
+      "version": "5.6.7",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/djay - DJ App & AI Mixer-v5.6.6-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/djay - DJ App & AI Mixer-v5.6.7-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓** | *Bundle Id:** Com.Algoriddim.Djay-Iphone-Free\n\ndjay - DJ App & AI Mixer",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/f4/9f/02f49fa6-7142-252b-3fe1-17649ca37559/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 193828770,
+      "size": 193892011,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -17538,11 +17538,11 @@
       },
       "versions": [
         {
-          "version": "5.6.6",
-          "date": "2026-06-25",
+          "version": "5.6.7",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/djay - DJ App & AI Mixer-v5.6.6-riftysipas.ipa",
-          "size": 193828770
+          "downloadURL": "https://telos.ftp.sh/ipas/djay - DJ App & AI Mixer-v5.6.7-riftysipas.ipa",
+          "size": 193892011
         }
       ],
       "category": "music"
@@ -61795,14 +61795,14 @@
       "bundleIdentifier": "com.SofaScore.iOS",
       "developerName": "Sofascore",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "26.06.29",
-      "versionDate": "2026-07-06",
+      "version": "26.06.30",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofascore\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sofascore - Live sports scores-v26.06.29-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sofascore - Live sports scores-v26.06.30-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nSofascore - Live sports scores",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/6e/97/8c6e9770-2b4d-b1cc-834a-0911fdda3480/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 94673600,
+      "size": 94659124,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/49/0e/fd490e32-f511-7158-7212-e1edeee22b7e/18da3b96-33c2-4a9f-b596-61ab5a7d53c5_UK_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/18/5b/7b185bcf-aece-3163-99c4-db84f72fdd5a/bacde706-eaff-40db-b4f8-13bfcfe409d6_AU_2.png/392x696bb.png",
@@ -61828,11 +61828,11 @@
       },
       "versions": [
         {
-          "version": "26.06.29",
-          "date": "2026-07-06",
+          "version": "26.06.30",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofascore\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Sofascore - Live sports scores-v26.06.29-riftysipas.ipa",
-          "size": 94673600
+          "downloadURL": "https://telos.ftp.sh/ipas/Sofascore - Live sports scores-v26.06.30-riftysipas.ipa",
+          "size": 94659124
         }
       ],
       "category": "sports"
@@ -80831,7 +80831,7 @@
     {
       "title": "⚙️ Telos Update 7.7",
       "identifier": "telos-update-2026-07-07",
-      "caption": "60 Apps Updated:\n• 14 Health & Fitness\n• 8 Photo & Video\n• 6 Entertainment\n• 4 Lifestyle\n• 4 Utilities\n• 4 Productivity\n• 4 Food & Drink\n• 2 Weather\n• 2 Developer Tools\n• 2 Business\n• 2 Books\n• 2 Music\n• 2 Games\n• 2 Graphics & Design\n• 2 Finance",
+      "caption": "66 Apps Updated:\n• 12 Health & Fitness\n• 8 Photo & Video\n• 6 Entertainment\n• 6 Music\n• 4 Lifestyle\n• 4 Utilities\n• 4 Productivity\n• 4 Food & Drink\n• 4 Sports\n• 2 Weather\n• 2 Developer Tools\n• 2 Business\n• 2 Books\n• 2 Games\n• 2 Graphics & Design\n• 2 Finance",
       "date": "2026-07-07",
       "tintColor": "#02433b",
       "notify": true,
