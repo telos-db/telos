@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.algoriddim.djay-iphone-free",
+    "com.SofaScore.iOS",
     "org.reactjs.native.example.rootd",
     "gronda.gmbh",
-    "com.unofficialcalculators.payplan",
-    "com.evolve.helm",
-    "com.zerone.hidesktop"
+    "com.unofficialcalculators.payplan"
   ],
   "apps": [
     {
@@ -17654,14 +17654,14 @@
       "bundleIdentifier": "com.algoriddim.djay-iphone-free",
       "developerName": "Algoriddim GmbH",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "5.6.6",
-      "versionDate": "2026-06-25",
+      "version": "5.6.7",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/djay - DJ App & AI Mixer-v5.6.6-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/djay - DJ App & AI Mixer-v5.6.7-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\ndjay - DJ App & AI Mixer\n\n---\nNow with Spotify and Apple Music integration\n\nWelcome to djay! The #1 DJ app and winner of multiple Apple Design Awards lets you start mixing your favorite music instantly. Connect your Spotify or Apple Music account to access millions of songs and create your own DJ mixes in no time – right inside djay.\n\ndjay transforms your iOS device into a full-featured DJ system. Seamlessly integrated with your music library, djay allows you to mix your favorite songs and playlists. You can perform live, re",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/f4/9f/02f49fa6-7142-252b-3fe1-17649ca37559/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 193828770,
+      "size": 193892011,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -17682,11 +17682,11 @@
       },
       "versions": [
         {
-          "version": "5.6.6",
-          "date": "2026-06-25",
+          "version": "5.6.7",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/djay - DJ App & AI Mixer-v5.6.6-riftysipas.ipa",
-          "size": 193828770
+          "downloadURL": "https://telos.ftp.sh/ipas/djay - DJ App & AI Mixer-v5.6.7-riftysipas.ipa",
+          "size": 193892011
         }
       ],
       "category": "music"
@@ -62261,14 +62261,14 @@
       "bundleIdentifier": "com.SofaScore.iOS",
       "developerName": "Sofascore",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "26.06.29",
-      "versionDate": "2026-07-06",
+      "version": "26.06.30",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofascore\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sofascore - Live sports scores-v26.06.29-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sofascore - Live sports scores-v26.06.30-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofascore\n\nSofascore - Live sports scores\n\n---\nFollow the Soccer World Championship 2026 in Sofascore's national team hub, built for complete coverage from kickoff to the final. Stay on top of live scores, schedules, standings, and knockout brackets while tracking your team's run through every round. Explore in-depth match stats and performance insights, and get real-time alerts so you never miss a game-changing moment across the United States 2026 host cities. From the opening match to the trophy celebration, Sofascore keeps you in the acti",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/6e/97/8c6e9770-2b4d-b1cc-834a-0911fdda3480/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 94673600,
+      "size": 94659124,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/49/0e/fd490e32-f511-7158-7212-e1edeee22b7e/18da3b96-33c2-4a9f-b596-61ab5a7d53c5_UK_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/18/5b/7b185bcf-aece-3163-99c4-db84f72fdd5a/bacde706-eaff-40db-b4f8-13bfcfe409d6_AU_2.png/392x696bb.png",
@@ -62294,11 +62294,11 @@
       },
       "versions": [
         {
-          "version": "26.06.29",
-          "date": "2026-07-06",
+          "version": "26.06.30",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofascore\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Sofascore - Live sports scores-v26.06.29-riftysipas.ipa",
-          "size": 94673600
+          "downloadURL": "https://telos.ftp.sh/ipas/Sofascore - Live sports scores-v26.06.30-riftysipas.ipa",
+          "size": 94659124
         }
       ],
       "category": "sports"
