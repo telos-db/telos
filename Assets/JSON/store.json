@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.jetsign.app",
+    "com.myfitnesspal.mfp",
     "com.glucobit.cravingBuster.CravingBuster",
     "com.tr.paraphrasingtool.rewritertool.textrewriter",
-    "com.vertventures.stella",
-    "p3.xyz.yyyue.esign",
-    "com.yazio.ios.YAZIO"
+    "com.vertventures.stella"
   ],
   "apps": [
     {
@@ -33590,6 +33590,48 @@
       "category": "games"
     },
     {
+      "name": "JetSign",
+      "bundleIdentifier": "com.jetsign.app",
+      "developerName": "GrowthClick Inc.",
+      "subtitle": "JetSign for iOS",
+      "version": "2.5.4",
+      "versionDate": "2026-07-07",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/JetSign_2.5.4.ipa",
+      "localizedDescription": "JetSign for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/95/37/02953787-2b4b-38dd-0c59-8cc04d765b5b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 17550035,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3a/71/53/3a7153bc-0ed6-6363-69a2-0cc3f931d5ab/abe6b74d-cdad-4eb7-9ccc-cabecc116ea1_1-iphone-5.5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/98/a1/db/98a1dbb4-c8d4-51b3-4483-b323f917e111/d5ce12e5-33e1-4471-a00c-44bc93e1bb8f_2-iphone-5.5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/68/2f/e0/682fe0d2-4e29-d44f-d26a-b79015205ff3/52aebf88-90b5-403c-bd6f-cc630b71a0a5_3-iphone-5.5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c2/7c/fd/c27cfdaf-07e2-dc37-ff83-b87d5b1f9946/107debed-8b3e-4c50-ab3d-6fa8632d3573_4-iphone-5.5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/8f/29/e18f298e-b763-834d-60cc-c0d5722dae28/439490e8-c8a7-4b7f-8979-073a0ec95b57_5-iphone-5.5.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "To Pick Photos from Library",
+          "NSCameraUsageDescription": "To Take Photos and Video",
+          "NSMicrophoneUsageDescription": "To Record Audio With Video",
+          "NSLocationWhenInUseUsageDescription": "Allow Geolocation?",
+          "NSLocationAlwaysUsageDescription": "Always allow Geolocation?",
+          "NSPhotoLibraryAddUsageDescription": "Store camera photos to camera"
+        }
+      },
+      "versions": [
+        {
+          "version": "2.5.4",
+          "date": "2026-07-07",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/JetSign_2.5.4.ipa",
+          "size": 17550035
+        }
+      ],
+      "category": "productivity"
+    },
+    {
       "name": "Jigsaw Puzzles",
       "bundleIdentifier": "com.easybrain.puzzles",
       "developerName": "Easybrain Ltd",
@@ -43752,15 +43794,15 @@
       "name": "MyFitnessPal",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "MyFitnessPal, Inc.",
-      "subtitle": "Tweaked with CydiaSubstrate, MyFitnessPal",
-      "version": "26.26.0",
-      "versionDate": "2026-07-01",
-      "versionDescription": "Tweaks: CydiaSubstrate, MyFitnessPal, SideloadSpoofer-08, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal Premium 26.26.0.ipa",
-      "localizedDescription": "MyFitnessPal: Calorie Counter",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "26.27.0",
+      "versionDate": "2026-07-07",
+      "versionDescription": "Tweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal_Calorie_Counter_v26_27_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nMyFitnessPal: Calorie Counter",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/ee/f4/89eef492-dbdc-5289-8726-0f261b49ce57/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 335252493,
+      "size": 342513428,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -43784,11 +43826,11 @@
       },
       "versions": [
         {
-          "version": "26.26.0",
-          "date": "2026-07-01",
-          "localizedDescription": "Tweaks: CydiaSubstrate, MyFitnessPal, SideloadSpoofer-08, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal Premium 26.26.0.ipa",
-          "size": 335252493
+          "version": "26.27.0",
+          "date": "2026-07-07",
+          "localizedDescription": "Tweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal_Calorie_Counter_v26_27_0_Subscription_Unlocked_blatant.ipa",
+          "size": 342513428
         }
       ],
       "category": "health-&-fitness"
@@ -80873,7 +80915,7 @@
     {
       "title": "⚙️ Telos Update 7.7",
       "identifier": "telos-update-2026-07-07",
-      "caption": "124 Apps Updated:\n• 24 Health & Fitness\n• 20 Productivity\n• 18 Photo & Video\n• 12 Lifestyle\n• 8 Music\n• 6 Developer Tools\n• 6 Entertainment\n• 4 Business\n• 4 Utilities\n• 4 Games\n• 4 Food & Drink\n• 2 Weather\n• 2 Books\n• 2 Graphics & Design\n• 2 Finance\n• 2 Sports\n• 2 Navigation\n• 2 Education",
+      "caption": "112 Apps Updated:\n• 24 Health & Fitness\n• 16 Photo & Video\n• 16 Productivity\n• 10 Lifestyle\n• 6 Entertainment\n• 6 Music\n• 4 Developer Tools\n• 4 Business\n• 4 Utilities\n• 4 Games\n• 4 Food & Drink\n• 2 Weather\n• 2 Books\n• 2 Graphics & Design\n• 2 Finance\n• 2 Sports\n• 2 Navigation\n• 2 Education",
       "date": "2026-07-07",
       "tintColor": "#02433b",
       "notify": true,
