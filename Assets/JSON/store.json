@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.zerone.hidesktop",
     "com.AppChief.ArabicArt",
     "com.readdle.PDFExpert5",
     "com.aiti.FitnessOnline",
-    "com.path36.SpliceFree",
-    "com.AJNSNewMedia.KitchenStories"
+    "com.path36.SpliceFree"
   ],
   "apps": [
     {
@@ -29957,14 +29957,14 @@
       "bundleIdentifier": "com.zerone.hidesktop",
       "developerName": "Xiamen ShenZhuo Information Technology Co., Ltd.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.4.36",
-      "versionDate": "2026-07-06",
+      "version": "4.4.37",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: blatantsPatch, iScreen\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/iScreen_Widgets_&_Wallpaper_v4_4_36_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/iScreen_Widgets_&_Wallpaper_v4_4_37_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\niScreen - Widgets & Wallpaper",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/38/c7/d738c7e6-1548-cc07-a709-ca802106faa2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 427972067,
+      "size": 427956075,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/70/38/b37038bc-ce7d-6cd8-506b-dd530b6166ae/2208-OS26__U82f1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/a6/97/6ba697b8-46b4-a052-d36e-62f116c53107/2208-_U58c1_U7eb8__U82f1.png/392x696bb.png",
@@ -29999,11 +29999,11 @@
       },
       "versions": [
         {
-          "version": "4.4.36",
-          "date": "2026-07-06",
+          "version": "4.4.37",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: blatantsPatch, iScreen\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/iScreen_Widgets_&_Wallpaper_v4_4_36_Subscription_Unlocked_blatant.ipa",
-          "size": 427972067
+          "downloadURL": "https://telos.ftp.sh/ipas/iScreen_Widgets_&_Wallpaper_v4_4_37_Subscription_Unlocked_blatant.ipa",
+          "size": 427956075
         }
       ],
       "category": "graphics-&-design"
@@ -80831,7 +80831,7 @@
     {
       "title": "⚙️ Telos Update 7.7",
       "identifier": "telos-update-2026-07-07",
-      "caption": "50 Apps Updated:\n• 10 Photo & Video\n• 6 Health & Fitness\n• 6 Entertainment\n• 6 Productivity\n• 4 Lifestyle\n• 4 Utilities\n• 2 Weather\n• 2 Developer Tools\n• 2 Business\n• 2 Books\n• 2 Music\n• 2 Games\n• 2 Food & Drink",
+      "caption": "50 Apps Updated:\n• 8 Photo & Video\n• 6 Health & Fitness\n• 6 Entertainment\n• 4 Lifestyle\n• 4 Utilities\n• 4 Productivity\n• 4 Graphics & Design\n• 2 Weather\n• 2 Developer Tools\n• 2 Business\n• 2 Books\n• 2 Music\n• 2 Games\n• 2 Food & Drink",
       "date": "2026-07-07",
       "tintColor": "#02433b",
       "notify": true,
