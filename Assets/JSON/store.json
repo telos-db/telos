@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "gronda.gmbh",
+    "com.unofficialcalculators.payplan",
+    "com.evolve.helm",
     "com.zerone.hidesktop",
-    "com.AppChief.ArabicArt",
-    "com.readdle.PDFExpert5",
-    "com.aiti.FitnessOnline",
-    "com.path36.SpliceFree"
+    "com.AppChief.ArabicArt"
   ],
   "apps": [
     {
@@ -7367,14 +7367,14 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "subtitle": "*Tweak:** Full Version Unlocked | *Patched ✓**",
-      "version": "4.1.101",
-      "versionDate": "2026-07-06",
+      "version": "4.2.0",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.101-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Full Version Unlocked | *Patched ✓** | *Developer:** Bill Tracker Pro, Inc.\n\nBill Tracker Pro",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/61/b5/8a61b500-b5a9-ea91-7776-d63a1d2d9a18/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 148314866,
+      "size": 148517959,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/df/72/1cdf72bb-1d54-7a27-d6e4-e54ef4151c21/pr_source.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/ab/2c/f4ab2cef-41bd-f2bf-2980-f7910d3d3dd8/pr_source.png/552x414bb.png",
@@ -7403,11 +7403,11 @@
       },
       "versions": [
         {
-          "version": "4.1.101",
-          "date": "2026-07-06",
+          "version": "4.2.0",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.1.101-riftysipas.ipa",
-          "size": 148314866
+          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.0-riftysipas.ipa",
+          "size": 148517959
         }
       ],
       "category": "finance"
@@ -27758,14 +27758,14 @@
       "bundleIdentifier": "gronda.gmbh",
       "developerName": "Gronda GmbH",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "8.24.2",
-      "versionDate": "2026-07-02",
+      "version": "8.25.0",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.24.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.25.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nGronda: Recipes for Chefs",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/25/9f/50259fc7-21e1-ce83-dac6-f535654f358f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/14/18/961418a4-4499-fdf9-7826-ae5fc6f82c64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 53367904,
+      "size": 55267978,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/5d/43/475d4391-f91c-85a7-e3e6-a4f5466a2dc6/12.9__EN-1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ca/0a/e0ca0a9a-ddcc-2fb8-ed4c-9dcbbd409ba3/12.9__EN-2.jpg/576x768bb.jpg",
@@ -27798,11 +27798,11 @@
       },
       "versions": [
         {
-          "version": "8.24.2",
-          "date": "2026-07-02",
+          "version": "8.25.0",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.24.2-riftysipas.ipa",
-          "size": 53367904
+          "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.25.0-riftysipas.ipa",
+          "size": 55267978
         }
       ],
       "category": "food-&-drink"
@@ -56297,14 +56297,14 @@
       "bundleIdentifier": "com.evolve.helm",
       "developerName": "Evolve Global, Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "3.193.0",
-      "versionDate": "2026-06-29",
+      "version": "3.194.0",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Rest: Fix Your Sleep For Good-v3.193.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Rest: Fix Your Sleep For Good-v3.194.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nRest: Fix Your Sleep For Good",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/b7/6a/f7b76af7-fa30-3da2-05c5-12e04d3fd0bd/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/35/1b/a9351b4a-19ae-008d-11ed-af0b0a950fbf/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 128518601,
+      "size": 128530776,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c6/dd/74c6dd2c-8270-353b-e06c-51365da28c06/5.5_-_Slide_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/77/d9/8177d9cf-9598-cc3c-b752-2d2b19bd1041/5.5_-_Slide_2.png/392x696bb.png",
@@ -56336,11 +56336,11 @@
       },
       "versions": [
         {
-          "version": "3.193.0",
-          "date": "2026-06-29",
+          "version": "3.194.0",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Rest: Fix Your Sleep For Good-v3.193.0-riftysipas.ipa",
-          "size": 128518601
+          "downloadURL": "https://telos.ftp.sh/ipas/Rest: Fix Your Sleep For Good-v3.194.0-riftysipas.ipa",
+          "size": 128530776
         }
       ],
       "category": "health-&-fitness"
@@ -80831,7 +80831,7 @@
     {
       "title": "⚙️ Telos Update 7.7",
       "identifier": "telos-update-2026-07-07",
-      "caption": "50 Apps Updated:\n• 8 Photo & Video\n• 6 Health & Fitness\n• 6 Entertainment\n• 4 Lifestyle\n• 4 Utilities\n• 4 Productivity\n• 4 Graphics & Design\n• 2 Weather\n• 2 Developer Tools\n• 2 Business\n• 2 Books\n• 2 Music\n• 2 Games\n• 2 Food & Drink",
+      "caption": "64 Apps Updated:\n• 14 Health & Fitness\n• 8 Photo & Video\n• 6 Entertainment\n• 6 Food & Drink\n• 4 Lifestyle\n• 4 Utilities\n• 4 Productivity\n• 4 Finance\n• 2 Weather\n• 2 Developer Tools\n• 2 Business\n• 2 Books\n• 2 Music\n• 2 Games\n• 2 Graphics & Design",
       "date": "2026-07-07",
       "tintColor": "#02433b",
       "notify": true,
