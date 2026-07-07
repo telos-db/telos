@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "org.reactjs.native.example.rootd",
     "gronda.gmbh",
     "com.unofficialcalculators.payplan",
     "com.evolve.helm",
-    "com.zerone.hidesktop",
-    "com.AppChief.ArabicArt"
+    "com.zerone.hidesktop"
   ],
   "apps": [
     {
@@ -57011,14 +57011,14 @@
       "bundleIdentifier": "org.reactjs.native.example.rootd",
       "developerName": "Simply Rooted Media Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "3.1.60",
-      "versionDate": "2026-06-30",
+      "version": "3.1.62",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.60-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.62-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nRootd: Panic Attacks & Anxiety",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/e8/02/b5e8027e-1639-b9a6-63a8-e7639d9e711b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 64570521,
+      "size": 64761150,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/20/bb/2420bb85-208d-5c12-54a8-18e90ce18c3a/e46a7b02-ac14-4809-91f5-aa8575fef4ce_rteriphone_5.5_display_copy.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/22/b2/f822b2d7-8fa5-1e87-a43e-8fddfef3694e/f6665434-fc68-4954-9b95-8eacd3051608_1242x2208bb-16.png/392x696bb.png",
@@ -57052,11 +57052,11 @@
       },
       "versions": [
         {
-          "version": "3.1.60",
-          "date": "2026-06-30",
+          "version": "3.1.62",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.60-riftysipas.ipa",
-          "size": 64570521
+          "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.62-riftysipas.ipa",
+          "size": 64761150
         }
       ],
       "category": "health-&-fitness"
@@ -80831,7 +80831,7 @@
     {
       "title": "⚙️ Telos Update 7.7",
       "identifier": "telos-update-2026-07-07",
-      "caption": "64 Apps Updated:\n• 14 Health & Fitness\n• 8 Photo & Video\n• 6 Entertainment\n• 6 Food & Drink\n• 4 Lifestyle\n• 4 Utilities\n• 4 Productivity\n• 4 Finance\n• 2 Weather\n• 2 Developer Tools\n• 2 Business\n• 2 Books\n• 2 Music\n• 2 Games\n• 2 Graphics & Design",
+      "caption": "60 Apps Updated:\n• 14 Health & Fitness\n• 8 Photo & Video\n• 6 Entertainment\n• 4 Lifestyle\n• 4 Utilities\n• 4 Productivity\n• 4 Food & Drink\n• 2 Weather\n• 2 Developer Tools\n• 2 Business\n• 2 Books\n• 2 Music\n• 2 Games\n• 2 Graphics & Design\n• 2 Finance",
       "date": "2026-07-07",
       "tintColor": "#02433b",
       "notify": true,
