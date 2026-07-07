@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-07-06",
+  "versionDate": "2026-07-07",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -4230,13 +4230,13 @@
       "name": "Bazaart",
       "bundleIdentifier": "co.bazaart.app",
       "developerName": "Bazaart Ltd.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Bazaart, blatantsPatch\n\nBazaart AI Photo Editor Design\n\n---\nBazaart is an easy-to-use AI photo editor, video editor, and design app. No design background needed. Create fast for online selling, digital marketing, and social media. Get your design superpowers today!\n\nWhat you can make\n\nFor your business:\nProduct photos, model shots, home listings, profile pics, logos, flyers, ads, posters.\n\nFor your social media:\nReels, TikTok videos, stories, posts, slideshows, thumbnails, stop motion videos.\n\nFor your everyday life:\nCollages, cards, invitations, memes,",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: BazaartAIPhotoEditorDesignPatch\n\nBazaart: Design, Photo & Video\n\n---\nBazaart is an easy-to-use AI photo editor, video editor, and design app. No design background needed. Create fast for online selling, digital marketing, and social media. Get your design superpowers today!\n\nWhat you can make\n\nFor your business:\nProduct photos, model shots, home listings, profile pics, logos, flyers, ads, posters.\n\nFor your social media:\nReels, TikTok videos, stories, posts, slideshows, thumbnails, stop motion videos.\n\nFor your everyday life:\nCollages, cards, invitations, memes,",
       "version": "26.3.8",
-      "versionDate": "2026-07-05T09:24:11-00:00",
-      "versionDescription": "Build 1338 from @blatants",
-      "size": 104932767,
+      "versionDate": "2026-07-06T23:30:05-00:00",
+      "versionDescription": "Build 1338 from @binnichtaktivsipas",
+      "size": 105107993,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/aa/ee/58aaee6f-bae7-5a3b-40fa-af0639a50cd7/Bazaart_Icon_v3-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bazaart_AI_Photo_Editor_Design_v26_3_8_Premium_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bazaart Premium 26.3.8.ipa",
       "minOSVersion": "16",
       "supportedPlatforms": [
         "iOS"
@@ -4246,10 +4246,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Bazaart_AI_Photo_Editor_Design_v26_3_8_Premium_Unlocked_blatant.ipa"
+        "originalFile": "Bazaart Premium 26.3.8.ipa"
       }
     },
     {
@@ -6516,6 +6516,31 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Calendars_Schedule_Planner_v5_37_31_Subscription_Unlocked_blatant.ipa"
+      }
+    },
+    {
+      "name": "Caliber",
+      "bundleIdentifier": "com.caliberfitness.app",
+      "developerName": "Caliber Fitness, Inc",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Caliber, blatantsPatch\n\nCaliber: Strength Training\n\n---\nCaliber is a science-based strength training app that combines resistance training, cardio, nutrition, and habit formation to help you build muscle, lose fat, and improve your overall fitness—for good.\n\nTRAIN YOUR WAY\n\n• Free Version. Create and track unlimited workouts, access 600+ exercises, and train solo or with friends.\n\n• Caliber Plus. Maximize your results with coach-designed training plans, personalized progress tracking, nutrition targets and more.\n\n• Premium Coaching. Get 1-on-1 guidan",
+      "version": "5.14.0",
+      "versionDate": "2026-07-06T22:56:29-00:00",
+      "versionDescription": "Build 251 from @blatants",
+      "size": 51668846,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/b9/89/fab989b3-614a-1717-7fab-a2839f4af964/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Caliber_Strength_Training_v5_14_0_Subscription_Unlocked_blatant.ipa",
+      "minOSVersion": "15.1",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@blatants",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Caliber_Strength_Training_v5_14_0_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -12304,12 +12329,12 @@
       "bundleIdentifier": "com.edjing.edjingdjturntable",
       "developerName": "MWM",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: DJMixer, blatantsPatch\n\nEdjing Mix: DJ Music Mixer App\n\n---\nReady to command the dance floor? edjing Mix puts a professional DJ setup right in your pocket. Mix millions of tracks from your favorite sources and create killer mashups that will get everyone moving.\n\nWhether you're a bedroom DJ learning the ropes or a music producer looking for a new creative outlet, edjing Mix has you covered. It’s the most powerful virtual turntable experience on the App Store, letting you unleash your creativity anywhere, anytime.\n\nHere's why you'll love it:\n• UNLIMITED T",
-      "version": "9.1.4",
-      "versionDate": "2026-07-06T11:13:48-00:00",
-      "versionDescription": "Build 2 from @blatants",
-      "size": 186522327,
+      "version": "9.1.5",
+      "versionDate": "2026-07-06T22:54:05-00:00",
+      "versionDescription": "Build 1 from @blatants",
+      "size": 186063734,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/43/e7/0e43e789-a080-37cb-3fa2-1234f850d8cf/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Edjing_Mix_DJ_Music_Mixer_App_v9_1_4_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Edjing_Mix_DJ_Music_Mixer_App_v9_1_5_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "18.6",
       "supportedPlatforms": [
         "iOS"
@@ -12322,7 +12347,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Edjing_Mix_DJ_Music_Mixer_App_v9_1_4_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Edjing_Mix_DJ_Music_Mixer_App_v9_1_5_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -12407,13 +12432,13 @@
       "name": "Elevate",
       "bundleIdentifier": "com.elevateapp.elevate",
       "developerName": "The Mind Company",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nElevate - Brain Training Games\n\n---\nElevate is a brain training program designed to improve your mind’s focus, memory, speaking abilities, processing speed, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.\n\nThe more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. 90%+ report improved vocabulary, math skills, and overall mental sharpness when they frequen",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: AutoRc, CydiaSubstrate\n\nElevate - Brain Training Games\n\n---\nElevate is a brain training program designed to improve your mind’s focus, memory, speaking abilities, processing speed, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.\n\nThe more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. 90%+ report improved vocabulary, math skills, and overall mental sharpness when they frequen",
       "version": "5.247.0",
-      "versionDate": "2026-07-06T20:32:48-00:00",
-      "versionDescription": "Build 4625 from @riftysIPAlibrary",
-      "size": 402845626,
+      "versionDate": "2026-07-06T23:54:45-00:00",
+      "versionDescription": "Build 4625 from @binnichtaktivsipas",
+      "size": 402873343,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/46/bb/b346bb91-1ac0-0404-b1b9-29b7cadd6388/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.247.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Elevate Pro 5.247.0.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -12423,10 +12448,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@riftysIPAlibrary",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Elevate - Brain Training Games-v5.247.0-riftysipas.ipa"
+        "originalFile": "Elevate Pro 5.247.0.ipa"
       }
     },
     {
@@ -15104,14 +15129,14 @@
       "name": "Flitsmeister",
       "bundleIdentifier": "rw.sp.flitsmeister",
       "developerName": "Waze Inc.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nKnow what's ahead on the road with the help from other drivers. Waze is a live map that harnesses the local knowledge of tens of millions of drivers around the world. Drivers safely and confidently reach their everyday destinations thanks to Waze map’s GPS navigation, live traffic updates, real-time safety alerts (including construction, accidents, crashes, police, potholes, and more), and accurate ETAs.\n\nMake your next drive more predictable and stress-free:\n• Get there faster with real-time di",
-      "version": "12.6",
-      "versionDate": "2025-12-31T04:27:41-00:00",
-      "versionDescription": "Build 27094 from @binnichtaktivsipas",
-      "size": 113055049,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/2a/a5/f72aa5d8-0e3c-a868-0525-8c7135bcf38c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Flitsmeister_354936286_868745079_12.6.ipa",
-      "minOSVersion": "16.0",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Flitsmeister, blatantsPatch\n\nFlitsmeister\n\n---\nKnow what's ahead on the road with the help from other drivers. Waze is a live map that harnesses the local knowledge of tens of millions of drivers around the world. Drivers safely and confidently reach their everyday destinations thanks to Waze map’s GPS navigation, live traffic updates, real-time safety alerts (including construction, accidents, crashes, police, potholes, and more), and accurate ETAs.\n\nMake your next drive more predictable and stress-free:\n• Get there faster with real-time di",
+      "version": "14.9.1",
+      "versionDate": "2026-07-06T23:01:21-00:00",
+      "versionDescription": "Build 34697 from @blatants",
+      "size": 149711365,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/32/51/b132510d-4be4-f5bc-8982-15333eb0066d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Flitsmeister v14.9.1 Subscription Unlocked blatant Patched.ipa",
+      "minOSVersion": "17.1",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -15119,10 +15144,10 @@
         1
       ],
       "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
+        "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Flitsmeister_354936286_868745079_12.6.ipa"
+        "originalFile": "Flitsmeister v14.9.1 Subscription Unlocked blatant Patched.ipa"
       }
     },
     {
@@ -15314,13 +15339,13 @@
       "name": "FLTR",
       "bundleIdentifier": "com.feelty",
       "developerName": "Onelight Apps CY Ltd",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: blatantsPatch, fltr\n\nPresets for Lightroom - FLTR\n\n---\nGet free trendy presets for Lightroom by FLTR! Try perfect photo & video filters, customize iOS app icons & highlights for Instagram.\n\nIn collaboration with professional photographers and famous bloggers, we collected only top presets that allow you to edit & filter favorite shots, videos, plan your social media posts and take your content to the next level!\n\nFLTR FEATURES\n\nLIGHTROOM PRESETS\nChoose from 1000+ presets (80+ packs) and make edits on-the-go!\nThese presets will look good on every pho",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, FLTR\n\nPresets Lightroom, Filter・FLTR\n\n---\nGet free trendy presets for Lightroom by FLTR! Try perfect photo & video filters, customize iOS app icons & highlights for Instagram.\n\nIn collaboration with professional photographers and famous bloggers, we collected only top presets that allow you to edit & filter favorite shots, videos, plan your social media posts and take your content to the next level!\n\nFLTR FEATURES\n\nLIGHTROOM PRESETS\nChoose from 1000+ presets (80+ packs) and make edits on-the-go!\nThese presets will look good on every pho",
       "version": "4.22.0",
-      "versionDate": "2026-07-06T15:59:37-00:00",
-      "versionDescription": "Build 749 from @blatants",
-      "size": 117570958,
+      "versionDate": "2026-07-06T23:59:44-00:00",
+      "versionDescription": "Build 749 from @binnichtaktivsipas",
+      "size": 113541133,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/c8/be/f1c8bebf-ebde-21eb-10bd-d0124c2bc0d9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Presets_for_Lightroom_FLTR_v4_22_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Presets for Lightroom Pro 4.22.0.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -15330,10 +15355,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Presets_for_Lightroom_FLTR_v4_22_0_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Presets for Lightroom Pro 4.22.0.ipa"
       }
     },
     {
@@ -20793,12 +20818,12 @@
       "bundleIdentifier": "com.iptv.player",
       "developerName": "LIFTOFF",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26\n\nIPTV Smarters Player Expert\n\n---\nIPTV Expert: The Ultimate IPTV Player for Seamless Streaming\nAre you tired of unsatisfactory IPTV players? Meet IPTV Expert, the ultimate IPTV player designed for peak performance. Loved and trusted by thousands, IPTV Expert supports all IPTV providers and media content, offering you unmatched viewing pleasure.\n\nWhy Choose IPTV Expert?\n• Easy Playlist Import: Effortlessly import M3U/M3U8 playlists via URL, Xtream Codes API, or Stalker Portal.\n• Superior Sorting: Automatically categorizes your pl",
-      "version": "10.0.5",
-      "versionDate": "2026-07-01T10:34:17-00:00",
-      "versionDescription": "Build 275 from @binnichtaktivsipas",
-      "size": 47137175,
+      "version": "10.1.1",
+      "versionDate": "2026-07-06T23:19:29-00:00",
+      "versionDescription": "Build 278 from @binnichtaktivsipas",
+      "size": 49556880,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/6c/23/fe6c2355-3695-a8bd-b8e0-6a3d629e3af5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/IPTV Smarters Player Expert Pro 10.0.5.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/IPTV Smarters Player Expert Pro 10.1.1.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -20811,7 +20836,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "IPTV Smarters Player Expert Pro 10.0.5.ipa"
+        "originalFile": "IPTV Smarters Player Expert Pro 10.1.1.ipa"
       }
     },
     {
@@ -23278,13 +23303,13 @@
       "name": "Lightroom",
       "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "Adobe Inc.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FilePickerFix, LightroomMobile, blatantsPatch, sideloadKeychainfix\n\nLightroom: AI Photo Editor\n\n---\nEver wish your photos could really show what makes a moment special? Adobe Lightroom is a free photo and video editor that helps you do just that. From your dog’s goofy grin to that sunset that took your breath away, Adobe Lightroom makes it simple to bring those moments to life, just the way you see them.\n\nWhether you’re snapping pics on the go or curating your social feed, Lightroom puts powerful AI photo editor tools in your pocket to make quick edits easy and fun. Adobe Lightroom is here to",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: FilePickerFix, LightroomPatch\n\nLightroom Photo & Video Editor\n\n---\nEver wish your photos could really show what makes a moment special? Adobe Lightroom is a free photo and video editor that helps you do just that. From your dog’s goofy grin to that sunset that took your breath away, Adobe Lightroom makes it simple to bring those moments to life, just the way you see them.\n\nWhether you’re snapping pics on the go or curating your social feed, Lightroom puts powerful AI photo editor tools in your pocket to make quick edits easy and fun. Adobe Lightroom is here to",
       "version": "11.4.10",
-      "versionDate": "2026-07-06T11:29:41-00:00",
-      "versionDescription": "Build 11.4.10.243 from @blatants",
-      "size": 210591733,
+      "versionDate": "2026-07-06T23:15:34-00:00",
+      "versionDescription": "Build 11.4.10.243 from @binnichtaktivsipas",
+      "size": 194139753,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/32/c1/b632c189-46f7-266f-576c-6f1e47c95d05/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lightroom_AI_Photo_Editor_v11_4_10_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lightroom Premium 11.4.10.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
@@ -23293,23 +23318,23 @@
         1
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Lightroom_AI_Photo_Editor_v11_4_10_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Lightroom Premium 11.4.10.ipa"
       }
     },
     {
       "name": "Lightroom",
       "bundleIdentifier": "com.adobe.lrmobile",
       "developerName": "Adobe Inc.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FilePickerFix, LightroomiPad, blatantsPatch, sideloadKeychainfix\n\nAdobe Lightroom for iPad\n\n---\nEver wish your photos could really show what makes a moment special? Adobe Lightroom is a free photo and video editor that helps you do just that. From your dog’s goofy grin to that sunset that took your breath away, Adobe Lightroom makes it simple to bring those moments to life, just the way you see them.\n\nWhether you’re snapping pics on the go or curating your social feed, Lightroom puts powerful AI photo editor tools in your pocket to make quick edits easy and fun. Adobe Lightroom is here to",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: SatellaJailed\n\nAdobe Lightroom for iPad\n\n---\nEver wish your photos could really show what makes a moment special? Adobe Lightroom is a free photo and video editor that helps you do just that. From your dog’s goofy grin to that sunset that took your breath away, Adobe Lightroom makes it simple to bring those moments to life, just the way you see them.\n\nWhether you’re snapping pics on the go or curating your social feed, Lightroom puts powerful AI photo editor tools in your pocket to make quick edits easy and fun. Adobe Lightroom is here to",
       "version": "11.4.10",
-      "versionDate": "2026-07-06T11:19:25-00:00",
-      "versionDescription": "Build 11.4.10.243 from @blatants",
-      "size": 210676424,
+      "versionDate": "2026-07-06T23:46:14-00:00",
+      "versionDescription": "Build 11.4.10.243 from @binnichtaktivsipas",
+      "size": 192817853,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/d0/d9/f1d0d924-0156-c0e1-4bfc-cd3ed25ff45b/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Lightroom_for_iPad_v11_4_10_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Adobe Lightroom iPad Premium11.4.10.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
@@ -23319,10 +23344,10 @@
         1
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Adobe_Lightroom_for_iPad_v11_4_10_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Adobe Lightroom iPad Premium11.4.10.ipa"
       }
     },
     {
@@ -31666,13 +31691,13 @@
       "name": "Photoroom",
       "bundleIdentifier": "com.dr1ven.eraser",
       "developerName": "Photoroom",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPhotoroom: AI Photo Editor\n\n---\nPhotoroom is the ultimate AI-powered photo editing app, trusted by over 300 million users.\n\nCreate studio-quality product photos in seconds with Photoroom’s advanced AI photo editing technology. No design skills required.\n\nWHY CHOOSE PHOTOROOM?\n\nENHANCE PRODUCT LISTINGS. Showcase clothing on virtual models, ghost mannequins, and flat lay. No studio required.\n\nREMOVE, REPLACE, AND RECOLOR. Remove backgrounds, swap for AI-generated edits, and recolor products in seconds.\n\nSAVE TIME WITH BATCH EDIT",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: PhotoRoomPatch\n\nPhotoRoom: AI Photo Editor\n\n---\nPhotoroom is the ultimate AI-powered photo editing app, trusted by over 300 million users.\n\nCreate studio-quality product photos in seconds with Photoroom’s advanced AI photo editing technology. No design skills required.\n\nWHY CHOOSE PHOTOROOM?\n\nENHANCE PRODUCT LISTINGS. Showcase clothing on virtual models, ghost mannequins, and flat lay. No studio required.\n\nREMOVE, REPLACE, AND RECOLOR. Remove backgrounds, swap for AI-generated edits, and recolor products in seconds.\n\nSAVE TIME WITH BATCH EDIT",
       "version": "2026.28.01",
-      "versionDate": "2026-07-06T11:40:05-00:00",
-      "versionDescription": "Build 2396 from @riftysIPAlibrary",
-      "size": 181140234,
+      "versionDate": "2026-07-06T23:39:46-00:00",
+      "versionDescription": "Build 2396 from @binnichtaktivsipas",
+      "size": 182084521,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/0f/2c/be0f2cc8-d36b-e436-20ee-645f49685fb3/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.28.01-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Photoroom Pro 2026.28.01.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
@@ -31682,10 +31707,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@riftysIPAlibrary",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Photoroom: AI Photo Editor-v2026.28.01-riftysipas.ipa"
+        "originalFile": "Photoroom Pro 2026.28.01.ipa"
       }
     },
     {
@@ -32003,13 +32028,13 @@
       "name": "Picsart",
       "bundleIdentifier": "com.picsart.studio",
       "developerName": "PicsArt, Inc.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Picsart, blatantsPatch, sideloadKeychainfix\n\nPicsart AI Photo Editor, Video\n\n---\nIgnite your creative potential with Picsart — the all-in-one AI photo editor, AI video editor, and design studio that’s free and easy to use. From business designs to AI art, go from inspiration to creation fast. Create with an AI photo generator and AI video generator, edit with an AI image editor, remove backgrounds with Background Remover (BG remover), erase objects with Object Remover (Object Eraser), apply AI effects, filters, and retouch tools, and turn ideas into designs with templates, c",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Picsart\n\nPicsart AI Photo Video Editor\n\n---\nIgnite your creative potential with Picsart — the all-in-one AI photo editor, AI video editor, and design studio that’s free and easy to use. From business designs to AI art, go from inspiration to creation fast. Create with an AI photo generator and AI video generator, edit with an AI image editor, remove backgrounds with Background Remover (BG remover), erase objects with Object Remover (Object Eraser), apply AI effects, filters, and retouch tools, and turn ideas into designs with templates, c",
       "version": "30.2.3",
-      "versionDate": "2026-07-03T06:24:26-00:00",
-      "versionDescription": "Build 30203 from @blatants",
-      "size": 107493299,
+      "versionDate": "2026-07-06T23:42:12-00:00",
+      "versionDescription": "Build 30203 from @binnichtaktivsipas",
+      "size": 100262969,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/0d/96/190d9691-6cb5-f1b6-e3a7-cc7c2a7b7230/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_2_3_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Picsart Pro 30.2.3.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -32019,10 +32044,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Picsart_AI_Photo_Editor,_Video_v30_2_3_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Picsart Pro 30.2.3.ipa"
       }
     },
     {
@@ -35692,12 +35717,12 @@
       "bundleIdentifier": "com.risesci.nyx",
       "developerName": "Rise Science Inc",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nRISE: Sleep Tracker\n\n---\nJoin over 10 million users! Become a better sleeper and morning person thanks to 100 years of sleep science with RISE, the only sleep tracker that also measures your sleep debt and energy levels.\n\nRecommended by the Sleep Foundation and trusted by teams in the NFL, MLB, and NBA, and top Fortune 500 companies, RISE makes it easy to improve your sleep and energy.\n\nBut RISE is more than a sleep and energy tracker. Users can access widgets, calendar integration, sleeping sounds, meditation guides, s",
-      "version": "0.1.607",
-      "versionDate": "2026-07-02T16:44:15-00:00",
-      "versionDescription": "Build 1782917713 from @blatants",
-      "size": 147720402,
+      "version": "0.1.608",
+      "versionDate": "2026-07-06T23:10:58-00:00",
+      "versionDescription": "Build 1783028712 from @blatants",
+      "size": 148240140,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/78/be/d178be1e-bd03-e7c3-4023-e8fb723b6db2/App-Icon-Glass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_607_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_608_0_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "15.1",
       "supportedPlatforms": [
         "iOS"
@@ -35710,7 +35735,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "RISE_Sleep_Tracker_v1_607_0_Subscription_Unlocked_blatant_Patched.ipa"
+        "originalFile": "RISE_Sleep_Tracker_v1_608_0_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -37482,12 +37507,12 @@
       "bundleIdentifier": "com.shred.shredlabs",
       "developerName": "Shred Labs, LLC",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Shred, blatantsPatch\n\nSHRED: Gym & Home Workouts\n\n---\nNo more guessing what to do next. SHRED’s AI-powered coaching gives you the structure, motivation, and personalization you need to reach your goals—lose weight, get stronger, or stay consistent. Every plan adapts to your progress and equipment, so you always know you’re training the right way for you. Your goals. Your coach. Your results.\n\nFeatured by Apple, Rolling Stone, Men’s Health, Women’s Health, GQ, PCMag, Business Insider, Goop, Garage Gym Reviews, and others.\n\nPERSONALIZED TRAINING THAT",
-      "version": "5.4.8",
-      "versionDate": "2026-06-16T04:19:46-00:00",
-      "versionDescription": "Build 1002 from @blatants",
-      "size": 152649046,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/9e/8f/ae9e8fec-aeee-adc3-3e4e-c267db212c87/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/SHRED_Gym_&_Home_Workouts_v5_4_8_Subscription_Unlocked_blatant_Patched.ipa",
+      "version": "5.4.9",
+      "versionDate": "2026-07-06T23:06:04-00:00",
+      "versionDescription": "Build 518 from @blatants",
+      "size": 152401310,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/d7/fc/23d7fc1a-ddcd-92b8-f854-53eb0a1e6485/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/SHRED_Gym_&_Home_Workouts_v5_4_9_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -37500,7 +37525,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "SHRED_Gym_&_Home_Workouts_v5_4_8_Subscription_Unlocked_blatant_Patched.ipa"
+        "originalFile": "SHRED_Gym_&_Home_Workouts_v5_4_9_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -40493,13 +40518,13 @@
       "name": "StepsApp",
       "bundleIdentifier": "com.gunthermarktl.stepapp",
       "developerName": "StepsApp GmbH",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nStepsApp Pedometer\n\n---\nThe step counter that actually gets you moving.\n\nJoin over 100 million people building healthier habits with StepsApp. Track your daily activity, stay consistent with streaks, and now compete with friends through leaderboards, group challenges, and social features that make walking surprisingly addictive.\n\nFEATURES\n\n• Automatic step tracking\n• Daily goals and streaks\n• Challenges with friends, family, and coworkers\n• Leaderboards and groups\n• Workout tracking with Heart Rate Zones and Insights\n•",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nStepsApp Pedometer\n\n---\nThe step counter that actually gets you moving.\n\nJoin over 100 million people building healthier habits with StepsApp. Track your daily activity, stay consistent with streaks, and now compete with friends through leaderboards, group challenges, and social features that make walking surprisingly addictive.\n\nFEATURES\n\n• Automatic step tracking\n• Daily goals and streaks\n• Challenges with friends, family, and coworkers\n• Leaderboards and groups\n• Workout tracking with Heart Rate Zones and Insights\n•",
       "version": "8.11.1",
-      "versionDate": "2026-07-06T12:46:39-00:00",
-      "versionDescription": "Build 2686 from @riftysIPAlibrary",
-      "size": 229724559,
+      "versionDate": "2026-07-06T23:23:50-00:00",
+      "versionDescription": "Build 2686 from @binnichtaktivsipas",
+      "size": 230326629,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/98/72/4798721a-55ac-e3bf-dd25-65d9f04d5fb4/AppIconNew-0-1x_U007ephone-0-1-0-sRGB-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.11.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer 8.11.1.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -40508,10 +40533,10 @@
         1
       ],
       "metadata": {
-        "sourceChannel": "@riftysIPAlibrary",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "StepsApp Pedometer-v8.11.1-riftysipas.ipa"
+        "originalFile": "StepsApp Pedometer 8.11.1.ipa"
       }
     },
     {
@@ -41398,12 +41423,12 @@
       "bundleIdentifier": "com.abishkking.stretching",
       "developerName": "Leap Health",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: SatellaJailed\n\nStretch & Flexibility at Home\n\n---\nWanna reduce muscle tension and relieve pain?\n\nWanna enhance flexibility and range of motion?\n\nStretching is essential to your daily life, even if you're not planning to exercise. ACSM suggest people stretch at least 2-3 times each week for a healthy life. Scientifically proven that regular stretching helps reduce muscle stiffness, release pain, improve flexibility and relieve stress.\n\nWhy stretch?\n\nAvoid injury\nIncreasing flexibility and range of motion in your joints is important for workout a",
-      "version": "1.1.18",
-      "versionDate": "2026-06-09T22:07:58-00:00",
-      "versionDescription": "Build 59 from @binnichtaktivsipas",
-      "size": 92332972,
+      "version": "1.1.19",
+      "versionDate": "2026-07-06T23:18:24-00:00",
+      "versionDescription": "Build 60 from @binnichtaktivsipas",
+      "size": 96138488,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/fc/fb/ebfcfbd4-a759-e0a9-8277-f40dccd9666a/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Stretch & Flexibility at Home IAP 1.1.18.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stretch & Flexibility at Home IAP 1.1.19.ipa",
       "minOSVersion": "13.0",
       "supportedPlatforms": [
         "iOS"
@@ -41415,7 +41440,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Stretch & Flexibility at Home IAP 1.1.18.ipa"
+        "originalFile": "Stretch & Flexibility at Home IAP 1.1.19.ipa"
       }
     },
     {
@@ -41524,13 +41549,13 @@
       "name": "Structured",
       "bundleIdentifier": "com.leomehlig.today",
       "developerName": "unorderly GmbH",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nStructured - Daily Planner\n\n---\nPlan your day visually. Stay focused. Get things done.\n\n400,000+ five-star ratings · Trusted by 1.5 million active users\n\nThe daily planner built for how your brain actually works. Map your tasks and calendar onto a visual timeline, block your time with intention, and finally build a routine that sticks — whether you have ADHD or just a lot on your plate.\n\nWHY STRUCTURED WORKS\n\nMost planners give you a blank page. Structured gives you a timeline. You see your whole day laid out, with every task,",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2, StructuredPro, blatantsPatch\n\nStructured - Daily Planner\n\n---\nPlan your day visually. Stay focused. Get things done.\n\n400,000+ five-star ratings · Trusted by 1.5 million active users\n\nThe daily planner built for how your brain actually works. Map your tasks and calendar onto a visual timeline, block your time with intention, and finally build a routine that sticks — whether you have ADHD or just a lot on your plate.\n\nWHY STRUCTURED WORKS\n\nMost planners give you a blank page. Structured gives you a timeline. You see your whole day laid out, with every task,",
       "version": "4.5.2",
-      "versionDate": "2026-07-06T18:15:46-00:00",
-      "versionDescription": "Build 1866 from @riftysIPAlibrary",
-      "size": 139854054,
+      "versionDate": "2026-07-06T23:35:21-00:00",
+      "versionDescription": "Build 1866 from @binnichtaktivsipas",
+      "size": 140296372,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/01/01/1d010138-01b0-d4bf-4919-25cbda23c727/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Structured - Daily Planner-v4.5.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Structured Pro 4.5.2.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -41540,10 +41565,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@riftysIPAlibrary",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Structured - Daily Planner-v4.5.2-riftysipas.ipa"
+        "originalFile": "Structured Pro 4.5.2.ipa"
       }
     },
     {
@@ -43780,12 +43805,12 @@
       "bundleIdentifier": "com.burbn.barcelona",
       "developerName": "Instagram, Inc.",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2, ThreadSaver, blatantsPatch\n\nThreads\n\n---\nDiscover new perspectives and connect through conversation on Threads.\n\nSee what people are talking about right now—from niche interests to big moments. With communities, you can find people who also care about your interests on Threads. Reply, listen, share or just follow along.\n\nHere’s what you can do on Threads:\n\n■ Start a thread, share your take\nHave something on your mind? Take it to Threads. Share a thought, ask a question or open up a conversation. There’s more than one way to kick things",
-      "version": "436.0.0",
-      "versionDate": "2026-07-01T09:17:28-00:00",
-      "versionDescription": "Build 1005037864 from @binnichtaktivsipas",
-      "size": 95311330,
+      "version": "437.0.0",
+      "versionDate": "2026-07-06T23:57:06-00:00",
+      "versionDescription": "Build 1009731569 from @binnichtaktivsipas",
+      "size": 96182135,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/8d/03/828d0384-e59f-86a9-6d60-7d9d99ce7a82/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/ThreadSaver 436.0.0.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ThreadSaver 437.0.0.ipa",
       "minOSVersion": "16.3",
       "supportedPlatforms": [
         "iOS"
@@ -43797,7 +43822,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "ThreadSaver 436.0.0.ipa"
+        "originalFile": "ThreadSaver 437.0.0.ipa"
       }
     },
     {
@@ -43955,22 +43980,21 @@
       }
     },
     {
-      "name": "Tiimo",
+      "name": "tiimo",
       "bundleIdentifier": "com.tiimo.app",
       "developerName": "tiimo",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26\n\nThis just crashes whenever I login using paid cert with feather\n\n---\niPhone App of the Year 2025\n Apple Design Awards Finalist 2024\n Best Assistive Technology 2022 (Neurodiversity Awards)\n 3+ Million downloads worldwide\n\nMeet Tiimo: Your AI planning partner that simplifies executive function, focus and productivity.\n\nWhether you are building routines, navigating time agnosia, or just trying to make it through a busy week, Tiimo helps reduce mental load and makes it easier to follow through. Planning becomes something that supports you, not something that drains y",
-      "version": "3.50.0",
-      "versionDate": "2026-06-16T11:17:50-00:00",
-      "versionDescription": "Build 467 from @binnichtaktivsipas",
-      "size": 94140006,
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nTiimo: AI Planner & To-do\n\n---\niPhone App of the Year 2025\n Apple Design Awards Finalist 2024\n Best Assistive Technology 2022 (Neurodiversity Awards)\n 3+ Million downloads worldwide\n\nMeet Tiimo: Your AI planning partner that simplifies executive function, focus and productivity.\n\nWhether you are building routines, navigating time agnosia, or just trying to make it through a busy week, Tiimo helps reduce mental load and makes it easier to follow through. Planning becomes something that supports you, not something that drains y",
+      "version": "3.60.0",
+      "versionDate": "2026-07-06T23:32:45-00:00",
+      "versionDescription": "Build 1241 from @binnichtaktivsipas",
+      "size": 117891193,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/d5/57/a7d5573f-35ca-9504-0d59-a93013f3d5f2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tiimo Pro 3.50.0.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tiimo Pro 3.60.0.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -43978,7 +44002,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Tiimo Pro 3.50.0.ipa"
+        "originalFile": "Tiimo Pro 3.60.0.ipa"
       }
     },
     {
@@ -45883,13 +45907,13 @@
       "name": "Unfold",
       "bundleIdentifier": "com.moonlab.unfoldstories",
       "developerName": "Squarespace, Inc.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nUnfold: Reels & Story Maker\n\n---\nYour all-in-one toolkit to stand out on social. Whether you’re a brand, creator, or just here to have fun, Unfold gives you the tools you need to create elevated content, grow your audience, and monetize your social presence. Whatever you do, whatever you’re into—use Unfold to share your story.\n\nMAKE TREND-SETTING CONTENT\n\nExpress your creativity with award-winning photo & video templates, and design tools in the Unfold Studio.\n\n- Scroll-stopping filters and effects for photo & video content\n- H",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: AutoRc, CydiaSubstrate\n\nUnfold: Video & Photo Editor\n\n---\nYour all-in-one toolkit to stand out on social. Whether you’re a brand, creator, or just here to have fun, Unfold gives you the tools you need to create elevated content, grow your audience, and monetize your social presence. Whatever you do, whatever you’re into—use Unfold to share your story.\n\nMAKE TREND-SETTING CONTENT\n\nExpress your creativity with award-winning photo & video templates, and design tools in the Unfold Studio.\n\n- Scroll-stopping filters and effects for photo & video content\n- H",
       "version": "8.161.0",
-      "versionDate": "2026-07-06T09:06:52-00:00",
-      "versionDescription": "Build 60336 from @blatants",
-      "size": 222262675,
+      "versionDate": "2026-07-06T23:28:00-00:00",
+      "versionDescription": "Build 60336 from @binnichtaktivsipas",
+      "size": 216496200,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/91/c7/b591c706-b7c0-55f8-3ee7-e839860ed52a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Unfold_Reels_&_Story_Maker_v8_161_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Unfold: Video & Photo Editor Plus 8.161.0.ipa",
       "minOSVersion": "16.6",
       "supportedPlatforms": [
         "iOS"
@@ -45898,10 +45922,10 @@
         1
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Unfold_Reels_&_Story_Maker_v8_161_0_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Unfold: Video & Photo Editor Plus 8.161.0.ipa"
       }
     },
     {
