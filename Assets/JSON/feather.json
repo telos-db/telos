@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.feelty",
-    "com.burbn.barcelona",
-    "com.elevateapp.elevate",
-    "com.adobe.lrmobile",
-    "com.picsart.studio"
+    "com.logicalengine.qsei",
+    "com.genau.JournalCircle",
+    "com.saltycrackers.daygram",
+    "nz.co.petesmith.moonphasefree",
+    "com.dbmeterpro.dB-Meter-Free"
   ],
   "apps": [
     {
@@ -16150,14 +16150,14 @@
       "bundleIdentifier": "com.saltycrackers.daygram",
       "developerName": "EUIHYUNG JUNG",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "5.7.0",
-      "versionDate": "2026-07-02",
+      "version": "5.7.2",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdaygram, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.7.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.7.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdaygram, zxPluginsInject\n\nDaygram: Daily Journal\n\n---\n• App Store Best of the Year • Best New App • Featured in App Store Stories\nDayGram is a beautifully minimal journal and diary app with an elegant E-Ink style display. Write one line a day, keep a daily journal, or create a private digital memoir.\n\n◆ WHY DAYGRAM?\n\n- Distraction-free writing with a clean, paper-like interface\n- No ads, no subscriptions – one-time purchase for Premium\n- Password & Face ID protection for complete privacy\n- iCloud sync keeps your diary safe across all devices\n\n◆ FEA",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/e8/75/c4e875b4-fe09-51c9-e086-060edae54603/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 30352856,
+      "size": 30358980,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/2f/e9/4a2fe921-332c-01bb-3b52-06f662c15feb/6e903ad4-5910-409e-9df2-b33c130e5a8c_old_ipad_en_0.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/ca/cf/59cacf18-57da-f9dc-a90b-92599c37046e/mzl.qksssrcf.png/576x768bb.png",
@@ -16182,11 +16182,11 @@
       },
       "versions": [
         {
-          "version": "5.7.0",
-          "date": "2026-07-02",
+          "version": "5.7.2",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdaygram, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.7.0-riftysipas.ipa",
-          "size": 30352856
+          "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.7.2-riftysipas.ipa",
+          "size": 30358980
         }
       ],
       "category": "lifestyle"
@@ -16321,6 +16321,57 @@
         }
       ],
       "category": "photo-&-video"
+    },
+    {
+      "name": "dB Meter",
+      "bundleIdentifier": "com.dbmeterpro.dB-Meter-Free",
+      "developerName": "Vlad Polyanskiy",
+      "subtitle": "Tweaked with AutoItunes, CydiaSubstrate",
+      "version": "9.3.1",
+      "versionDate": "2026-07-07",
+      "versionDescription": "Tweaks: AutoItunes, CydiaSubstrate, SatellaJailed\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Decibel Pro 9.3.1.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: AutoItunes, CydiaSubstrate, SatellaJailed\n\nDecibel : dB sound level meter\n\n---\nDecibel turns your device into a powerful sound level meter without any extra hardware. Measure ambient noise in real time, monitor sound levels (dB), and explore frequencies with the built-in Spectrum Analyzer. Capture reliable sound and noise data wherever you are.\n\nDesigned for casual users, audio enthusiasts, and sound engineers, Decibel works as a portable sound meter for quick sound checks or deeper audio analysis. Use it to easily check noise levels, test room acoustics, monitor workplace",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/37/c4/a637c469-95ee-1971-4a2f-b681e6127025/AppIconFree-0-0-1x_U007emarketing-0-0-0-11-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 24667240,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/1c/56/151c56fb-ba7c-f3bd-e2dc-602d3a243ee0/15aa334d-9c1b-43fb-963e-325df6018137_db_EN_screen2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/8b/0b/948b0bda-2d89-b100-7680-c7906df70f0a/181442ed-b665-433e-862d-2d3e6a5f3ed6_db_EN_screen3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/17/0e/33170e04-94fd-22f5-0b62-b07ece594a40/2e4a60d7-b63f-435d-9e64-ad7afddc5f64_db_EN_screen4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/a2/60/cea26002-96e1-c424-d301-62f8e9ce7125/e234b83a-4287-481e-84d3-6a8fbfe765df_db_EN_screen5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/c1/4c/42c14cee-73d4-233b-cd05-e0108ea00a66/b356facb-75e3-4402-93bf-f2b2332b0d0d_db_EN_screen6.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "com.apple.developer.healthkit",
+          "aps-environment",
+          "com.apple.developer.healthkit.access"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "To be able to send screenshots to support center",
+          "NSCameraUsageDescription": "Сamera access needed to make photos and videos with noise levels overlay",
+          "NSMicrophoneUsageDescription": "Audio Analysis",
+          "NSLocationWhenInUseUsageDescription": "To link noise measurements with the geo data",
+          "NSLocationAlwaysUsageDescription": "Some 3rd party framework uses it",
+          "NSCalendarsUsageDescription": "In order to book time for helpdesk",
+          "NSHealthShareUsageDescription": "To access noise levels Health data to provide best advice how to avoid harmful noise levels ",
+          "NSHealthUpdateUsageDescription": "Health app access required to export environmental sound levels data to Health app",
+          "NSBluetoothPeripheralUsageDescription": "Some third party SDK uses it",
+          "NSPhotoLibraryAddUsageDescription": "Save overlayed video or photo to library"
+        }
+      },
+      "versions": [
+        {
+          "version": "9.3.1",
+          "date": "2026-07-07",
+          "localizedDescription": "Tweaks: AutoItunes, CydiaSubstrate, SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Decibel Pro 9.3.1.ipa",
+          "size": 24667240
+        }
+      ],
+      "category": "utilities"
     },
     {
       "name": "DDLC",
@@ -33274,14 +33325,14 @@
       "bundleIdentifier": "com.logicalengine.qsei",
       "developerName": "Zenvoice Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "6.5.1",
-      "versionDate": "2026-06-19",
+      "version": "6.7.0",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyinvoicesimple, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Invoice Simple: Invoice Maker-v6.5.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Invoice Simple: Invoice Maker-v6.7.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyinvoicesimple, zxPluginsInject\n\nInvoice Simple: Invoice Maker\n\n---\nEasily create & send professional invoices, estimates, and receipts on the go! The perfect tool for individuals and growing businesses that lets you quickly create a document on the spot while with your customer.\n\nFor growing businesses who want:\n\n· A simple way to make estimates, invoices, and receipts fast\n\n· Professional-looking invoices that you can send from your mobile device\n\n· An easy way to accept online payments and stop chasing checks\n\nFrom a landscaping invoice or estimate to a recei",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/77/89/4377893c-de27-161f-e46c-d34ce3c7b63d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/20/7a/3f207aa3-1cbe-46ad-213b-d9e3293f9b32/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 93574186,
+      "size": 93927303,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -33305,11 +33356,11 @@
       },
       "versions": [
         {
-          "version": "6.5.1",
-          "date": "2026-06-19",
+          "version": "6.7.0",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyinvoicesimple, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Invoice Simple: Invoice Maker-v6.5.1-riftysipas.ipa",
-          "size": 93574186
+          "downloadURL": "https://telos.ftp.sh/ipas/Invoice Simple: Invoice Maker-v6.7.0-riftysipas.ipa",
+          "size": 93927303
         }
       ],
       "category": "business"
@@ -34263,14 +34314,14 @@
       "bundleIdentifier": "com.genau.JournalCircle",
       "developerName": "Genau Factory",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.4.5",
-      "versionDate": "2026-07-05",
+      "version": "3.4.6",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.5-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.6-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nJournalCircle: Diary & Tracker\n\n---\nDiscover JournalCircle, a journaling app featured on the App Store across multiple regions. JournalCircle combines AI-powered journaling, voice notes, mood tracking, and entry analysis to help you record your daily life with clarity. Users often mention that the clean, beautiful design makes them want to journal more consistently.\n\nJournalCircle is a journaling and life log app designed to manage your diary, mood, routines, goals, and daily records in one place.\n\nAI-powered journaling tools\nJour",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/e6/7a/f6e67a82-2c01-5285-67e1-64a7a14cd9c4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13555716,
+      "size": 13556474,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/4a/a9/e84aa9cc-2c5b-1709-f532-d5ee2be4a59f/6f8a71a6-a4e7-4824-b871-faad39c83dea_JC-ipad-1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/c1/92/9bc19287-5539-8310-51da-1b370a854e82/f6757f74-d22d-4973-b8e5-edb64fa626dc_JC-ipad-2.png/576x768bb.png",
@@ -34297,11 +34348,11 @@
       },
       "versions": [
         {
-          "version": "3.4.5",
-          "date": "2026-07-05",
+          "version": "3.4.6",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.5-riftysipas.ipa",
-          "size": 13555716
+          "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.6-riftysipas.ipa",
+          "size": 13556474
         }
       ],
       "category": "lifestyle"
@@ -42946,14 +42997,14 @@
       "bundleIdentifier": "nz.co.petesmith.moonphasefree",
       "developerName": "Fascinating Projects",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "8.7.0",
-      "versionDate": "2026-06-30",
+      "version": "8.8.0",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.7.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.8.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMoon Phase Calendar Plus\n\n---\nLive by the moon! See the phases of the moon in clarity - for where YOU are now - not just the \"nearest city\". See a countdown to the next phase of the moon TO THE MINUTE, whether full or new, first or last quarter. See a current simulation of the moon as it appears to you - for now or any day in the past or future - on a large, simple, easy to read display. See Moon Rise and Set times - so you can plan your lunar activities. This IS the app you are looking for!\n\nIt shows:\n• The current phase of",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/53/e1/ee53e123-5378-c08f-e2a9-dc02b7a1f856/MoonPlus-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 25418827,
+      "size": 25422790,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -42963,11 +43014,11 @@
       },
       "versions": [
         {
-          "version": "8.7.0",
-          "date": "2026-06-30",
+          "version": "8.8.0",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.7.0-riftysipas.ipa",
-          "size": 25418827
+          "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.8.0-riftysipas.ipa",
+          "size": 25422790
         }
       ],
       "category": "weather"
@@ -44930,14 +44981,14 @@
       "bundleIdentifier": "com.neo.NeoMan",
       "developerName": "Space-Time Transformation Technology Co., Ltd.",
       "subtitle": "Tweaked with NeoServer, blatantsPatch",
-      "version": "8.2.6",
-      "versionDate": "2026-06-26",
+      "version": "8.3.1",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: NeoServer, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_2_6_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NeoServer, blatantsPatch\n\nNeoServer: SSH Client | Terminal\n\n---\nNeoServer offers a comprehensive management solution via SSH without additional software installation for your servers, NAS (Network Attached Storage), and Linux-based routers across iPhone, iPad, and Mac platforms. It supports terminal remote connections, multi-server script execution, container management, SFTP file management, and common performance data display.\n\n◉ Free Features:\n◦ Supports SFTP browsing of server files, allowing editing (with syntax highlighting for common languages), renam",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/a9/9d/55a99db2-bef1-8618-f91a-7404d2e46f00/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_3_1_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NeoServer, blatantsPatch\n\nNeoServer: SSH Client | Terminal\n\n---\nNeoServer is a powerful SSH terminal and server management app for developers, sysadmins, and self-hosting users.\n\nConnect to Linux servers, VPS machines, cloud hosts, NAS devices, Raspberry Pi boards, and AI compute nodes. Use a fast mobile terminal, manage Docker and Podman containers, browse files with SFTP, monitor server metrics, run shell scripts, keep tmux and zellij sessions alive, and handle common remote server tasks from your iPhone or iPad.\n\n◉ Terminal and Remote Access\n\n• SSH connec",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/66/7b/e2667b80-6b24-dc78-49e8-819988cc4e75/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 28587248,
+      "size": 28574573,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/51/e9/7051e9d4-9400-ba5e-c0c4-b3c3028896a3/6ea7619e-b9fe-45ca-8c94-ac17544b1668_metrics.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/7a/8e/107a8e2f-99cf-e69b-ad17-21ea74a368b6/71a4a532-2c52-4e24-a1a3-90412bb627ad_detail.png/392x696bb.png",
@@ -44959,11 +45010,11 @@
       },
       "versions": [
         {
-          "version": "8.2.6",
-          "date": "2026-06-26",
+          "version": "8.3.1",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: NeoServer, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_2_6_Subscription_Unlocked_blatant.ipa",
-          "size": 28587248
+          "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_3_1_Subscription_Unlocked_blatant.ipa",
+          "size": 28574573
         }
       ],
       "category": "developer-tools"
@@ -51210,14 +51261,14 @@
       "bundleIdentifier": "com.sugarmo.ScrollClip",
       "developerName": "Yojio, Ltd.",
       "subtitle": "Tweaked with Picsew, blatantsPatch",
-      "version": "3.17.2",
-      "versionDate": "2026-06-26",
+      "version": "3.17.3",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: Picsew, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Picsew_Screenshot_Stitching_v3_17_2_Picsew_Pro_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Picsew_Screenshot_Stitching_v3_17_3_Picsew_Pro_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Picsew, blatantsPatch\n\nPicsew - Screenshot Stitching\n\n---\nCreate long screenshots, capture full web pages, and stitch screenshots or photos with Picsew.\n\nPicsew is an award-winning screenshot stitching app featured by the App Store. From chat threads and articles to receipts and webpages, Picsew helps you make clean long screenshots, add markup, and export to PDF or images in seconds.\n\nKey Features\n\n• Scrollshot Recording: Automatically generate scrollshot by recording the screen, no need to take screenshots one by one.\n• Smart Stitching: Advanced auto",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/85/d3/6585d301-0600-4080-5f5b-4aefe7c9a5ae/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 39190637,
+      "size": 39203587,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/88/01/4788012f-1f5f-bb9e-eeda-1df8131fa000/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/1e/9a/5d1e9a23-9cd3-b8af-192d-fa7c016ddda8/pr_source.png/392x696bb.png",
@@ -51240,11 +51291,11 @@
       },
       "versions": [
         {
-          "version": "3.17.2",
-          "date": "2026-06-26",
+          "version": "3.17.3",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: Picsew, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Picsew_Screenshot_Stitching_v3_17_2_Picsew_Pro_blatant_Patched.ipa",
-          "size": 39190637
+          "downloadURL": "https://telos.ftp.sh/ipas/Picsew_Screenshot_Stitching_v3_17_3_Picsew_Pro_blatant_Patched.ipa",
+          "size": 39203587
         }
       ],
       "category": "photo-&-video"
@@ -75870,14 +75921,14 @@
       "bundleIdentifier": "com.frontrow.vlog",
       "developerName": "Ubiquiti Labs, LLC",
       "subtitle": "Tweaked with VlogNow, blatantsPatch",
-      "version": "2.16.0",
-      "versionDate": "2026-07-04",
+      "version": "2.16.1",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: VlogNow, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_16_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_16_1_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: VlogNow, blatantsPatch\n\nVN: Photo & Video Editor\n\n---\nVN is a free, easy-to-use video editing app with no watermark. Its intuitive interface requires no prior experience, yet offers powerful tools for both beginners and professionals to create high-quality videos.\n\nIntuitive Multi-Track Editor\n• Precise Editing: Frame-accurate timeline (0.05s) with easy zoom, trimming, and keyframe control\n• Easy Management: Swipe to delete clips, drag to reorder\n• Multi-layer Timeline: Add PIP videos, photos, stickers, and text with keyframe animation\n• Non-destru",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/ae/77/acae77db-e5fe-cc70-c331-5becd4f0380b/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 456225369,
+      "size": 456227125,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/7b/a8/177ba862-5fce-c8b0-7ad1-a848dc96383c/en_plus_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/c1/36/f1c136c9-23de-894e-7cb2-6f2222a4a985/en_plus_04.png/392x696bb.png",
@@ -75906,11 +75957,11 @@
       },
       "versions": [
         {
-          "version": "2.16.0",
-          "date": "2026-07-04",
+          "version": "2.16.1",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: VlogNow, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_16_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 456225369
+          "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_16_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 456227125
         }
       ],
       "category": "photo-&-video"
