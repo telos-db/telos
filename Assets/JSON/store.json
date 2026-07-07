@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.genau.MoneyCircle",
+    "com.maplepop.bmcx",
     "com.astrio.Sofa",
     "com.zhiliaoapp.musically",
-    "com.myswimpro.apps.MySwimPro",
-    "com.logicalengine.qsei",
-    "com.genau.JournalCircle"
+    "com.myswimpro.apps.MySwimPro"
   ],
   "apps": [
     {
@@ -39740,14 +39740,14 @@
       "bundleIdentifier": "com.maplepop.bmcx",
       "developerName": "Maplepop LLC",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "6.4.2",
-      "versionDate": "2026-07-02",
+      "version": "6.5",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: MapleReadCX, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/MapleRead CX v6.4.2 Subscription Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MapleRead CX v6.5 Subscription Unlocked blatant Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nMapleRead CX",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/0c/69/090c69e7-8d11-f273-35bb-ac9f3c86de83/AppIcon-mpr-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/6d/78/3a6d78ce-d5b7-3742-479d-dac80bf15d79/AppIcon-mpr-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 19107778,
+      "size": 19107966,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/15/f0/bf/15f0bf27-7821-c99c-f35b-4950f3782cc5/9fde496e-d60c-4fed-ba16-fbd2ab751ead_library_scenes.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/51/0d/80/510d80ee-4bc4-e4dd-5ac8-3817e50ea048/c1953ac3-9a21-4ae1-baa0-a97dabf49424_magnify_book_cover.png/392x696bb.png",
@@ -39767,11 +39767,11 @@
       },
       "versions": [
         {
-          "version": "6.4.2",
-          "date": "2026-07-02",
+          "version": "6.5",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: MapleReadCX, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/MapleRead CX v6.4.2 Subscription Unlocked blatant Patched.ipa",
-          "size": 19107778
+          "downloadURL": "https://telos.ftp.sh/ipas/MapleRead CX v6.5 Subscription Unlocked blatant Patched.ipa",
+          "size": 19107966
         }
       ],
       "category": "books"
@@ -42095,14 +42095,14 @@
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "Genau Factory",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "3.4.1",
-      "versionDate": "2026-07-05",
+      "version": "3.4.2",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nMoneyCircle: Spending,Expense",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/16/62/0d166286-c90c-055c-6fe7-a9828b8d86ac/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13946488,
+      "size": 13984085,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -42118,11 +42118,11 @@
       },
       "versions": [
         {
-          "version": "3.4.1",
-          "date": "2026-07-05",
+          "version": "3.4.2",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.1-riftysipas.ipa",
-          "size": 13946488
+          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.2-riftysipas.ipa",
+          "size": 13984085
         }
       ],
       "category": "utilities"
@@ -80831,7 +80831,7 @@
     {
       "title": "⚙️ Telos Update 7.7",
       "identifier": "telos-update-2026-07-07",
-      "caption": "28 Apps Updated:\n• 6 Entertainment\n• 4 Lifestyle\n• 4 Photo & Video\n• 4 Productivity\n• 2 Weather\n• 2 Developer Tools\n• 2 Business\n• 2 Health & Fitness\n• 2 Utilities",
+      "caption": "34 Apps Updated:\n• 6 Entertainment\n• 6 Utilities\n• 4 Lifestyle\n• 4 Photo & Video\n• 4 Books\n• 2 Weather\n• 2 Developer Tools\n• 2 Business\n• 2 Health & Fitness\n• 2 Productivity",
       "date": "2026-07-07",
       "tintColor": "#02433b",
       "notify": true,
