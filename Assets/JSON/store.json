@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.astrio.Sofa",
     "com.zhiliaoapp.musically",
     "com.myswimpro.apps.MySwimPro",
     "com.logicalengine.qsei",
-    "com.genau.JournalCircle",
-    "com.saltycrackers.daygram"
+    "com.genau.JournalCircle"
   ],
   "apps": [
     {
@@ -61705,14 +61705,14 @@
       "bundleIdentifier": "com.astrio.Sofa",
       "developerName": "Astrio, LLC",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "5.1",
-      "versionDate": "2026-06-01",
+      "version": "5.2",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: Sofa, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sofa_Downtime_Organizer_v5_1_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sofa_Downtime_Organizer_v5_2_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSofa: Downtime Organizer",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/bb/81/a6bb8184-bcc7-d4bb-c939-6794bebee6bd/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/e6/a6/1ce6a688-89c1-7194-02da-b33bab9f47a2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 201678194,
+      "size": 204122069,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/75/84/007584d9-3401-09f3-9b2b-bcf42b1413b3/4fd69e4b-4744-47cb-974e-256873ca153d_Sofa_App_Store_Screenshot_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/9b/5c/6f9b5c1d-7a68-8d24-acb8-d92707386879/5c613fbc-51ec-4e21-b001-6aa678805ba8_Sofa_App_Store_Screenshot_2.png/392x696bb.png",
@@ -61738,11 +61738,11 @@
       },
       "versions": [
         {
-          "version": "5.1",
-          "date": "2026-05-28",
+          "version": "5.2",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: Sofa, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Sofa_Downtime_Organizer_v5_1_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 201678194
+          "downloadURL": "https://telos.ftp.sh/ipas/Sofa_Downtime_Organizer_v5_2_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 204122069
         }
       ],
       "category": "productivity"
@@ -80831,7 +80831,7 @@
     {
       "title": "⚙️ Telos Update 7.7",
       "identifier": "telos-update-2026-07-07",
-      "caption": "30 Apps Updated:\n• 12 Entertainment\n• 4 Lifestyle\n• 4 Photo & Video\n• 2 Weather\n• 2 Developer Tools\n• 2 Business\n• 2 Health & Fitness\n• 2 Utilities",
+      "caption": "28 Apps Updated:\n• 6 Entertainment\n• 4 Lifestyle\n• 4 Photo & Video\n• 4 Productivity\n• 2 Weather\n• 2 Developer Tools\n• 2 Business\n• 2 Health & Fitness\n• 2 Utilities",
       "date": "2026-07-07",
       "tintColor": "#02433b",
       "notify": true,
