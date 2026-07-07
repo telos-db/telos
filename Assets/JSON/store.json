@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.aiti.FitnessOnline",
+    "com.path36.SpliceFree",
     "com.AJNSNewMedia.KitchenStories",
     "games.flexus.trainminer",
-    "com.maxty.gofitness",
-    "com.edjing.edjingdjturntable",
-    "com.genau.MoneyCircle"
+    "com.maxty.gofitness"
   ],
   "apps": [
     {
@@ -23115,14 +23115,14 @@
       "bundleIdentifier": "com.aiti.FitnessOnline",
       "developerName": "FITNESS ONLINE MChJ",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "1.15.1",
-      "versionDate": "2026-06-23",
+      "version": "1.16.0",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: FitnessOnline, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitness_App_Gym_Workout_Plan_v1_15_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitness_App_Gym_Workout_Plan_v1_16_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFitness App: Gym Workout Plan",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/43/f3/1343f3fe-10b4-882b-7a92-02a7b868c968/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/dd/10/e7dd10c5-5a78-cc76-793c-bb466e0997ba/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 132121847,
+      "size": 130365727,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/72/1d/29721d1f-34b8-6719-5a3a-c09905bcc6dc/ea9f9ee7-7dd7-442f-bc52-749fb43071a8_01_EN_1242x2208.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/99/f2/0e99f244-72f3-6c76-1ea6-ce4170816c0b/b24bc926-a7e9-4caa-842a-9d4b1fe28320_02_EN_1242x2208.png/392x696bb.png",
@@ -23149,11 +23149,11 @@
       },
       "versions": [
         {
-          "version": "1.15.1",
-          "date": "2026-06-23",
+          "version": "1.16.0",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: FitnessOnline, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitness_App_Gym_Workout_Plan_v1_15_1_Subscription_Unlocked_blatant.ipa",
-          "size": 132121847
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitness_App_Gym_Workout_Plan_v1_16_0_Subscription_Unlocked_blatant.ipa",
+          "size": 130365727
         }
       ],
       "category": "health-&-fitness"
@@ -63176,14 +63176,14 @@
       "bundleIdentifier": "com.path36.SpliceFree",
       "developerName": "Bending Spoons Apps ApS",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.28.66",
-      "versionDate": "2026-06-25",
+      "version": "4.28.67",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: ScanHero, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Splice_Video_Editor_&_Maker_v4_28_66_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Splice_Video_Editor_&_Maker_v4_28_67_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSplice - Video Editor & Maker",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/dd/fe/38ddfe01-3ee4-bb6f-f64e-4acfcd43ed01/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/00/c3/4200c30f-48ed-8515-01ce-a597594c1b0e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 102851795,
+      "size": 102867254,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7e/c6/55/7ec65571-75e0-9235-8d78-25da5db63139/47812a97-29e7-4dde-a132-3dd884a04530_default__screenshots__iOS-5.5-in__01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/91/12/50/91125052-c348-515d-5933-b936c73a3cb0/6339ad05-07cb-4c91-a05a-e8bf6abd30ea_default__screenshots__iOS-5.5-in__02.jpg/392x696bb.jpg",
@@ -63208,11 +63208,11 @@
       },
       "versions": [
         {
-          "version": "4.28.66",
-          "date": "2026-06-25",
+          "version": "4.28.67",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: ScanHero, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Splice_Video_Editor_&_Maker_v4_28_66_Subscription_Unlocked_blatant.ipa",
-          "size": 102851795
+          "downloadURL": "https://telos.ftp.sh/ipas/Splice_Video_Editor_&_Maker_v4_28_67_Subscription_Unlocked_blatant.ipa",
+          "size": 102867254
         }
       ],
       "category": "photo-&-video"
@@ -80831,7 +80831,7 @@
     {
       "title": "⚙️ Telos Update 7.7",
       "identifier": "telos-update-2026-07-07",
-      "caption": "40 Apps Updated:\n• 6 Entertainment\n• 4 Lifestyle\n• 4 Photo & Video\n• 4 Health & Fitness\n• 4 Utilities\n• 4 Food & Drink\n• 2 Weather\n• 2 Developer Tools\n• 2 Business\n• 2 Books\n• 2 Productivity\n• 2 Music\n• 2 Games",
+      "caption": "46 Apps Updated:\n• 8 Photo & Video\n• 8 Health & Fitness\n• 6 Entertainment\n• 4 Lifestyle\n• 4 Utilities\n• 2 Weather\n• 2 Developer Tools\n• 2 Business\n• 2 Books\n• 2 Productivity\n• 2 Music\n• 2 Games\n• 2 Food & Drink",
       "date": "2026-07-07",
       "tintColor": "#02433b",
       "notify": true,
