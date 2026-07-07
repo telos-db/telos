@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.genau.MoneyCircle",
+    "com.maplepop.bmcx",
     "com.astrio.Sofa",
     "com.zhiliaoapp.musically",
-    "com.myswimpro.apps.MySwimPro",
-    "com.logicalengine.qsei",
-    "com.genau.JournalCircle"
+    "com.myswimpro.apps.MySwimPro"
   ],
   "apps": [
     {
@@ -40228,14 +40228,14 @@
       "bundleIdentifier": "com.maplepop.bmcx",
       "developerName": "Maplepop LLC",
       "subtitle": "Tweaked with MapleReadCX, blatantsPatch",
-      "version": "6.4.2",
-      "versionDate": "2026-07-02",
+      "version": "6.5",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: MapleReadCX, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/MapleRead CX v6.4.2 Subscription Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MapleRead CX v6.5 Subscription Unlocked blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MapleReadCX, blatantsPatch\n\nMapleRead CX\n\n---\nMapleRead is dedicated to enable unique audio-visual reading experience for everyone.\n\n------------\nOur MapleRead app family has 3 members, namely SE, CE and CX.\n- SE is our flagship product with all features.\n- CE is SE without PDF reader and built-in Library Server.\n- CX is CE with some limitation. Free to try.\n- No recurring subscription fees. No ads. Just buy it once. Gratuity optional.\n- Moreover, SE and CE can be run side-by-side via split-view multitasking.\n- Recommend SE for use on multi",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/0c/69/090c69e7-8d11-f273-35bb-ac9f3c86de83/AppIcon-mpr-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/6d/78/3a6d78ce-d5b7-3742-479d-dac80bf15d79/AppIcon-mpr-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 19107778,
+      "size": 19107966,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/15/f0/bf/15f0bf27-7821-c99c-f35b-4950f3782cc5/9fde496e-d60c-4fed-ba16-fbd2ab751ead_library_scenes.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/51/0d/80/510d80ee-4bc4-e4dd-5ac8-3817e50ea048/c1953ac3-9a21-4ae1-baa0-a97dabf49424_magnify_book_cover.png/392x696bb.png",
@@ -40255,11 +40255,11 @@
       },
       "versions": [
         {
-          "version": "6.4.2",
-          "date": "2026-07-02",
+          "version": "6.5",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: MapleReadCX, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/MapleRead CX v6.4.2 Subscription Unlocked blatant Patched.ipa",
-          "size": 19107778
+          "downloadURL": "https://telos.ftp.sh/ipas/MapleRead CX v6.5 Subscription Unlocked blatant Patched.ipa",
+          "size": 19107966
         }
       ],
       "category": "books"
@@ -42533,14 +42533,14 @@
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "Genau Factory",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.4.1",
-      "versionDate": "2026-07-05",
+      "version": "3.4.2",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMoneyCircle: Spending,Expense\n\n---\nTrack your spending with clarity and control — meet MoneyCircle.\n\nMoneyCircle makes it easy to understand where your money goes.\nWith clean design, smart categorization, and intuitive insights,\nyou’ll gain control of your finances and uncover new opportunities to save.\n\nIf you've tried other expense tracking apps but found them cluttered or overwhelming,\nMoneyCircle offers a refreshing alternative — simple, beautiful, and focused on what matters: your spending habits.\n\nKey Features\nSmart Categor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/16/62/0d166286-c90c-055c-6fe7-a9828b8d86ac/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13946488,
+      "size": 13984085,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -42556,11 +42556,11 @@
       },
       "versions": [
         {
-          "version": "3.4.1",
-          "date": "2026-07-05",
+          "version": "3.4.2",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.1-riftysipas.ipa",
-          "size": 13946488
+          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.2-riftysipas.ipa",
+          "size": 13984085
         }
       ],
       "category": "utilities"
