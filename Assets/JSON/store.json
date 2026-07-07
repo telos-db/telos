@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "games.flexus.trainminer",
+    "com.maxty.gofitness",
+    "com.edjing.edjingdjturntable",
     "com.genau.MoneyCircle",
-    "com.maplepop.bmcx",
-    "com.astrio.Sofa",
-    "com.zhiliaoapp.musically",
-    "com.myswimpro.apps.MySwimPro"
+    "com.maplepop.bmcx"
   ],
   "apps": [
     {
@@ -19378,14 +19378,14 @@
       "bundleIdentifier": "com.edjing.edjingdjturntable",
       "developerName": "MWM",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "9.1.5",
-      "versionDate": "2026-07-06",
+      "version": "9.1.6",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: DJMixer, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Edjing_Mix_DJ_Music_Mixer_App_v9_1_5_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Edjing_Mix_DJ_Music_Mixer_App_v9_1_6_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nEdjing Mix: DJ Music Mixer App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/43/e7/0e43e789-a080-37cb-3fa2-1234f850d8cf/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 186063734,
+      "size": 186609923,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/8b/3a/4f8b3ae0-5283-85fd-ee16-7b28136dc9ee/dd8bb763-2f99-4e88-ac16-e67199db5d0e_en-01.jpg/406x228bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/ec/0c/86ec0cf7-7302-3af3-821a-3cbebbcde98b/93679357-390c-45fe-94cf-5773e846a4fb_en-02.jpg/406x228bb.jpg",
@@ -19415,11 +19415,11 @@
       },
       "versions": [
         {
-          "version": "9.1.5",
-          "date": "2026-07-06",
+          "version": "9.1.6",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: DJMixer, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Edjing_Mix_DJ_Music_Mixer_App_v9_1_5_Subscription_Unlocked_blatant.ipa",
-          "size": 186063734
+          "downloadURL": "https://telos.ftp.sh/ipas/Edjing_Mix_DJ_Music_Mixer_App_v9_1_6_Subscription_Unlocked_blatant.ipa",
+          "size": 186609923
         }
       ],
       "category": "music"
@@ -53569,14 +53569,14 @@
       "bundleIdentifier": "com.maxty.gofitness",
       "developerName": "VGFIT LLC",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "8.2.5",
-      "versionDate": "2026-06-25",
+      "version": "8.3.0",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: ProFit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/ProFit_Workout_Planner_v8_2_5_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ProFit_Workout_Planner_v8_3_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nProFit: Workout Planner",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/61/13/73611313-8661-f853-7a4b-ffabba4039f0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/1a/ca/501aca54-2fce-05da-837b-e2a43f5b01f6/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 51098277,
+      "size": 46501485,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/21/6f/08216f1f-d2fc-b69a-3904-31cae301571c/Screen_1.png/322x572bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/ad/a7/15ada720-f653-2fd6-2c7f-2dd01c1681a2/Screen_2.png/322x572bb.png",
@@ -53600,11 +53600,11 @@
       },
       "versions": [
         {
-          "version": "8.2.5",
-          "date": "2026-06-25",
+          "version": "8.3.0",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: ProFit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/ProFit_Workout_Planner_v8_2_5_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 51098277
+          "downloadURL": "https://telos.ftp.sh/ipas/ProFit_Workout_Planner_v8_3_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 46501485
         }
       ],
       "category": "health-&-fitness"
@@ -71247,14 +71247,14 @@
       "bundleIdentifier": "games.flexus.trainminer",
       "developerName": "AI Games FZ",
       "subtitle": "*Tweak:** No Ads | *Patched ✓**",
-      "version": "4.5.13",
-      "versionDate": "2026-03-26",
+      "version": "5.2.3",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftytrainminer\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Train.Miner.Idle.Railway.Game-v4.5.13-riftysipas.ipa",
-      "localizedDescription": "*Tweak:** No Ads | *Patched ✓**\n\nTrain Miner: Idle Railway Game\n\n---\n\nThe ultimate idle adventure awaits! Embark on a unique journey where you'll master the art of resource management, strategy, and creativity. In this captivating idle game, you're in charge of constructing a dynamic train empire. Start by chopping down trees to clear land and gather essential materials. Then, dive into the heart of engineering as you build and customize your very own train from scratch.\n\nAs you progress, merge various railway carriages to enhance your train's capabilities and aes",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/8b/e3/b18be37d-20d5-dda7-bb4d-79ccc5e39219/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Train Miner: Idle Railway Game-v5.2.3-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** No Ads | *Patched ✓**\n\nTrain Miner: Idle Railway Game",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/2e/df/642edf81-c88e-936c-1593-2c6a498a65cb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 113464995,
+      "size": 109883864,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/55/4a/fd/554afdcc-29b3-59bf-cf08-eadf19627788/31d8f833-db55-4bcc-9264-8416bdb0089c_TRM_screen001_01_1242x2208_en.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b3/d3/1f/b3d31fde-f7ac-68ee-3386-c970cd754832/fd2aed4e-e0d6-4fca-bebd-97287d663a8c_TRM_screen001_02_1242x2208_en.png/392x696bb.png",
@@ -71272,11 +71272,11 @@
       },
       "versions": [
         {
-          "version": "4.5.13",
-          "date": "2026-03-26",
+          "version": "5.2.3",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftytrainminer\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Train.Miner.Idle.Railway.Game-v4.5.13-riftysipas.ipa",
-          "size": 113464995
+          "downloadURL": "https://telos.ftp.sh/ipas/Train Miner: Idle Railway Game-v5.2.3-riftysipas.ipa",
+          "size": 109883864
         }
       ],
       "category": "games"
@@ -80831,7 +80831,7 @@
     {
       "title": "⚙️ Telos Update 7.7",
       "identifier": "telos-update-2026-07-07",
-      "caption": "34 Apps Updated:\n• 6 Entertainment\n• 6 Utilities\n• 4 Lifestyle\n• 4 Photo & Video\n• 4 Books\n• 2 Weather\n• 2 Developer Tools\n• 2 Business\n• 2 Health & Fitness\n• 2 Productivity",
+      "caption": "42 Apps Updated:\n• 6 Health & Fitness\n• 6 Entertainment\n• 4 Lifestyle\n• 4 Photo & Video\n• 4 Utilities\n• 4 Music\n• 4 Games\n• 2 Weather\n• 2 Developer Tools\n• 2 Business\n• 2 Books\n• 2 Productivity",
       "date": "2026-07-07",
       "tintColor": "#02433b",
       "notify": true,
