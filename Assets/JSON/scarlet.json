@@ -21254,6 +21254,32 @@
       }
     },
     {
+      "name": "JetSign",
+      "bundleIdentifier": "com.jetsign.app",
+      "developerName": "GrowthClick Inc.",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nSay goodbye to printing, scanning, and complex e-signature apps! JetSign lets you sign any document (Word, PDF, Pages, images) and invite others to sign remotely including:\n\nSUPER-SIMPLE SIGNING EXPERIENCE\nTap or click anywhere to sign with your finger. Add your e-signature, dates, and text to your document and generate a signed PDF!\n\nFILL & SIGN FORMS\nUse our signature app to easily fill and sign forms by editing text directly on the document - no text entry pop-ups required! Resize text, add c",
+      "version": "2.5.4",
+      "versionDate": "2026-07-07T22:39:30-00:00",
+      "versionDescription": "Build 421 from @binnichtaktivsipas",
+      "size": 17550035,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/95/37/02953787-2b4b-38dd-0c59-8cc04d765b5b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/JetSign_2.5.4.ipa",
+      "minOSVersion": "10.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "JetSign_2.5.4.ipa"
+      }
+    },
+    {
       "name": "Jigsaw Puzzles",
       "bundleIdentifier": "com.easybrain.puzzles",
       "developerName": "Easybrain Ltd",
@@ -27609,13 +27635,13 @@
       "name": "MyFitnessPal",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "MyFitnessPal, Inc.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, MyFitnessPal, SideloadSpoofer-08, Sideloadbypass1, Sideloadbypass2\n\nMyFitnessPal: Calorie Counter\n\n---\nAchieve your nutrition, calorie, macro & fitness goals with MyFitnessPal – the AI-powered food & fitness tracker with everything you need. Calories, macros, food, workouts – track it all in one place with one of the most comprehensive health, nutrition & fitness tracking apps available. Now with a built-in AI nutrition Coach for personalized guidance based on your goals and history. Plus GLP-1 journey support - log doses and set reminders in the app.\n\nCreate personalized fitness & nutrition goal",
-      "version": "26.26.0",
-      "versionDate": "2026-07-01T15:26:16-00:00",
-      "versionDescription": "Build 75921 from @binnichtaktivsipas",
-      "size": 335252493,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nMyFitnessPal: Calorie Counter\n\n---\nAchieve your nutrition, calorie, macro & fitness goals with MyFitnessPal – the AI-powered food & fitness tracker with everything you need. Calories, macros, food, workouts – track it all in one place with one of the most comprehensive health, nutrition & fitness tracking apps available. Now with a built-in AI nutrition Coach for personalized guidance based on your goals and history. Plus GLP-1 journey support - log doses and set reminders in the app.\n\nCreate personalized fitness & nutrition goal",
+      "version": "26.27.0",
+      "versionDate": "2026-07-07T22:38:26-00:00",
+      "versionDescription": "Build 76381 from @blatants",
+      "size": 342513428,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/ee/f4/89eef492-dbdc-5289-8726-0f261b49ce57/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal Premium 26.26.0.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MyFitnessPal_Calorie_Counter_v26_27_0_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -27625,10 +27651,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
+        "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "MyFitnessPal Premium 26.26.0.ipa"
+        "originalFile": "MyFitnessPal_Calorie_Counter_v26_27_0_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
