@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.myswimpro.apps.MySwimPro",
     "com.logicalengine.qsei",
     "com.genau.JournalCircle",
     "com.saltycrackers.daygram",
-    "nz.co.petesmith.moonphasefree",
-    "com.dbmeterpro.dB-Meter-Free"
+    "nz.co.petesmith.moonphasefree"
   ],
   "apps": [
     {
@@ -43971,14 +43971,14 @@
       "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
       "developerName": "MySwimPro, Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "9.0.8",
-      "versionDate": "2026-06-30",
+      "version": "9.0.9",
+      "versionDate": "2026-07-07",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.0.8-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.0.9-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓** | *Bundle Id:** Com.Myswimpro.Apps.Myswimpro | *Developer:** Myswimpro, Inc.\n\nMySwimPro: #1 Swim Workout App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/81/49/3581499d-1c46-3f4e-bbc7-318a3bbe65ba/AppIcon-prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 48974332,
+      "size": 47471299,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -44008,11 +44008,11 @@
       },
       "versions": [
         {
-          "version": "9.0.8",
-          "date": "2026-06-30",
+          "version": "9.0.9",
+          "date": "2026-07-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.0.8-riftysipas.ipa",
-          "size": 48974332
+          "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.0.9-riftysipas.ipa",
+          "size": 47471299
         }
       ],
       "category": "health-&-fitness"
@@ -80831,7 +80831,7 @@
     {
       "title": "⚙️ Telos Update 7.7",
       "identifier": "telos-update-2026-07-07",
-      "caption": "32 Apps Updated:\n• 8 Lifestyle\n• 8 Photo & Video\n• 4 Weather\n• 4 Developer Tools\n• 4 Business\n• 4 Utilities",
+      "caption": "20 Apps Updated:\n• 4 Lifestyle\n• 4 Photo & Video\n• 4 Health & Fitness\n• 2 Weather\n• 2 Developer Tools\n• 2 Business\n• 2 Utilities",
       "date": "2026-07-07",
       "tintColor": "#02433b",
       "notify": true,
