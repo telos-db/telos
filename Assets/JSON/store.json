@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "rw.sp.flitsmeister",
-    "com.google.ios.youtube",
-    "com.dopedevelopment.Panels",
-    "health.sleep.sounds.tracker.alarm.calm",
-    "com.talgat.AIChat"
+    "boomer.Smart-Video",
+    "com.grandgames.magicsort",
+    "net.whatsapp.WhatsAppSMB",
+    "fddb.mobile.ios",
+    "com.christianselig.Apollo"
   ],
   "apps": [
     {
@@ -4130,14 +4130,14 @@
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Christian Selig",
       "subtitle": "Tweaked with ApolloOpenInFix, ApolloReborn",
-      "version": "3.3.0",
-      "versionDate": "2026-06-26",
+      "version": "3.4.0",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.3.0.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.4.0.ipa",
       "localizedDescription": "Apollo for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 89910361,
+      "size": 90178536,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/392x696bb.png",
@@ -4164,11 +4164,11 @@
       },
       "versions": [
         {
-          "version": "3.3.0",
-          "date": "2026-06-26",
+          "version": "3.4.0",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.3.0.ipa",
-          "size": 89910361
+          "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.4.0.ipa",
+          "size": 90178536
         }
       ],
       "category": "news"
@@ -10888,14 +10888,14 @@
       "bundleIdentifier": "boomer.Smart-Video",
       "developerName": "Captions, LLC (US)",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "13.24.0",
-      "versionDate": "2026-07-02",
+      "version": "13.25.0",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.24.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.25.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nCaptions: For Talking Videos",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/20/53/922053df-7ad0-74d3-499e-9ccd4f81cc0f/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 109471682,
+      "size": 109822914,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/5b/87/b05b8741-4960-1913-3f58-eb3cf3bff922/2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/2a/a6/942aa6f7-e910-aab9-be7f-1ff8d5de1a95/3.png/392x696bb.png",
@@ -10925,11 +10925,11 @@
       },
       "versions": [
         {
-          "version": "13.24.0",
-          "date": "2026-07-02",
+          "version": "13.25.0",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.24.0-riftysipas.ipa",
-          "size": 109471682
+          "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.25.0-riftysipas.ipa",
+          "size": 109822914
         }
       ],
       "category": "photo-&-video"
@@ -22075,6 +22075,43 @@
         }
       ],
       "category": "books"
+    },
+    {
+      "name": "Fddb",
+      "bundleIdentifier": "fddb.mobile.ios",
+      "developerName": "Food Database GmbH",
+      "subtitle": "Fddb for iOS",
+      "version": "4.0.14",
+      "versionDate": "2026-07-08",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/fddb.mobile.ios-4.0.14-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/2f/67/b82f6720-9939-607f-1955-fbd5a0baa545/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 34930586,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "To upload product images, we need access to your photos.",
+          "NSCameraUsageDescription": "FDDB Mobile Barcode Scanning",
+          "NSLocationWhenInUseUsageDescription": "FDDB Mobile Location",
+          "NSCalendarsUsageDescription": "FDDB Mobile Kalender",
+          "NSHealthShareUsageDescription": "FDDB Mobile HealthKit",
+          "NSHealthUpdateUsageDescription": "FDDB Mobile HealthKit",
+          "NSUserTrackingUsageDescription": "We use anonymized tracking to improve your experience in the app."
+        }
+      },
+      "versions": [
+        {
+          "version": "4.0.14",
+          "date": "2026-07-06",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/fddb.mobile.ios-4.0.14-eeveedecrypter.ipa",
+          "size": 34930586
+        }
+      ],
+      "category": "health-&-fitness"
     },
     {
       "name": "Feather",
@@ -39340,14 +39377,14 @@
       "bundleIdentifier": "com.grandgames.magicsort",
       "developerName": "Grand Games A.Ş.",
       "subtitle": "*Tweak:** Free Iap | *Patched ✓**",
-      "version": "26.84",
-      "versionDate": "2026-06-19",
+      "version": "27.91",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, iOSGodsiAPCracker, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Magic Sort!-v26.84-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Magic Sort!-v27.91-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Free Iap | *Patched ✓**\n\nMagic Sort!",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/84/4a/bc844a68-043c-cdca-def3-34eb66aa9af9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/eb/74/91eb749e-60c7-e7d1-1516-a66f14f988ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 200271269,
+      "size": 201025962,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/6e/4e/4a6e4ee3-e67b-db0c-5b26-9c81cd0bd650/RainbowSS_1242x2208.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/7a/3f/f87a3f4c-f641-8546-4d64-08490a4fbc61/StoreUI02_challenge.jpg/392x696bb.jpg",
@@ -39367,11 +39404,11 @@
       },
       "versions": [
         {
-          "version": "26.84",
-          "date": "2026-06-19",
+          "version": "27.91",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, iOSGodsiAPCracker, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Magic Sort!-v26.84-riftysipas.ipa",
-          "size": 200271269
+          "downloadURL": "https://telos.ftp.sh/ipas/Magic Sort!-v27.91-riftysipas.ipa",
+          "size": 201025962
         }
       ],
       "category": "games"
@@ -80021,15 +80058,15 @@
       "name": "‎WA Business",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
       "developerName": "WhatsApp Inc.",
-      "subtitle": "Tweaked with BlockWAUpdates, ContactSync",
-      "version": "26.25.10",
-      "versionDate": "2026-07-04",
-      "versionDescription": "Tweaks: BlockWAUpdates, ContactSync, CydiaSubstrate, OnlineNotify, Stalky\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@wabeta_ipa]B_26.25.10_WC.ipa",
+      "subtitle": "‎WA Business for iOS",
+      "version": "26.26.73",
+      "versionDate": "2026-07-08",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/net.whatsapp.WhatsAppSMB-26.26.73-eeveedecrypter.ipa",
       "localizedDescription": "‎WA Business for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/81/ec/ad81eca8-2eaa-030b-4073-5166976f714e/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 156164430,
+      "size": 156771594,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/75/4e/86754ed1-e732-d4ff-79d5-1fb670efa4bf/01_iOS_Profile.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/ed/39/c6ed3962-4b40-b9b1-2f54-cd6f2a2297ef/02_iOS_Status.png/392x696bb.png",
@@ -80074,11 +80111,11 @@
       },
       "versions": [
         {
-          "version": "26.25.10",
-          "date": "2026-07-04",
-          "localizedDescription": "Tweaks: BlockWAUpdates, ContactSync, CydiaSubstrate, OnlineNotify, Stalky\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/[TG@wabeta_ipa]B_26.25.10_WC.ipa",
-          "size": 156164430
+          "version": "26.26.73",
+          "date": "2026-07-08",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/net.whatsapp.WhatsAppSMB-26.26.73-eeveedecrypter.ipa",
+          "size": 156771594
         }
       ],
       "category": "business"
@@ -80948,7 +80985,7 @@
     {
       "title": "⚙️ Telos Update 7.8",
       "identifier": "telos-update-2026-07-08",
-      "caption": "76 Apps Updated:\n• 20 Photo & Video\n• 8 Games\n• 8 Health & Fitness\n• 6 Productivity\n• 6 Navigation\n• 6 Travel\n• 4 Education\n• 4 Utilities\n• 4 Lifestyle\n• 2 Food & Drink\n• 2 Graphics & Design\n• 2 Weather\n• 2 Music\n• 2 Finance",
+      "caption": "98 Apps Updated:\n• 24 Photo & Video\n• 12 Games\n• 12 Health & Fitness\n• 8 News\n• 6 Productivity\n• 6 Travel\n• 4 Education\n• 4 Utilities\n• 4 Lifestyle\n• 4 Navigation\n• 4 Business\n• 2 Food & Drink\n• 2 Graphics & Design\n• 2 Weather\n• 2 Music\n• 2 Finance",
       "date": "2026-07-08",
       "tintColor": "#02433b",
       "notify": true,
