@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.grandgames.carmatch",
     "RVS-Riverside.fm",
     "ai.parrotpal",
     "uk.os.osmaps",
-    "gronda.gmbh",
-    "com.napper"
+    "gronda.gmbh"
   ],
   "apps": [
     {
@@ -10906,14 +10906,14 @@
       "bundleIdentifier": "com.grandgames.carmatch",
       "developerName": "Grand Games A.Ş.",
       "subtitle": "*Tweak:** Free Iap | *Patched ✓**",
-      "version": "0.0.883",
-      "versionDate": "2026-06-29",
+      "version": "0.0.896",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, iOSGodsiAPCracker, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Car Match - Traffic Puzzle-v0.0.883-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Car Match - Traffic Puzzle-v0.0.896-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Free Iap | *Patched ✓**\n\nCar Match - Traffic Puzzle",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/3d/89/dd3d89ea-ac88-5728-7d4e-0c3d8d293311/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 206317892,
+      "size": 206318004,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/84/a1/6c84a16b-fb54-06a7-5af2-2baf48450897/1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/b1/a8/2ab1a8a2-5398-3d49-95eb-6e7684b46df6/2.jpg/392x696bb.jpg",
@@ -10929,11 +10929,11 @@
       },
       "versions": [
         {
-          "version": "0.0.883",
-          "date": "2026-06-29",
+          "version": "0.0.896",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, iOSGodsiAPCracker, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Car Match - Traffic Puzzle-v0.0.883-riftysipas.ipa",
-          "size": 206317892
+          "downloadURL": "https://telos.ftp.sh/ipas/Car Match - Traffic Puzzle-v0.0.896-riftysipas.ipa",
+          "size": 206318004
         }
       ],
       "category": "games"
@@ -80915,7 +80915,7 @@
     {
       "title": "⚙️ Telos Update 7.8",
       "identifier": "telos-update-2026-07-08",
-      "caption": "24 Apps Updated:\n• 6 Health & Fitness\n• 4 Photo & Video\n• 2 Education\n• 2 Productivity\n• 2 Utilities\n• 2 Food & Drink\n• 2 Games\n• 2 Lifestyle\n• 2 Navigation",
+      "caption": "24 Apps Updated:\n• 6 Games\n• 4 Health & Fitness\n• 2 Education\n• 2 Productivity\n• 2 Utilities\n• 2 Food & Drink\n• 2 Lifestyle\n• 2 Navigation\n• 2 Photo & Video",
       "date": "2026-07-08",
       "tintColor": "#02433b",
       "notify": true,
