@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.grandgames.carmatch",
-    "RVS-Riverside.fm",
-    "ai.parrotpal",
-    "uk.os.osmaps",
-    "gronda.gmbh"
+    "com.ketchapp.knifehit",
+    "com.iaftt.flightplusfree",
+    "com.hassantaleb.mockup",
+    "com.readdle.ReaddleDocsIPad",
+    "com.joytunes.Sing"
   ],
   "apps": [
     {
@@ -3777,14 +3777,14 @@
       "bundleIdentifier": "com.hassantaleb.mockup",
       "developerName": "Hassan Taleb",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "5.8",
-      "versionDate": "2026-06-23",
+      "version": "5.9",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: Animock, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Animock_3D_Mockup_Animator_v5_8_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Animock_3D_Mockup_Animator_v5_9_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nAnimock: 3D Mockup Animator",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/2c/01/012c01dc-46aa-201d-d172-accc0cac3675/Animock-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/86/f1/3b86f13f-af02-e04a-5a1a-9b671bf13a3e/Animock-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 115408570,
+      "size": 115457936,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/ba/34/85ba346c-0843-15b6-0243-64b8b046101f/499d877b-8a6a-41a7-8979-c0201a9a3b68_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-02-16_at_06.17.36.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/b2/da/d3b2da6d-b70e-35a5-7aed-a7951495968c/58f4b499-ddb3-4e4c-94c0-da3094f034c3_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-02-16_at_06.19.38.png/392x696bb.png",
@@ -3806,11 +3806,11 @@
       },
       "versions": [
         {
-          "version": "5.8",
-          "date": "2026-06-23",
+          "version": "5.9",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: Animock, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Animock_3D_Mockup_Animator_v5_8_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 115408570
+          "downloadURL": "https://telos.ftp.sh/ipas/Animock_3D_Mockup_Animator_v5_9_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 115457936
         }
       ],
       "category": "graphics-&-design"
@@ -5773,6 +5773,39 @@
       "category": "health-&-fitness"
     },
     {
+      "name": "AX-CPU",
+      "bundleIdentifier": "com.davidcaddy.axcpu",
+      "developerName": "Armchair Engineering",
+      "subtitle": "AX-CPU for iOS",
+      "version": "1.9",
+      "versionDate": "2026-07-08",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.davidcaddy.axcpu-1.9-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/5c/49/a65c494f-8dd4-5ee4-4bff-2946ebfd4aa7/AXCPU-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 6241439,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/f6/0c/2ff60cd2-63aa-a5c4-4f13-986e01209a8e/f29e6a6b-ea3c-452a-a5a9-66c5e5a6062f_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-07-02_at_00.35.01.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.9",
+          "date": "2026-06-15",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.davidcaddy.axcpu-1.9-eeveedecrypter.ipa",
+          "size": 6241439
+        }
+      ],
+      "category": "utilities"
+    },
+    {
       "name": "Aymane",
       "bundleIdentifier": "com.aymane",
       "developerName": "Gautier Lortie",
@@ -6742,14 +6775,14 @@
       "bundleIdentifier": "reels-maker-one",
       "developerName": "Onelight Apps CY Ltd",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "1.25.0",
-      "versionDate": "2026-06-23",
+      "version": "1.25.1",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: BEAT, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Reels_Maker_for_Instagram_BEAT_v1_25_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Reels_Maker_for_Instagram_BEAT_v1_25_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nReels Maker for Instagram BEAT",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/d7/f0/cad7f01a-a5fd-ccc6-b85f-557618b31a0e/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/36/ff/0236ffd7-d261-a217-267e-80e5e9749687/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 124181818,
+      "size": 126053164,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/da/36/1fda360e-29f3-e696-d059-eb432c86ced5/c41f4e14-f986-4dbe-bba8-5c5a02ecab1a_01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/8a/a9/3b8aa9c2-fcdf-e0bc-217f-34cd8954c111/f413b994-044d-410b-a523-6f7392a6e5f5_02.jpg/392x696bb.jpg",
@@ -6772,11 +6805,11 @@
       },
       "versions": [
         {
-          "version": "1.25.0",
-          "date": "2026-06-23",
+          "version": "1.25.1",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: BEAT, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Reels_Maker_for_Instagram_BEAT_v1_25_0_Subscription_Unlocked_blatant.ipa",
-          "size": 124181818
+          "downloadURL": "https://telos.ftp.sh/ipas/Reels_Maker_for_Instagram_BEAT_v1_25_1_Subscription_Unlocked_blatant.ipa",
+          "size": 126053164
         }
       ],
       "category": "photo-&-video"
@@ -17700,14 +17733,14 @@
       "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
       "developerName": "Readdle Technologies Limited",
       "subtitle": "Patched | Tweaked",
-      "version": "8.20.2",
-      "versionDate": "2026-07-01",
+      "version": "8.20.3",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: Documents, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Documents_File_Manager_&_Docs_v8_20_2_DocumentsPlus_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Documents_File_Manager_&_Docs_v8_20_3_DocumentsPlus_Unlocked_blatant.ipa",
       "localizedDescription": "Patched | Tweaked\n\nDocuments: File Manager & Docs",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/4d/18/2b4d188a-eeb7-983e-628c-5845472f2155/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/6c/28/ea6c289b-d0d6-6e0b-3ebc-37cade97c6df/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 266646885,
+      "size": 266759996,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -17736,11 +17769,11 @@
       },
       "versions": [
         {
-          "version": "8.20.2",
-          "date": "2026-07-01",
+          "version": "8.20.3",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: Documents, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Documents_File_Manager_&_Docs_v8_20_2_DocumentsPlus_Unlocked_blatant.ipa",
-          "size": 266646885
+          "downloadURL": "https://telos.ftp.sh/ipas/Documents_File_Manager_&_Docs_v8_20_3_DocumentsPlus_Unlocked_blatant.ipa",
+          "size": 266759996
         }
       ],
       "category": "productivity"
@@ -19992,14 +20025,14 @@
       "bundleIdentifier": "com.snowcorp.epik",
       "developerName": "SNOW Corporation",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "7.2.0",
-      "versionDate": "2026-07-03",
+      "version": "7.2.1",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: EPIK, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/EPIK_AI_Photo_&_Video_Editor_v7_2_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/EPIK_AI_Photo_&_Video_Editor_v7_2_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nEPIK - AI Photo & Video Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/46/02/14460241-f6b8-abd1-7661-8c9d4d2b7b0b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 195318023,
+      "size": 195357743,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/11/c0/9b11c0d5-9d65-1003-f761-9202091178ee/Event_en.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/e5/e0/e8e5e0dc-6415-7da4-3221-ab6941dfc4c7/AIfilter_en.png/392x696bb.png",
@@ -20028,11 +20061,11 @@
       },
       "versions": [
         {
-          "version": "7.2.0",
-          "date": "2026-07-03",
+          "version": "7.2.1",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: EPIK, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/EPIK_AI_Photo_&_Video_Editor_v7_2_0_Subscription_Unlocked_blatant.ipa",
-          "size": 195318023
+          "downloadURL": "https://telos.ftp.sh/ipas/EPIK_AI_Photo_&_Video_Editor_v7_2_1_Subscription_Unlocked_blatant.ipa",
+          "size": 195357743
         }
       ],
       "category": "photo-&-video"
@@ -23614,14 +23647,14 @@
       "bundleIdentifier": "com.iaftt.flightplusfree",
       "developerName": "Impala Studios",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "8.7.15",
-      "versionDate": "2026-07-06",
+      "version": "8.7.16",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: blatantsPatch, flighttracker+\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Flight_Tracker_+_v8_7_15_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Flight_Tracker_+_v8_7_16_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFlight Tracker +",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/ca/d4/83cad415-aad1-a101-c2b2-9edf527d8286/tft_appicon_2025-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 123367786,
+      "size": 119391010,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -23643,11 +23676,11 @@
       },
       "versions": [
         {
-          "version": "8.7.15",
-          "date": "2026-07-06",
+          "version": "8.7.16",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: blatantsPatch, flighttracker+\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Flight_Tracker_+_v8_7_15_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 123367786
+          "downloadURL": "https://telos.ftp.sh/ipas/Flight_Tracker_+_v8_7_16_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 119391010
         }
       ],
       "category": "travel"
@@ -23656,15 +23689,15 @@
       "name": "Flightradar24",
       "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
       "developerName": "Flightradar24 AB",
-      "subtitle": "Tweaked with FlightRadar24",
-      "version": "11.7.0",
-      "versionDate": "2026-07-01",
-      "versionDescription": "Tweaks: FlightRadar24\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Flightradar Gold 11.7.0.ipa",
-      "localizedDescription": "Flightradar24 | Flight Tracker",
+      "subtitle": "Patched | Tweaked",
+      "version": "11.7.1",
+      "versionDate": "2026-07-08",
+      "versionDescription": "Tweaks: FlightRadar24, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Flightradar24_Flight_Tracker_v11_7_1_Gold_Lifetime_blatant_Patched.ipa",
+      "localizedDescription": "Patched | Tweaked\n\nFlightradar24 | Flight Tracker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/b3/73/6bb373e1-59b0-c48d-9a73-496ef19967a1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 221509754,
+      "size": 226238899,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/71/9c/5f719ce8-180f-b06c-f4c0-1b690dd63013/04ad4938-e8c5-4469-9ea7-a01168421d68_iphone8_screenshot_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/f8/02/0bf80293-7322-217f-b4ff-394b3c98d296/ccb55067-54dd-4aae-8aa1-e6a345501bb0_iphone8_screenshot_2.jpg/392x696bb.jpg",
@@ -23690,11 +23723,11 @@
       },
       "versions": [
         {
-          "version": "11.7.0",
-          "date": "2026-07-01",
-          "localizedDescription": "Tweaks: FlightRadar24\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Flightradar Gold 11.7.0.ipa",
-          "size": 221509754
+          "version": "11.7.1",
+          "date": "2026-07-08",
+          "localizedDescription": "Tweaks: FlightRadar24, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Flightradar24_Flight_Tracker_v11_7_1_Gold_Lifetime_blatant_Patched.ipa",
+          "size": 226238899
         }
       ],
       "category": "travel"
@@ -34768,14 +34801,14 @@
       "bundleIdentifier": "com.ketchapp.knifehit",
       "developerName": "Ketchapp",
       "subtitle": "*Tweak:** No Ads | *Patched ✓**",
-      "version": "1.9.25",
-      "versionDate": "2026-03-07",
+      "version": "1.9.26",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Knife.Hit-v1.9.25-riftysipas.ipa",
-      "localizedDescription": "*Tweak:** No Ads | *Patched ✓**\n\nKnife Hit\n\n---\n\nThe ultimate knife challenge!\n\nThrow the knives into the logs to break them. Slash the apples and unlock new knives. Each 5th stage is defended by a boss - beat them to get exclusive knives!\n\nBe careful to not hit the knives or the spikes. Time your actions, target carefully and become the knife master!\n\nCan you beat all the bosses?\n\nSubscription Terms\n\nVIP MEMBERSHIP offers a weekly subscription, you will have a 3-days FREE trial period, after this period you will be charged $4.99. After buying",
+      "downloadURL": "https://telos.ftp.sh/ipas/Knife Hit-v1.9.26-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** No Ads | *Patched ✓**\n\nKnife Hit",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/32/87/ee32871b-9e1c-277c-7ee3-1240bd1a8638/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 78314303,
+      "size": 79399256,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/85/47/e2/8547e245-396a-b035-3e57-89091dce62c4/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ec/f7/d3/ecf7d369-fadd-dec6-8f42-b5032f5b370a/pr_source.png/392x696bb.png",
@@ -34795,11 +34828,11 @@
       },
       "versions": [
         {
-          "version": "1.9.25",
-          "date": "2026-02-03",
+          "version": "1.9.26",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Knife.Hit-v1.9.25-riftysipas.ipa",
-          "size": 78314303
+          "downloadURL": "https://telos.ftp.sh/ipas/Knife Hit-v1.9.26-riftysipas.ipa",
+          "size": 79399256
         }
       ],
       "category": "games"
@@ -47475,20 +47508,20 @@
       "bundleIdentifier": "com.itwcalculator.worldradarfree",
       "developerName": "Impala Studios",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "6.0.2",
-      "versionDate": "2026-07-01",
+      "version": "6.0.3",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: WeatherRadar, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Weather_Radar_Ora_Channel_v6_0_2_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Weather_Radar_Ora_Channel_v6_0_3_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nWeather Radar - Ora Channel",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/7a/53/847a53a3-25bd-d483-2611-083ad8c01a9b/appIcon_2025-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/83/3f/1b833fd4-7fdb-c7a6-e181-41cc65c39aa8/NordAppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 102841800,
+      "size": 104507971,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/2e/b0/282eb076-e49b-5770-c533-9d985ca845d5/d4728989-f20d-4c8b-aea9-4416524952fa_iPhone5.5_01.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/d8/f5/ded8f574-2bf0-e8e2-7031-d9d276817f36/3f20bc18-77a9-417f-a7a7-36fccb4a11e7_iPhone5.5_02.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/4f/ab/ad4fab05-71d3-06cc-3b6b-af2379a741a8/8b637c52-4fe4-40d8-b84d-376b7d1fc3a3_iPhone5.5_10.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/5d/0b/b95d0bfb-c0b2-e02f-faf6-8ae453dd646c/80b3d651-4d9f-417b-b905-8eed524f1d93_iPhone5.5_04.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/a4/f8/22a4f891-8276-f7f9-2a58-7e9ccbdf5bb9/88dfdd53-3b56-4d1b-96a4-4fd8f744e34e_iPhone5.5_03.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/5b/c8/4a5bc876-018f-91f2-1f0c-5860ecc9745b/d4728989-f20d-4c8b-aea9-4416524952fa_iPhone5.5_01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/82/87/c18287c6-35f8-9e16-b447-c0acd5b20bdb/3f20bc18-77a9-417f-a7a7-36fccb4a11e7_iPhone5.5_02.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/bd/c0/53bdc0c7-2e6c-286a-1e4e-0aacd8fa9baf/8b637c52-4fe4-40d8-b84d-376b7d1fc3a3_iPhone5.5_10.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/6e/a4/786ea4e1-33a4-2699-f108-4917c10c80e5/80b3d651-4d9f-417b-b905-8eed524f1d93_iPhone5.5_04.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/42/e9/3442e949-3166-9cac-e87a-9272449b750d/88dfdd53-3b56-4d1b-96a4-4fd8f744e34e_iPhone5.5_03.png/392x696bb.png"
       ],
       "appPermissions": {
         "entitlements": [
@@ -47498,19 +47531,19 @@
           "com.apple.security.application-groups"
         ],
         "privacy": {
-          "NSLocationWhenInUseUsageDescription": "We use your location to provide you a better app experience.",
-          "NSLocationAlwaysUsageDescription": "We use your location to provide you a better app experience.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "We use your location to provide you a better app experience.",
+          "NSLocationWhenInUseUsageDescription": "Ora Weather uses your location to show weather and severe-weather alerts for where you are while the app is open.",
+          "NSLocationAlwaysUsageDescription": "Ora Weather uses your location in the background to keep weather, widgets, and severe-weather alerts up to date for where you are as conditions change.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Ora Weather uses your location in the background to keep weather, widgets, and severe-weather alerts up to date for where you are as conditions change.",
           "NSUserTrackingUsageDescription": "By tapping ‘Allow’, we and our partners may access specific identifiers on your device, provide personalized ads, perform ad and content measurement, and gather audience insights. For more information, see our Privacy Policy & Terms and Conditions."
         }
       },
       "versions": [
         {
-          "version": "6.0.2",
-          "date": "2026-07-01",
+          "version": "6.0.3",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: WeatherRadar, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Weather_Radar_Ora_Channel_v6_0_2_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 102841800
+          "downloadURL": "https://telos.ftp.sh/ipas/Weather_Radar_Ora_Channel_v6_0_3_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 104507971
         }
       ],
       "category": "weather"
@@ -60139,14 +60172,14 @@
       "bundleIdentifier": "com.joytunes.Sing",
       "developerName": "Simply Ltd",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "3.0.3",
-      "versionDate": "2026-07-05",
+      "version": "3.0.4",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Sing_My_Singing_App_v3_0_3_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Sing_My_Singing_App_v3_0_4_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSimply Sing: My Singing App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/c7/3d/8cc73d9a-bf5a-eb08-4aec-23f943ff3ecf/AppIcon-new-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 128443427,
+      "size": 128403107,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/a8/6d/caa86d47-4f66-38fd-6de1-45c8e344271d/80124bc5-c119-4a00-980e-1131fb7afd56_5.5_-_7.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/cb/e3/b2cbe3c2-d630-8c72-c076-c4c81b365fc9/a9b51ee4-6e46-4cdb-82e1-c37a243b9d4e_5.5_-_8.jpg/392x696bb.jpg",
@@ -60172,11 +60205,11 @@
       },
       "versions": [
         {
-          "version": "3.0.3",
-          "date": "2026-07-05",
+          "version": "3.0.4",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Sing_My_Singing_App_v3_0_3_Subscription_Unlocked_blatant.ipa",
-          "size": 128443427
+          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Sing_My_Singing_App_v3_0_4_Subscription_Unlocked_blatant.ipa",
+          "size": 128403107
         }
       ],
       "category": "music"
@@ -71667,14 +71700,14 @@
       "bundleIdentifier": "app.tripsy.ios",
       "developerName": "Tripsy LLC",
       "subtitle": "Lifetime Unlocked | Patched",
-      "version": "3.8.12",
-      "versionDate": "2026-07-04",
+      "version": "3.8.13",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: Tripsy, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tripsy_Travel_Planner_v3_8_12_Lifetime_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tripsy_Travel_Planner_v3_8_13_Lifetime_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Lifetime Unlocked | Patched | Tweaked\n\nTripsy: Travel Planner",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/d2/29/92d2298d-281a-5b07-77a6-8ae8b9aac7b4/App_Icon_Original-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 78112240,
+      "size": 78170851,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/b6/03/bbb60361-435a-2dd5-4d68-df0468832962/1c2f8b3c-6c0c-4efb-ad74-92f30addd11a_1_opaque.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/02/53/8b025308-9e97-347a-fddf-bd7dae18a60b/2ad203a9-0557-49e9-927a-43f232bde457_2_opaque.png/552x414bb.png",
@@ -71700,11 +71733,11 @@
       },
       "versions": [
         {
-          "version": "3.8.12",
-          "date": "2026-07-04",
+          "version": "3.8.13",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: Tripsy, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tripsy_Travel_Planner_v3_8_12_Lifetime_Unlocked_blatant_Patched.ipa",
-          "size": 78112240
+          "downloadURL": "https://telos.ftp.sh/ipas/Tripsy_Travel_Planner_v3_8_13_Lifetime_Unlocked_blatant_Patched.ipa",
+          "size": 78170851
         }
       ],
       "category": "travel"
@@ -80915,7 +80948,7 @@
     {
       "title": "⚙️ Telos Update 7.8",
       "identifier": "telos-update-2026-07-08",
-      "caption": "22 Apps Updated:\n• 4 Games\n• 4 Health & Fitness\n• 2 Education\n• 2 Productivity\n• 2 Utilities\n• 2 Food & Drink\n• 2 Lifestyle\n• 2 Navigation\n• 2 Photo & Video",
+      "caption": "66 Apps Updated:\n• 12 Travel\n• 10 Photo & Video\n• 8 Games\n• 6 Productivity\n• 6 Utilities\n• 4 Health & Fitness\n• 4 Graphics & Design\n• 4 Weather\n• 4 Music\n• 2 Education\n• 2 Food & Drink\n• 2 Lifestyle\n• 2 Navigation",
       "date": "2026-07-08",
       "tintColor": "#02433b",
       "notify": true,
