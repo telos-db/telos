@@ -2698,12 +2698,12 @@
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Christian Selig",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\n---\nApollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accom",
-      "version": "3.3.0",
-      "versionDate": "2026-06-26T13:36:16-00:00",
-      "versionDescription": "Build 290 from @thescholarslounge",
-      "size": 89910361,
+      "version": "3.4.0",
+      "versionDate": "2026-07-08T22:51:11-00:00",
+      "versionDescription": "Build 291 from @thescholarslounge",
+      "size": 90178536,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.3.0.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.4.0.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -2716,7 +2716,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Apollo-Reborn-3.3.0.ipa"
+        "originalFile": "Apollo-Reborn-3.4.0.ipa"
       }
     },
     {
@@ -6885,12 +6885,12 @@
       "bundleIdentifier": "boomer.Smart-Video",
       "developerName": "Captions, LLC (US)",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nCaptions: For Talking Videos\n\n---\nAI EDIT THAT EDITS LIKE A PROFESSIONAL VIDEO EDITOR\n\nBuilt by Mirage™, Captions is an AI video generator and video editor that makes it easy to go from idea to ready-to-share content, no experience needed.\n\nGet started by importing a video or generating engaging content from scratch using text to video. You can create an AI actor or upload a selfie to create a personal avatar, allowing you to produce polished footage of yourself without ever needing to record again.\n\nFrom there, skip the hours s",
-      "version": "13.24.0",
-      "versionDate": "2026-07-02T15:41:41-00:00",
-      "versionDescription": "Build 583 from @riftysIPAlibrary",
-      "size": 109471682,
+      "version": "13.25.0",
+      "versionDate": "2026-07-08T23:11:54-00:00",
+      "versionDescription": "Build 584 from @riftysIPAlibrary",
+      "size": 109822914,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/20/53/922053df-7ad0-74d3-499e-9ccd4f81cc0f/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.24.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.25.0-riftysipas.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -6902,7 +6902,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Captions: For Talking Videos-v13.24.0-riftysipas.ipa"
+        "originalFile": "Captions: For Talking Videos-v13.25.0-riftysipas.ipa"
       }
     },
     {
@@ -14032,6 +14032,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "com.app.faydadigital-1.30-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "Fddb",
+      "bundleIdentifier": "fddb.mobile.ios",
+      "developerName": "Food Database GmbH",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nGet started now with Fddb—your smart AI calorie counter, food diary, and fasting tracker. Whether you want to lose weight, build muscle, or eat healthily, Fddb has everything you need in one app to achieve your nutritional goals!\n\nTop Fddb features\n• Free calorie counter & food diary—no ads\n• AI food scanner / AI calorie scanner (track calories by photo)\n• Intermittent fasting tracker with reminder function\n• Huge food database including barcode scanner\n• Connection to fitness trackers & smartwa",
+      "version": "4.0.14",
+      "versionDate": "2026-07-08T22:52:20-00:00",
+      "versionDescription": "Build 202607011215 from @thescholarslounge",
+      "size": 34930586,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/2f/67/b82f6720-9939-607f-1955-fbd5a0baa545/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/fddb.mobile.ios-4.0.14-eeveedecrypter.ipa",
+      "minOSVersion": "16.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "fddb.mobile.ios-4.0.14-eeveedecrypter.ipa"
       }
     },
     {
@@ -24796,12 +24822,12 @@
       "bundleIdentifier": "com.grandgames.magicsort",
       "developerName": "Grand Games A.Ş.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, iOSGodsiAPCracker, popuprifty\n\nMagic Sort!\n\n---\nDiscover Magic Sort! Mix colors in a world where every splash of water is a step into mystery. This isn’t just a game; it’s a journey through puzzles that sparkle with charm, inviting you to sort, match, and puzzle your way through.\n\nQuick Play Guide\n\n- Start Simple: Tap a bottle to pick it up, and another to pour the water. Organize the water so each bottle has only one color.\n- Think Ahead: Pour water only if it matches the top color of the destination bottle and there’s room. Plan to avoid de",
-      "version": "0.0.2729",
-      "versionDate": "2026-06-30T16:01:13-00:00",
-      "versionDescription": "Build 0.0.2729 from @riftysIPAlibrary",
-      "size": 200487163,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/84/4a/bc844a68-043c-cdca-def3-34eb66aa9af9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Magic Sort!-v0.0.2729-riftysipas.ipa",
+      "version": "27.91",
+      "versionDate": "2026-07-08T23:07:38-00:00",
+      "versionDescription": "Build 0.0.2791 from @riftysIPAlibrary",
+      "size": 201025962,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/eb/74/91eb749e-60c7-e7d1-1516-a66f14f988ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Magic Sort!-v27.91-riftysipas.ipa",
       "minOSVersion": "13.0",
       "supportedPlatforms": [
         "iOS"
@@ -24814,7 +24840,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Magic Sort!-v0.0.2729-riftysipas.ipa"
+        "originalFile": "Magic Sort!-v27.91-riftysipas.ipa"
       }
     },
     {
@@ -50584,26 +50610,25 @@
       "name": "‎WA Business",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
       "developerName": "WhatsApp Inc.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BlockWAUpdates, ContactSync, CydiaSubstrate, OnlineNotify, Stalky\n\n---\nAbout this app\n\nEverything you love about WhatsApp plus built-in tools for business\nWhatsApp Business is a free-to-download app with built-in tools to help you work smarter, build trust, and grow your business.\n\nYou get free calls and free international messaging plus business features to help you do more with conversations.\n\nDownload the app to get business benefits like these:\n\n• Work smarter. Save time by letting the app do the work for you! Send customers automated quick replies and away mes",
-      "version": "26.25.10",
-      "versionDate": "2026-07-04T21:47:27-00:00",
-      "versionDescription": "Build 1004634217 from @thescholarslounge",
-      "size": 156164430,
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nAbout this app\n\nEverything you love about WhatsApp plus built-in tools for business\nWhatsApp Business is a free-to-download app with built-in tools to help you work smarter, build trust, and grow your business.\n\nYou get free calls and free international messaging plus business features to help you do more with conversations.\n\nDownload the app to get business benefits like these:\n\n• Work smarter. Save time by letting the app do the work for you! Send customers automated quick replies and away mes",
+      "version": "26.26.73",
+      "versionDate": "2026-07-08T22:55:47-00:00",
+      "versionDescription": "Build 1010365865 from @thescholarslounge",
+      "size": 156771594,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/81/ec/ad81eca8-2eaa-030b-4073-5166976f714e/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@wabeta_ipa]B_26.25.10_WC.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/net.whatsapp.WhatsAppSMB-26.26.73-eeveedecrypter.ipa",
       "minOSVersion": "15.1",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "[TG@wabeta_ipa]B_26.25.10_WC.ipa"
+        "originalFile": "net.whatsapp.WhatsAppSMB-26.26.73-eeveedecrypter.ipa"
       }
     },
     {
