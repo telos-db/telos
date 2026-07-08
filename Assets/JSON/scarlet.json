@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-07-07",
+  "versionDate": "2026-07-08",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -22810,18 +22810,17 @@
       "bundleIdentifier": "com.identification.plant",
       "developerName": "APPIXI COMPANY LIMITED",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nLeafSnap-Plant Identification\n\n---\nInstantly identify any plant, flower, or tree with just a photo — powered by advanced AI with 98% accuracy.\n\nLeafSnap is the ultimate plant identifier trusted by millions of gardeners, hikers, and nature lovers worldwide. Simply snap a photo and get instant results from our database of 400,000+ plant species.\n\nKEY FEATURES:\n\nPlant Identifier — Identify any plant, flower, tree, or succulent in seconds\nMushroom Identifier — Identify wild mushrooms with safety warnings\nInsect Identifier — Identify",
-      "version": "2.78",
-      "versionDate": "2026-06-14T10:21:07-00:00",
-      "versionDescription": "Build 199 from @riftysIPAlibrary",
-      "size": 73253968,
+      "version": "2.80",
+      "versionDate": "2026-07-08T00:26:46-00:00",
+      "versionDescription": "Build 201 from @riftysIPAlibrary",
+      "size": 73884796,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/a3/80/e0a3804a-a73c-8756-218b-100ed23140d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/LeafSnap-Plant Identification-v2.78-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LeafSnap-Plant Identification-v2.80-riftysipas.ipa",
       "minOSVersion": "14.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -22829,7 +22828,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "LeafSnap-Plant Identification-v2.78-riftysipas.ipa"
+        "originalFile": "LeafSnap-Plant Identification-v2.80-riftysipas.ipa"
       }
     },
     {
