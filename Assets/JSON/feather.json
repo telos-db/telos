@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.identification.plant",
     "com.jetsign.app",
     "com.myfitnesspal.mfp",
     "com.glucobit.cravingBuster.CravingBuster",
-    "com.tr.paraphrasingtool.rewritertool.textrewriter",
-    "com.vertventures.stella"
+    "com.tr.paraphrasingtool.rewritertool.textrewriter"
   ],
   "apps": [
     {
@@ -36570,14 +36570,14 @@
       "bundleIdentifier": "com.identification.plant",
       "developerName": "APPIXI COMPANY LIMITED",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.78",
-      "versionDate": "2026-06-14",
+      "version": "2.80",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/LeafSnap-Plant Identification-v2.78-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LeafSnap-Plant Identification-v2.80-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nLeafSnap-Plant Identification\n\n---\nInstantly identify any plant, flower, or tree with just a photo — powered by advanced AI with 98% accuracy.\n\nLeafSnap is the ultimate plant identifier trusted by millions of gardeners, hikers, and nature lovers worldwide. Simply snap a photo and get instant results from our database of 400,000+ plant species.\n\nKEY FEATURES:\n\nPlant Identifier — Identify any plant, flower, tree, or succulent in seconds\nMushroom Identifier — Identify wild mushrooms with safety warnings\nInsect Identifier — Identify",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/a3/80/e0a3804a-a73c-8756-218b-100ed23140d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 73253968,
+      "size": 73884796,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/41/51/88415166-3d0b-8848-9106-7702c0c1d402/5e580e19-5be1-4943-b1c2-2742e4cbd4b9_1242x2208_-_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/ea/31/a5ea3139-9bce-e45f-854d-1c225f5e61f4/b0f12ee4-a124-4c9e-a1f6-79e19a3fac12_1242x2208_-_2.jpg/392x696bb.jpg",
@@ -36599,11 +36599,11 @@
       },
       "versions": [
         {
-          "version": "2.78",
-          "date": "2026-06-14",
+          "version": "2.80",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/LeafSnap-Plant Identification-v2.78-riftysipas.ipa",
-          "size": 73253968
+          "downloadURL": "https://telos.ftp.sh/ipas/LeafSnap-Plant Identification-v2.80-riftysipas.ipa",
+          "size": 73884796
         }
       ],
       "category": "education"
