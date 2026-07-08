@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "RVS-Riverside.fm",
+    "ai.parrotpal",
     "uk.os.osmaps",
     "gronda.gmbh",
-    "com.napper",
-    "com.blockpuzzle.us.ios",
-    "org.quiche.Browser"
+    "com.napper"
   ],
   "apps": [
     {
@@ -49172,14 +49172,14 @@
       "bundleIdentifier": "ai.parrotpal",
       "developerName": "Scott Flear",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "198",
-      "versionDate": "2026-06-23",
+      "version": "199",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/AI Calorie Counter: ParrotPal-v198-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AI Calorie Counter: ParrotPal-v199-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nAI Calorie Counter: ParrotPal\n\n---\nParrotPal: Wellness Made Simple\n\nLife is busy, and staying healthy can feel overwhelming. ParrotPal is here to help you build sustainable habits that fit your lifestyle—with minimal effort.\nOur app makes it easy to track your food, stay active, and make balanced choices—all without overthinking. Focus on small, daily actions and feel good about taking steps toward a healthier you.\n\nWhat Makes ParrotPal Different?\nEffortless Food Logging\n Logging meals has never been easier. Simply type, speak, o",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/4c/be/0e4cbe62-e4f8-7548-8bff-7a475094ba03/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/37/61/0937612e-457e-451e-1f76-9a06966c68f5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 129421523,
+      "size": 130382848,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -49203,11 +49203,11 @@
       },
       "versions": [
         {
-          "version": "198",
-          "date": "2026-06-23",
+          "version": "199",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/AI Calorie Counter: ParrotPal-v198-riftysipas.ipa",
-          "size": 129421523
+          "downloadURL": "https://telos.ftp.sh/ipas/AI Calorie Counter: ParrotPal-v199-riftysipas.ipa",
+          "size": 130382848
         }
       ],
       "category": "health-&-fitness"
@@ -57288,14 +57288,14 @@
       "bundleIdentifier": "RVS-Riverside.fm",
       "developerName": "RIVERSIDEFM, INC",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.16.1",
-      "versionDate": "2026-07-01",
+      "version": "4.16.2",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Riverside Podcast Video Studio-v4.16.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Riverside Podcast Video Studio-v4.16.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nRiverside Podcast Video Studio\n\n---\nRiverside is a powerful podcast and video maker that allows you to record and edit video and audio easily.\n\nWith AI features like captions, transcription, and teleprompter, and capabilities like text-based editing and studio-quality recording, you can publish top-notch videos, podcasts and social media clips from anywhere, anytime.\n\nJoin thousands of podcasters, media companies, influencers and online content creators who trust Riverside for high-definition video and audio. Whether you're making",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/62/20/356220c9-a26a-fc1c-75ee-2ca0fc7b558b/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 115974748,
+      "size": 115977665,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -57313,11 +57313,11 @@
       },
       "versions": [
         {
-          "version": "4.16.1",
-          "date": "2026-07-01",
+          "version": "4.16.2",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Riverside Podcast Video Studio-v4.16.1-riftysipas.ipa",
-          "size": 115974748
+          "downloadURL": "https://telos.ftp.sh/ipas/Riverside Podcast Video Studio-v4.16.2-riftysipas.ipa",
+          "size": 115977665
         }
       ],
       "category": "photo-&-video"
