@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "uk.os.osmaps",
     "gronda.gmbh",
     "com.napper",
     "com.blockpuzzle.us.ios",
-    "org.quiche.Browser",
-    "com.saltycrackers.daygram"
+    "org.quiche.Browser"
   ],
   "apps": [
     {
@@ -48164,14 +48164,14 @@
       "bundleIdentifier": "uk.os.osmaps",
       "developerName": "Ordnance Survey",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "5.6.0",
-      "versionDate": "2026-06-12",
+      "version": "5.6.1",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysOSmaps\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/OS Maps: Walk, Hike, Run, Bike-v5.6.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/OS Maps: Walk, Hike, Run, Bike-v5.6.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysOSmaps\n\nOS Maps: Walk, Hike, Run, Bike\n\n---\nExplore the outdoors the way you want, all while staying safe with OS Maps. Whether you want to hike, bike or run, OS Maps will guide you through amazing trails across the USA. Want to find new places in your local neighborhood? Or plan that next thru-hiking adventure? From breathtaking National Parks to easy walks along the coast, experience the thrill of finding a brand new trail that you never even knew existed with OS Maps.\n\nWhy you’ll love using OS Maps:\n\nEXPLORE NEW PLACES, CREATE NEW ADVE",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/79/e7/8979e7ec-e505-f1e0-7929-cdc58f129e10/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 263709624,
+      "size": 284928021,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/64/d2/c564d259-2f99-4156-0eed-5a30bcb1eb8b/iPhone_5.5_U201d__U00281_U0029.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/bb/19/5ebb19e7-c02d-b585-4421-406b283379f0/iPhone_5.5_U201d__U00282_U0029.jpg/392x696bb.jpg",
@@ -48195,11 +48195,11 @@
       },
       "versions": [
         {
-          "version": "5.6.0",
-          "date": "2026-06-12",
+          "version": "5.6.1",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysOSmaps\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/OS Maps: Walk, Hike, Run, Bike-v5.6.0-riftysipas.ipa",
-          "size": 263709624
+          "downloadURL": "https://telos.ftp.sh/ipas/OS Maps: Walk, Hike, Run, Bike-v5.6.1-riftysipas.ipa",
+          "size": 284928021
         }
       ],
       "category": "navigation"
