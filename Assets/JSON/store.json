@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "co.vulcanlabs.moodtracker",
     "com.identification.plant",
     "com.jetsign.app",
     "com.myfitnesspal.mfp",
-    "com.glucobit.cravingBuster.CravingBuster",
-    "com.tr.paraphrasingtool.rewritertool.textrewriter"
+    "com.glucobit.cravingBuster.CravingBuster"
   ],
   "apps": [
     {
@@ -12022,14 +12022,14 @@
       "bundleIdentifier": "co.vulcanlabs.moodtracker",
       "developerName": "Vulcan Labs Company Limited",
       "subtitle": "*Tweak:** Satella Injected For Unlocking Subscription | *Patched ✓**",
-      "version": "8.260629.2",
-      "versionDate": "2026-07-03",
+      "version": "8.260706.1",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: CydiaSubstrate, SatellaJailed, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/AI Chatbot: AI Chat Smith 5.0-v8.260629.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AI Chatbot: AI Chat Smith 5.0-v8.260706.1-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Satella Injected For Unlocking Subscription | *Patched ✓**\n\nAI Chatbot: AI Chat Smith 5.0",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/8c/26/d98c267a-6757-382b-f291-5f8506ab0874/AppIcon132-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/83/4b/57834b73-5464-f9f0-4579-25b26f56ee14/AppIcon132-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 578545128,
+      "size": 578804455,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/ad/84/6ead848d-9f09-e17d-cf0d-833042063f51/15611293-15b1-46ad-8bdf-674096229f71_GPT-screenshot-0.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/2b/e6/ad2be66c-4a9e-2797-37e6-b35d8e0c310b/f5e51d50-4299-47c3-802f-72da44729d00_GPT-screenshot-1a.jpg/576x768bb.jpg",
@@ -12056,11 +12056,11 @@
       },
       "versions": [
         {
-          "version": "8.260629.2",
-          "date": "2026-07-03",
+          "version": "8.260706.1",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/AI Chatbot: AI Chat Smith 5.0-v8.260629.2-riftysipas.ipa",
-          "size": 578545128
+          "downloadURL": "https://telos.ftp.sh/ipas/AI Chatbot: AI Chat Smith 5.0-v8.260706.1-riftysipas.ipa",
+          "size": 578804455
         }
       ],
       "category": "productivity"
@@ -80915,7 +80915,7 @@
     {
       "title": "⚙️ Telos Update 7.8",
       "identifier": "telos-update-2026-07-08",
-      "caption": "2 Apps Updated:\n• 2 Education",
+      "caption": "6 Apps Updated:\n• 4 Productivity\n• 2 Education",
       "date": "2026-07-08",
       "tintColor": "#02433b",
       "notify": true,
