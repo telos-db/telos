@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "gronda.gmbh",
     "com.napper",
     "com.blockpuzzle.us.ios",
     "org.quiche.Browser",
-    "com.saltycrackers.daygram",
-    "co.vulcanlabs.moodtracker"
+    "com.saltycrackers.daygram"
   ],
   "apps": [
     {
@@ -27980,14 +27980,14 @@
       "bundleIdentifier": "gronda.gmbh",
       "developerName": "Gronda GmbH",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "8.25.0",
-      "versionDate": "2026-07-07",
+      "version": "8.26.0",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.25.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.26.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nGronda: Recipes for Chefs\n\n---\nApple’s App of the Day in 120+ Countries\n\n Used by 2M+ Chefs Worldwide\n\n\"Unlimited amount of inspiration\" — Netflix Superstar Ana Roš\n\nGronda is the #1 app for professional and home chefs. Learn from the world’s best, fine dining recipes, and connect with a global community of culinary experts. Discover inspiration, sharpen your skills, and build your personal brand as a chef.\n\nExplore an extensive library of 50,000+ recipes from top chefs, 60+ masterclasses from industry legends, and exclusive",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/14/18/961418a4-4499-fdf9-7826-ae5fc6f82c64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 55267978,
+      "size": 53392615,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/5d/43/475d4391-f91c-85a7-e3e6-a4f5466a2dc6/12.9__EN-1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ca/0a/e0ca0a9a-ddcc-2fb8-ed4c-9dcbbd409ba3/12.9__EN-2.jpg/576x768bb.jpg",
@@ -28020,11 +28020,11 @@
       },
       "versions": [
         {
-          "version": "8.25.0",
-          "date": "2026-07-07",
+          "version": "8.26.0",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.25.0-riftysipas.ipa",
-          "size": 55267978
+          "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.26.0-riftysipas.ipa",
+          "size": 53392615
         }
       ],
       "category": "food-&-drink"
