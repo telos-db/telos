@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "pinterest",
+    "com.fluffyfairygames.idleminertycoon",
+    "com.phantom.fantengmu",
     "com.ketchapp.knifehit",
-    "com.iaftt.flightplusfree",
-    "com.hassantaleb.mockup",
-    "com.readdle.ReaddleDocsIPad",
-    "com.joytunes.Sing"
+    "com.iaftt.flightplusfree"
   ],
   "apps": [
     {
@@ -22155,15 +22155,15 @@
       "name": "FELFishEyeLens",
       "bundleIdentifier": "com.phantom.fantengmu",
       "developerName": "Xiamen Suijisenlin Technology Co., Ltd.",
-      "subtitle": "Pro Unlocked",
-      "version": "2.1.5",
-      "versionDate": "2026-06-11",
-      "versionDescription": "Tweaks: CydiaSubstrate, ProCameraPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/ProCamera Pro 2.1.5.ipa",
-      "localizedDescription": "Pro Unlocked\n\nPro Camera",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/bf/09/68bf09ab-ab43-bee8-72fe-7bf0e177a28f/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "2.1.8",
+      "versionDate": "2026-07-08",
+      "versionDescription": "Tweaks: ProCamera, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Pro_Camera_Omnipotent_Camera_v2_1_8_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPro Camera-Omnipotent Camera",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/5a/90/6a5a902c-dbcc-0db9-dc0a-148ce915dcc9/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 74737293,
+      "size": 75780379,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/cf/77/57cf7716-e290-3689-b695-dae4b77e4189/tns.tqcfetgs.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/de/5d/c7de5d80-d383-4ae0-5385-463afc6f7d72/tns.webwaeuj.png/576x768bb.png",
@@ -22184,11 +22184,11 @@
       },
       "versions": [
         {
-          "version": "2.1.5",
-          "date": "2026-04-29",
-          "localizedDescription": "Tweaks: CydiaSubstrate, ProCameraPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/ProCamera Pro 2.1.5.ipa",
-          "size": 74737293
+          "version": "2.1.8",
+          "date": "2026-07-08",
+          "localizedDescription": "Tweaks: ProCamera, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Pro_Camera_Omnipotent_Camera_v2_1_8_Subscription_Unlocked_blatant.ipa",
+          "size": 75780379
         }
       ],
       "category": "photo-&-video"
@@ -31057,20 +31057,19 @@
       "bundleIdentifier": "com.fluffyfairygames.idleminertycoon",
       "developerName": "Kolibri Games GmbH",
       "subtitle": "*Tweak:** Free Iap | *Patched ✓**",
-      "version": "5.58.1",
-      "versionDate": "2026-07-01",
+      "version": "5.59.0",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Idle Miner Tycoon-v5.58.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Idle Miner Tycoon-v5.59.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Free Iap | *Patched ✓**\n\nIdle Miner Tycoon",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/32/50/2d3250f3-cd56-52c9-eb87-0e9448e09bff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/e7/42/ede742cd-6026-33ae-8bd0-e95a5064da3c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 144622228,
+      "size": 145362468,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/8a/66/bc8a6665-21f7-2f0f-feaa-9e67488bfd42/01_CVR_1242x2208_EN.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/8f/2e/5f8f2e4c-b163-528b-9ce9-40b367e35c96/2_1242x2208.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/00/48/1c00484c-d3a4-2ccd-6d78-da3ebe48c742/03_CVR_1242x2208_EN.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/5f/aa/445faab2-d340-3077-dad8-4759c56cdbf8/04_CVR_1242x2208_EN.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/01/96/0d0196a1-0918-7618-960d-4c9b0904bbb6/05_CVR_1242x2208_EN.jpg/392x696bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/c6/2f/a0c62f77-4b17-923b-e90d-f23ce509b060/2208x1242_1.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/3d/ab/9d3dab5c-e13e-ab30-3863-ae3111e06b30/2208x1242_2.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/ee/b8/41eeb879-a325-8f7f-6fbc-867ae3ad47f4/2208x1242_3.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/81/e2/4781e2f9-484a-9fb9-1b34-e0be3a04557a/2208x1242_4.png/406x228bb.png"
       ],
       "appPermissions": {
         "entitlements": [
@@ -31092,11 +31091,11 @@
       },
       "versions": [
         {
-          "version": "5.58.1",
-          "date": "2026-07-01",
+          "version": "5.59.0",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Idle Miner Tycoon-v5.58.1-riftysipas.ipa",
-          "size": 144622228
+          "downloadURL": "https://telos.ftp.sh/ipas/Idle Miner Tycoon-v5.59.0-riftysipas.ipa",
+          "size": 145362468
         }
       ],
       "category": "games"
@@ -51349,14 +51348,14 @@
       "bundleIdentifier": "pinterest",
       "developerName": "Pinterest, Inc.",
       "subtitle": "*Tweak:** Download Videos, Sponsored Pins Removed | *Patched ✓**",
-      "version": "14.25",
-      "versionDate": "2026-07-01",
+      "version": "14.26",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: CydiaSubstrate, PinterestPlus2, Sideloadbypass1, Sideloadbypass2, pinterestplus\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Pinterest-v14.25-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Pinterest-v14.26-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Download Videos, Sponsored Pins Removed | *Patched ✓**\n\nPinterest",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/34/0c/b8340c4e-9208-ae6a-e18f-a5ebffce5094/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 137766089,
+      "size": 138748802,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/43/95/074395db-1ab5-4adf-ec05-037f91216984/iPhone-5.5_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/e4/76/1fe476f4-66aa-2936-79db-2768ec1a9903/iPhone-5.5_2.png/392x696bb.png",
@@ -51391,11 +51390,11 @@
       },
       "versions": [
         {
-          "version": "14.25",
-          "date": "2026-07-01",
+          "version": "14.26",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: CydiaSubstrate, PinterestPlus2, Sideloadbypass1, Sideloadbypass2, pinterestplus\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Pinterest-v14.25-riftysipas.ipa",
-          "size": 137766089
+          "downloadURL": "https://telos.ftp.sh/ipas/Pinterest-v14.26-riftysipas.ipa",
+          "size": 138748802
         }
       ],
       "category": "lifestyle"
@@ -80948,7 +80947,7 @@
     {
       "title": "⚙️ Telos Update 7.8",
       "identifier": "telos-update-2026-07-08",
-      "caption": "66 Apps Updated:\n• 12 Travel\n• 10 Photo & Video\n• 8 Games\n• 6 Productivity\n• 6 Utilities\n• 4 Health & Fitness\n• 4 Graphics & Design\n• 4 Weather\n• 4 Music\n• 2 Education\n• 2 Food & Drink\n• 2 Lifestyle\n• 2 Navigation",
+      "caption": "56 Apps Updated:\n• 10 Games\n• 10 Photo & Video\n• 6 Lifestyle\n• 6 Travel\n• 4 Productivity\n• 4 Utilities\n• 4 Health & Fitness\n• 2 Education\n• 2 Food & Drink\n• 2 Navigation\n• 2 Graphics & Design\n• 2 Weather\n• 2 Music",
       "date": "2026-07-08",
       "tintColor": "#02433b",
       "notify": true,
