@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "gronda.gmbh",
     "com.napper",
     "com.blockpuzzle.us.ios",
     "org.quiche.Browser",
-    "com.saltycrackers.daygram",
-    "co.vulcanlabs.moodtracker"
+    "com.saltycrackers.daygram"
   ],
   "apps": [
     {
@@ -27758,14 +27758,14 @@
       "bundleIdentifier": "gronda.gmbh",
       "developerName": "Gronda GmbH",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "8.25.0",
-      "versionDate": "2026-07-07",
+      "version": "8.26.0",
+      "versionDate": "2026-07-08",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.25.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.26.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nGronda: Recipes for Chefs",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/14/18/961418a4-4499-fdf9-7826-ae5fc6f82c64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 55267978,
+      "size": 53392615,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/5d/43/475d4391-f91c-85a7-e3e6-a4f5466a2dc6/12.9__EN-1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ca/0a/e0ca0a9a-ddcc-2fb8-ed4c-9dcbbd409ba3/12.9__EN-2.jpg/576x768bb.jpg",
@@ -27798,11 +27798,11 @@
       },
       "versions": [
         {
-          "version": "8.25.0",
-          "date": "2026-07-07",
+          "version": "8.26.0",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.25.0-riftysipas.ipa",
-          "size": 55267978
+          "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.26.0-riftysipas.ipa",
+          "size": 53392615
         }
       ],
       "category": "food-&-drink"
@@ -80915,7 +80915,7 @@
     {
       "title": "⚙️ Telos Update 7.8",
       "identifier": "telos-update-2026-07-08",
-      "caption": "12 Apps Updated:\n• 2 Education\n• 2 Productivity\n• 2 Utilities\n• 2 Games\n• 2 Lifestyle\n• 2 Health & Fitness",
+      "caption": "16 Apps Updated:\n• 4 Food & Drink\n• 2 Education\n• 2 Productivity\n• 2 Utilities\n• 2 Games\n• 2 Lifestyle\n• 2 Health & Fitness",
       "date": "2026-07-08",
       "tintColor": "#02433b",
       "notify": true,
