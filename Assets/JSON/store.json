@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.revivasoftworks.Snore-Lab",
+    "com.firecore.infuse",
     "com.lightricks.Facetune2",
     "com.picsart.studio",
-    "com.hiiker.hiiker",
-    "au.com.michaeltigas.Ochi",
-    "com.fujixweekly.fujixweeklyrecipes"
+    "com.hiiker.hiiker"
   ],
   "apps": [
     {
@@ -32035,15 +32035,15 @@
       "name": "Infuse",
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "Firecore, LLC",
-      "subtitle": "Infuse for iOS",
+      "subtitle": "Tweaked with CydiaSubstrate, InfusePlus",
       "version": "8.4.8",
-      "versionDate": "2026-07-04",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.firecore.infuse-8.4.8-eeveedecrypter.ipa",
-      "localizedDescription": "Infuse for iOS",
+      "versionDate": "2026-07-09",
+      "versionDescription": "Tweaks: CydiaSubstrate, InfusePlus\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/infp_2.6+8.4.8.ipa",
+      "localizedDescription": "Infuse Plus v2.6 is out!",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/a6/ea/dea6ea46-69ed-5601-3e1d-0acf3ed654e9/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 100893872,
+      "size": 97743305,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -32068,9 +32068,9 @@
         {
           "version": "8.4.8",
           "date": "2026-07-01",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.firecore.infuse-8.4.8-eeveedecrypter.ipa",
-          "size": 100893872
+          "localizedDescription": "Tweaks: CydiaSubstrate, InfusePlus\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/infp_2.6+8.4.8.ipa",
+          "size": 97743305
         }
       ],
       "category": "entertainment"
@@ -61686,15 +61686,15 @@
       "name": "SnoreLab",
       "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
       "developerName": "Reviva Softworks Ltd",
-      "subtitle": "Subscription Unlocked | Patched",
-      "version": "6.4.1",
-      "versionDate": "2026-07-04",
-      "versionDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab_Record_Your_Snoring_v6_4_1_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSnoreLab : Record Your Snoring",
+      "subtitle": "*Tweak:** Satella Injected For Unlocking Subscription | *Patched ✓**",
+      "version": "6.4.2",
+      "versionDate": "2026-07-09",
+      "versionDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab : Record Your Snoring-v6.4.2-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Satella Injected For Unlocking Subscription | *Patched ✓**\n\nSnoreLab : Record Your Snoring",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/71/42/497142b4-e607-e91f-bfc4-beed630d564e/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 158604728,
+      "size": 156228774,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -61715,11 +61715,11 @@
       },
       "versions": [
         {
-          "version": "6.4.1",
-          "date": "2026-07-04",
-          "localizedDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab_Record_Your_Snoring_v6_4_1_Subscription_Unlocked_blatant.ipa",
-          "size": 158604728
+          "version": "6.4.2",
+          "date": "2026-07-09",
+          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab : Record Your Snoring-v6.4.2-riftysipas.ipa",
+          "size": 156228774
         }
       ],
       "category": "medical"
@@ -80985,7 +80985,7 @@
     {
       "title": "⚙️ Telos Update 7.9",
       "identifier": "telos-update-2026-07-09",
-      "caption": "24 Apps Updated:\n• 10 Photo & Video\n• 6 Health & Fitness\n• 2 Entertainment\n• 2 Games\n• 2 Productivity\n• 2 Navigation",
+      "caption": "36 Apps Updated:\n• 10 Photo & Video\n• 8 Medical\n• 6 Health & Fitness\n• 6 Entertainment\n• 2 Games\n• 2 Productivity\n• 2 Navigation",
       "date": "2026-07-09",
       "tintColor": "#02433b",
       "notify": true,
