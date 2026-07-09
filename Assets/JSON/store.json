@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "app.gentler.activity",
-    "nutrition.coach",
-    "de.komoot.berlinbikeapp",
-    "com.future.kapi",
-    "com.joytunes.asla"
+    "br.com.marcosatanaka.musicwhiz",
+    "com.saltycrackers.daygram",
+    "com.risesci.nyx",
+    "com.djitlabs.pixelcolor",
+    "com.yengshine.proccd"
   ],
   "apps": [
     {
@@ -16049,14 +16049,14 @@
       "bundleIdentifier": "com.saltycrackers.daygram",
       "developerName": "EUIHYUNG JUNG",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "5.7.4",
-      "versionDate": "2026-07-08",
+      "version": "5.7.5",
+      "versionDate": "2026-07-09",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdaygram, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.7.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.7.5-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nDaygram: Daily Journal",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/e8/75/c4e875b4-fe09-51c9-e086-060edae54603/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 30379031,
+      "size": 30705238,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/2f/e9/4a2fe921-332c-01bb-3b52-06f662c15feb/6e903ad4-5910-409e-9df2-b33c130e5a8c_old_ipad_en_0.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/ca/cf/59cacf18-57da-f9dc-a90b-92599c37046e/mzl.qksssrcf.png/576x768bb.png",
@@ -16081,11 +16081,11 @@
       },
       "versions": [
         {
-          "version": "5.7.4",
-          "date": "2026-07-08",
+          "version": "5.7.5",
+          "date": "2026-07-09",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdaygram, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.7.4-riftysipas.ipa",
-          "size": 30379031
+          "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.7.5-riftysipas.ipa",
+          "size": 30705238
         }
       ],
       "category": "lifestyle"
@@ -35661,14 +35661,14 @@
       "bundleIdentifier": "com.lake.coloring",
       "developerName": "Lake Coloring",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.27.2",
-      "versionDate": "2026-06-30",
+      "version": "4.27.3",
+      "versionDate": "2026-07-09",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lake_Coloring_Book_for_Adults_v4_27_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lake_Coloring_Book_for_Adults_v4_27_3_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nLake: Coloring Book for Adults",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/88/8c/95888ca0-498e-4729-e606-605b328b0bdb/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/bd/e7/f2bde74e-2560-6121-6559-c298698e8a89/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 209743125,
+      "size": 177559122,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/44/fc/4444fc20-f001-a7b6-208f-b2d509cbcb9a/iPhone_8_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/69/c6/7f69c69b-ba52-817c-b4f8-4906f5334710/iPhone_8_02.png/392x696bb.png",
@@ -35694,11 +35694,11 @@
       },
       "versions": [
         {
-          "version": "4.27.2",
-          "date": "2026-06-30",
+          "version": "4.27.3",
+          "date": "2026-07-09",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lake_Coloring_Book_for_Adults_v4_27_2_Subscription_Unlocked_blatant.ipa",
-          "size": 209743125
+          "downloadURL": "https://telos.ftp.sh/ipas/Lake_Coloring_Book_for_Adults_v4_27_3_Subscription_Unlocked_blatant.ipa",
+          "size": 177559122
         }
       ],
       "category": "lifestyle"
@@ -43418,14 +43418,14 @@
       "bundleIdentifier": "br.com.marcosatanaka.musicwhiz",
       "developerName": "Loop Apps LTDA",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "2.3.2",
-      "versionDate": "2026-07-03",
+      "version": "2.3.3",
+      "versionDate": "2026-07-09",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MusicSmart - Liner Notes-v2.3.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MusicSmart - Liner Notes-v2.3.3-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nMusicSmart - Liner Notes",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/99/07/799907e1-785c-f5cd-e37f-0dde94480911/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 24696672,
+      "size": 25815274,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/17/bd/d317bdf0-831a-7332-60d2-202a6ebbaada/edad6f69-1716-416b-b02d-4fa66594a9f5_slice1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/7b/cb/2d7bcb0a-50a5-3564-782e-a9752c063ede/6ec8c920-8646-4108-ad8e-570a7e046854_slice2.png/392x696bb.png",
@@ -43444,11 +43444,11 @@
       },
       "versions": [
         {
-          "version": "2.3.2",
-          "date": "2026-07-03",
+          "version": "2.3.3",
+          "date": "2026-07-09",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MusicSmart - Liner Notes-v2.3.2-riftysipas.ipa",
-          "size": 24696672
+          "downloadURL": "https://telos.ftp.sh/ipas/MusicSmart - Liner Notes-v2.3.3-riftysipas.ipa",
+          "size": 25815274
         }
       ],
       "category": "music"
@@ -51596,14 +51596,14 @@
       "bundleIdentifier": "com.djitlabs.pixelcolor",
       "developerName": "MWM",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "5.53.02",
-      "versionDate": "2026-06-17",
+      "version": "5.54.00",
+      "versionDate": "2026-07-09",
       "versionDescription": "Tweaks: PixelColor, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Pixel_Color_Paint_by_Number_v5_53_02_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Pixel_Color_Paint_by_Number_v5_54_00_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPixel Color: Paint by Number",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/1c/67/821c678c-5d21-f1d0-ab4f-8fd85b52fc35/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/38/c3/f838c300-59c3-a96b-3772-975726c745dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 93794063,
+      "size": 95640234,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/90/56/629056e7-1758-87e1-7cc6-1181b7012210/en-ipad-01.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/50/04/585004c6-fc53-3e85-4251-fff0895dc45d/en-ipad-02.jpg/576x768bb.jpg",
@@ -51628,11 +51628,11 @@
       },
       "versions": [
         {
-          "version": "5.53.02",
-          "date": "2026-06-17",
+          "version": "5.54.00",
+          "date": "2026-07-09",
           "localizedDescription": "Tweaks: PixelColor, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Pixel_Color_Paint_by_Number_v5_53_02_Subscription_Unlocked_blatant.ipa",
-          "size": 93794063
+          "downloadURL": "https://telos.ftp.sh/ipas/Pixel_Color_Paint_by_Number_v5_54_00_Subscription_Unlocked_blatant.ipa",
+          "size": 95640234
         }
       ],
       "category": "entertainment"
@@ -53503,14 +53503,14 @@
       "bundleIdentifier": "com.yengshine.proccd",
       "developerName": "亚玲 查",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "6.2.1",
-      "versionDate": "2026-06-24",
+      "version": "6.3.0",
+      "versionDate": "2026-07-09",
       "versionDescription": "Tweaks: ProCCD, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/ProCCD_Digital_Film_Camera_v6_2_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ProCCD_Digital_Film_Camera_v6_3_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nProCCD - Digital Film Camera",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/27/1c/58271c67-b003-d039-146e-da0198130e7f/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/24/07/8f2407dd-664d-2474-f413-39b0d2a0ab73/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 242828731,
+      "size": 264906203,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/c4/45/68c445c6-7584-458d-5670-9d579902a260/01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/d0/c2/0bd0c293-022f-3e34-aa0b-ad5ef65875f4/02.jpg/392x696bb.jpg",
@@ -53534,11 +53534,11 @@
       },
       "versions": [
         {
-          "version": "6.2.1",
-          "date": "2026-06-24",
+          "version": "6.3.0",
+          "date": "2026-07-09",
           "localizedDescription": "Tweaks: ProCCD, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/ProCCD_Digital_Film_Camera_v6_2_1_Subscription_Unlocked_blatant.ipa",
-          "size": 242828731
+          "downloadURL": "https://telos.ftp.sh/ipas/ProCCD_Digital_Film_Camera_v6_3_0_Subscription_Unlocked_blatant.ipa",
+          "size": 264906203
         }
       ],
       "category": "photo-&-video"
@@ -80985,7 +80985,7 @@
     {
       "title": "⚙️ Telos Update 7.9",
       "identifier": "telos-update-2026-07-09",
-      "caption": "44 Apps Updated:\n• 16 Health & Fitness\n• 12 Photo & Video\n• 4 Entertainment\n• 4 Medical\n• 2 Games\n• 2 Productivity\n• 2 Navigation\n• 2 Education",
+      "caption": "64 Apps Updated:\n• 16 Health & Fitness\n• 16 Photo & Video\n• 8 Entertainment\n• 8 Lifestyle\n• 4 Medical\n• 4 Music\n• 2 Games\n• 2 Productivity\n• 2 Navigation\n• 2 Education",
       "date": "2026-07-09",
       "tintColor": "#02433b",
       "notify": true,
