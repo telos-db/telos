@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.gymbros.app",
     "com.JindoBlu.TwoPlayerGamesChallengeIOS",
     "com.intvl.app",
     "com.sublime.capture",
-    "boomer.Smart-Video",
-    "com.grandgames.magicsort"
+    "boomer.Smart-Video"
   ],
   "apps": [
     {
@@ -37372,20 +37372,20 @@
       "bundleIdentifier": "com.gymbros.app",
       "developerName": "GymBros Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, chocorc",
-      "version": "2.13.22",
-      "versionDate": "2026-06-30",
+      "version": "2.13.23",
+      "versionDate": "2026-07-09",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.22-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.23-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nLiftoff - Ranked Gym Workouts\n\n---\nLiftoff is the best workout tracker app that ranks your gym performance. Get feedback on 400+ exercises, track progress, and compete with friends. Download the #1 gym rank app & join over 1 million lifters today!\n\nGamified Workout Tracker | Ranks | Streaks | Accountability | Logger\n\nBoost Your Fitness Journey with Liftoff app\n\nConnect and Compete\nJoin a vibrant community of fitness enthusiasts who make every workout count. Liftoff is a social platform where you can connect, compete, and share yo",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/5a/28/c15a288f-aa69-4ebf-2a12-8d42974575f6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/61/f6/b061f65b-200f-549b-bf8b-1f5736f4f991/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 162758148,
+      "size": 162920126,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/40/b0/e040b0d8-24ec-03f6-d5cb-1e0882e08695/68ebee91-ba86-4f6c-a564-a276c908ac0f_img1.jpg/576x768bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/6a/60/0c6a609e-6471-3dec-75b1-eecc22d821cf/ff0986a5-c1b8-4b14-8d14-70377d1d970a_img2.jpg/576x768bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/aa/af/88aaafc4-f6d9-501d-9614-fc7c2bd6c2bc/4e987ee2-c814-4c96-95bf-6f5d980656fc_img4.jpg/576x768bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/84/1e/87841e48-6981-33bd-33cf-d125d0e5b64c/9c6ffcc2-b70c-4335-8575-3d2947e6aa32_img3.jpg/576x768bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/53/a1/9553a1c6-32e1-3766-18bf-03ed3f308942/423cee7c-fdc7-403d-9e0f-0e488ae770dc_img5.jpg/576x768bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/14/3f/79143f4e-99e1-80c9-9a3f-cd2c7a6bd39c/68ebee91-ba86-4f6c-a564-a276c908ac0f_img1.jpg/576x768bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/a9/6e/a3a96e46-3eb0-27a1-d78b-ddaa2fda43b3/ff0986a5-c1b8-4b14-8d14-70377d1d970a_img2.jpg/576x768bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/32/e8/9d32e8df-9117-8395-e917-7412563ee8ce/4e987ee2-c814-4c96-95bf-6f5d980656fc_img4.jpg/576x768bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/b2/3d/bab23dd3-ccbb-151c-7066-8ceb24799d3a/9c6ffcc2-b70c-4335-8575-3d2947e6aa32_img3.jpg/576x768bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/41/cc/fe41cc32-ee8e-2321-3b78-2acd63336e5e/423cee7c-fdc7-403d-9e0f-0e488ae770dc_img5.jpg/576x768bb.jpg"
       ],
       "appPermissions": {
         "entitlements": [
@@ -37409,11 +37409,11 @@
       },
       "versions": [
         {
-          "version": "2.13.22",
-          "date": "2026-06-30",
+          "version": "2.13.23",
+          "date": "2026-07-09",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.22-riftysipas.ipa",
-          "size": 162758148
+          "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.23-riftysipas.ipa",
+          "size": 162920126
         }
       ],
       "category": "health-&-fitness"
