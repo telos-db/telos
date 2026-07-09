@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.sfun.snapedit",
     "com.gymbros.app",
     "com.JindoBlu.TwoPlayerGamesChallengeIOS",
     "com.intvl.app",
-    "com.sublime.capture",
-    "boomer.Smart-Video"
+    "com.sublime.capture"
   ],
   "apps": [
     {
@@ -61407,14 +61407,14 @@
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "6.19.1",
-      "versionDate": "2026-07-05",
+      "version": "6.19.2",
+      "versionDate": "2026-07-09",
       "versionDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_19_1_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_19_2_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nSnapEdit: Photo Editor AI",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/cb/0d/5dcb0d82-ae96-8bac-4c11-6782319bb3a4/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 106710566,
+      "size": 106885768,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -61433,11 +61433,11 @@
       },
       "versions": [
         {
-          "version": "6.19.1",
-          "date": "2026-07-05",
+          "version": "6.19.2",
+          "date": "2026-07-09",
           "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_19_1_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 106710566
+          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_19_2_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 106885768
         }
       ],
       "category": "photo-&-video"
@@ -80985,7 +80985,7 @@
     {
       "title": "⚙️ Telos Update 7.9",
       "identifier": "telos-update-2026-07-09",
-      "caption": "8 Apps Updated:\n• 6 Health & Fitness\n• 2 Games",
+      "caption": "12 Apps Updated:\n• 6 Health & Fitness\n• 4 Photo & Video\n• 2 Games",
       "date": "2026-07-09",
       "tintColor": "#02433b",
       "notify": true,
