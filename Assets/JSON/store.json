@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.maxty.gofitness",
+    "com.nuvio.media",
     "com.damtechdesigns.wa.story",
     "com.frameoneapps.Crsel",
-    "com.ahmetserdarkaradeniz.Phocus",
-    "com.dopedevelopment.Panels",
-    "br.com.marcosatanaka.musicbox"
+    "com.ahmetserdarkaradeniz.Phocus"
   ],
   "apps": [
     {
@@ -46140,16 +46140,16 @@
     {
       "name": "Nuvio",
       "bundleIdentifier": "com.nuvio.media",
-      "developerName": "RGN VENTURES LTD",
+      "developerName": "Muhammed Nayif Rahman",
       "subtitle": "Nuvio for iOS",
-      "version": "0.2.19",
-      "versionDate": "2026-07-06",
+      "version": "0.2.21",
+      "versionDate": "2026-07-09",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.19-Full.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.21-Full.ipa",
       "localizedDescription": "Nuvio",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/32/47/2a324755-180b-00cd-ca59-6082ef2ad9c6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 39276321,
+      "size": 40911351,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -46157,14 +46157,14 @@
       },
       "versions": [
         {
-          "version": "0.2.19",
-          "date": "2026-07-06",
+          "version": "0.2.21",
+          "date": "2026-07-09",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.19-Full.ipa",
-          "size": 39276321
+          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.21-Full.ipa",
+          "size": 40911351
         }
       ],
-      "category": "health-&-fitness"
+      "category": "entertainment"
     },
     {
       "name": "Nuvio",
@@ -53680,14 +53680,14 @@
       "bundleIdentifier": "com.maxty.gofitness",
       "developerName": "VGFIT LLC",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "8.3.0",
-      "versionDate": "2026-07-07",
+      "version": "8.3.1",
+      "versionDate": "2026-07-09",
       "versionDescription": "Tweaks: ProFit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/ProFit_Workout_Planner_v8_3_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ProFit_Workout_Planner_v8_3_1_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nProFit: Workout Planner",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/1a/ca/501aca54-2fce-05da-837b-e2a43f5b01f6/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 46501485,
+      "size": 46803806,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/21/6f/08216f1f-d2fc-b69a-3904-31cae301571c/Screen_1.png/322x572bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/ad/a7/15ada720-f653-2fd6-2c7f-2dd01c1681a2/Screen_2.png/322x572bb.png",
@@ -53702,20 +53702,20 @@
           "com.apple.security.application-groups"
         ],
         "privacy": {
-          "NSPhotoLibraryUsageDescription": "The app needs access to your camera to add exercise or body photos for your plan.",
+          "NSPhotoLibraryUsageDescription": "The app needs access to your photo library to add exercise or body photos for your plan.",
           "NSCameraUsageDescription": "The app needs access to your camera to add exercise or body photos for your plan.",
           "NSLocationWhenInUseUsageDescription": "The app needs access to your location to receive weather information.",
           "NSLocationAlwaysUsageDescription": "The app needs access to your location to receive weather information.",
-          "NSUserTrackingUsageDescription": "This identifier will be used to deliever personalized ads to you."
+          "NSUserTrackingUsageDescription": "We use advertising data to show you relevant content and improve the app."
         }
       },
       "versions": [
         {
-          "version": "8.3.0",
-          "date": "2026-07-07",
+          "version": "8.3.1",
+          "date": "2026-07-09",
           "localizedDescription": "Tweaks: ProFit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/ProFit_Workout_Planner_v8_3_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 46501485
+          "downloadURL": "https://telos.ftp.sh/ipas/ProFit_Workout_Planner_v8_3_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 46803806
         }
       ],
       "category": "health-&-fitness"
@@ -80985,7 +80985,7 @@
     {
       "title": "⚙️ Telos Update 7.9",
       "identifier": "telos-update-2026-07-09",
-      "caption": "70 Apps Updated:\n• 30 Photo & Video\n• 14 Health & Fitness\n• 6 Entertainment\n• 4 Medical\n• 4 Lifestyle\n• 4 Music\n• 2 Games\n• 2 Productivity\n• 2 Navigation\n• 2 Education",
+      "caption": "76 Apps Updated:\n• 24 Photo & Video\n• 18 Health & Fitness\n• 14 Entertainment\n• 4 Medical\n• 4 Lifestyle\n• 4 Music\n• 2 Games\n• 2 Productivity\n• 2 Navigation\n• 2 Education",
       "date": "2026-07-09",
       "tintColor": "#02433b",
       "notify": true,
