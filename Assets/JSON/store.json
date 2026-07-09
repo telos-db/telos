@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.future.kapi",
     "com.joytunes.asla",
     "com.revivasoftworks.Snore-Lab",
     "com.firecore.infuse",
-    "com.lightricks.Facetune2",
-    "com.picsart.studio"
+    "com.lightricks.Facetune2"
   ],
   "apps": [
     {
@@ -80588,16 +80588,16 @@
     {
       "name": "咔皮Action",
       "bundleIdentifier": "com.future.kapi",
-      "developerName": "Shanghai Yuhuan Technology Co., LTD",
+      "developerName": "TETRAS.AI HONGKONG CO., LIMITED",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.29.0",
-      "versionDate": "2026-06-30",
+      "version": "4.31.0",
+      "versionDate": "2026-07-09",
       "versionDescription": "Tweaks: KapiCam, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Kapi_Cam_Y2K_&_CCD_Camera_v4_29_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Kapi_Cam_Y2K_&_CCD_Camera_v4_31_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nKapi Cam - Y2K & CCD Camera",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/cf/27/cdcf2763-37de-1622-5735-d3b427208fbb/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/1a/a5/8d1aa58e-c54b-c3ca-832c-e02bad098474/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 201776710,
+      "size": 203589656,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -80620,11 +80620,11 @@
       },
       "versions": [
         {
-          "version": "4.29.0",
-          "date": "2026-06-30",
+          "version": "4.31.0",
+          "date": "2026-07-09",
           "localizedDescription": "Tweaks: KapiCam, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Kapi_Cam_Y2K_&_CCD_Camera_v4_29_0_Subscription_Unlocked_blatant.ipa",
-          "size": 201776710
+          "downloadURL": "https://telos.ftp.sh/ipas/Kapi_Cam_Y2K_&_CCD_Camera_v4_31_0_Subscription_Unlocked_blatant.ipa",
+          "size": 203589656
         }
       ],
       "category": "photo-&-video"
@@ -80985,7 +80985,7 @@
     {
       "title": "⚙️ Telos Update 7.9",
       "identifier": "telos-update-2026-07-09",
-      "caption": "34 Apps Updated:\n• 10 Photo & Video\n• 6 Health & Fitness\n• 4 Entertainment\n• 4 Medical\n• 4 Education\n• 2 Games\n• 2 Productivity\n• 2 Navigation",
+      "caption": "36 Apps Updated:\n• 14 Photo & Video\n• 6 Health & Fitness\n• 4 Entertainment\n• 4 Medical\n• 2 Games\n• 2 Productivity\n• 2 Navigation\n• 2 Education",
       "date": "2026-07-09",
       "tintColor": "#02433b",
       "notify": true,
