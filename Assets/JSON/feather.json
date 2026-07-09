@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "de.komoot.berlinbikeapp",
     "com.future.kapi",
     "com.joytunes.asla",
     "com.revivasoftworks.Snore-Lab",
-    "com.firecore.infuse",
-    "com.lightricks.Facetune2"
+    "com.firecore.infuse"
   ],
   "apps": [
     {
@@ -35609,14 +35609,14 @@
       "bundleIdentifier": "de.komoot.berlinbikeapp",
       "developerName": "komoot GmbH",
       "subtitle": "Tweaked with CydiaSubstrate, KomootPatch",
-      "version": "2026.26.2",
-      "versionDate": "2026-07-02",
-      "versionDescription": "Tweaks: CydiaSubstrate, KomootPatch, SideloadSpoofer-08, blatantsPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/komoot Premium 2026.26.2.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, KomootPatch, SideloadSpoofer-08, blatantsPatch\n\nkomoot - hike, bike & run\n\n---\nTurn your next ride, hike, or run into an adventure with komoot. Get inspired by tapping into shared community knowledge and recommendations, then bring your adventures to life with the easy route planner.\n\nPLAN YOUR PERFECT HIKING, MOUNTAIN BIKING OR ROAD CYCLING ADVENTURE\nGet the route perfect for your sport—be it smooth asphalt for your road bike, singletracks for your mountain bike, silent cycling paths for touring or natural trails for your hikes. Plan down to the last detail with at-your-f",
+      "version": "2026.28.3",
+      "versionDate": "2026-07-09",
+      "versionDescription": "Tweaks: CydiaSubstrate, KomootPatch, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/komoot Premium 2026.28.3.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, KomootPatch, SideloadSpoofer-08\n\nkomoot - hike, bike & run\n\n---\nTurn your next ride, hike, or run into an adventure with komoot. Get inspired by tapping into shared community knowledge and recommendations, then bring your adventures to life with the easy route planner.\n\nPLAN YOUR PERFECT HIKING, MOUNTAIN BIKING OR ROAD CYCLING ADVENTURE\nGet the route perfect for your sport—be it smooth asphalt for your road bike, singletracks for your mountain bike, silent cycling paths for touring or natural trails for your hikes. Plan down to the last detail with at-your-f",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/33/45/8a334556-7f8a-a1d8-0119-437bf4296f4a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 110377822,
+      "size": 112071514,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/d4/85/eed4857a-24dc-013c-4cec-3289141d1005/89f34834-4833-45bc-8093-bcb0e22b3cd2_1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/3a/b2/f03ab2f4-a40c-a14d-665c-4cef5268f717/9f169a8e-07fd-4379-80b9-358ddc3b989c_2.jpg/576x768bb.jpg",
@@ -35651,11 +35651,11 @@
       },
       "versions": [
         {
-          "version": "2026.26.2",
-          "date": "2026-07-02",
-          "localizedDescription": "Tweaks: CydiaSubstrate, KomootPatch, SideloadSpoofer-08, blatantsPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/komoot Premium 2026.26.2.ipa",
-          "size": 110377822
+          "version": "2026.28.3",
+          "date": "2026-07-09",
+          "localizedDescription": "Tweaks: CydiaSubstrate, KomootPatch, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/komoot Premium 2026.28.3.ipa",
+          "size": 112071514
         }
       ],
       "category": "health-&-fitness"
