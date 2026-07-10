@@ -20137,6 +20137,32 @@
       }
     },
     {
+      "name": "iNetTools",
+      "bundleIdentifier": "com.comcsoft.iNetTools",
+      "developerName": "ComcSoft Corporation",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\niNetTools is a suite of network diagnose tools on iPhone and iPad. It provides essential tools such as Ping, DNS Lookup, Trace Route, Port Scan, Whois, Server Monitor, and Lan Scan. Supported features include:\n\n - Universal App supporting both iPhone and iPad. Supports both IPv4 and IPv6.\n\n - Tools include: Ping, DNS Lookup, Trace Route, Port Scan, Whois, Server Monitor, and Lan Scan.\n\n - Support Server List for frequently used servers.\n\n - Support Recent Tasks for recent executed tasks.\n\nWith i",
+      "version": "10.01",
+      "versionDate": "2026-07-10T06:20:01-00:00",
+      "versionDescription": "Build 1 from @thescholarslounge",
+      "size": 19287350,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/4a/b0/9c4ab09b-ea14-041e-a4e9-318d1d169230/AppIcon_Free-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.comcsoft.iNetTools-10.01-eeveedecrypter.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.comcsoft.iNetTools-10.01-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "Infinite Craft",
       "bundleIdentifier": "fun.neal.infinite.craft",
       "developerName": "neal.fun",
