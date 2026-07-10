@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.blockpuzzle.us.ios",
+    "com.zerone.hidesktop",
     "com.tuya.smart",
     "com.tuya.smartlife",
-    "com.aagame.aagame",
-    "com.sbs.train",
-    "com.oz.magicreality"
+    "com.aagame.aagame"
   ],
   "apps": [
     {
@@ -8082,14 +8082,14 @@
       "bundleIdentifier": "com.blockpuzzle.us.ios",
       "developerName": "Hungry Studio",
       "subtitle": "Tweaked with NetworkBlocker(adblocker), fixipa1",
-      "version": "7.2.5",
-      "versionDate": "2026-07-08",
+      "version": "7.2.6",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.5-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.6-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nBlock Blast!\n\n---\nEnter the world of Block Blast, where every move is a test of your brain and strategy. Dive into the thrill of block crush gameplay—watch vibrant cubes explode in color as you solve each puzzle. With fresh daily puzzle challenges that keep your mind engaged and an endless high score system that rewards your best strategies, Block Blast delivers nonstop excitement for casual players and puzzle masters alike.\n\nWhy You'll Love Block Blast\n• Daily Puzzle Variety: Every day brings a new puzzle twist,",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/81/36/278136f4-382a-edbd-f502-af4bdd996625/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 99366701,
+      "size": 101276230,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/76/ee/2a76ee57-90a6-9c88-7393-b77afd3b6508/4ac25f40-0f18-43c2-8be8-b3d2018fe240_2048X2732_1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/b3/98/acb39832-888e-a1cf-7f06-511f1b1dd114/94905e6c-232a-4e06-a5c0-8f2cd6c397c3_2048X2732_2.png/576x768bb.png",
@@ -8119,11 +8119,11 @@
       },
       "versions": [
         {
-          "version": "7.2.5",
-          "date": "2026-07-08",
+          "version": "7.2.6",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.5-riftysipas.ipa",
-          "size": 99366701
+          "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.6-riftysipas.ipa",
+          "size": 101276230
         }
       ],
       "category": "games"
@@ -30225,14 +30225,14 @@
       "bundleIdentifier": "com.zerone.hidesktop",
       "developerName": "Xiamen ShenZhuo Information Technology Co., Ltd.",
       "subtitle": "Tweaked with blatantsPatch, iScreen",
-      "version": "4.4.37",
-      "versionDate": "2026-07-07",
+      "version": "5.0.0",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: blatantsPatch, iScreen\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/iScreen_Widgets_&_Wallpaper_v4_4_37_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/iScreen_Widgets_&_Wallpaper_v5_0_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: blatantsPatch, iScreen\n\niScreen - Widgets & Wallpaper\n\n---\n＊ Phone Style, iScreen it! ＊\n\niScreen - personalized homescreen with various Widgets & Themes & Wallpaper to make your phone screen stand out!\n\niOS 26 Unlocked​！, featuring liquid glass effects and over 1000+ 3D space wallpapers and themes. Added dynamic Control Center customization for a more practical and fun experience.\n\nYou can not only keep pets and grow plants on the Dynamic Island, customize your Lock Screen with Interactive, Weather, Battery, Launcher, X-Panel, Text & Icon, Animation, Wo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/38/c7/d738c7e6-1548-cc07-a709-ca802106faa2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 427956075,
+      "size": 436014733,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/70/38/b37038bc-ce7d-6cd8-506b-dd530b6166ae/2208-OS26__U82f1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/a6/97/6ba697b8-46b4-a052-d36e-62f116c53107/2208-_U58c1_U7eb8__U82f1.png/392x696bb.png",
@@ -30256,6 +30256,7 @@
           "NSPhotoLibraryUsageDescription": "如果不允许，将无法使用系统相册的照片用于设置小组件的背景",
           "NSCameraUsageDescription": "如果不允许，将无法用拍照的照片来制作背景",
           "NSLocationWhenInUseUsageDescription": "如果不允许，将无法获取定位，无法显示天气温度等信息",
+          "NSCalendarsUsageDescription": "如果不允许，将无法读取日历事件用于展示日程信息",
           "NSHealthShareUsageDescription": "如果不允许，将无法使用步数、睡眠组件，获取不到步数、睡眠信息",
           "NSHealthUpdateUsageDescription": "如果不允许，将无法使用步数、睡眠组件，获取不到步数、睡眠信息",
           "NSAppleMusicUsageDescription": "若不允许，将无法展示 Apple Music 信息",
@@ -30267,11 +30268,11 @@
       },
       "versions": [
         {
-          "version": "4.4.37",
-          "date": "2026-07-07",
+          "version": "5.0.0",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: blatantsPatch, iScreen\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/iScreen_Widgets_&_Wallpaper_v4_4_37_Subscription_Unlocked_blatant.ipa",
-          "size": 427956075
+          "downloadURL": "https://telos.ftp.sh/ipas/iScreen_Widgets_&_Wallpaper_v5_0_0_Subscription_Unlocked_blatant.ipa",
+          "size": 436014733
         }
       ],
       "category": "graphics-&-design"
