@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.maxty.gofitness",
-    "com.nuvio.media",
-    "com.damtechdesigns.wa.story",
-    "com.frameoneapps.Crsel",
-    "com.ahmetserdarkaradeniz.Phocus"
+    "co.smartreceipts.ios",
+    "com.glucobit.cravingBuster.CravingBuster",
+    "com.wellocution.iosapp",
+    "com.snowcorp.soda",
+    "com.maxty.gofitness"
   ],
   "apps": [
     {
@@ -8474,14 +8474,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Tweaked with BoldVoice, blatantsPatch",
-      "version": "4.1.2",
-      "versionDate": "2026-07-08",
+      "version": "4.1.3",
+      "versionDate": "2026-07-09",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_2_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_3_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BoldVoice, blatantsPatch\n\nBoldVoice: Accent Training\n\n---\nBoldVoice is the top-rated English speaking and pronunciation app, with over 2 million global users. Our Hollywood accent coaches and AI-powered feedback will help you achieve clear, confident pronunciation, with only 10 minutes of daily practice.\n\nWHY CHOOSE BOLDVOICE:\nLearn from professional accent coaches who train Hollywood actors\nRecord your voice and receive instant, AI-powered pronunciation feedback\nPractice with daily-life scenarios and professional conversations\nMonitor progress through",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 143912026,
+      "size": 143913957,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8501,11 +8501,11 @@
       },
       "versions": [
         {
-          "version": "4.1.2",
-          "date": "2026-07-08",
+          "version": "4.1.3",
+          "date": "2026-07-09",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_2_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 143912026
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_3_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 143913957
         }
       ],
       "category": "education"
@@ -56389,14 +56389,14 @@
       "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
       "developerName": "Glucobit Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.9.75",
-      "versionDate": "2026-07-07",
+      "version": "3.9.76",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.75-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.76-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nReframe: Drink Less & Thrive\n\n---\nReframe is the #1 alcohol reduction app, built to help you drink less and live more. Whether your goal is to cut back or quit drinking entirely, Reframe’s neuroscience approach can help you change the way alcohol shows up in your life.\n\nWith a core 160-day, evidence-based, education program, progress tracking, a private community, and a multitude of tools (think meditations, games, and more!), you’ve got everything you need to change your relationship with booze at the click of a button.\n\nNeed e",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/3c/db/653cdb99-f52b-5d20-2233-b839cb06a175/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 244748272,
+      "size": 244769503,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -56424,11 +56424,11 @@
       },
       "versions": [
         {
-          "version": "3.9.75",
-          "date": "2026-07-07",
+          "version": "3.9.76",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.75-riftysipas.ipa",
-          "size": 244748272
+          "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.76-riftysipas.ipa",
+          "size": 244769503
         }
       ],
       "category": "health-&-fitness"
@@ -61449,14 +61449,14 @@
       "bundleIdentifier": "co.smartreceipts.ios",
       "developerName": "REACTIVE APPS CORP.",
       "subtitle": "Tweaked with AutoRevenueCat, Sideloadbypass1",
-      "version": "5.18.0",
-      "versionDate": "2026-07-01",
+      "version": "5.19.0",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: AutoRevenueCat, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Smart Receipts: Expenses & Tax-v5.18.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Smart Receipts: Expenses & Tax-v5.19.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: AutoRevenueCat, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSmart Receipts: Expenses & Tax\n\n---\nTransform your phone into a powerful receipt scanner, expense tracker, and mileage tracker — all in one app.\nSmart Receipts helps individuals, freelancers, and business owners capture every expense, maximize every IRS deduction, and turn tax season from a headache into a few taps.\n\nSMART RECEIPTS — YOUR ALL-IN-ONE EXPENSE SOLUTION\nWhether you're managing personal finances or running a small business, Smart Receipts delivers customizable PDF, CSV, and ZIP reports built for real-world accounting.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/c8/ce/61c8ce8f-6f25-4441-a8fc-0f5f427e4cce/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/c0/13/79c013a2-b496-9a35-0535-002f68a305c0/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 40148321,
+      "size": 46492926,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -61469,16 +61469,17 @@
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Photos can be imported and used in this app to add and scan receipts.",
           "NSCameraUsageDescription": "This app requires access to your camera to scan and save receipts.",
+          "NSMicrophoneUsageDescription": "This app may use the microphone to let you record audio or video messages when contacting support.",
           "NSUserTrackingUsageDescription": "We use data for personalized advertising and analytics."
         }
       },
       "versions": [
         {
-          "version": "5.18.0",
-          "date": "2026-07-01",
+          "version": "5.19.0",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: AutoRevenueCat, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Smart Receipts: Expenses & Tax-v5.18.0-riftysipas.ipa",
-          "size": 40148321
+          "downloadURL": "https://telos.ftp.sh/ipas/Smart Receipts: Expenses & Tax-v5.19.0-riftysipas.ipa",
+          "size": 46492926
         }
       ],
       "category": "finance"
@@ -62278,14 +62279,14 @@
       "bundleIdentifier": "com.snowcorp.soda",
       "developerName": "SNOW Corporation",
       "subtitle": "Tweaked with SODA, blatantsPatch",
-      "version": "10.2.2",
-      "versionDate": "2026-06-26",
+      "version": "10.2.10",
+      "versionDate": "2026-07-09",
       "versionDescription": "Tweaks: SODA, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SODA_Natural_Beauty_Camera_v10_2_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SODA_Natural_Beauty_Camera_v10_2_10_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SODA, blatantsPatch\n\nSODA - Natural Beauty Camera\n\n---\nThe selfie camera that everyone's been waiting for.\nIntroducing Soda, the easy and effortless beauty camera.\n\n•The perfect combination of filters and makeup\nDon't worry any more about which makeup and filter to use.\nCapture the most trendy styles with just one touch.\n\n• Beauty effects applied in real time Take the perfect selfie the first time around with no need for further edits Apply blemish-free skin touch-ups and natural beauty effects in real time.\n\n• A diverse selection of color filters o",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/21/93/a0219309-8402-39d9-b711-9b3dceeac28f/GlobalAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/33/00/21330059-0813-fa97-d55f-ee0daba3d80b/GlobalAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 154034660,
+      "size": 154101148,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/c8/47/89c8479c-70b7-9763-919e-412ebb4156f8/5.5inch_AI_beauty_EN.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/4d/16/584d163d-a216-106f-6344-d92c627b2fcd/d9cd501a-e7e8-4016-a829-f316121836da_5.5inch_AI_Hair.jpg/392x696bb.jpg",
@@ -62311,11 +62312,11 @@
       },
       "versions": [
         {
-          "version": "10.2.2",
-          "date": "2026-06-26",
+          "version": "10.2.10",
+          "date": "2026-07-09",
           "localizedDescription": "Tweaks: SODA, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SODA_Natural_Beauty_Camera_v10_2_2_Subscription_Unlocked_blatant.ipa",
-          "size": 154034660
+          "downloadURL": "https://telos.ftp.sh/ipas/SODA_Natural_Beauty_Camera_v10_2_10_Subscription_Unlocked_blatant.ipa",
+          "size": 154101148
         }
       ],
       "category": "photo-&-video"
