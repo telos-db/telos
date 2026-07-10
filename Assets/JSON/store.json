@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.joytunes.Draw",
+    "com.alohabrowser.alohabrowser",
     "com.gunthermarktl.stepapp",
     "com.pixite.pigment",
-    "com.genau.MoneyCircle",
-    "com.footballaddicts.livescoreaddicts",
-    "com.comcsoft.iNetTools"
+    "com.genau.MoneyCircle"
   ],
   "apps": [
     {
@@ -3240,20 +3240,20 @@
       "bundleIdentifier": "com.alohabrowser.alohabrowser",
       "developerName": "Aloha Mobile",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "8.7.0",
-      "versionDate": "2026-06-25",
+      "version": "8.8.0",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Aloha_Browser_–_Private_VPN_v8_7_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Aloha_Browser_–_Private_VPN_v8_8_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nAloha Browser – Private VPN",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/8b/e8/a78be816-6997-584c-74f2-c2066945be62/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/e7/90/f1e790f0-d289-74c5-d5d0-355c398724b6/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 124308564,
+      "size": 124462646,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/6c/04/336c0416-7441-8364-82b9-21f329a06a8d/03dc8695-4402-41e5-8257-0fa4feefcb9e_1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/c6/c8/a5c6c8d9-cf16-199d-59bb-cf3b363ead33/52ccf9c1-82c7-4b72-ae37-6a99d47a2167_2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/a0/1c/bea01ca5-3f3b-184a-a987-6a5b522ebd54/c4c760c3-b55c-4b81-8097-897e06acd67f_5.5-inch-4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/41/7f/65417f4e-e317-2bcd-462e-b754363f25ab/02a440e5-c04e-4de5-9508-aea5e0f4d339_5.5-inch-3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/41/d7/0b41d70f-5937-9df3-5ae3-97411f9eb21a/b92b7e88-0d6c-440d-a1e3-d455434b366a_5.5-inch.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/1f/59/471f59bf-dd16-36f6-59ea-950102528301/79bdf9d0-9f30-4d7c-a75d-4ef06d67cf5f_12.9-inch-7.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/38/0f/d9380fd7-7f51-32b4-288e-cd199d259738/e16029af-f4da-4fc3-83e1-6f2c4e522e56_12.9-inch-6.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/a7/f5/b3a7f51e-9e6e-2b85-d46f-ad99e5ab64b7/2d525cf5-af1d-48cc-b152-14e350e9b4ae_12.9-inch-5.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/47/c6/c047c622-eead-a40e-f727-8ac7d84a5fa0/3c2a42da-e4a8-4f02-a7e2-1be895cd8a60_12.9-inch-4.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/a4/86/4da486b9-826d-5182-480e-0b7d15649717/5cdd297d-f7dc-403c-9804-7a588b621fe1_12.9-inch.png/576x768bb.png"
       ],
       "appPermissions": {
         "entitlements": [
@@ -3275,11 +3275,11 @@
       },
       "versions": [
         {
-          "version": "8.7.0",
-          "date": "2026-06-25",
+          "version": "8.8.0",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Aloha_Browser_–_Private_VPN_v8_7_0_Subscription_Unlocked_blatant.ipa",
-          "size": 124308564
+          "downloadURL": "https://telos.ftp.sh/ipas/Aloha_Browser_–_Private_VPN_v8_8_0_Subscription_Unlocked_blatant.ipa",
+          "size": 124462646
         }
       ],
       "category": "utilities"
@@ -60114,14 +60114,14 @@
       "bundleIdentifier": "com.joytunes.Draw",
       "developerName": "Simply Ltd",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "1.6.37",
-      "versionDate": "2026-07-06",
+      "version": "1.6.38",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_37_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_38_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSimply Draw: Learn to Draw",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/15/ea/8815ea36-fd2e-be1c-6d72-e0451bb05672/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 138112712,
+      "size": 139166298,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -60140,11 +60140,11 @@
       },
       "versions": [
         {
-          "version": "1.6.37",
-          "date": "2026-07-06",
+          "version": "1.6.38",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_37_Subscription_Unlocked_blatant.ipa",
-          "size": 138112712
+          "downloadURL": "https://telos.ftp.sh/ipas/Simply_Draw_Learn_to_Draw_v1_6_38_Subscription_Unlocked_blatant.ipa",
+          "size": 139166298
         }
       ],
       "category": "education"
@@ -81122,7 +81122,7 @@
     {
       "title": "⚙️ Telos Update 7.10",
       "identifier": "telos-update-2026-07-10",
-      "caption": "42 Apps Updated:\n• 10 Lifestyle\n• 7 Health & Fitness\n• 6 Utilities\n• 4 Games\n• 4 Photo & Video\n• 4 Sports\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Developer Tools\n• 1 Finance",
+      "caption": "44 Apps Updated:\n• 10 Utilities\n• 6 Lifestyle\n• 5 Health & Fitness\n• 4 Games\n• 4 Photo & Video\n• 4 Sports\n• 4 Education\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Developer Tools\n• 1 Finance",
       "date": "2026-07-10",
       "tintColor": "#02433b",
       "notify": true,
