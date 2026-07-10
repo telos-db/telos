@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "co.timesquared.hourstimetracker.ios",
-    "org.quiche.Browser",
-    "com.saltycrackers.daygram",
-    "br.com.marcosatanaka.music-harbor",
-    "com.wellocution.iosapp"
+    "com.soundscape.music",
+    "app.monelyze.ToDo",
+    "com.ulisesolave.Fitia",
+    "org.fastdevsproject.altervista.Device-Monitor",
+    "com.hammerandchisel.discord"
   ],
   "apps": [
     {
@@ -17195,14 +17195,14 @@
       "bundleIdentifier": "org.fastdevsproject.altervista.Device-Monitor",
       "developerName": "Fast-Devs Project",
       "subtitle": "Tweaked with DeviceMonitor2, blatantsPatch",
-      "version": "26.6.0",
-      "versionDate": "2026-06-23",
+      "version": "26.6.1",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: DeviceMonitor2, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Device_Monitor²_v26_6_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Device_Monitor²_v26_6_1_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: DeviceMonitor2, blatantsPatch\n\nDevice Monitor²\n\n---\nDevice Monitor² is a one-of-a-kind app designed for iPhone, iPad, Apple Watch and Mac, providing all the essential information about your device at a glance, quickly and effortlessly. Discover which sensors apps have access to and take control of your privacy.\n\nWhy choose Device Monitor²?\nHere are some of its main features:\n• Clear and intuitive data visualization;\n• Detailed information about:\n - DEVICE,\n - SENSORS,\n - RAM,\n - STORAGE,\n - CPU,\n - GPU (not available on Apple Watch),\n - NETWORK,",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/bc/fa/8fbcfa22-381b-9d52-1214-7f2220aa2ffd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 33124294,
+      "size": 33753469,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -17216,20 +17216,22 @@
           "NSCameraUsageDescription": "LOCALIZE_STRING",
           "NSMicrophoneUsageDescription": "LOCALIZE_STRING",
           "NSLocationWhenInUseUsageDescription": "LOCALIZE_STRING",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "LOCALIZE_STRING",
           "NSMotionUsageDescription": "LOCALIZE_STRING",
           "NSSiriUsageDescription": "LOCALIZE_STRING",
           "NSFaceIDUsageDescription": "LOCALIZE_STRING",
           "NSBluetoothAlwaysUsageDescription": "LOCALIZE_STRING",
-          "NSBluetoothPeripheralUsageDescription": "LOCALIZE_STRING"
+          "NSBluetoothPeripheralUsageDescription": "LOCALIZE_STRING",
+          "NSLocalNetworkUsageDescription": "LOCALIZE_STRING"
         }
       },
       "versions": [
         {
-          "version": "26.6.0",
-          "date": "2026-06-23",
+          "version": "26.6.1",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: DeviceMonitor2, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Device_Monitor²_v26_6_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 33124294
+          "downloadURL": "https://telos.ftp.sh/ipas/Device_Monitor²_v26_6_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 33753469
         }
       ],
       "category": "developer-tools"
@@ -17518,15 +17520,15 @@
       "name": "Discord",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "Discord Inc.",
-      "subtitle": "Discord for iOS",
-      "version": "335.0",
-      "versionDate": "2026-07-06",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.hammerandchisel.discord-335.0-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nDiscord is designed for gaming and great for just chilling with friends or building a community. Customize your own space and gather your friends to talk while playing your favorite games, or just hang out.\n\nGROUP CHAT THAT’S ALL FUN & GAMES\n∙ Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out in.\n\nMAKE YOUR GROUP CHATS MORE FUN\n∙ Create custom emoji, stickers, soundboard effects, and more to",
+      "subtitle": "Tweaked with CydiaSubstrate, RainTweak",
+      "version": "331.0",
+      "versionDate": "2026-07-10",
+      "versionDescription": "Tweaks: CydiaSubstrate, RainTweak, appstorehelper\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/RainTweak_0.9.4_Discord_331.0.0.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, RainTweak, appstorehelper\n\nRainTweak  0.9.4\n\n---\nDiscord is designed for gaming and great for just chilling with friends or building a community. Customize your own space and gather your friends to talk while playing your favorite games, or just hang out.\n\nGROUP CHAT THAT’S ALL FUN & GAMES\n∙ Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out in.\n\nMAKE YOUR GROUP CHATS MORE FUN\n∙ Create custom emoji, stickers, soundboard effects, and more to",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/f6/de/adf6de1e-d577-e13b-2058-763741916e15/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 102786285,
+      "size": 107515564,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/4c/42/244c42b9-0433-6108-6801-d3163d22c4cc/86d98c10-0014-4bcb-89a5-39c7776e014e_1_GroupChat_Tile_EN_5-5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/78/09/637809c2-08ec-3525-6deb-81bc8cfa258d/5cc22caa-9cad-409f-9de8-f852cabe5d08_2_Stream_Tile_EN_5-5.png/392x696bb.png",
@@ -17537,7 +17539,9 @@
       "appPermissions": {
         "entitlements": [
           "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.declared-age-range",
           "com.apple.developer.avfoundation.multitasking-camera-access",
+          "com.apple.developer.networking.carrier-constrained.appcategory",
           "aps-environment",
           "com.apple.developer.associated-domains",
           "com.apple.security.application-groups"
@@ -17559,11 +17563,11 @@
       },
       "versions": [
         {
-          "version": "335.0",
-          "date": "2026-07-06",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.hammerandchisel.discord-335.0-eeveedecrypter.ipa",
-          "size": 102786285
+          "version": "331.0",
+          "date": "2026-07-10",
+          "localizedDescription": "Tweaks: CydiaSubstrate, RainTweak, appstorehelper\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/RainTweak_0.9.4_Discord_331.0.0.ipa",
+          "size": 107515564
         }
       ],
       "category": "social-networking"
@@ -23305,14 +23309,14 @@
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
       "subtitle": "Tweaked with Fitia, blatantsPatch",
-      "version": "23.2.1",
-      "versionDate": "2026-07-08",
+      "version": "23.2.2",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_2_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_2_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Fitia, blatantsPatch\n\nFitia: Calorie Counter & Diet\n\n---\nTrusted by 10+ million users and rated 4.9/5.0 stars\n\n • The fastest & most accurate calorie counter\n • Track calories by photo, voice, or typing (like notes)\n • Personalized meal plans for weight loss or muscle gain\n • AI coach that adapts to your progress\n • Grocery list, recipes & smart food logging\n • Weight, body fat & measurement tracking\n • Intermittent fasting tracker\n • Syncs with Apple Health and third party apps\n\nWHY FITIA WORKS FOR WEIGHT LOSS OR MUSCLE GAIN\n• Fitia creates a plan th",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/47/d4/b547d4cc-44d3-6dc9-ef04-35495fc25ce1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 125582500,
+      "size": 125753423,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -23339,11 +23343,11 @@
       },
       "versions": [
         {
-          "version": "23.2.1",
-          "date": "2026-07-08",
+          "version": "23.2.2",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_2_1_Subscription_Unlocked_blatant.ipa",
-          "size": 125582500
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_2_2_Subscription_Unlocked_blatant.ipa",
+          "size": 125753423
         }
       ],
       "category": "health-&-fitness"
@@ -63175,14 +63179,14 @@
       "bundleIdentifier": "com.soundscape.music",
       "developerName": "Soundscape",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "10.1.41",
-      "versionDate": "2026-07-07",
+      "version": "10.1.43",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.41-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.43-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSoundscape: Sleep Focus Relax\n\n---\nSleep deeper. Focus longer. Live better.\nSoundscape uses science-backed sounds to help you fall asleep faster, stay focused longer, and feel more in control. From immersive sound mixing to app blocking, every feature is designed to bring more peace into your day.\n\nTOP FEATURES\nSLEEP & FOCUS SOUND LIBRARY\nCrafted with care and backed by science, our immersive soundscapes help your mind let go of stress or dial in to deep focus. Explore calming ambient textures, natural environments, and soothing",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/b9/8f/b6b98fc4-0eeb-b982-b116-554b20781314/SoundscapeIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 68216892,
+      "size": 74909959,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -63200,11 +63204,11 @@
       },
       "versions": [
         {
-          "version": "10.1.41",
-          "date": "2026-07-07",
+          "version": "10.1.43",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.41-riftysipas.ipa",
-          "size": 68216892
+          "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.43-riftysipas.ipa",
+          "size": 74909959
         }
       ],
       "category": "health-&-fitness"
@@ -71607,14 +71611,14 @@
       "bundleIdentifier": "app.monelyze.ToDo",
       "developerName": "Monelyze Inc.",
       "subtitle": "Tweaked with autoRevenuecat, fixipa1",
-      "version": "7.2.6",
-      "versionDate": "2026-07-06",
+      "version": "7.2.7",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.2.6-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.2.7-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nToDo\n\n---\n\"To Do List\" is a simple, intuitive reminder app that’s free to use, with no ads and no sign-up required! Manage everything from shopping lists to work tasks; see due dates at a glance with the calendar view and change dates quickly with drag and drop. Use widgets and notifications to stay on track, and customize the app with colors and icons.\n\nBuilt for iOS, iPadOS, and macOS, it delivers smooth performance and a beautiful design.\n\nEven in the free version, \"To Do List\" shows no ads and perform",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/d9/ff/02d9ff4f-9331-f5b6-7189-48aebd29fd0d/ToDo-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 27762435,
+      "size": 27800622,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -71629,11 +71633,11 @@
       },
       "versions": [
         {
-          "version": "7.2.6",
-          "date": "2026-07-06",
+          "version": "7.2.7",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.2.6-riftysipas.ipa",
-          "size": 27762435
+          "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.2.7-riftysipas.ipa",
+          "size": 27800622
         }
       ],
       "category": "productivity"
