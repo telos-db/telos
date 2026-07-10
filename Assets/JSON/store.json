@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.blockpuzzle.us.ios",
-    "com.zerone.hidesktop",
-    "com.tuya.smart",
-    "com.tuya.smartlife",
-    "com.aagame.aagame"
+    "com.behindtechlines.HTTPBot",
+    "ru.routes.peakvisor",
+    "com.sfun.snapedit",
+    "com.kinemaster.kios",
+    "com.blockpuzzle.us.ios"
   ],
   "apps": [
     {
@@ -30467,14 +30467,14 @@
       "bundleIdentifier": "com.behindtechlines.HTTPBot",
       "developerName": "Arvindh Sukumar",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "2026.5.1",
-      "versionDate": "2026-07-01",
+      "version": "2026.5.2",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/HTTPBot-v2026.5.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/HTTPBot-v2026.5.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nHTTPBot",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/27/ba/2427ba4d-c481-2e3c-3cdd-c6388bd88944/HTTPBot_Liquid_Glass-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1d/72/c01d72f0-0465-d6ea-7303-382b4a028543/HTTPBot_Liquid_Glass-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 36489616,
+      "size": 36493663,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/ce/cf/1acecf1e-ecf4-3496-a5f4-a75c685e000d/ab954c30-5e7f-48f3-b487-53c28adf2a89_display_55_01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/56/6b/d6566baa-ba44-f741-0c84-6f4a027a4f30/faf011c1-ec5b-4c14-98d4-ea8475e78b24_display_55_02.jpg/392x696bb.jpg",
@@ -30492,11 +30492,11 @@
       },
       "versions": [
         {
-          "version": "2026.5.1",
-          "date": "2026-07-01",
+          "version": "2026.5.2",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/HTTPBot-v2026.5.1-riftysipas.ipa",
-          "size": 36489616
+          "downloadURL": "https://telos.ftp.sh/ipas/HTTPBot-v2026.5.2-riftysipas.ipa",
+          "size": 36493663
         }
       ],
       "category": "developer-tools"
@@ -34464,14 +34464,14 @@
       "bundleIdentifier": "com.kinemaster.kios",
       "developerName": "KineMaster Corporation",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "8.1.14",
-      "versionDate": "2026-06-25",
+      "version": "8.1.15",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: KineMaster, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_14_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_15_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nKineMaster - Video Editor",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/27/1c/d5271c57-bf47-4c69-66c2-57ea3a49b1ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/00/77/dc00770c-ebe8-11b9-b164-fb6435f44ee4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 116762603,
+      "size": 116781283,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/14/bc/a114bcc9-d975-363e-08ec-6284db7fbdc0/01.The_Best_Video_Editor.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/04/84/2d0484cc-4f81-9815-18ee-57fa40f0bf9a/02.High_Quality_Templates.jpg/392x696bb.jpg",
@@ -34496,11 +34496,11 @@
       },
       "versions": [
         {
-          "version": "8.1.14",
-          "date": "2026-06-25",
+          "version": "8.1.15",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: KineMaster, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_14_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 116762603
+          "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_15_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 116781283
         }
       ],
       "category": "photo-&-video"
@@ -49208,14 +49208,14 @@
       "bundleIdentifier": "ru.routes.peakvisor",
       "developerName": "Routes Software SRL",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "5.100",
-      "versionDate": "2026-06-01",
+      "version": "5.101",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: PeakVisor, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Hiking_and_Skiing_PeakVisor_v5_100_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Hiking_and_Skiing_PeakVisor_v5_101_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nHiking and Skiing - PeakVisor",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/11/b2/9511b2cf-25e1-2345-e34e-8834d7beb404/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/39/fa/b539fa2a-7c17-7890-c67d-77f4cac579bf/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 148548193,
+      "size": 151135938,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -49238,11 +49238,11 @@
       },
       "versions": [
         {
-          "version": "5.100",
-          "date": "2026-05-26",
+          "version": "5.101",
+          "date": "2026-07-08",
           "localizedDescription": "Tweaks: PeakVisor, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Hiking_and_Skiing_PeakVisor_v5_100_Subscription_Unlocked_blatant.ipa",
-          "size": 148548193
+          "downloadURL": "https://telos.ftp.sh/ipas/Hiking_and_Skiing_PeakVisor_v5_101_Subscription_Unlocked_blatant.ipa",
+          "size": 151135938
         }
       ],
       "category": "sports"
@@ -61456,14 +61456,14 @@
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "6.19.2",
-      "versionDate": "2026-07-09",
+      "version": "6.19.3",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_19_2_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_19_3_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nSnapEdit: Photo Editor AI",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/cb/0d/5dcb0d82-ae96-8bac-4c11-6782319bb3a4/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 106885768,
+      "size": 106905507,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -61482,11 +61482,11 @@
       },
       "versions": [
         {
-          "version": "6.19.2",
-          "date": "2026-07-09",
+          "version": "6.19.3",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_19_2_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 106885768
+          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_19_3_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 106905507
         }
       ],
       "category": "photo-&-video"
@@ -81081,7 +81081,7 @@
     {
       "title": "⚙️ Telos Update 7.10",
       "identifier": "telos-update-2026-07-10",
-      "caption": "20 Apps Updated:\n• 6 Games\n• 4 Graphics & Design\n• 3 Health & Fitness\n• 2 Lifestyle\n• 2 Entertainment\n• 2 Utilities\n• 1 Finance",
+      "caption": "32 Apps Updated:\n• 8 Photo & Video\n• 4 Games\n• 4 Developer Tools\n• 4 Sports\n• 3 Health & Fitness\n• 2 Lifestyle\n• 2 Entertainment\n• 2 Utilities\n• 2 Graphics & Design\n• 1 Finance",
       "date": "2026-07-10",
       "tintColor": "#02433b",
       "notify": true,
