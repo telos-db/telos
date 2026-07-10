@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.polywise.weekly",
-    "boomer.Smart-Video",
-    "com.joytunes.Draw",
-    "com.alohabrowser.alohabrowser",
-    "com.gunthermarktl.stepapp"
+    "co.timesquared.hourstimetracker.ios",
+    "org.quiche.Browser",
+    "com.saltycrackers.daygram",
+    "br.com.marcosatanaka.music-harbor",
+    "com.wellocution.iosapp"
   ],
   "apps": [
     {
@@ -8423,14 +8423,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.1.3",
-      "versionDate": "2026-07-09",
+      "version": "4.1.4",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_3_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_4_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nBoldVoice: Accent Training",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 143913957,
+      "size": 143936079,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8450,11 +8450,11 @@
       },
       "versions": [
         {
-          "version": "4.1.3",
-          "date": "2026-07-09",
+          "version": "4.1.4",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_3_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 143913957
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_4_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 143936079
         }
       ],
       "category": "education"
@@ -16049,14 +16049,14 @@
       "bundleIdentifier": "com.saltycrackers.daygram",
       "developerName": "EUIHYUNG JUNG",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "5.7.5",
-      "versionDate": "2026-07-09",
+      "version": "5.7.6",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdaygram, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.7.5-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.7.6-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nDaygram: Daily Journal",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/e8/75/c4e875b4-fe09-51c9-e086-060edae54603/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 30705238,
+      "size": 30391872,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/2f/e9/4a2fe921-332c-01bb-3b52-06f662c15feb/6e903ad4-5910-409e-9df2-b33c130e5a8c_old_ipad_en_0.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/ca/cf/59cacf18-57da-f9dc-a90b-92599c37046e/mzl.qksssrcf.png/576x768bb.png",
@@ -16081,11 +16081,11 @@
       },
       "versions": [
         {
-          "version": "5.7.5",
-          "date": "2026-07-09",
+          "version": "5.7.6",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdaygram, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.7.5-riftysipas.ipa",
-          "size": 30705238
+          "downloadURL": "https://telos.ftp.sh/ipas/Daygram: Daily Journal-v5.7.6-riftysipas.ipa",
+          "size": 30391872
         }
       ],
       "category": "lifestyle"
@@ -38453,14 +38453,14 @@
       "bundleIdentifier": "in.muditbhargava.LookUp",
       "developerName": "Squircle Apps LLP",
       "subtitle": "Patched | Tweaked",
-      "version": "12.1.1",
-      "versionDate": "2026-07-05",
+      "version": "12.1.2",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: LookUp, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/LookUp_English_Dictionary_App_v12_1_1_LookUp+_Lifetime_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LookUp_English_Dictionary_App_v12_1_2_LookUp+_Lifetime_blatant_Patched.ipa",
       "localizedDescription": "Patched | Tweaked\n\nLookUp: English Dictionary App",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/5c/c0/b15cc0af-b4a7-c9d9-c48b-aeda4033b7da/LiquidLookUp-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/45/e0/7045e02a-a67d-4204-a578-48113a936757/LiquidLookUp-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 207279206,
+      "size": 207296581,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/4f/a2/c44fa277-f9bf-faff-c5d9-935edb2a0f36/362a8c77-8d5c-4df3-b2ef-b1ba69963348_Zones_1_Copy_11.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/bb/9f/68bb9f57-253e-2ce7-c9e0-f5661a16e74d/716d0024-9e26-4d8d-b6dd-3b4a85aac439_Zones_1_Copy_5.png/392x696bb.png",
@@ -38485,11 +38485,11 @@
       },
       "versions": [
         {
-          "version": "12.1.1",
-          "date": "2026-07-05",
+          "version": "12.1.2",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: LookUp, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/LookUp_English_Dictionary_App_v12_1_1_LookUp+_Lifetime_blatant_Patched.ipa",
-          "size": 207279206
+          "downloadURL": "https://telos.ftp.sh/ipas/LookUp_English_Dictionary_App_v12_1_2_LookUp+_Lifetime_blatant_Patched.ipa",
+          "size": 207296581
         }
       ],
       "category": "reference"
@@ -43415,14 +43415,14 @@
       "bundleIdentifier": "br.com.marcosatanaka.music-harbor",
       "developerName": "Loop Apps LTDA",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "5.3.0",
-      "versionDate": "2026-07-02",
+      "version": "5.3.2",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MusicHarbor - Track New Music-v5.3.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MusicHarbor - Track New Music-v5.3.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nMusicHarbor - Track New Music",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/9b/97/869b97e7-5d5a-fa16-f142-fd58ce3290f7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 49483661,
+      "size": 49448895,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/79/eb/9179eb41-2d81-c8b0-5364-faa4b7e427d6/b05845d3-898f-47d8-b1aa-b9699435dd84_4.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/06/bd/4b06bdcb-5859-8735-9df8-e79f2bf318a1/72fa8ce1-1264-448a-9548-5c446c0d9454_5.png/392x696bb.png",
@@ -43446,11 +43446,11 @@
       },
       "versions": [
         {
-          "version": "5.3.0",
-          "date": "2026-07-02",
+          "version": "5.3.2",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MusicHarbor - Track New Music-v5.3.0-riftysipas.ipa",
-          "size": 49483661
+          "downloadURL": "https://telos.ftp.sh/ipas/MusicHarbor - Track New Music-v5.3.2-riftysipas.ipa",
+          "size": 49448895
         }
       ],
       "category": "music"
@@ -54690,14 +54690,14 @@
       "bundleIdentifier": "org.quiche.Browser",
       "developerName": "Gregory de Jonckheere",
       "subtitle": "*Tweak:** Plus Unlocked | *Patched ✓**",
-      "version": "1.70",
-      "versionDate": "2026-07-08",
+      "version": "1.70.1",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autorc, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Quiche Browser-v1.70-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Quiche Browser-v1.70.1-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Plus Unlocked | *Patched ✓**\n\nQuiche Browser",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/6c/fb/df6cfb92-287a-0984-fe42-b0c5c73323af/AppIcon-Series6-1-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 87387306,
+      "size": 87843699,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -54714,11 +54714,11 @@
       },
       "versions": [
         {
-          "version": "1.70",
-          "date": "2026-07-08",
+          "version": "1.70.1",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autorc, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Quiche Browser-v1.70-riftysipas.ipa",
-          "size": 87387306
+          "downloadURL": "https://telos.ftp.sh/ipas/Quiche Browser-v1.70.1-riftysipas.ipa",
+          "size": 87843699
         }
       ],
       "category": "utilities"
@@ -60601,14 +60601,14 @@
       "bundleIdentifier": "com.lexwarelabs.goodmorning",
       "developerName": "Sleep Cycle AB",
       "subtitle": "Premium Unlocked | Patched",
-      "version": "6.26.25",
-      "versionDate": "2026-06-29",
+      "version": "6.26.26",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: SleepCycle, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sleep_Cycle_Tracker_&_Sounds_v6_26_25_Premium_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sleep_Cycle_Tracker_&_Sounds_v6_26_26_Premium_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nSleep Cycle - Tracker & Sounds",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/35/f7/ee35f75a-26d7-58b6-62fe-ace5bc92ffa1/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/f7/6a/abf76a9d-857a-0730-1b5d-7d10c70fcc4f/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 341737659,
+      "size": 357015023,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/1a/ca/b51acae8-a9fa-efc2-804c-ab27581d58a5/f706957a-db7a-4ce9-937e-f08c8a275a5e_SC_iPad_iOS_2048x2732px_01.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/30/6a/37306a67-340e-06ec-3884-28857d755ae4/f2cf43a7-619e-4879-ba35-398a32d3eb02_SC_iPad_iOS_2048x2732px_02.png/576x768bb.png",
@@ -60647,11 +60647,11 @@
       },
       "versions": [
         {
-          "version": "6.26.25",
-          "date": "2026-06-29",
+          "version": "6.26.26",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: SleepCycle, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Sleep_Cycle_Tracker_&_Sounds_v6_26_25_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 341737659
+          "downloadURL": "https://telos.ftp.sh/ipas/Sleep_Cycle_Tracker_&_Sounds_v6_26_26_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 357015023
         }
       ],
       "category": "health-&-fitness"
@@ -70183,14 +70183,14 @@
       "bundleIdentifier": "co.timesquared.hourstimetracker.ios",
       "developerName": "TSQ Publishing Corp.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "3.4.1677",
-      "versionDate": "2026-06-13",
+      "version": "3.4.1730",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Time Squared - Hours Tracker-v3.4.1677-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Time Squared - Hours Tracker-v3.4.1730-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nTime Squared - Hours Tracker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/27/05/a027054b-7f59-d921-6580-ce3d3446a994/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 38776347,
+      "size": 42763350,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/4f/cb/3d4fcbd5-3337-3bfc-8a76-39110795a87f/7f842bd6-9eb5-434e-9419-6422df176cbf_set_2_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/ea/82/deea8267-18e1-1924-b6b7-05789792382f/30c63543-bb61-405c-b10d-6b54dbb6b4b5_set_2_2.jpg/392x696bb.jpg",
@@ -70216,11 +70216,11 @@
       },
       "versions": [
         {
-          "version": "3.4.1677",
-          "date": "2026-04-22",
+          "version": "3.4.1730",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Time Squared - Hours Tracker-v3.4.1677-riftysipas.ipa",
-          "size": 38776347
+          "downloadURL": "https://telos.ftp.sh/ipas/Time Squared - Hours Tracker-v3.4.1730-riftysipas.ipa",
+          "size": 42763350
         }
       ],
       "category": "business"
@@ -81122,7 +81122,7 @@
     {
       "title": "⚙️ Telos Update 7.10",
       "identifier": "telos-update-2026-07-10",
-      "caption": "46 Apps Updated:\n• 8 Utilities\n• 8 Photo & Video\n• 6 Lifestyle\n• 5 Health & Fitness\n• 4 Games\n• 4 Sports\n• 4 Education\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Developer Tools\n• 1 Finance",
+      "caption": "74 Apps Updated:\n• 12 Utilities\n• 10 Lifestyle\n• 9 Health & Fitness\n• 8 Photo & Video\n• 8 Education\n• 4 Games\n• 4 Sports\n• 4 Business\n• 4 Music\n• 4 Reference\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Developer Tools\n• 1 Finance",
       "date": "2026-07-10",
       "tintColor": "#02433b",
       "notify": true,
