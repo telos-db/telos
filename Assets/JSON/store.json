@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.tuya.smart",
+    "com.tuya.smartlife",
     "com.aagame.aagame",
     "com.sbs.train",
-    "com.oz.magicreality",
-    "co.smartreceipts.ios",
-    "com.glucobit.cravingBuster.CravingBuster"
+    "com.oz.magicreality"
   ],
   "apps": [
     {
@@ -61072,6 +61072,53 @@
       "category": "productivity"
     },
     {
+      "name": "SmartLife ",
+      "bundleIdentifier": "com.tuya.smartlife",
+      "developerName": "Volcano Technology Limited",
+      "subtitle": "SmartLife  for iOS",
+      "version": "7.9.3",
+      "versionDate": "2026-07-10",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.tuya.smartlife-7.9.3-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/18/ad/3918add4-8a5e-925a-fc71-87c8ec420a4a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 105436902,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Accessing photos will be used to add feedback-related images or videos.",
+          "NSCameraUsageDescription": "The App can use camera to take new profile and to scan QR Code.",
+          "NSMicrophoneUsageDescription": "The app requests microphone access to control smart devices.",
+          "NSLocationWhenInUseUsageDescription": "Location permissions will be used for smart device automation, discovery of nearby devices, Wi-Fi lists, and more. Please grant the permission to the app.",
+          "NSLocationAlwaysUsageDescription": "The app can provide temperature and humidity according to your location. \"Leave or Arrive (beta)\" always requests access to your location.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "The app can provide temperature and humidity according to your location. \"Leave or Arrive (beta)\" always requests access to your location.",
+          "NSCalendarsUsageDescription": "To sync your to-dos with your system calendar.",
+          "NSMotionUsageDescription": "App wants access to Motion Sensor data.",
+          "NSHealthShareUsageDescription": "The information can only be shared with your consent.",
+          "NSHealthUpdateUsageDescription": "The information can only be updated with your consent.",
+          "NSAppleMusicUsageDescription": "The app needs to access your media library to get music. If you do not allow access, local music cannot be added.",
+          "NSFaceIDUsageDescription": "This will allow the app to log in using Face ID.",
+          "NSBluetoothAlwaysUsageDescription": "This will allow the app to find and connect Bluetooth accessories. This app may also use Bluetooth to locate Bluetooth device.",
+          "NSBluetoothPeripheralUsageDescription": "To add or use Bluetooth devices, enable Bluetooth on your mobile phone.",
+          "NSLocalNetworkUsageDescription": "The purpose of the app connecting to the local network: enable pairing and control of the devices connected to the local area network",
+          "NSUserTrackingUsageDescription": "Do you allow us to track your user data for optimization of the service and providing you with personalized content? You may also opt-out in the Privacy Setting in the Mobile System even you authorize once.",
+          "NSPhotoLibraryAddUsageDescription": "We need your authorization to save pictures and videos in albums."
+        }
+      },
+      "versions": [
+        {
+          "version": "7.9.3",
+          "date": "2026-07-07",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.tuya.smartlife-7.9.3-eeveedecrypter.ipa",
+          "size": 105436902
+        }
+      ],
+      "category": "lifestyle"
+    },
+    {
       "name": "Smash Hit",
       "bundleIdentifier": "com.mediocre.smashhit",
       "developerName": "Mediocre AB",
@@ -72329,6 +72376,53 @@
       "category": "social-networking"
     },
     {
+      "name": "Tuya",
+      "bundleIdentifier": "com.tuya.smart",
+      "developerName": "Tuya Smart Inc.",
+      "subtitle": "Tuya for iOS",
+      "version": "7.9.3",
+      "versionDate": "2026-07-10",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.tuya.smart-7.9.3-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/74/4d/59744ded-3450-f2a7-a7cc-e9a1976e435d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 105794634,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Accessing photos will be used to add feedback-related images or videos.",
+          "NSCameraUsageDescription": "The App can use camera to take new profile and to scan QR Code.",
+          "NSMicrophoneUsageDescription": "The app requests microphone access to control smart devices.",
+          "NSLocationWhenInUseUsageDescription": "Location permissions will be used for smart device automation, discovery of nearby devices, Wi-Fi lists, and more. Please grant the permission to the app.",
+          "NSLocationAlwaysUsageDescription": "The app can provide temperature and humidity according to your location. \"Leave or Arrive (beta)\" always requests access to your location.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "The app can provide temperature and humidity according to your location. \"Leave or Arrive (beta)\" always requests access to your location.",
+          "NSCalendarsUsageDescription": "To sync your to-dos with your system calendar.",
+          "NSMotionUsageDescription": "App wants access to Motion Sensor data.",
+          "NSHealthShareUsageDescription": "The information can only be shared with your consent.",
+          "NSHealthUpdateUsageDescription": "The information can only be updated with your consent.",
+          "NSAppleMusicUsageDescription": "The app needs to access your media library to get music. If you do not allow access, local music cannot be added.",
+          "NSFaceIDUsageDescription": "This will allow the app to log in using Face ID.",
+          "NSBluetoothAlwaysUsageDescription": "This will allow the app to find and connect Bluetooth accessories. This app may also use Bluetooth to locate Bluetooth device.",
+          "NSBluetoothPeripheralUsageDescription": "To add or use Bluetooth devices, enable Bluetooth on your mobile phone.",
+          "NSLocalNetworkUsageDescription": "The purpose of the app connecting to the local network: enable pairing and control of the devices connected to the local area network",
+          "NSUserTrackingUsageDescription": "Do you allow us to track your user data for optimization of the service and providing you with personalized content? You may also opt-out in the Privacy Setting in the Mobile System even you authorize once.",
+          "NSPhotoLibraryAddUsageDescription": "We need your authorization to save pictures and videos in albums."
+        }
+      },
+      "versions": [
+        {
+          "version": "7.9.3",
+          "date": "2026-07-07",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.tuya.smart-7.9.3-eeveedecrypter.ipa",
+          "size": 105794634
+        }
+      ],
+      "category": "utilities"
+    },
+    {
       "name": "TV Remote",
       "bundleIdentifier": "com.companjenapps.UniMote",
       "developerName": "Zap Software Studio BV",
@@ -80986,11 +81080,11 @@
     {
       "title": "⚙️ Telos Update 7.10",
       "identifier": "telos-update-2026-07-10",
-      "caption": "14 Apps Updated:\n• 5 Health & Fitness\n• 4 Entertainment\n• 4 Games\n• 1 Finance",
+      "caption": "16 Apps Updated:\n• 4 Lifestyle\n• 4 Utilities\n• 3 Health & Fitness\n• 2 Entertainment\n• 2 Games\n• 1 Finance",
       "date": "2026-07-10",
       "tintColor": "#02433b",
       "notify": true,
-      "appID": "com.oz.magicreality"
+      "appID": "com.tuya.smartlife"
     },
     {
       "title": "⚙️ Telos Update 7.9",
