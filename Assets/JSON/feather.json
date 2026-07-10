@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.comcsoft.iNetTools",
     "com.behindtechlines.HTTPBot",
     "ru.routes.peakvisor",
     "com.sfun.snapedit",
-    "com.kinemaster.kios",
-    "com.blockpuzzle.us.ios"
+    "com.kinemaster.kios"
   ],
   "apps": [
     {
@@ -32078,6 +32078,47 @@
         }
       ],
       "category": "games"
+    },
+    {
+      "name": "iNetTools",
+      "bundleIdentifier": "com.comcsoft.iNetTools",
+      "developerName": "ComcSoft Corporation",
+      "subtitle": "iNetTools for iOS",
+      "version": "10.01",
+      "versionDate": "2026-07-10",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.comcsoft.iNetTools-10.01-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\niNetTools is a suite of network diagnose tools on iPhone and iPad. It provides essential tools such as Ping, DNS Lookup, Trace Route, Port Scan, Whois, Server Monitor, and Lan Scan. Supported features include:\n\n - Universal App supporting both iPhone and iPad. Supports both IPv4 and IPv6.\n\n - Tools include: Ping, DNS Lookup, Trace Route, Port Scan, Whois, Server Monitor, and Lan Scan.\n\n - Support Server List for frequently used servers.\n\n - Support Recent Tasks for recent executed tasks.\n\nWith i",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/4a/b0/9c4ab09b-ea14-041e-a4e9-318d1d169230/AppIcon_Free-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 19287350,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a5/e1/43/a5e14341-4e5f-f17e-620f-5e873e9e9c14/mzl.uauabznz.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5a/30/64/5a3064e6-e54a-aab0-904b-367d8501773f/mzl.ewamyeai.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/5e/3d/315e3d3d-fd80-a6bf-500e-b2881a5b4f90/mzl.syhyhlic.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/79/78/5a/79785ac7-1fc0-2496-ee61-b2e011a98b78/mzl.lvvmjrqp.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/d3/8f/9bd38fd7-f2d6-5ab2-d417-da26608cac2a/mzl.bichoenv.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Show Photos",
+          "NSLocationWhenInUseUsageDescription": "To access Wi-Fi Info",
+          "NSCalendarsUsageDescription": "Show Calendar",
+          "NSBluetoothPeripheralUsageDescription": "Access External Devices",
+          "NSUserTrackingUsageDescription": "So that personalized ads can be served."
+        }
+      },
+      "versions": [
+        {
+          "version": "10.01",
+          "date": "2026-07-10",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.comcsoft.iNetTools-10.01-eeveedecrypter.ipa",
+          "size": 19287350
+        }
+      ],
+      "category": "utilities"
     },
     {
       "name": "Infinite Craft",
