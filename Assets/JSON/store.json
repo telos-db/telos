@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "co.timesquared.hourstimetracker.ios",
-    "org.quiche.Browser",
-    "com.saltycrackers.daygram",
-    "br.com.marcosatanaka.music-harbor",
-    "com.wellocution.iosapp"
+    "com.soundscape.music",
+    "app.monelyze.ToDo",
+    "com.ulisesolave.Fitia",
+    "org.fastdevsproject.altervista.Device-Monitor",
+    "com.hammerandchisel.discord"
   ],
   "apps": [
     {
@@ -17051,14 +17051,14 @@
       "bundleIdentifier": "org.fastdevsproject.altervista.Device-Monitor",
       "developerName": "Fast-Devs Project",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "26.6.0",
-      "versionDate": "2026-06-23",
+      "version": "26.6.1",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: DeviceMonitor2, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Device_Monitor²_v26_6_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Device_Monitor²_v26_6_1_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nDevice Monitor²",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/bc/fa/8fbcfa22-381b-9d52-1214-7f2220aa2ffd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 33124294,
+      "size": 33753469,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -17072,20 +17072,22 @@
           "NSCameraUsageDescription": "LOCALIZE_STRING",
           "NSMicrophoneUsageDescription": "LOCALIZE_STRING",
           "NSLocationWhenInUseUsageDescription": "LOCALIZE_STRING",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "LOCALIZE_STRING",
           "NSMotionUsageDescription": "LOCALIZE_STRING",
           "NSSiriUsageDescription": "LOCALIZE_STRING",
           "NSFaceIDUsageDescription": "LOCALIZE_STRING",
           "NSBluetoothAlwaysUsageDescription": "LOCALIZE_STRING",
-          "NSBluetoothPeripheralUsageDescription": "LOCALIZE_STRING"
+          "NSBluetoothPeripheralUsageDescription": "LOCALIZE_STRING",
+          "NSLocalNetworkUsageDescription": "LOCALIZE_STRING"
         }
       },
       "versions": [
         {
-          "version": "26.6.0",
-          "date": "2026-06-23",
+          "version": "26.6.1",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: DeviceMonitor2, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Device_Monitor²_v26_6_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 33124294
+          "downloadURL": "https://telos.ftp.sh/ipas/Device_Monitor²_v26_6_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 33753469
         }
       ],
       "category": "developer-tools"
@@ -23038,14 +23040,14 @@
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "23.2.1",
-      "versionDate": "2026-07-08",
+      "version": "23.2.2",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_2_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_2_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFitia: Calorie Counter & Diet",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/47/d4/b547d4cc-44d3-6dc9-ef04-35495fc25ce1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 125582500,
+      "size": 125753423,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -23072,11 +23074,11 @@
       },
       "versions": [
         {
-          "version": "23.2.1",
-          "date": "2026-07-08",
+          "version": "23.2.2",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_2_1_Subscription_Unlocked_blatant.ipa",
-          "size": 125582500
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_2_2_Subscription_Unlocked_blatant.ipa",
+          "size": 125753423
         }
       ],
       "category": "health-&-fitness"
@@ -62711,14 +62713,14 @@
       "bundleIdentifier": "com.soundscape.music",
       "developerName": "Soundscape",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "10.1.41",
-      "versionDate": "2026-07-07",
+      "version": "10.1.43",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.41-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.43-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nSoundscape: Sleep Focus Relax",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/b9/8f/b6b98fc4-0eeb-b982-b116-554b20781314/SoundscapeIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 68216892,
+      "size": 74909959,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -62736,11 +62738,11 @@
       },
       "versions": [
         {
-          "version": "10.1.41",
-          "date": "2026-07-07",
+          "version": "10.1.43",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.41-riftysipas.ipa",
-          "size": 68216892
+          "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.43-riftysipas.ipa",
+          "size": 74909959
         }
       ],
       "category": "health-&-fitness"
@@ -70651,14 +70653,14 @@
       "bundleIdentifier": "app.monelyze.ToDo",
       "developerName": "Monelyze Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "7.2.6",
-      "versionDate": "2026-07-06",
+      "version": "7.2.7",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.2.6-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.2.7-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nToDo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/d9/ff/02d9ff4f-9331-f5b6-7189-48aebd29fd0d/ToDo-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 27762435,
+      "size": 27800622,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -70673,11 +70675,11 @@
       },
       "versions": [
         {
-          "version": "7.2.6",
-          "date": "2026-07-06",
+          "version": "7.2.7",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.2.6-riftysipas.ipa",
-          "size": 27762435
+          "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.2.7-riftysipas.ipa",
+          "size": 27800622
         }
       ],
       "category": "productivity"
@@ -81122,7 +81124,7 @@
     {
       "title": "⚙️ Telos Update 7.10",
       "identifier": "telos-update-2026-07-10",
-      "caption": "74 Apps Updated:\n• 12 Utilities\n• 10 Lifestyle\n• 9 Health & Fitness\n• 8 Photo & Video\n• 8 Education\n• 4 Games\n• 4 Sports\n• 4 Business\n• 4 Music\n• 4 Reference\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Developer Tools\n• 1 Finance",
+      "caption": "80 Apps Updated:\n• 15 Health & Fitness\n• 10 Utilities\n• 8 Lifestyle\n• 8 Photo & Video\n• 6 Developer Tools\n• 6 Education\n• 4 Games\n• 4 Sports\n• 4 Productivity\n• 4 Social Networking\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Business\n• 2 Music\n• 2 Reference\n• 1 Finance",
       "date": "2026-07-10",
       "tintColor": "#02433b",
       "notify": true,
