@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.gunthermarktl.stepapp",
+    "com.pixite.pigment",
     "com.genau.MoneyCircle",
     "com.footballaddicts.livescoreaddicts",
-    "com.comcsoft.iNetTools",
-    "com.behindtechlines.HTTPBot",
-    "ru.routes.peakvisor"
+    "com.comcsoft.iNetTools"
   ],
   "apps": [
     {
@@ -51046,14 +51046,14 @@
       "bundleIdentifier": "com.pixite.pigment",
       "developerName": "Pixite Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "3.13",
-      "versionDate": "2026-07-06",
+      "version": "3.13.1",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13.1-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nAdult Coloring Book - Pigment",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/06/13/9e061338-f5e3-8adf-4ccc-833586cd0bb8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 145005212,
+      "size": 145026645,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -51074,11 +51074,11 @@
       },
       "versions": [
         {
-          "version": "3.13",
-          "date": "2026-07-06",
+          "version": "3.13.1",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13-riftysipas.ipa",
-          "size": 145005212
+          "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13.1-riftysipas.ipa",
+          "size": 145026645
         }
       ],
       "category": "lifestyle"
@@ -64528,15 +64528,15 @@
       "name": "StepsApp",
       "bundleIdentifier": "com.gunthermarktl.stepapp",
       "developerName": "StepsApp GmbH",
-      "subtitle": "Pro Features Unlocked",
-      "version": "8.11.1",
-      "versionDate": "2026-07-06",
-      "versionDescription": "Tweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer 8.11.1.ipa",
-      "localizedDescription": "Pro Features Unlocked\n\nStepsApp Pedometer",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/98/72/4798721a-55ac-e3bf-dd25-65d9f04d5fb4/AppIconNew-0-1x_U007ephone-0-1-0-sRGB-0-85-220-0.png/512x512bb.jpg",
+      "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
+      "version": "8.11.3",
+      "versionDate": "2026-07-10",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.11.3-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nStepsApp Pedometer",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/1f/13/1f1f13f5-8595-255c-db60-1f1e189b1d68/AppIconNew-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 230326629,
+      "size": 229940793,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/94/5e/63945ee0-33a0-de35-a71e-297dd4a183cc/2259ae29-c352-4f85-87ff-2599f6490dd1_0_APP_IPHONE_55_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/07/ff/6d07ff0c-db7e-bf4c-5a2f-489684ed88dc/3fb04dc2-bcb4-4a4d-8001-c7f8172fbdbd_2_APP_IPHONE_55_2.png/392x696bb.png",
@@ -64579,11 +64579,11 @@
       },
       "versions": [
         {
-          "version": "8.11.1",
-          "date": "2026-07-06",
-          "localizedDescription": "Tweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer 8.11.1.ipa",
-          "size": 230326629
+          "version": "8.11.3",
+          "date": "2026-07-10",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.11.3-riftysipas.ipa",
+          "size": 229940793
         }
       ],
       "category": "health-&-fitness"
@@ -81122,7 +81122,7 @@
     {
       "title": "⚙️ Telos Update 7.10",
       "identifier": "telos-update-2026-07-10",
-      "caption": "32 Apps Updated:\n• 8 Utilities\n• 4 Games\n• 4 Photo & Video\n• 4 Sports\n• 3 Health & Fitness\n• 2 Lifestyle\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Developer Tools\n• 1 Finance",
+      "caption": "42 Apps Updated:\n• 10 Lifestyle\n• 7 Health & Fitness\n• 6 Utilities\n• 4 Games\n• 4 Photo & Video\n• 4 Sports\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Developer Tools\n• 1 Finance",
       "date": "2026-07-10",
       "tintColor": "#02433b",
       "notify": true,
