@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.aagame.aagame",
+    "com.sbs.train",
+    "com.oz.magicreality",
     "co.smartreceipts.ios",
-    "com.glucobit.cravingBuster.CravingBuster",
-    "com.wellocution.iosapp",
-    "com.snowcorp.soda",
-    "com.maxty.gofitness"
+    "com.glucobit.cravingBuster.CravingBuster"
   ],
   "apps": [
     {
@@ -1006,14 +1006,14 @@
       "bundleIdentifier": "com.aagame.aagame",
       "developerName": "General Adaptive Apps Pty Ltd",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "7.1.3",
-      "versionDate": "2026-06-30",
+      "version": "7.1.4",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/AA Game-v7.1.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AA Game-v7.1.4-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nAA Game",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/08/0f/3a080f21-14c2-ccc0-1d83-2cc951e9ac64/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 42061134,
+      "size": 42063394,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/3f/8b/d33f8b38-5ca0-6887-9129-3ea1bff3b9d5/5_5_inch_iPhone_Start.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/9b/d6/809bd6f0-6c1c-9f7f-4b6f-411cfd2152f1/5_5_inch_iPhone_Fail.png/392x696bb.png",
@@ -1032,11 +1032,11 @@
       },
       "versions": [
         {
-          "version": "7.1.3",
-          "date": "2026-06-30",
+          "version": "7.1.4",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/AA Game-v7.1.3-riftysipas.ipa",
-          "size": 42061134
+          "downloadURL": "https://telos.ftp.sh/ipas/AA Game-v7.1.4-riftysipas.ipa",
+          "size": 42063394
         }
       ],
       "category": "games"
@@ -39338,14 +39338,14 @@
       "bundleIdentifier": "com.oz.magicreality",
       "developerName": "Open zone",
       "subtitle": "Magic Reality for iOS",
-      "version": "1.0.54",
-      "versionDate": "2026-03-01",
+      "version": "1.0.56",
+      "versionDate": "2026-07-10",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.oz.magicreality-1.0.54-eeveedecrypter.ipa",
-      "localizedDescription": "Decrypted\n\n---\n\nDiscover Digital Flap: The real AR Magic Tool!\n\nWith this first effect available in the Magic Reality app, take your card magic to a new dimension!\n\nWhat is Digital Flap?\n\nDigital Flap is a revolutionary tool that modernizes the principle of card transformations without any manipulation. With this app always at hand, you can perform stunning and ultra-visual transformations of normal cards anytime, anywhere. No gimmicks, no complex techniques – just pure magic.\n\nKey Features:\n\n- The only app of ",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/44/eb/1444eb69-f450-8e06-06cc-9f048623fe98/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.oz.magicreality-1.0.56-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/14/15/f814151a-dfee-fb7f-56db-14011c87067f/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 186882207,
+      "size": 187335178,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/02/77/8e0277f7-c919-ec68-1a7c-75a8f5b67d7e/86e4df8c-e3f6-4c66-8ccc-4ec69b4885c8_image_045_0000.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/9e/3c/299e3c31-e0c4-6c7b-0c21-1aa792bf43ca/19f36f97-012e-4cd7-85b8-907523df7782_image_046_0000.png/392x696bb.png",
@@ -39356,18 +39356,18 @@
         "entitlements": [],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "The app requires access to Photos to import media to it.",
-          "NSCameraUsageDescription": "Required for augmented reality support.",
+          "NSCameraUsageDescription": "The app requires access to the camera to take pictures or record videos with it.",
           "NSMicrophoneUsageDescription": "Required to detect finger snaps and volume button presses.",
-          "NSPhotoLibraryAddUsageDescription": "The app requires access to Photos to save media to it."
+          "NSPhotoLibraryAddUsageDescription": "To save photos to your camera roll"
         }
       },
       "versions": [
         {
-          "version": "1.0.54",
-          "date": "2025-11-04",
+          "version": "1.0.56",
+          "date": "2026-06-10",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.oz.magicreality-1.0.54-eeveedecrypter.ipa",
-          "size": 186882207
+          "downloadURL": "https://telos.ftp.sh/ipas/com.oz.magicreality-1.0.56-eeveedecrypter.ipa",
+          "size": 187335178
         }
       ],
       "category": "entertainment"
@@ -77993,14 +77993,14 @@
       "bundleIdentifier": "com.sbs.train",
       "developerName": "Stronger By Science Technologies LLC",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "1.2.3",
-      "versionDate": "2026-07-03",
+      "version": "1.2.4",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: MacroFactorWorkouts, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/MacroFactor_Workouts_Tracker_v1_2_3_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MacroFactor_Workouts_Tracker_v1_2_4_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nMacroFactor Workouts - Tracker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/dc/61/dedc61e9-8afa-1027-d91d-5d84efff13de/WorkoutsAppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 201631663,
+      "size": 201640456,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -78024,11 +78024,11 @@
       },
       "versions": [
         {
-          "version": "1.2.3",
-          "date": "2026-07-03",
+          "version": "1.2.4",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: MacroFactorWorkouts, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/MacroFactor_Workouts_Tracker_v1_2_3_Subscription_Unlocked_blatant.ipa",
-          "size": 201631663
+          "downloadURL": "https://telos.ftp.sh/ipas/MacroFactor_Workouts_Tracker_v1_2_4_Subscription_Unlocked_blatant.ipa",
+          "size": 201640456
         }
       ],
       "category": "health-&-fitness"
@@ -80986,16 +80986,16 @@
     {
       "title": "⚙️ Telos Update 7.10",
       "identifier": "telos-update-2026-07-10",
-      "caption": "4 Apps Updated:\n• 2 Health & Fitness\n• 2 Finance",
+      "caption": "14 Apps Updated:\n• 5 Health & Fitness\n• 4 Entertainment\n• 4 Games\n• 1 Finance",
       "date": "2026-07-10",
       "tintColor": "#02433b",
       "notify": true,
-      "appID": "com.glucobit.cravingBuster.CravingBuster"
+      "appID": "com.oz.magicreality"
     },
     {
       "title": "⚙️ Telos Update 7.9",
       "identifier": "telos-update-2026-07-09",
-      "caption": "82 Apps Updated:\n• 28 Photo & Video\n• 18 Health & Fitness\n• 10 Entertainment\n• 6 Education\n• 4 Medical\n• 4 Lifestyle\n• 4 Music\n• 2 Games\n• 2 Productivity\n• 2 Navigation\n• 2 Finance",
+      "caption": "76 Apps Updated:\n• 26 Photo & Video\n• 17 Health & Fitness\n• 10 Entertainment\n• 4 Medical\n• 4 Education\n• 4 Lifestyle\n• 4 Music\n• 2 Games\n• 2 Productivity\n• 2 Navigation\n• 1 Finance",
       "date": "2026-07-09",
       "tintColor": "#1a4f4a",
       "notify": true,
