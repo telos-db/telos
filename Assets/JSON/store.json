@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "boomer.Smart-Video",
     "com.joytunes.Draw",
     "com.alohabrowser.alohabrowser",
     "com.gunthermarktl.stepapp",
-    "com.pixite.pigment",
-    "com.genau.MoneyCircle"
+    "com.pixite.pigment"
   ],
   "apps": [
     {
@@ -10888,14 +10888,14 @@
       "bundleIdentifier": "boomer.Smart-Video",
       "developerName": "Captions, LLC (US)",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "13.25.0",
-      "versionDate": "2026-07-08",
+      "version": "13.25.1",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.25.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.25.1-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nCaptions: For Talking Videos",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/20/53/922053df-7ad0-74d3-499e-9ccd4f81cc0f/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 109822914,
+      "size": 110271012,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/5b/87/b05b8741-4960-1913-3f58-eb3cf3bff922/2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/2a/a6/942aa6f7-e910-aab9-be7f-1ff8d5de1a95/3.png/392x696bb.png",
@@ -10925,11 +10925,11 @@
       },
       "versions": [
         {
-          "version": "13.25.0",
-          "date": "2026-07-08",
+          "version": "13.25.1",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.25.0-riftysipas.ipa",
-          "size": 109822914
+          "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.25.1-riftysipas.ipa",
+          "size": 110271012
         }
       ],
       "category": "photo-&-video"
@@ -81122,7 +81122,7 @@
     {
       "title": "⚙️ Telos Update 7.10",
       "identifier": "telos-update-2026-07-10",
-      "caption": "40 Apps Updated:\n• 8 Utilities\n• 6 Lifestyle\n• 5 Health & Fitness\n• 4 Games\n• 4 Photo & Video\n• 4 Sports\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Developer Tools\n• 2 Education\n• 1 Finance",
+      "caption": "48 Apps Updated:\n• 12 Photo & Video\n• 8 Utilities\n• 6 Lifestyle\n• 5 Health & Fitness\n• 4 Games\n• 4 Sports\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Developer Tools\n• 2 Education\n• 1 Finance",
       "date": "2026-07-10",
       "tintColor": "#02433b",
       "notify": true,
