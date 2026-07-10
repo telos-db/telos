@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.genau.MoneyCircle",
     "com.footballaddicts.livescoreaddicts",
     "com.comcsoft.iNetTools",
     "com.behindtechlines.HTTPBot",
-    "ru.routes.peakvisor",
-    "com.sfun.snapedit"
+    "ru.routes.peakvisor"
   ],
   "apps": [
     {
@@ -42248,14 +42248,14 @@
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "Genau Factory",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "3.4.2",
-      "versionDate": "2026-07-07",
+      "version": "3.4.3",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.3-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nMoneyCircle: Spending,Expense",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/16/62/0d166286-c90c-055c-6fe7-a9828b8d86ac/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13984085,
+      "size": 13990651,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -42271,11 +42271,11 @@
       },
       "versions": [
         {
-          "version": "3.4.2",
-          "date": "2026-07-07",
+          "version": "3.4.3",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.2-riftysipas.ipa",
-          "size": 13984085
+          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.3-riftysipas.ipa",
+          "size": 13990651
         }
       ],
       "category": "utilities"
@@ -81122,7 +81122,7 @@
     {
       "title": "⚙️ Telos Update 7.10",
       "identifier": "telos-update-2026-07-10",
-      "caption": "28 Apps Updated:\n• 4 Games\n• 4 Utilities\n• 4 Photo & Video\n• 4 Sports\n• 3 Health & Fitness\n• 2 Lifestyle\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Developer Tools\n• 1 Finance",
+      "caption": "32 Apps Updated:\n• 8 Utilities\n• 4 Games\n• 4 Photo & Video\n• 4 Sports\n• 3 Health & Fitness\n• 2 Lifestyle\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Developer Tools\n• 1 Finance",
       "date": "2026-07-10",
       "tintColor": "#02433b",
       "notify": true,
