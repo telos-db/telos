@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.polywise.weekly",
     "boomer.Smart-Video",
     "com.joytunes.Draw",
     "com.alohabrowser.alohabrowser",
-    "com.gunthermarktl.stepapp",
-    "com.pixite.pigment"
+    "com.gunthermarktl.stepapp"
   ],
   "apps": [
     {
@@ -31724,20 +31724,20 @@
       "bundleIdentifier": "com.polywise.weekly",
       "developerName": "Polywise, Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "5.2.8",
-      "versionDate": "2026-07-01",
+      "version": "5.2.9",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Imprint: Learn Visually-v5.2.8-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Imprint: Learn Visually-v5.2.9-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nImprint: Learn Visually",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/71/a2/c771a258-5b35-d582-d729-b62806d90114/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/e4/8e/36e48e39-b0d6-f877-b886-bc6e941a8fff/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 132340898,
+      "size": 131865612,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/12/8b/de128bbf-7a8a-ff6d-8304-790c9d629cb1/Microlearning_diagonal_414x736_fix.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/b4/14/e7b414e0-b916-d5ae-f539-c001418b4659/Split_Device_Small_3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/23/27/2623272c-54f7-8f19-7f91-8d116d858440/In_depth_courses_414x736_fix.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/8e/44/6c8e44cc-1e16-28b4-7dee-d92ce50ff829/Split_Device_Small_5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/ff/c5/b5ffc57e-9a7e-47bc-e42c-07cac7571832/Split_Device_Small_7.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/c1/ad/8cc1ad46-9c72-5ecf-3d52-6b8e360bfb52/Microlearning_diagonal_414x736_16.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/6b/07/3d6b073d-701c-a383-d079-50f14ccbc008/Split_Device_Small_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/61/88/a06188ea-00ac-ad9e-d21a-80a83d493791/In_depth_courses_414x736_fix.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/ef/3e/d7ef3e01-779b-cda2-cc0a-807c7836d7ef/Split_Device_Small_5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/7f/29/bd7f298e-b38a-3484-6633-61b19d671587/Microlearning_diagonal_414x736_5.png/392x696bb.png"
       ],
       "appPermissions": {
         "entitlements": [
@@ -31755,11 +31755,11 @@
       },
       "versions": [
         {
-          "version": "5.2.8",
-          "date": "2026-07-01",
+          "version": "5.2.9",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Imprint: Learn Visually-v5.2.8-riftysipas.ipa",
-          "size": 132340898
+          "downloadURL": "https://telos.ftp.sh/ipas/Imprint: Learn Visually-v5.2.9-riftysipas.ipa",
+          "size": 131865612
         }
       ],
       "category": "education"
@@ -81122,7 +81122,7 @@
     {
       "title": "⚙️ Telos Update 7.10",
       "identifier": "telos-update-2026-07-10",
-      "caption": "48 Apps Updated:\n• 12 Photo & Video\n• 8 Utilities\n• 6 Lifestyle\n• 5 Health & Fitness\n• 4 Games\n• 4 Sports\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Developer Tools\n• 2 Education\n• 1 Finance",
+      "caption": "48 Apps Updated:\n• 8 Utilities\n• 8 Photo & Video\n• 6 Lifestyle\n• 6 Education\n• 5 Health & Fitness\n• 4 Games\n• 4 Sports\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Developer Tools\n• 1 Finance",
       "date": "2026-07-10",
       "tintColor": "#02433b",
       "notify": true,
