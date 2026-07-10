@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.blockpuzzle.us.ios",
-    "com.zerone.hidesktop",
-    "com.tuya.smart",
-    "com.tuya.smartlife",
-    "com.aagame.aagame"
+    "com.behindtechlines.HTTPBot",
+    "ru.routes.peakvisor",
+    "com.sfun.snapedit",
+    "com.kinemaster.kios",
+    "com.blockpuzzle.us.ios"
   ],
   "apps": [
     {
@@ -30665,14 +30665,14 @@
       "bundleIdentifier": "com.behindtechlines.HTTPBot",
       "developerName": "Arvindh Sukumar",
       "subtitle": "Tweaked with autoRevenuecat, fixipa1",
-      "version": "2026.5.1",
-      "versionDate": "2026-07-01",
+      "version": "2026.5.2",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/HTTPBot-v2026.5.1-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nHTTPBot\n\n---\nHTTPBot is a powerful API client and debugger that lets you send HTTP/HTTPs requests, connect to WebSockets, inspect JSON & HTML responses, and debug APIs on the go.\n\nWith HTTPBot, you can\n - Make requests and view responses from anywhere.\n - Debug API issues even while away from your terminal.\n - Work with JSON, HTML, XML, and raw text responses effortlessly.\n - Collaborate with your team by importing & exporting Postman collections, and by syncing with the Postman API.\n\nFEATURES\n - Powerful re",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/27/ba/2427ba4d-c481-2e3c-3cdd-c6388bd88944/HTTPBot_Liquid_Glass-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/HTTPBot-v2026.5.2-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nHTTPBot\n\n---\nHTTPBot is a powerful API client and debugger that lets you send HTTP/HTTPs requests, connect to WebSockets, browse and invoke remote MCP servers, inspect JSON & HTML responses, and debug APIs on the go.\n\nWith HTTPBot, you can\n - Make requests and view responses from anywhere.\n - Debug API issues even while away from your terminal.\n - Work with JSON, HTML, XML, and raw text responses effortlessly.\n - Collaborate with your team by importing & exporting Postman collections, and by syncing with the",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1d/72/c01d72f0-0465-d6ea-7303-382b4a028543/HTTPBot_Liquid_Glass-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 36489616,
+      "size": 36493663,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/ce/cf/1acecf1e-ecf4-3496-a5f4-a75c685e000d/ab954c30-5e7f-48f3-b487-53c28adf2a89_display_55_01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/56/6b/d6566baa-ba44-f741-0c84-6f4a027a4f30/faf011c1-ec5b-4c14-98d4-ea8475e78b24_display_55_02.jpg/392x696bb.jpg",
@@ -30690,11 +30690,11 @@
       },
       "versions": [
         {
-          "version": "2026.5.1",
-          "date": "2026-07-01",
+          "version": "2026.5.2",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/HTTPBot-v2026.5.1-riftysipas.ipa",
-          "size": 36489616
+          "downloadURL": "https://telos.ftp.sh/ipas/HTTPBot-v2026.5.2-riftysipas.ipa",
+          "size": 36493663
         }
       ],
       "category": "developer-tools"
@@ -34955,14 +34955,14 @@
       "bundleIdentifier": "com.kinemaster.kios",
       "developerName": "KineMaster Corporation",
       "subtitle": "Tweaked with KineMaster, blatantsPatch",
-      "version": "8.1.14",
-      "versionDate": "2026-06-25",
+      "version": "8.1.15",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: KineMaster, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_14_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_15_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: KineMaster, blatantsPatch, sideloadKeychainfix\n\nKineMaster - Video Editor\n\n---\n[ AI Tools for Your Next Video ]\nComplex videos can be made quickly with these AI features.\n\n• AI Auto Captions: Add subtitles instantly from video or audio\n• AI Text-to-Speech: Create spoken audio from text with one tap\n• AI Voice: Make your audio unique when you apply AI Voices\n• AI Music Match: Get song recommendations fast\n• AI Magic Removal: Cut out the background around people and faces\n• AI Noise Removal: Zap distracting sounds in your video or audio\n• AI Vocal Separator: Split a song int",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/27/1c/d5271c57-bf47-4c69-66c2-57ea3a49b1ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/00/77/dc00770c-ebe8-11b9-b164-fb6435f44ee4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 116762603,
+      "size": 116781283,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/14/bc/a114bcc9-d975-363e-08ec-6284db7fbdc0/01.The_Best_Video_Editor.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/04/84/2d0484cc-4f81-9815-18ee-57fa40f0bf9a/02.High_Quality_Templates.jpg/392x696bb.jpg",
@@ -34987,11 +34987,11 @@
       },
       "versions": [
         {
-          "version": "8.1.14",
-          "date": "2026-06-25",
+          "version": "8.1.15",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: KineMaster, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_14_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 116762603
+          "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_15_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 116781283
         }
       ],
       "category": "photo-&-video"
@@ -49673,14 +49673,14 @@
       "bundleIdentifier": "ru.routes.peakvisor",
       "developerName": "Routes Software SRL",
       "subtitle": "Tweaked with PeakVisor, blatantsPatch",
-      "version": "5.90",
-      "versionDate": "2026-06-08",
+      "version": "5.101",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: PeakVisor, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Skiing_and_Hiking_PeakVisor_v5_90_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: PeakVisor, blatantsPatch\n\nSkiing and Hiking - PeakVisor\n\n---\nPeakVisor will make you a champion of mountain navigation, putting state-of-the-art Peak Identification, 3D Maps, Trails, and outdoor GPS tracking into the palm of your hand. Our app is a one-stop shop for all your mountain adventures: hiking, skiing, climbing, mountain biking, and more. But PeakVisor is more than just another outdoors app; it’s an immersion into a carefully crafted 3D world that will give you an unprecedented understanding of the nuances of a mountain’s terrain.\n\n“PeakVisor use",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/11/b2/9511b2cf-25e1-2345-e34e-8834d7beb404/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Hiking_and_Skiing_PeakVisor_v5_101_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: PeakVisor, blatantsPatch\n\nHiking and Skiing - PeakVisor\n\n---\nPeakVisor will make you a champion of mountain navigation, putting state-of-the-art Peak Identification, 3D Maps, Trails, and outdoor GPS tracking into the palm of your hand. Our app is a one-stop shop for all your mountain adventures: hiking, skiing, climbing, mountain biking, and more. But PeakVisor is more than just another outdoors app; it’s an immersion into a carefully crafted 3D world that will give you an unprecedented understanding of the nuances of a mountain’s terrain.\n\n“PeakVisor use",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/39/fa/b539fa2a-7c17-7890-c67d-77f4cac579bf/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 130115542,
+      "size": 151135938,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -49703,11 +49703,11 @@
       },
       "versions": [
         {
-          "version": "5.90",
-          "date": "2026-06-08",
+          "version": "5.101",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: PeakVisor, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Skiing_and_Hiking_PeakVisor_v5_90_Subscription_Unlocked_blatant.ipa",
-          "size": 130115542
+          "downloadURL": "https://telos.ftp.sh/ipas/Hiking_and_Skiing_PeakVisor_v5_101_Subscription_Unlocked_blatant.ipa",
+          "size": 151135938
         }
       ],
       "category": "sports"
@@ -61917,14 +61917,14 @@
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
       "subtitle": "Tweaked with SnapEdit, blatantsPatch",
-      "version": "6.19.2",
-      "versionDate": "2026-07-09",
+      "version": "6.19.3",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_19_2_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_19_3_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SnapEdit, blatantsPatch\n\nSnapEdit: Photo Editor AI\n\n---\nSnapEdit is one of the best photo editing apps using AI with a mission to make your editing easy, smooth and fun.\n\nTransform your photos like never before with SnapEdit, the ultimate photo editing app designed to effortlessly remove unwanted objects, enhance image quality, and create stunning visual masterpieces. Download SnapEdit now and unlock a world of possibilities for your photos!\n\nKEY FEATURES:\n\nONE-TOUCH OBJECT REMOVAL: Say goodbye to photobombers, unwanted elements, or distracting objec",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/cb/0d/5dcb0d82-ae96-8bac-4c11-6782319bb3a4/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 106885768,
+      "size": 106905507,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -61943,11 +61943,11 @@
       },
       "versions": [
         {
-          "version": "6.19.2",
-          "date": "2026-07-09",
+          "version": "6.19.3",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_19_2_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 106885768
+          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_19_3_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 106905507
         }
       ],
       "category": "photo-&-video"
