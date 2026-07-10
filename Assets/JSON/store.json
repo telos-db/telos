@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.uqxuwtxbbu.parkingjam",
+    "com.astrio.Sofa",
+    "com.locket.Locket",
     "com.soundscape.music",
-    "app.monelyze.ToDo",
-    "com.ulisesolave.Fitia",
-    "org.fastdevsproject.altervista.Device-Monitor",
-    "com.hammerandchisel.discord"
+    "app.monelyze.ToDo"
   ],
   "apps": [
     {
@@ -38291,14 +38291,14 @@
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "Locket Labs, Inc.",
       "subtitle": "Patched | Tweaked",
-      "version": "2.54.0",
-      "versionDate": "2026-07-03",
+      "version": "2.55.0",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.54.0 Locket Gold blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.55.0 Locket Gold blatant Patched.ipa",
       "localizedDescription": "Patched | Tweaked\n\nLocket Widget",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/2c/cb/772ccbb2-90e9-7902-3cfc-6792acbe4935/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 337364473,
+      "size": 337368302,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -38326,11 +38326,11 @@
       },
       "versions": [
         {
-          "version": "2.54.0",
-          "date": "2026-07-03",
+          "version": "2.55.0",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.54.0 Locket Gold blatant Patched.ipa",
-          "size": 337364473
+          "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.55.0 Locket Gold blatant Patched.ipa",
+          "size": 337368302
         }
       ],
       "category": "social-networking"
@@ -48774,14 +48774,14 @@
       "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
       "developerName": "Popcore GmbH",
       "subtitle": "*Tweak:** No Ads, Unlimited Coins | *Patched ✓**",
-      "version": "232.0.6",
-      "versionDate": "2026-07-03",
+      "version": "232.0.7",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, parkingjam3drifty, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v232.0.6-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v232.0.7-riftysipas.ipa",
       "localizedDescription": "*Tweak:** No Ads, Unlimited Coins | *Patched ✓**\n\nParking Jam 3D",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/ce/c5/0ecec593-d4b5-740c-42ab-8fde6650f2c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 224101579,
+      "size": 227956513,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/67/26/7567264b-c0bc-8ea6-fa05-d06100d5e54b/4__U00282_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/1b/57/601b57c4-89f9-8fc5-14eb-8e4ab86f8386/5__U00282_U0029.png/392x696bb.png",
@@ -48806,11 +48806,11 @@
       },
       "versions": [
         {
-          "version": "232.0.6",
-          "date": "2026-07-03",
+          "version": "232.0.7",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, parkingjam3drifty, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v232.0.6-riftysipas.ipa",
-          "size": 224101579
+          "downloadURL": "https://telos.ftp.sh/ipas/Parking Jam 3D-v232.0.7-riftysipas.ipa",
+          "size": 227956513
         }
       ],
       "category": "games"
@@ -61951,14 +61951,14 @@
       "bundleIdentifier": "com.astrio.Sofa",
       "developerName": "Astrio, LLC",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "5.2",
-      "versionDate": "2026-07-07",
+      "version": "5.2.1",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: Sofa, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sofa_Downtime_Organizer_v5_2_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sofa_Downtime_Organizer_v5_2_1_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSofa: Downtime Organizer",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/e6/a6/1ce6a688-89c1-7194-02da-b33bab9f47a2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 204122069,
+      "size": 204160708,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/75/84/007584d9-3401-09f3-9b2b-bcf42b1413b3/4fd69e4b-4744-47cb-974e-256873ca153d_Sofa_App_Store_Screenshot_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/9b/5c/6f9b5c1d-7a68-8d24-acb8-d92707386879/5c613fbc-51ec-4e21-b001-6aa678805ba8_Sofa_App_Store_Screenshot_2.png/392x696bb.png",
@@ -61984,11 +61984,11 @@
       },
       "versions": [
         {
-          "version": "5.2",
-          "date": "2026-07-07",
+          "version": "5.2.1",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: Sofa, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Sofa_Downtime_Organizer_v5_2_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 204122069
+          "downloadURL": "https://telos.ftp.sh/ipas/Sofa_Downtime_Organizer_v5_2_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 204160708
         }
       ],
       "category": "productivity"
@@ -81124,7 +81124,7 @@
     {
       "title": "⚙️ Telos Update 7.10",
       "identifier": "telos-update-2026-07-10",
-      "caption": "80 Apps Updated:\n• 15 Health & Fitness\n• 10 Utilities\n• 8 Lifestyle\n• 8 Photo & Video\n• 6 Developer Tools\n• 6 Education\n• 4 Games\n• 4 Sports\n• 4 Productivity\n• 4 Social Networking\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Business\n• 2 Music\n• 2 Reference\n• 1 Finance",
+      "caption": "82 Apps Updated:\n• 11 Health & Fitness\n• 10 Utilities\n• 8 Lifestyle\n• 8 Games\n• 8 Photo & Video\n• 6 Education\n• 6 Productivity\n• 6 Social Networking\n• 4 Developer Tools\n• 4 Sports\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Business\n• 2 Music\n• 2 Reference\n• 1 Finance",
       "date": "2026-07-10",
       "tintColor": "#02433b",
       "notify": true,
