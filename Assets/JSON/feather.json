@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.footballaddicts.livescoreaddicts",
     "com.comcsoft.iNetTools",
     "com.behindtechlines.HTTPBot",
     "ru.routes.peakvisor",
-    "com.sfun.snapedit",
-    "com.kinemaster.kios"
+    "com.sfun.snapedit"
   ],
   "apps": [
     {
@@ -25413,14 +25413,14 @@
       "bundleIdentifier": "com.footballaddicts.livescoreaddicts",
       "developerName": "Forza Football AB",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "7.0.5",
-      "versionDate": "2026-07-04",
+      "version": "7.0.6",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Forza Football - Live Scores-v7.0.5-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Forza Football - Live Scores-v7.0.6-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nForza Football - Live Scores\n\n---\nThe complete soccer app! Live scores, the fastest push notifications and video highlights during the game. We have the best soccer coverage for more than 1450 leagues and cups around the world.\n\nKey features:\n\nLIVE UPDATES FROM 1450+ COMPETITIONS\n• Event feed with goals, cards, substitutions, VAR events and more\n• World’s best coverage of women’s soccer\n• Live updates of league tables and playoff trees\n\nBLAZING FAST PUSH NOTIFICATIONS\n• With our own push notification system, we send score pushes",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/83/f9/5c83f9ba-dd12-70f7-de0b-f3a3165b7a93/icon_default-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 136043586,
+      "size": 136094410,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/91/70/dd9170a0-0f44-5dbf-ae42-ca08931b74f1/iPhones__5.5-01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/fe/0d/44fe0d70-d95e-0e29-20ba-6d7b19f55ea1/iPhones__5.5-02.png/392x696bb.png",
@@ -25446,11 +25446,11 @@
       },
       "versions": [
         {
-          "version": "7.0.5",
-          "date": "2026-07-04",
+          "version": "7.0.6",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Forza Football - Live Scores-v7.0.5-riftysipas.ipa",
-          "size": 136043586
+          "downloadURL": "https://telos.ftp.sh/ipas/Forza Football - Live Scores-v7.0.6-riftysipas.ipa",
+          "size": 136094410
         }
       ],
       "category": "sports"
