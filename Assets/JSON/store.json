@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.stebtech.lingora",
+    "com.book.summaries.reading",
+    "com.linguee.DeepLMobileTranslator",
     "com.uqxuwtxbbu.parkingjam",
-    "com.astrio.Sofa",
-    "com.locket.Locket",
-    "com.soundscape.music",
-    "app.monelyze.ToDo"
+    "com.astrio.Sofa"
   ],
   "apps": [
     {
@@ -16464,14 +16464,14 @@
       "bundleIdentifier": "com.linguee.DeepLMobileTranslator",
       "developerName": "DeepL SE",
       "subtitle": "DeepL for iOS",
-      "version": "24.4",
-      "versionDate": "2026-01-02",
-      "versionDescription": "Source: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/DeepL_24.4_decrypted.ipa",
-      "localizedDescription": "for ios16.2\n\n---\n\n- Real-time camera translation: point your camera at text to instantly translate what you see\n- Photo translation: translate text in taken or imported photos\n- Dictation: translate what you speak out loud\n- Text to speech: hear your translated text read out loud\n- File translation: translate text from files\n- Quick detection: translations begin as you type\n- Alternative translations: explore different options for single words and short phrases\n- Favorites: save words and phrases for future refer",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/80/26/e580268b-361f-ea76-ae34-173da103e4a2/LiquidGlass-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "version": "26.40",
+      "versionDate": "2026-07-10",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.linguee.DeepLMobileTranslator-26.40-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/bd/e2/3abde251-2a75-f5f6-a40a-ade3d7bd45e5/LiquidGlass-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 29729542,
+      "size": 81410626,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -16483,11 +16483,11 @@
       },
       "versions": [
         {
-          "version": "24.4",
-          "date": "2026-01-02",
-          "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/DeepL_24.4_decrypted.ipa",
-          "size": 29729542
+          "version": "26.40",
+          "date": "2026-07-07",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.linguee.DeepLMobileTranslator-26.40-eeveedecrypter.ipa",
+          "size": 81410626
         }
       ],
       "category": "reference"
@@ -28038,14 +28038,14 @@
       "bundleIdentifier": "com.book.summaries.reading",
       "developerName": "Enerjoy Pte. Ltd.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "1.3.1",
-      "versionDate": "2026-07-01",
+      "version": "1.3.2",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: GrowMe, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/GrowMe_Micro_Learning_Daily_v1_3_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/GrowMe_Micro_Learning_Daily_v1_3_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nGrowMe: Micro Learning Daily",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/11/26/5e1126e6-1b90-f693-42e9-3753b95d284a/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 79722561,
+      "size": 80250132,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -28063,11 +28063,11 @@
       },
       "versions": [
         {
-          "version": "1.3.1",
-          "date": "2026-07-01",
+          "version": "1.3.2",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: GrowMe, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/GrowMe_Micro_Learning_Daily_v1_3_1_Subscription_Unlocked_blatant.ipa",
-          "size": 79722561
+          "downloadURL": "https://telos.ftp.sh/ipas/GrowMe_Micro_Learning_Daily_v1_3_2_Subscription_Unlocked_blatant.ipa",
+          "size": 80250132
         }
       ],
       "category": "education"
@@ -37516,14 +37516,14 @@
       "bundleIdentifier": "com.stebtech.lingora",
       "developerName": "Alexander Stebner",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "6.0.9",
-      "versionDate": "2026-06-14",
+      "version": "6.1.1",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lingora-v6.0.9-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lingora-v6.1.1-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nLingora",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/f6/54/36f65429-2a40-8326-4938-a57c700cdda4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/f9/dd/33f9ddb4-56be-ce0c-84ef-97c117cb02f6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 37376871,
+      "size": 43552418,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/73/36/55733630-1c64-126b-a2d2-2470cec990c2/5f078a28-68c1-4cf7-a4f0-392925c60c1c_iPhone_5.5__U00231.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/f0/50/6ef0501a-2d87-5cbe-7bd2-2294bc348cae/d91ed897-efb1-4c89-9ea8-b1151ca2ec0e_iPhone_5.5__U00232.jpg/392x696bb.jpg",
@@ -37544,11 +37544,11 @@
       },
       "versions": [
         {
-          "version": "6.0.9",
-          "date": "2026-06-14",
+          "version": "6.1.1",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lingora-v6.0.9-riftysipas.ipa",
-          "size": 37376871
+          "downloadURL": "https://telos.ftp.sh/ipas/Lingora-v6.1.1-riftysipas.ipa",
+          "size": 43552418
         }
       ],
       "category": "education"
@@ -81124,7 +81124,7 @@
     {
       "title": "⚙️ Telos Update 7.10",
       "identifier": "telos-update-2026-07-10",
-      "caption": "82 Apps Updated:\n• 11 Health & Fitness\n• 10 Utilities\n• 8 Lifestyle\n• 8 Games\n• 8 Photo & Video\n• 6 Education\n• 6 Productivity\n• 6 Social Networking\n• 4 Developer Tools\n• 4 Sports\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Business\n• 2 Music\n• 2 Reference\n• 1 Finance",
+      "caption": "88 Apps Updated:\n• 14 Education\n• 11 Health & Fitness\n• 10 Utilities\n• 8 Lifestyle\n• 8 Photo & Video\n• 6 Games\n• 6 Reference\n• 4 Developer Tools\n• 4 Sports\n• 4 Productivity\n• 4 Social Networking\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Business\n• 2 Music\n• 1 Finance",
       "date": "2026-07-10",
       "tintColor": "#02433b",
       "notify": true,
