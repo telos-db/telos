@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.footballaddicts.livescoreaddicts",
     "com.comcsoft.iNetTools",
     "com.behindtechlines.HTTPBot",
     "ru.routes.peakvisor",
-    "com.sfun.snapedit",
-    "com.kinemaster.kios"
+    "com.sfun.snapedit"
   ],
   "apps": [
     {
@@ -25149,14 +25149,14 @@
       "bundleIdentifier": "com.footballaddicts.livescoreaddicts",
       "developerName": "Forza Football AB",
       "subtitle": "*Tweak:** Legend Unlocked | *Patched ✓**",
-      "version": "7.0.5",
-      "versionDate": "2026-07-04",
+      "version": "7.0.6",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Forza Football - Live Scores-v7.0.5-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Forza Football - Live Scores-v7.0.6-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Legend Unlocked | *Patched ✓**\n\nForza Football - Live Scores",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/83/f9/5c83f9ba-dd12-70f7-de0b-f3a3165b7a93/icon_default-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 136043586,
+      "size": 136094410,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/91/70/dd9170a0-0f44-5dbf-ae42-ca08931b74f1/iPhones__5.5-01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/fe/0d/44fe0d70-d95e-0e29-20ba-6d7b19f55ea1/iPhones__5.5-02.png/392x696bb.png",
@@ -25182,11 +25182,11 @@
       },
       "versions": [
         {
-          "version": "7.0.5",
-          "date": "2026-07-04",
+          "version": "7.0.6",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Forza Football - Live Scores-v7.0.5-riftysipas.ipa",
-          "size": 136043586
+          "downloadURL": "https://telos.ftp.sh/ipas/Forza Football - Live Scores-v7.0.6-riftysipas.ipa",
+          "size": 136094410
         }
       ],
       "category": "sports"
@@ -81122,7 +81122,7 @@
     {
       "title": "⚙️ Telos Update 7.10",
       "identifier": "telos-update-2026-07-10",
-      "caption": "26 Apps Updated:\n• 4 Games\n• 4 Utilities\n• 4 Photo & Video\n• 3 Health & Fitness\n• 2 Lifestyle\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Developer Tools\n• 2 Sports\n• 1 Finance",
+      "caption": "30 Apps Updated:\n• 6 Sports\n• 4 Games\n• 4 Utilities\n• 4 Photo & Video\n• 3 Health & Fitness\n• 2 Lifestyle\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Developer Tools\n• 1 Finance",
       "date": "2026-07-10",
       "tintColor": "#02433b",
       "notify": true,
