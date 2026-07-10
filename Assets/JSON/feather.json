@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "alexgerrese.summarize",
+    "com.podfactor.pod",
+    "com.reddit.Reddit",
     "com.stebtech.lingora",
-    "com.book.summaries.reading",
-    "com.linguee.DeepLMobileTranslator",
-    "com.uqxuwtxbbu.parkingjam",
-    "com.astrio.Sofa"
+    "com.book.summaries.reading"
   ],
   "apps": [
     {
@@ -8597,14 +8597,14 @@
       "bundleIdentifier": "alexgerrese.summarize",
       "developerName": "Alexander Gerrese",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.18.16",
-      "versionDate": "2026-06-25",
+      "version": "2.18.17",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.16-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.17-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nBookshelf: Book Tracker & List\n\n---\nBookshelf helps you track your books, build a lasting reading habit, and better remember what you read—now with powerful AI-powered discovery tools to help you find your next great read!\n\nAdd books you’ve read, books you’re reading, and books you want to read. Improve your reading habits with insightful stats and trend reports. Stay motivated with reading goals, streaks, and reminders. Remember what you read by writing and reviewing notes and quotes.\n\nBUILD YOUR LIBRARY\n• Import & Sync – Import",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/7b/7a/877b7ab7-f559-1e4d-f6ef-5c3722b095f8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/59/70/ce59708f-fb34-6b36-4185-7225a1d72aa7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 216265466,
+      "size": 216234365,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/cf/21/5dcf213b-7b2b-4ac0-8bc6-e5769a920297/3e9745fe-1e7e-4f77-a711-fa39b1e5dee0_Screenshot_1_Copy_157.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/ef/d3/9fefd3f0-0c53-888f-5475-e6db01a1fe19/7ec16261-ed2f-4340-8929-e09991a76be6_Screenshot_1_Copy_160.jpg/576x768bb.jpg",
@@ -8628,11 +8628,11 @@
       },
       "versions": [
         {
-          "version": "2.18.16",
-          "date": "2026-06-25",
+          "version": "2.18.17",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.16-riftysipas.ipa",
-          "size": 216265466
+          "downloadURL": "https://telos.ftp.sh/ipas/Bookshelf: Book Tracker & List-v2.18.17-riftysipas.ipa",
+          "size": 216234365
         }
       ],
       "category": "books"
@@ -44112,14 +44112,14 @@
       "bundleIdentifier": "com.podfactor.pod",
       "developerName": "BUCKET LIST LABS S.L.",
       "subtitle": "Tweaked with MyCalendar, blatantsPatch",
-      "version": "2.106.3",
-      "versionDate": "2026-06-30",
+      "version": "2.106.4",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: MyCalendar, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Calendar_·_Planner_&_Reminders_v2_106_3_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MyCalendar, blatantsPatch\n\nCalendar · Planner & Reminders\n\n---\nThis is the simple, thoughtful app pushing the boundaries of what you expect from your calendar:\n\n- Intuitive, beautiful views of days and months\n- A single, unified view of events and reminders\n- Powerful natural language entry to quickly add events\n- History and context with any contact you're meeting\n- Supports all major calendars: Google, Exchange, iCloud, and more\n\nSUBSCRIPTIONS\n- You can subscribe for this app to get access premium features\n- Privacy & EULA can be found here :",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/12/e7/2312e7b3-e922-a00f-e745-a423eb055a78/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Calendar_·_Planner_&_Reminders_v2_106_4_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MyCalendar, blatantsPatch\n\nCalendar · Planner & Reminders\n\n---\nDiscover the simple, thoughtful app that is pushing the boundaries of what you expect from your calendar. Designed to organize your daily life with style, it combines an elegant design with incredibly powerful tools:\n\nIntuitive, beautiful views: Seamlessly switch between daily, weekly, and monthly views, all perfectly designed to give you maximum clarity at a glance.\n\nA single, unified view of events and reminders: Stay on top of your schedule with a centralized view where your meetings and to-d",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/ec/a6/72eca614-6ba6-e039-ae43-413d1c701e91/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 27536355,
+      "size": 27457386,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -44138,11 +44138,11 @@
       },
       "versions": [
         {
-          "version": "2.106.3",
-          "date": "2026-06-30",
+          "version": "2.106.4",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: MyCalendar, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Calendar_·_Planner_&_Reminders_v2_106_3_Subscription_Unlocked_blatant.ipa",
-          "size": 27536355
+          "downloadURL": "https://telos.ftp.sh/ipas/Calendar_·_Planner_&_Reminders_v2_106_4_Subscription_Unlocked_blatant.ipa",
+          "size": 27457386
         }
       ],
       "category": "productivity"
@@ -56138,14 +56138,14 @@
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "REDDIT, INC.",
       "subtitle": "Tweaked with CydiaSubstrate, RedditFilter",
-      "version": "2026.26.0",
-      "versionDate": "2026-07-05",
+      "version": "2026.27.1",
+      "versionDate": "2026-07-10",
       "versionDescription": "Tweaks: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.26.0_Jacks_Apps.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nRedditDeluxe 2026.26.0\n\n---\nWelcome to Reddit, the heart of the internet.\n\nReddit is a social network with something for everyone: trending topics, diverse discussions, engaging communities and comment threads.\n\nRedditors have authentic and interesting conversations around all sorts of curated content. You’ll find gaming communities, bloggers, meme-makers, fandoms, travel enthusiasts, support groups, AI forums, news junkies, artists, and creators of all types.\n\nReddit has over 100,000 online communities (forums where membe",
+      "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.27.1_Jacks_Apps.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nRedditDeluxe 2026.27.1\n\n---\nWelcome to Reddit, the heart of the internet.\n\nReddit is a social network with something for everyone: trending topics, diverse discussions, engaging communities and comment threads.\n\nRedditors have authentic and interesting conversations around all sorts of curated content. You’ll find gaming communities, bloggers, meme-makers, fandoms, travel enthusiasts, support groups, AI forums, news junkies, artists, and creators of all types.\n\nReddit has over 100,000 online communities (forums where membe",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a6/0d/e6a60d60-e30f-e9b7-5499-38fc8e294a51/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 146223021,
+      "size": 146470699,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/b1/d4/5ab1d42a-6b46-14e8-0a42-e36651ee36cb/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/29/b6/0b29b650-0ac2-1a8b-fa99-0140c0e95608/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/392x696bb.png",
@@ -56174,11 +56174,11 @@
       },
       "versions": [
         {
-          "version": "2026.26.0",
-          "date": "2026-07-05",
+          "version": "2026.27.1",
+          "date": "2026-07-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.26.0_Jacks_Apps.ipa",
-          "size": 146223021
+          "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.27.1_Jacks_Apps.ipa",
+          "size": 146470699
         }
       ],
       "category": "news"
