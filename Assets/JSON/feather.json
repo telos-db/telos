@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "overlook.fing",
     "alexgerrese.summarize",
     "com.podfactor.pod",
     "com.reddit.Reddit",
-    "com.stebtech.lingora",
-    "com.book.summaries.reading"
+    "com.stebtech.lingora"
   ],
   "apps": [
     {
@@ -23037,14 +23037,14 @@
       "bundleIdentifier": "overlook.fing",
       "developerName": "Fing Limited",
       "subtitle": "Tweaked with CydiaSubstrate, Fing",
-      "version": "12.13.0",
-      "versionDate": "2026-06-18",
+      "version": "12.13.1",
+      "versionDate": "2026-07-11",
       "versionDescription": "Tweaks: CydiaSubstrate, Fing, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fing_Network_Scanner_v12_13_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fing_Network_Scanner_v12_13_1_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Fing, blatantsPatch\n\nFing - Network Scanner\n\n---\nFing has helped millions of users worldwide to understand:\n• Who's on my WiFi\n• Is someone stealing my WiFi and broadband?\n• Have I been hacked? Is my network secure?\n• Are there hidden cameras in the B&B I'm staying in?\n• Why has Netflix started buffering?\n• Is my internet provider giving me the speed I pay for?\n\nFing is the #1 Network Scanner: discovers all the devices connected to your WiFi and identifies them, with our patented technology used by router manufacturers and antivirus companies",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/68/f4/1168f4c7-6be0-5754-c45e-e8d19e4e1280/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/cb/eb/e1cbeb47-c895-9cdc-7f33-9972c703536a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 175140214,
+      "size": 175142107,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/be/cf/41/becf4148-cecf-cd8a-2807-630e71262fc1/f3e629e9-12c2-4ad6-82aa-d107bf818dfe_app_store_phone_55_01_en.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/83/38/53/83385366-50df-ff8e-13aa-7d846467a65b/8c05ee5a-2901-446f-b390-ef99c174d5b9_app_store_phone_55_02_en.png/392x696bb.png",
@@ -23074,11 +23074,11 @@
       },
       "versions": [
         {
-          "version": "12.13.0",
-          "date": "2026-06-18",
+          "version": "12.13.1",
+          "date": "2026-07-11",
           "localizedDescription": "Tweaks: CydiaSubstrate, Fing, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fing_Network_Scanner_v12_13_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 175140214
+          "downloadURL": "https://telos.ftp.sh/ipas/Fing_Network_Scanner_v12_13_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 175142107
         }
       ],
       "category": "productivity"
