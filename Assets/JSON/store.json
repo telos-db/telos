@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.tickettothemoon.video.persona",
+    "com.wellocution.iosapp",
     "com.N2BunpouApp.yuki",
     "mobi.digitalminds.itunerfree",
-    "com.adobe.scan.ios",
-    "gen.tech.keiki.world",
-    "com.google.AIEdgeEloquent"
+    "com.adobe.scan.ios"
   ],
   "apps": [
     {
@@ -8426,14 +8426,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.1.4",
-      "versionDate": "2026-07-10",
+      "version": "4.1.5",
+      "versionDate": "2026-07-11",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_4_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_5_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nBoldVoice: Accent Training",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 143936079,
+      "size": 143941672,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8453,11 +8453,11 @@
       },
       "versions": [
         {
-          "version": "4.1.4",
-          "date": "2026-07-10",
+          "version": "4.1.5",
+          "date": "2026-07-11",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_4_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 143936079
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_5_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 143941672
         }
       ],
       "category": "education"
@@ -49731,15 +49731,15 @@
       "name": "Persona",
       "bundleIdentifier": "com.tickettothemoon.video.persona",
       "developerName": "Ticket To The Moon, Inc.",
-      "subtitle": "Tweaked with RevenueCatFix26",
-      "version": "1.15.42",
-      "versionDate": "2026-07-02",
-      "versionDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Persona VIP 1.15.42.ipa",
-      "localizedDescription": "Persona: Beauty Camera",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/c0/40/2fc040d4-f7ce-f0c0-2743-147d41eb8b54/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+      "subtitle": "*Tweak:** Subscription Unlocked | *Notes:** Restart App If Subscription Isn'T Unlocked",
+      "version": "1.15.44",
+      "versionDate": "2026-07-11",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.44-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Subscription Unlocked | *Notes:** Restart App If Subscription Isn'T Unlocked | *Patched ✓**\n\nPersona: Beauty Camera",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/e7/e9/7fe7e912-061d-6b77-48f2-931d0b4dcda8/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 201825343,
+      "size": 199537467,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/e8/3f/86e83fd9-a8a2-d374-093c-5cf9db87038f/1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/96/ea/5896ea61-9d97-835e-e869-654385f1af2e/5.jpg/392x696bb.jpg",
@@ -49763,11 +49763,11 @@
       },
       "versions": [
         {
-          "version": "1.15.42",
-          "date": "2026-07-02",
-          "localizedDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Persona VIP 1.15.42.ipa",
-          "size": 201825343
+          "version": "1.15.44",
+          "date": "2026-07-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.44-riftysipas.ipa",
+          "size": 199537467
         }
       ],
       "category": "photo-&-video"
@@ -81318,7 +81318,7 @@
     {
       "title": "⚙️ Telos Update 7.11",
       "identifier": "telos-update-2026-07-11",
-      "caption": "44 Apps Updated:\n• 8 Entertainment\n• 6 Photo & Video\n• 6 Education\n• 4 Productivity\n• 4 Health & Fitness\n• 4 Games\n• 2 Finance\n• 2 Graphics & Design\n• 2 Utilities\n• 2 Business\n• 2 Music\n• 2 Lifestyle",
+      "caption": "50 Apps Updated:\n• 10 Photo & Video\n• 8 Entertainment\n• 8 Education\n• 4 Productivity\n• 4 Health & Fitness\n• 4 Games\n• 2 Finance\n• 2 Graphics & Design\n• 2 Utilities\n• 2 Business\n• 2 Music\n• 2 Lifestyle",
       "date": "2026-07-11",
       "tintColor": "#02433b",
       "notify": true,
