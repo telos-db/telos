@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.netflix.ssicapp",
     "com.alightcreative.motion",
     "com.hasankassem.mockup",
     "com.unofficialcalculators.payplan",
-    "overlook.fing",
-    "alexgerrese.summarize"
+    "overlook.fing"
   ],
   "apps": [
     {
@@ -44680,6 +44680,40 @@
         }
       ],
       "category": "productivity"
+    },
+    {
+      "name": "N-Controller",
+      "bundleIdentifier": "com.netflix.ssicapp",
+      "developerName": "Netflix, Inc.",
+      "subtitle": "N-Controller for iOS",
+      "version": "3.9.1",
+      "versionDate": "2026-07-11",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.netflix.ssicapp-3.9.1-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nIt's game time! Play games instantly on Netflix with the Netflix Game Controller. No gadgets or gizmos needed: Once you install this mobile app, you can use your phone or tablet as a controller to play games on TV, or through your computer browser by visiting Netflix.com. Swipe, tap, type, draw and steer right from your phone.\n\nOnce you're set up, the party starts. Plan a group game night to enjoy multiplayer party games with friends and family, or dive into brain-teasing puzzle games and solo a",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/0c/13/b80c1361-221a-5f02-f5fd-a77afec12f97/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 62500432,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Netflix Games Controller uses your camera to scan QR Codes",
+          "NSMicrophoneUsageDescription": "This app uses your microphone for voice features on the controller.",
+          "NSMotionUsageDescription": "Netflix Games Controller uses motion sensors so you can tilt and move your device to control supported games.",
+          "NSSpeechRecognitionUsageDescription": "This app uses speech recognition for voice features on the controller."
+        }
+      },
+      "versions": [
+        {
+          "version": "3.9.1",
+          "date": "2026-07-11",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.netflix.ssicapp-3.9.1-eeveedecrypter.ipa",
+          "size": 62500432
+        }
+      ],
+      "category": "entertainment"
     },
     {
       "name": "NapBot",
