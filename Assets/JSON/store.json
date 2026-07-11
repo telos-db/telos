@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.mojang.minecraftpe",
     "com.maxty.gofitness",
     "com.ahmetserdarkaradeniz.Phocus",
     "com.adobe.PSMobile",
-    "com.netflix.ssicapp",
-    "com.alightcreative.motion"
+    "com.netflix.ssicapp"
   ],
   "apps": [
     {
@@ -41293,49 +41293,6 @@
       "category": "health-&-fitness"
     },
     {
-      "name": "Minecraft",
-      "bundleIdentifier": "com.mojang.minecraftpe",
-      "developerName": "Mojang",
-      "subtitle": "Minecraft for iOS",
-      "version": "1.26.21",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Minecraft_v26.21.ipa",
-      "localizedDescription": "Minecraft for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/81/16/c981164e-410c-7a07-d76b-3a8e4238793b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 628433188,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/47/6f/07476fcd-1ecf-18ca-e7f7-364d6c6cd5e1/pr_source.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/a6/ed/74a6ed67-e5e9-a1ae-3233-225b651d6bf0/pr_source.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/4f/92/be4f92ef-8b4b-94e3-cd78-da32db4193b0/pr_source.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/03/ee/6403eee1-4fbf-6b89-d2ec-6fc410182689/pr_source.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/6b/4e/1f6b4ef1-3ebb-526a-b6fb-a0d1301e30df/b66be1fb-63e6-48ee-b33e-201f6e5229b1_TrailsAndTales_Apple_2208x1242_EN.png/406x228bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images.",
-          "NSCameraUsageDescription": "Used for Live Broadcast",
-          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
-          "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
-          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network. This allows you and others on your local network to play together. Declining this permission does not affect online features or gameplay. But will prevent you and others, on the same network, from playing together.",
-          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency.",
-          "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images."
-        }
-      },
-      "versions": [
-        {
-          "version": "1.26.21",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Minecraft_v26.21.ipa",
-          "size": 628433188
-        }
-      ],
-      "category": "games"
-    },
-    {
       "name": "Minecraft Preview",
       "bundleIdentifier": "com.mojang.minecraftpreview",
       "developerName": "Mojang",
@@ -80836,6 +80793,49 @@
       "category": "games"
     },
     {
+      "name": "我的世界",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "subtitle": "Tweaked with substrate",
+      "version": "1.26.32",
+      "versionDate": "2026-07-11",
+      "versionDescription": "Tweaks: substrate\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/我的世界_1.26.32_彭于晏Crack.ipa",
+      "localizedDescription": "#我的世界 #iOS游戏 #苹果游戏",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/81/16/c981164e-410c-7a07-d76b-3a8e4238793b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 715449092,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/47/6f/07476fcd-1ecf-18ca-e7f7-364d6c6cd5e1/pr_source.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/a6/ed/74a6ed67-e5e9-a1ae-3233-225b651d6bf0/pr_source.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/4f/92/be4f92ef-8b4b-94e3-cd78-da32db4193b0/pr_source.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/03/ee/6403eee1-4fbf-6b89-d2ec-6fc410182689/pr_source.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/6b/4e/1f6b4ef1-3ebb-526a-b6fb-a0d1301e30df/b66be1fb-63e6-48ee-b33e-201f6e5229b1_TrailsAndTales_Apple_2208x1242_EN.png/406x228bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images.",
+          "NSCameraUsageDescription": "Used for Live Broadcast",
+          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
+          "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
+          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network. This allows you and others on your local network to play together. Declining this permission does not affect online features or gameplay. But will prevent you and others, on the same network, from playing together.",
+          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency.",
+          "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.26.32",
+          "date": "2026-07-11",
+          "localizedDescription": "Tweaks: substrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/我的世界_1.26.32_彭于晏Crack.ipa",
+          "size": 715449092
+        }
+      ],
+      "category": "games"
+    },
+    {
       "name": "扫描全能王",
       "bundleIdentifier": "com.intsig.CamScannerLite",
       "developerName": "INTSIG Information Co., Ltd",
@@ -81158,7 +81158,7 @@
     {
       "title": "⚙️ Telos Update 7.11",
       "identifier": "telos-update-2026-07-11",
-      "caption": "16 Apps Updated:\n• 6 Photo & Video\n• 2 Productivity\n• 2 Entertainment\n• 2 Finance\n• 2 Graphics & Design\n• 2 Health & Fitness",
+      "caption": "20 Apps Updated:\n• 6 Photo & Video\n• 4 Games\n• 2 Productivity\n• 2 Entertainment\n• 2 Finance\n• 2 Graphics & Design\n• 2 Health & Fitness",
       "date": "2026-07-11",
       "tintColor": "#02433b",
       "notify": true,
