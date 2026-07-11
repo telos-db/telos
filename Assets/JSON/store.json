@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "overlook.fing",
     "alexgerrese.summarize",
     "com.podfactor.pod",
     "com.reddit.Reddit",
-    "com.stebtech.lingora",
-    "com.book.summaries.reading"
+    "com.stebtech.lingora"
   ],
   "apps": [
     {
@@ -22768,14 +22768,14 @@
       "bundleIdentifier": "overlook.fing",
       "developerName": "Fing Limited",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "12.13.0",
-      "versionDate": "2026-06-18",
+      "version": "12.13.1",
+      "versionDate": "2026-07-11",
       "versionDescription": "Tweaks: CydiaSubstrate, Fing, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fing_Network_Scanner_v12_13_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fing_Network_Scanner_v12_13_1_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFing - Network Scanner",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/68/f4/1168f4c7-6be0-5754-c45e-e8d19e4e1280/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/cb/eb/e1cbeb47-c895-9cdc-7f33-9972c703536a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 175140214,
+      "size": 175142107,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/be/cf/41/becf4148-cecf-cd8a-2807-630e71262fc1/f3e629e9-12c2-4ad6-82aa-d107bf818dfe_app_store_phone_55_01_en.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/83/38/53/83385366-50df-ff8e-13aa-7d846467a65b/8c05ee5a-2901-446f-b390-ef99c174d5b9_app_store_phone_55_02_en.png/392x696bb.png",
@@ -22805,11 +22805,11 @@
       },
       "versions": [
         {
-          "version": "12.13.0",
-          "date": "2026-06-18",
+          "version": "12.13.1",
+          "date": "2026-07-11",
           "localizedDescription": "Tweaks: CydiaSubstrate, Fing, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fing_Network_Scanner_v12_13_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 175140214
+          "downloadURL": "https://telos.ftp.sh/ipas/Fing_Network_Scanner_v12_13_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 175142107
         }
       ],
       "category": "productivity"
@@ -81122,11 +81122,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 7.11",
+      "identifier": "telos-update-2026-07-11",
+      "caption": "4 Apps Updated:\n• 4 Productivity",
+      "date": "2026-07-11",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "overlook.fing"
+    },
+    {
       "title": "⚙️ Telos Update 7.10",
       "identifier": "telos-update-2026-07-10",
       "caption": "88 Apps Updated:\n• 11 Health & Fitness\n• 10 Utilities\n• 10 Education\n• 8 Lifestyle\n• 8 Photo & Video\n• 6 Games\n• 6 Productivity\n• 4 Developer Tools\n• 4 Sports\n• 4 Reference\n• 4 Social Networking\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Business\n• 2 Music\n• 2 News\n• 2 Books\n• 1 Finance",
       "date": "2026-07-10",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.tuya.smartlife"
     },
@@ -81135,7 +81144,7 @@
       "identifier": "telos-update-2026-07-09",
       "caption": "76 Apps Updated:\n• 26 Photo & Video\n• 17 Health & Fitness\n• 10 Entertainment\n• 4 Medical\n• 4 Education\n• 4 Lifestyle\n• 4 Music\n• 2 Games\n• 2 Productivity\n• 2 Navigation\n• 1 Finance",
       "date": "2026-07-09",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.sublime.capture"
     },
@@ -81144,7 +81153,7 @@
       "identifier": "telos-update-2026-07-08",
       "caption": "84 Apps Updated:\n• 20 Photo & Video\n• 10 Games\n• 10 Health & Fitness\n• 6 Productivity\n• 6 Travel\n• 4 Education\n• 4 Utilities\n• 4 Lifestyle\n• 4 Navigation\n• 4 News\n• 2 Food & Drink\n• 2 Graphics & Design\n• 2 Weather\n• 2 Music\n• 2 Finance\n• 2 Business",
       "date": "2026-07-08",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.identification.plant"
     },
@@ -81153,7 +81162,7 @@
       "identifier": "telos-update-2026-07-07",
       "caption": "108 Apps Updated:\n• 22 Health & Fitness\n• 16 Photo & Video\n• 14 Productivity\n• 10 Lifestyle\n• 6 Entertainment\n• 6 Music\n• 4 Developer Tools\n• 4 Business\n• 4 Utilities\n• 4 Games\n• 4 Food & Drink\n• 2 Weather\n• 2 Books\n• 2 Graphics & Design\n• 2 Finance\n• 2 Sports\n• 2 Navigation\n• 2 Education",
       "date": "2026-07-07",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "nz.co.petesmith.moonphasefree"
     },
@@ -81162,7 +81171,7 @@
       "identifier": "telos-update-2026-07-06",
       "caption": "134 Apps Updated:\n• 32 Health & Fitness\n• 30 Photo & Video\n• 18 Productivity\n• 12 Education\n• 6 Music\n• 6 Lifestyle\n• 4 Utilities\n• 4 Social Networking\n• 2 Books\n• 2 Graphics & Design\n• 2 Weather\n• 2 Travel\n• 2 Business\n• 2 Finance\n• 2 News\n• 2 Food & Drink\n• 2 Sports\n• 2 Entertainment\n• 2 Navigation",
       "date": "2026-07-06",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "app.justRead.justRead"
     },
@@ -81171,7 +81180,7 @@
       "identifier": "telos-update-2026-07-05",
       "caption": "56 Apps Updated:\n• 14 Photo & Video\n• 8 Education\n• 6 Music\n• 6 Lifestyle\n• 4 Utilities\n• 2 News\n• 2 Finance\n• 2 Productivity\n• 2 Health & Fitness\n• 2 Graphics & Design\n• 2 Food & Drink\n• 2 Travel\n• 2 Games\n• 2 Reference",
       "date": "2026-07-05",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.joytunes.Sing"
     },
@@ -81180,7 +81189,7 @@
       "identifier": "telos-update-2026-07-04",
       "caption": "66 Apps Updated:\n• 14 Health & Fitness\n• 12 Photo & Video\n• 8 Social Networking\n• 8 Business\n• 4 Entertainment\n• 4 Medical\n• 4 Education\n• 4 Music\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Travel",
       "date": "2026-07-04",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.mangacrush.ios"
     },
@@ -81189,7 +81198,7 @@
       "identifier": "telos-update-2026-07-03",
       "caption": "74 Apps Updated:\n• 20 Photo & Video\n• 12 Health & Fitness\n• 10 Utilities\n• 6 Lifestyle\n• 6 Games\n• 4 Productivity\n• 4 Music\n• 4 Education\n• 2 Graphics & Design\n• 2 Weather\n• 2 Entertainment\n• 2 Social Networking",
       "date": "2026-07-03",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.genau.JournalCircle"
     },
@@ -81198,18 +81207,9 @@
       "identifier": "telos-update-2026-07-02",
       "caption": "101 Apps Updated:\n• 25 Photo & Video\n• 15 Health & Fitness\n• 12 Games\n• 9 Lifestyle\n• 8 Medical\n• 5 Music\n• 4 Food & Drink\n• 4 Navigation\n• 4 Shopping\n• 3 Productivity\n• 2 Books\n• 2 Finance\n• 2 Utilities\n• 2 Sports\n• 2 Education\n• 2 Entertainment",
       "date": "2026-07-02",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "health.sleep.sounds.tracker.alarm.calm"
-    },
-    {
-      "title": "⚙️ Telos Update 7.1",
-      "identifier": "telos-update-2026-07-01",
-      "caption": "151 Apps Updated:\n• 29 Health & Fitness\n• 23 Photo & Video\n• 14 Games\n• 12 Education\n• 10 Utilities\n• 9 Productivity\n• 8 Entertainment\n• 7 Music\n• 5 Lifestyle\n• 4 Developer Tools\n• 4 Finance\n• 4 Travel\n• 4 Social Networking\n• 4 Food & Drink\n• 2 Business\n• 2 Medical\n• 2 Graphics & Design\n• 2 Weather\n• 2 Navigation\n• 2 Sports\n• 2 News",
-      "date": "2026-07-01",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "co.vulcanlabs.moodtracker"
+      "appID": "health.sleep.sounds.tracker.alarm.calm"
     }
   ]
 }
