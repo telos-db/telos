@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.unofficialcalculators.payplan",
     "overlook.fing",
     "alexgerrese.summarize",
     "com.podfactor.pod",
-    "com.reddit.Reddit",
-    "com.stebtech.lingora"
+    "com.reddit.Reddit"
   ],
   "apps": [
     {
@@ -7451,14 +7451,14 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.2.1",
-      "versionDate": "2026-07-08",
+      "version": "4.2.2",
+      "versionDate": "2026-07-11",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nBill Tracker Pro\n\n---\nBill Tracker Pro is the #1 app for tracking bills, income, and spending. Connect your bank, create a budget, track your cash flow, and take control of your finances.\n\nNew in Bill Tracker Pro:\n\nBank Sync with Plaid – Connect your accounts to sync transactions automatically.\n\nKnow What’s Safe to Spend – See your real-time spending power after upcoming bills.\n\nNever Miss a Bill – Set reminders, view your upcoming bills at a glance, and stay organized with widgets.\n\nFind Hidden Subscriptions – Uncov",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/61/b5/8a61b500-b5a9-ea91-7776-d63a1d2d9a18/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 148515754,
+      "size": 155439424,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/df/72/1cdf72bb-1d54-7a27-d6e4-e54ef4151c21/pr_source.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/ab/2c/f4ab2cef-41bd-f2bf-2980-f7910d3d3dd8/pr_source.png/552x414bb.png",
@@ -7487,11 +7487,11 @@
       },
       "versions": [
         {
-          "version": "4.2.1",
-          "date": "2026-07-08",
+          "version": "4.2.2",
+          "date": "2026-07-11",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.1-riftysipas.ipa",
-          "size": 148515754
+          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.2-riftysipas.ipa",
+          "size": 155439424
         }
       ],
       "category": "finance"
