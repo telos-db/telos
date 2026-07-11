@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.vertventures.stella",
+    "com.ideation.Stress",
     "org.quiche.Browser",
     "com.nuvio.media",
-    "com.budgestudios.Everrun",
-    "com.blitwise.ptankshd",
-    "com.mojang.minecraftpe"
+    "com.budgestudios.Everrun"
   ],
   "apps": [
     {
@@ -5194,14 +5194,14 @@
       "bundleIdentifier": "com.vertventures.stella",
       "developerName": "Vert Ventures",
       "subtitle": "*Tweak:** Subscription Unlocked | *Notes:** Press Restore If Subscription Isn'T Unlocked",
-      "version": "3.12.32",
-      "versionDate": "2026-07-07",
+      "version": "3.12.35",
+      "versionDate": "2026-07-11",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.32-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.35-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Notes:** Press Restore If Subscription Isn'T Unlocked | *Patched ✓**\n\nAstra - Life Advice",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/c4/8f/78c48fc1-5326-a437-dc9a-4dd70dc0611f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 79982534,
+      "size": 79835120,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/d5/e2/6bd5e202-c048-b4cb-712b-af6417ff5b55/2fe2b2a5-46d8-4e8f-bc0b-77a923776e42_Frame_832.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/70/54/6a705462-1826-1556-7c33-714f49e9f94a/b86cb528-6044-44eb-9a6a-d61ab51ec09a_Frame_822.jpg/392x696bb.jpg",
@@ -5226,11 +5226,11 @@
       },
       "versions": [
         {
-          "version": "3.12.32",
-          "date": "2026-07-07",
+          "version": "3.12.35",
+          "date": "2026-07-11",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.32-riftysipas.ipa",
-          "size": 79982534
+          "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.35-riftysipas.ipa",
+          "size": 79835120
         }
       ],
       "category": "lifestyle"
@@ -65903,14 +65903,14 @@
       "bundleIdentifier": "com.ideation.Stress",
       "developerName": "One Hundred Bad Ideas Limited",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "3.2.1",
-      "versionDate": "2026-07-04",
+      "version": "3.2.2",
+      "versionDate": "2026-07-11",
       "versionDescription": "Tweaks: StressWatch, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/StressWatch_AI_Stress_Monitor_v3_2_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/StressWatch_AI_Stress_Monitor_v3_2_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nStressWatch: AI Stress Monitor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/05/c9/3305c94b-b235-74bb-d7c9-951ae2fe5fc0/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 353812638,
+      "size": 353812172,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -65935,11 +65935,11 @@
       },
       "versions": [
         {
-          "version": "3.2.1",
-          "date": "2026-07-04",
+          "version": "3.2.2",
+          "date": "2026-07-11",
           "localizedDescription": "Tweaks: StressWatch, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/StressWatch_AI_Stress_Monitor_v3_2_1_Subscription_Unlocked_blatant.ipa",
-          "size": 353812638
+          "downloadURL": "https://telos.ftp.sh/ipas/StressWatch_AI_Stress_Monitor_v3_2_2_Subscription_Unlocked_blatant.ipa",
+          "size": 353812172
         }
       ],
       "category": "health-&-fitness"
@@ -81243,7 +81243,7 @@
     {
       "title": "⚙️ Telos Update 7.11",
       "identifier": "telos-update-2026-07-11",
-      "caption": "30 Apps Updated:\n• 8 Entertainment\n• 6 Photo & Video\n• 4 Games\n• 4 Utilities\n• 2 Productivity\n• 2 Finance\n• 2 Graphics & Design\n• 2 Health & Fitness",
+      "caption": "36 Apps Updated:\n• 8 Entertainment\n• 6 Photo & Video\n• 6 Health & Fitness\n• 4 Games\n• 4 Lifestyle\n• 2 Productivity\n• 2 Finance\n• 2 Graphics & Design\n• 2 Utilities",
       "date": "2026-07-11",
       "tintColor": "#02433b",
       "notify": true,
