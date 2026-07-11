@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.budgestudios.Everrun",
+    "com.blitwise.ptankshd",
     "com.mojang.minecraftpe",
     "com.maxty.gofitness",
-    "com.ahmetserdarkaradeniz.Phocus",
-    "com.adobe.PSMobile",
-    "com.netflix.ssicapp"
+    "com.ahmetserdarkaradeniz.Phocus"
   ],
   "apps": [
     {
@@ -20952,6 +20952,49 @@
           "localizedDescription": "Tweaks: CachefixPatch, EverpixWallpapersForIPhonePatch, Sideloadbypass1, Sideloadbypass2, substrate\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://telos.ftp.sh/ipas/Everpix.ipa",
           "size": 60689420
+        }
+      ],
+      "category": "entertainment"
+    },
+    {
+      "name": "EverRun",
+      "bundleIdentifier": "com.budgestudios.Everrun",
+      "developerName": "Budge Studios",
+      "subtitle": "EverRun for iOS",
+      "version": "2026.1.0",
+      "versionDate": "2026-07-11",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.budgestudios.Everrun-2026.1.0-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nBrush, feed, take care of your horses and decorate each of their stables with divine decorations! Run far and fast across magnificent lands to recover and return to the Everbloom Tree all of its lost magical petals. Assemble the ten legendary Horse Guardians of Everbloom and join them on the most magical adventure to save their forest! Fun Endless racing horse games!\n\nAN EPIC ENDLESS RUNNER ADVENTURE HORSE GAME\n• RUN with 10 Horse Guardians, each with their own mystical personality!\n• EXPLORE th",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/25/da/0e25da78-7b41-cb4c-fe08-cd697cfc4aae/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 259166826,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/37/94/9c3794b6-4c2d-045e-1288-12afcff79618/c74a4332-a759-4504-881c-d6c4ed20e660_EVR_Screenshot_ABTEST_iPhone_4.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/95/8d/c8958d46-18e7-baee-7c74-599b0ade062d/e24d7d69-fce8-401e-987d-47de2e89f1c9_EVR_Screenshot_ABTEST_iPhone_3.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/be/af/88beaf9d-cab4-91a9-c290-918d41f3856a/d9af7ef7-26fc-4e9d-86c7-114e635d3171_EVR_Screenshot_ABTEST_iPhone_1.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/82/3f/24823f40-1a98-f448-d230-562bc48a5c9d/934b2fb2-facd-4078-85bc-93df36a61b1b_EVR_Screenshot_ABTEST_iPhone_2.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/79/60/187960f7-3cec-1386-6e36-90d7151020e0/ba42f16f-b983-404f-a8e7-c203dc624894_EVR_Screenshot_ABTEST_iPhone_5.jpg/406x228bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This app uses your Photo Library to enhance the gameplay experience.",
+          "NSCameraUsageDescription": "This app uses the Camera to enhance the gameplay experience.",
+          "NSMicrophoneUsageDescription": "This app uses the Microphone to enhance the gameplay experience.",
+          "NSLocationWhenInUseUsageDescription": "This app uses your Location to enhance the gameplay experience.",
+          "NSLocationAlwaysUsageDescription": "This app uses your Location at all times to enhance the gameplay experience.",
+          "NSContactsUsageDescription": "This app uses your Contacts to enhance the gameplay experience.",
+          "NSPhotoLibraryAddUsageDescription": "This app uses your Photo Library to enhance the gameplay experience."
+        }
+      },
+      "versions": [
+        {
+          "version": "2026.1.0",
+          "date": "2026-07-11",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.budgestudios.Everrun-2026.1.0-eeveedecrypter.ipa",
+          "size": 259166826
         }
       ],
       "category": "entertainment"
@@ -52916,6 +52959,48 @@
           "localizedDescription": "Tweaks: Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, zxPluginsInject\n\nSource: @thescholarslounge",
           "downloadURL": "https://telos.ftp.sh/ipas/PocketCity2_1.085-Billieve.ipa",
           "size": 132214370
+        }
+      ],
+      "category": "games"
+    },
+    {
+      "name": "Pocket Tanks",
+      "bundleIdentifier": "com.blitwise.ptankshd",
+      "developerName": "Blitwise Productions, LLC",
+      "subtitle": "Pocket Tanks for iOS",
+      "version": "3.0.0",
+      "versionDate": "2026-07-11",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.blitwise.ptankshd-3.0.0-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\n\"The Ultimate One-on-One Artillery Game\" – Now with cross-platform WiFi and Online Play!\n\nPocket Tanks is the fast-paced artillery game that is simple to learn, and fun to master. The perfect quick game for friends and family, you'll find yourself hooked for hours of play! Bury your opponent in a mound of dirt, or assail him with a barrage of bullets. Visit the Weapon Shop before battle to arm yourself for the struggle, or try the Target Practice mode to learn all the weapons and the best tactic",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/98/e8/e398e829-3b84-ad37-73fe-b9f3c07bd1ea/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 62359839,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/6c/89/956c89be-25d0-83d0-271e-44da59843aae/mzl.qktdbvdr.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/bd/37/83bd3767-b755-09af-5319-81dbb8a85bfc/mzl.brmnnoqg.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/5c/15/bc5c1505-37fc-4fbb-b0d1-3d5aaec25501/mzl.fjzjiypl.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/bd/a1/64bda1de-2fff-7a3d-2a8d-88468cd1d330/mzl.pbmldxkg.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/96/dd/d996dd16-796c-14d8-276c-18e9944ebf40/mzl.qafmmaay.png/406x228bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Pocket Tanks uses your Photo Library to save the screenshot you just made.",
+          "NSLocationWhenInUseUsageDescription": "Pocket Tanks does not and will not request or use your location data.",
+          "NSLocationAlwaysUsageDescription": "Pocket Tanks does not and will not request or use your location data.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Pocket Tanks does not and will not request or use your location data.",
+          "NSLocalNetworkUsageDescription": "Pocket Tanks accesses your local network to find nearby players in the WiFi Lobby.",
+          "NSPhotoLibraryAddUsageDescription": "Pocket Tanks uses your Photo Library to save the screenshot you just made."
+        }
+      },
+      "versions": [
+        {
+          "version": "3.0.0",
+          "date": "2026-07-11",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.blitwise.ptankshd-3.0.0-eeveedecrypter.ipa",
+          "size": 62359839
         }
       ],
       "category": "games"
