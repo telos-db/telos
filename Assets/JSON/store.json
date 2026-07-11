@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "org.quiche.Browser",
     "com.nuvio.media",
     "com.budgestudios.Everrun",
     "com.blitwise.ptankshd",
-    "com.mojang.minecraftpe",
-    "com.maxty.gofitness"
+    "com.mojang.minecraftpe"
   ],
   "apps": [
     {
@@ -54768,14 +54768,14 @@
       "bundleIdentifier": "org.quiche.Browser",
       "developerName": "Gregory de Jonckheere",
       "subtitle": "*Tweak:** Plus Unlocked | *Patched ✓**",
-      "version": "1.70.1",
-      "versionDate": "2026-07-10",
+      "version": "1.70.2",
+      "versionDate": "2026-07-11",
       "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autorc, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Quiche Browser-v1.70.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Quiche Browser-v1.70.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Plus Unlocked | *Patched ✓**\n\nQuiche Browser",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/6c/fb/df6cfb92-287a-0984-fe42-b0c5c73323af/AppIcon-Series6-1-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 87843699,
+      "size": 87844179,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -54792,11 +54792,11 @@
       },
       "versions": [
         {
-          "version": "1.70.1",
-          "date": "2026-07-10",
+          "version": "1.70.2",
+          "date": "2026-07-11",
           "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autorc, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Quiche Browser-v1.70.1-riftysipas.ipa",
-          "size": 87843699
+          "downloadURL": "https://telos.ftp.sh/ipas/Quiche Browser-v1.70.2-riftysipas.ipa",
+          "size": 87844179
         }
       ],
       "category": "utilities"
@@ -81243,7 +81243,7 @@
     {
       "title": "⚙️ Telos Update 7.11",
       "identifier": "telos-update-2026-07-11",
-      "caption": "26 Apps Updated:\n• 8 Entertainment\n• 6 Photo & Video\n• 4 Games\n• 2 Productivity\n• 2 Finance\n• 2 Graphics & Design\n• 2 Health & Fitness",
+      "caption": "30 Apps Updated:\n• 8 Entertainment\n• 6 Photo & Video\n• 4 Games\n• 4 Utilities\n• 2 Productivity\n• 2 Finance\n• 2 Graphics & Design\n• 2 Health & Fitness",
       "date": "2026-07-11",
       "tintColor": "#02433b",
       "notify": true,
