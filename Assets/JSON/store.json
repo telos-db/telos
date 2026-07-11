@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "mobi.digitalminds.itunerfree",
     "com.adobe.scan.ios",
     "gen.tech.keiki.world",
     "com.google.AIEdgeEloquent",
-    "com.vertventures.stella",
-    "com.ideation.Stress"
+    "com.vertventures.stella"
   ],
   "apps": [
     {
@@ -44190,14 +44190,14 @@
       "bundleIdentifier": "mobi.digitalminds.itunerfree",
       "developerName": "Appgeneration Software",
       "subtitle": "*Tweak:** Subscription Unlocked | *Notes:** Restart App If Subscription Isn'T Unlocked",
-      "version": "10.1.5",
-      "versionDate": "2026-06-16",
+      "version": "10.2",
+      "versionDate": "2026-07-11",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/myTuner Radio - Live Stations-v10.1.5-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/myTuner Radio - Live Stations-v10.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Notes:** Restart App If Subscription Isn'T Unlocked | *Patched ✓** | *Bundle Id:** Mobi.Digitalminds.Itunerfree\n\nmyTuner Radio - Live Stations",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/b2/b5/feb2b521-ee5e-26b0-9eaa-73c5a038de39/AppIconFree-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/7c/db/947cdb87-c42f-af6c-7a20-6e342bc932e7/AppIconFree-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 90147665,
+      "size": 93335721,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cb/f2/15/cbf215dd-5ff8-2bdd-0f4b-d0da166b6750/093f5ef4-618a-4347-ad48-d65354320217_a_5.5_copy_3.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d2/81/b3/d281b3a4-6c17-0ee7-0934-393870f1f4fa/3a712fc9-ee03-42f0-b3be-06a677a97d83_b_5.5_copy_3.jpg/392x696bb.jpg",
@@ -44232,11 +44232,11 @@
       },
       "versions": [
         {
-          "version": "10.1.5",
-          "date": "2026-06-16",
+          "version": "10.2",
+          "date": "2026-07-11",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/myTuner Radio - Live Stations-v10.1.5-riftysipas.ipa",
-          "size": 90147665
+          "downloadURL": "https://telos.ftp.sh/ipas/myTuner Radio - Live Stations-v10.2-riftysipas.ipa",
+          "size": 93335721
         }
       ],
       "category": "music"
@@ -81318,7 +81318,7 @@
     {
       "title": "⚙️ Telos Update 7.11",
       "identifier": "telos-update-2026-07-11",
-      "caption": "44 Apps Updated:\n• 8 Entertainment\n• 6 Productivity\n• 6 Photo & Video\n• 4 Health & Fitness\n• 4 Games\n• 4 Business\n• 4 Education\n• 2 Finance\n• 2 Graphics & Design\n• 2 Utilities\n• 2 Lifestyle",
+      "caption": "42 Apps Updated:\n• 8 Entertainment\n• 6 Photo & Video\n• 4 Productivity\n• 4 Health & Fitness\n• 4 Games\n• 4 Music\n• 2 Finance\n• 2 Graphics & Design\n• 2 Utilities\n• 2 Business\n• 2 Education\n• 2 Lifestyle",
       "date": "2026-07-11",
       "tintColor": "#02433b",
       "notify": true,
