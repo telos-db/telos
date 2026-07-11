@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.nuvio.media",
     "com.budgestudios.Everrun",
     "com.blitwise.ptankshd",
     "com.mojang.minecraftpe",
-    "com.maxty.gofitness",
-    "com.ahmetserdarkaradeniz.Phocus"
+    "com.maxty.gofitness"
   ],
   "apps": [
     {
@@ -46220,14 +46220,14 @@
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "Muhammed Nayif Rahman",
       "subtitle": "Nuvio for iOS",
-      "version": "0.2.21",
-      "versionDate": "2026-07-09",
+      "version": "0.2.22",
+      "versionDate": "2026-07-11",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.21-Full.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.22-Full.ipa",
       "localizedDescription": "Nuvio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/32/47/2a324755-180b-00cd-ca59-6082ef2ad9c6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 40911351,
+      "size": 41396608,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -46235,11 +46235,11 @@
       },
       "versions": [
         {
-          "version": "0.2.21",
-          "date": "2026-07-09",
+          "version": "0.2.22",
+          "date": "2026-07-11",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.21-Full.ipa",
-          "size": 40911351
+          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.22-Full.ipa",
+          "size": 41396608
         }
       ],
       "category": "entertainment"
@@ -81243,7 +81243,7 @@
     {
       "title": "⚙️ Telos Update 7.11",
       "identifier": "telos-update-2026-07-11",
-      "caption": "26 Apps Updated:\n• 6 Entertainment\n• 6 Photo & Video\n• 6 Games\n• 2 Productivity\n• 2 Finance\n• 2 Graphics & Design\n• 2 Health & Fitness",
+      "caption": "30 Apps Updated:\n• 12 Entertainment\n• 6 Photo & Video\n• 4 Games\n• 2 Productivity\n• 2 Finance\n• 2 Graphics & Design\n• 2 Health & Fitness",
       "date": "2026-07-11",
       "tintColor": "#02433b",
       "notify": true,
