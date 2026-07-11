@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.N2BunpouApp.yuki",
     "mobi.digitalminds.itunerfree",
     "com.adobe.scan.ios",
     "gen.tech.keiki.world",
-    "com.google.AIEdgeEloquent",
-    "com.vertventures.stella"
+    "com.google.AIEdgeEloquent"
   ],
   "apps": [
     {
@@ -9754,14 +9754,14 @@
       "bundleIdentifier": "com.N2BunpouApp.yuki",
       "developerName": "Bunpo Language Learning",
       "subtitle": "*Tweak:** Platinum Unlocked | *Patched ✓**",
-      "version": "3.17.0",
-      "versionDate": "2026-07-01",
+      "version": "3.18.0",
+      "versionDate": "2026-07-11",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bunpo: Learn Japanese-v3.17.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bunpo: Learn Japanese-v3.18.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Platinum Unlocked | *Patched ✓**\n\nBunpo: Learn Japanese",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/14/36/dc143687-7ec2-7f30-2d7a-0383d05deeac/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/99/15/c29915ab-559f-65a5-dcc9-2afa9d7d5250/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 72139066,
+      "size": 73696600,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/1f/15/f01f156f-5f23-8fe1-79fb-5563375243be/eca99410-bc01-4837-af87-5a5b6dc8b41b_k_U002cch_U002cj2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/a4/b0/bda4b0dc-b5cc-b567-a740-973128a58860/c4dfd54a-986a-4445-90cd-4d1c90db9805_m2.png/392x696bb.png",
@@ -9785,11 +9785,11 @@
       },
       "versions": [
         {
-          "version": "3.17.0",
-          "date": "2026-07-01",
+          "version": "3.18.0",
+          "date": "2026-07-11",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bunpo: Learn Japanese-v3.17.0-riftysipas.ipa",
-          "size": 72139066
+          "downloadURL": "https://telos.ftp.sh/ipas/Bunpo: Learn Japanese-v3.18.0-riftysipas.ipa",
+          "size": 73696600
         }
       ],
       "category": "education"
@@ -81318,7 +81318,7 @@
     {
       "title": "⚙️ Telos Update 7.11",
       "identifier": "telos-update-2026-07-11",
-      "caption": "42 Apps Updated:\n• 8 Entertainment\n• 6 Photo & Video\n• 4 Productivity\n• 4 Health & Fitness\n• 4 Games\n• 4 Music\n• 2 Finance\n• 2 Graphics & Design\n• 2 Utilities\n• 2 Business\n• 2 Education\n• 2 Lifestyle",
+      "caption": "44 Apps Updated:\n• 8 Entertainment\n• 6 Photo & Video\n• 6 Education\n• 4 Productivity\n• 4 Health & Fitness\n• 4 Games\n• 2 Finance\n• 2 Graphics & Design\n• 2 Utilities\n• 2 Business\n• 2 Music\n• 2 Lifestyle",
       "date": "2026-07-11",
       "tintColor": "#02433b",
       "notify": true,
