@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "io.fadel.Spiik",
+    "com.picsart.studio",
     "com.zerone.hidesktop",
     "com.facebook.Facebook",
-    "com.microsoft.PlannerMobile",
-    "com.resonantcavity.Voloco",
-    "com.tickettothemoon.video.persona"
+    "com.microsoft.PlannerMobile"
   ],
   "apps": [
     {
@@ -50945,14 +50945,14 @@
       "bundleIdentifier": "com.picsart.studio",
       "developerName": "PicsArt, Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "30.3.1",
-      "versionDate": "2026-07-09",
+      "version": "30.3.2",
+      "versionDate": "2026-07-12",
       "versionDescription": "Tweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_3_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_3_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPicsart AI Photo Editor, Video",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/0d/96/190d9691-6cb5-f1b6-e3a7-cc7c2a7b7230/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 112707414,
+      "size": 112710696,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/32/5c/b3325cd5-a5ec-f47f-d691-b4021ff4e83b/072cbf42-fad7-40f4-b11e-015732e61666_1._Multiple_Use_Cases___iPhone_12.9_.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/9d/6e/d89d6e96-d766-01dd-9e81-245562468926/c3a88056-d203-42c4-9fbd-56c9797d3eb7_2._Multiple_Use_Cases___iPhone_12.9_.png/576x768bb.png",
@@ -50984,11 +50984,11 @@
       },
       "versions": [
         {
-          "version": "30.3.1",
-          "date": "2026-07-09",
+          "version": "30.3.2",
+          "date": "2026-07-12",
           "localizedDescription": "Tweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_3_1_Subscription_Unlocked_blatant.ipa",
-          "size": 112707414
+          "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_3_2_Subscription_Unlocked_blatant.ipa",
+          "size": 112710696
         }
       ],
       "category": "photo-&-video"
@@ -63419,14 +63419,14 @@
       "bundleIdentifier": "io.fadel.Spiik",
       "developerName": "Fadel.io OU",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "1.0.131",
-      "versionDate": "2026-07-03",
+      "version": "1.0.132",
+      "versionDate": "2026-07-12",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Voice Recorder AI Notes: Spiik-v1.0.131-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Voice Recorder AI Notes: Spiik-v1.0.132-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nVoice Recorder AI Notes: Spiik",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/d6/ff/95d6ff60-fdcb-b595-a925-30ef477aff19/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 31379205,
+      "size": 31402468,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/d0/d3/a0d0d346-d8a4-fbe9-ca8d-9c61f5fb3d34/d9601271-22f4-4758-9211-3d94f07d7e07_iPhone_5.5_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/78/eb/0478eb2e-fd49-c8f7-cf79-39efb848890b/5bd74a38-e9cb-412a-913e-b474b086dfc3_iPhone_5.5_2.png/392x696bb.png",
@@ -63446,11 +63446,11 @@
       },
       "versions": [
         {
-          "version": "1.0.131",
-          "date": "2026-07-03",
+          "version": "1.0.132",
+          "date": "2026-07-12",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Voice Recorder AI Notes: Spiik-v1.0.131-riftysipas.ipa",
-          "size": 31379205
+          "downloadURL": "https://telos.ftp.sh/ipas/Voice Recorder AI Notes: Spiik-v1.0.132-riftysipas.ipa",
+          "size": 31402468
         }
       ],
       "category": "utilities"
@@ -81358,7 +81358,7 @@
     {
       "title": "⚙️ Telos Update 7.12",
       "identifier": "telos-update-2026-07-12",
-      "caption": "10 Apps Updated:\n• 4 Graphics & Design\n• 2 Productivity\n• 2 Music\n• 2 Social Networking",
+      "caption": "16 Apps Updated:\n• 4 Utilities\n• 4 Photo & Video\n• 2 Productivity\n• 2 Music\n• 2 Social Networking\n• 2 Graphics & Design",
       "date": "2026-07-12",
       "tintColor": "#02433b",
       "notify": true,
