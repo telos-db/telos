@@ -8071,14 +8071,14 @@
       "name": "Citizen",
       "bundleIdentifier": "com.sp0n.vigilante",
       "developerName": "sp0n, Inc.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nStay Safe with Citizen: Real-Time Alerts & Live Video\n\nCitizen is the essential safety app for today's world, providing real-time safety alerts, live incident videos, and more to keep you and your loved ones safe. Stay informed about nearby crimes, natural disasters, fires, protests, and more with instant alerts directly on your phone.\n\nWhether you’re at home or on the go, Citizen’s free location-based alerts instantly notify you of potentially dangerous situations like property crimes, vehicle",
-      "version": "0.1262.0",
-      "versionDate": "2026-02-28T09:46:36-00:00",
-      "versionDescription": "Build 43203 from @thescholarslounge",
-      "size": 105540039,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/54/dc/aa54dc52-a8fc-d09a-704d-7ba275c67fff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.sp0n.vigilante-0.1262.0-eeveedecrypter.ipa",
-      "minOSVersion": "16.0",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nProtect the World and Stay Safe with Citizen: Real-Time Alerts & Live Video\n\nCitizen is the essential safety app for today's world. Live crime map, police & fire alerts, and breaking local news, all in one place. Citizen gives you real-time awareness of emergencies, crimes, and incidents happening near you before it hits the news. Watch live video from the scene, track active incidents on the map, and get instant 911 alerts for your neighborhood, workplace, or school.\n\nWhat's happening near you",
+      "version": "0.1299.0",
+      "versionDate": "2026-07-12T23:25:23-00:00",
+      "versionDescription": "Build 50496 from @thescholarslounge",
+      "size": 109845216,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/fa/48/73fa480e-c2fc-3f8f-d936-28cd3f413f44/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.sp0n.vigilante-0.1299.0-eeveedecrypter.ipa",
+      "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -8090,7 +8090,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "com.sp0n.vigilante-0.1262.0-eeveedecrypter.ipa"
+        "originalFile": "com.sp0n.vigilante-0.1299.0-eeveedecrypter.ipa"
       }
     },
     {
@@ -30741,6 +30741,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "com.appilous.Chatbot-1.0.70-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "Palladium",
+      "bundleIdentifier": "com.tfourj.Palladium",
+      "developerName": "Taj Tkalec",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nMedia manager that runs directly on your device, no external servers.",
+      "version": "1.3.0",
+      "versionDate": "2026-07-12T23:25:57-00:00",
+      "versionDescription": "Build 0 from @thescholarslounge",
+      "size": 37855790,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/37/c0/3d37c0b0-91b0-71e9-0622-8322c3fda5af/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.tfourj.Palladium-v1.3.0-eeveedecrypter.ipa",
+      "minOSVersion": "17.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.tfourj.Palladium-v1.3.0-eeveedecrypter.ipa"
       }
     },
     {
