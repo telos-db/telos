@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.frameoneapps.Crsel",
     "io.fadel.Spiik",
     "com.picsart.studio",
     "com.zerone.hidesktop",
-    "com.facebook.Facebook",
-    "com.microsoft.PlannerMobile"
+    "com.facebook.Facebook"
   ],
   "apps": [
     {
@@ -15243,14 +15243,14 @@
       "bundleIdentifier": "com.frameoneapps.Crsel",
       "developerName": "Crsel Sp. z o.o.",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "1.4.2",
-      "versionDate": "2026-07-09",
+      "version": "1.4.3",
+      "versionDate": "2026-07-12",
       "versionDescription": "Tweaks: Crsel, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_4_2_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_4_3_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nCrsel: Carousel, Collage Maker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/74/2d/50742dab-b3a2-e88b-f27c-b868901215c6/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 117543917,
+      "size": 117544319,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -15264,11 +15264,11 @@
       },
       "versions": [
         {
-          "version": "1.4.2",
-          "date": "2026-07-09",
+          "version": "1.4.3",
+          "date": "2026-07-12",
           "localizedDescription": "Tweaks: Crsel, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_4_2_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 117543917
+          "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_4_3_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 117544319
         }
       ],
       "category": "photo-&-video"
@@ -81358,7 +81358,7 @@
     {
       "title": "⚙️ Telos Update 7.12",
       "identifier": "telos-update-2026-07-12",
-      "caption": "12 Apps Updated:\n• 2 Productivity\n• 2 Utilities\n• 2 Music\n• 2 Social Networking\n• 2 Graphics & Design\n• 2 Photo & Video",
+      "caption": "16 Apps Updated:\n• 6 Photo & Video\n• 2 Productivity\n• 2 Utilities\n• 2 Music\n• 2 Social Networking\n• 2 Graphics & Design",
       "date": "2026-07-12",
       "tintColor": "#02433b",
       "notify": true,
