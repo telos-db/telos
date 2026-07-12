@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.zerone.hidesktop",
     "com.facebook.Facebook",
     "com.microsoft.PlannerMobile",
     "com.resonantcavity.Voloco",
-    "com.tickettothemoon.video.persona",
-    "com.wellocution.iosapp"
+    "com.tickettothemoon.video.persona"
   ],
   "apps": [
     {
@@ -30107,14 +30107,14 @@
       "bundleIdentifier": "com.zerone.hidesktop",
       "developerName": "Xiamen ShenZhuo Information Technology Co., Ltd.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "5.0.0",
-      "versionDate": "2026-07-10",
+      "version": "5.0.01",
+      "versionDate": "2026-07-12",
       "versionDescription": "Tweaks: blatantsPatch, iScreen\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/iScreen_Widgets_&_Wallpaper_v5_0_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/iScreen_Widgets_&_Wallpaper_v5_0_01_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\niScreen - Widgets & Wallpaper",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/38/c7/d738c7e6-1548-cc07-a709-ca802106faa2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 436014733,
+      "size": 436008665,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/70/38/b37038bc-ce7d-6cd8-506b-dd530b6166ae/2208-OS26__U82f1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/a6/97/6ba697b8-46b4-a052-d36e-62f116c53107/2208-_U58c1_U7eb8__U82f1.png/392x696bb.png",
@@ -30150,11 +30150,11 @@
       },
       "versions": [
         {
-          "version": "5.0.0",
-          "date": "2026-07-10",
+          "version": "5.0.01",
+          "date": "2026-07-12",
           "localizedDescription": "Tweaks: blatantsPatch, iScreen\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/iScreen_Widgets_&_Wallpaper_v5_0_0_Subscription_Unlocked_blatant.ipa",
-          "size": 436014733
+          "downloadURL": "https://telos.ftp.sh/ipas/iScreen_Widgets_&_Wallpaper_v5_0_01_Subscription_Unlocked_blatant.ipa",
+          "size": 436008665
         }
       ],
       "category": "graphics-&-design"
@@ -81358,7 +81358,7 @@
     {
       "title": "⚙️ Telos Update 7.12",
       "identifier": "telos-update-2026-07-12",
-      "caption": "6 Apps Updated:\n• 2 Productivity\n• 2 Music\n• 2 Social Networking",
+      "caption": "10 Apps Updated:\n• 4 Graphics & Design\n• 2 Productivity\n• 2 Music\n• 2 Social Networking",
       "date": "2026-07-12",
       "tintColor": "#02433b",
       "notify": true,
