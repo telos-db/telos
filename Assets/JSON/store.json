@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.facebook.Facebook",
+    "com.microsoft.PlannerMobile",
     "com.resonantcavity.Voloco",
     "com.tickettothemoon.video.persona",
-    "com.wellocution.iosapp",
-    "com.N2BunpouApp.yuki",
-    "mobi.digitalminds.itunerfree"
+    "com.wellocution.iosapp"
   ],
   "apps": [
     {
@@ -21234,15 +21234,15 @@
       "name": "Facebook",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Meta Platforms, Inc.",
-      "subtitle": "Tweaked with CydiaSubstrate, Glow",
-      "version": "566.1.0",
-      "versionDate": "2026-06-22",
-      "versionDescription": "Tweaks: CydiaSubstrate, Glow\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Glow_v1.3.1_FB_566.1.ipa",
-      "localizedDescription": "Try the version from here",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/f6/e9/3bf6e9f2-c756-8ab4-f1f5-0dfac3836636/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "subtitle": "Facebook for iOS",
+      "version": "569.0.0",
+      "versionDate": "2026-07-12",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.facebook.Facebook-569.0.0-eeveedecrypter.ipa",
+      "localizedDescription": "Facebook for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/77/75/3d7775af-f82f-6eb2-3e03-49ec4c77dd2b/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 201969974,
+      "size": 222242316,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/c0/fa/e2c0faf7-2613-0ead-3c3a-193d992e3930/f254967c-6ef9-4cc6-b4bf-e89cf016337c_1-iOS-5.5-Home.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/d9/9b/6ad99bf8-e769-1fd2-0ac7-f9f0553978a2/c795c58d-ec37-463c-9ab9-ba0b8bc00ddd_2-iOS-5.5-Reels.png/392x696bb.png",
@@ -21289,11 +21289,11 @@
       },
       "versions": [
         {
-          "version": "566.1.0",
-          "date": "2026-06-22",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Glow\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Glow_v1.3.1_FB_566.1.ipa",
-          "size": 201969974
+          "version": "569.0.0",
+          "date": "2026-07-07",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.facebook.Facebook-569.0.0-eeveedecrypter.ipa",
+          "size": 222242316
         }
       ],
       "category": "social-networking"
@@ -52148,6 +52148,46 @@
       "category": "travel"
     },
     {
+      "name": "Planner",
+      "bundleIdentifier": "com.microsoft.PlannerMobile",
+      "developerName": "Microsoft Corporation",
+      "subtitle": "Planner for iOS",
+      "version": "1.17.17",
+      "versionDate": "2026-07-12",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.microsoft.PlannerMobile-1.17.17-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/0b/aa/290baa52-9160-a5b8-bc25-823dd85ab19a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 58985826,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/0a/96/f9/0a96f922-4e77-c3a7-075b-5f6f4ac77290/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/6d/e1/21/6de121ff-3c57-9a7c-2f10-915d79c408b4/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d6/89/5e/d6895e3a-1b49-6473-8a3b-459255bde65a/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d1/67/d2/d167d286-bc28-96ee-ab84-eec43ac4ad79/pr_source.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Planner needs access to browse and select photos to add to your task.",
+          "NSCameraUsageDescription": "Planner needs access to your camera to take a picture and add it to a task.",
+          "NSContactsUsageDescription": "App wants access to Contacts (used to edit calendar events).",
+          "NSFaceIDUsageDescription": "Planner uses Face ID to restrict unauthorized users from accessing the app.",
+          "NSPhotoLibraryAddUsageDescription": "Planner needs access to browse and select photos to add to your task."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.17.17",
+          "date": "2026-06-10",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.microsoft.PlannerMobile-1.17.17-eeveedecrypter.ipa",
+          "size": 58985826
+        }
+      ],
+      "category": "productivity"
+    },
+    {
       "name": "Planta",
       "bundleIdentifier": "com.stromming.Plants",
       "developerName": "Planta AB",
@@ -81318,11 +81358,11 @@
     {
       "title": "⚙️ Telos Update 7.12",
       "identifier": "telos-update-2026-07-12",
-      "caption": "2 Apps Updated:\n• 2 Music",
+      "caption": "10 Apps Updated:\n• 4 Productivity\n• 4 Social Networking\n• 2 Music",
       "date": "2026-07-12",
       "tintColor": "#02433b",
       "notify": true,
-      "appID": "com.resonantcavity.Voloco"
+      "appID": "com.microsoft.PlannerMobile"
     },
     {
       "title": "⚙️ Telos Update 7.11",
