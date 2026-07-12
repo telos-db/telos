@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.stippl.stippl",
     "com.vertventures.stella",
     "com.unofficialcalculators.payplan",
     "ru.routes.peakvisor",
-    "app.tripsy.ios",
-    "com.frameoneapps.Crsel"
+    "app.tripsy.ios"
   ],
   "apps": [
     {
@@ -65199,14 +65199,14 @@
       "bundleIdentifier": "com.stippl.stippl",
       "developerName": "Stippl",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "3.0.14",
-      "versionDate": "2026-07-05",
+      "version": "3.0.15",
+      "versionDate": "2026-07-12",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Stippl - Travel Planner-v3.0.14-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stippl - Travel Planner-v3.0.15-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nStippl - Travel Planner",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/e4/7a/e1e47aa3-363d-4699-42bb-980d84d5c744/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/bd/9b/babd9b24-d033-cf3f-3cfe-789e4ee1e5b7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 74643515,
+      "size": 74670417,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/14/06/cf1406f4-dd0a-3229-574d-f23efad12892/4efa90cd-d1e7-4166-8808-2219bb0cb244_11.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/6a/15/1a6a156e-916f-1743-651e-b2983dec9750/9efbe272-9087-4906-9d4b-0bd6632ad42d_03.png/392x696bb.png",
@@ -65233,11 +65233,11 @@
       },
       "versions": [
         {
-          "version": "3.0.14",
-          "date": "2026-07-05",
+          "version": "3.0.15",
+          "date": "2026-07-12",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Stippl - Travel Planner-v3.0.14-riftysipas.ipa",
-          "size": 74643515
+          "downloadURL": "https://telos.ftp.sh/ipas/Stippl - Travel Planner-v3.0.15-riftysipas.ipa",
+          "size": 74670417
         }
       ],
       "category": "travel"
@@ -81358,7 +81358,7 @@
     {
       "title": "⚙️ Telos Update 7.12",
       "identifier": "telos-update-2026-07-12",
-      "caption": "22 Apps Updated:\n• 4 Photo & Video\n• 2 Productivity\n• 2 Utilities\n• 2 Music\n• 2 Social Networking\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Sports\n• 2 Finance\n• 2 Travel",
+      "caption": "26 Apps Updated:\n• 6 Travel\n• 4 Photo & Video\n• 2 Productivity\n• 2 Utilities\n• 2 Music\n• 2 Social Networking\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Sports\n• 2 Finance",
       "date": "2026-07-12",
       "tintColor": "#02433b",
       "notify": true,
