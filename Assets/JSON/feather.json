@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.frameoneapps.Crsel",
-    "io.fadel.Spiik",
-    "com.picsart.studio",
-    "com.zerone.hidesktop",
-    "com.facebook.Facebook"
+    "com.vertventures.stella",
+    "com.unofficialcalculators.payplan",
+    "ru.routes.peakvisor",
+    "app.tripsy.ios",
+    "com.frameoneapps.Crsel"
   ],
   "apps": [
     {
@@ -5240,14 +5240,14 @@
       "bundleIdentifier": "com.vertventures.stella",
       "developerName": "Vert Ventures",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.12.35",
-      "versionDate": "2026-07-11",
+      "version": "3.12.36",
+      "versionDate": "2026-07-12",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.35-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.36-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nAstra - Life Advice\n\n---\nWork through life challenges. Talk about compatibility with friends and romantic interests. Discuss personal growth. Learn about your dreams. All of this and more is at your fingertips with Astra!\n\nIf you have any questions comments or feedback, please email us astracontact111@gmail.com\n\nTerms:\n\nAccess to Astra requires a paid subscription",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/c4/8f/78c48fc1-5326-a437-dc9a-4dd70dc0611f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 79835120,
+      "size": 79988217,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/d5/e2/6bd5e202-c048-b4cb-712b-af6417ff5b55/2fe2b2a5-46d8-4e8f-bc0b-77a923776e42_Frame_832.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/70/54/6a705462-1826-1556-7c33-714f49e9f94a/b86cb528-6044-44eb-9a6a-d61ab51ec09a_Frame_822.jpg/392x696bb.jpg",
@@ -5272,11 +5272,11 @@
       },
       "versions": [
         {
-          "version": "3.12.35",
-          "date": "2026-07-11",
+          "version": "3.12.36",
+          "date": "2026-07-12",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.35-riftysipas.ipa",
-          "size": 79835120
+          "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.36-riftysipas.ipa",
+          "size": 79988217
         }
       ],
       "category": "lifestyle"
@@ -7454,14 +7454,14 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.2.2",
-      "versionDate": "2026-07-11",
+      "version": "4.2.3",
+      "versionDate": "2026-07-12",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.3-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nBill Tracker Pro\n\n---\nBill Tracker Pro is the #1 app for tracking bills, income, and spending. Connect your bank, create a budget, track your cash flow, and take control of your finances.\n\nNew in Bill Tracker Pro:\n\nBank Sync with Plaid – Connect your accounts to sync transactions automatically.\n\nKnow What’s Safe to Spend – See your real-time spending power after upcoming bills.\n\nNever Miss a Bill – Set reminders, view your upcoming bills at a glance, and stay organized with widgets.\n\nFind Hidden Subscriptions – Uncov",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/61/b5/8a61b500-b5a9-ea91-7776-d63a1d2d9a18/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 155439424,
+      "size": 155285157,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/df/72/1cdf72bb-1d54-7a27-d6e4-e54ef4151c21/pr_source.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/ab/2c/f4ab2cef-41bd-f2bf-2980-f7910d3d3dd8/pr_source.png/552x414bb.png",
@@ -7490,11 +7490,11 @@
       },
       "versions": [
         {
-          "version": "4.2.2",
-          "date": "2026-07-11",
+          "version": "4.2.3",
+          "date": "2026-07-12",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.2-riftysipas.ipa",
-          "size": 155439424
+          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.3-riftysipas.ipa",
+          "size": 155285157
         }
       ],
       "category": "finance"
@@ -49828,14 +49828,14 @@
       "bundleIdentifier": "ru.routes.peakvisor",
       "developerName": "Routes Software SRL",
       "subtitle": "Tweaked with PeakVisor, blatantsPatch",
-      "version": "5.101",
-      "versionDate": "2026-07-10",
+      "version": "5.102",
+      "versionDate": "2026-07-12",
       "versionDescription": "Tweaks: PeakVisor, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Hiking_and_Skiing_PeakVisor_v5_101_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Hiking_and_Skiing_PeakVisor_v5_102_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: PeakVisor, blatantsPatch\n\nHiking and Skiing - PeakVisor\n\n---\nPeakVisor will make you a champion of mountain navigation, putting state-of-the-art Peak Identification, 3D Maps, Trails, and outdoor GPS tracking into the palm of your hand. Our app is a one-stop shop for all your mountain adventures: hiking, skiing, climbing, mountain biking, and more. But PeakVisor is more than just another outdoors app; it’s an immersion into a carefully crafted 3D world that will give you an unprecedented understanding of the nuances of a mountain’s terrain.\n\n“PeakVisor use",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/39/fa/b539fa2a-7c17-7890-c67d-77f4cac579bf/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 151135938,
+      "size": 151219665,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -49858,11 +49858,11 @@
       },
       "versions": [
         {
-          "version": "5.101",
-          "date": "2026-07-10",
+          "version": "5.102",
+          "date": "2026-07-12",
           "localizedDescription": "Tweaks: PeakVisor, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Hiking_and_Skiing_PeakVisor_v5_101_Subscription_Unlocked_blatant.ipa",
-          "size": 151135938
+          "downloadURL": "https://telos.ftp.sh/ipas/Hiking_and_Skiing_PeakVisor_v5_102_Subscription_Unlocked_blatant.ipa",
+          "size": 151219665
         }
       ],
       "category": "sports"
@@ -72978,14 +72978,14 @@
       "bundleIdentifier": "app.tripsy.ios",
       "developerName": "Tripsy LLC",
       "subtitle": "Tweaked with Tripsy, blatantsPatch",
-      "version": "3.8.13",
-      "versionDate": "2026-07-08",
+      "version": "3.8.14",
+      "versionDate": "2026-07-12",
       "versionDescription": "Tweaks: Tripsy, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tripsy_Travel_Planner_v3_8_13_Lifetime_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tripsy_Travel_Planner_v3_8_14_Lifetime_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Tripsy, blatantsPatch\n\nTripsy: Travel Planner\n\n---\nTripsy - Trip Planner & Itinerary Organizer is a free travel planner for creating detailed trip itineraries and organizing every aspect of your journey. Perfect for solo travelers, couples travel, and group travel planning, Tripsy is your all-in-one itinerary maker that keeps flights, accommodations, activities, and reservations organized in one place.\n\nPlan smarter with our intuitive trip itinerary builder that automatically imports travel details from emails, works offline, and sends notificat",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/d2/29/92d2298d-281a-5b07-77a6-8ae8b9aac7b4/App_Icon_Original-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 78170851,
+      "size": 78270953,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/b6/03/bbb60361-435a-2dd5-4d68-df0468832962/1c2f8b3c-6c0c-4efb-ad74-92f30addd11a_1_opaque.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/02/53/8b025308-9e97-347a-fddf-bd7dae18a60b/2ad203a9-0557-49e9-927a-43f232bde457_2_opaque.png/552x414bb.png",
@@ -73011,11 +73011,11 @@
       },
       "versions": [
         {
-          "version": "3.8.13",
-          "date": "2026-07-08",
+          "version": "3.8.14",
+          "date": "2026-07-12",
           "localizedDescription": "Tweaks: Tripsy, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tripsy_Travel_Planner_v3_8_13_Lifetime_Unlocked_blatant_Patched.ipa",
-          "size": 78170851
+          "downloadURL": "https://telos.ftp.sh/ipas/Tripsy_Travel_Planner_v3_8_14_Lifetime_Unlocked_blatant_Patched.ipa",
+          "size": 78270953
         }
       ],
       "category": "travel"
