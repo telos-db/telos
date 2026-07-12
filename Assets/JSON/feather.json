@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.tfourj.Palladium",
+    "com.sp0n.vigilante",
     "com.risesci.nyx",
     "com.stippl.stippl",
-    "com.vertventures.stella",
-    "com.unofficialcalculators.payplan",
-    "ru.routes.peakvisor"
+    "com.vertventures.stella"
   ],
   "apps": [
     {
@@ -12775,14 +12775,14 @@
       "bundleIdentifier": "com.sp0n.vigilante",
       "developerName": "sp0n, Inc.",
       "subtitle": "Citizen for iOS",
-      "version": "0.1262.0",
-      "versionDate": "2026-02-28",
+      "version": "0.1299.0",
+      "versionDate": "2026-07-12",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.sp0n.vigilante-0.1262.0-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nStay Safe with Citizen: Real-Time Alerts & Live Video\n\nCitizen is the essential safety app for today's world, providing real-time safety alerts, live incident videos, and more to keep you and your loved ones safe. Stay informed about nearby crimes, natural disasters, fires, protests, and more with instant alerts directly on your phone.\n\nWhether you’re at home or on the go, Citizen’s free location-based alerts instantly notify you of potentially dangerous situations like property crimes, vehicle",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/54/dc/aa54dc52-a8fc-d09a-704d-7ba275c67fff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.sp0n.vigilante-0.1299.0-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nProtect the World and Stay Safe with Citizen: Real-Time Alerts & Live Video\n\nCitizen is the essential safety app for today's world. Live crime map, police & fire alerts, and breaking local news, all in one place. Citizen gives you real-time awareness of emergencies, crimes, and incidents happening near you before it hits the news. Watch live video from the scene, track active incidents on the map, and get instant 911 alerts for your neighborhood, workplace, or school.\n\nWhat's happening near you",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/fa/48/73fa480e-c2fc-3f8f-d936-28cd3f413f44/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 105540039,
+      "size": 109845216,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -12791,8 +12791,7 @@
           "NSCameraUsageDescription": "Allow camera access to connect to our Agents or broadcast live. See our Privacy Policy for more information.",
           "NSMicrophoneUsageDescription": "Allow microphone access to broadcast live, connect to Protect Agents or enable distress detection. See our Privacy Policy for more information.",
           "NSLocationWhenInUseUsageDescription": "Citizen needs your location to detect safety incidents near you and send you alerts.",
-          "NSLocationAlwaysUsageDescription": "Select \"Always Allow\" to receive alerts based on your real-time location",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "Select \"Always Allow\" to receive alerts based on your real-time location",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Citizen needs \"Always Allow\" location to alert you when the app is closed.\nWe never share your location data",
           "NSContactsUsageDescription": "Uploading your contacts allows you to send direct messages to friends who are already on Citizen and text invitations to those who aren't.",
           "NSAppleMusicUsageDescription": "Citizen does not use this permission. If you see this, please submit a bug report to support@citizen.com",
           "NSSpeechRecognitionUsageDescription": "Citizen uses speech to setup safe words in case of emergencies. See our Privacy Policy for more information.",
@@ -12801,11 +12800,11 @@
       },
       "versions": [
         {
-          "version": "0.1262.0",
-          "date": "2026-02-28",
+          "version": "0.1299.0",
+          "date": "2026-07-12",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.sp0n.vigilante-0.1262.0-eeveedecrypter.ipa",
-          "size": 105540039
+          "downloadURL": "https://telos.ftp.sh/ipas/com.sp0n.vigilante-0.1299.0-eeveedecrypter.ipa",
+          "size": 109845216
         }
       ],
       "category": "news"
@@ -49106,6 +49105,38 @@
         }
       ],
       "category": "productivity"
+    },
+    {
+      "name": "Palladium",
+      "bundleIdentifier": "com.tfourj.Palladium",
+      "developerName": "Taj Tkalec",
+      "subtitle": "Palladium for iOS",
+      "version": "1.3.0",
+      "versionDate": "2026-07-12",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.tfourj.Palladium-v1.3.0-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nMedia manager that runs directly on your device, no external servers.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/37/c0/3d37c0b0-91b0-71e9-0622-8322c3fda5af/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 37855790,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Palladium does not use the camera directly. This message is included because bundled system APIs may reference camera access.",
+          "NSPhotoLibraryAddUsageDescription": "Save downloaded videos to your photo library."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.3.0",
+          "date": "2026-07-12",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.tfourj.Palladium-v1.3.0-eeveedecrypter.ipa",
+          "size": 37855790
+        }
+      ],
+      "category": "photo-&-video"
     },
     {
       "name": "Paper",
