@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.wellocution.iosapp",
+    "scannerapp.free",
+    "com.caliberfitness.app",
     "com.lasmit.World-Time",
-    "co.detail.duo",
-    "com.myswimpro.apps.MySwimPro",
-    "com.nuvio.media",
-    "com.br.12min.mobile"
+    "co.detail.duo"
   ],
   "apps": [
     {
@@ -8426,14 +8426,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.1.5",
-      "versionDate": "2026-07-11",
+      "version": "4.1.6",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_5_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_6_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nBoldVoice: Accent Training",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 143941672,
+      "size": 143945564,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8453,11 +8453,11 @@
       },
       "versions": [
         {
-          "version": "4.1.5",
-          "date": "2026-07-11",
+          "version": "4.1.6",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_5_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 143941672
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_6_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 143945564
         }
       ],
       "category": "education"
@@ -10219,14 +10219,14 @@
       "bundleIdentifier": "com.caliberfitness.app",
       "developerName": "Caliber Fitness, Inc",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "5.14.0",
-      "versionDate": "2026-07-06",
+      "version": "5.14.1",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: Caliber, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Caliber_Strength_Training_v5_14_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Caliber_Strength_Training_v5_14_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nCaliber: Strength Training",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/b9/89/fab989b3-614a-1717-7fab-a2839f4af964/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 51668846,
+      "size": 51669890,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -10250,11 +10250,11 @@
       },
       "versions": [
         {
-          "version": "5.14.0",
-          "date": "2026-06-30",
+          "version": "5.14.1",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: Caliber, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Caliber_Strength_Training_v5_14_0_Subscription_Unlocked_blatant.ipa",
-          "size": 51668846
+          "downloadURL": "https://telos.ftp.sh/ipas/Caliber_Strength_Training_v5_14_1_Subscription_Unlocked_blatant.ipa",
+          "size": 51669890
         }
       ],
       "category": "health-&-fitness"
@@ -58261,14 +58261,14 @@
       "bundleIdentifier": "scannerapp.free",
       "developerName": "Luni",
       "subtitle": "Premium Unlocked | Patched",
-      "version": "2.11.17",
-      "versionDate": "2026-07-06",
+      "version": "2.11.18",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: ScannerApp, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Scanner_–_Scan_PDF_&_Document_v2_11_17_Premium_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Scanner_–_Scan_PDF_&_Document_v2_11_18_Premium_Unlocked_blatant.ipa",
       "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nScanner – Scan PDF & Document",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/db/e5/57dbe5ca-9f11-37a4-0f51-b7559b5bc5ba/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 94234599,
+      "size": 94317493,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/c5/f1/2cc5f196-a669-646e-2402-13ece90c468d/3ec0394a-1d6d-4192-8461-e1a90c16763a_SCREEN_1_1_1242_x_2208.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/8b/15/a98b1589-d8c7-2b18-e47b-0f097a000c91/168af86f-52dc-490d-b524-d8ce3d7013cc_SCREEN_2_1242_x_2208.jpg/392x696bb.jpg",
@@ -58294,11 +58294,11 @@
       },
       "versions": [
         {
-          "version": "2.11.17",
-          "date": "2026-07-06",
+          "version": "2.11.18",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: ScannerApp, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Scanner_–_Scan_PDF_&_Document_v2_11_17_Premium_Unlocked_blatant.ipa",
-          "size": 94234599
+          "downloadURL": "https://telos.ftp.sh/ipas/Scanner_–_Scan_PDF_&_Document_v2_11_18_Premium_Unlocked_blatant.ipa",
+          "size": 94317493
         }
       ],
       "category": "business"
@@ -81389,7 +81389,7 @@
     {
       "title": "⚙️ Telos Update 7.13",
       "identifier": "telos-update-2026-07-13",
-      "caption": "80 Apps Updated:\n• 28 Photo & Video\n• 12 Entertainment\n• 8 Health & Fitness\n• 6 Utilities\n• 6 Education\n• 4 Productivity\n• 4 Music\n• 2 Games\n• 2 Weather\n• 2 Travel\n• 2 Sports\n• 2 Navigation\n• 2 Business",
+      "caption": "80 Apps Updated:\n• 24 Photo & Video\n• 10 Health & Fitness\n• 10 Education\n• 8 Entertainment\n• 6 Business\n• 4 Productivity\n• 4 Utilities\n• 4 Music\n• 2 Games\n• 2 Weather\n• 2 Travel\n• 2 Sports\n• 2 Navigation",
       "date": "2026-07-13",
       "tintColor": "#02433b",
       "notify": true,
