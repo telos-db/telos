@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.thehungrywasp.iamsober",
-    "com.duolingo.DuolingoMobile",
-    "com.elevateapp.elevate",
-    "com.thewayapp.mobile",
-    "com.cinee.trend"
+    "io.gonative.ios.xqdyad",
+    "tech.miidii.MDVinyl",
+    "com.HappyPlanTech.SnapWords",
+    "dazz.camera.vintagecamera",
+    "com.thehungrywasp.iamsober"
   ],
   "apps": [
     {
@@ -11012,6 +11012,44 @@
       "category": "photo-&-video"
     },
     {
+      "name": "CapWords",
+      "bundleIdentifier": "com.HappyPlanTech.SnapWords",
+      "developerName": "HappyPlan Tech",
+      "subtitle": "Tweaked with CydiaSubstrate, StopReviews",
+      "version": "1.5.2",
+      "versionDate": "2026-07-13",
+      "versionDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii26, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/‎CapWords AI_v1.5.2_tg@Sa1y0miii.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, StopReviews, Tg_Sa1y0miii26, sideloadKeychainfix1, sideloadKeychainfix2\n\n---\n⊕ Apple Design Awards 2025 Winner\n⊕ App Store Awards App of the Year\n⊕ App Store APP OF THE DAY\n⊕ App Store Editor's Choice\n\nTurn the world into your vocabulary book.\n\nCapWords is the first app that lets you capture words from real life and instantly turn them into smart flashcards. See an interesting word on a sign, book, or screen? Just snap a photo, and CapWords will recognize the text, provide AI-powered definitions, and add it to your personal vocabulary library.\n\nHOW IT WORKS\n• Point your",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/aa/b6/2baab6b0-b407-12e0-6ccb-4d1c5d4b7855/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 114482382,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "We need access to your photo library to save and select photos",
+          "NSCameraUsageDescription": "To allow you to take pictures and recognize object words, CapWords needs access to your camera",
+          "NSMicrophoneUsageDescription": "We need access to your microphone so you can recognize and remember words through voice.",
+          "NSSpeechRecognitionUsageDescription": "We need access to speech recognition to convert your voice into text for a better user experience.",
+          "NSPhotoLibraryAddUsageDescription": "We need to save the image to your photo library"
+        }
+      },
+      "versions": [
+        {
+          "version": "1.5.2",
+          "date": "2026-07-13",
+          "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii26, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/‎CapWords AI_v1.5.2_tg@Sa1y0miii.ipa",
+          "size": 114482382
+        }
+      ],
+      "category": "education"
+    },
+    {
       "name": "Car Match",
       "bundleIdentifier": "com.grandgames.carmatch",
       "developerName": "Grand Games A.Ş.",
@@ -16256,15 +16294,15 @@
       "name": "Dazz",
       "bundleIdentifier": "dazz.camera.vintagecamera",
       "developerName": "DAZZ PTE. LTD.",
-      "subtitle": "Dazz for iOS",
-      "version": "2.17.2",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/dazz.camera.vintagecamera-2.17.2-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nDazz Camera, Pro Photographer in your Pocket.\nWe believe in keeping it simple, no need for post-editing. With just one tap, you can capture the most authentic vintage photos or videos, letting you enjoy the moment without distractions.\n\nDazz camera is inspired by classic film cameras from the 80s. We’ve sampled real film stock to recreate the colors and textures of vintage photography. Dazz camera supports shooting in various retro film formats like 135 film, 120 film, toy cameras, slide film, h",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/09/f4/7509f4f0-4566-954c-8357-916b57a618cd/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "subtitle": "Tweaked with Dazzcam, blatantsPatch",
+      "version": "2.17.4",
+      "versionDate": "2026-07-13",
+      "versionDescription": "Tweaks: Dazzcam, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Dazz Cam - Vintage Camera v2.17.4 Dazz Pro blatant Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Dazzcam, blatantsPatch\n\nDazz Cam - Vintage Camera\n\n---\nDazz Camera, Pro Photographer in your Pocket.\nWe believe in keeping it simple, no need for post-editing. With just one tap, you can capture the most authentic vintage photos or videos, letting you enjoy the moment without distractions.\n\nDazz camera is inspired by classic film cameras from the 80s. We’ve sampled real film stock to recreate the colors and textures of vintage photography. Dazz camera supports shooting in various retro film formats like 135 film, 120 film, toy cameras, slide film, h",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/c8/2a/9ac82aa8-89bf-36ae-e50a-f18ce446e0c0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 115393963,
+      "size": 116713448,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/88/2a/9a882a54-2fdc-52bc-892e-0fef368f59b5/4a402db1-c705-45a8-91fe-d480213955ff_en_s.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/2a/f1/012af1cc-25e6-7e0f-acb6-df20fb7988de/a9a72ff2-bfd1-4303-aee9-cf9b0ae9d123_02.jpg/392x696bb.jpg",
@@ -16286,11 +16324,11 @@
       },
       "versions": [
         {
-          "version": "2.17.2",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/dazz.camera.vintagecamera-2.17.2-eeveedecrypter.ipa",
-          "size": 115393963
+          "version": "2.17.4",
+          "date": "2026-07-13",
+          "localizedDescription": "Tweaks: Dazzcam, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Dazz Cam - Vintage Camera v2.17.4 Dazz Pro blatant Patched.ipa",
+          "size": 116713448
         }
       ],
       "category": "photo-&-video"
@@ -27134,34 +27172,43 @@
       "name": "Gizmo",
       "bundleIdentifier": "io.gonative.ios.xqdyad",
       "developerName": "Save All",
-      "subtitle": "Tweaked with StopReviews, Tg:Sa1y0miii",
-      "version": "2.0.47",
-      "versionDate": "2026-01-11",
-      "versionDescription": "Tweaks: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Gizmo_v2.0.47_tg@Sa1y0miii.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nGizmo: AI Flashcards\n\n---\nGizmo is the easiest way to learn\n\n- AI Import: Import anything and turn it into flashcards fast! You can convert Quizlet, Anki, YouTube, PDF, Notes, PowerPoint, and more!\n- Scan notes: Scan handwritten notes to turn them into flashcards and quizzes\n- Quizzing: Fun quizzes make learning feel like a game\n- Spaced repetition and active recall: Gizmo uses the most advanced techniques to help you remember what you learn\n- Pre-made decks: Quickly find 1,000,000+ free public flashcards made by other s",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/af/27/cbaf27a1-ac28-b372-df33-b50154a3fac0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "subtitle": "Tweaked with CydiaSubstrate, StopReviews",
+      "version": "3.0.172",
+      "versionDate": "2026-07-13",
+      "versionDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii26, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/‎Gizmo: AI Tutor_v3.0.172_tg@Sa1y0miii.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, StopReviews, Tg_Sa1y0miii26, sideloadKeychainfix1, sideloadKeychainfix2\n\n---\nGizmo is the easiest way to learn\n\n- AI Import: Import anything and turn it into flashcards fast! You can convert Quizlet, Anki, YouTube, PDF, Notes, PowerPoint, and more!\n- Scan notes: Scan handwritten notes to turn them into flashcards and quizzes\n- Quizzing: Fun quizzes make learning feel like a game\n- Spaced repetition and active recall: Gizmo uses the most advanced techniques to help you remember what you learn\n- Pre-made decks: Quickly find 1,000,000+ free public flashcards made by other s",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/26/16/0e26169d-099d-13e8-c315-25f10b6c276d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 34218064,
+      "size": 65347333,
       "screenshots": [],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Gizmo accesses photos so you can learn from photos of your notes.",
           "NSCameraUsageDescription": "Gizmo accesses the camera to help you take pictures of and learn your notes",
           "NSMicrophoneUsageDescription": "Gizmo accesses the microphone to help you record and learn audio of your notes",
           "NSLocationWhenInUseUsageDescription": "Gizmo uses location services to enhance learning experience with location-based features",
           "NSContactsUsageDescription": "Gizmo uses your contact book to help you find your friends on Gizmo. We store the contacts on a server so we can identify your friends",
-          "NSFaceIDUsageDescription": "Allow Gizmo to access your Face ID biometric data."
+          "NSSpeechRecognitionUsageDescription": "Gizmo uses speech recognition so you can answer quiz questions by speaking",
+          "NSFaceIDUsageDescription": "Allow Gizmo to access your Face ID biometric data.",
+          "NSLocalNetworkUsageDescription": "Expo Dev Launcher uses the local network to discover and connect to development servers running on your computer."
         }
       },
       "versions": [
         {
-          "version": "2.0.47",
-          "date": "2026-01-11",
-          "localizedDescription": "Tweaks: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Gizmo_v2.0.47_tg@Sa1y0miii.ipa",
-          "size": 34218064
+          "version": "3.0.172",
+          "date": "2026-07-13",
+          "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii26, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/‎Gizmo: AI Tutor_v3.0.172_tg@Sa1y0miii.ipa",
+          "size": 65347333
         }
       ],
       "category": "education"
@@ -40999,18 +41046,22 @@
       "name": "MD Vinyl",
       "bundleIdentifier": "tech.miidii.MDVinyl",
       "developerName": "MD Studio",
-      "subtitle": "MD Vinyl for iOS",
-      "version": "3.6.10",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/tech.miidii.MDVinyl-3.6.10-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nRediscover the essence of music with MD Vinyl – your digital gateway to the authentic experience of vinyl records. Immerse yourself in the sound and visuals, right from your iPhone or iPad. MD Vinyl brings the ritual of physical music to the streaming era, allowing you to interact with a virtual turntable and vinyl record as you listen. Feel every note as you drop the needle, rekindling a lost connection to music in our digital world. Dive into a listening experience that's not just about songs,",
+      "subtitle": "Tweaked with CydiaSubstrate, StopReviews",
+      "version": "3.7.2",
+      "versionDate": "2026-07-13",
+      "versionDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii26, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/‎MD Vinyl Music App_v3.7.2_tg@Sa1y0miii.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, StopReviews, Tg_Sa1y0miii26, sideloadKeychainfix1, sideloadKeychainfix2\n\n---\nRediscover the essence of music with MD Vinyl – your digital gateway to the authentic experience of vinyl records. Immerse yourself in the sound and visuals, right from your iPhone or iPad. MD Vinyl brings the ritual of physical music to the streaming era, allowing you to interact with a virtual turntable and vinyl record as you listen. Feel every note as you drop the needle, rekindling a lost connection to music in our digital world. Dive into a listening experience that's not just about songs,",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/0a/24/510a24d3-c5b5-6924-21e6-9c4953a3b11f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 125028972,
+      "size": 128419958,
       "screenshots": [],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "MD Vinyl needs access to Photos for save share card.",
           "NSCameraUsageDescription": "MD Vinyl needs access to Camera for scanning qr code.",
@@ -41020,11 +41071,11 @@
       },
       "versions": [
         {
-          "version": "3.6.10",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/tech.miidii.MDVinyl-3.6.10-eeveedecrypter.ipa",
-          "size": 125028972
+          "version": "3.7.2",
+          "date": "2026-07-13",
+          "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii26, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/‎MD Vinyl Music App_v3.7.2_tg@Sa1y0miii.ipa",
+          "size": 128419958
         }
       ],
       "category": "music"
