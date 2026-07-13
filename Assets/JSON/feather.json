@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.wellocution.iosapp",
+    "scannerapp.free",
+    "com.caliberfitness.app",
     "com.lasmit.World-Time",
-    "co.detail.duo",
-    "com.myswimpro.apps.MySwimPro",
-    "com.nuvio.media",
-    "com.br.12min.mobile"
+    "co.detail.duo"
   ],
   "apps": [
     {
@@ -8477,14 +8477,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Tweaked with BoldVoice, blatantsPatch",
-      "version": "4.1.5",
-      "versionDate": "2026-07-11",
+      "version": "4.1.6",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_5_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_6_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BoldVoice, blatantsPatch\n\nBoldVoice: Accent Training\n\n---\nBoldVoice is the top-rated English speaking and pronunciation app, with over 2 million global users. Our Hollywood accent coaches and AI-powered feedback will help you achieve clear, confident pronunciation, with only 10 minutes of daily practice.\n\nWHY CHOOSE BOLDVOICE:\nLearn from professional accent coaches who train Hollywood actors\nRecord your voice and receive instant, AI-powered pronunciation feedback\nPractice with daily-life scenarios and professional conversations\nMonitor progress through",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 143941672,
+      "size": 143945564,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8504,11 +8504,11 @@
       },
       "versions": [
         {
-          "version": "4.1.5",
-          "date": "2026-07-11",
+          "version": "4.1.6",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_5_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 143941672
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_6_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 143945564
         }
       ],
       "category": "education"
@@ -10276,14 +10276,14 @@
       "bundleIdentifier": "com.caliberfitness.app",
       "developerName": "Caliber Fitness, Inc",
       "subtitle": "Tweaked with Caliber, blatantsPatch",
-      "version": "5.14.0",
-      "versionDate": "2026-07-06",
+      "version": "5.14.1",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: Caliber, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Caliber_Strength_Training_v5_14_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Caliber_Strength_Training_v5_14_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Caliber, blatantsPatch\n\nCaliber: Strength Training\n\n---\nCaliber is a science-based strength training app that combines resistance training, cardio, nutrition, and habit formation to help you build muscle, lose fat, and improve your overall fitness—for good.\n\nTRAIN YOUR WAY\n\n• Free Version. Create and track unlimited workouts, access 600+ exercises, and train solo or with friends.\n\n• Caliber Plus. Maximize your results with coach-designed training plans, personalized progress tracking, nutrition targets and more.\n\n• Premium Coaching. Get 1-on-1 guidan",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/b9/89/fab989b3-614a-1717-7fab-a2839f4af964/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 51668846,
+      "size": 51669890,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -10307,11 +10307,11 @@
       },
       "versions": [
         {
-          "version": "5.14.0",
-          "date": "2026-07-06",
+          "version": "5.14.1",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: Caliber, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Caliber_Strength_Training_v5_14_0_Subscription_Unlocked_blatant.ipa",
-          "size": 51668846
+          "downloadURL": "https://telos.ftp.sh/ipas/Caliber_Strength_Training_v5_14_1_Subscription_Unlocked_blatant.ipa",
+          "size": 51669890
         }
       ],
       "category": "health-&-fitness"
@@ -58734,14 +58734,14 @@
       "bundleIdentifier": "scannerapp.free",
       "developerName": "Luni",
       "subtitle": "Tweaked with ScannerApp, blatantsPatch",
-      "version": "2.11.17",
-      "versionDate": "2026-07-06",
+      "version": "2.11.18",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: ScannerApp, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Scanner_–_Scan_PDF_&_Document_v2_11_17_Premium_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Scanner_–_Scan_PDF_&_Document_v2_11_18_Premium_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ScannerApp, blatantsPatch\n\nScanner – Scan PDF & Document\n\n---\nThe smartest app to scan, edit, sign and share documents\nTrusted by 1M+ users\nPerfect for any document: contracts, invoices, IDs, expense receipts and more\n\nTurn your phone into a powerful scanner\nScanner PDF app will maximize your document management efficiency : a mobile scanner for your smartphone, to change paper into PDF, while saving both time and storage.\nScanner PDF supports image processing and can transform, rotate, sharpen your images, for best document quality, combined with Scanner",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/db/e5/57dbe5ca-9f11-37a4-0f51-b7559b5bc5ba/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 94234599,
+      "size": 94317493,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/c5/f1/2cc5f196-a669-646e-2402-13ece90c468d/3ec0394a-1d6d-4192-8461-e1a90c16763a_SCREEN_1_1_1242_x_2208.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/8b/15/a98b1589-d8c7-2b18-e47b-0f097a000c91/168af86f-52dc-490d-b524-d8ce3d7013cc_SCREEN_2_1242_x_2208.jpg/392x696bb.jpg",
@@ -58767,11 +58767,11 @@
       },
       "versions": [
         {
-          "version": "2.11.17",
-          "date": "2026-07-06",
+          "version": "2.11.18",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: ScannerApp, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Scanner_–_Scan_PDF_&_Document_v2_11_17_Premium_Unlocked_blatant.ipa",
-          "size": 94234599
+          "downloadURL": "https://telos.ftp.sh/ipas/Scanner_–_Scan_PDF_&_Document_v2_11_18_Premium_Unlocked_blatant.ipa",
+          "size": 94317493
         }
       ],
       "category": "business"
