@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.getmimo.mimo",
-    "com.joytunes.SimplyGuitar",
-    "com.itwcalculator.calculatorforipadfree",
-    "com.iaftt.flightplusfree",
-    "uni.cbum"
+    "com.dr1ven.eraser",
+    "com.fishbrain.app",
+    "com.wikiloc.wikiloc",
+    "instapreview",
+    "com.skylum.luminaripad"
   ],
   "apps": [
     {
@@ -23237,20 +23237,20 @@
       "bundleIdentifier": "com.fishbrain.app",
       "developerName": "FishBrain",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "9.57.1",
-      "versionDate": "2026-07-01",
+      "version": "9.58.0",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fishbrain - Fishing App-v9.57.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fishbrain - Fishing App-v9.58.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nFishbrain - Fishing App\n\n---\nFish smarter with Fishbrain! Find new fishing spots, get detailed local info, and connect with a community of more than 20 million anglers. Fishbrain provides you with the maps and tools you need to improve your fishing skills.\n\nFIND NEW FISHING SPOTS\nFishbrain is the fastest and easiest way to find places to fish. Explore thousands of fishing waters and see exactly where fish are being caught with the Fishbrain map. Take your scouting to the next level with advanced map layers and customization",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/7f/8a/5f7f8a30-1543-59a7-deb6-f468b011dc6a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/c5/f0/ccc5f019-6854-19ac-4343-22c6860e48b5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 104908011,
+      "size": 105339709,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/91/94/349194cb-6260-048c-8706-410bd747c510/587a1251-897c-4222-b374-174bfde201ec_Lake_dock_1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/1b/c6/301bc634-8349-8ade-fa39-e14c01234f5b/21e1c76d-0143-4bc2-b0c7-ee6863e2e22f_5.5_new_copy.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/e5/ce/abe5ce70-f36c-19f7-de26-155f762f2565/a73fe745-7aef-48ba-a933-33964e031d24_5.5_Lake_dock_14_Government.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/76/c0/0e76c004-a77a-05aa-5c19-9c4053f94646/65756d20-10a4-43ea-bf57-975d56ed4b55_Lake_dock_9_BiteTime.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/0e/54/ea0e54a3-89a9-01ef-b8b5-b55a7de99646/cac800c8-cadd-4b8b-b5e3-116fa95538a1_Lake_dock_6_Top_baits.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/6c/fc/156cfc85-e87b-a662-437f-a4e99e0f23e8/587a1251-897c-4222-b374-174bfde201ec_Lake_dock_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/e6/ac/ade6acde-4b39-120c-cf97-c6c063bd7956/21e1c76d-0143-4bc2-b0c7-ee6863e2e22f_5.5_new_copy.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/40/9f/f0409f8b-a16f-b34a-c781-0d2b4ced7459/a73fe745-7aef-48ba-a933-33964e031d24_5.5_Lake_dock_14_Government.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/b3/5b/ceb35b85-e5a3-0553-48ff-c189f6689a95/65756d20-10a4-43ea-bf57-975d56ed4b55_Lake_dock_9_BiteTime.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/a3/63/d8a363a3-05d9-3672-3519-b5b97184fa3a/cac800c8-cadd-4b8b-b5e3-116fa95538a1_Lake_dock_6_Top_baits.png/392x696bb.png"
       ],
       "appPermissions": {
         "entitlements": [
@@ -23274,11 +23274,11 @@
       },
       "versions": [
         {
-          "version": "9.57.1",
-          "date": "2026-07-01",
+          "version": "9.58.0",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fishbrain - Fishing App-v9.57.1-riftysipas.ipa",
-          "size": 104908011
+          "downloadURL": "https://telos.ftp.sh/ipas/Fishbrain - Fishing App-v9.58.0-riftysipas.ipa",
+          "size": 105339709
         }
       ],
       "category": "sports"
@@ -32488,14 +32488,14 @@
       "bundleIdentifier": "instapreview",
       "developerName": "Onelight Apps CY Ltd",
       "subtitle": "Tweaked with Inpreview, blatantsPatch",
-      "version": "6.11.0",
-      "versionDate": "2026-06-06",
+      "version": "7.0.0",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: Inpreview, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Layout_for_Instagram・Inpreview_v6_11_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Layout_for_Instagram・Inpreview_v7_0_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Inpreview, blatantsPatch\n\nLayout for Instagram・Inpreview\n\n---\nPreview your feed on Instagram with Inpreview: plan aesthetic grid layout, schedule posts, apply trendy filters. No login to Instagram!\n\nNEW: Try our unique feature - Highlights Preview! Plan your highlights in the right order, preview them on your page and choose aesthetic highlight covers!\n\nFed up with using multiple tools to manage your Instagram page? Tired of guessing how new photos will fit in your feed? Care about making posts on time?\n\nWe’re continue developing a super convenient tool fo",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/90/2c/42902cba-193c-ee38-1c88-3a37d1ca783c/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/2d/76/d72d7648-83ae-cc76-695d-0f5cb6d15a9e/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 126806029,
+      "size": 126688162,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -32514,11 +32514,11 @@
       },
       "versions": [
         {
-          "version": "6.11.0",
-          "date": "2026-06-06",
+          "version": "7.0.0",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: Inpreview, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Layout_for_Instagram・Inpreview_v6_11_0_Subscription_Unlocked_blatant.ipa",
-          "size": 126806029
+          "downloadURL": "https://telos.ftp.sh/ipas/Layout_for_Instagram・Inpreview_v7_0_0_Subscription_Unlocked_blatant.ipa",
+          "size": 126688162
         }
       ],
       "category": "photo-&-video"
@@ -39458,14 +39458,14 @@
       "bundleIdentifier": "com.skylum.luminaripad",
       "developerName": "Skylum",
       "subtitle": "Tweaked with FilePickerFix, Luminar",
-      "version": "4.1",
-      "versionDate": "2026-07-02",
+      "version": "4.2",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: FilePickerFix, Luminar, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FilePickerFix, Luminar, blatantsPatch\n\nLuminar: Image Editor&Enhancer\n\n---\nLuminar — Your all-in-one, on-the-go photo editor and creative companion for iPhone, iPad and Vision Pro. Explore powerful AI-driven tools and an interactive interface that responds to your touch, delivering a uniquely engaging photo editing experience.\n\nStreamlined design with unparalleled control\n\nLuminar's user-friendly design allows you to edit your photos with intuitive gestures, featuring smoothly gliding sliders and spinning dials that respond realistically to your touch with motion and s",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/13/33/791333d2-21bb-46f8-cbd1-3a78a9a2ef14/LuminarLogo-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 536067442,
+      "size": 547533625,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/5e/a0/065ea076-8f7b-26c0-adcc-df15d87c995f/12a21320-1dde-4f81-9957-774e26de1981_3.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/cd/6d/28cd6d0d-ddd3-c301-fb2c-2a1d596d64ac/6faabc21-360e-427f-a4c1-dcfa5e330231_4.png/392x696bb.png",
@@ -39490,11 +39490,11 @@
       },
       "versions": [
         {
-          "version": "4.1",
-          "date": "2026-07-02",
+          "version": "4.2",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: FilePickerFix, Luminar, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_1_Subscription_Unlocked_blatant.ipa",
-          "size": 536067442
+          "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_2_Subscription_Unlocked_blatant.ipa",
+          "size": 547533625
         }
       ],
       "category": "photo-&-video"
@@ -50915,15 +50915,15 @@
       "name": "Photoroom",
       "bundleIdentifier": "com.dr1ven.eraser",
       "developerName": "Photoroom",
-      "subtitle": "Tweaked with PhotoRoomPatch",
-      "version": "2026.28.01",
-      "versionDate": "2026-07-06",
-      "versionDescription": "Tweaks: PhotoRoomPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Photoroom Pro 2026.28.01.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: PhotoRoomPatch\n\nPhotoRoom: AI Photo Editor\n\n---\nPhotoroom is the ultimate AI-powered photo editing app, trusted by over 300 million users.\n\nCreate studio-quality product photos in seconds with Photoroom’s advanced AI photo editing technology. No design skills required.\n\nWHY CHOOSE PHOTOROOM?\n\nENHANCE PRODUCT LISTINGS. Showcase clothing on virtual models, ghost mannequins, and flat lay. No studio required.\n\nREMOVE, REPLACE, AND RECOLOR. Remove backgrounds, swap for AI-generated edits, and recolor products in seconds.\n\nSAVE TIME WITH BATCH EDIT",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
+      "version": "2026.29.01",
+      "versionDate": "2026-07-13",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.29.01-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPhotoroom: AI Photo Editor\n\n---\nPhotoroom is the ultimate AI-powered photo editing app, trusted by over 300 million users.\n\nCreate studio-quality product photos in seconds with Photoroom’s advanced AI photo editing technology. No design skills required.\n\nWHY CHOOSE PHOTOROOM?\n\nENHANCE PRODUCT LISTINGS. Showcase clothing on virtual models, ghost mannequins, and flat lay. No studio required.\n\nREMOVE, REPLACE, AND RECOLOR. Remove backgrounds, swap for AI-generated edits, and recolor products in seconds.\n\nSAVE TIME WITH BATCH EDIT",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/0f/2c/be0f2cc8-d36b-e436-20ee-645f49685fb3/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 182084521,
+      "size": 192860466,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -50945,11 +50945,11 @@
       },
       "versions": [
         {
-          "version": "2026.28.01",
-          "date": "2026-07-06",
-          "localizedDescription": "Tweaks: PhotoRoomPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Photoroom Pro 2026.28.01.ipa",
-          "size": 182084521
+          "version": "2026.29.01",
+          "date": "2026-07-13",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.29.01-riftysipas.ipa",
+          "size": 192860466
         }
       ],
       "category": "photo-&-video"
@@ -73400,14 +73400,14 @@
       "bundleIdentifier": "com.mwm.guitartuner",
       "developerName": "MWM",
       "subtitle": "Tweaked with TunerPro, blatantsPatch",
-      "version": "4.01.01",
-      "versionDate": "2026-07-05",
+      "version": "4.01.02",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: TunerPro, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tuner_Pro_Guitar_Tuner_&_Tab_v4_01_01_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tuner_Pro_Guitar_Tuner_&_Tab_v4_01_02_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: TunerPro, blatantsPatch\n\nTuner Pro: Guitar Tuner & Tab\n\n---\nUnlock perfect guitar tuning in seconds! Nail every note with our easy-to-use tuner, now powered by AI. Learn chords and play your favorite songs instantly.\n\nNo cables, no fuss. Just your phone and your instrument. Whether you're a beginner or a pro, Tuner Pro helps you sound your best.\n\nWhy You'll Love It:\n- Tune your guitar, bass, or ukulele with ease.\n- Practice with AI chord and lyric generation.\n- Learn quickly with manual or automatic modes.\n\nTop Features:\n- Chromatic tuner for all instrum",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/02/25/5f022515-58e2-ca6e-315c-a5956e1eda7a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 296264621,
+      "size": 298905982,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/28/a0/8728a021-28c4-5ef4-6da9-1a176c8fc4c5/EN_ipad_01.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/a8/80/d4a880e3-4ac2-2aa2-bc3f-0b1b9770299d/EN_ipad_02.png/576x768bb.png",
@@ -73429,11 +73429,11 @@
       },
       "versions": [
         {
-          "version": "4.01.01",
-          "date": "2026-07-05",
+          "version": "4.01.02",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: TunerPro, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tuner_Pro_Guitar_Tuner_&_Tab_v4_01_01_Subscription_Unlocked_blatant.ipa",
-          "size": 296264621
+          "downloadURL": "https://telos.ftp.sh/ipas/Tuner_Pro_Guitar_Tuner_&_Tab_v4_01_02_Subscription_Unlocked_blatant.ipa",
+          "size": 298905982
         }
       ],
       "category": "music"
@@ -78506,14 +78506,14 @@
       "bundleIdentifier": "com.wikiloc.wikiloc",
       "developerName": "Wikiloc Outdoor SL",
       "subtitle": "Tweaked with Wikiloc, blatantsPatch",
-      "version": "3.29.4",
-      "versionDate": "2026-06-23",
+      "version": "3.30.0",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: Wikiloc, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Wikiloc_Trails_of_the_World_v3_29_4_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Wikiloc_Trails_of_the_World_v3_30_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Wikiloc, blatantsPatch, sideloadKeychainfix\n\nWikiloc - Trails of the World\n\n---\nDiscover millions of outdoor trails around the world. Choose between hiking, running, bike, MTB, kayak, ski or up to 80 different types of activities.\n\nRecord your own routes on a map, add waypoints, take pictures along the itinerary and upload them to your Wikiloc account from your phone.\n\nEnjoy free offline topographic maps from all over the world for you to use without coverage or data. Great when you're out in the mountains or traveling without Internet connection.\n\nWant to take your outdoor",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/be/c1/e9bec1db-3c5c-bcfc-4b29-94bfda8d31ec/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/2b/bd/712bbdf7-e9ca-65e6-6697-f00b0adcd242/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 101836710,
+      "size": 102139625,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/91/ac/2d91ac3f-b859-9ed9-f90b-b7460d90bb6d/1._5.5__EN.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/00/e6/8200e6f8-664e-c4cb-68ae-749e29b7fe03/2._5.5__EN.png/392x696bb.png",
@@ -78542,11 +78542,11 @@
       },
       "versions": [
         {
-          "version": "3.29.4",
-          "date": "2026-06-23",
+          "version": "3.30.0",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: Wikiloc, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Wikiloc_Trails_of_the_World_v3_29_4_Subscription_Unlocked_blatant.ipa",
-          "size": 101836710
+          "downloadURL": "https://telos.ftp.sh/ipas/Wikiloc_Trails_of_the_World_v3_30_0_Subscription_Unlocked_blatant.ipa",
+          "size": 102139625
         }
       ],
       "category": "navigation"
