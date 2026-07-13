@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.geniussoftware.GeniusScan",
     "com.inflow.app",
     "com.lightricks.Facetune2",
     "com.dr1ven.eraser",
-    "com.fishbrain.app",
-    "com.wikiloc.wikiloc"
+    "com.fishbrain.app"
   ],
   "apps": [
     {
@@ -26665,14 +26665,14 @@
       "bundleIdentifier": "com.geniussoftware.GeniusScan",
       "developerName": "The Grizzly Labs",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "8.12.1",
-      "versionDate": "2026-06-12",
+      "version": "8.13",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Scanner App: Genius Scan-v8.12.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Scanner App: Genius Scan-v8.13-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nScanner App: Genius Scan",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/e6/4f/1fe64f03-1eca-03fd-c5f3-bd153639577e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/1c/d1/1f1cd195-fc43-4606-7e01-c60c2b04dbb5/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 58583644,
+      "size": 59431994,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -26693,11 +26693,11 @@
       },
       "versions": [
         {
-          "version": "8.12.1",
-          "date": "2026-06-12",
+          "version": "8.13",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Scanner App: Genius Scan-v8.12.1-riftysipas.ipa",
-          "size": 58583644
+          "downloadURL": "https://telos.ftp.sh/ipas/Scanner App: Genius Scan-v8.13-riftysipas.ipa",
+          "size": 59431994
         }
       ],
       "category": "business"
@@ -81389,7 +81389,7 @@
     {
       "title": "⚙️ Telos Update 7.13",
       "identifier": "telos-update-2026-07-13",
-      "caption": "46 Apps Updated:\n• 18 Photo & Video\n• 6 Health & Fitness\n• 4 Education\n• 2 Games\n• 2 Entertainment\n• 2 Productivity\n• 2 Weather\n• 2 Utilities\n• 2 Travel\n• 2 Sports\n• 2 Navigation\n• 2 Music",
+      "caption": "46 Apps Updated:\n• 16 Photo & Video\n• 4 Health & Fitness\n• 4 Education\n• 4 Business\n• 2 Games\n• 2 Entertainment\n• 2 Productivity\n• 2 Weather\n• 2 Utilities\n• 2 Travel\n• 2 Sports\n• 2 Navigation\n• 2 Music",
       "date": "2026-07-13",
       "tintColor": "#02433b",
       "notify": true,
