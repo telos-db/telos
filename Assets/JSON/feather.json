@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.burbn.instagram",
     "ai.polycam.polycam",
     "com.tfourj.Palladium",
     "com.sp0n.vigilante",
-    "com.risesci.nyx",
-    "com.stippl.stippl"
+    "com.risesci.nyx"
   ],
   "apps": [
     {
@@ -32615,15 +32615,15 @@
       "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram, Inc.",
-      "subtitle": "Tweaked with CydiaSubstrate, FLEXing",
-      "version": "434.0.0",
-      "versionDate": "2026-06-19",
-      "versionDescription": "Tweaks: CydiaSubstrate, FLEXing, RyukGram, flex, zxPluginsInject\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/RyukGram-1.3.2.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, FLEXing, RyukGram, flex, zxPluginsInject\n\nRyukGram v1.3.2 | Instagram 434\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/27/d5/0827d502-4f9c-106e-9086-63fbfef56ca6/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "subtitle": "Tweaked with CydiaSubstrate, Theta",
+      "version": "380.0.0",
+      "versionDate": "2026-07-13",
+      "versionDescription": "Tweaks: CydiaSubstrate, Theta, substrate\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Theta_1.5-LC.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Theta, substrate\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/41/f1/8841f1a8-adc9-a54a-84ab-68f09dfe9731/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 325069159,
+      "size": 227144862,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/c5/c7/b9c5c720-07ca-29c7-a67f-8fd2e2cd2b72/2_iOS_5.5.jpg/392x696bb.jpg",
@@ -32633,20 +32633,29 @@
       ],
       "appPermissions": {
         "entitlements": [
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.avfoundation.multitasking-camera-access",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.journal.allow",
           "com.apple.security.application-groups",
-          "com.apple.developer.associated-appclip-app-identifiers",
-          "com.apple.developer.declared-age-range",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "aps-environment",
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.usernotifications.time-sensitive",
           "com.apple.developer.associated-domains",
-          "com.apple.developer.networking.wifi-info"
+          "com.apple.developer.media-device-discovery-extension",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.weatherkit",
+          "com.apple.developer.healthkit.access",
+          "com.apple.developer.icloud-container-development-container-identifiers",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.kernel.increased-debugging-memory-limit",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.game-center",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.healthkit.background-delivery",
+          "com.apple.developer.networking.networkextension",
+          "com.apple.developer.nfc.readersession.formats",
+          "aps-environment",
+          "com.apple.developer.coremedia.hls.low-latency",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.user-fonts",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-domains.mdm-managed"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
@@ -32658,18 +32667,17 @@
           "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
           "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
           "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
-          "NSLocalNetworkUsageDescription": "Used to discover and connect to compatible streaming devices on your Wi-Fi network.",
-          "NSUserTrackingUsageDescription": "This helps Instagram personalize ads we show you.",
+          "NSUserTrackingUsageDescription": "This allows Instagram to provide you with a better ads experience.",
           "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll."
         }
       },
       "versions": [
         {
-          "version": "434.0.0",
-          "date": "2026-06-19",
-          "localizedDescription": "Tweaks: CydiaSubstrate, FLEXing, RyukGram, flex, zxPluginsInject\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/RyukGram-1.3.2.ipa",
-          "size": 325069159
+          "version": "380.0.0",
+          "date": "2026-07-13",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Theta, substrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Theta_1.5-LC.ipa",
+          "size": 227144862
         }
       ],
       "category": "photo-&-video"
