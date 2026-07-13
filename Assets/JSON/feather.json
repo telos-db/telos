@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.elevateapp.elevate",
+    "com.thewayapp.mobile",
+    "com.cinee.trend",
     "com.wellocution.iosapp",
-    "scannerapp.free",
-    "com.caliberfitness.app",
-    "com.lasmit.World-Time",
-    "co.detail.duo"
+    "scannerapp.free"
   ],
   "apps": [
     {
@@ -19762,15 +19762,15 @@
       "name": "Elevate",
       "bundleIdentifier": "com.elevateapp.elevate",
       "developerName": "The Mind Company",
-      "subtitle": "Tweaked with AutoRc, CydiaSubstrate",
-      "version": "5.247.0",
-      "versionDate": "2026-07-06",
-      "versionDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Elevate Pro 5.247.0.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: AutoRc, CydiaSubstrate\n\nElevate - Brain Training Games\n\n---\nElevate is a brain training program designed to improve your mind’s focus, memory, speaking abilities, processing speed, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.\n\nThe more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. 90%+ report improved vocabulary, math skills, and overall mental sharpness when they frequen",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
+      "version": "5.248.0",
+      "versionDate": "2026-07-13",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.248.0-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nElevate - Brain Training Games\n\n---\nElevate is a brain training program designed to improve your mind’s focus, memory, speaking abilities, processing speed, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.\n\nThe more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. 90%+ report improved vocabulary, math skills, and overall mental sharpness when they frequen",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/46/bb/b346bb91-1ac0-0404-b1b9-29b7cadd6388/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 402873343,
+      "size": 403212496,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -19791,11 +19791,11 @@
       },
       "versions": [
         {
-          "version": "5.247.0",
-          "date": "2026-07-06",
-          "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Elevate Pro 5.247.0.ipa",
-          "size": 402873343
+          "version": "5.248.0",
+          "date": "2026-07-13",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.248.0-riftysipas.ipa",
+          "size": 403212496
         }
       ],
       "category": "education"
@@ -43629,6 +43629,37 @@
         }
       ],
       "category": "navigation"
+    },
+    {
+      "name": "MoviaQuill",
+      "bundleIdentifier": "com.cinee.trend",
+      "developerName": "Buke Reza",
+      "subtitle": "MoviaQuill for iOS",
+      "version": "1.1.2",
+      "versionDate": "2026-07-13",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.cinee.trend-1.1.2-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nEnjoy a focused video entertainment space built for browsing films, series, episodes, clips, and trailers from a clean media library. The app helps viewers move from discovery to playback with clear title pages, organized collections, and viewing tools that make screen time easier to manage.\n\nExplore film and video sections by category, title, episode, clip set, or trailer. Each media page can present summaries, runtime details, poster art, playback entry points, and related viewing suggestions",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/91/2e/36912e3a-fa9b-4b1f-b11b-d8c871ec8493/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 18396843,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized advertisements to you."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.1.2",
+          "date": "2026-07-13",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.cinee.trend-1.1.2-eeveedecrypter.ipa",
+          "size": 18396843
+        }
+      ],
+      "category": "entertainment"
     },
     {
       "name": "MovieBox",
@@ -70213,20 +70244,20 @@
       "bundleIdentifier": "com.thewayapp.mobile",
       "developerName": "The Way App Inc",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.20.4",
-      "versionDate": "2026-06-26",
+      "version": "1.21.0",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.20.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.21.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nThe Way: Meditation Path\n\n---\nTHE WAY is a new kind of meditation app: a single path, led by an authorized Zen master, that guides you on a deep meditation training program. Study alongside Zen master Henry Shukman as you uncover the deep peace, love, insight and awakening that meditation can bring.\n\nThe simple path to deeper meditation.\n\nWith THE WAY, you will:\n\n Never feel overwhelmed by choice. The Way guides you step-by-step along a single, linear path through all the key areas of a deep and fulfilling meditation practic",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/2c/d5/452cd5fc-13c4-9c34-63f3-ba7480d43e25/app-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/d4/b2/97d4b2f7-0059-fd67-d117-f314a3f2629c/app-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 97487446,
+      "size": 109647849,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/ee/4f/18ee4f16-774c-831b-b0f7-cad9f715bb7e/ipad-appstore-12.9-INCH-2048_U00d72732-screen-1.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/06/43/cd0643eb-907d-8aba-a63d-93f70d937998/ipad-appstore-12.9-INCH-2048_U00d72732-screen-2.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/d7/03/23d70330-f20e-b778-4beb-821a4df7948d/ipad-appstore-12.9-INCH-2048_U00d72732-screen-3.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/0a/66/ae0a66f2-6ebb-2ab9-d531-eb174d56dba4/ipad-appstore-12.9-INCH-2048_U00d72732-screen-4.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/b3/1f/13b31fff-0602-5911-80fb-bcca35e9b975/ipad-appstore-12.9-INCH-2048_U00d72732-screen-5.png/576x768bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/21/a2/f421a212-d94e-7631-5279-c965c585ed92/ipad-appstore-12.9-INCH-2048_U00d72732-screen-1.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/97/a8/3a97a819-1701-ceba-1895-191b7b4092e0/ipad-appstore-12.9-INCH-2048_U00d72732-screen-2.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/cc/86/22cc86bf-9377-6e79-7d9e-1ccf1448f288/ipad-appstore-12.9-INCH-2048_U00d72732-screen-3.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/f9/c4/a0f9c420-bf70-ad5c-01c1-50802d31b6fc/ipad-appstore-12.9-INCH-2048_U00d72732-screen-4.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/e9/11/b6e9118a-7ab5-2893-2778-0d3d974e5bdd/ipad-appstore-12.9-INCH-2048_U00d72732-screen-5.png/576x768bb.png"
       ],
       "appPermissions": {
         "entitlements": [
@@ -70250,11 +70281,11 @@
       },
       "versions": [
         {
-          "version": "1.20.4",
-          "date": "2026-06-26",
+          "version": "1.21.0",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.20.4-riftysipas.ipa",
-          "size": 97487446
+          "downloadURL": "https://telos.ftp.sh/ipas/The Way: Meditation Path-v1.21.0-riftysipas.ipa",
+          "size": 109647849
         }
       ],
       "category": "lifestyle"
