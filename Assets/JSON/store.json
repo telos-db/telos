@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.evolve.podcast",
     "com.elevateapp.kamino.kamino",
-    "io.gonative.ios.xqdyad",
-    "tech.miidii.MDVinyl",
-    "com.HappyPlanTech.SnapWords",
-    "dazz.camera.vintagecamera"
+    "com.youssef.developer.Full-Browser",
+    "com.yengshine.proccd",
+    "io.gonative.ios.xqdyad"
   ],
   "apps": [
     {
@@ -6139,15 +6139,15 @@
       "name": "Balance",
       "bundleIdentifier": "com.elevateapp.kamino.kamino",
       "developerName": "The Mind Company",
-      "subtitle": "Subscription Unlocked | Patched",
+      "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
       "version": "1.205.0",
       "versionDate": "2026-07-13",
-      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Balance_Meditation_&_Sleep_v1_205_0_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nBalance: Meditation & Sleep",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/Balance: Meditation & Sleep-v1.205.0-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nBalance: Meditation & Sleep",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/1d/7a/011d7a35-db99-f2ca-83c8-a8517fa58bbb/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 122385957,
+      "size": 117468827,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -6172,9 +6172,9 @@
         {
           "version": "1.205.0",
           "date": "2026-07-13",
-          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Balance_Meditation_&_Sleep_v1_205_0_Subscription_Unlocked_blatant.ipa",
-          "size": 122385957
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/Balance: Meditation & Sleep-v1.205.0-riftysipas.ipa",
+          "size": 117468827
         }
       ],
       "category": "health-&-fitness"
@@ -52806,14 +52806,14 @@
       "bundleIdentifier": "com.evolve.podcast",
       "developerName": "Evolve Global, Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "7.10.0",
-      "versionDate": "2026-07-06",
+      "version": "7.11.0",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.10.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.11.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nPodcast App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/8a/e7/588ae7cf-ee36-29b9-e94e-8e7c9740fde4/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 52559933,
+      "size": 52610450,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/d3/03/b3d30346-9743-a201-b3cc-a20c1ef3ae19/dab702f7-c5a1-41ec-8f24-22240e56c809_EN_-_5.5_-_Screenshot_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/7a/a4/c47aa4ac-6667-d771-d1fe-76dd5369744f/6404e4fd-5396-4389-b62f-292adf70d49a_EN_-_5.5_-_Screenshot_02.png/392x696bb.png",
@@ -52842,11 +52842,11 @@
       },
       "versions": [
         {
-          "version": "7.10.0",
-          "date": "2026-07-06",
+          "version": "7.11.0",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.10.0-riftysipas.ipa",
-          "size": 52559933
+          "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.11.0-riftysipas.ipa",
+          "size": 52610450
         }
       ],
       "category": "news"
@@ -53851,14 +53851,14 @@
       "bundleIdentifier": "com.yengshine.proccd",
       "developerName": "亚玲 查",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "6.3.0",
-      "versionDate": "2026-07-09",
+      "version": "6.3.1",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: ProCCD, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/ProCCD_Digital_Film_Camera_v6_3_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ProCCD_Digital_Film_Camera_v6_3_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nProCCD - Digital Film Camera",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/24/07/8f2407dd-664d-2474-f413-39b0d2a0ab73/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 264906203,
+      "size": 263198031,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/c4/45/68c445c6-7584-458d-5670-9d579902a260/01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/d0/c2/0bd0c293-022f-3e34-aa0b-ad5ef65875f4/02.jpg/392x696bb.jpg",
@@ -53882,11 +53882,11 @@
       },
       "versions": [
         {
-          "version": "6.3.0",
-          "date": "2026-07-09",
+          "version": "6.3.1",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: ProCCD, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/ProCCD_Digital_Film_Camera_v6_3_0_Subscription_Unlocked_blatant.ipa",
-          "size": 264906203
+          "downloadURL": "https://telos.ftp.sh/ipas/ProCCD_Digital_Film_Camera_v6_3_1_Subscription_Unlocked_blatant.ipa",
+          "size": 263198031
         }
       ],
       "category": "photo-&-video"
@@ -71293,14 +71293,14 @@
       "bundleIdentifier": "com.youssef.developer.Full-Browser",
       "developerName": "STELLAR APPS LIMITED",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "11.5",
-      "versionDate": "2026-06-01",
+      "version": "11.7",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: TorSuite, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/TOR_Browser_The_Onion_+_VPN_v11_5_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/TOR_Browser_The_Onion_+_VPN_v11_7_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nTOR Browser: The Onion + VPN",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/13/29/56132955-038d-7131-0125-20111594405a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/00/21/3a00211b-c150-2438-3089-d0200e4ac67d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 188918633,
+      "size": 188964037,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/a9/e4/23a9e4b9-ec98-b96b-c373-56c8d271fe83/1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/dd/b6/65ddb6c7-142c-961d-3e21-1801762d67f6/2.jpg/392x696bb.jpg",
@@ -71324,11 +71324,11 @@
       },
       "versions": [
         {
-          "version": "11.5",
-          "date": "2026-05-25",
+          "version": "11.7",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: TorSuite, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/TOR_Browser_The_Onion_+_VPN_v11_5_Subscription_Unlocked_blatant.ipa",
-          "size": 188918633
+          "downloadURL": "https://telos.ftp.sh/ipas/TOR_Browser_The_Onion_+_VPN_v11_7_Subscription_Unlocked_blatant.ipa",
+          "size": 188964037
         }
       ],
       "category": "utilities"
@@ -81471,7 +81471,7 @@
     {
       "title": "⚙️ Telos Update 7.13",
       "identifier": "telos-update-2026-07-13",
-      "caption": "98 Apps Updated:\n• 26 Photo & Video\n• 18 Education\n• 12 Health & Fitness\n• 10 Entertainment\n• 6 Music\n• 4 Productivity\n• 4 Utilities\n• 4 Business\n• 4 Lifestyle\n• 2 Games\n• 2 Weather\n• 2 Travel\n• 2 Sports\n• 2 Navigation",
+      "caption": "112 Apps Updated:\n• 30 Photo & Video\n• 18 Education\n• 14 Health & Fitness\n• 10 Entertainment\n• 8 Utilities\n• 6 Music\n• 4 Productivity\n• 4 Business\n• 4 Lifestyle\n• 4 News\n• 2 Games\n• 2 Weather\n• 2 Travel\n• 2 Sports\n• 2 Navigation",
       "date": "2026-07-13",
       "tintColor": "#02433b",
       "notify": true,
