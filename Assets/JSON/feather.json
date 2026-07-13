@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "ai.polycam.polycam",
     "com.tfourj.Palladium",
     "com.sp0n.vigilante",
     "com.risesci.nyx",
-    "com.stippl.stippl",
-    "com.vertventures.stella"
+    "com.stippl.stippl"
   ],
   "apps": [
     {
@@ -53575,14 +53575,14 @@
       "bundleIdentifier": "ai.polycam.polycam",
       "developerName": "Polycam Inc.",
       "subtitle": "Polycam for iOS",
-      "version": "5.1.4",
-      "versionDate": "2026-02-28",
+      "version": "6.0.13",
+      "versionDate": "2026-07-13",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/ai.polycam.polycam-5.1.4-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nPolycam is the leading 3D scanning platform for iPhone and iPad, blending professional-grade capabilities with a user-friendly interface. Effortlessly create high-quality 3D models from photos, generate precise LiDAR scans, and capture immersive 360° images—all on your device. Edit directly on your iPhone or iPad and export in formats compatible with industry-standard software. Seamlessly share your work and connect with a global community of creators.\n\nPolycam offers a suite of features for 3D",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/2e/c6/082ec65d-0291-919b-db93-16ae6457440f/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/ai.polycam.polycam-6.0.13-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nAlready Decrypted\n\n---\nPolycam is the leading 3D scanning platform for iPhone and iPad, blending professional-grade capabilities with a user-friendly interface. Effortlessly create high-quality 3D models from photos, generate precise LiDAR scans, and capture immersive 360° images—all on your device. Edit directly on your iPhone or iPad and export in formats compatible with industry-standard software. Seamlessly share your work and connect with a global community of creators.\n\nPolycam offers a suite of features for 3D",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/00/4b/05004b22-6029-489c-dae9-3deb2bff5ad0/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 91278400,
+      "size": 379523246,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/bc/bb/c4bcbbc2-53b1-7cb5-5787-4434662794c3/843d68f3-95ea-4e62-8025-bb1310e8650b_Capture.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/54/4c/a0544cde-fccc-1371-c8f6-fadebb0846f2/bb2cb4c1-96cf-4307-973f-05cfd203de7e_Analyze.png/576x768bb.png",
@@ -53602,11 +53602,11 @@
       },
       "versions": [
         {
-          "version": "5.1.4",
-          "date": "2026-02-28",
+          "version": "6.0.13",
+          "date": "2026-07-13",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/ai.polycam.polycam-5.1.4-eeveedecrypter.ipa",
-          "size": 91278400
+          "downloadURL": "https://telos.ftp.sh/ipas/ai.polycam.polycam-6.0.13-eeveedecrypter.ipa",
+          "size": 379523246
         }
       ],
       "category": "photo-&-video"
