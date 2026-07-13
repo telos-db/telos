@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.br.12min.mobile",
-    "com.dopedevelopment.Panels",
-    "io.labhouse.audioapp",
-    "com.mwm.procolor",
-    "com.impalastudios.pianofree"
+    "com.lasmit.World-Time",
+    "co.detail.duo",
+    "com.myswimpro.apps.MySwimPro",
+    "com.nuvio.media",
+    "com.br.12min.mobile"
   ],
   "apps": [
     {
@@ -17010,14 +17010,14 @@
       "bundleIdentifier": "co.detail.duo",
       "developerName": "Detail Technologies B.V.",
       "subtitle": "*Tweak:** Pro Unlocked | *Notes:** Restart App If It Isnt Pro",
-      "version": "5.5.22",
-      "versionDate": "2026-06-19",
+      "version": "5.6.0",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Detail: Camera & Video Editor-v5.5.22-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Detail: Camera & Video Editor-v5.6.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Notes:** Restart App If It Isnt Pro | *Patched ✓**\n\nDetail: Camera & Video Editor",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/3e/89/0c3e8991-a51c-c3a9-bb54-bd418dc9f3f2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/da/61/a6da61b8-507a-7c27-04c1-608fe7aac5f5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 228580734,
+      "size": 228010859,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -17039,11 +17039,11 @@
       },
       "versions": [
         {
-          "version": "5.5.22",
-          "date": "2026-06-19",
+          "version": "5.6.0",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Detail: Camera & Video Editor-v5.5.22-riftysipas.ipa",
-          "size": 228580734
+          "downloadURL": "https://telos.ftp.sh/ipas/Detail: Camera & Video Editor-v5.6.0-riftysipas.ipa",
+          "size": 228010859
         }
       ],
       "category": "photo-&-video"
@@ -44138,14 +44138,14 @@
       "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
       "developerName": "MySwimPro, Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "9.0.9",
-      "versionDate": "2026-07-07",
+      "version": "9.1.0",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.0.9-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.1.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓** | *Bundle Id:** Com.Myswimpro.Apps.Myswimpro | *Developer:** Myswimpro, Inc.\n\nMySwimPro: #1 Swim Workout App",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/81/49/3581499d-1c46-3f4e-bbc7-318a3bbe65ba/AppIcon-prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/99/51/3b9951a8-f118-9d75-c3ed-ed176e6cbb3e/AppIcon-prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 47471299,
+      "size": 49066437,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -44175,11 +44175,11 @@
       },
       "versions": [
         {
-          "version": "9.0.9",
-          "date": "2026-07-07",
+          "version": "9.1.0",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.0.9-riftysipas.ipa",
-          "size": 47471299
+          "downloadURL": "https://telos.ftp.sh/ipas/MySwimPro: #1 Swim Workout App-v9.1.0-riftysipas.ipa",
+          "size": 49066437
         }
       ],
       "category": "health-&-fitness"
@@ -46294,14 +46294,14 @@
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "Muhammed Nayif Rahman",
       "subtitle": "Nuvio for iOS",
-      "version": "0.2.22",
-      "versionDate": "2026-07-11",
+      "version": "0.2.23",
+      "versionDate": "2026-07-13",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.22-Full.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.23-Full.ipa",
       "localizedDescription": "Nuvio",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/32/47/2a324755-180b-00cd-ca59-6082ef2ad9c6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/13/80/d11380f4-6734-99de-a6f3-c54e17aeedd7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 41396608,
+      "size": 41466558,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -46309,11 +46309,11 @@
       },
       "versions": [
         {
-          "version": "0.2.22",
-          "date": "2026-07-11",
+          "version": "0.2.23",
+          "date": "2026-07-13",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.22-Full.ipa",
-          "size": 41396608
+          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.23-Full.ipa",
+          "size": 41466558
         }
       ],
       "category": "entertainment"
@@ -78398,14 +78398,14 @@
       "bundleIdentifier": "com.lasmit.World-Time",
       "developerName": "Lasmit TLB Ltd",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "2026.6",
-      "versionDate": "2026-06-12",
+      "version": "2026.7",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/World Clock Timezone Converter-v2026.6-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/World Clock Timezone Converter-v2026.7-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nWorld Clock Timezone Converter",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/7f/ce/e77fcef9-88f9-c2a4-4aef-79f759fbe769/WorldClocks-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/ed/ea/ecedea2c-67ca-6fc2-84d0-7a4b86452e3c/WorldClocks-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 37708044,
+      "size": 37777478,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/f1/36/65f1366f-c3c0-4071-67bf-f6532e2ee1cc/37fde97e-7d11-4c63-b2dc-162b93a31727_01.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/92/4c/e8924cfd-cda0-3225-af23-c174db9ab92a/0ebb3f1f-be18-4233-866c-90aea81531f5_02.png/552x414bb.png",
@@ -78430,11 +78430,11 @@
       },
       "versions": [
         {
-          "version": "2026.6",
-          "date": "2026-06-12",
+          "version": "2026.7",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/World Clock Timezone Converter-v2026.6-riftysipas.ipa",
-          "size": 37708044
+          "downloadURL": "https://telos.ftp.sh/ipas/World Clock Timezone Converter-v2026.7-riftysipas.ipa",
+          "size": 37777478
         }
       ],
       "category": "utilities"
@@ -81389,7 +81389,7 @@
     {
       "title": "⚙️ Telos Update 7.13",
       "identifier": "telos-update-2026-07-13",
-      "caption": "68 Apps Updated:\n• 24 Photo & Video\n• 8 Education\n• 6 Entertainment\n• 6 Productivity\n• 6 Music\n• 4 Health & Fitness\n• 2 Games\n• 2 Weather\n• 2 Utilities\n• 2 Travel\n• 2 Sports\n• 2 Navigation\n• 2 Business",
+      "caption": "80 Apps Updated:\n• 28 Photo & Video\n• 12 Entertainment\n• 8 Health & Fitness\n• 6 Utilities\n• 6 Education\n• 4 Productivity\n• 4 Music\n• 2 Games\n• 2 Weather\n• 2 Travel\n• 2 Sports\n• 2 Navigation\n• 2 Business",
       "date": "2026-07-13",
       "tintColor": "#02433b",
       "notify": true,
