@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.thehungrywasp.iamsober",
+    "com.duolingo.DuolingoMobile",
     "com.elevateapp.elevate",
     "com.thewayapp.mobile",
-    "com.cinee.trend",
-    "com.wellocution.iosapp",
-    "scannerapp.free"
+    "com.cinee.trend"
   ],
   "apps": [
     {
@@ -18997,14 +18997,14 @@
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "Duolingo",
       "subtitle": "All Features | Patched",
-      "version": "7.130.0",
-      "versionDate": "2026-07-07",
+      "version": "7.131.0",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_130_0_Duolingo_MAX_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_131_0_Duolingo_MAX_Unlocked_blatant.ipa",
       "localizedDescription": "All Features | Patched | Tweaked\n\nDuolingo: Language Lessons",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/bd/b5/3ebdb545-0059-c433-8555-3529782f03cc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 208793174,
+      "size": 206957865,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/16/35/0d16355e-7b7a-4903-aa0a-ecfefdaa7e08/b715d679-c25d-41c1-8b55-6c00114fa81e_en_iphone5.5_screen_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/14/cd/f814cd12-cb2b-baeb-2870-404d9186defb/93f4d1c8-4144-44de-8b57-a5a091c838f4_iPhone_5.5_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_3.png/392x696bb.png",
@@ -19037,11 +19037,11 @@
       },
       "versions": [
         {
-          "version": "7.130.0",
-          "date": "2026-07-07",
+          "version": "7.131.0",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_130_0_Duolingo_MAX_Unlocked_blatant.ipa",
-          "size": 208793174
+          "downloadURL": "https://telos.ftp.sh/ipas/Duolingo_Language_Lessons_v7_131_0_Duolingo_MAX_Unlocked_blatant.ipa",
+          "size": 206957865
         }
       ],
       "category": "education"
@@ -30795,14 +30795,14 @@
       "bundleIdentifier": "com.thehungrywasp.iamsober",
       "developerName": "I Am Sober LLC",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "8.6.9",
-      "versionDate": "2026-07-06",
+      "version": "8.7.0",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/I Am Sober-v8.6.9-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/I Am Sober-v8.7.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nI Am Sober",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/db/06/f6db0686-b0e8-6b9b-fb3b-c00774e17f3c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/c0/22/09c02266-91a7-5fc9-c630-97bb41643352/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 38945998,
+      "size": 38945321,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/75/69/147569b9-61b7-dbd0-c9bd-e0703e39f14a/64baf7b4-5fb2-4df1-8a2f-bd5b3b281f54_0_APP_IPHONE_55_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/03/84/d503847c-744b-8a0c-c520-e71886d8393e/45e1f965-0cd7-496d-b852-7fb3cfbada8c_1_APP_IPHONE_55_1.png/392x696bb.png",
@@ -30828,11 +30828,11 @@
       },
       "versions": [
         {
-          "version": "8.6.9",
-          "date": "2026-07-06",
+          "version": "8.7.0",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/I Am Sober-v8.6.9-riftysipas.ipa",
-          "size": 38945998
+          "downloadURL": "https://telos.ftp.sh/ipas/I Am Sober-v8.7.0-riftysipas.ipa",
+          "size": 38945321
         }
       ],
       "category": "lifestyle"
@@ -81420,7 +81420,7 @@
     {
       "title": "⚙️ Telos Update 7.13",
       "identifier": "telos-update-2026-07-13",
-      "caption": "90 Apps Updated:\n• 24 Photo & Video\n• 16 Education\n• 12 Entertainment\n• 8 Health & Fitness\n• 4 Productivity\n• 4 Utilities\n• 4 Music\n• 4 Business\n• 4 Lifestyle\n• 2 Games\n• 2 Weather\n• 2 Travel\n• 2 Sports\n• 2 Navigation",
+      "caption": "90 Apps Updated:\n• 24 Photo & Video\n• 16 Education\n• 10 Entertainment\n• 8 Health & Fitness\n• 6 Lifestyle\n• 4 Productivity\n• 4 Utilities\n• 4 Music\n• 4 Business\n• 2 Games\n• 2 Weather\n• 2 Travel\n• 2 Sports\n• 2 Navigation",
       "date": "2026-07-13",
       "tintColor": "#02433b",
       "notify": true,
