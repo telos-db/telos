@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.yoyoapps.weather",
+    "com.djitlabs.pixelcolor",
     "com.blockpuzzle.us.ios",
     "com.intsig.CamScannerLite",
-    "com.snowcorp.epik",
-    "com.sfun.snapedit",
-    "com.burbn.instagram"
+    "com.snowcorp.epik"
   ],
   "apps": [
     {
@@ -51780,14 +51780,14 @@
       "bundleIdentifier": "com.djitlabs.pixelcolor",
       "developerName": "MWM",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "5.54.00",
-      "versionDate": "2026-07-09",
+      "version": "5.54.01",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: PixelColor, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Pixel_Color_Paint_by_Number_v5_54_00_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Pixel_Color_Paint_by_Number_v5_54_01_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPixel Color: Paint by Number",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/38/c3/f838c300-59c3-a96b-3772-975726c745dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 95640234,
+      "size": 94953247,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/90/56/629056e7-1758-87e1-7cc6-1181b7012210/en-ipad-01.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/50/04/585004c6-fc53-3e85-4251-fff0895dc45d/en-ipad-02.jpg/576x768bb.jpg",
@@ -51812,11 +51812,11 @@
       },
       "versions": [
         {
-          "version": "5.54.00",
-          "date": "2026-07-09",
+          "version": "5.54.01",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: PixelColor, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Pixel_Color_Paint_by_Number_v5_54_00_Subscription_Unlocked_blatant.ipa",
-          "size": 95640234
+          "downloadURL": "https://telos.ftp.sh/ipas/Pixel_Color_Paint_by_Number_v5_54_01_Subscription_Unlocked_blatant.ipa",
+          "size": 94953247
         }
       ],
       "category": "entertainment"
@@ -76786,14 +76786,14 @@
       "bundleIdentifier": "com.yoyoapps.weather",
       "developerName": "BUCKET LIST LABS S.L.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.1.8",
-      "versionDate": "2026-07-06",
+      "version": "4.1.9",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: Weather, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Weather_Pro_·_Radar_Alerts_v4_1_8_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Weather_Pro_·_Radar_Alerts_v4_1_9_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nWeather Pro · Radar Alerts",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/67/58/f26758c3-33c3-f976-d76e-74273a75461c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 168533761,
+      "size": 164559057,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/1c/8b/341c8bdb-d45d-ce69-3f9b-a943e47d2572/f31dc40f-3b64-47eb-98c7-71189ba79fa3_ECRAN_1_-_2732_x_2048.jpg/552x414bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/65/93/856593fe-b9bc-6be6-0475-9ba18710927b/2c505516-7f60-4b8d-b52b-c1a5120dbdbe_ECRAN_2_-_2732_x_2048.jpg/552x414bb.jpg",
@@ -76814,11 +76814,11 @@
       },
       "versions": [
         {
-          "version": "4.1.8",
-          "date": "2026-07-06",
+          "version": "4.1.9",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: Weather, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Weather_Pro_·_Radar_Alerts_v4_1_8_Subscription_Unlocked_blatant.ipa",
-          "size": 168533761
+          "downloadURL": "https://telos.ftp.sh/ipas/Weather_Pro_·_Radar_Alerts_v4_1_9_Subscription_Unlocked_blatant.ipa",
+          "size": 164559057
         }
       ],
       "category": "weather"
@@ -81389,7 +81389,7 @@
     {
       "title": "⚙️ Telos Update 7.13",
       "identifier": "telos-update-2026-07-13",
-      "caption": "12 Apps Updated:\n• 8 Photo & Video\n• 2 Games\n• 2 Productivity",
+      "caption": "20 Apps Updated:\n• 8 Photo & Video\n• 4 Entertainment\n• 4 Weather\n• 2 Games\n• 2 Productivity",
       "date": "2026-07-13",
       "tintColor": "#02433b",
       "notify": true,
