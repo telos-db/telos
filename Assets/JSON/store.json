@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.inflow.app",
+    "com.lightricks.Facetune2",
     "com.dr1ven.eraser",
     "com.fishbrain.app",
-    "com.wikiloc.wikiloc",
-    "instapreview",
-    "com.skylum.luminaripad"
+    "com.wikiloc.wikiloc"
   ],
   "apps": [
     {
@@ -21535,14 +21535,14 @@
       "bundleIdentifier": "com.lightricks.Facetune2",
       "developerName": "Lightricks Ltd.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "26.19.1",
-      "versionDate": "2026-07-09",
+      "version": "26.20",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_19_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_20_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFacetune: Photo & Video Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/bb/f0/1cbbf08f-9b1d-5ad4-933c-8d8a1b0b5737/AppIconLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 433551634,
+      "size": 433121118,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/e1/25/81e125c3-0cff-38ab-c643-3cc8ebd60281/FT-250819-ASO-Baseline-5.5-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/52/66/e1526682-7c10-2655-d24a-0f0047c6fe71/FT-250819-ASO-Baseline-5.5-02.jpg/392x696bb.jpg",
@@ -21568,11 +21568,11 @@
       },
       "versions": [
         {
-          "version": "26.19.1",
-          "date": "2026-07-09",
+          "version": "26.20",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_19_1_Subscription_Unlocked_blatant.ipa",
-          "size": 433551634
+          "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_20_Subscription_Unlocked_blatant.ipa",
+          "size": 433121118
         }
       ],
       "category": "photo-&-video"
@@ -32111,14 +32111,14 @@
       "bundleIdentifier": "com.inflow.app",
       "developerName": "Get Inflow Ltd.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "3.2.8",
-      "versionDate": "2026-07-06",
+      "version": "3.2.12",
+      "versionDate": "2026-07-13",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Inflow - Manage your ADHD-v3.2.8-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Inflow - Manage your ADHD-v3.2.12-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nInflow - Manage your ADHD",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/d5/99/8dd59918-64b9-3175-c6a1-6da91291a470/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/e2/1f/25e21f95-3373-563c-63e2-4e53fc04a3af/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 45402857,
+      "size": 45581096,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/00/f1/8600f15c-4991-dbfe-fc00-47cdd5bc7ac3/bf8509f4-c0c5-4839-83dc-b33591ddad5e_Screen_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/6f/e7/9c6fe709-5e1f-e144-4d40-c9150580d8bd/f7355d93-4434-4fed-ba30-94cb33520b3a_Screen_2.jpg/392x696bb.jpg",
@@ -32143,11 +32143,11 @@
       },
       "versions": [
         {
-          "version": "3.2.8",
-          "date": "2026-07-06",
+          "version": "3.2.12",
+          "date": "2026-07-13",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Inflow - Manage your ADHD-v3.2.8-riftysipas.ipa",
-          "size": 45402857
+          "downloadURL": "https://telos.ftp.sh/ipas/Inflow - Manage your ADHD-v3.2.12-riftysipas.ipa",
+          "size": 45581096
         }
       ],
       "category": "health-&-fitness"
@@ -81389,7 +81389,7 @@
     {
       "title": "⚙️ Telos Update 7.13",
       "identifier": "telos-update-2026-07-13",
-      "caption": "50 Apps Updated:\n• 20 Photo & Video\n• 4 Education\n• 4 Sports\n• 4 Navigation\n• 4 Music\n• 2 Games\n• 2 Entertainment\n• 2 Health & Fitness\n• 2 Productivity\n• 2 Weather\n• 2 Utilities\n• 2 Travel",
+      "caption": "46 Apps Updated:\n• 18 Photo & Video\n• 6 Health & Fitness\n• 4 Education\n• 2 Games\n• 2 Entertainment\n• 2 Productivity\n• 2 Weather\n• 2 Utilities\n• 2 Travel\n• 2 Sports\n• 2 Navigation\n• 2 Music",
       "date": "2026-07-13",
       "tintColor": "#02433b",
       "notify": true,
