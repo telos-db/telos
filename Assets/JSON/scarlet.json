@@ -27362,6 +27362,32 @@
       }
     },
     {
+      "name": "MovieFeens - App",
+      "bundleIdentifier": "com.deeddacabeba.pakeplus.ios",
+      "developerName": "Fandango",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nDownload Fandango – the #1 movie ticketing app with over 2 million 5-Star Reviews! Available across iOS devices including iPhone, iPad, iMessage and Apple Watch! Buy movie tickets, watch the newest trailers, browse Rotten Tomatoes® scores, and find the best showtimes and seats for more than 31,000 screens nationwide.\n\n• BUY MOVIE TICKETS: Get your tickets ahead of time to skip the box office line and secure the best seats to the biggest movies. Save time with mobile tickets using your iPhone’s A",
+      "version": "1.0",
+      "versionDate": "2026-07-14T07:19:44-00:00",
+      "versionDescription": "Build 1 from @binnichtaktivsipas",
+      "size": 6734346,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/6e/40/af6e4051-135d-f06f-81dd-e2a5ab1f87e2/app_icon_fandango-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/moviefeens-app-1.0.0.ipa",
+      "minOSVersion": "15.6",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "moviefeens-app-1.0.0.ipa"
+      }
+    },
+    {
       "name": "Mozaic",
       "bundleIdentifier": "com.frenchtwins.MosaicPrediction",
       "developerName": "French Twins Illusion",
