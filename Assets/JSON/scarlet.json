@@ -11495,26 +11495,24 @@
       "bundleIdentifier": "au.com.michaeltigas.MiniOS",
       "developerName": "Michael Tigas",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, StopReviews, chocorc\n\nDumb Phone (dp)\n\n---\nTurn your iPhone into a Dumb Phone.\n\nDumb Phone™ lets you create your very own minimalist-style phone on iOS.\n\nReplace colorful app icons, pesky notification badges, and anything that might give you a dopamine hit when you unlock your phone, with simple buttons to open your essential apps - and nothing more.\n\nKey features:\n\n• Break out of your existing habits\nEvery time you unlock your phone, all you will see is apps that you need, without being coerced into easy distractions from colorful apps",
-      "version": "1.11.9",
-      "versionDate": "2026-06-14T07:21:49-00:00",
-      "versionDescription": "Build 132 from @riftysIPAlibrary",
-      "size": 289807424,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/42/ad/d042ad95-984d-8cb9-bafa-7e574375e5b5/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Dumb Phone (dp)-v1.11.9-riftysipas.ipa",
+      "version": "1.12.0",
+      "versionDate": "2026-07-14T05:45:17-00:00",
+      "versionDescription": "Build 136 from @riftysIPAlibrary",
+      "size": 294827532,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/07/ed/f307eddb-70c4-7755-267f-833b79b3a935/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Dumb Phone (dp)-v1.12.0-riftysipas.ipa",
       "minOSVersion": "16.1",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Dumb Phone (dp)-v1.11.9-riftysipas.ipa"
+        "originalFile": "Dumb Phone (dp)-v1.12.0-riftysipas.ipa"
       }
     },
     {
@@ -39673,12 +39671,12 @@
       "bundleIdentifier": "com.soundscape.music",
       "developerName": "Soundscape",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSoundscape: Sleep Focus Relax\n\n---\nSleep deeper. Focus longer. Live better.\nSoundscape uses science-backed sounds to help you fall asleep faster, stay focused longer, and feel more in control. From immersive sound mixing to app blocking, every feature is designed to bring more peace into your day.\n\nTOP FEATURES\nSLEEP & FOCUS SOUND LIBRARY\nCrafted with care and backed by science, our immersive soundscapes help your mind let go of stress or dial in to deep focus. Explore calming ambient textures, natural environments, and soothing",
-      "version": "10.1.43",
-      "versionDate": "2026-07-10T20:47:12-00:00",
-      "versionDescription": "Build 136 from @riftysIPAlibrary",
-      "size": 74909959,
+      "version": "10.1.45",
+      "versionDate": "2026-07-14T05:36:46-00:00",
+      "versionDescription": "Build 1 from @riftysIPAlibrary",
+      "size": 74917051,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/b9/8f/b6b98fc4-0eeb-b982-b116-554b20781314/SoundscapeIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.43-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.45-riftysipas.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -39690,7 +39688,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Soundscape: Sleep Focus Relax-v10.1.43-riftysipas.ipa"
+        "originalFile": "Soundscape: Sleep Focus Relax-v10.1.45-riftysipas.ipa"
       }
     },
     {
