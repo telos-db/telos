@@ -37800,12 +37800,12 @@
       "bundleIdentifier": "com.shinobiapp.shinobi",
       "developerName": "Jeremy Pitault",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nShinobi: Read Japanese Stories\n\n---\nLearn Japanese through illustrated stories, native audio, shadowing, quizzes, and interactive reading tools.\n\nShinobi Japanese helps you build reading, kanji, vocabulary, grammar, listening, and speaking skills through content that feels immersive, practical, and actually enjoyable. Instead of memorizing isolated words and grammar points, you learn Japanese in context through stories, audio, news reading, and smart review tools.\n\nAt the core of Shinobi Japanese are illustrated stories designed t",
-      "version": "1.4.2",
-      "versionDate": "2026-06-27T20:24:19-00:00",
-      "versionDescription": "Build 143 from @riftysIPAlibrary",
-      "size": 47169858,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/e5/e8/9ae5e8aa-a445-7493-c768-6fcb9dc6d268/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Shinobi: Read Japanese Stories-v1.4.2-riftysipas.ipa",
+      "version": "1.4.3",
+      "versionDate": "2026-07-14T22:38:14-00:00",
+      "versionDescription": "Build 144 from @riftysIPAlibrary",
+      "size": 49262203,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/f7/f5/00f7f565-4aa4-0f2e-66e9-92cc29e8c891/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Shinobi: Read Japanese Stories-v1.4.3-riftysipas.ipa",
       "minOSVersion": "15.1",
       "supportedPlatforms": [
         "iOS"
@@ -37818,7 +37818,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Shinobi: Read Japanese Stories-v1.4.2-riftysipas.ipa"
+        "originalFile": "Shinobi: Read Japanese Stories-v1.4.3-riftysipas.ipa"
       }
     },
     {
@@ -42385,18 +42385,17 @@
       "bundleIdentifier": "nz.digitaltools.Tube-GPT",
       "developerName": "Digital Tools Ltd",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSummarify: AI For YouTube\n\n---\nIntroducing Summarify - the ultimate video summarization app powered by cutting-edge AI technology. Save time and effortlessly grasp the key insights from YouTube videos with our powerful summarization capabilities. Powered by AI Chat, Summarify ensures accuracy, coherence, and convenience in every summary.\n\nNow with over 15 different summary styles you can quickly summarize videos using simple summaries to data extraction, then export to PDF or markdown Summarify has never been more powerful!",
-      "version": "3.12.1",
-      "versionDate": "2026-06-14T14:06:54-00:00",
-      "versionDescription": "Build 168 from @riftysIPAlibrary",
-      "size": 24032905,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/89/86/cb89868f-ba76-7f12-6569-6528443917ac/alternateIcon1-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Summarify: AI For YouTube-v3.12.1-riftysipas.ipa",
-      "minOSVersion": "15.0",
+      "version": "3.14.0",
+      "versionDate": "2026-07-14T22:33:09-00:00",
+      "versionDescription": "Build 185 from @riftysIPAlibrary",
+      "size": 23301187,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/ca/54/9eca5461-46eb-0db3-75d9-794cd09f6aa7/alternateIcon1-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Summarify: AI For YouTube-v3.14.0-riftysipas.ipa",
+      "minOSVersion": "16.6",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -42404,7 +42403,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Summarify: AI For YouTube-v3.12.1-riftysipas.ipa"
+        "originalFile": "Summarify: AI For YouTube-v3.14.0-riftysipas.ipa"
       }
     },
     {
@@ -43971,12 +43970,12 @@
       "bundleIdentifier": "com.impalastudios.pianofree",
       "developerName": "Impala Studios",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ThePiano, blatantsPatch\n\nPiano ٞ\n\n---\nJoin over 14 million music lovers discovering piano. Learn the fun and easy way, no lessons needed.\nPlay songs, practice piano, and create music in one intuitive app.\n\nChoose how you play: follow the rhythm in interactive gameplay to build timing and confidence, or switch to a realistic keyboard to explore chords, melodies, and your own musical ideas.\n\nWith Piano, you can jump right in. Play to the rhythm, explore notes and chords, and create music at your own pace.\n\nDesigned for iOS (iPhone & i",
-      "version": "2.20.4",
-      "versionDate": "2026-07-13T13:46:22-00:00",
-      "versionDescription": "Build 12793 from @blatants",
-      "size": 93559801,
+      "version": "2.20.5",
+      "versionDate": "2026-07-14T22:32:13-00:00",
+      "versionDescription": "Build 12861 from @blatants",
+      "size": 93607548,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/ca/7b/b6ca7b4d-e05b-bc08-c93c-731df0b19819/pian_appIcon_2025-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Piano ٞ v2.20.4 Subscription Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Piano ٞ v2.20.5 Subscription Unlocked blatant Patched.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -43989,7 +43988,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Piano ٞ v2.20.4 Subscription Unlocked blatant Patched.ipa"
+        "originalFile": "Piano ٞ v2.20.5 Subscription Unlocked blatant Patched.ipa"
       }
     },
     {
@@ -47989,12 +47988,12 @@
       "bundleIdentifier": "com.resonantcavity.Voloco",
       "developerName": "Resonant Cavity, Inc",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nVoloco: Vocal Recording Studio\n\n---\nVoloco is a mobile recording studio and audio editor that helps you sound your best.\n\n70+ MILLION DOWNLOADS\nSingers, rappers, musicians, and content creators have downloaded Voloco 70+ million times because we elevate your sound and let you record like a professional with intuitive tools. Make music and content with Voloco––the top-rated singing and recording app. Record better tracks, demos, voice-overs, and video performances with this audio editor and voice recorder today.\n\nSTUDIO SOUND WITHO",
-      "version": "9.16.4",
-      "versionDate": "2026-07-12T00:25:53-00:00",
-      "versionDescription": "Build 638 from @riftysIPAlibrary",
-      "size": 117487020,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/ef/86/c6ef86bf-a4ce-72cd-aaa3-783145fc90c3/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.4-riftysipas.ipa",
+      "version": "9.16.5",
+      "versionDate": "2026-07-14T22:36:17-00:00",
+      "versionDescription": "Build 639 from @riftysIPAlibrary",
+      "size": 117487051,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/64/c7/0664c77e-22c4-134a-9755-381df2eb5617/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.5-riftysipas.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
@@ -48007,7 +48006,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Voloco: Vocal Recording Studio-v9.16.4-riftysipas.ipa"
+        "originalFile": "Voloco: Vocal Recording Studio-v9.16.5-riftysipas.ipa"
       }
     },
     {
