@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.sporcle.party",
     "com.evolve.podcast",
     "com.elevateapp.kamino.kamino",
     "com.youssef.developer.Full-Browser",
-    "com.yengshine.proccd",
-    "io.gonative.ios.xqdyad"
+    "com.yengshine.proccd"
   ],
   "apps": [
     {
@@ -63896,14 +63896,14 @@
       "bundleIdentifier": "com.sporcle.party",
       "developerName": "Sporcle, Inc",
       "subtitle": "Sporcle Party for iOS",
-      "version": "1.5.13",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.sporcle.party-1.5.13-eeveedecrypter.ipa",
-      "localizedDescription": "Decrypted",
+      "version": "1.5.14",
+      "versionDate": "2026-07-14",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.sporcle.party-1.5.14-eeveedecrypter.ipa",
+      "localizedDescription": "Sporcle Party for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/55/53/6855533b-b22a-901c-f01a-d02475fd8e73/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 29490927,
+      "size": 29676094,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/33/88/2233889a-0b23-d93c-4f23-23272c593f83/1_SP_iPhone_5.5__Screenshot_Home.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/d9/08/13d90824-8ade-d04e-12ab-b7344e2643c5/2_SP_iPhone_5.5__Screenshot_Topics.png/392x696bb.png",
@@ -63924,11 +63924,11 @@
       },
       "versions": [
         {
-          "version": "1.5.13",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.sporcle.party-1.5.13-eeveedecrypter.ipa",
-          "size": 29490927
+          "version": "1.5.14",
+          "date": "2026-05-07",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.sporcle.party-1.5.14-eeveedecrypter.ipa",
+          "size": 29676094
         }
       ],
       "category": "games"
@@ -81469,11 +81469,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 7.14",
+      "identifier": "telos-update-2026-07-14",
+      "caption": "4 Apps Updated:\n• 4 Games",
+      "date": "2026-07-14",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "com.sporcle.party"
+    },
+    {
       "title": "⚙️ Telos Update 7.13",
       "identifier": "telos-update-2026-07-13",
       "caption": "104 Apps Updated:\n• 28 Photo & Video\n• 18 Education\n• 12 Health & Fitness\n• 10 Entertainment\n• 6 Utilities\n• 6 Music\n• 4 Productivity\n• 4 Business\n• 4 Lifestyle\n• 2 Games\n• 2 Weather\n• 2 Travel\n• 2 Sports\n• 2 Navigation\n• 2 News",
       "date": "2026-07-13",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "ai.polycam.polycam"
     },
@@ -81482,7 +81491,7 @@
       "identifier": "telos-update-2026-07-12",
       "caption": "30 Apps Updated:\n• 6 Photo & Video\n• 4 Travel\n• 2 Productivity\n• 2 Utilities\n• 2 Music\n• 2 Social Networking\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Sports\n• 2 Finance\n• 2 Health & Fitness\n• 2 News",
       "date": "2026-07-12",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.microsoft.PlannerMobile"
     },
@@ -81491,7 +81500,7 @@
       "identifier": "telos-update-2026-07-11",
       "caption": "46 Apps Updated:\n• 8 Entertainment\n• 8 Photo & Video\n• 6 Education\n• 4 Productivity\n• 4 Health & Fitness\n• 4 Games\n• 2 Finance\n• 2 Graphics & Design\n• 2 Utilities\n• 2 Business\n• 2 Music\n• 2 Lifestyle",
       "date": "2026-07-11",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "overlook.fing"
     },
@@ -81500,7 +81509,7 @@
       "identifier": "telos-update-2026-07-10",
       "caption": "88 Apps Updated:\n• 11 Health & Fitness\n• 10 Utilities\n• 10 Education\n• 8 Lifestyle\n• 8 Photo & Video\n• 6 Games\n• 6 Productivity\n• 4 Developer Tools\n• 4 Sports\n• 4 Reference\n• 4 Social Networking\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Business\n• 2 Music\n• 2 News\n• 2 Books\n• 1 Finance",
       "date": "2026-07-10",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.tuya.smartlife"
     },
@@ -81509,7 +81518,7 @@
       "identifier": "telos-update-2026-07-09",
       "caption": "76 Apps Updated:\n• 26 Photo & Video\n• 17 Health & Fitness\n• 10 Entertainment\n• 4 Medical\n• 4 Education\n• 4 Lifestyle\n• 4 Music\n• 2 Games\n• 2 Productivity\n• 2 Navigation\n• 1 Finance",
       "date": "2026-07-09",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.sublime.capture"
     },
@@ -81518,7 +81527,7 @@
       "identifier": "telos-update-2026-07-08",
       "caption": "84 Apps Updated:\n• 20 Photo & Video\n• 10 Games\n• 10 Health & Fitness\n• 6 Productivity\n• 6 Travel\n• 4 Education\n• 4 Utilities\n• 4 Lifestyle\n• 4 Navigation\n• 4 News\n• 2 Food & Drink\n• 2 Graphics & Design\n• 2 Weather\n• 2 Music\n• 2 Finance\n• 2 Business",
       "date": "2026-07-08",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.identification.plant"
     },
@@ -81527,7 +81536,7 @@
       "identifier": "telos-update-2026-07-07",
       "caption": "108 Apps Updated:\n• 22 Health & Fitness\n• 16 Photo & Video\n• 14 Productivity\n• 10 Lifestyle\n• 6 Entertainment\n• 6 Music\n• 4 Developer Tools\n• 4 Business\n• 4 Utilities\n• 4 Games\n• 4 Food & Drink\n• 2 Weather\n• 2 Books\n• 2 Graphics & Design\n• 2 Finance\n• 2 Sports\n• 2 Navigation\n• 2 Education",
       "date": "2026-07-07",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "nz.co.petesmith.moonphasefree"
     },
@@ -81536,7 +81545,7 @@
       "identifier": "telos-update-2026-07-06",
       "caption": "134 Apps Updated:\n• 32 Health & Fitness\n• 30 Photo & Video\n• 18 Productivity\n• 12 Education\n• 6 Music\n• 6 Lifestyle\n• 4 Utilities\n• 4 Social Networking\n• 2 Books\n• 2 Graphics & Design\n• 2 Weather\n• 2 Travel\n• 2 Business\n• 2 Finance\n• 2 News\n• 2 Food & Drink\n• 2 Sports\n• 2 Entertainment\n• 2 Navigation",
       "date": "2026-07-06",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "app.justRead.justRead"
     },
@@ -81545,18 +81554,9 @@
       "identifier": "telos-update-2026-07-05",
       "caption": "56 Apps Updated:\n• 14 Photo & Video\n• 8 Education\n• 6 Music\n• 6 Lifestyle\n• 4 Utilities\n• 2 News\n• 2 Finance\n• 2 Productivity\n• 2 Health & Fitness\n• 2 Graphics & Design\n• 2 Food & Drink\n• 2 Travel\n• 2 Games\n• 2 Reference",
       "date": "2026-07-05",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "com.joytunes.Sing"
-    },
-    {
-      "title": "⚙️ Telos Update 7.4",
-      "identifier": "telos-update-2026-07-04",
-      "caption": "66 Apps Updated:\n• 14 Health & Fitness\n• 12 Photo & Video\n• 8 Social Networking\n• 8 Business\n• 4 Entertainment\n• 4 Medical\n• 4 Education\n• 4 Music\n• 2 Lifestyle\n• 2 Utilities\n• 2 Sports\n• 2 Travel",
-      "date": "2026-07-04",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.mangacrush.ios"
+      "appID": "com.joytunes.Sing"
     }
   ]
 }
