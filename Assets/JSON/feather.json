@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.ulisesolave.Fitia",
     "app.monelyze.ToDo",
     "com.evolve.helm",
     "com.readdle.CalendarsLite",
-    "com.polywise.weekly",
-    "com.gymbros.app"
+    "com.polywise.weekly"
   ],
   "apps": [
     {
@@ -23425,14 +23425,14 @@
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
       "subtitle": "Tweaked with Fitia, blatantsPatch",
-      "version": "23.2.2",
-      "versionDate": "2026-07-10",
+      "version": "23.3",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_2_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_2_3_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Fitia, blatantsPatch\n\nFitia: Calorie Counter & Diet\n\n---\nTrusted by 10+ million users and rated 4.9/5.0 stars\n\n • The fastest & most accurate calorie counter\n • Track calories by photo, voice, or typing (like notes)\n • Personalized meal plans for weight loss or muscle gain\n • AI coach that adapts to your progress\n • Grocery list, recipes & smart food logging\n • Weight, body fat & measurement tracking\n • Intermittent fasting tracker\n • Syncs with Apple Health and third party apps\n\nWHY FITIA WORKS FOR WEIGHT LOSS OR MUSCLE GAIN\n• Fitia creates a plan th",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/47/d4/b547d4cc-44d3-6dc9-ef04-35495fc25ce1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 125753423,
+      "size": 130018382,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -23459,11 +23459,11 @@
       },
       "versions": [
         {
-          "version": "23.2.2",
-          "date": "2026-07-10",
+          "version": "23.3",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_2_2_Subscription_Unlocked_blatant.ipa",
-          "size": 125753423
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_2_3_Subscription_Unlocked_blatant.ipa",
+          "size": 130018382
         }
       ],
       "category": "health-&-fitness"
