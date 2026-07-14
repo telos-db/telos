@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.wellocution.iosapp",
+    "com.elevateapp.elevate",
     "com.ulisesolave.Fitia",
     "app.monelyze.ToDo",
-    "com.evolve.helm",
-    "com.readdle.CalendarsLite",
-    "com.polywise.weekly"
+    "com.evolve.helm"
   ],
   "apps": [
     {
@@ -8477,14 +8477,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Tweaked with BoldVoice, blatantsPatch",
-      "version": "4.1.6",
-      "versionDate": "2026-07-13",
+      "version": "4.1.7",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_6_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_7_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BoldVoice, blatantsPatch\n\nBoldVoice: Accent Training\n\n---\nBoldVoice is the top-rated English speaking and pronunciation app, with over 2 million global users. Our Hollywood accent coaches and AI-powered feedback will help you achieve clear, confident pronunciation, with only 10 minutes of daily practice.\n\nWHY CHOOSE BOLDVOICE:\nLearn from professional accent coaches who train Hollywood actors\nRecord your voice and receive instant, AI-powered pronunciation feedback\nPractice with daily-life scenarios and professional conversations\nMonitor progress through",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 143945564,
+      "size": 144230222,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8504,11 +8504,11 @@
       },
       "versions": [
         {
-          "version": "4.1.6",
-          "date": "2026-07-13",
+          "version": "4.1.7",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_6_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 143945564
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_7_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 144230222
         }
       ],
       "category": "education"
@@ -19801,15 +19801,15 @@
       "name": "Elevate",
       "bundleIdentifier": "com.elevateapp.elevate",
       "developerName": "The Mind Company",
-      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "5.248.0",
-      "versionDate": "2026-07-13",
-      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.248.0-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nElevate - Brain Training Games\n\n---\nElevate is a brain training program designed to improve your mind’s focus, memory, speaking abilities, processing speed, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.\n\nThe more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. 90%+ report improved vocabulary, math skills, and overall mental sharpness when they frequen",
+      "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
+      "version": "5.248.1",
+      "versionDate": "2026-07-14",
+      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Elevate_Brain_Training_Games_v5_248_1_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nElevate - Brain Training Games\n\n---\nElevate is a brain training program designed to improve your mind’s focus, memory, speaking abilities, processing speed, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.\n\nThe more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. 90%+ report improved vocabulary, math skills, and overall mental sharpness when they frequen",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/46/bb/b346bb91-1ac0-0404-b1b9-29b7cadd6388/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 403212496,
+      "size": 412758602,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -19830,11 +19830,11 @@
       },
       "versions": [
         {
-          "version": "5.248.0",
-          "date": "2026-07-13",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.248.0-riftysipas.ipa",
-          "size": 403212496
+          "version": "5.248.1",
+          "date": "2026-07-14",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Elevate_Brain_Training_Games_v5_248_1_Subscription_Unlocked_blatant.ipa",
+          "size": 412758602
         }
       ],
       "category": "education"
