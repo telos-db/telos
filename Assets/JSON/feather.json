@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.fifteenjugglers.solarwatch",
+    "com.rockwellventures.mesmerize",
+    "com.kinemaster.kios",
     "org.quiche.Browser",
-    "com.path36.SpliceFree",
-    "com.neybox.Pillow",
-    "com.gorilla.brass",
-    "com.moonly.Moonly"
+    "com.path36.SpliceFree"
   ],
   "apps": [
     {
@@ -35174,14 +35174,14 @@
       "bundleIdentifier": "com.kinemaster.kios",
       "developerName": "KineMaster Corporation",
       "subtitle": "Tweaked with KineMaster, blatantsPatch",
-      "version": "8.1.15",
-      "versionDate": "2026-07-10",
+      "version": "8.1.17",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: KineMaster, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_15_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_17_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: KineMaster, blatantsPatch, sideloadKeychainfix\n\nKineMaster - Video Editor\n\n---\n[ AI Tools for Your Next Video ]\nComplex videos can be made quickly with these AI features.\n\n• AI Auto Captions: Add subtitles instantly from video or audio\n• AI Text-to-Speech: Create spoken audio from text with one tap\n• AI Voice: Make your audio unique when you apply AI Voices\n• AI Music Match: Get song recommendations fast\n• AI Magic Removal: Cut out the background around people and faces\n• AI Noise Removal: Zap distracting sounds in your video or audio\n• AI Vocal Separator: Split a song int",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/00/77/dc00770c-ebe8-11b9-b164-fb6435f44ee4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 116781283,
+      "size": 116794766,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/14/bc/a114bcc9-d975-363e-08ec-6284db7fbdc0/01.The_Best_Video_Editor.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/04/84/2d0484cc-4f81-9815-18ee-57fa40f0bf9a/02.High_Quality_Templates.jpg/392x696bb.jpg",
@@ -35206,11 +35206,11 @@
       },
       "versions": [
         {
-          "version": "8.1.15",
-          "date": "2026-07-10",
+          "version": "8.1.17",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: KineMaster, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_15_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 116781283
+          "downloadURL": "https://telos.ftp.sh/ipas/KineMaster_Video_Editor_v8_1_17_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 116794766
         }
       ],
       "category": "photo-&-video"
@@ -41498,14 +41498,14 @@
       "bundleIdentifier": "com.rockwellventures.mesmerize",
       "developerName": "Rockwell Ventures",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.42",
-      "versionDate": "2026-06-30",
+      "version": "2.43",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Mesmerize - Visual Meditation-v2.42-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Mesmerize - Visual Meditation-v2.43-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMesmerize - Visual Meditation\n\n---\nClear your mind and relax with a unique audio-visual meditation experience.\n\nMesmerize combines engaging visuals with relaxing music and expertly crafted guided meditations to give you an all encompassing meditation experience.\n\nBENEFITS\n• Relieve Stress\n• Lower Anxiety\n• Better Sleep\n• Overcome Depression\n• Enhance Self-Awareness\n• Deeper Relaxation\n• Reduce Pain\n• Overcome Addiction\n• Increase Focus\n• In fact, there are many more proven benefits to meditation. The impact of a consistent medita",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/52/fc/9d52fc95-adb9-548e-0a8d-e6f9a45a25d7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/80/6b/1e806bca-f8c0-acde-0118-d2825986d4d2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 236422286,
+      "size": 234203508,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/91/2a/b3912ac2-30e0-905e-7417-3e59f287a755/4c25d08d-b3e1-4ae7-945b-f92e18005ec2_11.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/2f/b6/3c2fb692-439b-9d32-af95-3361644a146e/eadd4afa-8cd4-4270-b159-adf56d99b405_12.jpg/392x696bb.jpg",
@@ -41515,11 +41515,10 @@
       ],
       "appPermissions": {
         "entitlements": [
+          "com.apple.developer.healthkit",
           "aps-environment",
           "com.apple.developer.icloud-container-environment",
           "com.apple.developer.associated-domains",
-          "com.apple.developer.healthkit",
-          "com.apple.developer.healthkit.access",
           "com.apple.security.application-groups"
         ],
         "privacy": {
@@ -41532,11 +41531,11 @@
       },
       "versions": [
         {
-          "version": "2.42",
-          "date": "2026-06-30",
+          "version": "2.43",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Mesmerize - Visual Meditation-v2.42-riftysipas.ipa",
-          "size": 236422286
+          "downloadURL": "https://telos.ftp.sh/ipas/Mesmerize - Visual Meditation-v2.43-riftysipas.ipa",
+          "size": 234203508
         }
       ],
       "category": "health-&-fitness"
@@ -62946,14 +62945,14 @@
       "bundleIdentifier": "com.fifteenjugglers.solarwatch",
       "developerName": "Fifteen Jugglers Software UG",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2026.23",
-      "versionDate": "2026-06-24",
+      "version": "2026.24",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sunrise Sunset Time SolarWatch-v2026.23-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sunrise Sunset Time SolarWatch-v2026.24-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSunrise Sunset Time SolarWatch\n\n---\nDiscover the power of the sun with SolarWatch - the ultimate companion for outdoor enthusiasts and photographers!\n\nPlan your day with confidence using accurate sunrise, sunset, and twilight times, and never miss a perfect moment again with customizable solar alarms. SolarWatch's AR mode and map overlays make it easy to find the best lighting for your photos, while the app's widgets keep you informed at a glance.\n\nWhether you're hiking, camping, or simply enjoying nature, SolarWatch helps you liv",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/fb/ef/0dfbef2f-4522-f8b7-6997-64649d4b4886/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/15/80/001580fe-73b2-7181-083e-3908a5b1a605/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 59252752,
+      "size": 60218300,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -62976,11 +62975,11 @@
       },
       "versions": [
         {
-          "version": "2026.23",
-          "date": "2026-06-24",
+          "version": "2026.24",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Sunrise Sunset Time SolarWatch-v2026.23-riftysipas.ipa",
-          "size": 59252752
+          "downloadURL": "https://telos.ftp.sh/ipas/Sunrise Sunset Time SolarWatch-v2026.24-riftysipas.ipa",
+          "size": 60218300
         }
       ],
       "category": "photo-&-video"
