@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.neo.NeoMan",
+    "com.google.ios.youtube",
     "com.sporcle.party",
     "com.evolve.podcast",
-    "com.elevateapp.kamino.kamino",
-    "com.youssef.developer.Full-Browser",
-    "com.yengshine.proccd"
+    "com.elevateapp.kamino.kamino"
   ],
   "apps": [
     {
@@ -45275,14 +45275,14 @@
       "bundleIdentifier": "com.neo.NeoMan",
       "developerName": "Space-Time Transformation Technology Co., Ltd.",
       "subtitle": "Tweaked with NeoServer, blatantsPatch",
-      "version": "8.3.2",
-      "versionDate": "2026-07-07",
+      "version": "8.3.3",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: NeoServer, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_3_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_3_3_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NeoServer, blatantsPatch\n\nNeoServer: SSH Client | Terminal\n\n---\nNeoServer is a powerful SSH terminal and server management app for developers, sysadmins, and self-hosting users.\n\nConnect to Linux servers, VPS machines, cloud hosts, NAS devices, Raspberry Pi boards, and AI compute nodes. Use a fast mobile terminal, manage Docker and Podman containers, browse files with SFTP, monitor server metrics, run shell scripts, keep tmux and zellij sessions alive, and handle common remote server tasks from your iPhone or iPad.\n\n◉ Terminal and Remote Access\n\n• SSH connec",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/66/7b/e2667b80-6b24-dc78-49e8-819988cc4e75/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 28605116,
+      "size": 32913866,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/51/e9/7051e9d4-9400-ba5e-c0c4-b3c3028896a3/6ea7619e-b9fe-45ca-8c94-ac17544b1668_metrics.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/7a/8e/107a8e2f-99cf-e69b-ad17-21ea74a368b6/71a4a532-2c52-4e24-a1a3-90412bb627ad_detail.png/392x696bb.png",
@@ -45292,8 +45292,9 @@
       ],
       "appPermissions": {
         "entitlements": [
-          "com.apple.security.application-groups",
-          "aps-environment"
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSCameraUsageDescription": "NeoServer needs camera access to upload photos to your terminal server.",
@@ -45304,11 +45305,11 @@
       },
       "versions": [
         {
-          "version": "8.3.2",
-          "date": "2026-07-07",
+          "version": "8.3.3",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: NeoServer, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_3_2_Subscription_Unlocked_blatant.ipa",
-          "size": 28605116
+          "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_3_3_Subscription_Unlocked_blatant.ipa",
+          "size": 32913866
         }
       ],
       "category": "developer-tools"
@@ -80564,14 +80565,14 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
       "subtitle": "Tweaked with CydiaSubstrate, DontEatMyContent",
-      "version": "21.26.4",
-      "versionDate": "2026-07-04",
+      "version": "21.28.3",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, NoYTPremium, YTABConfig, YTLite\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]YT_21.26.4_YP.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]YT_21.28.3_YP.ipa",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DontEatMyContent, NoYTPremium, YTABConfig, YTLite\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/27/c3/d927c357-3219-36a7-9821-316c15cc6b40/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 142434296,
+      "size": 142510187,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -80607,11 +80608,11 @@
       },
       "versions": [
         {
-          "version": "21.26.4",
-          "date": "2026-07-04",
+          "version": "21.28.3",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, NoYTPremium, YTABConfig, YTLite\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]YT_21.26.4_YP.ipa",
-          "size": 142434296
+          "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]YT_21.28.3_YP.ipa",
+          "size": 142510187
         }
       ],
       "category": "photo-&-video"
