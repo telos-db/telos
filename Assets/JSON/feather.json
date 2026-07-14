@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.claushuang.FocusTomato",
+    "com.ahmetserdarkaradeniz.Phocus",
+    "com.gingerlabs.Notability",
     "au.com.michaeltigas.MiniOS",
-    "com.soundscape.music",
-    "com.huckleberry-labs.app",
-    "com.sfun.snapedit",
-    "com.condor.digital.Tide-Over"
+    "com.soundscape.music"
   ],
   "apps": [
     {
@@ -25105,14 +25105,14 @@
       "bundleIdentifier": "com.claushuang.FocusTomato",
       "developerName": "CHIH-SHAN LIU",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "6.0.7",
-      "versionDate": "2026-06-12",
+      "version": "6.1",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, focustomato, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Focus Tomato - Let's focus now-v6.0.7-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Focus Tomato - Let's focus now-v6.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, focustomato, zxPluginsInject\n\nFocus Tomato - Let's focus now\n\n---\n## App Of The Day - Apple\n## New Apps We Love - Apple\n## Try These Out - Apple\n## Student App of the Month - The App Brewery (London)\n\nFocus Tomato is a serious tomato helping you stay focused.\nCheer you up when you succeed.\n\n—— Recommended consuming order ——\n\nStep 1: Goal setting\nIf the goal is too big, break it down.\n\nStep 2: only focus for 25 minutes\n Only focus on one thing\n Avoid distraction; make efforts to keep the Tomato running (ex. if someone hits you up, tell him/her getting back to y",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/97/05/3d97059e-f3bf-cab5-c998-345ecc1c847b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/8b/0e/468b0ef5-f5c5-15a4-a211-bcdf51da9261/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 74667238,
+      "size": 117820392,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/3f/ea/c63feab6-4231-ea8f-5e9e-1cefab3e35b0/e8d5a0f6-4e38-45ff-a003-92c980fcb26d_cut0.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/97/2c/78972c97-9ae8-4f7e-8b0d-2bf035cecf4b/c96774c1-7660-4595-a4f4-64b772640b87_cut1.jpg/576x768bb.jpg",
@@ -25122,6 +25122,7 @@
       ],
       "appPermissions": {
         "entitlements": [
+          "com.apple.developer.icloud-container-environment",
           "com.apple.security.application-groups"
         ],
         "privacy": {
@@ -25130,11 +25131,11 @@
       },
       "versions": [
         {
-          "version": "6.0.7",
-          "date": "2026-06-12",
+          "version": "6.1",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, focustomato, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Focus Tomato - Let's focus now-v6.0.7-riftysipas.ipa",
-          "size": 74667238
+          "downloadURL": "https://telos.ftp.sh/ipas/Focus Tomato - Let's focus now-v6.1-riftysipas.ipa",
+          "size": 117820392
         }
       ],
       "category": "productivity"
@@ -46187,14 +46188,14 @@
       "bundleIdentifier": "com.gingerlabs.Notability",
       "developerName": "Ginger Labs",
       "subtitle": "Tweaked with Notability, blatantsPatch",
-      "version": "16.5.3",
-      "versionDate": "2026-07-07",
+      "version": "16.6",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: Notability, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_5_3_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_6_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Notability, blatantsPatch\n\nNotability: AI Notes & PDF app\n\n---\nFrom your first lecture to your next big meeting, Notability helps you think, learn, and work better. Take handwritten notes, annotate documents, record audio, and stay organized in one place so your ideas are always clear, searchable, and ready when you need them.\n\nFREE DIGITAL NOTES FOR WORK & SCHOOL\n• Write, type, or sketch with digital ink, highlighters, and text tools.\n• Mark up anything: PDFs, textbooks, lecture slides, images, and more.\n• Combine handwriting, typed text, images, diagrams,",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/a3/c6/9ca3c67c-cf0a-fece-dceb-6e8e17e70ba2/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 264190832,
+      "size": 263096663,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a8/6c/eea86cda-14d4-6a30-2c2c-c3e89532d4a3/1-iPhone55-EN.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/20/f5/f820f50c-2df3-745a-f955-1a70dfb4f1ff/2-iPhone55-EN.png/392x696bb.png",
@@ -46226,11 +46227,11 @@
       },
       "versions": [
         {
-          "version": "16.5.3",
-          "date": "2026-07-07",
+          "version": "16.6",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: Notability, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_5_3_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 264190832
+          "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_6_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 263096663
         }
       ],
       "category": "productivity"
@@ -50448,14 +50449,14 @@
       "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
       "developerName": "RAY INFORMATICS YAZILIM TEKNOLOJI MEDYA DANISMANLIK VE EGITIM TICARET LIMITED SIRKETI",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "3.4.4",
-      "versionDate": "2026-07-11",
+      "version": "3.4.5",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Phocus_DSLR_Portrait_Camera_v3_4_4_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Phocus_DSLR_Portrait_Camera_v3_4_5_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nPhocus: DSLR Portrait Camera\n\n---\nPhocus is a portrait camera and depth editor for iPhone and iPad, built for realistic bokeh, lens character, focus control, and cinematic color. Capture DSLR-style portraits, preview lens and depth effects live, refine background blur with precision, and create polished images with more control over focus, tone, and mood.\n\nWith Phocus, you can go beyond simple portrait blur. Shoot with real-time lens and bokeh previews, import your own LUTs, shape aperture and focus depth, edit depth-aware masks",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/7d/82/a57d8257-9352-d828-e2ac-976f52cb4966/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 287140371,
+      "size": 287149516,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -50471,11 +50472,11 @@
       },
       "versions": [
         {
-          "version": "3.4.4",
-          "date": "2026-07-11",
+          "version": "3.4.5",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Phocus_DSLR_Portrait_Camera_v3_4_4_Subscription_Unlocked_blatant.ipa",
-          "size": 287140371
+          "downloadURL": "https://telos.ftp.sh/ipas/Phocus_DSLR_Portrait_Camera_v3_4_5_Subscription_Unlocked_blatant.ipa",
+          "size": 287149516
         }
       ],
       "category": "photo-&-video"
