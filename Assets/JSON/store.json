@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "app.monelyze.ToDo",
+    "com.evolve.helm",
+    "com.readdle.CalendarsLite",
     "com.polywise.weekly",
-    "com.gymbros.app",
-    "com.maartenrietdijk.raceday",
-    "com.zuzu.peekapic",
-    "com.fifteenjugglers.solarwatch"
+    "com.gymbros.app"
   ],
   "apps": [
     {
@@ -10168,14 +10168,14 @@
       "bundleIdentifier": "com.readdle.CalendarsLite",
       "developerName": "Readdle Technologies Limited",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "5.37.31",
-      "versionDate": "2026-06-30",
+      "version": "5.37.32",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: Calendars, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Calendars_Schedule_Planner_v5_37_31_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Calendars_Schedule_Planner_v5_37_32_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nCalendars: Schedule Planner",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/16/79/3f1679c8-a5a1-36c3-80a3-f43ed6ef1a83/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/15/99/76159954-721c-a154-1513-bf1261095447/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 307243839,
+      "size": 307886861,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/ae/c7/39aec7ed-f739-0217-9073-ec40c4bbc6c8/cacd5010-b49f-47c0-a3e9-4c5aa79a4d62_iPad_art_1_EN.jpg/552x414bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/08/b2/9a08b25c-1b45-3771-d455-c9808fd91f40/pr_source.jpg/552x414bb.jpg",
@@ -10205,11 +10205,11 @@
       },
       "versions": [
         {
-          "version": "5.37.31",
-          "date": "2026-06-30",
+          "version": "5.37.32",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: Calendars, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Calendars_Schedule_Planner_v5_37_31_Subscription_Unlocked_blatant.ipa",
-          "size": 307243839
+          "downloadURL": "https://telos.ftp.sh/ipas/Calendars_Schedule_Planner_v5_37_32_Subscription_Unlocked_blatant.ipa",
+          "size": 307886861
         }
       ],
       "category": "productivity"
@@ -56857,14 +56857,14 @@
       "bundleIdentifier": "com.evolve.helm",
       "developerName": "Evolve Global, Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "3.194.0",
-      "versionDate": "2026-07-07",
+      "version": "3.195.0",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Rest: Fix Your Sleep For Good-v3.194.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Rest: Fix Your Sleep For Good-v3.195.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nRest: Fix Your Sleep For Good",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/35/1b/a9351b4a-19ae-008d-11ed-af0b0a950fbf/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 128530776,
+      "size": 128525474,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c6/dd/74c6dd2c-8270-353b-e06c-51365da28c06/5.5_-_Slide_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/77/d9/8177d9cf-9598-cc3c-b752-2d2b19bd1041/5.5_-_Slide_2.png/392x696bb.png",
@@ -56896,11 +56896,11 @@
       },
       "versions": [
         {
-          "version": "3.194.0",
-          "date": "2026-07-07",
+          "version": "3.195.0",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Rest: Fix Your Sleep For Good-v3.194.0-riftysipas.ipa",
-          "size": 128530776
+          "downloadURL": "https://telos.ftp.sh/ipas/Rest: Fix Your Sleep For Good-v3.195.0-riftysipas.ipa",
+          "size": 128525474
         }
       ],
       "category": "health-&-fitness"
@@ -71058,14 +71058,14 @@
       "bundleIdentifier": "app.monelyze.ToDo",
       "developerName": "Monelyze Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "7.2.7",
-      "versionDate": "2026-07-10",
+      "version": "7.2.8",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.2.7-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.2.8-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nToDo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/d9/ff/02d9ff4f-9331-f5b6-7189-48aebd29fd0d/ToDo-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 27800622,
+      "size": 27807186,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -71080,11 +71080,11 @@
       },
       "versions": [
         {
-          "version": "7.2.7",
-          "date": "2026-07-10",
+          "version": "7.2.8",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.2.7-riftysipas.ipa",
-          "size": 27800622
+          "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.2.8-riftysipas.ipa",
+          "size": 27807186
         }
       ],
       "category": "productivity"
@@ -81572,7 +81572,7 @@
     {
       "title": "⚙️ Telos Update 7.14",
       "identifier": "telos-update-2026-07-14",
-      "caption": "58 Apps Updated:\n• 14 Photo & Video\n• 12 Health & Fitness\n• 10 Productivity\n• 2 Games\n• 2 Developer Tools\n• 2 Weather\n• 2 Medical\n• 2 Entertainment\n• 2 Sports\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Navigation\n• 2 Utilities\n• 2 Education",
+      "caption": "74 Apps Updated:\n• 20 Health & Fitness\n• 18 Productivity\n• 14 Photo & Video\n• 2 Games\n• 2 Developer Tools\n• 2 Weather\n• 2 Medical\n• 2 Entertainment\n• 2 Sports\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Navigation\n• 2 Utilities\n• 2 Education",
       "date": "2026-07-14",
       "tintColor": "#02433b",
       "notify": true,
