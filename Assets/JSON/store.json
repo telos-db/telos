@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.pixite.pigment",
+    "com.pinguido.scenic",
     "com.elevateapp.elevate",
     "com.myfitnesspal.mfp",
-    "com.wellocution.iosapp",
-    "com.ulisesolave.Fitia",
-    "app.monelyze.ToDo"
+    "com.wellocution.iosapp"
   ],
   "apps": [
     {
@@ -51338,14 +51338,14 @@
       "bundleIdentifier": "com.pixite.pigment",
       "developerName": "Pixite Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "3.13.1",
-      "versionDate": "2026-07-10",
+      "version": "3.13.2",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nAdult Coloring Book - Pigment",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/06/13/9e061338-f5e3-8adf-4ccc-833586cd0bb8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 145026645,
+      "size": 145005541,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -51366,11 +51366,11 @@
       },
       "versions": [
         {
-          "version": "3.13.1",
-          "date": "2026-07-10",
+          "version": "3.13.2",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13.1-riftysipas.ipa",
-          "size": 145026645
+          "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13.2-riftysipas.ipa",
+          "size": 145005541
         }
       ],
       "category": "lifestyle"
@@ -58088,14 +58088,14 @@
       "bundleIdentifier": "com.pinguido.scenic",
       "developerName": "Applified Life Ltd.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "4.41",
-      "versionDate": "2026-06-23",
+      "version": "4.42",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Scenic Motorcycle Navigation-v4.41-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Scenic Motorcycle Navigation-v4.42-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nScenic Motorcycle Navigation",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/c4/4a/89c44a21-4d4b-db98-c6f3-ce8defb45f5b/Scenic_Apple_Icon_Texture-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/74/85/11748583-f194-344a-ba18-12768b1270d3/Scenic_Apple_Icon_Texture-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 141507879,
+      "size": 141526174,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/b6/3a/01b63a90-e1f6-02ef-447c-e4213e312688/d34289dd-43f8-47a2-97ae-d8070db7131f_English_-_iPhone5.5_-_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/da/f2/7ddaf257-8c8d-13ba-e20d-996208d304f4/481e50e0-d7f1-40cd-9217-f535f3e07d33_0160_-scenic-app-store-5.5inch-English-AW3.png/392x696bb.png",
@@ -58124,11 +58124,11 @@
       },
       "versions": [
         {
-          "version": "4.41",
-          "date": "2026-06-23",
+          "version": "4.42",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Scenic Motorcycle Navigation-v4.41-riftysipas.ipa",
-          "size": 141507879
+          "downloadURL": "https://telos.ftp.sh/ipas/Scenic Motorcycle Navigation-v4.42-riftysipas.ipa",
+          "size": 141526174
         }
       ],
       "category": "navigation"
@@ -81572,7 +81572,7 @@
     {
       "title": "⚙️ Telos Update 7.14",
       "identifier": "telos-update-2026-07-14",
-      "caption": "80 Apps Updated:\n• 22 Health & Fitness\n• 14 Photo & Video\n• 14 Productivity\n• 10 Education\n• 2 Games\n• 2 Developer Tools\n• 2 Weather\n• 2 Medical\n• 2 Entertainment\n• 2 Sports\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Navigation\n• 2 Utilities",
+      "caption": "88 Apps Updated:\n• 20 Health & Fitness\n• 14 Photo & Video\n• 14 Productivity\n• 10 Lifestyle\n• 8 Education\n• 6 Navigation\n• 2 Games\n• 2 Developer Tools\n• 2 Weather\n• 2 Medical\n• 2 Entertainment\n• 2 Sports\n• 2 Graphics & Design\n• 2 Utilities",
       "date": "2026-07-14",
       "tintColor": "#02433b",
       "notify": true,
