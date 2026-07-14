@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.pixite.pigment",
+    "com.pinguido.scenic",
     "com.elevateapp.elevate",
     "com.myfitnesspal.mfp",
-    "com.wellocution.iosapp",
-    "com.ulisesolave.Fitia",
-    "app.monelyze.ToDo"
+    "com.wellocution.iosapp"
   ],
   "apps": [
     {
@@ -51815,14 +51815,14 @@
       "bundleIdentifier": "com.pixite.pigment",
       "developerName": "Pixite Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.13.1",
-      "versionDate": "2026-07-10",
+      "version": "3.13.2",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nAdult Coloring Book - Pigment\n\n---\n= = =\n\nColoring is a great way to relax and reduce stress and anxiety. Just 10 minutes of coloring can provide the same benefits as meditation. It helps you practice mindfulness, stay present, enhance concentration, build creativity, and is a great alternative to games!\n\nPigment, an award-winning coloring app, is a sanctuary for relaxation, nourishing your creative spirit, and providing daily inspiration. Within its vibrant community of artists, you'll discover a wealth of positivity and wholehe",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/06/13/9e061338-f5e3-8adf-4ccc-833586cd0bb8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 145026645,
+      "size": 145005541,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -51843,11 +51843,11 @@
       },
       "versions": [
         {
-          "version": "3.13.1",
-          "date": "2026-07-10",
+          "version": "3.13.2",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13.1-riftysipas.ipa",
-          "size": 145026645
+          "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13.2-riftysipas.ipa",
+          "size": 145005541
         }
       ],
       "category": "lifestyle"
@@ -58562,14 +58562,14 @@
       "bundleIdentifier": "com.pinguido.scenic",
       "developerName": "Applified Life Ltd.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.41",
-      "versionDate": "2026-06-23",
+      "version": "4.42",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Scenic Motorcycle Navigation-v4.41-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Scenic Motorcycle Navigation-v4.42-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nScenic Motorcycle Navigation\n\n---\nTAKE THE SCENIC ROUTE — The app motorcycle riders swear by. 30 million hours ridden, 200,000+ user-designed routes, 4.7 star rating worldwide.\n\nGET THERE YOUR WAY — Curvy routes, beauty routes, unpaved adventures. Scenic finds the twistiest roads automatically, anywhere in the world. You choose how to get there — the rest is just riding.\n\nPLAN LIKE A PRO — Drop pins, set stops, pick your routing mode. Share your route with fellow riders before you even leave.\n\nDISCOVER EPIC ROADS — Browse thousa",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/c4/4a/89c44a21-4d4b-db98-c6f3-ce8defb45f5b/Scenic_Apple_Icon_Texture-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/74/85/11748583-f194-344a-ba18-12768b1270d3/Scenic_Apple_Icon_Texture-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 141507879,
+      "size": 141526174,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/b6/3a/01b63a90-e1f6-02ef-447c-e4213e312688/d34289dd-43f8-47a2-97ae-d8070db7131f_English_-_iPhone5.5_-_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/da/f2/7ddaf257-8c8d-13ba-e20d-996208d304f4/481e50e0-d7f1-40cd-9217-f535f3e07d33_0160_-scenic-app-store-5.5inch-English-AW3.png/392x696bb.png",
@@ -58598,11 +58598,11 @@
       },
       "versions": [
         {
-          "version": "4.41",
-          "date": "2026-06-23",
+          "version": "4.42",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Scenic Motorcycle Navigation-v4.41-riftysipas.ipa",
-          "size": 141507879
+          "downloadURL": "https://telos.ftp.sh/ipas/Scenic Motorcycle Navigation-v4.42-riftysipas.ipa",
+          "size": 141526174
         }
       ],
       "category": "navigation"
