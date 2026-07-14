@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.condor.digital.Tide-Over",
     "com.neo.NeoMan",
     "com.google.ios.youtube",
     "com.sporcle.party",
-    "com.evolve.podcast",
-    "com.elevateapp.kamino.kamino"
+    "com.evolve.podcast"
   ],
   "apps": [
     {
@@ -70863,14 +70863,14 @@
       "bundleIdentifier": "com.condor.digital.Tide-Over",
       "developerName": "Condor Digital",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "7.3.11",
-      "versionDate": "2026-06-22",
+      "version": "7.3.12",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tide Guide: Charts & Tables-v7.3.11-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tide Guide: Charts & Tables-v7.3.12-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nTide Guide: Charts & Tables\n\n---\nThe award winning tide app for Apple Watch, iPhone, iPad and Mac. Never miss a tide, sunset, or beautiful day on the water. Tide Guide features tide and marine weather conditions from trusted data providers worldwide. It's beautiful, powerful, and provides easy access to thousands of different tide stations around the world.\n\n# Apple Design Award & App Store App of the Year Finalist\n\n# Built for Apple Watch\nGorgeous full screen charts provide detailed tide and weather conditions. Each chart is d",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/d3/66/09d366e1-151e-b955-f0ef-06c12ddbf8b4/AppIcon_2-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/7d/f2/b37df2c9-3696-465c-5100-2093925e0db6/AppIcon_2-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 177194633,
+      "size": 177223890,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/d3/ee/67d3eef5-3bf9-04ea-cdde-030f72bbd1b0/7af6cb67-195e-46c1-b068-ece5557447aa_iPad_-_Welcome_Copy.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/55/80/72558076-ebfe-8ae1-05bc-92244ac27164/7777d119-7e09-4cc8-8e8c-04de84eac907_iPad_-_2_Copy.jpg/576x768bb.jpg",
@@ -70893,11 +70893,11 @@
       },
       "versions": [
         {
-          "version": "7.3.11",
-          "date": "2026-06-22",
+          "version": "7.3.12",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tide Guide: Charts & Tables-v7.3.11-riftysipas.ipa",
-          "size": 177194633
+          "downloadURL": "https://telos.ftp.sh/ipas/Tide Guide: Charts & Tables-v7.3.12-riftysipas.ipa",
+          "size": 177223890
         }
       ],
       "category": "weather"
