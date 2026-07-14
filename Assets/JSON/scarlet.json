@@ -23422,12 +23422,12 @@
       "bundleIdentifier": "com.gymbros.app",
       "developerName": "GymBros Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nLiftoff - Ranked Gym Workouts\n\n---\nLiftoff is the best workout tracker app that ranks your gym performance. Get feedback on 400+ exercises, track progress, and compete with friends. Download the #1 gym rank app & join over 1 million lifters today!\n\nGamified Workout Tracker | Ranks | Streaks | Accountability | Logger\n\nBoost Your Fitness Journey with Liftoff app\n\nConnect and Compete\nJoin a vibrant community of fitness enthusiasts who make every workout count. Liftoff is a social platform where you can connect, compete, and share yo",
-      "version": "2.13.23",
-      "versionDate": "2026-07-09T02:31:05-00:00",
-      "versionDescription": "Build 583 from @riftysIPAlibrary",
-      "size": 162920126,
+      "version": "2.14.1",
+      "versionDate": "2026-07-14T14:28:13-00:00",
+      "versionDescription": "Build 588 from @riftysIPAlibrary",
+      "size": 152738776,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/61/f6/b061f65b-200f-549b-bf8b-1f5736f4f991/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.13.23-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.14.1-riftysipas.ipa",
       "minOSVersion": "15.1",
       "supportedPlatforms": [
         "iOS"
@@ -23440,7 +23440,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Liftoff - Ranked Gym Workouts-v2.13.23-riftysipas.ipa"
+        "originalFile": "Liftoff - Ranked Gym Workouts-v2.14.1-riftysipas.ipa"
       }
     },
     {
@@ -32247,6 +32247,31 @@
       }
     },
     {
+      "name": "pico cam",
+      "bundleIdentifier": "com.zuzu.peekapic",
+      "developerName": "Soon Tiac Ching",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, StopReviews, Tg_Sa1y0miii26, sideloadKeychainfix1, sideloadKeychainfix2\n\n---\npico cam is a tiny camera for instant pics, playful reveals, and little photo rituals on iPhone.\n\nTake a pic, watch it become a tiny instant-style photo, then save or share it from your gallery. pico cam is built around quick captures, charming animations, and a Dynamic Island experience that makes every shot feel like it has a tiny entrance.\n\nUse pico cam for everyday moments, friends, outfits, meals, places, and all the small things that deserve to feel a little more special.\n\nFeatures:\n- Capt",
+      "version": "1.2.0",
+      "versionDate": "2026-07-14T14:24:44-00:00",
+      "versionDescription": "Build 1 from @binnichtaktivsipas",
+      "size": 8412853,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/f1/94/2af19492-7aa2-5ffb-3b27-7e484cdb0e0e/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/‎ pico cam_v1.2.0_tg@Sa1y0miii.ipa",
+      "minOSVersion": "18.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "‎ pico cam_v1.2.0_tg@Sa1y0miii.ipa"
+      }
+    },
+    {
       "name": "Picoboom",
       "bundleIdentifier": "com.vanilla.picoboom",
       "developerName": "Vanilla b.v.",
@@ -34893,6 +34918,31 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Race Master 3D: Car Racing-v3.15.1-riftysipas.ipa"
+      }
+    },
+    {
+      "name": "RaceDay",
+      "bundleIdentifier": "com.maartenrietdijk.raceday",
+      "developerName": "Maarten Rietdijk",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, StopReviews, Tg_Sa1y0miii26, sideloadKeychainfix1, sideloadKeychainfix2\n\n---\nNever miss a race again. RaceDay is the ultimate motorsport calendar app that keeps you up to date with every session across all major racing series.\n\nFollow the series you love.\nStay on top of F1, Formula 2, Formula 3, F1 Academy, MotoGP, Moto2, Moto3, IndyCar, NASCAR, WRC, WEC, IMSA, DTM, Formula E, GT World Challenge and more — all in one place.\n\nAlways know what's on\nSee every practice session, qualifying, sprint race and race for the entire season. All times are automatically adjusted to yo",
+      "version": "1.4",
+      "versionDate": "2026-07-14T14:25:00-00:00",
+      "versionDescription": "Build 1 from @binnichtaktivsipas",
+      "size": 14750930,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/a0/33/dba03375-9b61-da2b-ad59-bf3757bd9621/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/‎ RaceDay_v1.4_tg@Sa1y0miii.ipa",
+      "minOSVersion": "17.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "‎ RaceDay_v1.4_tg@Sa1y0miii.ipa"
       }
     },
     {
