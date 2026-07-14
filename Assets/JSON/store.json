@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.wellocution.iosapp",
+    "com.elevateapp.elevate",
     "com.ulisesolave.Fitia",
     "app.monelyze.ToDo",
-    "com.evolve.helm",
-    "com.readdle.CalendarsLite",
-    "com.polywise.weekly"
+    "com.evolve.helm"
   ],
   "apps": [
     {
@@ -8426,14 +8426,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.1.6",
-      "versionDate": "2026-07-13",
+      "version": "4.1.7",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_6_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_7_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nBoldVoice: Accent Training",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 143945564,
+      "size": 144230222,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8453,11 +8453,11 @@
       },
       "versions": [
         {
-          "version": "4.1.6",
-          "date": "2026-07-13",
+          "version": "4.1.7",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_6_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 143945564
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_7_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 144230222
         }
       ],
       "category": "education"
@@ -19655,15 +19655,15 @@
       "name": "Elevate",
       "bundleIdentifier": "com.elevateapp.elevate",
       "developerName": "The Mind Company",
-      "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "5.248.0",
-      "versionDate": "2026-07-13",
-      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.248.0-riftysipas.ipa",
-      "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nElevate - Brain Training Games",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "5.248.1",
+      "versionDate": "2026-07-14",
+      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Elevate_Brain_Training_Games_v5_248_1_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nElevate - Brain Training Games",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/46/bb/b346bb91-1ac0-0404-b1b9-29b7cadd6388/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 403212496,
+      "size": 412758602,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -19684,11 +19684,11 @@
       },
       "versions": [
         {
-          "version": "5.248.0",
-          "date": "2026-07-13",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.248.0-riftysipas.ipa",
-          "size": 403212496
+          "version": "5.248.1",
+          "date": "2026-07-14",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Elevate_Brain_Training_Games_v5_248_1_Subscription_Unlocked_blatant.ipa",
+          "size": 412758602
         }
       ],
       "category": "education"
@@ -81572,7 +81572,7 @@
     {
       "title": "⚙️ Telos Update 7.14",
       "identifier": "telos-update-2026-07-14",
-      "caption": "70 Apps Updated:\n• 20 Health & Fitness\n• 14 Photo & Video\n• 14 Productivity\n• 2 Games\n• 2 Developer Tools\n• 2 Weather\n• 2 Medical\n• 2 Entertainment\n• 2 Sports\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Navigation\n• 2 Utilities\n• 2 Education",
+      "caption": "76 Apps Updated:\n• 18 Health & Fitness\n• 14 Photo & Video\n• 14 Productivity\n• 10 Education\n• 2 Games\n• 2 Developer Tools\n• 2 Weather\n• 2 Medical\n• 2 Entertainment\n• 2 Sports\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Navigation\n• 2 Utilities",
       "date": "2026-07-14",
       "tintColor": "#02433b",
       "notify": true,
