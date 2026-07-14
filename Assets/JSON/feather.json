@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.deeddacabeba.pakeplus.ios",
     "com.claushuang.FocusTomato",
     "com.ahmetserdarkaradeniz.Phocus",
     "com.gingerlabs.Notability",
-    "au.com.michaeltigas.MiniOS",
-    "com.soundscape.music"
+    "au.com.michaeltigas.MiniOS"
   ],
   "apps": [
     {
@@ -43829,6 +43829,39 @@
           "localizedDescription": "Tweaks: Fixipa1, Fixipa2, substrate\n\nSource: @thescholarslounge",
           "downloadURL": "https://telos.ftp.sh/ipas/MovieCine_2.0_3BodSy.ipa",
           "size": 32728334
+        }
+      ],
+      "category": "entertainment"
+    },
+    {
+      "name": "MovieFeens - App",
+      "bundleIdentifier": "com.deeddacabeba.pakeplus.ios",
+      "developerName": "Fandango",
+      "subtitle": "MovieFeens - App for iOS",
+      "version": "1.0",
+      "versionDate": "2026-07-14",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/moviefeens-app-1.0.0.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nDownload Fandango – the #1 movie ticketing app with over 2 million 5-Star Reviews! Available across iOS devices including iPhone, iPad, iMessage and Apple Watch! Buy movie tickets, watch the newest trailers, browse Rotten Tomatoes® scores, and find the best showtimes and seats for more than 31,000 screens nationwide.\n\n• BUY MOVIE TICKETS: Get your tickets ahead of time to skip the box office line and secure the best seats to the biggest movies. Save time with mobile tickets using your iPhone’s A",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/6e/40/af6e4051-135d-f06f-81dd-e2a5ab1f87e2/app_icon_fandango-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 6734346,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "需要访问相册来上传图片",
+          "NSCameraUsageDescription": "用于拍照上传头像及网页视频通话",
+          "NSMicrophoneUsageDescription": "用于网页语音、视频通话"
+        }
+      },
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-07-14",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/moviefeens-app-1.0.0.ipa",
+          "size": 6734346
         }
       ],
       "category": "entertainment"
