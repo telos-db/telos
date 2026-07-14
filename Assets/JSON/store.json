@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.napper",
+    "com.neybox.Pillow",
+    "com.appilous.Chatbot",
     "com.deeddacabeba.pakeplus.ios",
-    "com.claushuang.FocusTomato",
-    "com.ahmetserdarkaradeniz.Phocus",
-    "com.gingerlabs.Notability",
-    "au.com.michaeltigas.MiniOS"
+    "com.claushuang.FocusTomato"
   ],
   "apps": [
     {
@@ -44513,14 +44513,14 @@
       "bundleIdentifier": "com.napper",
       "developerName": "Napper AB",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "6.60.0",
-      "versionDate": "2026-07-08",
+      "version": "6.61.0",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Napper: Baby Sleep Tracker-v6.60.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Napper: Baby Sleep Tracker-v6.61.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nNapper: Baby Sleep Tracker",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/36/09/e7360996-727d-f95f-242e-361d3a8c1473/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/3b/4d/5e3b4dc0-d453-c541-eace-646959534a48/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 50771584,
+      "size": 50787246,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/ce/c4/14cec484-2e2f-e37e-1d54-bb1852643d77/e89fc735-9443-4475-ac9d-dd40dbc28b19_en-2-1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/a2/f2/7ea2f2ef-fcb7-9653-fdbc-9fb518c8baa7/b6fcb7bd-6cf3-43a1-a759-7021c6656ebb_en-4-1.png/392x696bb.png",
@@ -44546,11 +44546,11 @@
       },
       "versions": [
         {
-          "version": "6.60.0",
-          "date": "2026-07-08",
+          "version": "6.61.0",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Napper: Baby Sleep Tracker-v6.60.0-riftysipas.ipa",
-          "size": 50771584
+          "downloadURL": "https://telos.ftp.sh/ipas/Napper: Baby Sleep Tracker-v6.61.0-riftysipas.ipa",
+          "size": 50787246
         }
       ],
       "category": "health-&-fitness"
@@ -48723,14 +48723,14 @@
       "bundleIdentifier": "com.appilous.Chatbot",
       "developerName": "Pulkit Agarwal",
       "subtitle": "Pal for iOS",
-      "version": "2.0.70",
-      "versionDate": "2026-06-15",
+      "version": "2.0.72",
+      "versionDate": "2026-07-14",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.appilous.Chatbot-1.0.70-eeveedecrypter.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.appilous.Chatbot-1.0.72-eeveedecrypter.ipa",
       "localizedDescription": "Pal for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/fb/0b/fbfb0ba9-aeb2-be19-cebf-bb7461c60098/GlassIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 79241648,
+      "size": 79107520,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/34/ba/3d34bad7-632c-c322-aa49-446d317a8625/ba260155-328b-4207-9ba5-95fdb213adef_5.5_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/3b/fb/973bfbd0-072e-9610-b7e1-9173f2152311/82a05260-a8e2-4e2e-a8f4-7b7b1c655f34_5.5_2.png/392x696bb.png",
@@ -48746,11 +48746,11 @@
       },
       "versions": [
         {
-          "version": "2.0.70",
-          "date": "2026-06-15",
+          "version": "2.0.72",
+          "date": "2026-07-14",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.appilous.Chatbot-1.0.70-eeveedecrypter.ipa",
-          "size": 79241648
+          "downloadURL": "https://telos.ftp.sh/ipas/com.appilous.Chatbot-1.0.72-eeveedecrypter.ipa",
+          "size": 79107520
         }
       ],
       "category": "productivity"
@@ -51434,15 +51434,15 @@
       "name": "Pillow",
       "bundleIdentifier": "com.neybox.Pillow",
       "developerName": "Neybox Digital Ltd.",
-      "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "6.4.6",
-      "versionDate": "2026-06-30",
-      "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Pillow: Sleep Tracker-v6.4.6-riftysipas.ipa",
-      "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nPillow: Sleep Tracker",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/f4/97/03f49716-1ea6-5b62-313b-c4f2a07802ea/AppIcon-v5-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "6.5",
+      "versionDate": "2026-07-14",
+      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Pillow_Sleep_Tracker_v6_5_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPillow: Sleep Tracker",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/ae/67/2eae6786-e59e-d906-0aab-8517e06a10d9/AppIcon-v5-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 551176915,
+      "size": 565663425,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -51470,11 +51470,11 @@
       },
       "versions": [
         {
-          "version": "6.4.6",
-          "date": "2026-06-30",
-          "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Pillow: Sleep Tracker-v6.4.6-riftysipas.ipa",
-          "size": 551176915
+          "version": "6.5",
+          "date": "2026-07-14",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Pillow_Sleep_Tracker_v6_5_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 565663425
         }
       ],
       "category": "health-&-fitness"
@@ -81506,7 +81506,7 @@
     {
       "title": "⚙️ Telos Update 7.14",
       "identifier": "telos-update-2026-07-14",
-      "caption": "26 Apps Updated:\n• 6 Photo & Video\n• 6 Productivity\n• 4 Entertainment\n• 2 Games\n• 2 Developer Tools\n• 2 Weather\n• 2 Health & Fitness\n• 2 Medical",
+      "caption": "36 Apps Updated:\n• 10 Productivity\n• 10 Health & Fitness\n• 6 Photo & Video\n• 2 Games\n• 2 Developer Tools\n• 2 Weather\n• 2 Medical\n• 2 Entertainment",
       "date": "2026-07-14",
       "tintColor": "#02433b",
       "notify": true,
