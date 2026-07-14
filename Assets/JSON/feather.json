@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.pixite.pigment",
-    "com.pinguido.scenic",
-    "com.elevateapp.elevate",
-    "com.myfitnesspal.mfp",
-    "com.wellocution.iosapp"
+    "com.shinobiapp.shinobi",
+    "com.resonantcavity.Voloco",
+    "nz.digitaltools.Tube-GPT",
+    "com.impalastudios.pianofree",
+    "com.pixite.pigment"
   ],
   "apps": [
     {
@@ -60373,14 +60373,14 @@
       "bundleIdentifier": "com.shinobiapp.shinobi",
       "developerName": "Jeremy Pitault",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.4.2",
-      "versionDate": "2026-06-27",
+      "version": "1.4.3",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Shinobi: Read Japanese Stories-v1.4.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Shinobi: Read Japanese Stories-v1.4.3-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nShinobi: Read Japanese Stories\n\n---\nLearn Japanese through illustrated stories, native audio, shadowing, quizzes, and interactive reading tools.\n\nShinobi Japanese helps you build reading, kanji, vocabulary, grammar, listening, and speaking skills through content that feels immersive, practical, and actually enjoyable. Instead of memorizing isolated words and grammar points, you learn Japanese in context through stories, audio, news reading, and smart review tools.\n\nAt the core of Shinobi Japanese are illustrated stories designed t",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/e5/e8/9ae5e8aa-a445-7493-c768-6fcb9dc6d268/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/f7/f5/00f7f565-4aa4-0f2e-66e9-92cc29e8c891/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 47169858,
+      "size": 49262203,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -60399,11 +60399,11 @@
       },
       "versions": [
         {
-          "version": "1.4.2",
-          "date": "2026-06-27",
+          "version": "1.4.3",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Shinobi: Read Japanese Stories-v1.4.2-riftysipas.ipa",
-          "size": 47169858
+          "downloadURL": "https://telos.ftp.sh/ipas/Shinobi: Read Japanese Stories-v1.4.3-riftysipas.ipa",
+          "size": 49262203
         }
       ],
       "category": "education"
@@ -67841,14 +67841,14 @@
       "bundleIdentifier": "nz.digitaltools.Tube-GPT",
       "developerName": "Digital Tools Ltd",
       "subtitle": "Tweaked with CydiaSubstrate, chocorc",
-      "version": "3.12.1",
-      "versionDate": "2026-06-14",
+      "version": "3.14.0",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Summarify: AI For YouTube-v3.12.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Summarify: AI For YouTube-v3.14.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSummarify: AI For YouTube\n\n---\nIntroducing Summarify - the ultimate video summarization app powered by cutting-edge AI technology. Save time and effortlessly grasp the key insights from YouTube videos with our powerful summarization capabilities. Powered by AI Chat, Summarify ensures accuracy, coherence, and convenience in every summary.\n\nNow with over 15 different summary styles you can quickly summarize videos using simple summaries to data extraction, then export to PDF or markdown Summarify has never been more powerful!",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/89/86/cb89868f-ba76-7f12-6569-6528443917ac/alternateIcon1-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/ca/54/9eca5461-46eb-0db3-75d9-794cd09f6aa7/alternateIcon1-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 24032905,
+      "size": 23301187,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/3d/33/253d3382-d230-f3f1-a675-1fe382dc3cd7/cb7ba935-5483-4113-914b-b0b9a6238b4f_image3.jpeg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/50/44/105044f4-882a-1f8c-0fc6-69751f695a99/50982a21-09c3-49a3-b2a2-e303a9ec91d5_image4.jpeg/392x696bb.jpg",
@@ -67870,11 +67870,11 @@
       },
       "versions": [
         {
-          "version": "3.12.1",
-          "date": "2026-06-14",
+          "version": "3.14.0",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Summarify: AI For YouTube-v3.12.1-riftysipas.ipa",
-          "size": 24032905
+          "downloadURL": "https://telos.ftp.sh/ipas/Summarify: AI For YouTube-v3.14.0-riftysipas.ipa",
+          "size": 23301187
         }
       ],
       "category": "productivity"
@@ -70311,14 +70311,14 @@
       "bundleIdentifier": "com.impalastudios.pianofree",
       "developerName": "Impala Studios",
       "subtitle": "Tweaked with ThePiano, blatantsPatch",
-      "version": "2.20.4",
-      "versionDate": "2026-07-13",
+      "version": "2.20.5",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: ThePiano, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Piano ٞ v2.20.4 Subscription Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Piano ٞ v2.20.5 Subscription Unlocked blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ThePiano, blatantsPatch\n\nPiano ٞ\n\n---\nJoin over 14 million music lovers discovering piano. Learn the fun and easy way, no lessons needed.\nPlay songs, practice piano, and create music in one intuitive app.\n\nChoose how you play: follow the rhythm in interactive gameplay to build timing and confidence, or switch to a realistic keyboard to explore chords, melodies, and your own musical ideas.\n\nWith Piano, you can jump right in. Play to the rhythm, explore notes and chords, and create music at your own pace.\n\nDesigned for iOS (iPhone & i",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/ca/7b/b6ca7b4d-e05b-bc08-c93c-731df0b19819/pian_appIcon_2025-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 93559801,
+      "size": 93607548,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -70338,11 +70338,11 @@
       },
       "versions": [
         {
-          "version": "2.20.4",
-          "date": "2026-07-13",
+          "version": "2.20.5",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: ThePiano, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Piano ٞ v2.20.4 Subscription Unlocked blatant Patched.ipa",
-          "size": 93559801
+          "downloadURL": "https://telos.ftp.sh/ipas/Piano ٞ v2.20.5 Subscription Unlocked blatant Patched.ipa",
+          "size": 93607548
         }
       ],
       "category": "music"
@@ -76909,14 +76909,14 @@
       "bundleIdentifier": "com.resonantcavity.Voloco",
       "developerName": "Resonant Cavity, Inc",
       "subtitle": "Tweaked with CydiaSubstrate, chocorc",
-      "version": "9.16.4",
-      "versionDate": "2026-07-12",
+      "version": "9.16.5",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.5-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nVoloco: Vocal Recording Studio\n\n---\nVoloco is a mobile recording studio and audio editor that helps you sound your best.\n\n70+ MILLION DOWNLOADS\nSingers, rappers, musicians, and content creators have downloaded Voloco 70+ million times because we elevate your sound and let you record like a professional with intuitive tools. Make music and content with Voloco––the top-rated singing and recording app. Record better tracks, demos, voice-overs, and video performances with this audio editor and voice recorder today.\n\nSTUDIO SOUND WITHO",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/ef/86/c6ef86bf-a4ce-72cd-aaa3-783145fc90c3/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/64/c7/0664c77e-22c4-134a-9755-381df2eb5617/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 117487020,
+      "size": 117487051,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -76937,11 +76937,11 @@
       },
       "versions": [
         {
-          "version": "9.16.4",
-          "date": "2026-07-12",
+          "version": "9.16.5",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.4-riftysipas.ipa",
-          "size": 117487020
+          "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.5-riftysipas.ipa",
+          "size": 117487051
         }
       ],
       "category": "music"
