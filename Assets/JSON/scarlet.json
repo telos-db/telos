@@ -28303,12 +28303,12 @@
       "bundleIdentifier": "com.neo.NeoMan",
       "developerName": "Space-Time Transformation Technology Co., Ltd.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NeoServer, blatantsPatch\n\nNeoServer: SSH Client | Terminal\n\n---\nNeoServer is a powerful SSH terminal and server management app for developers, sysadmins, and self-hosting users.\n\nConnect to Linux servers, VPS machines, cloud hosts, NAS devices, Raspberry Pi boards, and AI compute nodes. Use a fast mobile terminal, manage Docker and Podman containers, browse files with SFTP, monitor server metrics, run shell scripts, keep tmux and zellij sessions alive, and handle common remote server tasks from your iPhone or iPad.\n\n◉ Terminal and Remote Access\n\n• SSH connec",
-      "version": "8.3.2",
-      "versionDate": "2026-07-07T21:21:53-00:00",
-      "versionDescription": "Build 1139 from @blatants",
-      "size": 28605116,
+      "version": "8.3.3",
+      "versionDate": "2026-07-14T01:25:51-00:00",
+      "versionDescription": "Build 1154 from @blatants",
+      "size": 32913866,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/66/7b/e2667b80-6b24-dc78-49e8-819988cc4e75/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_3_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/NeoServer_SSH_Client_Terminal_v8_3_3_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "16.4",
       "supportedPlatforms": [
         "iOS"
@@ -28321,7 +28321,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "NeoServer_SSH_Client_Terminal_v8_3_2_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "NeoServer_SSH_Client_Terminal_v8_3_3_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -50183,12 +50183,12 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DontEatMyContent, NoYTPremium, YTABConfig, YTLite\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
-      "version": "21.26.4",
-      "versionDate": "2026-07-04T08:24:10-00:00",
-      "versionDescription": "Build 21.26.4 from @thescholarslounge",
-      "size": 142434296,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]YT_21.26.4_YP.ipa",
+      "version": "21.28.3",
+      "versionDate": "2026-07-14T01:24:44-00:00",
+      "versionDescription": "Build 21.28.3 from @thescholarslounge",
+      "size": 142510187,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/27/c3/d927c357-3219-36a7-9821-316c15cc6b40/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]YT_21.28.3_YP.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -50201,7 +50201,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "[TG@i_osd]YT_21.26.4_YP.ipa"
+        "originalFile": "[TG@i_osd]YT_21.28.3_YP.ipa"
       }
     },
     {
