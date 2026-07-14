@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.polywise.weekly",
     "com.gymbros.app",
     "com.maartenrietdijk.raceday",
     "com.zuzu.peekapic",
-    "com.fifteenjugglers.solarwatch",
-    "com.rockwellventures.mesmerize"
+    "com.fifteenjugglers.solarwatch"
   ],
   "apps": [
     {
@@ -32016,14 +32016,14 @@
       "bundleIdentifier": "com.polywise.weekly",
       "developerName": "Polywise, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "5.2.9",
-      "versionDate": "2026-07-10",
+      "version": "5.2.10",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Imprint: Learn Visually-v5.2.9-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Imprint: Learn Visually-v5.2.10-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nImprint: Learn Visually\n\n---\nImprint is your visual guide to the world's most important knowledge.\n\n- Master essential topics in psychology, philosophy, history, finance, leadership, business, health, science, technology and more.\n\n- Understand complex concepts quickly, with elegant visuals that clarify key ideas and help you stay focused.\n\n- Take challenging daily quizzes that help you retain what you've learned.\n\n- Save and review the insights and visuals that matter most to you.\n\n- Complete a chapter in two minutes or le",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/e4/8e/36e48e39-b0d6-f877-b886-bc6e941a8fff/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 131865612,
+      "size": 133174928,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/c1/ad/8cc1ad46-9c72-5ecf-3d52-6b8e360bfb52/Microlearning_diagonal_414x736_16.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/6b/07/3d6b073d-701c-a383-d079-50f14ccbc008/Split_Device_Small_3.png/392x696bb.png",
@@ -32047,11 +32047,11 @@
       },
       "versions": [
         {
-          "version": "5.2.9",
-          "date": "2026-07-10",
+          "version": "5.2.10",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Imprint: Learn Visually-v5.2.9-riftysipas.ipa",
-          "size": 131865612
+          "downloadURL": "https://telos.ftp.sh/ipas/Imprint: Learn Visually-v5.2.10-riftysipas.ipa",
+          "size": 133174928
         }
       ],
       "category": "education"
