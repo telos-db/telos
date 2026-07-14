@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.deeddacabeba.pakeplus.ios",
     "com.claushuang.FocusTomato",
     "com.ahmetserdarkaradeniz.Phocus",
     "com.gingerlabs.Notability",
-    "au.com.michaeltigas.MiniOS",
-    "com.soundscape.music"
+    "au.com.michaeltigas.MiniOS"
   ],
   "apps": [
     {
@@ -43384,6 +43384,39 @@
       "category": "entertainment"
     },
     {
+      "name": "MovieFeens - App",
+      "bundleIdentifier": "com.deeddacabeba.pakeplus.ios",
+      "developerName": "Fandango",
+      "subtitle": "MovieFeens - App for iOS",
+      "version": "1.0",
+      "versionDate": "2026-07-14",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/moviefeens-app-1.0.0.ipa",
+      "localizedDescription": "MovieFeens - App for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/6e/40/af6e4051-135d-f06f-81dd-e2a5ab1f87e2/app_icon_fandango-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 6734346,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "需要访问相册来上传图片",
+          "NSCameraUsageDescription": "用于拍照上传头像及网页视频通话",
+          "NSMicrophoneUsageDescription": "用于网页语音、视频通话"
+        }
+      },
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-07-14",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/moviefeens-app-1.0.0.ipa",
+          "size": 6734346
+        }
+      ],
+      "category": "entertainment"
+    },
+    {
       "name": "Mozaic",
       "bundleIdentifier": "com.frenchtwins.MosaicPrediction",
       "developerName": "French Twins Illusion",
@@ -81473,7 +81506,7 @@
     {
       "title": "⚙️ Telos Update 7.14",
       "identifier": "telos-update-2026-07-14",
-      "caption": "28 Apps Updated:\n• 10 Productivity\n• 8 Photo & Video\n• 2 Games\n• 2 Developer Tools\n• 2 Weather\n• 2 Health & Fitness\n• 2 Medical",
+      "caption": "26 Apps Updated:\n• 6 Photo & Video\n• 6 Productivity\n• 4 Entertainment\n• 2 Games\n• 2 Developer Tools\n• 2 Weather\n• 2 Health & Fitness\n• 2 Medical",
       "date": "2026-07-14",
       "tintColor": "#02433b",
       "notify": true,
