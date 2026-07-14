@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "org.quiche.Browser",
+    "com.path36.SpliceFree",
     "com.neybox.Pillow",
     "com.gorilla.brass",
-    "com.moonly.Moonly",
-    "com.readdle.ReaddleDocsIPad",
-    "com.tranzmate.tranzmate1"
+    "com.moonly.Moonly"
   ],
   "apps": [
     {
@@ -55031,14 +55031,14 @@
       "bundleIdentifier": "org.quiche.Browser",
       "developerName": "Gregory de Jonckheere",
       "subtitle": "*Tweak:** Plus Unlocked | *Patched ✓**",
-      "version": "1.70.2",
-      "versionDate": "2026-07-11",
+      "version": "1.71",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autorc, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Quiche Browser-v1.70.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Quiche Browser-v1.71-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Plus Unlocked | *Patched ✓**\n\nQuiche Browser",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/6c/fb/df6cfb92-287a-0984-fe42-b0c5c73323af/AppIcon-Series6-1-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/17/b0/7b17b029-4341-ff9f-1cef-6e76f3fc6ef9/AppIcon-Series6-1-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 87844179,
+      "size": 87856665,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -55055,11 +55055,11 @@
       },
       "versions": [
         {
-          "version": "1.70.2",
-          "date": "2026-07-11",
+          "version": "1.71",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autorc, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Quiche Browser-v1.70.2-riftysipas.ipa",
-          "size": 87844179
+          "downloadURL": "https://telos.ftp.sh/ipas/Quiche Browser-v1.71-riftysipas.ipa",
+          "size": 87856665
         }
       ],
       "category": "utilities"
@@ -63761,14 +63761,14 @@
       "bundleIdentifier": "com.path36.SpliceFree",
       "developerName": "Bending Spoons Apps ApS",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.28.67",
-      "versionDate": "2026-07-07",
+      "version": "4.28.68",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: ScanHero, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Splice_Video_Editor_&_Maker_v4_28_67_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Splice_Video_Editor_&_Maker_v4_28_68_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSplice - Video Editor & Maker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/00/c3/4200c30f-48ed-8515-01ce-a597594c1b0e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 102867254,
+      "size": 102873975,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7e/c6/55/7ec65571-75e0-9235-8d78-25da5db63139/47812a97-29e7-4dde-a132-3dd884a04530_default__screenshots__iOS-5.5-in__01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/91/12/50/91125052-c348-515d-5933-b936c73a3cb0/6339ad05-07cb-4c91-a05a-e8bf6abd30ea_default__screenshots__iOS-5.5-in__02.jpg/392x696bb.jpg",
@@ -63793,11 +63793,11 @@
       },
       "versions": [
         {
-          "version": "4.28.67",
-          "date": "2026-07-07",
+          "version": "4.28.68",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: ScanHero, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Splice_Video_Editor_&_Maker_v4_28_67_Subscription_Unlocked_blatant.ipa",
-          "size": 102867254
+          "downloadURL": "https://telos.ftp.sh/ipas/Splice_Video_Editor_&_Maker_v4_28_68_Subscription_Unlocked_blatant.ipa",
+          "size": 102873975
         }
       ],
       "category": "photo-&-video"
@@ -81506,7 +81506,7 @@
     {
       "title": "⚙️ Telos Update 7.14",
       "identifier": "telos-update-2026-07-14",
-      "caption": "50 Apps Updated:\n• 12 Productivity\n• 10 Health & Fitness\n• 6 Photo & Video\n• 4 Lifestyle\n• 4 Graphics & Design\n• 4 Navigation\n• 2 Games\n• 2 Developer Tools\n• 2 Weather\n• 2 Medical\n• 2 Entertainment",
+      "caption": "48 Apps Updated:\n• 10 Photo & Video\n• 10 Productivity\n• 8 Health & Fitness\n• 4 Utilities\n• 2 Games\n• 2 Developer Tools\n• 2 Weather\n• 2 Medical\n• 2 Entertainment\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Navigation",
       "date": "2026-07-14",
       "tintColor": "#02433b",
       "notify": true,
