@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.game5mobile.lineandwater",
-    "com.gingerlabs.Notability",
-    "pinterest",
-    "me.imgbase.videoday",
-    "com.wellocution.iosapp"
+    "com.ketchapp.stack",
+    "com.hiiker.hiiker",
+    "com.logicalengine.qsei",
+    "app.swiftgram.ios",
+    "com.game5mobile.lineandwater"
   ],
   "apps": [
     {
@@ -29865,14 +29865,14 @@
       "bundleIdentifier": "com.hiiker.hiiker",
       "developerName": "Waymarked Trails LTD",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "26.72",
-      "versionDate": "2026-07-09",
+      "version": "26.73",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/HiiKER: The Hiking Maps App-v26.72-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/HiiKER: The Hiking Maps App-v26.73-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nHiiKER: The Hiking Maps App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/5e/70/365e7075-51d9-a9a1-bcef-def8be736bc8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 120542028,
+      "size": 120536455,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/d1/f0/b9d1f09a-a1e3-6f9a-1e2b-04776138af7b/4fd42d7f-8457-45ed-bd48-ae7df5b7928a_6.5_U201d_1242_x_2688_-_166__U00281_U0029.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/72/88/9d7288a2-cf02-02a0-86aa-b8710447d8e9/d63f82fb-ed09-4e11-98b0-9d3a3e30fe43_5.5_U201d_1242_x_2208.jpg/392x696bb.jpg",
@@ -29901,11 +29901,11 @@
       },
       "versions": [
         {
-          "version": "26.72",
-          "date": "2026-07-09",
+          "version": "26.73",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/HiiKER: The Hiking Maps App-v26.72-riftysipas.ipa",
-          "size": 120542028
+          "downloadURL": "https://telos.ftp.sh/ipas/HiiKER: The Hiking Maps App-v26.73-riftysipas.ipa",
+          "size": 120536455
         }
       ],
       "category": "navigation"
@@ -33009,14 +33009,14 @@
       "bundleIdentifier": "com.logicalengine.qsei",
       "developerName": "Zenvoice Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "6.7.0",
-      "versionDate": "2026-07-07",
+      "version": "6.8.0",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyinvoicesimple, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Invoice Simple: Invoice Maker-v6.7.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Invoice Simple: Invoice Maker-v6.8.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nInvoice Simple: Invoice Maker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/20/7a/3f207aa3-1cbe-46ad-213b-d9e3293f9b32/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 93927303,
+      "size": 96324394,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -33040,11 +33040,11 @@
       },
       "versions": [
         {
-          "version": "6.7.0",
-          "date": "2026-07-07",
+          "version": "6.8.0",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyinvoicesimple, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Invoice Simple: Invoice Maker-v6.7.0-riftysipas.ipa",
-          "size": 93927303
+          "downloadURL": "https://telos.ftp.sh/ipas/Invoice Simple: Invoice Maker-v6.8.0-riftysipas.ipa",
+          "size": 96324394
         }
       ],
       "category": "business"
@@ -64388,14 +64388,14 @@
       "bundleIdentifier": "com.ketchapp.stack",
       "developerName": "Ketchapp",
       "subtitle": "*Tweak:** No Ads | *Patched ✓**",
-      "version": "4.0",
+      "version": "4.0.1",
       "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Stack-v4.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stack-v4.0.1-riftysipas.ipa",
       "localizedDescription": "*Tweak:** No Ads | *Patched ✓**\n\nStack",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/8a/ab/338aab63-76d7-fcb2-e2d5-a615954ed96b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 83439970,
+      "size": 83420665,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/44/54/b0445444-53d0-1b2e-28d4-af18e2aa0351/mzl.jmnpdvov.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/e0/6e/f8e06e26-5ae7-68f5-e249-41be929866b9/mzl.lyhjsrys.png/392x696bb.png",
@@ -64406,11 +64406,11 @@
       "appPermissions": {
         "entitlements": [
           "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.game-center",
-          "aps-environment"
+          "com.apple.developer.game-center"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Some Ads may use this.",
+          "NSLocationWhenInUseUsageDescription": "Your location is used to show you more relevant ad content.",
           "NSCalendarsUsageDescription": "Some Ads may use this.",
           "NSUserTrackingUsageDescription": "Your data will be used to deliver you personalized and relevant ads",
           "NSPhotoLibraryAddUsageDescription": "Some Ads may use this."
@@ -64418,11 +64418,11 @@
       },
       "versions": [
         {
-          "version": "4.0",
+          "version": "4.0.1",
           "date": "2026-07-15",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Stack-v4.0-riftysipas.ipa",
-          "size": 83439970
+          "downloadURL": "https://telos.ftp.sh/ipas/Stack-v4.0.1-riftysipas.ipa",
+          "size": 83420665
         }
       ],
       "category": "games"
@@ -67809,19 +67809,19 @@
       "developerName": "Akentech Ltd",
       "subtitle": "Patched | Tweaked",
       "version": "12.8",
-      "versionDate": "2026-06-18",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: SwiftgramEntitlementsFix, TGExtra, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Swiftgram_Telegram_mod_client_v12_8_TGExtra_v1_7_5_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Swiftgram_Telegram_mod_client_v12_8_TGExtra_v1_7_7_blatant_Patched.ipa",
       "localizedDescription": "Patched | Tweaked\n\nSwiftgram: Telegram mod client",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/90/cb/a390cb78-e707-4e48-7b35-071cf75a3f97/Swiftgram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/c1/c2/b9c1c21b-e8cc-8919-5093-951c5511cb27/Swiftgram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 83179791,
+      "size": 83410742,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/99/fc/be99fc56-675f-d3be-836b-25e22595270b/33a91d32-a749-467d-abc5-309c1d008023_1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/d5/a6/87d5a6de-7521-895d-8e24-9d57fcf0ed87/1ec71ec7-3132-4188-b61e-5e4be9e79d15_2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/ba/0b/deba0b19-dceb-bbbe-4c4a-d7e34483405f/f6e02763-35db-4f45-b447-ddfbacba9e88_5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/2e/96/282e9660-e71e-d00e-36e3-729b1cdc3fbd/2d0e5ff1-9351-48f6-9d2a-b26954f9125c_4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/af/91/5eaf916a-8bcf-4fa4-56b4-d81ccbf09653/22205c94-1c69-4e32-b193-3b28cb0690cf_6.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/29/43/3d294332-0874-cf39-101e-5afbb4df2902/33a91d32-a749-467d-abc5-309c1d008023_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/5b/5a/b15b5a56-af4f-ffe2-8a41-d82bf60eddb9/1ec71ec7-3132-4188-b61e-5e4be9e79d15_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/79/8e/3f798e45-b325-e442-ecaf-835d20ba9029/f6e02763-35db-4f45-b447-ddfbacba9e88_5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/c6/13/95c61354-a231-b4e7-48c3-5ad44ad1d129/2d0e5ff1-9351-48f6-9d2a-b26954f9125c_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/ed/e1/3fede131-94e0-2b6f-0fc1-83db6e80362f/22205c94-1c69-4e32-b193-3b28cb0690cf_6.png/392x696bb.png"
       ],
       "appPermissions": {
         "entitlements": [
@@ -67853,8 +67853,8 @@
           "version": "12.8",
           "date": "2026-06-18",
           "localizedDescription": "Tweaks: SwiftgramEntitlementsFix, TGExtra, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Swiftgram_Telegram_mod_client_v12_8_TGExtra_v1_7_5_blatant_Patched.ipa",
-          "size": 83179791
+          "downloadURL": "https://telos.ftp.sh/ipas/Swiftgram_Telegram_mod_client_v12_8_TGExtra_v1_7_7_blatant_Patched.ipa",
+          "size": 83410742
         }
       ],
       "category": "social-networking"
@@ -81572,7 +81572,7 @@
     {
       "title": "⚙️ Telos Update 7.15",
       "identifier": "telos-update-2026-07-15",
-      "caption": "88 Apps Updated:\n• 16 Health & Fitness\n• 14 Photo & Video\n• 10 Education\n• 8 Productivity\n• 8 Lifestyle\n• 8 Games\n• 6 Reference\n• 4 Entertainment\n• 4 Sports\n• 4 Finance\n• 2 Graphics & Design\n• 2 Weather\n• 2 News",
+      "caption": "102 Apps Updated:\n• 16 Health & Fitness\n• 14 Photo & Video\n• 10 Education\n• 10 Games\n• 8 Productivity\n• 8 Lifestyle\n• 6 Reference\n• 4 Entertainment\n• 4 Sports\n• 4 Finance\n• 4 Business\n• 4 Navigation\n• 4 Social Networking\n• 2 Graphics & Design\n• 2 Weather\n• 2 News",
       "date": "2026-07-15",
       "tintColor": "#02433b",
       "notify": true,
