@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.glucobit.cravingBuster.CravingBuster",
+    "com.genau.JournalCircle",
+    "nt.nb.ios",
     "com.ketchapp.stack",
-    "com.hiiker.hiiker",
-    "com.logicalengine.qsei",
-    "app.swiftgram.ios",
-    "com.game5mobile.lineandwater"
+    "com.hiiker.hiiker"
   ],
   "apps": [
     {
@@ -34542,14 +34542,14 @@
       "bundleIdentifier": "com.genau.JournalCircle",
       "developerName": "Genau Factory",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.4.6",
-      "versionDate": "2026-07-07",
+      "version": "3.4.7",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.6-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.7-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nJournalCircle: Diary & Tracker\n\n---\nDiscover JournalCircle, a journaling app featured on the App Store across multiple regions. JournalCircle combines AI-powered journaling, voice notes, mood tracking, and entry analysis to help you record your daily life with clarity. Users often mention that the clean, beautiful design makes them want to journal more consistently.\n\nJournalCircle is a journaling and life log app designed to manage your diary, mood, routines, goals, and daily records in one place.\n\nAI-powered journaling tools\nJour",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/e6/7a/f6e67a82-2c01-5285-67e1-64a7a14cd9c4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13556474,
+      "size": 13554429,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/4a/a9/e84aa9cc-2c5b-1709-f532-d5ee2be4a59f/6f8a71a6-a4e7-4824-b871-faad39c83dea_JC-ipad-1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/c1/92/9bc19287-5539-8310-51da-1b370a854e82/f6757f74-d22d-4973-b8e5-edb64fa626dc_JC-ipad-2.png/576x768bb.png",
@@ -34576,11 +34576,11 @@
       },
       "versions": [
         {
-          "version": "3.4.6",
-          "date": "2026-07-07",
+          "version": "3.4.7",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.6-riftysipas.ipa",
-          "size": 13556474
+          "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.7-riftysipas.ipa",
+          "size": 13554429
         }
       ],
       "category": "lifestyle"
@@ -45044,18 +45044,18 @@
       "category": "news"
     },
     {
-      "name": "NB v66.293",
+      "name": "NB v68.279",
       "bundleIdentifier": "nt.nb.ios",
       "developerName": "Xiseous",
       "subtitle": "Tweaked with Frida",
-      "version": "66.293",
-      "versionDate": "2026-03-29",
+      "version": "68.279",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: Frida\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Null.s.Brawl.66.293.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Null's Brawl 68.279.ipa",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Frida\n\nNull's Brawl",
       "iconURL": "https://raw.githubusercontent.com/Xiseous/Telos/main/Icons/nt.nb.ios.png",
       "tintColor": "#00BFA6",
-      "size": 1038944288,
+      "size": 1124995576,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -45068,11 +45068,11 @@
       },
       "versions": [
         {
-          "version": "66.293",
-          "date": "2026-03-29",
+          "version": "68.279",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: Frida\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Null.s.Brawl.66.293.ipa",
-          "size": 1038944288
+          "downloadURL": "https://telos.ftp.sh/ipas/Null's Brawl 68.279.ipa",
+          "size": 1124995576
         }
       ]
     },
@@ -56851,14 +56851,14 @@
       "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
       "developerName": "Glucobit Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.9.76",
-      "versionDate": "2026-07-10",
+      "version": "3.9.77",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.76-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.77-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nReframe: Drink Less & Thrive\n\n---\nReframe is the #1 alcohol reduction app, built to help you drink less and live more. Whether your goal is to cut back or quit drinking entirely, Reframe’s neuroscience approach can help you change the way alcohol shows up in your life.\n\nWith a core 160-day, evidence-based, education program, progress tracking, a private community, and a multitude of tools (think meditations, games, and more!), you’ve got everything you need to change your relationship with booze at the click of a button.\n\nNeed e",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/3c/db/653cdb99-f52b-5d20-2233-b839cb06a175/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 244769503,
+      "size": 245529726,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -56886,11 +56886,11 @@
       },
       "versions": [
         {
-          "version": "3.9.76",
-          "date": "2026-07-10",
+          "version": "3.9.77",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.76-riftysipas.ipa",
-          "size": 244769503
+          "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.77-riftysipas.ipa",
+          "size": 245529726
         }
       ],
       "category": "health-&-fitness"
