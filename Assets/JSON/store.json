@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.northstar.gratitude",
+    "com.hevyapp.hevy",
     "com.thegenau.NoteCircle",
     "com.grailr.CARROTweather",
-    "com.kingsoft.office.g.wpsoffice",
-    "com.sfun.snapedit",
-    "com.mangacrush.ios"
+    "com.kingsoft.office.g.wpsoffice"
   ],
   "apps": [
     {
@@ -27747,14 +27747,14 @@
       "bundleIdentifier": "com.northstar.gratitude",
       "developerName": "Hapjoy Technologies Private Limited",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "5.7.3",
-      "versionDate": "2026-07-07",
+      "version": "5.7.4",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.7.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.7.4-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nGratitude: Self-Care Journal",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/18/2f/60182f72-6053-a663-aa51-4d6bef1cf46a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 65808588,
+      "size": 68341330,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -27777,11 +27777,11 @@
       },
       "versions": [
         {
-          "version": "5.7.3",
-          "date": "2026-07-07",
+          "version": "5.7.4",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.7.3-riftysipas.ipa",
-          "size": 65808588
+          "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.7.4-riftysipas.ipa",
+          "size": 68341330
         }
       ],
       "category": "health-&-fitness"
@@ -29635,14 +29635,14 @@
       "bundleIdentifier": "com.hevyapp.hevy",
       "developerName": "Hevy Studios S.L.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "3.1.2",
-      "versionDate": "2026-07-04",
+      "version": "3.1.3",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: Hevy, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_3_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nHevy - Workout Tracker Gym Log",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/5e/07/e55e071a-5e2f-fe3e-7867-302a87395225/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 119227774,
+      "size": 119839067,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/65/23/a565237a-1107-085e-1071-57c537ce452a/4f85acc6-9488-4d7b-bbc5-96ef1b35a303_screenshot0__U00281_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/20/11/9e2011c2-ef21-e716-c60a-5c2fe0b26297/a66b427f-5742-4ef6-9f1f-7fb2aeb5f927_screenshot1.png/392x696bb.png",
@@ -29663,7 +29663,7 @@
         "privacy": {
           "NSPhotoLibraryUsageDescription": "We need to access your photos for adding workout, body measurement, and profile photos",
           "NSCameraUsageDescription": "We need to access your camera to take a profile picture",
-          "NSLocationWhenInUseUsageDescription": "We should never ask for this",
+          "NSLocationWhenInUseUsageDescription": "Hevy uses your location to find gyms near you",
           "NSLocationAlwaysUsageDescription": "We should never ask for this",
           "NSContactsUsageDescription": "We need to access your contacts to show you users that you might know",
           "NSCalendarsUsageDescription": "We should never ask for this",
@@ -29679,11 +29679,11 @@
       },
       "versions": [
         {
-          "version": "3.1.2",
-          "date": "2026-07-04",
+          "version": "3.1.3",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: Hevy, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_2_Subscription_Unlocked_blatant.ipa",
-          "size": 119227774
+          "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_3_Subscription_Unlocked_blatant.ipa",
+          "size": 119839067
         }
       ],
       "category": "health-&-fitness"
@@ -81574,7 +81574,7 @@
     {
       "title": "⚙️ Telos Update 7.15",
       "identifier": "telos-update-2026-07-15",
-      "caption": "22 Apps Updated:\n• 8 Productivity\n• 4 Photo & Video\n• 4 Weather\n• 2 Health & Fitness\n• 2 Graphics & Design\n• 2 Entertainment",
+      "caption": "26 Apps Updated:\n• 10 Health & Fitness\n• 6 Productivity\n• 4 Photo & Video\n• 2 Graphics & Design\n• 2 Weather\n• 2 Entertainment",
       "date": "2026-07-15",
       "tintColor": "#02433b",
       "notify": true,
