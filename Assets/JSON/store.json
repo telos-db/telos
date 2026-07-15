@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.shinobiapp.shinobi",
-    "com.resonantcavity.Voloco",
-    "nz.digitaltools.Tube-GPT",
-    "com.impalastudios.pianofree",
-    "com.pixite.pigment"
+    "nz.co.petesmith.moonphasefree",
+    "com.meal.plan.ios",
+    "PhotoEditor.PhotoCollage.inCollage",
+    "com.oribot.origami",
+    "com.shinobiapp.shinobi"
   ],
   "apps": [
     {
@@ -15226,14 +15226,14 @@
       "bundleIdentifier": "com.meal.plan.ios",
       "developerName": "Crouton LLC",
       "subtitle": "*Tweak:** Plus Unlocked | *Patched ✓**",
-      "version": "2026.1.1",
-      "versionDate": "2026-07-05",
+      "version": "2026.1.2",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Crouton: Recipe Manager-v2026.1.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Crouton: Recipe Manager-v2026.1.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Plus Unlocked | *Patched ✓**\n\nCrouton: Recipe Manager",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/c0/6d/08c06ddd-b628-0065-0a62-5ff32d0e6ac0/AppIcon-0-1x_U007epad-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/ee/8e/00ee8e80-b3fe-0a3c-20d0-caed9ef8171d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 335088448,
+      "size": 333268488,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/6e/54/0c6e542a-c9ea-cd52-3624-218e4c735461/a5de2fc4-6635-460f-b7d7-97a748652005_1._Meal_Detail.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/9a/3e/c19a3e8b-4836-30cd-1a27-dff9d6dc2883/ce8e3d9b-8588-4064-a914-074e6ef825b0_2._Timers.png/392x696bb.png",
@@ -15266,11 +15266,11 @@
       },
       "versions": [
         {
-          "version": "2026.1.1",
-          "date": "2026-07-05",
+          "version": "2026.1.2",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Crouton: Recipe Manager-v2026.1.1-riftysipas.ipa",
-          "size": 335088448
+          "downloadURL": "https://telos.ftp.sh/ipas/Crouton: Recipe Manager-v2026.1.2-riftysipas.ipa",
+          "size": 333268488
         }
       ],
       "category": "food-&-drink"
@@ -31970,21 +31970,21 @@
       "name": "InCollage",
       "bundleIdentifier": "PhotoEditor.PhotoCollage.inCollage",
       "developerName": "SHANTANU PTE. LTD.",
-      "subtitle": "Pro Features Unlocked",
-      "version": "2.2.40",
-      "versionDate": "2026-06-11",
-      "versionDescription": "Tweaks: InCollage\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/InCollage Pro 2.2.40.ipa",
-      "localizedDescription": "Pro Features Unlocked\n\nPhoto Collage Maker: InCollage",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/96/5d/09965dff-6aca-33c8-d7d8-413409fc7bcc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "subtitle": "Premium Unlocked | Patched",
+      "version": "2.2.50",
+      "versionDate": "2026-07-14",
+      "versionDescription": "Tweaks: InCollage, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Photo_Collage_Maker_InCollage_v2_2_50_Premium_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nPhoto Collage Maker: InCollage",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/e6/86/02e68652-4cb1-cb06-42f9-7103056603e1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 91545037,
+      "size": 99286705,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/fe/5c/98fe5c64-eacb-6a39-8bf1-2f4a3ec03ed4/Collage_Maker-5.5.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/d7/db/fed7dbdb-435d-36c3-881f-cfbc458b0b8d/AI_Enhancer-5.5.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/9b/ec/199bec29-00c7-94c3-fb21-95a134a2c2d8/Freestyle-5.5.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/2b/b5/092bb5ae-e382-cc89-d4a7-0d164c9c6d4a/332763d6-a8d6-41e0-b240-b2181bb0b1eb_Slideshow_5.5.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/60/f4/0760f462-c200-4093-2b1a-3aeacecabef9/Remove-5.5.jpg/392x696bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/e7/4d/29e74d61-2204-4cbb-c6fb-a9e7f8f1addb/Collage_Maker-5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/b3/56/ebb35609-80ae-f074-de1e-f2ff94ca75d7/AI_Enhancer-5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/7f/25/ac7f253b-bc09-ade7-ac87-cc1a14156acc/Freestyle-5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/b5/3c/62b53cdc-7e8d-d8c1-a3e4-8348a4fd5459/332763d6-a8d6-41e0-b240-b2181bb0b1eb_Slideshow_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/c5/45/a6c54595-887d-8b25-1ab2-03e780a709a1/Remove-5.5.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
         "entitlements": [],
@@ -31997,11 +31997,11 @@
       },
       "versions": [
         {
-          "version": "2.2.40",
-          "date": "2026-04-29",
-          "localizedDescription": "Tweaks: InCollage\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/InCollage Pro 2.2.40.ipa",
-          "size": 91545037
+          "version": "2.2.50",
+          "date": "2026-07-14",
+          "localizedDescription": "Tweaks: InCollage, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Photo_Collage_Maker_InCollage_v2_2_50_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 99286705
         }
       ],
       "category": "photo-&-video"
@@ -42777,14 +42777,14 @@
       "bundleIdentifier": "nz.co.petesmith.moonphasefree",
       "developerName": "Fascinating Projects",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "8.8.0",
-      "versionDate": "2026-07-07",
+      "version": "8.8.8",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.8.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.8.8-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓** | *Bundle Id:** Nz.Co.Petesmith.Moonphasefree | *Developer:** Fascinating Projects\n\nMoon Phase Calendar Plus",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/53/e1/ee53e123-5378-c08f-e2a9-dc02b7a1f856/MoonPlus-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 25422790,
+      "size": 27243969,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -42794,11 +42794,11 @@
       },
       "versions": [
         {
-          "version": "8.8.0",
-          "date": "2026-07-07",
+          "version": "8.8.8",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.8.0-riftysipas.ipa",
-          "size": 25422790
+          "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.8.8-riftysipas.ipa",
+          "size": 27243969
         }
       ],
       "category": "weather"
@@ -47894,14 +47894,14 @@
       "bundleIdentifier": "com.oribot.origami",
       "developerName": "Andreas Bauer",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.78",
-      "versionDate": "2026-06-20",
+      "version": "4.79",
+      "versionDate": "2026-07-14",
       "versionDescription": "Tweaks: Origami, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Origami_Fold_&_Learn_v4_78_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Origami_Fold_&_Learn_v4_79_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nOrigami - Fold & Learn",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/2d/36/962d367f-dc17-08d9-1246-c6e2359701de/AppIconGlass-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/5f/c5/345fc515-37a3-aad3-0260-e7a1abc461e9/AppIconGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 199774100,
+      "size": 200337859,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -47909,11 +47909,11 @@
       },
       "versions": [
         {
-          "version": "4.78",
-          "date": "2026-06-20",
+          "version": "4.79",
+          "date": "2026-07-14",
           "localizedDescription": "Tweaks: Origami, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Origami_Fold_&_Learn_v4_78_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 199774100
+          "downloadURL": "https://telos.ftp.sh/ipas/Origami_Fold_&_Learn_v4_79_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 200337859
         }
       ],
       "category": "education"
@@ -81572,7 +81572,7 @@
     {
       "title": "⚙️ Telos Update 7.14",
       "identifier": "telos-update-2026-07-14",
-      "caption": "98 Apps Updated:\n• 20 Health & Fitness\n• 18 Productivity\n• 14 Photo & Video\n• 12 Education\n• 8 Music\n• 6 Lifestyle\n• 4 Navigation\n• 2 Games\n• 2 Developer Tools\n• 2 Weather\n• 2 Medical\n• 2 Entertainment\n• 2 Sports\n• 2 Graphics & Design\n• 2 Utilities",
+      "caption": "106 Apps Updated:\n• 20 Health & Fitness\n• 18 Photo & Video\n• 16 Productivity\n• 14 Education\n• 6 Weather\n• 6 Lifestyle\n• 4 Navigation\n• 4 Music\n• 4 Food & Drink\n• 2 Games\n• 2 Developer Tools\n• 2 Medical\n• 2 Entertainment\n• 2 Sports\n• 2 Graphics & Design\n• 2 Utilities",
       "date": "2026-07-14",
       "tintColor": "#02433b",
       "notify": true,
