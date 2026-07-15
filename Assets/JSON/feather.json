@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.digitas.solidstarts",
+    "com.elevateapp.elevate",
     "com.master.hotelmaster",
     "com.ketchapp.stack",
-    "com.endel.endel",
-    "com.nixwang.decision",
-    "com.reddit.Reddit"
+    "com.endel.endel"
   ],
   "apps": [
     {
@@ -19802,14 +19802,14 @@
       "bundleIdentifier": "com.elevateapp.elevate",
       "developerName": "The Mind Company",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "5.248.1",
-      "versionDate": "2026-07-14",
+      "version": "5.248.2",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.248.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.248.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nElevate - Brain Training Games\n\n---\nElevate is a brain training program designed to improve your mind’s focus, memory, speaking abilities, processing speed, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.\n\nThe more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. 90%+ report improved vocabulary, math skills, and overall mental sharpness when they frequen",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/46/bb/b346bb91-1ac0-0404-b1b9-29b7cadd6388/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 403180737,
+      "size": 403192704,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -19830,11 +19830,11 @@
       },
       "versions": [
         {
-          "version": "5.248.1",
-          "date": "2026-07-14",
+          "version": "5.248.2",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.248.1-riftysipas.ipa",
-          "size": 403180737
+          "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.248.2-riftysipas.ipa",
+          "size": 403192704
         }
       ],
       "category": "education"
@@ -63058,14 +63058,14 @@
       "bundleIdentifier": "com.digitas.solidstarts",
       "developerName": "SolidStarts LLC",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "5.5.0",
-      "versionDate": "2026-07-06",
+      "version": "5.6.0",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Solid Starts: Baby First Foods-v5.5.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Solid Starts: Baby First Foods-v5.6.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSolid Starts: Baby First Foods\n\n---\nApp of the Day – Apple\nBest Apps for Parents – Apple\nTrusted by 6M+ around the world\n\nSolid Starts provides you everything you need to know about introducing solid foods to babies with baby led weaning, BLW, or transitioning from spoon feeding or purées to finger foods. Built by a team of board-certified pediatricians, infant feeding therapists, swallowing specialists, allergist and dietitian to guide your child’s food journey. This is your trusted tool to feel confident when starting solids and",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/3e/40/b33e4000-1f4b-27b4-a2db-b7d5b5e7b22b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 81888127,
+      "size": 81897460,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -63081,11 +63081,11 @@
       },
       "versions": [
         {
-          "version": "5.5.0",
-          "date": "2026-07-06",
+          "version": "5.6.0",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Solid Starts: Baby First Foods-v5.5.0-riftysipas.ipa",
-          "size": 81888127
+          "downloadURL": "https://telos.ftp.sh/ipas/Solid Starts: Baby First Foods-v5.6.0-riftysipas.ipa",
+          "size": 81897460
         }
       ],
       "category": "education"
