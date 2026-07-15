@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.o-p-e-n.open",
-    "com.bowery-digital.bend",
-    "com.tickettothemoon.video.persona",
-    "com.jakemor.firness-ai",
-    "com.lake.coloring"
+    "com.ketchapp.stack",
+    "com.endel.endel",
+    "com.nixwang.decision",
+    "com.reddit.Reddit",
+    "com.o-p-e-n.open"
   ],
   "apps": [
     {
@@ -20117,14 +20117,14 @@
       "bundleIdentifier": "com.endel.endel",
       "developerName": "Endel",
       "subtitle": "Tweaked with Endel, blatantsPatch",
-      "version": "4.49.109",
-      "versionDate": "2026-06-06",
+      "version": "4.49.187",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: Endel, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Endel_Focus_&_Sleep_Sounds_v4_8_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Endel_Focus_&_Sleep_Sounds_v4_8_4_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Endel, blatantsPatch\n\nEndel: Focus & Sleep Sounds\n\n---\nFocus, relax, and sleep through the power of sound. Endel creates AI-powered sounds designed to support your everyday life. Backed by science, and enjoyed by millions worldwide.\n\nEndel is powered by its patented core AI technology. It takes inputs like location, environment, and heart rate, to create the optimal personalized soundscape. This happens on the fly and allows Endel to reconnect your state with your circadian rhythm.\n\nGet access to the following classic soundscapes at home, work, or o",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/69/ac/6b69ac26-1c72-fbf9-ea14-f880ece27892/AppIcon-Original-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/f4/78/e6f478ba-8586-c552-1ea7-d0de379803d2/AppIcon-Original-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 218212274,
+      "size": 165881482,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/74/63/db746385-f34c-f117-2ed5-7637c8a7203e/EN-Store-Screenshot-852_Hz-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/4b/07/bf4b07f9-221e-4e3d-4da4-cc7287d54a68/EN-Store-Screenshot-852_Hz-02.jpg/392x696bb.jpg",
@@ -20156,11 +20156,11 @@
       },
       "versions": [
         {
-          "version": "4.49.109",
-          "date": "2026-06-06",
+          "version": "4.49.187",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: Endel, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Endel_Focus_&_Sleep_Sounds_v4_8_0_Subscription_Unlocked_blatant.ipa",
-          "size": 218212274
+          "downloadURL": "https://telos.ftp.sh/ipas/Endel_Focus_&_Sleep_Sounds_v4_8_4_Subscription_Unlocked_blatant.ipa",
+          "size": 165881482
         }
       ],
       "category": "health-&-fitness"
@@ -56554,21 +56554,21 @@
       "name": "Reddit",
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "REDDIT, INC.",
-      "subtitle": "Tweaked with CydiaSubstrate, RedditFilter",
-      "version": "2026.27.1",
-      "versionDate": "2026-07-10",
-      "versionDescription": "Tweaks: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.27.1_Jacks_Apps.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nRedditDeluxe 2026.27.1\n\n---\nWelcome to Reddit, the heart of the internet.\n\nReddit is a social network with something for everyone: trending topics, diverse discussions, engaging communities and comment threads.\n\nRedditors have authentic and interesting conversations around all sorts of curated content. You’ll find gaming communities, bloggers, meme-makers, fandoms, travel enthusiasts, support groups, AI forums, news junkies, artists, and creators of all types.\n\nReddit has over 100,000 online communities (forums where membe",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a6/0d/e6a60d60-e30f-e9b7-5499-38fc8e294a51/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "subtitle": "Reddit for iOS",
+      "version": "2026.28.0",
+      "versionDate": "2026-07-15",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.reddit.Reddit-2026.28.0-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nReddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities. It is a social platform with something for everyone: trending topics, diverse discussions, engaging communities and comment threads.\nDiscover the power of your voice in real discussions. From breaking news to deep debates, this social & news platform fuels genuine talk. Ask questions, get real answers, share tips, and be yourself. Join communities where people disc",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/41/c2/6841c2cf-68f1-70d6-a88e-f367999d0a1d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 146470699,
+      "size": 149716391,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/b1/d4/5ab1d42a-6b46-14e8-0a42-e36651ee36cb/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/29/b6/0b29b650-0ac2-1a8b-fa99-0140c0e95608/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/d0/44/0bd0440c-75b1-b48d-907f-498a3a33d9e8/aa03a0e1-d00d-42ae-ba45-f419bbc04c70_Reddit_SS_Brand_Update_Colorful_Set_5.5_3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/5e/49/f45e499f-bd5c-1f37-518b-4056deb96972/c754066e-6338-43b4-8b15-b995646437f9_Reddit_SS_Brand_Update_Colorful_Set_5.5_4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/e7/8b/f5e78b48-d5d7-d633-e0b4-a4ddad42fb4c/a73f6e8d-ba7d-4d90-b411-acab9fb721ac_Reddit_SS_Brand_Update_Colorful_Set_5.5_5.jpg/392x696bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/a8/c9/c0a8c9ba-67a2-c411-6739-c399f8fd586e/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/84/a7/ed84a7ec-7d78-c117-7e09-8ec911800018/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/92/d7/7b92d7f0-6281-71d9-0891-e5499f4ca57d/aa03a0e1-d00d-42ae-ba45-f419bbc04c70_Reddit_SS_Brand_Update_Colorful_Set_5.5_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/48/b4/3548b4e1-e380-b504-b809-96511057c828/c754066e-6338-43b4-8b15-b995646437f9_Reddit_SS_Brand_Update_Colorful_Set_5.5_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/75/6c/68756c4a-c9d5-27c0-0d8f-9a178b0035e2/a73f6e8d-ba7d-4d90-b411-acab9fb721ac_Reddit_SS_Brand_Update_Colorful_Set_5.5_5.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
         "entitlements": [
@@ -56591,11 +56591,11 @@
       },
       "versions": [
         {
-          "version": "2026.27.1",
-          "date": "2026-07-10",
-          "localizedDescription": "Tweaks: CydiaSubstrate, RedditFilter, RedditSideloadFix, redditColorComments, zxPluginsInject\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/RedditDeluxes_2026.27.1_Jacks_Apps.ipa",
-          "size": 146470699
+          "version": "2026.28.0",
+          "date": "2026-07-15",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.reddit.Reddit-2026.28.0-eeveedecrypter.ipa",
+          "size": 149716391
         }
       ],
       "category": "news"
@@ -64990,20 +64990,20 @@
       "bundleIdentifier": "com.ketchapp.stack",
       "developerName": "Ketchapp",
       "subtitle": "Tweaked with NetworkBlocker(adblocker), fixipa1",
-      "version": "3.70",
-      "versionDate": "2026-06-12",
+      "version": "4.0",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Stack-v3.70-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stack-v4.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nStack\n\n---\nStack up the blocks as high as you can!\n\n◉ Simple & Beautiful graphics designed\n◉ Compete for the best score in the world",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/fd/e2/2ffde2b1-6b9d-ef2f-2cc5-3b6eb4a7889d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/8a/ab/338aab63-76d7-fcb2-e2d5-a615954ed96b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 83025824,
+      "size": 83439970,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/15/c9/dd/15c9dde6-131e-59f9-27ab-6cdd96cd7a0c/mzl.jmnpdvov.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/3c/83/09/3c83090f-22fb-783d-cf16-44a98da4cbcc/mzl.lyhjsrys.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/1c/34/5b/1c345b59-f47c-0c38-0c3e-466811263e7d/mzl.arhofwad.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/43/70/70/437070b7-700f-b7ee-752b-89e62f5f43a3/mzl.kdslvqhy.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/90/a5/af/90a5af9c-bb5c-43a6-677b-56e158d0ade7/mzl.vyfmffra.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/44/54/b0445444-53d0-1b2e-28d4-af18e2aa0351/mzl.jmnpdvov.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/e0/6e/f8e06e26-5ae7-68f5-e249-41be929866b9/mzl.lyhjsrys.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/a3/60/07a36040-ba55-881b-b494-4ca2ad2d31f9/mzl.arhofwad.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/ab/47/e8ab4722-6a2e-0901-d3ea-ce4f2e65f8b8/mzl.kdslvqhy.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/a7/87/f6a78756-7650-b51f-14e8-059b635cbd61/mzl.vyfmffra.png/392x696bb.png"
       ],
       "appPermissions": {
         "entitlements": [
@@ -65013,7 +65013,6 @@
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Some Ads may use this.",
-          "NSLocationWhenInUseUsageDescription": "Your location is used to show you more relevant ad content.",
           "NSCalendarsUsageDescription": "Some Ads may use this.",
           "NSUserTrackingUsageDescription": "Your data will be used to deliver you personalized and relevant ads",
           "NSPhotoLibraryAddUsageDescription": "Some Ads may use this."
@@ -65021,11 +65020,11 @@
       },
       "versions": [
         {
-          "version": "3.70",
-          "date": "2026-06-12",
+          "version": "4.0",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Stack-v3.70-riftysipas.ipa",
-          "size": 83025824
+          "downloadURL": "https://telos.ftp.sh/ipas/Stack-v4.0-riftysipas.ipa",
+          "size": 83439970
         }
       ],
       "category": "games"
@@ -71870,14 +71869,14 @@
       "bundleIdentifier": "com.nixwang.decision",
       "developerName": "Hangzhou Tangsuan Network Technology Co., Ltd.",
       "subtitle": "Tweaked with TinyDecisions, blatantsPatch",
-      "version": "26.6",
-      "versionDate": "2026-06-21",
+      "version": "26.6.1",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: TinyDecisions, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Tiny_Decisions_Spin_Wheel_v26_6_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: TinyDecisions, blatantsPatch\n\nTiny Decisions: Spin Wheel\n\n---\nTiny Decisions: Happy deciding!\n\nMake decisions effortlessly with Tiny Decisions! Turn tough choices into a fun experience—input your question, add options, and spin the wheel for a random answer. Whether it’s picking dinner or planning your weekend, quick decisions are just a spin away!\n\nPerfect For:\n- Weekend Adventures: Where to explore next?\n- Dinner Ideas: What’s on the menu tonight?\n- Outfit Picks: What to wear today?\n- Party Games: Truth or Dare with friends?\n- Group Bills: Who pays the c",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/19/ea/5719eae3-87a1-f412-34a1-4223cc8315c7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Tiny_Decisions_Spin_Wheel_v26_6_1_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: TinyDecisions, blatantsPatch\n\nTiny Decisions: Spin Wheel\n\n---\nMake small decisions the fun way.\n\nNot sure what to eat, where to go, who starts first, or which option to choose? Add your choices to Tiny Decisions, spin the wheel, generate a random number, or flip a coin. The answer appears in seconds, turning everyday indecision into something quick and playful.\n\nGreat for:\n\n- Choosing dinner, drinks, or weekend plans\n- Picking who goes first or who pays\n- Party games, Truth or Dare, and group challenges\n- Giveaways, random draws, teams, and classroom picks",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/52/8d/d1528ddf-e958-56ed-3010-e67829fb375f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 77894143,
+      "size": 77893903,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -71894,11 +71893,11 @@
       },
       "versions": [
         {
-          "version": "26.6",
-          "date": "2026-06-21",
+          "version": "26.6.1",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: TinyDecisions, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Tiny_Decisions_Spin_Wheel_v26_6_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 77894143
+          "downloadURL": "https://telos.ftp.sh/ipas/Tiny_Decisions_Spin_Wheel_v26_6_1_Subscription_Unlocked_blatant.ipa",
+          "size": 77893903
         }
       ],
       "category": "entertainment"
