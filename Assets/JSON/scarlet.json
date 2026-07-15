@@ -24,12 +24,12 @@
       "bundleIdentifier": "tech.miidii.MDBlank",
       "developerName": "MD Studio",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MDWidgets, blatantsPatch\n\nMD Widgets: Live Wallpaper\n\n---\nCreate live wallpapers and custom widgets with MD Widgets! Design a unique home screen and lock screen experience that blends seamlessly with your wallpaper.\n\nKey Features:\n\n- Live Wallpaper\n- Control Widget\n- Transparent Widget\n- Text Widget\n- Photo Widget\n- Date & Time Widget\n- Countdown Widget\n- Weather Widget\n- Zen Widget\n- Greetings Widget\n- Music Widget\n- iBoard Widget: Your all-in-one dashboard for system info, weather, and calendar, keeping everything you need within reach\n\nAnd that's ju",
-      "version": "4.2.1",
-      "versionDate": "2026-07-03T02:00:12-00:00",
-      "versionDescription": "Build 466 from @blatants",
-      "size": 194121644,
+      "version": "4.2.2",
+      "versionDate": "2026-07-15T01:49:27-00:00",
+      "versionDescription": "Build 479 from @blatants",
+      "size": 194040428,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/a5/66/a8a56686-9edf-bd92-5e41-7f9652e23f94/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/MD_Widgets_Live_Wallpaper_v4_2_1_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MD_Widgets_Live_Wallpaper_v4_2_2_Pro_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -42,7 +42,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "MD_Widgets_Live_Wallpaper_v4_2_1_Pro_Unlocked_blatant_Patched.ipa"
+        "originalFile": "MD_Widgets_Live_Wallpaper_v4_2_2_Pro_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -24632,18 +24632,17 @@
       "bundleIdentifier": "com.mikekreeki.tasks",
       "developerName": "Michal Krejci",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyslunatask, zxPluginsInject\n\nLunatask: A Better To-Do List\n\n---\nLunatask is an all-in-one encrypted to-do list, habit tracker, journaling, life-tracking and notes app – now with relationship tracking too!\n\nSELF-ORGANIZING LISTS\n\nWe’ve got your back, take the weight off your shoulders, and ensure no task is left behind. Pick your workflow and let our unique, forgiving, battle-tested approach handle the rest.\n\n- Must/Should/Want Method\n- Eisenhower Matrix\n- Urgency-based Prioritization\n- Pomodoro Timer\n- Status Tracking\n- Goal Tracking\n- Task Estimation\n- Recu",
-      "version": "2.1.27",
-      "versionDate": "2026-06-14T18:24:02-00:00",
-      "versionDescription": "Build 236 from @riftysIPAlibrary",
-      "size": 15282889,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/8e/ae/de8eae78-609e-6118-ee8c-d797d9dcee17/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lunatask: A Better To-Do List-v2.1.27-riftysipas.ipa",
-      "minOSVersion": "18.0",
+      "version": "2.36.1",
+      "versionDate": "2026-07-15T02:02:58-00:00",
+      "versionDescription": "Build 252 from @riftysIPAlibrary",
+      "size": 23584210,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/5e/9e/205e9ec7-dcb3-2f50-cd84-54eca023583b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lunatask: A Better To-Do List-v2.36.1-riftysipas.ipa",
+      "minOSVersion": "16.4",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -24651,7 +24650,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Lunatask: A Better To-Do List-v2.1.27-riftysipas.ipa"
+        "originalFile": "Lunatask: A Better To-Do List-v2.36.1-riftysipas.ipa"
       }
     },
     {
@@ -47804,12 +47803,12 @@
       "bundleIdentifier": "com.frontrow.vlog",
       "developerName": "Ubiquiti Labs, LLC",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: VlogNow, blatantsPatch\n\nVN: Photo & Video Editor\n\n---\nVN is a free, easy-to-use video editing app with no watermark. Its intuitive interface requires no prior experience, yet offers powerful tools for both beginners and professionals to create high-quality videos.\n\nIntuitive Multi-Track Editor\n• Precise Editing: Frame-accurate timeline (0.05s) with easy zoom, trimming, and keyframe control\n• Easy Management: Swipe to delete clips, drag to reorder\n• Multi-layer Timeline: Add PIP videos, photos, stickers, and text with keyframe animation\n• Non-destru",
-      "version": "2.16.1",
-      "versionDate": "2026-07-07T01:14:10-00:00",
-      "versionDescription": "Build 4375 from @blatants",
-      "size": 456227125,
+      "version": "2.17.0",
+      "versionDate": "2026-07-15T02:01:48-00:00",
+      "versionDescription": "Build 4410 from @blatants",
+      "size": 456436129,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/ae/77/acae77db-e5fe-cc70-c331-5becd4f0380b/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_16_1_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_17_0_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -47822,7 +47821,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "VN_Photo_&_Video_Editor_v2_16_1_Subscription_Unlocked_blatant_Patched.ipa"
+        "originalFile": "VN_Photo_&_Video_Editor_v2_17_0_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
