@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.digitas.solidstarts",
+    "com.elevateapp.elevate",
     "com.master.hotelmaster",
     "com.ketchapp.stack",
-    "com.endel.endel",
-    "com.nixwang.decision",
-    "com.reddit.Reddit"
+    "com.endel.endel"
   ],
   "apps": [
     {
@@ -19656,14 +19656,14 @@
       "bundleIdentifier": "com.elevateapp.elevate",
       "developerName": "The Mind Company",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "5.248.1",
-      "versionDate": "2026-07-14",
+      "version": "5.248.2",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.248.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.248.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nElevate - Brain Training Games",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/46/bb/b346bb91-1ac0-0404-b1b9-29b7cadd6388/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 403180737,
+      "size": 403192704,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -19684,11 +19684,11 @@
       },
       "versions": [
         {
-          "version": "5.248.1",
-          "date": "2026-07-14",
+          "version": "5.248.2",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.248.1-riftysipas.ipa",
-          "size": 403180737
+          "downloadURL": "https://telos.ftp.sh/ipas/Elevate - Brain Training Games-v5.248.2-riftysipas.ipa",
+          "size": 403192704
         }
       ],
       "category": "education"
@@ -62580,14 +62580,14 @@
       "bundleIdentifier": "com.digitas.solidstarts",
       "developerName": "SolidStarts LLC",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "5.5.0",
-      "versionDate": "2026-07-06",
+      "version": "5.6.0",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Solid Starts: Baby First Foods-v5.5.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Solid Starts: Baby First Foods-v5.6.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nSolid Starts: Baby First Foods",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/3e/40/b33e4000-1f4b-27b4-a2db-b7d5b5e7b22b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 81888127,
+      "size": 81897460,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -62603,11 +62603,11 @@
       },
       "versions": [
         {
-          "version": "5.5.0",
-          "date": "2026-07-06",
+          "version": "5.6.0",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Solid Starts: Baby First Foods-v5.5.0-riftysipas.ipa",
-          "size": 81888127
+          "downloadURL": "https://telos.ftp.sh/ipas/Solid Starts: Baby First Foods-v5.6.0-riftysipas.ipa",
+          "size": 81897460
         }
       ],
       "category": "education"
@@ -81573,7 +81573,7 @@
     {
       "title": "⚙️ Telos Update 7.15",
       "identifier": "telos-update-2026-07-15",
-      "caption": "58 Apps Updated:\n• 14 Health & Fitness\n• 6 Productivity\n• 6 Photo & Video\n• 6 Reference\n• 6 Games\n• 4 Entertainment\n• 4 Lifestyle\n• 2 Graphics & Design\n• 2 Weather\n• 2 Education\n• 2 Sports\n• 2 Finance\n• 2 News",
+      "caption": "68 Apps Updated:\n• 14 Health & Fitness\n• 14 Education\n• 6 Productivity\n• 6 Photo & Video\n• 6 Reference\n• 4 Entertainment\n• 4 Lifestyle\n• 4 Games\n• 2 Graphics & Design\n• 2 Weather\n• 2 Sports\n• 2 Finance\n• 2 News",
       "date": "2026-07-15",
       "tintColor": "#02433b",
       "notify": true,
