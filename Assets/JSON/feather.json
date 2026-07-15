@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.game5mobile.lineandwater",
     "com.gingerlabs.Notability",
     "pinterest",
     "me.imgbase.videoday",
-    "com.wellocution.iosapp",
-    "com.unofficialcalculators.payplan"
+    "com.wellocution.iosapp"
   ],
   "apps": [
     {
@@ -29039,15 +29039,15 @@
       "name": "Happy Glass",
       "bundleIdentifier": "com.game5mobile.lineandwater",
       "developerName": "Lion Studios",
-      "subtitle": "Tweaked with CydiaSubstrate, SatellaJailed",
-      "version": "1.2.7",
-      "versionDate": "2026-03-10",
-      "versionDescription": "Tweaks: CydiaSubstrate, SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Happy.Glass-v1.2.7-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nFree IAP\n\n---\nThe glass is sad because it's empty. Your job is to draw a line to make the glass filled up with liquid and smile again!\n\nTry to find the best way to complete each level. You can come up with your own solution so be creative and don't be afraid to think out of the box!\nSome levels might look easy but let's see if you can actually get the 3 stars.\n\nFEATURES\n\n Dynamic mechanism. Draw lines freely to complete levels!\n Simple, smart and fun puzzles but can be challenging too\n Lots of levels with mor",
+      "subtitle": "Tweaked with SatellaJailed, Sideloadbypass1",
+      "version": "2.0.1",
+      "versionDate": "2026-07-15",
+      "versionDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/Happy Glass-v2.0.1-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nHappy Glass\n\n---\nThe glass is sad because it's empty. Your job is to draw a line to make the glass filled up with liquid and smile again!\n\nTry to find the best way to complete each level. You can come up with your own solution so be creative and don't be afraid to think out of the box!\nSome levels might look easy but let's see if you can actually get the 3 stars.\n\nFEATURES\n\n Dynamic mechanism. Draw lines freely to complete levels!\n Simple, smart and fun puzzles but can be challenging too\n Lots of levels with mor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/d3/a4/b4d3a492-0ebb-bc83-fed4-14de4d367ca6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 73577759,
+      "size": 79371787,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/24/1d/72/241d7226-da04-a064-6313-370a62b81b63/27e281bb-a9d9-4bf1-a3fa-222d02a784f9_HAP_fillglass_aso_screenshots_04_en_static_1242x2208.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/6d/ea/256deaac-c014-caab-cb6e-fa44fc65291d/6c5a0216-77fc-490c-b1e6-582cccad539f_HAP_fillglass_aso_screenshots_01_en_static_1242x2208.jpg/392x696bb.jpg",
@@ -29064,8 +29064,7 @@
           "NSPhotoLibraryUsageDescription": "App wants access to your media library.",
           "NSCameraUsageDescription": "App wants access to your camera.",
           "NSMicrophoneUsageDescription": "App wants access to your microphone.",
-          "NSLocationWhenInUseUsageDescription": "Detect user location which is shown in leaderboard.",
-          "NSLocationAlwaysUsageDescription": "Detect user location which is shown in leaderboard.",
+          "NSLocationWhenInUseUsageDescription": "App wants access to location when in use.",
           "NSContactsUsageDescription": "App wants access to Contacts (used to edit calendar events).",
           "NSCalendarsUsageDescription": "Happy Glass would like to access your calendar",
           "NSUserTrackingUsageDescription": "This uses device info for more personalized ads and content",
@@ -29074,11 +29073,11 @@
       },
       "versions": [
         {
-          "version": "1.2.7",
-          "date": "2026-03-10",
-          "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Happy.Glass-v1.2.7-riftysipas.ipa",
-          "size": 73577759
+          "version": "2.0.1",
+          "date": "2026-07-15",
+          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/Happy Glass-v2.0.1-riftysipas.ipa",
+          "size": 79371787
         }
       ],
       "category": "games"
