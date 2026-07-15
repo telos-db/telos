@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.intvl.app",
     "nz.co.petesmith.moonphasefree",
     "com.meal.plan.ios",
     "PhotoEditor.PhotoCollage.inCollage",
-    "com.oribot.origami",
-    "com.shinobiapp.shinobi"
+    "com.oribot.origami"
   ],
   "apps": [
     {
@@ -33404,14 +33404,14 @@
       "bundleIdentifier": "com.intvl.app",
       "developerName": "INTVL PTY LTD",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.0.1",
-      "versionDate": "2026-07-09",
+      "version": "4.0.2",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/INTVL-v4.0.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/INTVL-v4.0.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nINTVL\n\n---\nINTVL: The World Is the Game.\n\nINTVL turns every walk, run or bike ride into a game played on the real world globe. The idea is simple. When you run or ride in a loop, the ground inside that loop becomes your territory. The bigger, smarter and more tactical your routes, the more of the map you hold.\n\nClaim your territory\n\nEvery loop you complete claims real space. Other players are out there doing the same thing, so the map is always moving. You can take a new route to take new ground, or go bac",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/c6/92/38c69250-fab5-c707-8ff3-d2a0d79a39c7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 96636297,
+      "size": 96658765,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/e3/7f/46e37fdb-bad1-d6e1-2baf-bd92d49ed560/17b36d39-1bcc-4967-897f-678e90c27449_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/ac/32/13ac32cc-a042-25b9-6790-6865feb75048/82eba914-5957-4e21-b81c-0e0b2860fe8d_02.png/392x696bb.png",
@@ -33446,11 +33446,11 @@
       },
       "versions": [
         {
-          "version": "4.0.1",
-          "date": "2026-07-09",
+          "version": "4.0.2",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/INTVL-v4.0.1-riftysipas.ipa",
-          "size": 96636297
+          "downloadURL": "https://telos.ftp.sh/ipas/INTVL-v4.0.2-riftysipas.ipa",
+          "size": 96658765
         }
       ],
       "category": "health-&-fitness"
