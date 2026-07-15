@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.financeillustrated.TradingGame",
     "fr.adriencarvalot.Timetable",
     "com.365scores.365scroesapp",
     "com.thehungrywasp.iamsober",
-    "com.northstar.gratitude",
-    "com.hevyapp.hevy"
+    "com.northstar.gratitude"
   ],
   "apps": [
     {
@@ -71787,14 +71787,14 @@
       "bundleIdentifier": "com.financeillustrated.TradingGame",
       "developerName": "Agents 007",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "4.6.91",
-      "versionDate": "2026-03-09",
+      "version": "4.80",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Trading.Game.-.Stock.Simulator-v4.6.91-riftysipas.ipa",
-      "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nTrading Game - Stock Simulator\n\n---\n\nLearn to day trade and master the markets - all risk-free with the Trading Game Stock Simulator app.\n\nThe Leading Market Education for Active Day Trading & Investing\n\nJoin over 3 million students and discover if you can trade and manage risk like a pro - no finance degree required.\n\nHere’s what makes it a game-changer:\n\nTRADING ACADEMY\n\n• Get access to 150+ lessons on trading and investing, perfect for beginners to advanced traders:\n• Pro Tips for Risk Management: Master stop-loss and take-profi",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/44/82/b844825d-fd87-7d3d-69da-aaf369144ea4/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Trading Game - Stock Simulator-v4.80-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nTrading Game - Stock Simulator",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/c1/b0/3ec1b008-20ca-1046-6960-634d7b5dfcae/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 30478508,
+      "size": 30247013,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/80/d0/6080d062-bc83-e176-631e-29fe3e28c63a/c771aa25-b3dc-4017-a8c3-d5e2e6291a28_191.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/83/56/a4835627-327e-08d2-2c51-b77d1809bbc2/f73bfc83-da3b-4502-aeb7-da8ba82c75fd_190.jpg/392x696bb.jpg",
@@ -71816,11 +71816,11 @@
       },
       "versions": [
         {
-          "version": "4.6.91",
-          "date": "2026-03-09",
+          "version": "4.80",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Trading.Game.-.Stock.Simulator-v4.6.91-riftysipas.ipa",
-          "size": 30478508
+          "downloadURL": "https://telos.ftp.sh/ipas/Trading Game - Stock Simulator-v4.80-riftysipas.ipa",
+          "size": 30247013
         }
       ],
       "category": "finance"
@@ -81574,7 +81574,7 @@
     {
       "title": "⚙️ Telos Update 7.15",
       "identifier": "telos-update-2026-07-15",
-      "caption": "34 Apps Updated:\n• 6 Productivity\n• 6 Health & Fitness\n• 4 Photo & Video\n• 4 Education\n• 4 Lifestyle\n• 4 Sports\n• 2 Graphics & Design\n• 2 Weather\n• 2 Entertainment",
+      "caption": "32 Apps Updated:\n• 6 Productivity\n• 6 Health & Fitness\n• 4 Photo & Video\n• 4 Finance\n• 2 Graphics & Design\n• 2 Weather\n• 2 Entertainment\n• 2 Education\n• 2 Lifestyle\n• 2 Sports",
       "date": "2026-07-15",
       "tintColor": "#02433b",
       "notify": true,
