@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.digitas.solidstarts",
-    "com.elevateapp.elevate",
-    "com.master.hotelmaster",
-    "com.ketchapp.stack",
-    "com.endel.endel"
+    "com.unofficialcalculators.payplan",
+    "com.vertventures.stella",
+    "com.SofaScore.iOS",
+    "com.calm.calmapp",
+    "com.google.ios.youtube"
   ],
   "apps": [
     {
@@ -5240,14 +5240,14 @@
       "bundleIdentifier": "com.vertventures.stella",
       "developerName": "Vert Ventures",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.12.36",
-      "versionDate": "2026-07-12",
+      "version": "3.12.37",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.36-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.37-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nAstra - Life Advice\n\n---\nWork through life challenges. Talk about compatibility with friends and romantic interests. Discuss personal growth. Learn about your dreams. All of this and more is at your fingertips with Astra!\n\nIf you have any questions comments or feedback, please email us astracontact111@gmail.com\n\nTerms:\n\nAccess to Astra requires a paid subscription",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/c4/8f/78c48fc1-5326-a437-dc9a-4dd70dc0611f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 79988217,
+      "size": 79933740,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/d5/e2/6bd5e202-c048-b4cb-712b-af6417ff5b55/2fe2b2a5-46d8-4e8f-bc0b-77a923776e42_Frame_832.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/70/54/6a705462-1826-1556-7c33-714f49e9f94a/b86cb528-6044-44eb-9a6a-d61ab51ec09a_Frame_822.jpg/392x696bb.jpg",
@@ -5272,11 +5272,11 @@
       },
       "versions": [
         {
-          "version": "3.12.36",
-          "date": "2026-07-12",
+          "version": "3.12.37",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.36-riftysipas.ipa",
-          "size": 79988217
+          "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.37-riftysipas.ipa",
+          "size": 79933740
         }
       ],
       "category": "lifestyle"
@@ -7454,14 +7454,14 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.2.3",
-      "versionDate": "2026-07-12",
+      "version": "4.2.4",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.4-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nBill Tracker Pro\n\n---\nBill Tracker Pro is the #1 app for tracking bills, income, and spending. Connect your bank, create a budget, track your cash flow, and take control of your finances.\n\nNew in Bill Tracker Pro:\n\nBank Sync with Plaid – Connect your accounts to sync transactions automatically.\n\nKnow What’s Safe to Spend – See your real-time spending power after upcoming bills.\n\nNever Miss a Bill – Set reminders, view your upcoming bills at a glance, and stay organized with widgets.\n\nFind Hidden Subscriptions – Uncov",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/61/b5/8a61b500-b5a9-ea91-7776-d63a1d2d9a18/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 155285157,
+      "size": 155476950,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/df/72/1cdf72bb-1d54-7a27-d6e4-e54ef4151c21/pr_source.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/ab/2c/f4ab2cef-41bd-f2bf-2980-f7910d3d3dd8/pr_source.png/552x414bb.png",
@@ -7490,11 +7490,11 @@
       },
       "versions": [
         {
-          "version": "4.2.3",
-          "date": "2026-07-12",
+          "version": "4.2.4",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.3-riftysipas.ipa",
-          "size": 155285157
+          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.4-riftysipas.ipa",
+          "size": 155476950
         }
       ],
       "category": "finance"
@@ -10546,14 +10546,14 @@
       "bundleIdentifier": "com.calm.calmapp",
       "developerName": "Calm.com",
       "subtitle": "Tweaked with Calm, blatantsPatch",
-      "version": "6.99",
-      "versionDate": "2026-07-06",
+      "version": "6.100",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: Calm, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Calm v6.99 Lifetime Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Calm v6.100 Lifetime Unlocked blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Calm, blatantsPatch\n\nCalm\n\n---\nBest of 2018 Award Winner — Apple\n\n 2017 App of the Year — Apple\n\n Happiest App in the World — Center for Humane Technology\n\nCalm is the #1 app for Sleep, Meditation and Relaxation. Sleep better, relieve stress, lower anxiety and refocus your attention. Explore an extensive library of guided meditations, Sleep Stories, breathwork, exclusive music and stretching exercises.\n\nInvest in your mental health and choose a guided meditation session that fits within your busy schedule. Add Calm to your da",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/b9/da/dab9da4f-9e6c-c386-6273-cbad1df7a298/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 126951552,
+      "size": 127935456,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/87/9d/4e879dd8-bf44-69df-a4f5-092ef3688f76/748cb6a5-5588-4d86-af93-7add35562d37_iPhone_5.5_Inch_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/d7/a0/c4d7a09f-9670-503d-548b-dac1f19012a2/92a594c0-f5b1-4739-bffd-88930991b524_iPhone_5.5_Inch_02.png/392x696bb.png",
@@ -10583,11 +10583,11 @@
       },
       "versions": [
         {
-          "version": "6.99",
-          "date": "2026-07-06",
+          "version": "6.100",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: Calm, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Calm v6.99 Lifetime Unlocked blatant Patched.ipa",
-          "size": 126951552
+          "downloadURL": "https://telos.ftp.sh/ipas/Calm v6.100 Lifetime Unlocked blatant Patched.ipa",
+          "size": 127935456
         }
       ],
       "category": "health-&-fitness"
@@ -62926,14 +62926,14 @@
       "bundleIdentifier": "com.SofaScore.iOS",
       "developerName": "Sofascore",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "26.06.30",
-      "versionDate": "2026-07-07",
+      "version": "26.07.07",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofascore\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sofascore - Live sports scores-v26.06.30-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sofascore - Live sports scores-v26.07.07-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofascore\n\nSofascore - Live sports scores\n\n---\nFollow the Soccer World Championship 2026 in Sofascore's national team hub, built for complete coverage from kickoff to the final. Stay on top of live scores, schedules, standings, and knockout brackets while tracking your team's run through every round. Explore in-depth match stats and performance insights, and get real-time alerts so you never miss a game-changing moment across the United States 2026 host cities. From the opening match to the trophy celebration, Sofascore keeps you in the acti",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/6e/97/8c6e9770-2b4d-b1cc-834a-0911fdda3480/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 94659124,
+      "size": 95927386,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/49/0e/fd490e32-f511-7158-7212-e1edeee22b7e/18da3b96-33c2-4a9f-b596-61ab5a7d53c5_UK_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/18/5b/7b185bcf-aece-3163-99c4-db84f72fdd5a/bacde706-eaff-40db-b4f8-13bfcfe409d6_AU_2.png/392x696bb.png",
@@ -62959,11 +62959,11 @@
       },
       "versions": [
         {
-          "version": "26.06.30",
-          "date": "2026-07-07",
+          "version": "26.07.07",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofascore\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Sofascore - Live sports scores-v26.06.30-riftysipas.ipa",
-          "size": 94659124
+          "downloadURL": "https://telos.ftp.sh/ipas/Sofascore - Live sports scores-v26.07.07-riftysipas.ipa",
+          "size": 95927386
         }
       ],
       "category": "sports"
@@ -80562,15 +80562,15 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "subtitle": "Tweaked with Analytics, CydiaSubstrate",
-      "version": "21.26.4",
-      "versionDate": "2026-07-08",
-      "versionDescription": "Tweaks: Analytics, CydiaSubstrate, DontEatMyContent, Gonerino, YTABConfig\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/YouTube_5.8.8_ace_extra.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: Analytics, CydiaSubstrate, DontEatMyContent, Gonerino, YTABConfig\n\nYTKP 5.8.8 cracked by @itzzace0\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/eb/ea/32ebea9d-8f35-c18a-504e-28d6afcd3eb5/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "subtitle": "Tweaked with CydiaSubstrate, YTKPlus",
+      "version": "21.24.3",
+      "versionDate": "2026-07-15",
+      "versionDescription": "Tweaks: CydiaSubstrate, YTKPlus\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/YouTube_21.24_YTKillerPlus_5.9.4-lowiqentity.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, YTKPlus\n\nWERE BACKKKK\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/27/c3/d927c357-3219-36a7-9821-316c15cc6b40/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 136302727,
+      "size": 135758951,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -80606,11 +80606,11 @@
       },
       "versions": [
         {
-          "version": "21.26.4",
-          "date": "2026-07-08",
-          "localizedDescription": "Tweaks: Analytics, CydiaSubstrate, DontEatMyContent, Gonerino, YTABConfig\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/YouTube_5.8.8_ace_extra.ipa",
-          "size": 136302727
+          "version": "21.24.3",
+          "date": "2026-07-15",
+          "localizedDescription": "Tweaks: CydiaSubstrate, YTKPlus\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/YouTube_21.24_YTKillerPlus_5.9.4-lowiqentity.ipa",
+          "size": 135758951
         }
       ],
       "category": "photo-&-video"
@@ -80668,13 +80668,13 @@
       "developerName": "Google",
       "subtitle": "Tweaked with CydiaSubstrate, DontEatMyContent",
       "version": "21.28.3",
-      "versionDate": "2026-07-14",
-      "versionDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, NoYTPremium, YTABConfig, YTLite\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]YT_21.28.3_YP.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DontEatMyContent, NoYTPremium, YTABConfig, YTLite\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
+      "versionDate": "2026-07-15",
+      "versionDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/YouTubePlus_21.28.3_5.2.1.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nYouTube 21.28.3\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/27/c3/d927c357-3219-36a7-9821-316c15cc6b40/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 142510187,
+      "size": 131762395,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -80711,10 +80711,10 @@
       "versions": [
         {
           "version": "21.28.3",
-          "date": "2026-07-14",
-          "localizedDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, NoYTPremium, YTABConfig, YTLite\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]YT_21.28.3_YP.ipa",
-          "size": 142510187
+          "date": "2026-07-15",
+          "localizedDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, Gonerino, VolumeBoostYT, YTABConfig\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/YouTubePlus_21.28.3_5.2.1.ipa",
+          "size": 131762395
         }
       ],
       "category": "photo-&-video"
