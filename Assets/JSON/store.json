@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.unofficialcalculators.payplan",
+    "com.podfactor.pod",
+    "org.trancy.app",
     "com.glucobit.cravingBuster.CravingBuster",
-    "com.genau.JournalCircle",
-    "nt.nb.ios",
-    "com.ketchapp.stack",
-    "com.hiiker.hiiker"
+    "com.genau.JournalCircle"
   ],
   "apps": [
     {
@@ -7403,14 +7403,14 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "subtitle": "*Tweak:** Full Version Unlocked | *Patched ✓**",
-      "version": "4.2.4",
+      "version": "4.2.5",
       "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.5-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Full Version Unlocked | *Patched ✓** | *Developer:** Bill Tracker Pro, Inc.\n\nBill Tracker Pro",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/61/b5/8a61b500-b5a9-ea91-7776-d63a1d2d9a18/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 155476950,
+      "size": 155508305,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/df/72/1cdf72bb-1d54-7a27-d6e4-e54ef4151c21/pr_source.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/ab/2c/f4ab2cef-41bd-f2bf-2980-f7910d3d3dd8/pr_source.png/552x414bb.png",
@@ -7439,11 +7439,11 @@
       },
       "versions": [
         {
-          "version": "4.2.4",
+          "version": "4.2.5",
           "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.4-riftysipas.ipa",
-          "size": 155476950
+          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.5-riftysipas.ipa",
+          "size": 155508305
         }
       ],
       "category": "finance"
@@ -43862,14 +43862,14 @@
       "bundleIdentifier": "com.podfactor.pod",
       "developerName": "BUCKET LIST LABS S.L.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "2.106.4",
-      "versionDate": "2026-07-10",
+      "version": "2.106.5",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: MyCalendar, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Calendar_·_Planner_&_Reminders_v2_106_4_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Calendar_·_Planner_&_Reminders_v2_106_5_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nCalendar · Planner & Reminders",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/ec/a6/72eca614-6ba6-e039-ae43-413d1c701e91/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 27457386,
+      "size": 27457946,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -43888,11 +43888,11 @@
       },
       "versions": [
         {
-          "version": "2.106.4",
-          "date": "2026-07-10",
+          "version": "2.106.5",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: MyCalendar, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Calendar_·_Planner_&_Reminders_v2_106_4_Subscription_Unlocked_blatant.ipa",
-          "size": 27457386
+          "downloadURL": "https://telos.ftp.sh/ipas/Calendar_·_Planner_&_Reminders_v2_106_5_Subscription_Unlocked_blatant.ipa",
+          "size": 27457946
         }
       ],
       "category": "productivity"
@@ -72021,6 +72021,43 @@
       "category": "navigation"
     },
     {
+      "name": "Trancy",
+      "bundleIdentifier": "org.trancy.app",
+      "developerName": "L2D LIMITED",
+      "subtitle": "Trancy for iOS",
+      "version": "3.0.3",
+      "versionDate": "2026-07-15",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/org.trancy.app-3.0.3-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/dc/22/acdc2213-44b3-5057-e105-6907d19b2f91/TrancyIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 14229436,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/08/0c/0e080c2a-184a-5574-71cd-45531bef184a/5c1ee048-3bb0-468c-985f-223700670d0d_iphone5.5_1-2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/1e/9c/121e9cc6-35ab-f4e7-02f8-237c714a256f/bf6ecbfd-57d7-4926-a985-d921911a85d4_iphone5.5_1-3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/4c/76/ab/4c76abb8-593a-a4a0-dfa1-9617e310f82f/fd15cc6c-e365-45a0-aece-5673512bc610_iphone5.5_1-4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/b4/17/52/b41752d1-b4c6-9f99-956e-d6c0317f7aac/c5f72f98-605e-4cc7-a17c-d2337a11a299_iphone5.5_1-1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/51/f3/3351f3f6-6914-43ee-9344-a642ea1a19bd/a4fa89ec-2727-4a17-8da5-1abf7b915a51_iphone5.5_1.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Trancy requires microphone access to record your speech for evaluation and analysis purposes only."
+        }
+      },
+      "versions": [
+        {
+          "version": "3.0.3",
+          "date": "2026-05-18",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/org.trancy.app-3.0.3-eeveedecrypter.ipa",
+          "size": 14229436
+        }
+      ],
+      "category": "education"
+    },
+    {
       "name": "Translate Now",
       "bundleIdentifier": "solutions.wzp.translator",
       "developerName": "Air Apps Systems",
@@ -81572,7 +81609,7 @@
     {
       "title": "⚙️ Telos Update 7.15",
       "identifier": "telos-update-2026-07-15",
-      "caption": "106 Apps Updated:\n• 20 Health & Fitness\n• 14 Photo & Video\n• 12 Lifestyle\n• 10 Education\n• 8 Productivity\n• 8 Games\n• 6 Reference\n• 4 Entertainment\n• 4 Sports\n• 4 Finance\n• 4 Other\n• 2 Graphics & Design\n• 2 Weather\n• 2 News\n• 2 Business\n• 2 Navigation\n• 2 Social Networking",
+      "caption": "112 Apps Updated:\n• 18 Health & Fitness\n• 14 Photo & Video\n• 14 Education\n• 12 Productivity\n• 10 Lifestyle\n• 8 Finance\n• 8 Games\n• 6 Reference\n• 4 Entertainment\n• 4 Sports\n• 2 Graphics & Design\n• 2 Weather\n• 2 News\n• 2 Other\n• 2 Business\n• 2 Navigation\n• 2 Social Networking",
       "date": "2026-07-15",
       "tintColor": "#02433b",
       "notify": true,
