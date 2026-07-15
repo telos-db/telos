@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.gingerlabs.Notability",
     "pinterest",
     "me.imgbase.videoday",
     "com.wellocution.iosapp",
-    "com.unofficialcalculators.payplan",
-    "com.vertventures.stella"
+    "com.unofficialcalculators.payplan"
   ],
   "apps": [
     {
@@ -46222,14 +46222,14 @@
       "bundleIdentifier": "com.gingerlabs.Notability",
       "developerName": "Ginger Labs",
       "subtitle": "Tweaked with Notability, blatantsPatch",
-      "version": "16.6",
-      "versionDate": "2026-07-14",
+      "version": "16.6.1",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: Notability, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_6_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_6_1_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Notability, blatantsPatch\n\nNotability: AI Notes & PDF app\n\n---\nFrom your first lecture to your next big meeting, Notability helps you think, learn, and work better. Take handwritten notes, annotate documents, record audio, and stay organized in one place so your ideas are always clear, searchable, and ready when you need them.\n\nFREE DIGITAL NOTES FOR WORK & SCHOOL\n• Write, type, or sketch with digital ink, highlighters, and text tools.\n• Mark up anything: PDFs, textbooks, lecture slides, images, and more.\n• Combine handwriting, typed text, images, diagrams,",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/a3/c6/9ca3c67c-cf0a-fece-dceb-6e8e17e70ba2/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 263096663,
+      "size": 263096421,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a8/6c/eea86cda-14d4-6a30-2c2c-c3e89532d4a3/1-iPhone55-EN.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/20/f5/f820f50c-2df3-745a-f955-1a70dfb4f1ff/2-iPhone55-EN.png/392x696bb.png",
@@ -46261,11 +46261,11 @@
       },
       "versions": [
         {
-          "version": "16.6",
-          "date": "2026-07-14",
+          "version": "16.6.1",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: Notability, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_6_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 263096663
+          "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_6_1_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 263096421
         }
       ],
       "category": "productivity"
