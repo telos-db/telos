@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-07-14",
+  "versionDate": "2026-07-15",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -9729,12 +9729,12 @@
       "bundleIdentifier": "com.meal.plan.ios",
       "developerName": "Crouton LLC",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nCrouton: Recipe Manager\n\n---\nCrouton is simple feature packed recipe organizer & meal planner. The best place to store your favorite recipes from where ever you find them, websites, cookbooks or a handwritten note from your Grandma.\n\nIMPORT ANYWHERE\nCrouton supports importing recipes from almost everywhere! Pull recipes automatically out of websites and just save the bits you need. You can also scan recipes straight out of your recipe book using AI and OCR\n\nPLAN YOUR WEEK\nWith your favourite recipes on hand, Crouton makes i",
-      "version": "2026.1.1",
-      "versionDate": "2026-07-05T21:59:01-00:00",
-      "versionDescription": "Build 1822 from @riftysIPAlibrary",
-      "size": 335088448,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/c0/6d/08c06ddd-b628-0065-0a62-5ff32d0e6ac0/AppIcon-0-1x_U007epad-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Crouton: Recipe Manager-v2026.1.1-riftysipas.ipa",
+      "version": "2026.1.2",
+      "versionDate": "2026-07-14T23:57:57-00:00",
+      "versionDescription": "Build 1839 from @riftysIPAlibrary",
+      "size": 333268488,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/ee/8e/00ee8e80-b3fe-0a3c-20d0-caed9ef8171d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Crouton: Recipe Manager-v2026.1.2-riftysipas.ipa",
       "minOSVersion": "16.1",
       "supportedPlatforms": [
         "iOS"
@@ -9747,7 +9747,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Crouton: Recipe Manager-v2026.1.1-riftysipas.ipa"
+        "originalFile": "Crouton: Recipe Manager-v2026.1.2-riftysipas.ipa"
       }
     },
     {
@@ -20160,27 +20160,25 @@
       "name": "InCollage",
       "bundleIdentifier": "PhotoEditor.PhotoCollage.inCollage",
       "developerName": "SHANTANU PTE. LTD.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: InCollage\n\nPhoto Collage Maker: InCollage\n\n---\nCollage your every moment in the easiest but chicest way.\n\nRemix up to 20 photos into stunning collages, scrapbooks, and stories in a few taps. With over 10,000 layouts, powerful editing tools, and creative AI features, you can design your post for Instagram, Facebook, or any platform you love. Whether you're expressing a mood, sharing memories, or showcasing your style, InCollage gives you the freedom to create your way.\n\nYou deserve this ALL-IN-ONE Collage Maker & Photo Editor!\n\nFeatures:\n• Co",
-      "version": "2.2.40",
-      "versionDate": "2026-06-11T03:21:23-00:00",
-      "versionDescription": "Build 1 from @binnichtaktivsipas",
-      "size": 91545037,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/96/5d/09965dff-6aca-33c8-d7d8-413409fc7bcc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/InCollage Pro 2.2.40.ipa",
-      "minOSVersion": "14.0",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: InCollage, blatantsPatch\n\nPhoto Collage Maker: InCollage\n\n---\nCollage your every moment in the easiest but chicest way.\n\nRemix up to 20 photos into stunning collages, scrapbooks, and stories in a few taps. With over 10,000 layouts, powerful editing tools, and creative AI features, you can design your post for Instagram, Facebook, or any platform you love. Whether you're expressing a mood, sharing memories, or showcasing your style, InCollage gives you the freedom to create your way.\n\nYou deserve this ALL-IN-ONE Collage Maker & Photo Editor!\n\nFeatures:\n• Co",
+      "version": "2.2.50",
+      "versionDate": "2026-07-14T23:48:48-00:00",
+      "versionDescription": "Build 1 from @blatants",
+      "size": 99286705,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/e6/86/02e68652-4cb1-cb06-42f9-7103056603e1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Photo_Collage_Maker_InCollage_v2_2_50_Premium_Unlocked_blatant_Patched.ipa",
+      "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        1
       ],
       "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
+        "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "InCollage Pro 2.2.40.ipa"
+        "originalFile": "Photo_Collage_Maker_InCollage_v2_2_50_Premium_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -26974,12 +26972,12 @@
       "bundleIdentifier": "nz.co.petesmith.moonphasefree",
       "developerName": "Fascinating Projects",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMoon Phase Calendar Plus\n\n---\nLive by the moon! See the phases of the moon in clarity - for where YOU are now - not just the \"nearest city\". See a countdown to the next phase of the moon TO THE MINUTE, whether full or new, first or last quarter. See a current simulation of the moon as it appears to you - for now or any day in the past or future - on a large, simple, easy to read display. See Moon Rise and Set times - so you can plan your lunar activities. This IS the app you are looking for!\n\nIt shows:\n• The current phase of",
-      "version": "8.8.0",
-      "versionDate": "2026-07-07T01:17:54-00:00",
+      "version": "8.8.8",
+      "versionDate": "2026-07-14T23:59:12-00:00",
       "versionDescription": "Build 1 from @riftysIPAlibrary",
-      "size": 25422790,
+      "size": 27243969,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/53/e1/ee53e123-5378-c08f-e2a9-dc02b7a1f856/MoonPlus-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.8.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Moon Phase Calendar Plus-v8.8.8-riftysipas.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -26992,7 +26990,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Moon Phase Calendar Plus-v8.8.0-riftysipas.ipa"
+        "originalFile": "Moon Phase Calendar Plus-v8.8.8-riftysipas.ipa"
       }
     },
     {
@@ -30246,12 +30244,12 @@
       "bundleIdentifier": "com.oribot.origami",
       "developerName": "Andreas Bauer",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Origami, blatantsPatch\n\nOrigami - Fold & Learn\n\n---\nOrigami teaches you to craft beautiful shapes using only a sheet of paper.\n\nAll origami designs include detailed, step-by-step instructions and high-quality photos of the finished product. Each type of origami fold is shown in a precise, visual guidebook included right in the app.\n\nTOP FEATURES\n• Many shapes including boxes, flowers, stars, and more\n• High quality instructions, diagrams, and photos\n• Easy-to-use, polished user interface\n\nSTART FOLDING\n• Step-by-step instructions for each origami",
-      "version": "4.78",
-      "versionDate": "2026-06-20T07:29:50-00:00",
-      "versionDescription": "Build 45 from @blatants",
-      "size": 199774100,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/2d/36/962d367f-dc17-08d9-1246-c6e2359701de/AppIconGlass-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Origami_Fold_&_Learn_v4_78_Subscription_Unlocked_blatant_Patched.ipa",
+      "version": "4.79",
+      "versionDate": "2026-07-14T23:45:10-00:00",
+      "versionDescription": "Build 62 from @blatants",
+      "size": 200337859,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/5f/c5/345fc515-37a3-aad3-0260-e7a1abc461e9/AppIconGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Origami_Fold_&_Learn_v4_79_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -30264,7 +30262,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Origami_Fold_&_Learn_v4_78_Subscription_Unlocked_blatant_Patched.ipa"
+        "originalFile": "Origami_Fold_&_Learn_v4_79_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
