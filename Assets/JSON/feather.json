@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.northstar.gratitude",
+    "com.hevyapp.hevy",
     "com.thegenau.NoteCircle",
     "com.grailr.CARROTweather",
-    "com.kingsoft.office.g.wpsoffice",
-    "com.sfun.snapedit",
-    "com.mangacrush.ios"
+    "com.kingsoft.office.g.wpsoffice"
   ],
   "apps": [
     {
@@ -27972,14 +27972,14 @@
       "bundleIdentifier": "com.northstar.gratitude",
       "developerName": "Hapjoy Technologies Private Limited",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "5.7.3",
-      "versionDate": "2026-07-07",
+      "version": "5.7.4",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.7.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.7.4-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nGratitude: Self-Care Journal\n\n---\nThe Gratitude app is a carefully-designed self-care tool to help you focus on your mental health.\n\nWith a gratitude journal, affirmations, vision board, and daily motivation content, Gratitude provides you with all the tools and reminders you need to gain motivation and develop a healthy self-love routine in your life.\n\nTo live a happy and fulfilling life, it is important for us to have good mental health and a strong sense of self-love.\n\nAnd, as the app is completely private, you can always be",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/18/2f/60182f72-6053-a663-aa51-4d6bef1cf46a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 65808588,
+      "size": 68341330,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -28002,11 +28002,11 @@
       },
       "versions": [
         {
-          "version": "5.7.3",
-          "date": "2026-07-07",
+          "version": "5.7.4",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.7.3-riftysipas.ipa",
-          "size": 65808588
+          "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.7.4-riftysipas.ipa",
+          "size": 68341330
         }
       ],
       "category": "health-&-fitness"
@@ -29832,14 +29832,14 @@
       "bundleIdentifier": "com.hevyapp.hevy",
       "developerName": "Hevy Studios S.L.",
       "subtitle": "Tweaked with Hevy, blatantsPatch",
-      "version": "3.1.2",
-      "versionDate": "2026-07-04",
+      "version": "3.1.3",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: Hevy, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_3_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Hevy, blatantsPatch\n\nHevy - Workout Tracker Gym Log\n\n---\nFeatured by Apple Join +10 million users!\nHevy is the most intuitive workout tracker & planner in the world. No ads and free. Plan your weight lifting routines, log your workouts and track your exercise progress. Join a growing community and get started today - for free!\n\nWHAT USERS ARE SAYING\n• \"Seriously the best workout tracker I've ever used. Simple. Free. Tons of graphs. Amazing quality videos\" - Sam Ilelaboye\n• \"Seeing what my friends and other athletes are working out at the gym has total",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/5e/07/e55e071a-5e2f-fe3e-7867-302a87395225/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 119227774,
+      "size": 119839067,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/65/23/a565237a-1107-085e-1071-57c537ce452a/4f85acc6-9488-4d7b-bbc5-96ef1b35a303_screenshot0__U00281_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/20/11/9e2011c2-ef21-e716-c60a-5c2fe0b26297/a66b427f-5742-4ef6-9f1f-7fb2aeb5f927_screenshot1.png/392x696bb.png",
@@ -29860,7 +29860,7 @@
         "privacy": {
           "NSPhotoLibraryUsageDescription": "We need to access your photos for adding workout, body measurement, and profile photos",
           "NSCameraUsageDescription": "We need to access your camera to take a profile picture",
-          "NSLocationWhenInUseUsageDescription": "We should never ask for this",
+          "NSLocationWhenInUseUsageDescription": "Hevy uses your location to find gyms near you",
           "NSLocationAlwaysUsageDescription": "We should never ask for this",
           "NSContactsUsageDescription": "We need to access your contacts to show you users that you might know",
           "NSCalendarsUsageDescription": "We should never ask for this",
@@ -29876,11 +29876,11 @@
       },
       "versions": [
         {
-          "version": "3.1.2",
-          "date": "2026-07-04",
+          "version": "3.1.3",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: Hevy, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_2_Subscription_Unlocked_blatant.ipa",
-          "size": 119227774
+          "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_3_Subscription_Unlocked_blatant.ipa",
+          "size": 119839067
         }
       ],
       "category": "health-&-fitness"
