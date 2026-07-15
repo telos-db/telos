@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.kingsoft.office.g.wpsoffice",
     "com.sfun.snapedit",
     "com.mangacrush.ios",
     "com.mikekreeki.tasks",
-    "com.frontrow.vlog",
-    "tech.miidii.MDBlank"
+    "com.frontrow.vlog"
   ],
   "apps": [
     {
@@ -78666,14 +78666,14 @@
       "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
       "developerName": "KINGSOFT OFFICE SOFTWARE CORPORATION LIMITED",
       "subtitle": "Patched | Tweaked",
-      "version": "26.6.2",
-      "versionDate": "2026-06-24",
+      "version": "26.7.0",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: FilePickerFix, WPSOffice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/WPS_Office_AI_Doc,_PDF,_Sheet_v26_6_2_PRO+AI_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/WPS_Office_AI_Doc,_PDF,_Sheet_v26_7_0_PRO+AI_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Patched | Tweaked\n\nWPS Office-AI Doc, PDF, Sheet",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/c2/ba/8fc2ba5e-be7f-84ca-7402-6ba4756c598e/US_AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/b5/f4/e6b5f49b-5ab9-530e-eb31-234640de0480/US_AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 318185883,
+      "size": 320780962,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/aa/93/a3aa9344-0861-9aa0-5049-325b93c6c96b/AI_Translation.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/f9/ff/59f9ffb4-d50c-95ce-32b6-387f5e63a928/AIGC.png/392x696bb.png",
@@ -78706,11 +78706,11 @@
       },
       "versions": [
         {
-          "version": "26.6.2",
-          "date": "2026-06-24",
+          "version": "26.7.0",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: FilePickerFix, WPSOffice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/WPS_Office_AI_Doc,_PDF,_Sheet_v26_6_2_PRO+AI_Unlocked_blatant_Patched.ipa",
-          "size": 318185883
+          "downloadURL": "https://telos.ftp.sh/ipas/WPS_Office_AI_Doc,_PDF,_Sheet_v26_7_0_PRO+AI_Unlocked_blatant_Patched.ipa",
+          "size": 320780962
         }
       ],
       "category": "productivity"
@@ -81574,11 +81574,11 @@
     {
       "title": "⚙️ Telos Update 7.15",
       "identifier": "telos-update-2026-07-15",
-      "caption": "16 Apps Updated:\n• 6 Photo & Video\n• 4 Entertainment\n• 2 Health & Fitness\n• 2 Graphics & Design\n• 2 Productivity",
+      "caption": "16 Apps Updated:\n• 6 Productivity\n• 4 Photo & Video\n• 2 Health & Fitness\n• 2 Graphics & Design\n• 2 Entertainment",
       "date": "2026-07-15",
       "tintColor": "#02433b",
       "notify": true,
-      "appID": "com.frontrow.vlog"
+      "appID": "com.kingsoft.office.g.wpsoffice"
     },
     {
       "title": "⚙️ Telos Update 7.14",
