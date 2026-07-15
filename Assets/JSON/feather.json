@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.mikekreeki.tasks",
+    "com.frontrow.vlog",
+    "tech.miidii.MDBlank",
     "com.intvl.app",
-    "nz.co.petesmith.moonphasefree",
-    "com.meal.plan.ios",
-    "PhotoEditor.PhotoCollage.inCollage",
-    "com.oribot.origami"
+    "nz.co.petesmith.moonphasefree"
   ],
   "apps": [
     {
@@ -39592,33 +39592,35 @@
       "bundleIdentifier": "com.mikekreeki.tasks",
       "developerName": "Michal Krejci",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.1.27",
-      "versionDate": "2026-06-14",
+      "version": "2.36.1",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyslunatask, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lunatask: A Better To-Do List-v2.1.27-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lunatask: A Better To-Do List-v2.36.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyslunatask, zxPluginsInject\n\nLunatask: A Better To-Do List\n\n---\nLunatask is an all-in-one encrypted to-do list, habit tracker, journaling, life-tracking and notes app – now with relationship tracking too!\n\nSELF-ORGANIZING LISTS\n\nWe’ve got your back, take the weight off your shoulders, and ensure no task is left behind. Pick your workflow and let our unique, forgiving, battle-tested approach handle the rest.\n\n- Must/Should/Want Method\n- Eisenhower Matrix\n- Urgency-based Prioritization\n- Pomodoro Timer\n- Status Tracking\n- Goal Tracking\n- Task Estimation\n- Recu",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/8e/ae/de8eae78-609e-6118-ee8c-d797d9dcee17/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/5e/9e/205e9ec7-dcb3-2f50-cd84-54eca023583b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 15282889,
+      "size": 23584210,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
-          "aps-environment",
-          "com.apple.developer.associated-domains"
+          "com.apple.developer.associated-domains",
+          "aps-environment"
         ],
         "privacy": {
+          "NSMicrophoneUsageDescription": "Allow Lunatask to access your microphone",
           "NSCalendarsUsageDescription": "Allow Lunatask to access your calendars",
           "NSRemindersUsageDescription": "Allow Lunatask to access your reminders",
-          "NSFaceIDUsageDescription": "Allow Lunatask to access your Face ID biometric data."
+          "NSFaceIDUsageDescription": "Allow Lunatask to access your Face ID biometric data.",
+          "NSLocalNetworkUsageDescription": "Expo Dev Launcher uses the local network to discover and connect to development servers running on your computer."
         }
       },
       "versions": [
         {
-          "version": "2.1.27",
-          "date": "2026-06-14",
+          "version": "2.36.1",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyslunatask, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lunatask: A Better To-Do List-v2.1.27-riftysipas.ipa",
-          "size": 15282889
+          "downloadURL": "https://telos.ftp.sh/ipas/Lunatask: A Better To-Do List-v2.36.1-riftysipas.ipa",
+          "size": 23584210
         }
       ],
       "category": "productivity"
@@ -76631,14 +76633,14 @@
       "bundleIdentifier": "com.frontrow.vlog",
       "developerName": "Ubiquiti Labs, LLC",
       "subtitle": "Tweaked with VlogNow, blatantsPatch",
-      "version": "2.16.1",
-      "versionDate": "2026-07-07",
+      "version": "2.17.0",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: VlogNow, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_16_1_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_17_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: VlogNow, blatantsPatch\n\nVN: Photo & Video Editor\n\n---\nVN is a free, easy-to-use video editing app with no watermark. Its intuitive interface requires no prior experience, yet offers powerful tools for both beginners and professionals to create high-quality videos.\n\nIntuitive Multi-Track Editor\n• Precise Editing: Frame-accurate timeline (0.05s) with easy zoom, trimming, and keyframe control\n• Easy Management: Swipe to delete clips, drag to reorder\n• Multi-layer Timeline: Add PIP videos, photos, stickers, and text with keyframe animation\n• Non-destru",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/ae/77/acae77db-e5fe-cc70-c331-5becd4f0380b/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 456227125,
+      "size": 456436129,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/7b/a8/177ba862-5fce-c8b0-7ad1-a848dc96383c/en_plus_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/c1/36/f1c136c9-23de-894e-7cb2-6f2222a4a985/en_plus_04.png/392x696bb.png",
@@ -76667,11 +76669,11 @@
       },
       "versions": [
         {
-          "version": "2.16.1",
-          "date": "2026-07-07",
+          "version": "2.17.0",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: VlogNow, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_16_1_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 456227125
+          "downloadURL": "https://telos.ftp.sh/ipas/VN_Photo_&_Video_Editor_v2_17_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 456436129
         }
       ],
       "category": "photo-&-video"
