@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.glucobit.cravingBuster.CravingBuster",
+    "com.genau.JournalCircle",
+    "nt.nb.ios",
     "com.ketchapp.stack",
-    "com.hiiker.hiiker",
-    "com.logicalengine.qsei",
-    "app.swiftgram.ios",
-    "com.game5mobile.lineandwater"
+    "com.hiiker.hiiker"
   ],
   "apps": [
     {
@@ -44595,18 +44595,18 @@
       "category": "news"
     },
     {
-      "name": "NB v66.293",
+      "name": "NB v68.279",
       "bundleIdentifier": "nt.nb.ios",
       "developerName": "Xiseous",
       "subtitle": "Unlimited Gems",
-      "version": "66.293",
-      "versionDate": "2026-03-29",
+      "version": "68.279",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: Frida\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Null.s.Brawl.66.293.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Null's Brawl 68.279.ipa",
       "localizedDescription": "Unlimited Gems\n\nNull's Brawl",
       "iconURL": "https://raw.githubusercontent.com/Xiseous/Telos/main/Icons/nt.nb.ios.png",
       "tintColor": "#00BFA6",
-      "size": 1038944288,
+      "size": 1124995576,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -44619,11 +44619,11 @@
       },
       "versions": [
         {
-          "version": "66.293",
-          "date": "2026-03-29",
+          "version": "68.279",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: Frida\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Null.s.Brawl.66.293.ipa",
-          "size": 1038944288
+          "downloadURL": "https://telos.ftp.sh/ipas/Null's Brawl 68.279.ipa",
+          "size": 1124995576
         }
       ]
     },
@@ -56376,14 +56376,14 @@
       "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
       "developerName": "Glucobit Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "3.9.76",
-      "versionDate": "2026-07-10",
+      "version": "3.9.77",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.76-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.77-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nReframe: Drink Less & Thrive",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/3c/db/653cdb99-f52b-5d20-2233-b839cb06a175/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 244769503,
+      "size": 245529726,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -56411,11 +56411,11 @@
       },
       "versions": [
         {
-          "version": "3.9.76",
-          "date": "2026-07-10",
+          "version": "3.9.77",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.76-riftysipas.ipa",
-          "size": 244769503
+          "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.77-riftysipas.ipa",
+          "size": 245529726
         }
       ],
       "category": "health-&-fitness"
@@ -81572,7 +81572,7 @@
     {
       "title": "⚙️ Telos Update 7.15",
       "identifier": "telos-update-2026-07-15",
-      "caption": "94 Apps Updated:\n• 16 Health & Fitness\n• 14 Photo & Video\n• 10 Education\n• 8 Productivity\n• 8 Lifestyle\n• 8 Games\n• 6 Reference\n• 4 Entertainment\n• 4 Sports\n• 4 Finance\n• 2 Graphics & Design\n• 2 Weather\n• 2 News\n• 2 Business\n• 2 Navigation\n• 2 Social Networking",
+      "caption": "106 Apps Updated:\n• 20 Health & Fitness\n• 14 Photo & Video\n• 12 Lifestyle\n• 10 Education\n• 8 Productivity\n• 8 Games\n• 6 Reference\n• 4 Entertainment\n• 4 Sports\n• 4 Finance\n• 4 Other\n• 2 Graphics & Design\n• 2 Weather\n• 2 News\n• 2 Business\n• 2 Navigation\n• 2 Social Networking",
       "date": "2026-07-15",
       "tintColor": "#02433b",
       "notify": true,
