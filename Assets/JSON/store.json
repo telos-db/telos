@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.financeillustrated.TradingGame",
-    "fr.adriencarvalot.Timetable",
-    "com.365scores.365scroesapp",
-    "com.thehungrywasp.iamsober",
-    "com.northstar.gratitude"
+    "com.o-p-e-n.open",
+    "com.bowery-digital.bend",
+    "com.tickettothemoon.video.persona",
+    "com.jakemor.firness-ai",
+    "com.lake.coloring"
   ],
   "apps": [
     {
@@ -7044,20 +7044,20 @@
       "bundleIdentifier": "com.bowery-digital.bend",
       "developerName": "Bowery Digital",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "7.6.3",
-      "versionDate": "2026-07-02",
+      "version": "7.6.4",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Stretching & Flexibility: Bend-v7.6.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stretching & Flexibility: Bend-v7.6.4-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nStretching & Flexibility: Bend",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/da/55/1bda5508-35be-4ef3-03a1-3fb2c8227544/App-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/0e/36/3c0e3686-e95b-2d71-9b6f-fa32436f6361/App-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 168601686,
+      "size": 188779500,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/3e/4e/cf3e4ec2-b120-a19c-2707-453a1ed49bcc/0_APP_IPHONE_55_0.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/fa/e5/b3fae593-0198-09b2-464b-e3b0b3aaa02e/1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/cb/d4/4acbd406-7cb0-b0a6-1589-62da5fc65b48/2_APP_IPHONE_55_2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/48/a8/ee48a883-c3db-deb9-5425-49d722833d23/3_APP_IPHONE_55_3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/94/90/f99490d3-1ffb-454a-70a4-7f9e622ec4bd/4_APP_IPHONE_55_4.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/b6/87/bcb687d0-0ca7-e2f3-256f-1e1aaff0c521/0_APP_IPHONE_55_0.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/08/b5/a308b50b-67d1-1373-8f33-227a58990c5a/1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/07/01/be070150-3740-96bc-fd66-0bba08231890/2_APP_IPHONE_55_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/0b/46/4b0b4691-8de5-9db4-0a29-15f7a9bd19ae/3_APP_IPHONE_55_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/92/24/619224c6-46e1-dd93-d026-aa42d22cc4b6/4_APP_IPHONE_55_4.png/392x696bb.png"
       ],
       "appPermissions": {
         "entitlements": [
@@ -7076,11 +7076,11 @@
       },
       "versions": [
         {
-          "version": "7.6.3",
-          "date": "2026-07-02",
+          "version": "7.6.4",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Stretching & Flexibility: Bend-v7.6.3-riftysipas.ipa",
-          "size": 168601686
+          "downloadURL": "https://telos.ftp.sh/ipas/Stretching & Flexibility: Bend-v7.6.4-riftysipas.ipa",
+          "size": 188779500
         }
       ],
       "category": "health-&-fitness"
@@ -7294,14 +7294,14 @@
       "bundleIdentifier": "com.olivetree.BR-Free",
       "developerName": "Gospel Technologies LLC",
       "subtitle": "Bible Study for iOS",
-      "version": "8.0.16",
-      "versionDate": "2026-06-16",
+      "version": "8.0.17",
+      "versionDate": "2026-07-15",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.olivetree.BR-Free-8.0.16-eeveedecrypter.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.olivetree.BR-Free-8.0.17-eeveedecrypter.ipa",
       "localizedDescription": "Decrypted",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/7a/8f/737a8f72-af58-ded1-79bb-780a8da687ec/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/52/93/7052937d-fdbd-ef2e-04f3-ae4f3a439549/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 68210066,
+      "size": 68249658,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -7311,11 +7311,11 @@
       },
       "versions": [
         {
-          "version": "8.0.16",
-          "date": "2026-06-16",
+          "version": "8.0.17",
+          "date": "2026-07-13",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.olivetree.BR-Free-8.0.16-eeveedecrypter.ipa",
-          "size": 68210066
+          "downloadURL": "https://telos.ftp.sh/ipas/com.olivetree.BR-Free-8.0.17-eeveedecrypter.ipa",
+          "size": 68249658
         }
       ],
       "category": "reference"
@@ -23254,14 +23254,14 @@
       "bundleIdentifier": "com.jakemor.firness-ai",
       "developerName": "FitnessAI Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "20.3",
-      "versionDate": "2026-07-01",
+      "version": "21.0",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v20_3_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v21_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFitness AI Gym Workout Planner",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/1b/f6/7d1bf61c-4f64-1779-871a-3e7fbddf5c7a/AppIcon-0-1x_U007ephone-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/73/da/d273dac3-c153-7587-45da-dbc5978240f4/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 65216062,
+      "size": 71863459,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -23289,11 +23289,11 @@
       },
       "versions": [
         {
-          "version": "20.3",
-          "date": "2026-07-01",
+          "version": "21.0",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v20_3_Subscription_Unlocked_blatant.ipa",
-          "size": 65216062
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v21_0_Subscription_Unlocked_blatant.ipa",
+          "size": 71863459
         }
       ],
       "category": "health-&-fitness"
@@ -35870,14 +35870,14 @@
       "bundleIdentifier": "com.lake.coloring",
       "developerName": "Lake Coloring",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.27.3",
-      "versionDate": "2026-07-09",
+      "version": "4.28.0",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lake_Coloring_Book_for_Adults_v4_27_3_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lake_Coloring_Book_for_Adults_v4_28_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nLake: Coloring Book for Adults",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/bd/e7/f2bde74e-2560-6121-6559-c298698e8a89/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 177559122,
+      "size": 210110629,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/44/fc/4444fc20-f001-a7b6-208f-b2d509cbcb9a/iPhone_8_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/69/c6/7f69c69b-ba52-817c-b4f8-4906f5334710/iPhone_8_02.png/392x696bb.png",
@@ -35903,11 +35903,11 @@
       },
       "versions": [
         {
-          "version": "4.27.3",
-          "date": "2026-07-09",
+          "version": "4.28.0",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lake_Coloring_Book_for_Adults_v4_27_3_Subscription_Unlocked_blatant.ipa",
-          "size": 177559122
+          "downloadURL": "https://telos.ftp.sh/ipas/Lake_Coloring_Book_for_Adults_v4_28_0_Subscription_Unlocked_blatant.ipa",
+          "size": 210110629
         }
       ],
       "category": "lifestyle"
@@ -37907,14 +37907,14 @@
       "bundleIdentifier": "com.literalword.mobile-app",
       "developerName": "Nicholas Honda",
       "subtitle": "Literal Word for iOS",
-      "version": "4.4.0",
-      "versionDate": "2026-06-15",
+      "version": "4.4.5",
+      "versionDate": "2026-07-15",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.literalword.mobile-app-4.4.0-eeveedecrypter.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.literalword.mobile-app-4.4.5-eeveedecrypter.ipa",
       "localizedDescription": "Decrypted",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/b5/e1/d0b5e16c-2e24-ca58-65be-4b505c9a1eaf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 21413146,
+      "size": 22464290,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/05/ce/8f05cec0-4a82-8068-e6b8-ba313cafcda6/25447fea-0c45-403a-a7dc-af60c3947d36_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/f6/07/ebf6078f-b1f3-22f5-fa32-d7d23987836e/a89a1d42-6608-4168-a94d-3f88331612a3_2.png/392x696bb.png",
@@ -37931,11 +37931,11 @@
       },
       "versions": [
         {
-          "version": "4.4.0",
-          "date": "2026-06-11",
+          "version": "4.4.5",
+          "date": "2026-07-15",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.literalword.mobile-app-4.4.0-eeveedecrypter.ipa",
-          "size": 21413146
+          "downloadURL": "https://telos.ftp.sh/ipas/com.literalword.mobile-app-4.4.5-eeveedecrypter.ipa",
+          "size": 22464290
         }
       ],
       "category": "reference"
@@ -45506,14 +45506,14 @@
       "bundleIdentifier": "NKJV-BR",
       "developerName": "Gospel Technologies LLC",
       "subtitle": "NKJV Bible for iOS",
-      "version": "8.0.16",
-      "versionDate": "2026-06-16",
+      "version": "8.0.17",
+      "versionDate": "2026-07-15",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/NKJV-BR-8.0.16-eeveedecrypter.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/NKJV-BR-8.0.17-eeveedecrypter.ipa",
       "localizedDescription": "Decrypted",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/06/f3/b306f32d-6755-6ff2-837e-2d949141995a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/58/23/8258234a-4a77-7659-c5e9-839bb92cb5ba/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 65701972,
+      "size": 65730128,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/e3/0b/b9e30baf-45ab-336c-85bc-4f6f643558cb/49882e54-c433-442a-bd33-b07337013ec2_NKJViPhone5_FreeBibles.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/d4/bc/52d4bc6b-4bc1-5011-1d3b-e18a109180ce/ccd34bab-5eea-4206-8f8b-bd0ad7cce8bf_NKJViPhone5_Parallel.jpg/392x696bb.jpg",
@@ -45529,11 +45529,11 @@
       },
       "versions": [
         {
-          "version": "8.0.16",
-          "date": "2026-06-16",
+          "version": "8.0.17",
+          "date": "2026-07-13",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/NKJV-BR-8.0.16-eeveedecrypter.ipa",
-          "size": 65701972
+          "downloadURL": "https://telos.ftp.sh/ipas/NKJV-BR-8.0.17-eeveedecrypter.ipa",
+          "size": 65730128
         }
       ],
       "category": "reference"
@@ -47506,14 +47506,14 @@
       "bundleIdentifier": "com.o-p-e-n.open",
       "developerName": "Open Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "26.26",
-      "versionDate": "2026-07-03",
+      "version": "26.29",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Open: Breathwork + Meditation-v26.26-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Open: Breathwork + Meditation-v26.29-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nOpen: Breathwork + Meditation",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/51/f3/7f51f3ae-2100-8d16-929c-c78ca502b968/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/cd/72/41cd72ad-69fc-d3de-036d-8b2cfcaa1b2a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 126216226,
+      "size": 219089417,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -47541,11 +47541,11 @@
       },
       "versions": [
         {
-          "version": "26.26",
-          "date": "2026-07-03",
+          "version": "26.29",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Open: Breathwork + Meditation-v26.26-riftysipas.ipa",
-          "size": 126216226
+          "downloadURL": "https://telos.ftp.sh/ipas/Open: Breathwork + Meditation-v26.29-riftysipas.ipa",
+          "size": 219089417
         }
       ],
       "category": "health-&-fitness"
@@ -49881,14 +49881,14 @@
       "bundleIdentifier": "com.tickettothemoon.video.persona",
       "developerName": "Ticket To The Moon, Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Notes:** Restart App If Subscription Isn'T Unlocked",
-      "version": "1.15.44",
-      "versionDate": "2026-07-11",
+      "version": "1.16.0",
+      "versionDate": "2026-07-15",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.44-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.16.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Notes:** Restart App If Subscription Isn'T Unlocked | *Patched ✓**\n\nPersona: Beauty Camera",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/e7/e9/7fe7e912-061d-6b77-48f2-931d0b4dcda8/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 199537467,
+      "size": 197121726,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/e8/3f/86e83fd9-a8a2-d374-093c-5cf9db87038f/1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/96/ea/5896ea61-9d97-835e-e869-654385f1af2e/5.jpg/392x696bb.jpg",
@@ -49912,11 +49912,11 @@
       },
       "versions": [
         {
-          "version": "1.15.44",
-          "date": "2026-07-11",
+          "version": "1.16.0",
+          "date": "2026-07-15",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.15.44-riftysipas.ipa",
-          "size": 199537467
+          "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.16.0-riftysipas.ipa",
+          "size": 197121726
         }
       ],
       "category": "photo-&-video"
@@ -81574,7 +81574,7 @@
     {
       "title": "⚙️ Telos Update 7.15",
       "identifier": "telos-update-2026-07-15",
-      "caption": "30 Apps Updated:\n• 6 Productivity\n• 6 Health & Fitness\n• 4 Photo & Video\n• 2 Graphics & Design\n• 2 Weather\n• 2 Entertainment\n• 2 Education\n• 2 Lifestyle\n• 2 Sports\n• 2 Finance",
+      "caption": "62 Apps Updated:\n• 18 Health & Fitness\n• 12 Reference\n• 8 Photo & Video\n• 6 Productivity\n• 6 Lifestyle\n• 2 Graphics & Design\n• 2 Weather\n• 2 Entertainment\n• 2 Education\n• 2 Sports\n• 2 Finance",
       "date": "2026-07-15",
       "tintColor": "#02433b",
       "notify": true,
