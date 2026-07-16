@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.sublime.capture",
-    "com.jabhi.clarido",
-    "com.sfun.snapedit",
-    "org.reactjs.native.example.rootd",
-    "com.thegenau.NoteCircle"
+    "com.jojoapps.Medication-List",
+    "com.blockpuzzle.us.ios",
+    "com.future.kapi",
+    "com.picsart.studio",
+    "com.sublime.capture"
   ],
   "apps": [
     {
@@ -8085,14 +8085,14 @@
       "bundleIdentifier": "com.blockpuzzle.us.ios",
       "developerName": "Hungry Studio",
       "subtitle": "Tweaked with NetworkBlocker(adblocker), fixipa1",
-      "version": "7.2.7",
-      "versionDate": "2026-07-13",
+      "version": "7.2.8",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.7-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.8-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nBlock Blast!\n\n---\nEnter the world of Block Blast, where every move is a test of your brain and strategy. Dive into the thrill of block crush gameplay—watch vibrant cubes explode in color as you solve each puzzle. With fresh daily puzzle challenges that keep your mind engaged and an endless high score system that rewards your best strategies, Block Blast delivers nonstop excitement for casual players and puzzle masters alike.\n\nWhy You'll Love Block Blast\n• Daily Puzzle Variety: Every day brings a new puzzle twist,",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/81/36/278136f4-382a-edbd-f502-af4bdd996625/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 101914845,
+      "size": 102363070,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/76/ee/2a76ee57-90a6-9c88-7393-b77afd3b6508/4ac25f40-0f18-43c2-8be8-b3d2018fe240_2048X2732_1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/b3/98/acb39832-888e-a1cf-7f06-511f1b1dd114/94905e6c-232a-4e06-a5c0-8f2cd6c397c3_2048X2732_2.png/576x768bb.png",
@@ -8122,11 +8122,11 @@
       },
       "versions": [
         {
-          "version": "7.2.7",
-          "date": "2026-07-13",
+          "version": "7.2.8",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.7-riftysipas.ipa",
-          "size": 101914845
+          "downloadURL": "https://telos.ftp.sh/ipas/Block Blast!-v7.2.8-riftysipas.ipa",
+          "size": 102363070
         }
       ],
       "category": "games"
@@ -41177,14 +41177,14 @@
       "bundleIdentifier": "com.jojoapps.Medication-List",
       "developerName": "JOJO APPS",
       "subtitle": "Tweaked with CydiaSubstrate, chocorc",
-      "version": "1.8.11",
-      "versionDate": "2026-07-02",
+      "version": "1.8.12",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Medication List-v1.8.11-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nMedication List\n\n---\nTake control of your health with the Medication Tracker & Reminder app, your all-in-one solution for managing medications and supplements. Whether you’re managing daily prescriptions or keeping track of vitamins and supplements, this app ensures you never miss a dose.\n\nFeatures:\n\nPersonalized Medication Scheduling: Set up customized schedules for each medication. Choose from daily, weekly, or specific days, and even set multiple reminders per day.\n\nSmart Reminders: Receive timely notifications t",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/ae/c3/c6aec3ef-0e13-3c5c-4858-3f297fafa42c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Medication List-v1.8.12-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nMedication List\n\n---\nPROBLEM SOLVED: Take the stress out of managing your health regimen. Forget trying to remember if you took your morning pills or trying to track complex prescription intervals on a paper calendar. Whether you are managing chronic conditions, daily prescriptions, birth control, or a detailed vitamin and supplement routine, Medication List ensures you stay perfectly on track.\nWith a clean, distraction-free interface, highly customizable scheduling, and glanceable home screen widgets, managing your",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/c5/19/9bc5193c-02c4-ab8d-0041-4b4b34201ff3/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 18797204,
+      "size": 18849267,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -41201,11 +41201,11 @@
       },
       "versions": [
         {
-          "version": "1.8.11",
-          "date": "2026-07-02",
+          "version": "1.8.12",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Medication List-v1.8.11-riftysipas.ipa",
-          "size": 18797204
+          "downloadURL": "https://telos.ftp.sh/ipas/Medication List-v1.8.12-riftysipas.ipa",
+          "size": 18849267
         }
       ],
       "category": "medical"
@@ -51604,14 +51604,14 @@
       "bundleIdentifier": "com.picsart.studio",
       "developerName": "PicsArt, Inc.",
       "subtitle": "Tweaked with Picsart, blatantsPatch",
-      "version": "30.3.2",
-      "versionDate": "2026-07-12",
+      "version": "30.3.3",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_3_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_3_3_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Picsart, blatantsPatch, sideloadKeychainfix\n\nPicsart AI Photo Editor, Video\n\n---\nIgnite your creative potential with Picsart — the all-in-one AI photo editor, AI video editor, and design studio that’s free and easy to use. From business designs to AI art, go from inspiration to creation fast. Create with an AI photo generator and AI video generator, edit with an AI image editor, remove backgrounds with Background Remover (BG remover), erase objects with Object Remover (Object Eraser), apply AI effects, filters, and retouch tools, and turn ideas into designs with templates, c",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/0d/96/190d9691-6cb5-f1b6-e3a7-cc7c2a7b7230/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 112710696,
+      "size": 112704248,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/32/5c/b3325cd5-a5ec-f47f-d691-b4021ff4e83b/072cbf42-fad7-40f4-b11e-015732e61666_1._Multiple_Use_Cases___iPhone_12.9_.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/9d/6e/d89d6e96-d766-01dd-9e81-245562468926/c3a88056-d203-42c4-9fbd-56c9797d3eb7_2._Multiple_Use_Cases___iPhone_12.9_.png/576x768bb.png",
@@ -51643,11 +51643,11 @@
       },
       "versions": [
         {
-          "version": "30.3.2",
-          "date": "2026-07-12",
+          "version": "30.3.3",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_3_2_Subscription_Unlocked_blatant.ipa",
-          "size": 112710696
+          "downloadURL": "https://telos.ftp.sh/ipas/Picsart_AI_Photo_Editor,_Video_v30_3_3_Subscription_Unlocked_blatant.ipa",
+          "size": 112704248
         }
       ],
       "category": "photo-&-video"
@@ -82428,14 +82428,14 @@
       "bundleIdentifier": "com.future.kapi",
       "developerName": "TETRAS.AI HONGKONG CO., LIMITED",
       "subtitle": "Tweaked with KapiCam, blatantsPatch",
-      "version": "4.31.0",
-      "versionDate": "2026-07-09",
+      "version": "4.32.0",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: KapiCam, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Kapi_Cam_Y2K_&_CCD_Camera_v4_31_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Kapi_Cam_Y2K_&_CCD_Camera_v4_32_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: KapiCam, blatantsPatch\n\nKapi Cam - Y2K & CCD Camera\n\n---\nKAPI is an application that allows you to shoot DV, CCD, and film. You can use it to record the beautiful moments in life and enjoy the retro-style picture texture and atmosphere.\n\n• Simulates real DV and CCD effects, taking you back to the millennium in one second.\n• Provides a variety of retro-style filters and special effects, allowing you to create different visual effects as you like.\n• Supports real-time preview of effects, allowing you to easily capture your favorite images.\n• Simple and",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/1a/a5/8d1aa58e-c54b-c3ca-832c-e02bad098474/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 203589656,
+      "size": 205697262,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -82458,11 +82458,11 @@
       },
       "versions": [
         {
-          "version": "4.31.0",
-          "date": "2026-07-09",
+          "version": "4.32.0",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: KapiCam, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Kapi_Cam_Y2K_&_CCD_Camera_v4_31_0_Subscription_Unlocked_blatant.ipa",
-          "size": 203589656
+          "downloadURL": "https://telos.ftp.sh/ipas/Kapi_Cam_Y2K_&_CCD_Camera_v4_32_0_Subscription_Unlocked_blatant.ipa",
+          "size": 205697262
         }
       ],
       "category": "photo-&-video"
