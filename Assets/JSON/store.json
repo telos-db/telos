@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.joincarbon.nutrition",
-    "app.chudo",
-    "com.365scores.365scroesapp",
-    "com.reveri.reverihealth",
-    "com.gunthermarktl.stepapp"
+    "boomer.Smart-Video",
+    "com.gymbros.app",
+    "AB.iOsteology",
+    "com.andyworks.weather",
+    "com.christianselig.Apollo"
   ],
   "apps": [
     {
@@ -255,14 +255,14 @@
       "bundleIdentifier": "com.andyworks.weather",
       "developerName": "Not Boring Software LLC",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "3.49",
-      "versionDate": "2026-06-06",
+      "version": "3.50",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Not_Boring_Weather_v3_49_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Not_Boring_Weather_v3_50_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\n(Not Boring) Weather",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/9e/3b/6c9e3bf9-f39e-73a9-d177-7f2311a0856b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/40/0f/b4400fe3-5821-680e-73c0-6a57b4bd7cdd/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 206876385,
+      "size": 227270198,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/e3/c6/c7e3c6d6-3b04-a60e-6120-68adc98e8691/8b47a712-4281-42fb-87f1-d0403cc1ba27_weather-ipad2-1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/a8/69/75a86941-f9a4-fbb6-6450-74b1de73d40f/c07a5648-400b-4ec8-9738-9ad2a227cccf_weather-ipad2-2.jpg/576x768bb.jpg",
@@ -282,11 +282,11 @@
       },
       "versions": [
         {
-          "version": "3.49",
-          "date": "2026-04-21",
+          "version": "3.50",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Not_Boring_Weather_v3_49_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 206876385
+          "downloadURL": "https://telos.ftp.sh/ipas/Not_Boring_Weather_v3_50_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 227270198
         }
       ],
       "category": "weather"
@@ -4133,14 +4133,14 @@
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Christian Selig",
       "subtitle": "Tweaked with ApolloOpenInFix, ApolloReborn",
-      "version": "3.4.0",
-      "versionDate": "2026-07-08",
+      "version": "3.4.1",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.4.0.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.4.1.ipa",
       "localizedDescription": "Apollo for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 90178536,
+      "size": 90341077,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/392x696bb.png",
@@ -4167,11 +4167,11 @@
       },
       "versions": [
         {
-          "version": "3.4.0",
-          "date": "2026-07-08",
+          "version": "3.4.1",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.4.0.ipa",
-          "size": 90178536
+          "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.4.1.ipa",
+          "size": 90341077
         }
       ],
       "category": "news"
@@ -10891,14 +10891,14 @@
       "bundleIdentifier": "boomer.Smart-Video",
       "developerName": "Captions, LLC (US)",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "13.25.1",
-      "versionDate": "2026-07-10",
+      "version": "13.26.0",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.25.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.26.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nCaptions: For Talking Videos",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/20/53/922053df-7ad0-74d3-499e-9ccd4f81cc0f/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 110271012,
+      "size": 111481842,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/5b/87/b05b8741-4960-1913-3f58-eb3cf3bff922/2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/2a/a6/942aa6f7-e910-aab9-be7f-1ff8d5de1a95/3.png/392x696bb.png",
@@ -10928,11 +10928,11 @@
       },
       "versions": [
         {
-          "version": "13.25.1",
-          "date": "2026-07-10",
+          "version": "13.26.0",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.25.1-riftysipas.ipa",
-          "size": 110271012
+          "downloadURL": "https://telos.ftp.sh/ipas/Captions: For Talking Videos-v13.26.0-riftysipas.ipa",
+          "size": 111481842
         }
       ],
       "category": "photo-&-video"
@@ -19311,6 +19311,55 @@
         }
       ],
       "category": "games"
+    },
+    {
+      "name": "EasyAnatomy3D",
+      "bundleIdentifier": "AB.iOsteology",
+      "developerName": "EASY ANATOMY - FZCO",
+      "subtitle": "** | By ****@Billymooree**",
+      "version": "5.40.0",
+      "versionDate": "2026-07-16",
+      "versionDescription": "Tweaks: EasyAnatomy3DWithVoiceAIPatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Easy_Anatomy__3D_Atlas_+_AI_5.40.0_1784068438.ipa",
+      "localizedDescription": "** | By ****@Billymooree**\n\n[[P] Easy Anatomy: 3D Atlas + AI](",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/43/0d/d4430d20-9ef1-b5e8-5c44-3feaaa822abb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 1411225367,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/d6/78/4dd678dc-1f12-4e0c-b47a-bbbaa9e11272/26f9c1db-b04a-4964-9d32-7b728972d114_iphone-small-en-01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/0d/b9/d20db90a-1363-e7d7-56c8-ea13c64e0744/dd46bc8c-cc14-4899-bfc8-df87fa257b29_iphone-small-en-02.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/b1/09/0cb10931-a76f-eea6-0ecd-459235ea5705/72fc7581-e6fe-43a4-9fbf-8958a5579492_iphone-small-en-03.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/0a/ea/e80aeaf4-326b-ecf7-39a7-9198287d7432/d55f47ef-fa9c-4c48-8fe9-4960b180ff4d_iphone-small-en-04.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/d9/a8/49d9a82e-3a7c-c912-63d1-f547f9e84d13/4bda02dd-02ee-49ef-a9a6-c88e37f1da2f_iphone-small-en-05.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "Camera access is needed for interaction with the voice AI assistant",
+          "NSMicrophoneUsageDescription": "For recording audio",
+          "NSLocationWhenInUseUsageDescription": "Данные о местонахождении собираются и отправляются на сервер для безопасного проведения оплаты",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Location is need for finding nearest medical university",
+          "NSFaceIDUsageDescription": "Так вы подтвердите, что именно вы выполняете вход",
+          "NSBluetoothAlwaysUsageDescription": "Our app does not request this permission or utilize this functionality but it is included in our info.plist since our app utilizes some library, which references this permission in its code.",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you",
+          "NSPhotoLibraryAddUsageDescription": "Allows saving your drawings from the 3D atlas to Photos."
+        }
+      },
+      "versions": [
+        {
+          "version": "5.40.0",
+          "date": "2026-07-14",
+          "localizedDescription": "Tweaks: EasyAnatomy3DWithVoiceAIPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Easy_Anatomy__3D_Atlas_+_AI_5.40.0_1784068438.ipa",
+          "size": 1411225367
+        }
+      ],
+      "category": "medical"
     },
     {
       "name": "eBay",
@@ -37120,14 +37169,14 @@
       "bundleIdentifier": "com.gymbros.app",
       "developerName": "GymBros Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "2.14.1",
-      "versionDate": "2026-07-14",
+      "version": "2.14.2",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.14.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.14.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nLiftoff - Ranked Gym Workouts",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/61/f6/b061f65b-200f-549b-bf8b-1f5736f4f991/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 152738776,
+      "size": 152953792,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/14/3f/79143f4e-99e1-80c9-9a3f-cd2c7a6bd39c/68ebee91-ba86-4f6c-a564-a276c908ac0f_img1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/a9/6e/a3a96e46-3eb0-27a1-d78b-ddaa2fda43b3/ff0986a5-c1b8-4b14-8d14-70377d1d970a_img2.jpg/576x768bb.jpg",
@@ -37157,11 +37206,11 @@
       },
       "versions": [
         {
-          "version": "2.14.1",
-          "date": "2026-07-14",
+          "version": "2.14.2",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.14.1-riftysipas.ipa",
-          "size": 152738776
+          "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.14.2-riftysipas.ipa",
+          "size": 152953792
         }
       ],
       "category": "health-&-fitness"
@@ -81680,7 +81729,7 @@
     {
       "title": "⚙️ Telos Update 7.16",
       "identifier": "telos-update-2026-07-16",
-      "caption": "62 Apps Updated:\n• 16 Health & Fitness\n• 12 Photo & Video\n• 8 Games\n• 4 Reference\n• 4 Graphics & Design\n• 2 Productivity\n• 2 Lifestyle\n• 2 Medical\n• 2 Utilities\n• 2 Education\n• 2 Finance\n• 2 Food & Drink\n• 2 Navigation\n• 2 Sports",
+      "caption": "86 Apps Updated:\n• 20 Photo & Video\n• 18 Health & Fitness\n• 8 Games\n• 8 News\n• 6 Medical\n• 4 Reference\n• 4 Weather\n• 2 Productivity\n• 2 Lifestyle\n• 2 Utilities\n• 2 Education\n• 2 Finance\n• 2 Food & Drink\n• 2 Navigation\n• 2 Sports\n• 2 Graphics & Design",
       "date": "2026-07-16",
       "tintColor": "#02433b",
       "notify": true,
