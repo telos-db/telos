@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "org.reactjs.native.example.rootd",
+    "com.thegenau.NoteCircle",
     "com.unofficialcalculators.payplan",
     "com.podfactor.pod",
-    "org.trancy.app",
-    "com.glucobit.cravingBuster.CravingBuster",
-    "com.genau.JournalCircle"
+    "org.trancy.app"
   ],
   "apps": [
     {
@@ -46354,14 +46354,14 @@
       "bundleIdentifier": "com.thegenau.NoteCircle",
       "developerName": "Genau Factory",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.73",
-      "versionDate": "2026-07-15",
+      "version": "4.74",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/NoteCircle: To Do, Checklist-v4.73-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/NoteCircle: To Do, Checklist-v4.74-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nNoteCircle: To Do, Checklist\n\n---\nYou organize your tasks. Then everything falls apart. NoteCircle is built for when nothing sticks—and trusted by over 1 million users worldwide, with App Store features across the US, Europe, and Asia.\n\nWhy most to-do apps don’t stick\nYou start motivated, but after a few days everything falls apart again. Tasks get buried, routines break, and important things slip through the cracks. NoteCircle solves this by giving you structure without clutter.\n\nOne clear system for your day and week\nNoteCircl",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/ef/be/34efbeb6-8fef-0053-cba0-4e20f2abeac4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 16031657,
+      "size": 16006925,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/09/dc/e909dc2c-19c7-5b66-831f-b8f8826186ed/29264c3a-fedc-41ea-b7c1-768c18e08e52_NC-ipad-1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/a1/4e/afa14e91-bf92-69bc-4425-bdb02d17581d/39476541-e32d-4c58-8b33-6a12320f360f_NC-ipad-2.png/576x768bb.png",
@@ -46387,11 +46387,11 @@
       },
       "versions": [
         {
-          "version": "4.73",
-          "date": "2026-07-15",
+          "version": "4.74",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/NoteCircle: To Do, Checklist-v4.73-riftysipas.ipa",
-          "size": 16031657
+          "downloadURL": "https://telos.ftp.sh/ipas/NoteCircle: To Do, Checklist-v4.74-riftysipas.ipa",
+          "size": 16006925
         }
       ],
       "category": "productivity"
@@ -58088,14 +58088,14 @@
       "bundleIdentifier": "org.reactjs.native.example.rootd",
       "developerName": "Simply Rooted Media Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.1.62",
-      "versionDate": "2026-07-07",
+      "version": "3.1.63",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.62-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.63-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nRootd: Panic Attacks & Anxiety\n\n---\nEditor's Choice — Apple\n App of the Day — Apple\n Approved for privacy, security, clinical assurance, and safety — DHAF & ORCHA\n\nRootd is anxiety and panic attack relief in your pocket. Award-winning, scientifically validated, female led and seen in Women's Health, Time Magazine, Healthline and more. With millions of users worldwide, Rootd is the go-to app for anxiety & panic attacks for more and more people each day.\n\n“I’ve suffered from panic attacks for almost 10 years. I’ve done CBT, medicati",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/e8/02/b5e8027e-1639-b9a6-63a8-e7639d9e711b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/6c/ee/a66cee37-b9c9-8806-77c4-0c8081119e7f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 64761150,
+      "size": 64823284,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/20/bb/2420bb85-208d-5c12-54a8-18e90ce18c3a/e46a7b02-ac14-4809-91f5-aa8575fef4ce_rteriphone_5.5_display_copy.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/22/b2/f822b2d7-8fa5-1e87-a43e-8fddfef3694e/f6665434-fc68-4954-9b95-8eacd3051608_1242x2208bb-16.png/392x696bb.png",
@@ -58129,11 +58129,11 @@
       },
       "versions": [
         {
-          "version": "3.1.62",
-          "date": "2026-07-07",
+          "version": "3.1.63",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.62-riftysipas.ipa",
-          "size": 64761150
+          "downloadURL": "https://telos.ftp.sh/ipas/Rootd: Panic Attacks & Anxiety-v3.1.63-riftysipas.ipa",
+          "size": 64823284
         }
       ],
       "category": "health-&-fitness"
