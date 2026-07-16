@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.gunthermarktl.stepapp",
     "com.grandgames.magicsort",
     "com.JindoBlu.OfflineGamesIOS",
     "com.hubx.imagination",
-    "com.ADPTVLTD.push",
-    "archery.storify"
+    "com.ADPTVLTD.push"
   ],
   "apps": [
     {
@@ -64965,14 +64965,14 @@
       "bundleIdentifier": "com.gunthermarktl.stepapp",
       "developerName": "StepsApp GmbH",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "8.11.3",
-      "versionDate": "2026-07-10",
+      "version": "8.12.0",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.11.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.12.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nStepsApp Pedometer",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/1f/13/1f1f13f5-8595-255c-db60-1f1e189b1d68/AppIconNew-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 229940793,
+      "size": 230442047,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/94/5e/63945ee0-33a0-de35-a71e-297dd4a183cc/2259ae29-c352-4f85-87ff-2599f6490dd1_0_APP_IPHONE_55_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/07/ff/6d07ff0c-db7e-bf4c-5a2f-489684ed88dc/3fb04dc2-bcb4-4a4d-8001-c7f8172fbdbd_2_APP_IPHONE_55_2.png/392x696bb.png",
@@ -65015,11 +65015,11 @@
       },
       "versions": [
         {
-          "version": "8.11.3",
-          "date": "2026-07-10",
+          "version": "8.12.0",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.11.3-riftysipas.ipa",
-          "size": 229940793
+          "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.12.0-riftysipas.ipa",
+          "size": 230442047
         }
       ],
       "category": "health-&-fitness"
@@ -81680,7 +81680,7 @@
     {
       "title": "⚙️ Telos Update 7.16",
       "identifier": "telos-update-2026-07-16",
-      "caption": "52 Apps Updated:\n• 12 Photo & Video\n• 12 Games\n• 8 Health & Fitness\n• 4 Reference\n• 2 Productivity\n• 2 Lifestyle\n• 2 Medical\n• 2 Utilities\n• 2 Education\n• 2 Finance\n• 2 Food & Drink\n• 2 Navigation",
+      "caption": "52 Apps Updated:\n• 12 Health & Fitness\n• 12 Photo & Video\n• 8 Games\n• 4 Reference\n• 2 Productivity\n• 2 Lifestyle\n• 2 Medical\n• 2 Utilities\n• 2 Education\n• 2 Finance\n• 2 Food & Drink\n• 2 Navigation",
       "date": "2026-07-16",
       "tintColor": "#02433b",
       "notify": true,
