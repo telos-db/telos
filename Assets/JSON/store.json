@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "gronda.gmbh",
+    "org.powerthesaurus.powerthesaurus",
+    "com.iPwners.Plonkan",
     "com.keinois.PrettyProgressApp",
-    "com.sadpuppy.lemmings",
-    "com.cococloudteam.cocosign",
-    "com.aiby.wtcoin",
-    "com.jojoapps.Medication-List"
+    "com.sadpuppy.lemmings"
   ],
   "apps": [
     {
@@ -9659,14 +9659,14 @@
       "bundleIdentifier": "com.iPwners.Plonkan",
       "developerName": "Buddy Budgeting AB",
       "subtitle": "Premium Unlocked | Patched",
-      "version": "13.41",
-      "versionDate": "2026-06-24",
+      "version": "13.42",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Buddy_Budget_Planner_App_v13_41_Premium_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Buddy_Budget_Planner_App_v13_42_Premium_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nBuddy: Budget Planner App",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/53/a4/8753a4ec-4957-cce9-0c2c-2135d4583987/Buddy-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/29/f3/4429f3c5-7212-26e7-4bfa-5e26c7cd6139/Buddy-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 113464046,
+      "size": 114845426,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/71/9e/7a719e75-ebba-da24-1e16-f2d45da2d5cc/c3f46a54-d917-4cf8-a638-586ce11d81b4_Frame_1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/30/84/4030847b-f184-20d5-4da7-405a3f41a5f4/adba6412-ff7e-4b17-9e4d-96af8c7ee39f_Frame_2.png/576x768bb.png",
@@ -9689,11 +9689,11 @@
       },
       "versions": [
         {
-          "version": "13.41",
-          "date": "2026-06-24",
+          "version": "13.42",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Buddy_Budget_Planner_App_v13_41_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 113464046
+          "downloadURL": "https://telos.ftp.sh/ipas/Buddy_Budget_Planner_App_v13_42_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 114845426
         }
       ],
       "category": "finance"
@@ -27984,14 +27984,14 @@
       "bundleIdentifier": "gronda.gmbh",
       "developerName": "Gronda GmbH",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "8.26.0",
-      "versionDate": "2026-07-08",
+      "version": "8.27.0",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.26.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.27.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nGronda: Recipes for Chefs",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/14/18/961418a4-4499-fdf9-7826-ae5fc6f82c64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 53392615,
+      "size": 53333170,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/5d/43/475d4391-f91c-85a7-e3e6-a4f5466a2dc6/12.9__EN-1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/ca/0a/e0ca0a9a-ddcc-2fb8-ed4c-9dcbbd409ba3/12.9__EN-2.jpg/576x768bb.jpg",
@@ -28024,11 +28024,11 @@
       },
       "versions": [
         {
-          "version": "8.26.0",
-          "date": "2026-07-08",
+          "version": "8.27.0",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.26.0-riftysipas.ipa",
-          "size": 53392615
+          "downloadURL": "https://telos.ftp.sh/ipas/Gronda: Recipes for Chefs-v8.27.0-riftysipas.ipa",
+          "size": 53333170
         }
       ],
       "category": "food-&-drink"
@@ -53459,14 +53459,14 @@
       "bundleIdentifier": "org.powerthesaurus.powerthesaurus",
       "developerName": "Radyushin Pty Ltd",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "2.12.0",
-      "versionDate": "2026-06-01",
+      "version": "2.13.0",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: PowerThesaurus, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Power Thesaurus v2.12.0 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Power Thesaurus v2.13.0 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nPower Thesaurus",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/04/15/64041572-c374-5855-ef04-08f2d0005d5e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/a5/ff/1ea5ff2a-7de8-4fa8-95b5-0e01c0ba3f7c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 23081205,
+      "size": 23140179,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/db/6b/c4db6b39-96b9-60b0-86b4-7d1be5a4182a/d61e3076-009d-4889-b7f8-c917f0295364_5_5_Easy-to-follow__U0028ios_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/fc/97/85fc97f2-1b40-643b-2055-1e10584682dc/1d703a8a-bcf0-45e6-bbdf-0a8908a8014f_5_5_Comprehensive__U0028ios_U0029.png/392x696bb.png",
@@ -53489,11 +53489,11 @@
       },
       "versions": [
         {
-          "version": "2.12.0",
-          "date": "2026-05-27",
+          "version": "2.13.0",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: PowerThesaurus, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Power Thesaurus v2.12.0 Pro Unlocked blatant Patched.ipa",
-          "size": 23081205
+          "downloadURL": "https://telos.ftp.sh/ipas/Power Thesaurus v2.13.0 Pro Unlocked blatant Patched.ipa",
+          "size": 23140179
         }
       ],
       "category": "reference"
@@ -81638,7 +81638,7 @@
     {
       "title": "⚙️ Telos Update 7.16",
       "identifier": "telos-update-2026-07-16",
-      "caption": "34 Apps Updated:\n• 6 Photo & Video\n• 6 Games\n• 4 Health & Fitness\n• 4 Utilities\n• 4 Reference\n• 4 Education\n• 2 Productivity\n• 2 Lifestyle\n• 2 Medical",
+      "caption": "38 Apps Updated:\n• 6 Photo & Video\n• 6 Reference\n• 4 Health & Fitness\n• 4 Games\n• 4 Finance\n• 4 Food & Drink\n• 2 Productivity\n• 2 Lifestyle\n• 2 Medical\n• 2 Utilities\n• 2 Education",
       "date": "2026-07-16",
       "tintColor": "#02433b",
       "notify": true,
