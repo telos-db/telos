@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.jojoapps.Medication-List",
-    "com.blockpuzzle.us.ios",
-    "com.future.kapi",
-    "com.picsart.studio",
-    "com.sublime.capture"
+    "com.keinois.PrettyProgressApp",
+    "com.sadpuppy.lemmings",
+    "com.cococloudteam.cocosign",
+    "com.aiby.wtcoin",
+    "com.jojoapps.Medication-List"
   ],
   "apps": [
     {
@@ -13886,6 +13886,35 @@
       "category": "education"
     },
     {
+      "name": "CoCoSign",
+      "bundleIdentifier": "com.cococloudteam.cocosign",
+      "developerName": "Moonbug Entertainment Ltd",
+      "subtitle": "CoCoSign for iOS",
+      "version": "beta 0.4",
+      "versionDate": "2026-07-16",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Cocosign-beta 0.4.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nNew signer app I been using\n\n---\nDiscover fun and easy toddler games in CoComelon: Learn ABCs and 123s!\n\nBuilt by early childhood experts and inspired by the world-famous toddler YouTube series, this app gives families a safe place for toddlers to play, explore, and learn with JJ, Bingo, Cody, Nina, and the whole CoComelon crew. Every kid-friendly interactive activity is designed for little hands and big imaginations.\n\nLEARN letters, numbers, shapes, colors, and early problem-solving skills through playful, hands-on games.\nPLAY",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/70/1e/9a701efb-2d23-80c8-0906-6f07fefbf4b5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 17506816,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "beta 0.4",
+          "date": "2026-07-16",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Cocosign-beta 0.4.ipa",
+          "size": 17506816
+        }
+      ],
+      "category": "education"
+    },
+    {
       "name": "COD Mobile",
       "bundleIdentifier": "com.COD.mobile",
       "developerName": "Activision Publishing, Inc.",
@@ -14141,14 +14170,14 @@
       "bundleIdentifier": "com.aiby.wtcoin",
       "developerName": "AIBY",
       "subtitle": "Tweaked with CoinID, blatantsPatch",
-      "version": "1.26",
-      "versionDate": "2026-06-12",
+      "version": "1.27",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: CoinID, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Coin_ID_Coin_Value_Identifier_v1_26_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Coin_ID_Coin_Value_Identifier_v1_27_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CoinID, blatantsPatch\n\nCoin ID: Coin Value Identifier\n\n---\nHave you always dreamed about an app that would organize your coins for you? Or maybe you want to take up a new non-trivial hobby? Well, meet Coin ID—your guide into the fun world of numismatics!\n\nWhat is Coin ID?\n\nCoin Identifier\n\nThis app works like magic: take two snaps of the obverse and reverse sides of the coin, and boom—our smart AI will find you a match in mere seconds!\n\nCoin Guide\n\nLearn everything about your coins: their size, composition, weight, year of minting, country of origin, de",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/7d/c3/637dc334-4398-9c90-77dc-ea41471af1df/AppIcon_default-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/d6/69/29d6699c-343e-aae9-c6d7-919f3cfb0ff4/AppIcon_default-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 51796749,
+      "size": 53235358,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -14164,11 +14193,11 @@
       },
       "versions": [
         {
-          "version": "1.26",
-          "date": "2026-06-12",
+          "version": "1.27",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: CoinID, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Coin_ID_Coin_Value_Identifier_v1_26_Subscription_Unlocked_blatant.ipa",
-          "size": 51796749
+          "downloadURL": "https://telos.ftp.sh/ipas/Coin_ID_Coin_Value_Identifier_v1_27_Subscription_Unlocked_blatant.ipa",
+          "size": 53235358
         }
       ],
       "category": "reference"
@@ -37104,14 +37133,14 @@
       "bundleIdentifier": "com.sadpuppy.lemmings",
       "developerName": "SAD PUPPY",
       "subtitle": "Tweaked with SatellaJailed, fixipa1",
-      "version": "9.4.1",
-      "versionDate": "2026-07-02",
+      "version": "9.4.3",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.4.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.4.3-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nLemmings: Strategy & Puzzle\n\n---\nLemmings game is an offline classic puzzle game in which you have to guide Lemmings in the right direction for their survival, build with tools and use commands to get them out of traps and puzzles to win missions.\n\nLemmings is a classic puzzle strategy game for those who love to play survival games. There are thousands of levels available to enjoy the endless Lemmings fun. Lemmings are crazy, they run through the Lasers independently- You have to save the Lemmings by directing them in the right",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/fb/ec/b8fbec01-9cc3-0392-8e75-2f990fd05d55/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/47/3d/66473de0-6322-2cfc-fb9f-08513104a6e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 127561016,
+      "size": 127824192,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/e4/7c/ede47c92-98b6-832b-9f27-6fc9ed19546f/cf6c4041-a14e-454c-a56d-aaafb1c5843c_1_Eng_1242x2208_iPhone6_COMPLETE.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/ee/7e/a4ee7e38-da81-ba8f-134b-b222e2e9a20b/29ac5f9b-e36c-4de5-9226-77b031aec539_7_Eng_1242x2208_iPhone6_DISCOVER.png/392x696bb.png",
@@ -37138,11 +37167,11 @@
       },
       "versions": [
         {
-          "version": "9.4.1",
-          "date": "2026-07-02",
+          "version": "9.4.3",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.4.1-riftysipas.ipa",
-          "size": 127561016
+          "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.4.3-riftysipas.ipa",
+          "size": 127824192
         }
       ],
       "category": "games"
@@ -54152,14 +54181,14 @@
       "bundleIdentifier": "com.keinois.PrettyProgressApp",
       "developerName": "keinois OU",
       "subtitle": "Tweaked with CydiaSubstrate, chocorc",
-      "version": "2.1.1",
-      "versionDate": "2026-06-19",
+      "version": "2.1.2",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Countdown - Pretty Progress-v2.1.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Countdown - Pretty Progress-v2.1.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nCountdown - Pretty Progress\n\n---\nTrack time with beautiful countdown widgets on your Home Screen and Lock Screen. Get the results you want by adding beautiful ALWAYS ON motivational countdowns to the device you use every day.\n\nOn your wrist? On your Mac? Pretty Progress works there, too. Our objective is to support you achieve your goals.\n\nWe beautifully track your goals so you don’t have to. What better place to remind yourself of the things that matter than the devices you use every day?\n\nYour life goals, your health routines",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/54/b1/fc54b1cc-36d9-db1b-b072-9a5476a559cb/AppIconGradientCircleV2-0-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/41/48/6e414861-24bd-4cfb-f86f-9c77fabf7ae7/AppIconGradientCircleV2-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 96268569,
+      "size": 117971022,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -54177,11 +54206,11 @@
       },
       "versions": [
         {
-          "version": "2.1.1",
-          "date": "2026-06-19",
+          "version": "2.1.2",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Countdown - Pretty Progress-v2.1.1-riftysipas.ipa",
-          "size": 96268569
+          "downloadURL": "https://telos.ftp.sh/ipas/Countdown - Pretty Progress-v2.1.2-riftysipas.ipa",
+          "size": 117971022
         }
       ],
       "category": "utilities"
