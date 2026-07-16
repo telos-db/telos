@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.sublime.capture",
+    "com.jabhi.clarido",
+    "com.sfun.snapedit",
     "org.reactjs.native.example.rootd",
-    "com.thegenau.NoteCircle",
-    "com.unofficialcalculators.payplan",
-    "com.podfactor.pod",
-    "org.trancy.app"
+    "com.thegenau.NoteCircle"
   ],
   "apps": [
     {
@@ -12903,14 +12903,14 @@
       "bundleIdentifier": "com.jabhi.clarido",
       "developerName": "Jabhi Studios",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "3.1.11",
-      "versionDate": "2026-07-02",
+      "version": "3.2.0",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Clarido: AI Notes & Memory-v3.1.11-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Clarido: AI Notes & Memory-v3.2.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nClarido: AI Notes & Memory",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/3b/38/7d3b3895-f946-c359-a3a4-2a0c5366ede4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/49/df/1549dfe0-b28d-abd9-b74d-75516b60126a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 8437843,
+      "size": 17444879,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -12927,11 +12927,11 @@
       },
       "versions": [
         {
-          "version": "3.1.11",
-          "date": "2026-07-02",
+          "version": "3.2.0",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Clarido: AI Notes & Memory-v3.1.11-riftysipas.ipa",
-          "size": 8437843
+          "downloadURL": "https://telos.ftp.sh/ipas/Clarido: AI Notes & Memory-v3.2.0-riftysipas.ipa",
+          "size": 17444879
         }
       ],
       "category": "lifestyle"
@@ -47356,14 +47356,14 @@
       "bundleIdentifier": "com.sublime.capture",
       "developerName": "Oniri Inc",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "6.0.3",
-      "versionDate": "2026-07-09",
+      "version": "6.0.4",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Oniri - Your Dream Journal-v6.0.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Oniri - Your Dream Journal-v6.0.4-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nOniri - Your Dream Journal",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/9b/39/2f9b39c7-fcf8-d6d3-ffc8-75270116123d/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 108433192,
+      "size": 111755652,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/2a/0e/462a0ef8-676e-7247-7652-9216d0e6d5f2/9be8a32b-31fa-41a7-af46-b70574beadbc_55_EN_01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/8b/d5/f38bd57c-fece-5315-e5ec-148491776ba6/36d00e91-ef6e-4de2-bfe2-324db49e1f19_55_EN_02.jpg/392x696bb.jpg",
@@ -47394,11 +47394,11 @@
       },
       "versions": [
         {
-          "version": "6.0.3",
-          "date": "2026-07-08",
+          "version": "6.0.4",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Oniri - Your Dream Journal-v6.0.3-riftysipas.ipa",
-          "size": 108433192
+          "downloadURL": "https://telos.ftp.sh/ipas/Oniri - Your Dream Journal-v6.0.4-riftysipas.ipa",
+          "size": 111755652
         }
       ],
       "category": "health-&-fitness"
@@ -61905,14 +61905,14 @@
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "6.20.1",
-      "versionDate": "2026-07-15",
+      "version": "6.20.2",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_20_1_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_20_2_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nSnapEdit: Photo Editor AI",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/cb/0d/5dcb0d82-ae96-8bac-4c11-6782319bb3a4/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 106405235,
+      "size": 106458961,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -61931,11 +61931,11 @@
       },
       "versions": [
         {
-          "version": "6.20.1",
-          "date": "2026-07-15",
+          "version": "6.20.2",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_20_1_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 106405235
+          "downloadURL": "https://telos.ftp.sh/ipas/SnapEdit_Photo_Editor_AI_v6_20_2_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 106458961
         }
       ],
       "category": "photo-&-video"
@@ -81609,7 +81609,7 @@
     {
       "title": "⚙️ Telos Update 7.16",
       "identifier": "telos-update-2026-07-16",
-      "caption": "8 Apps Updated:\n• 4 Health & Fitness\n• 4 Productivity",
+      "caption": "16 Apps Updated:\n• 6 Health & Fitness\n• 4 Photo & Video\n• 4 Lifestyle\n• 2 Productivity",
       "date": "2026-07-16",
       "tintColor": "#02433b",
       "notify": true,
