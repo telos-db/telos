@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "boomer.Smart-Video",
-    "com.gymbros.app",
-    "AB.iOsteology",
-    "com.andyworks.weather",
-    "com.christianselig.Apollo"
+    "com.app-livity",
+    "me.imgbase.videoday",
+    "health.sleep.sounds.tracker.alarm.calm",
+    "com.osmose-it.nursing",
+    "com.andyworks.calculator"
   ],
   "apps": [
     {
@@ -179,14 +179,14 @@
       "bundleIdentifier": "com.andyworks.calculator",
       "developerName": "Not Boring Software LLC",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "3.21",
-      "versionDate": "2026-02-14",
+      "version": "3.22",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Not_Boring_Calculator_v3_21_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\n(Not Boring) Calculator\n\n---\n\n\"Just astonishingly fun.\" — John Gruber\n\nA BETTER EVERYDAY CALCULATOR\nAs a kid, I loved playing with a calculator. Somewhere along the way, the calculator became another boring tool. I want a calculator that reignites that same sense of wonder.\n\nSHOW YOUR WORK\nOne of the biggest obstacles with most calculator apps is just how easy it is to make mistakes. If you mistype a number and don't catch it immediately, you can easily end up with the wrong answer and never know it.\n\nTo fix this, we do what",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/4e/df/d94edfbb-70e3-2d69-2620-f4a2bb9b7573/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Not_Boring_Calculator_v3_22_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\n(Not Boring) Calculator",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/c7/47/b0c747f3-f71c-3504-7ba0-4e0e7109cd61/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 83169438,
+      "size": 120200715,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/8e/78/9e8e789f-1336-411a-5dfb-c6b163254fa4/dad1afb3-a19b-48f3-9574-b425231856c7_calculator-iphone5.5-1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3e/46/af/3e46af71-572c-1cd5-bc55-0b97dfc245af/ce3233e4-40d0-48d1-8187-c2944ff4885c_calculator-iphone5.5-2.png/392x696bb.png",
@@ -195,18 +195,20 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/be/41/18/be41189b-9d2d-f4b2-88b5-2792cb167dbd/818efefe-f636-4a0c-bf79-c7232ff93da9_shared-iphone5.5-1.png/392x696bb.png"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSPhotoLibraryAddUsageDescription": "Save wallpapers to your photo library"
         }
       },
       "versions": [
         {
-          "version": "3.21",
-          "date": "2025-10-31",
+          "version": "3.22",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Not_Boring_Calculator_v3_21_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 83169438
+          "downloadURL": "https://telos.ftp.sh/ipas/Not_Boring_Calculator_v3_22_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 120200715
         }
       ],
       "category": "utilities"
@@ -38294,14 +38296,14 @@
       "bundleIdentifier": "com.app-livity",
       "developerName": "Martynas Narijauskas",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "4.9.1",
-      "versionDate": "2026-07-01",
+      "version": "5.0.0",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Livity: Sleep & Health Tracker-v4.9.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Livity: Sleep & Health Tracker-v5.0.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nLivity: Sleep & Health Tracker",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/67/48/2e6748f7-76d3-f6ac-677f-4d95fa19f2a9/LivityNewIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/e1/ae/0fe1aeb8-196c-115b-7661-954d5383f8ec/LivityNewIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 115269026,
+      "size": 112070599,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -38324,11 +38326,11 @@
       },
       "versions": [
         {
-          "version": "4.9.1",
-          "date": "2026-07-01",
+          "version": "5.0.0",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Livity: Sleep & Health Tracker-v4.9.1-riftysipas.ipa",
-          "size": 115269026
+          "downloadURL": "https://telos.ftp.sh/ipas/Livity: Sleep & Health Tracker-v5.0.0-riftysipas.ipa",
+          "size": 112070599
         }
       ],
       "category": "health-&-fitness"
@@ -46487,16 +46489,16 @@
     {
       "name": "Nuvio",
       "bundleIdentifier": "com.nuvio.media",
-      "developerName": "Muhammed Nayif Rahman",
+      "developerName": "RGN VENTURES LTD",
       "subtitle": "Nuvio for iOS",
-      "version": "0.2.23",
-      "versionDate": "2026-07-13",
+      "version": "0.2.25",
+      "versionDate": "2026-07-16",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.23-Full.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.25-Full.ipa",
       "localizedDescription": "Nuvio",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/13/80/d11380f4-6734-99de-a6f3-c54e17aeedd7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 41466558,
+      "size": 41564314,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -46504,14 +46506,14 @@
       },
       "versions": [
         {
-          "version": "0.2.23",
-          "date": "2026-07-13",
+          "version": "0.2.25",
+          "date": "2026-07-16",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.23-Full.ipa",
-          "size": 41466558
+          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.25-Full.ipa",
+          "size": 41564314
         }
       ],
-      "category": "entertainment"
+      "category": "health-&-fitness"
     },
     {
       "name": "Nuvio",
@@ -48260,14 +48262,14 @@
       "bundleIdentifier": "com.osmose-it.nursing",
       "developerName": "Knowledge Diffusion",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "6.0.7",
-      "versionDate": "2026-06-26",
+      "version": "6.0.8",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisNursing, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Nursing_Exam_Prep_v6_0_7_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Nursing_Exam_Prep_v6_0_8_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nOsmosis - Nursing Exam Prep",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/4e/ec/d14eecfd-395d-e978-aa68-ccceb1693bf5/NursingAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/b4/3c/7db43c7f-28fc-86af-19da-d2adb35e5d13/NursingAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 27816708,
+      "size": 27831428,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -48281,11 +48283,11 @@
       },
       "versions": [
         {
-          "version": "6.0.7",
-          "date": "2026-06-26",
+          "version": "6.0.8",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisNursing, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Nursing_Exam_Prep_v6_0_7_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 27816708
+          "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Nursing_Exam_Prep_v6_0_8_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 27831428
         }
       ],
       "category": "medical"
@@ -60197,14 +60199,14 @@
       "bundleIdentifier": "health.sleep.sounds.tracker.alarm.calm",
       "developerName": "Enerjoy Pte. Ltd.",
       "subtitle": "Premium Unlocked | Patched",
-      "version": "3.4.7",
-      "versionDate": "2026-07-08",
+      "version": "3.4.8",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: ShutEye, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/ShutEye®_Sleep_Tracker,_Sound_v3_4_7_Premium_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ShutEye®_Sleep_Tracker,_Sound_v3_4_8_Premium_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nShutEye®: Sleep Tracker, Sound",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/8d/00/968d000a-100e-f58b-d4f0-1e29a2af075a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 513194248,
+      "size": 513193497,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -60231,11 +60233,11 @@
       },
       "versions": [
         {
-          "version": "3.4.7",
-          "date": "2026-07-08",
+          "version": "3.4.8",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: ShutEye, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/ShutEye®_Sleep_Tracker,_Sound_v3_4_7_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 513194248
+          "downloadURL": "https://telos.ftp.sh/ipas/ShutEye®_Sleep_Tracker,_Sound_v3_4_8_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 513193497
         }
       ],
       "category": "health-&-fitness"
@@ -74411,14 +74413,14 @@
       "bundleIdentifier": "me.imgbase.videoday",
       "developerName": "ImgBase, Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "4.1.3",
-      "versionDate": "2026-07-15",
+      "version": "4.1.4",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: AutoItunes, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/VDIT - Video Maker & Editor-v4.1.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/VDIT - Video Maker & Editor-v4.1.4-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nVDIT - Video Maker & Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/43/fb/9443fbc3-a99f-f161-0305-67915ed7c38d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 220048741,
+      "size": 220179074,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/f4/bd/51f4bde1-13fb-a843-993f-10413ae992f9/VDIT_ScreenShot_v3.8.0_iPhone8Plus_Intro_En.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/c4/fc/97c4fcb2-bcf4-870c-3756-e230d5e4567d/VDIT_ScreenShot_v3.8.0_iPhone8Plus_AICaption_En.png/392x696bb.png",
@@ -74445,11 +74447,11 @@
       },
       "versions": [
         {
-          "version": "4.1.3",
-          "date": "2026-07-15",
+          "version": "4.1.4",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: AutoItunes, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/VDIT - Video Maker & Editor-v4.1.3-riftysipas.ipa",
-          "size": 220048741
+          "downloadURL": "https://telos.ftp.sh/ipas/VDIT - Video Maker & Editor-v4.1.4-riftysipas.ipa",
+          "size": 220179074
         }
       ],
       "category": "photo-&-video"
@@ -81729,7 +81731,7 @@
     {
       "title": "⚙️ Telos Update 7.16",
       "identifier": "telos-update-2026-07-16",
-      "caption": "86 Apps Updated:\n• 20 Photo & Video\n• 18 Health & Fitness\n• 8 Games\n• 8 News\n• 6 Medical\n• 4 Reference\n• 4 Weather\n• 2 Productivity\n• 2 Lifestyle\n• 2 Utilities\n• 2 Education\n• 2 Finance\n• 2 Food & Drink\n• 2 Navigation\n• 2 Sports\n• 2 Graphics & Design",
+      "caption": "116 Apps Updated:\n• 36 Photo & Video\n• 32 Health & Fitness\n• 8 Games\n• 8 Medical\n• 6 Utilities\n• 4 Reference\n• 4 News\n• 2 Productivity\n• 2 Lifestyle\n• 2 Education\n• 2 Finance\n• 2 Food & Drink\n• 2 Navigation\n• 2 Sports\n• 2 Graphics & Design\n• 2 Weather",
       "date": "2026-07-16",
       "tintColor": "#02433b",
       "notify": true,
