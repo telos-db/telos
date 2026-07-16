@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.jojoapps.Medication-List",
-    "com.blockpuzzle.us.ios",
-    "com.future.kapi",
-    "com.picsart.studio",
-    "com.sublime.capture"
+    "com.keinois.PrettyProgressApp",
+    "com.sadpuppy.lemmings",
+    "com.cococloudteam.cocosign",
+    "com.aiby.wtcoin",
+    "com.jojoapps.Medication-List"
   ],
   "apps": [
     {
@@ -13815,6 +13815,35 @@
       "category": "education"
     },
     {
+      "name": "CoCoSign",
+      "bundleIdentifier": "com.cococloudteam.cocosign",
+      "developerName": "Moonbug Entertainment Ltd",
+      "subtitle": "CoCoSign for iOS",
+      "version": "beta 0.4",
+      "versionDate": "2026-07-16",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Cocosign-beta 0.4.ipa",
+      "localizedDescription": "New signer app I been using",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/70/1e/9a701efb-2d23-80c8-0906-6f07fefbf4b5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 17506816,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "beta 0.4",
+          "date": "2026-07-16",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Cocosign-beta 0.4.ipa",
+          "size": 17506816
+        }
+      ],
+      "category": "education"
+    },
+    {
       "name": "COD Mobile",
       "bundleIdentifier": "com.COD.mobile",
       "developerName": "Activision Publishing, Inc.",
@@ -14068,14 +14097,14 @@
       "bundleIdentifier": "com.aiby.wtcoin",
       "developerName": "AIBY",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "1.26",
-      "versionDate": "2026-06-12",
+      "version": "1.27",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: CoinID, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Coin_ID_Coin_Value_Identifier_v1_26_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Coin_ID_Coin_Value_Identifier_v1_27_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nCoin ID: Coin Value Identifier",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/7d/c3/637dc334-4398-9c90-77dc-ea41471af1df/AppIcon_default-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/d6/69/29d6699c-343e-aae9-c6d7-919f3cfb0ff4/AppIcon_default-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 51796749,
+      "size": 53235358,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -14091,11 +14120,11 @@
       },
       "versions": [
         {
-          "version": "1.26",
-          "date": "2026-06-12",
+          "version": "1.27",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: CoinID, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Coin_ID_Coin_Value_Identifier_v1_26_Subscription_Unlocked_blatant.ipa",
-          "size": 51796749
+          "downloadURL": "https://telos.ftp.sh/ipas/Coin_ID_Coin_Value_Identifier_v1_27_Subscription_Unlocked_blatant.ipa",
+          "size": 53235358
         }
       ],
       "category": "reference"
@@ -36602,14 +36631,14 @@
       "bundleIdentifier": "com.sadpuppy.lemmings",
       "developerName": "SAD PUPPY",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "9.4.1",
-      "versionDate": "2026-07-02",
+      "version": "9.4.3",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.4.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.4.3-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nLemmings: Strategy & Puzzle",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/fb/ec/b8fbec01-9cc3-0392-8e75-2f990fd05d55/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/47/3d/66473de0-6322-2cfc-fb9f-08513104a6e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 127561016,
+      "size": 127824192,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/e4/7c/ede47c92-98b6-832b-9f27-6fc9ed19546f/cf6c4041-a14e-454c-a56d-aaafb1c5843c_1_Eng_1242x2208_iPhone6_COMPLETE.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/ee/7e/a4ee7e38-da81-ba8f-134b-b222e2e9a20b/29ac5f9b-e36c-4de5-9226-77b031aec539_7_Eng_1242x2208_iPhone6_DISCOVER.png/392x696bb.png",
@@ -36636,11 +36665,11 @@
       },
       "versions": [
         {
-          "version": "9.4.1",
-          "date": "2026-07-02",
+          "version": "9.4.3",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.4.1-riftysipas.ipa",
-          "size": 127561016
+          "downloadURL": "https://telos.ftp.sh/ipas/Lemmings: Strategy & Puzzle-v9.4.3-riftysipas.ipa",
+          "size": 127824192
         }
       ],
       "category": "games"
@@ -53677,14 +53706,14 @@
       "bundleIdentifier": "com.keinois.PrettyProgressApp",
       "developerName": "keinois OU",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "2.1.1",
-      "versionDate": "2026-06-19",
+      "version": "2.1.2",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Countdown - Pretty Progress-v2.1.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Countdown - Pretty Progress-v2.1.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓** | *Bundle Id:** Com.Keinois.Prettyprogressapp\n\nCountdown - Pretty Progress",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/54/b1/fc54b1cc-36d9-db1b-b072-9a5476a559cb/AppIconGradientCircleV2-0-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/41/48/6e414861-24bd-4cfb-f86f-9c77fabf7ae7/AppIconGradientCircleV2-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 96268569,
+      "size": 117971022,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -53702,11 +53731,11 @@
       },
       "versions": [
         {
-          "version": "2.1.1",
-          "date": "2026-06-19",
+          "version": "2.1.2",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Countdown - Pretty Progress-v2.1.1-riftysipas.ipa",
-          "size": 96268569
+          "downloadURL": "https://telos.ftp.sh/ipas/Countdown - Pretty Progress-v2.1.2-riftysipas.ipa",
+          "size": 117971022
         }
       ],
       "category": "utilities"
@@ -81609,7 +81638,7 @@
     {
       "title": "⚙️ Telos Update 7.16",
       "identifier": "telos-update-2026-07-16",
-      "caption": "18 Apps Updated:\n• 6 Photo & Video\n• 4 Health & Fitness\n• 2 Productivity\n• 2 Games\n• 2 Lifestyle\n• 2 Medical",
+      "caption": "34 Apps Updated:\n• 6 Photo & Video\n• 6 Games\n• 4 Health & Fitness\n• 4 Utilities\n• 4 Reference\n• 4 Education\n• 2 Productivity\n• 2 Lifestyle\n• 2 Medical",
       "date": "2026-07-16",
       "tintColor": "#02433b",
       "notify": true,
