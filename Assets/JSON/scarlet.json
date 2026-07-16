@@ -5398,12 +5398,12 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BoldVoice, blatantsPatch\n\nBoldVoice: Accent Training\n\n---\nBoldVoice is the top-rated English speaking and pronunciation app, with over 2 million global users. Our Hollywood accent coaches and AI-powered feedback will help you achieve clear, confident pronunciation, with only 10 minutes of daily practice.\n\nWHY CHOOSE BOLDVOICE:\nLearn from professional accent coaches who train Hollywood actors\nRecord your voice and receive instant, AI-powered pronunciation feedback\nPractice with daily-life scenarios and professional conversations\nMonitor progress through",
-      "version": "4.1.8",
-      "versionDate": "2026-07-15T16:49:59-00:00",
-      "versionDescription": "Build 3 from @blatants",
-      "size": 144052945,
+      "version": "4.1.9",
+      "versionDate": "2026-07-16T19:50:25-00:00",
+      "versionDescription": "Build 4 from @blatants",
+      "size": 143946555,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_8_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_9_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "15.5",
       "supportedPlatforms": [
         "iOS"
@@ -5416,7 +5416,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "BoldVoice_Accent_Training_v4_1_8_Subscription_Unlocked_blatant_Patched.ipa"
+        "originalFile": "BoldVoice_Accent_Training_v4_1_9_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -15170,6 +15170,31 @@
       }
     },
     {
+      "name": "FlightDeck",
+      "bundleIdentifier": "com.jaddar.SkyWatch",
+      "developerName": "Attracts",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nReal-time flight tracking for people who actually care about aviation.\n\nTRACK YOUR FLIGHT\nAdd your flight up to 24 hours before departure and FlightDeck handles the rest\nGate assignment, pushback, takeoff, cruise, descent, landing, baggage claim all tracked live\nUpdates hit your Lock Screen automatically so you never have to open the app\n\nLIVE MAP\nThousands of real flights on a live map, updated by the second\nMajor airports rendered in full 3D terminals, taxiways, gates, and runway markings exac",
+      "version": "2.2.1",
+      "versionDate": "2026-07-16T19:42:07-00:00",
+      "versionDescription": "Build 34 from @thescholarslounge",
+      "size": 76673072,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/6b/50/da6b509c-1a3f-05b0-c023-cf9201a568de/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.jaddar.SkyWatch-2.2.1-eeveedecrypter.ipa",
+      "minOSVersion": "17.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.jaddar.SkyWatch-2.2.1-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "Flightradar24",
       "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
       "developerName": "Flightradar24 AB",
@@ -23648,12 +23673,12 @@
       "bundleIdentifier": "jp.naver.linecamera",
       "developerName": "SNOW Corporation",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: LINECamera, blatantsPatch\n\nLINE Camera - Photo editor\n\n---\nA photo editing camera app used by over 200 million people worldwide! 『LINE Camera』\n\n- Over 30,000 stickers and frames\nFrom decorations to face covers, the possibilities are endless.\nA wide variety of items is updated weekly.\n\n- Cute, sleek filters\nHighly customizable filters let you make your photos look just how you like them.\n\n- Make your own original stickers!\nUse your own illustrations, text, or photos to make your own stickers.\n\n- Use the Beauty feature to bring out the natural beauty in y",
-      "version": "18.4.1",
-      "versionDate": "2026-07-06T15:52:48-00:00",
-      "versionDescription": "Build 18.4.1.1 from @blatants",
-      "size": 202269076,
+      "version": "18.4.5",
+      "versionDate": "2026-07-16T19:46:07-00:00",
+      "versionDescription": "Build 18.4.5.1 from @blatants",
+      "size": 202270384,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/62/ed/0c62ed35-c46c-d28d-6789-b34b52cd141d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_4_1_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_4_5_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -23666,7 +23691,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "LINE_Camera_Photo_editor_v18_4_1_Subscription_Unlocked_blatant_Patched.ipa"
+        "originalFile": "LINE_Camera_Photo_editor_v18_4_5_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -28557,12 +28582,12 @@
       "bundleIdentifier": "com.wakdev.wdnfc",
       "developerName": "wakdev",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NFCTools, blatantsPatch\n\nNFC Tools\n\n---\nNFC Tools can read and write your NFC tags with a simple and lightweight user interface.\nBy passing your device near an NFC chip, you can read the data it contains and interact with the content.\n\nThe \"Read\" section allows you to see data such as:\n- the maker of the tag\n- the type of tag (ex : Mifare Ultralight, NTAG213)\n- the norm of the tag (ex : NFC Forum Type 2)\n- the available technology (ex: NFC A)\n- its serial number (ex : 04:85:c8:5a:40:2b:80)\n- the size of the tag and of the data on it\n-",
-      "version": "2.40",
-      "versionDate": "2026-06-16T19:31:16-00:00",
-      "versionDescription": "Build 62 from @blatants",
-      "size": 5336232,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/44/e3/bf44e3fb-8b9e-e8bc-cb4c-6dee2ccba3ef/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/NFC Tools v2.40 Pro Unlocked blatant Patched.ipa",
+      "version": "3.0",
+      "versionDate": "2026-07-16T19:51:04-00:00",
+      "versionDescription": "Build 63 from @blatants",
+      "size": 5636954,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/2c/3b/f02c3b4a-fa9f-64ef-4555-155538f8482c/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/NFC Tools v3.0 Pro Unlocked blatant Patched.ipa",
       "minOSVersion": "15.6",
       "supportedPlatforms": [
         "iOS"
@@ -28574,7 +28599,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "NFC Tools v2.40 Pro Unlocked blatant Patched.ipa"
+        "originalFile": "NFC Tools v3.0 Pro Unlocked blatant Patched.ipa"
       }
     },
     {
@@ -30448,12 +30473,12 @@
       "bundleIdentifier": "com.osmose-it.osmosis",
       "developerName": "Knowledge Diffusion",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, OsmosisMedical, blatantsPatch\n\nOsmosis - Med School Study App\n\n---\nStruggling to understand medical concepts or prepare for the USMLE? Osmosis is the medical exam study app designed to help med students learn medicine faster, improve information retention and pass medical board exams with flying colours.\n\nTrusted by 8,000,000+ medical, nursing, PA, pharmacy and dental students, this medical learning app turns downtime into productive study time with an expansive library of medical videos, flashcards, quizzes, exam-style questions and more.\n\nInstead of memorizin",
-      "version": "6.0.7",
-      "versionDate": "2026-06-26T17:03:06-00:00",
-      "versionDescription": "Build 190 from @blatants",
-      "size": 27792918,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/b2/3c/cdb23ca2-e22c-e968-6c87-43f72dd8825a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Med_School_Study_App_v6_0_7_Subscription_Unlocked_blatant.ipa",
+      "version": "6.0.8",
+      "versionDate": "2026-07-16T19:53:00-00:00",
+      "versionDescription": "Build 193 from @blatants",
+      "size": 27807455,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/1a/9f/711a9f8e-2434-4ecf-2d61-34f515734147/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Med_School_Study_App_v6_0_8_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "15.1",
       "supportedPlatforms": [
         "iOS"
@@ -30466,7 +30491,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Osmosis_Med_School_Study_App_v6_0_7_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Osmosis_Med_School_Study_App_v6_0_8_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
