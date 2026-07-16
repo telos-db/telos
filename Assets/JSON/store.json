@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.app-livity",
-    "me.imgbase.videoday",
-    "health.sleep.sounds.tracker.alarm.calm",
-    "com.osmose-it.nursing",
-    "com.andyworks.calculator"
+    "com.osmose-it.osmosis",
+    "com.wakdev.wdnfc",
+    "com.wellocution.iosapp",
+    "jp.naver.linecamera",
+    "com.jaddar.SkyWatch"
   ],
   "apps": [
     {
@@ -8428,14 +8428,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.1.8",
-      "versionDate": "2026-07-15",
+      "version": "4.1.9",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_8_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_9_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nBoldVoice: Accent Training",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 144052945,
+      "size": 143946555,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8455,11 +8455,11 @@
       },
       "versions": [
         {
-          "version": "4.1.8",
-          "date": "2026-07-15",
+          "version": "4.1.9",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_8_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 144052945
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_9_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 143946555
         }
       ],
       "category": "education"
@@ -23921,6 +23921,38 @@
       "category": "travel"
     },
     {
+      "name": "FlightDeck",
+      "bundleIdentifier": "com.jaddar.SkyWatch",
+      "developerName": "Attracts",
+      "subtitle": "FlightDeck for iOS",
+      "version": "2.2.1",
+      "versionDate": "2026-07-16",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.jaddar.SkyWatch-2.2.1-eeveedecrypter.ipa",
+      "localizedDescription": "FlightDeck for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/6b/50/da6b509c-1a3f-05b0-c023-cf9201a568de/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 76673072,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "FlightDeck uses your location to show nearby aircraft and enable spotting alerts.",
+          "NSUserTrackingUsageDescription": "FlightDeck uses this to measure the effectiveness of ads and improve your experience."
+        }
+      },
+      "versions": [
+        {
+          "version": "2.2.1",
+          "date": "2026-06-22",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.jaddar.SkyWatch-2.2.1-eeveedecrypter.ipa",
+          "size": 76673072
+        }
+      ],
+      "category": "travel"
+    },
+    {
       "name": "Flightradar24",
       "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
       "developerName": "Flightradar24 AB",
@@ -37495,14 +37527,14 @@
       "bundleIdentifier": "jp.naver.linecamera",
       "developerName": "SNOW Corporation",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "18.4.1",
-      "versionDate": "2026-07-06",
+      "version": "18.4.5",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_4_1_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_4_5_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nLINE Camera - Photo editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/62/ed/0c62ed35-c46c-d28d-6789-b34b52cd141d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 202269076,
+      "size": 202270384,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/27/8f/39278fe6-038f-45b8-f616-2b00cd9b4329/1242x2208_filter.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/68/b3/c968b397-9270-cd57-6a02-1728925d0c44/1242x2208_blur.png/392x696bb.png",
@@ -37525,11 +37557,11 @@
       },
       "versions": [
         {
-          "version": "18.4.1",
-          "date": "2026-07-06",
+          "version": "18.4.5",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_4_1_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 202269076
+          "downloadURL": "https://telos.ftp.sh/ipas/LINE_Camera_Photo_editor_v18_4_5_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 202270384
         }
       ],
       "category": "photo-&-video"
@@ -45230,14 +45262,14 @@
       "bundleIdentifier": "com.wakdev.wdnfc",
       "developerName": "wakdev",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "2.40",
-      "versionDate": "2026-06-16",
+      "version": "3.0",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: NFCTools, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/NFC Tools v2.40 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/NFC Tools v3.0 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nNFC Tools",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/44/e3/bf44e3fb-8b9e-e8bc-cb4c-6dee2ccba3ef/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/2c/3b/f02c3b4a-fa9f-64ef-4555-155538f8482c/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 5336232,
+      "size": 5636954,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -45253,11 +45285,11 @@
       },
       "versions": [
         {
-          "version": "2.40",
-          "date": "2026-06-16",
+          "version": "3.0",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: NFCTools, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/NFC Tools v2.40 Pro Unlocked blatant Patched.ipa",
-          "size": 5336232
+          "downloadURL": "https://telos.ftp.sh/ipas/NFC Tools v3.0 Pro Unlocked blatant Patched.ipa",
+          "size": 5636954
         }
       ],
       "category": "utilities"
@@ -48227,14 +48259,14 @@
       "bundleIdentifier": "com.osmose-it.osmosis",
       "developerName": "Knowledge Diffusion",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "6.0.7",
-      "versionDate": "2026-06-26",
+      "version": "6.0.8",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisMedical, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Med_School_Study_App_v6_0_7_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Med_School_Study_App_v6_0_8_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nOsmosis - Med School Study App",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/b2/3c/cdb23ca2-e22c-e968-6c87-43f72dd8825a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/1a/9f/711a9f8e-2434-4ecf-2d61-34f515734147/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 27792918,
+      "size": 27807455,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -48248,11 +48280,11 @@
       },
       "versions": [
         {
-          "version": "6.0.7",
-          "date": "2026-06-26",
+          "version": "6.0.8",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisMedical, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Med_School_Study_App_v6_0_7_Subscription_Unlocked_blatant.ipa",
-          "size": 27792918
+          "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Med_School_Study_App_v6_0_8_Subscription_Unlocked_blatant.ipa",
+          "size": 27807455
         }
       ],
       "category": "medical"
@@ -81731,7 +81763,7 @@
     {
       "title": "⚙️ Telos Update 7.16",
       "identifier": "telos-update-2026-07-16",
-      "caption": "116 Apps Updated:\n• 36 Photo & Video\n• 32 Health & Fitness\n• 8 Games\n• 8 Medical\n• 6 Utilities\n• 4 Reference\n• 4 News\n• 2 Productivity\n• 2 Lifestyle\n• 2 Education\n• 2 Finance\n• 2 Food & Drink\n• 2 Navigation\n• 2 Sports\n• 2 Graphics & Design\n• 2 Weather",
+      "caption": "114 Apps Updated:\n• 30 Photo & Video\n• 24 Health & Fitness\n• 10 Medical\n• 8 Games\n• 8 Utilities\n• 6 Education\n• 4 Reference\n• 4 News\n• 4 Travel\n• 2 Productivity\n• 2 Lifestyle\n• 2 Finance\n• 2 Food & Drink\n• 2 Navigation\n• 2 Sports\n• 2 Graphics & Design\n• 2 Weather",
       "date": "2026-07-16",
       "tintColor": "#02433b",
       "notify": true,
