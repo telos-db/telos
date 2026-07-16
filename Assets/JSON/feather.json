@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.andyworks.vibes",
+    "com.risesci.nyx",
     "com.nextgen.reelsapp",
     "com.osmose-it.osmosis",
-    "com.wakdev.wdnfc",
-    "com.wellocution.iosapp",
-    "jp.naver.linecamera"
+    "com.wakdev.wdnfc"
   ],
   "apps": [
     {
@@ -96,14 +96,14 @@
       "bundleIdentifier": "com.andyworks.vibes",
       "developerName": "Not Boring Software LLC",
       "subtitle": "Tweaked with NotBoringCrack, blatantsPatch",
-      "version": "1.23",
-      "versionDate": "2026-02-15",
+      "version": "1.24",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Not_Boring_Vibes_v1_23_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Not_Boring_Vibes_v1_24_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NotBoringCrack, blatantsPatch\n\n(Not Boring) Vibes\n\n---\nPERSONALIZED MUSIC TO HELP YOU FOCUS\nBased on science and inspired by video games, Vibes creates personalized music designed to improve focus, intensity, and concentration.\n\nSMARTER FOCUS MUSIC\nVibes knows your wake and sleep times and generates background music based on your activity throughout the day to help you wake up, focus at work, relax, and sleep deeper.\n\nJUST ONE TAP\nIt's the world’s easiest app to use. One tap to open and automatically play exactly what music you need for the moment.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/14/2e/1f142eb4-dfae-aabe-5e46-71e236164d40/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 234527467,
+      "size": 260427695,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7b/53/15/7b5315f8-281a-53ad-eb40-193c4a3817d4/63e78f3c-042e-45c9-b4e1-9eec2403a393_vibes-iphone5.5-1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ea/95/8c/ea958c2a-4e9d-eca1-751b-50c14b1df39f/5dab3c74-a7cc-4360-af23-6c6019372dd0_vibes-iphone5.5-2.png/392x696bb.png",
@@ -123,11 +123,11 @@
       },
       "versions": [
         {
-          "version": "1.23",
-          "date": "2026-02-15",
+          "version": "1.24",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Not_Boring_Vibes_v1_23_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 234527467
+          "downloadURL": "https://telos.ftp.sh/ipas/Not_Boring_Vibes_v1_24_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 260427695
         }
       ],
       "category": "health-&-fitness"
@@ -57833,14 +57833,14 @@
       "bundleIdentifier": "com.risesci.nyx",
       "developerName": "Rise Science Inc",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "0.1.610",
-      "versionDate": "2026-07-12",
+      "version": "0.1.611",
+      "versionDate": "2026-07-16",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_610_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_611_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nRISE: Sleep Tracker\n\n---\nJoin over 10 million users! Become a better sleeper and morning person thanks to 100 years of sleep science with RISE, the only sleep tracker that also measures your sleep debt and energy levels.\n\nRecommended by the Sleep Foundation and trusted by teams in the NFL, MLB, and NBA, and top Fortune 500 companies, RISE makes it easy to improve your sleep and energy.\n\nBut RISE is more than a sleep and energy tracker. Users can access widgets, calendar integration, sleeping sounds, meditation guides, s",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/78/be/d178be1e-bd03-e7c3-4023-e8fb723b6db2/App-Icon-Glass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 130629668,
+      "size": 130594612,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/fe/b7/f5feb7b6-0c2d-3758-7ecd-21e4553cd2c7/a457da92-9a8d-48e8-8150-8f355011e70e_5.5_SS1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/32/1f/ee321f6f-dd06-60b8-533c-19d00ca084f9/6c0d466d-dd53-4e7e-a3e7-fe3bdb1f5f29_5.5_SS2.png/392x696bb.png",
@@ -57874,11 +57874,11 @@
       },
       "versions": [
         {
-          "version": "0.1.610",
-          "date": "2026-07-12",
+          "version": "0.1.611",
+          "date": "2026-07-16",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_610_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 130629668
+          "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_611_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 130594612
         }
       ],
       "category": "health-&-fitness"
