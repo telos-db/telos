@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.huckleberry-labs.app",
+    "com.christianselig.Apollo",
     "io.stampapp.Stamp",
     "com.jakemor.firness-ai",
-    "com.google.ios.youtubemusic",
-    "com.atebits.Tweetie2",
-    "phone.location.tracker"
+    "com.google.ios.youtubemusic"
   ],
   "apps": [
     {
@@ -4135,14 +4135,14 @@
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Christian Selig",
       "subtitle": "Tweaked with ApolloOpenInFix, ApolloReborn",
-      "version": "3.4.1",
-      "versionDate": "2026-07-16",
+      "version": "3.4.2",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.4.1.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.4.2.ipa",
       "localizedDescription": "Apollo for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 90341077,
+      "size": 90365958,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/392x696bb.png",
@@ -4169,11 +4169,11 @@
       },
       "versions": [
         {
-          "version": "3.4.1",
-          "date": "2026-07-16",
+          "version": "3.4.2",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.4.1.ipa",
-          "size": 90341077
+          "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.4.2.ipa",
+          "size": 90365958
         }
       ],
       "category": "news"
@@ -30744,14 +30744,14 @@
       "bundleIdentifier": "com.huckleberry-labs.app",
       "developerName": "Huckleberry Labs Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "0.9.300",
-      "versionDate": "2026-07-14",
+      "version": "0.9.301",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Huckleberry: Baby & Child-v0.9.300-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Huckleberry: Baby & Child-v0.9.301-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nHuckleberry: Baby & Child",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/07/fd/a407fd18-3a79-c961-af10-87e93788d6d9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 68656472,
+      "size": 68659940,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/b8/f1/edb8f1b5-b763-9a0c-d1d4-972ca4cc589f/1_iPhone_5.5_Intro_Best_Parents_Badge.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/f7/f8/42f7f8bd-047d-03ac-b831-1f58af098512/2_iPhone_5.5_Summary_Report.jpg/392x696bb.jpg",
@@ -30783,11 +30783,11 @@
       },
       "versions": [
         {
-          "version": "0.9.300",
-          "date": "2026-07-14",
+          "version": "0.9.301",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Huckleberry: Baby & Child-v0.9.300-riftysipas.ipa",
-          "size": 68656472
+          "downloadURL": "https://telos.ftp.sh/ipas/Huckleberry: Baby & Child-v0.9.301-riftysipas.ipa",
+          "size": 68659940
         }
       ],
       "category": "medical"
@@ -81742,7 +81742,7 @@
     {
       "title": "⚙️ Telos Update 7.17",
       "identifier": "telos-update-2026-07-17",
-      "caption": "52 Apps Updated:\n• 14 Music\n• 8 News\n• 4 Lifestyle\n• 4 Photo & Video\n• 4 Social Networking\n• 4 Games\n• 4 Health & Fitness\n• 2 Food & Drink\n• 2 Productivity\n• 2 Utilities\n• 2 Finance\n• 2 Sports",
+      "caption": "62 Apps Updated:\n• 16 News\n• 12 Music\n• 4 Lifestyle\n• 4 Photo & Video\n• 4 Social Networking\n• 4 Games\n• 4 Health & Fitness\n• 4 Medical\n• 2 Food & Drink\n• 2 Productivity\n• 2 Utilities\n• 2 Finance\n• 2 Sports",
       "date": "2026-07-17",
       "tintColor": "#02433b",
       "notify": true,
