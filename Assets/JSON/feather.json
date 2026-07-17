@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.media720.offlinegames",
-    "com.pixite.pigment",
-    "com.photoeditor.polish",
-    "com.spotify.client",
-    "com.pungme.combyne"
+    "com.glucobit.cravingBuster.CravingBuster",
+    "com.frameoneapps.Crsel",
+    "com.offlinemusic",
+    "com.ulisesolave.Fitia",
+    "com.media720.offlinegames"
   ],
   "apps": [
     {
@@ -15383,14 +15383,14 @@
       "bundleIdentifier": "com.frameoneapps.Crsel",
       "developerName": "Crsel Sp. z o.o.",
       "subtitle": "Tweaked with Crsel, blatantsPatch",
-      "version": "1.4.3",
-      "versionDate": "2026-07-12",
+      "version": "1.4.4",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: Crsel, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_4_3_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_4_4_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Crsel, blatantsPatch\n\nCrsel: Carousel, Collage Maker\n\n---\nCrsel is the all-in-one app for creating aesthetic Instagram carousels, collages, stories, and Reels covers. Designed for creators who care about storytelling and style.\n\n• Use our seamless Instagram Carousel Maker. Design multi-slide posts that connect visually. Align elements across frames and preview the full swipe effect. Perfect for photo series, lookbooks, tutorials, or storytelling posts.\n\n•From clean, minimal layouts to bold, layered collages, Crsel gives you everything you need to desig",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/74/2d/50742dab-b3a2-e88b-f27c-b868901215c6/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 117544319,
+      "size": 117666427,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -15404,11 +15404,11 @@
       },
       "versions": [
         {
-          "version": "1.4.3",
-          "date": "2026-07-12",
+          "version": "1.4.4",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: Crsel, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_4_3_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 117544319
+          "downloadURL": "https://telos.ftp.sh/ipas/Crsel_Carousel,_Collage_Maker_v1_4_4_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 117666427
         }
       ],
       "category": "photo-&-video"
@@ -23505,14 +23505,14 @@
       "bundleIdentifier": "com.ulisesolave.Fitia",
       "developerName": "Nutrition Technologies",
       "subtitle": "Tweaked with Fitia, blatantsPatch",
-      "version": "23.3",
-      "versionDate": "2026-07-14",
+      "version": "24.0",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_2_3_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v24_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Fitia, blatantsPatch\n\nFitia: Calorie Counter & Diet\n\n---\nTrusted by 10+ million users and rated 4.9/5.0 stars\n\n • The fastest & most accurate calorie counter\n • Track calories by photo, voice, or typing (like notes)\n • Personalized meal plans for weight loss or muscle gain\n • AI coach that adapts to your progress\n • Grocery list, recipes & smart food logging\n • Weight, body fat & measurement tracking\n • Intermittent fasting tracker\n • Syncs with Apple Health and third party apps\n\nWHY FITIA WORKS FOR WEIGHT LOSS OR MUSCLE GAIN\n• Fitia creates a plan th",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/47/d4/b547d4cc-44d3-6dc9-ef04-35495fc25ce1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 130018382,
+      "size": 131712772,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -23539,11 +23539,11 @@
       },
       "versions": [
         {
-          "version": "23.3",
-          "date": "2026-07-14",
+          "version": "24.0",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v23_2_3_Subscription_Unlocked_blatant.ipa",
-          "size": 130018382
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitia_Calorie_Counter_&_Diet_v24_0_Subscription_Unlocked_blatant.ipa",
+          "size": 131712772
         }
       ],
       "category": "health-&-fitness"
@@ -47509,14 +47509,14 @@
       "bundleIdentifier": "com.offlinemusic",
       "developerName": "Md Zakir Hossain",
       "subtitle": "Tweaked with OfflineMusicPlayer, blatantsPatch",
-      "version": "3.8.8",
-      "versionDate": "2026-07-07",
+      "version": "3.8.9",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.8 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.9 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nOffline Music Player\n\n---\nImport your favorite Music and Play anywhere! Listen OFFLINE, No LIMITS!\n\nMAJOR FEATURES-\n\n● The easiest way to play offline music.\n● Save music for offline access.\n● Play offline–no internet or WiFi needed.\n● Easily transfer tracks to iPhone, iPad, and iPod touch.\n● Almost all the popular format is supported.\n● .Mp3,.Flac,.wav, .caf, .wav, .aac etc.\n● Add music to your favorite playlist.\n● Beautiful design.\n● Headphone control.\n● Create & manage playlists.\n● Powerful music player.\n● Equalizer.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/51/53/87515399-6a29-ec1c-2a5f-a63319e3d98f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 97301703,
+      "size": 102741399,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/74/3d/e0743d5f-5903-ff53-ac44-b4b859a53051/14112d4b-9e03-402e-b9d0-0f90e8c8cabb_iPhone_screenshot.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/f7/4f/37f74f82-c6bf-7eb7-7b76-1c48717e0d22/637cd3d6-5191-4d9f-be32-400fdd95d0d0_iPhone_screenshot1.png/392x696bb.png",
@@ -47545,11 +47545,11 @@
       },
       "versions": [
         {
-          "version": "3.8.8",
-          "date": "2026-07-07",
+          "version": "3.8.9",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.8 Pro Unlocked blatant Patched.ipa",
-          "size": 97301703
+          "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.9 Pro Unlocked blatant Patched.ipa",
+          "size": 102741399
         }
       ],
       "category": "music"
@@ -56963,14 +56963,14 @@
       "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
       "developerName": "Glucobit Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.9.77",
-      "versionDate": "2026-07-15",
+      "version": "3.9.78",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.77-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.78-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nReframe: Drink Less & Thrive\n\n---\nReframe is the #1 alcohol reduction app, built to help you drink less and live more. Whether your goal is to cut back or quit drinking entirely, Reframe’s neuroscience approach can help you change the way alcohol shows up in your life.\n\nWith a core 160-day, evidence-based, education program, progress tracking, a private community, and a multitude of tools (think meditations, games, and more!), you’ve got everything you need to change your relationship with booze at the click of a button.\n\nNeed e",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/3c/db/653cdb99-f52b-5d20-2233-b839cb06a175/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 245529726,
+      "size": 248027340,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -56998,11 +56998,11 @@
       },
       "versions": [
         {
-          "version": "3.9.77",
-          "date": "2026-07-15",
+          "version": "3.9.78",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.77-riftysipas.ipa",
-          "size": 245529726
+          "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.78-riftysipas.ipa",
+          "size": 248027340
         }
       ],
       "category": "health-&-fitness"
