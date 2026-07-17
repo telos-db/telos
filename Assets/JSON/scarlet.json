@@ -21606,12 +21606,12 @@
       "bundleIdentifier": "com.genau.JournalCircle",
       "developerName": "Genau Factory",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nJournalCircle: Diary & Tracker\n\n---\nDiscover JournalCircle, a journaling app featured on the App Store across multiple regions. JournalCircle combines AI-powered journaling, voice notes, mood tracking, and entry analysis to help you record your daily life with clarity. Users often mention that the clean, beautiful design makes them want to journal more consistently.\n\nJournalCircle is a journaling and life log app designed to manage your diary, mood, routines, goals, and daily records in one place.\n\nAI-powered journaling tools\nJour",
-      "version": "3.4.7",
-      "versionDate": "2026-07-15T22:07:23-00:00",
-      "versionDescription": "Build 4 from @riftysIPAlibrary",
-      "size": 13554429,
+      "version": "3.4.8",
+      "versionDate": "2026-07-17T03:25:43-00:00",
+      "versionDescription": "Build 1 from @riftysIPAlibrary",
+      "size": 13560739,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/e6/7a/f6e67a82-2c01-5285-67e1-64a7a14cd9c4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.7-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/JournalCircle: Diary & Tracker-v3.4.8-riftysipas.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -21624,7 +21624,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "JournalCircle: Diary & Tracker-v3.4.7-riftysipas.ipa"
+        "originalFile": "JournalCircle: Diary & Tracker-v3.4.8-riftysipas.ipa"
       }
     },
     {
@@ -33927,13 +33927,13 @@
       "name": "Premiere",
       "bundleIdentifier": "com.adobe.premiere.ios",
       "developerName": "Adobe Inc.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AdobePremiere, FilePickerFix, blatantsPatch\n\nAdobe Premiere AI Video Editor\n\n---\nEffortless editing. Total control. Meet the fast, free, and focused mobile video editing app that's powerful enough for any idea, yet simple enough for anyone to use. Edit videos from wherever you are, with no ads or watermarks. Premiere offers unmatched speed on a precise multi-track timeline and studio-quality audio featuring crystal clear voice recordings and perfectly timed AI sound effects -- plus Firefly-powered visuals to create stand out videos.\n\nTell your story with unique, scroll-stopp",
-      "version": "26.15.0",
-      "versionDate": "2026-06-24T00:28:24-00:00",
-      "versionDescription": "Build 29 from @blatants",
-      "size": 68309770,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/02/2f/34022f22-aefd-ebb9-8b1a-1d045924eb92/AppIcon_Premiere-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Premiere_AI_Video_Editor_v26_15_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AdobePremiere, FilePickerFix, blatantsPatch\n\nAdobe Premiere AI Video Editor\n\n---\nAdobe Premiere mobile brings you effortless video editing with total control. Meet the fast, free, and focused AI video editor that's powerful enough for any idea, yet simple enough for anyone to use. Enjoy a video editor without ads or watermarks for quick and seamless content creation. Get unmatched speed on a precise multi-track timeline, and studio-quality audio with crystal clear voice recordings.\n\nCreate stand out video edits to share on TikTok, YouTube Shorts, Instagram Reels, and Faceboo",
+      "version": "26.15.1",
+      "versionDate": "2026-07-17T03:25:11-00:00",
+      "versionDescription": "Build 2 from @blatants",
+      "size": 75694242,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/91/10/d49110b5-9361-3de9-782f-8c5271e6d126/AppIcon_Premiere-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Premiere_AI_Video_Editor_v26_15_1_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
@@ -33946,7 +33946,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Adobe_Premiere_AI_Video_Editor_v26_15_0_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Adobe_Premiere_AI_Video_Editor_v26_15_1_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
