@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.tr.paraphrasingtool.rewritertool.textrewriter",
     "com.relentlessco.zesty",
     "com.genau.JournalCircle",
     "com.adobe.premiere.ios",
-    "com.unofficialcalculators.payplan",
-    "com.facebook.Facebook"
+    "com.unofficialcalculators.payplan"
   ],
   "apps": [
     {
@@ -49030,14 +49030,14 @@
       "bundleIdentifier": "com.tr.paraphrasingtool.rewritertool.textrewriter",
       "developerName": "talha rehman",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "1.7.0",
-      "versionDate": "2026-07-07",
+      "version": "1.7.1",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Paraphrasing Tool - Paraphrase-v1.7.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Paraphrasing Tool - Paraphrase-v1.7.1-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nParaphrasing Tool - Paraphrase",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/be/02/f2be02d7-1365-42f9-7ebb-c55b00b267ea/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 11009739,
+      "size": 11543153,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -49052,11 +49052,11 @@
       },
       "versions": [
         {
-          "version": "1.7.0",
-          "date": "2026-07-07",
+          "version": "1.7.1",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Paraphrasing Tool - Paraphrase-v1.7.0-riftysipas.ipa",
-          "size": 11009739
+          "downloadURL": "https://telos.ftp.sh/ipas/Paraphrasing Tool - Paraphrase-v1.7.1-riftysipas.ipa",
+          "size": 11543153
         }
       ],
       "category": "productivity"
@@ -81763,7 +81763,7 @@
     {
       "title": "⚙️ Telos Update 7.17",
       "identifier": "telos-update-2026-07-17",
-      "caption": "12 Apps Updated:\n• 2 Food & Drink\n• 2 Utilities\n• 2 Lifestyle\n• 2 Photo & Video\n• 2 Finance\n• 2 Social Networking",
+      "caption": "16 Apps Updated:\n• 4 Productivity\n• 2 Food & Drink\n• 2 Utilities\n• 2 Lifestyle\n• 2 Photo & Video\n• 2 Finance\n• 2 Social Networking",
       "date": "2026-07-17",
       "tintColor": "#02433b",
       "notify": true,
