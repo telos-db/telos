@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.pungme.combyne",
+    "app.monelyze.ToDo",
     "com.huckleberry-labs.app",
     "com.christianselig.Apollo",
-    "io.stampapp.Stamp",
-    "com.jakemor.firness-ai",
-    "com.google.ios.youtubemusic"
+    "io.stampapp.Stamp"
   ],
   "apps": [
     {
@@ -14598,20 +14598,20 @@
       "bundleIdentifier": "com.pungme.combyne",
       "developerName": "combyne GmbH",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "8.7.1",
-      "versionDate": "2026-06-24",
+      "version": "8.8.1",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Combyne - your perfect Outfit-v8.7.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Combyne - your perfect Outfit-v8.8.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nCombyne - your perfect Outfit\n\n---\nCombine your perfect outfit in no time. Be inspired by your style peers, discover the latest fashion trends and find your new favourite items from over 800 brands and online shops. Share them with your followers and get their instant feedback.\n\ncombyne is creativity\nFind your individual look by combining all items in our unique combyner, your personal virtual dressing room. Whether you're looking for tops, dresses, shoes, jeans, skirts, accessories, etc, you'll find them in over 35 categories. S",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/4c/54/054c5401-8afa-fef5-818b-ceaba2ee95bf/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/ba/eb/f6baebe2-4c40-0fe0-0186-800ebb7459f5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 58129344,
+      "size": 58178334,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/15/78/75/15787554-0946-bcde-2f47-35415875631c/38a71243-8f1d-4010-8700-85eae20ce3f1_ios-img-5.5-1.jpeg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ac/ce/9e/acce9e59-3d40-2907-9ced-5a7c17948895/cc6be16b-62d3-4db1-9719-0c539a1d8470_ios-img-5.5-2.jpeg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7e/2a/8e/7e2a8e76-747d-11e0-4def-3974f42064d6/166d29da-a896-4030-b237-9e01a5b981d7_03.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/5b/b7/7a/5bb77a04-0b11-50d5-7940-fa9d571d0ad0/2cdf6fc7-1f19-4b4a-9cf5-3074ae18908b_04.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/38/d0/e8/38d0e80e-9a62-c9b8-deb4-e33b6b3fe5f6/875b3c82-98bd-41f4-a46b-e46a93de0f80_05.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/3f/5c/9d3f5c6c-eaab-9ef5-c3c1-8b14fdc04b66/38a71243-8f1d-4010-8700-85eae20ce3f1_ios-img-5.5-1.jpeg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/52/d2/c552d2f7-372d-fee5-7b9a-f3244ac7d343/cc6be16b-62d3-4db1-9719-0c539a1d8470_ios-img-5.5-2.jpeg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/84/64/7d846400-de26-0ea4-a2db-5b8f8b0f25b8/166d29da-a896-4030-b237-9e01a5b981d7_03.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/e4/ad/0ee4ad55-2404-4ff8-8a6a-5f96dece49d5/2cdf6fc7-1f19-4b4a-9cf5-3074ae18908b_04.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/18/cc/6918ccbc-20a1-c4f3-8efb-1a892a8e4ddd/875b3c82-98bd-41f4-a46b-e46a93de0f80_05.png/392x696bb.png"
       ],
       "appPermissions": {
         "entitlements": [
@@ -14632,11 +14632,11 @@
       },
       "versions": [
         {
-          "version": "8.7.1",
-          "date": "2026-06-24",
+          "version": "8.8.1",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Combyne - your perfect Outfit-v8.7.1-riftysipas.ipa",
-          "size": 58129344
+          "downloadURL": "https://telos.ftp.sh/ipas/Combyne - your perfect Outfit-v8.8.1-riftysipas.ipa",
+          "size": 58178334
         }
       ],
       "category": "lifestyle"
@@ -72138,14 +72138,14 @@
       "bundleIdentifier": "app.monelyze.ToDo",
       "developerName": "Monelyze Inc.",
       "subtitle": "Tweaked with autoRevenuecat, fixipa1",
-      "version": "7.2.8",
-      "versionDate": "2026-07-14",
+      "version": "7.3.0",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.2.8-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.3.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nToDo\n\n---\n\"To Do List\" is a simple, intuitive reminder app that’s free to use, with no ads and no sign-up required! Manage everything from shopping lists to work tasks; see due dates at a glance with the calendar view and change dates quickly with drag and drop. Use widgets and notifications to stay on track, and customize the app with colors and icons.\n\nBuilt for iOS, iPadOS, and macOS, it delivers smooth performance and a beautiful design.\n\nEven in the free version, \"To Do List\" shows no ads and perform",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/d9/ff/02d9ff4f-9331-f5b6-7189-48aebd29fd0d/ToDo-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 27807186,
+      "size": 27852391,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -72160,11 +72160,11 @@
       },
       "versions": [
         {
-          "version": "7.2.8",
-          "date": "2026-07-14",
+          "version": "7.3.0",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.2.8-riftysipas.ipa",
-          "size": 27807186
+          "downloadURL": "https://telos.ftp.sh/ipas/ToDo-v7.3.0-riftysipas.ipa",
+          "size": 27852391
         }
       ],
       "category": "productivity"
