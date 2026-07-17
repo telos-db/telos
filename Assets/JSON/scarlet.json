@@ -46235,6 +46235,58 @@
       }
     },
     {
+      "name": "Twitter",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "X Corp.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DLTwitter, FixTwitterLogin, TWIGalaxy, _by_iosdecrypted_[sideloadKeychainFix]\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "version": "12.9",
+      "versionDate": "2026-07-17T14:50:49-00:00",
+      "versionDescription": "Build 10 from @thescholarslounge",
+      "size": 234042787,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]XX_12.9_DL_NF.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "[TG@i_osd]XX_12.9_DL_NF.ipa"
+      }
+    },
+    {
+      "name": "Twitter [BHTwitter]",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "X Corp.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "version": "12.9",
+      "versionDate": "2026-07-17T14:58:01-00:00",
+      "versionDescription": "Build 10 from @thescholarslounge",
+      "size": 230417687,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]XX_12.9_BH_NF.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "[TG@i_osd]XX_12.9_BH_NF.ipa"
+      }
+    },
+    {
       "name": "Twitter [FreeBird]",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X Corp.",
@@ -49826,68 +49878,16 @@
       }
     },
     {
-      "name": "X",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "X Corp.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DLTwitter, TWIGalaxy, TwitDate, _by_iosdecrypted_[sideloadKeychainFix]\n\nReply via Web, Downloads, and DMs working\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
-      "version": "12.3",
-      "versionDate": "2026-06-29T18:47:30-00:00",
-      "versionDescription": "Build 10 from @thescholarslounge",
-      "size": 226013546,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/9f/e1/889fe148-e8a2-72ba-508d-2d945b3c6537/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/X_12.3_DLTwitter 2.17_TWIGalaxy_1.13.ipa",
-      "minOSVersion": "15.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@thescholarslounge",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "X_12.3_DLTwitter 2.17_TWIGalaxy_1.13.ipa"
-      }
-    },
-    {
-      "name": "X [BHTwitter]",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "X Corp.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BHTwitter, CydiaSubstrate, TWIGalaxy, TwitDate, _by_iosdecrypted_[sideloadKeychainFix]\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
-      "version": "12.5",
-      "versionDate": "2026-07-01T20:58:18-00:00",
-      "versionDescription": "Build 17 from @thescholarslounge",
-      "size": 488902441,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/9f/e1/889fe148-e8a2-72ba-508d-2d945b3c6537/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/X_12.5_1782925260.ipa",
-      "minOSVersion": "15.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@thescholarslounge",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "X_12.5_1782925260.ipa"
-      }
-    },
-    {
       "name": "X [NeoFreeBird]",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X Corp.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: DLTwitter, _by_iosdecrypted_[sideloadKeychainFix], zxPluginsInject\n\nBuilds of Twitter and X 😋\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
-      "version": "12.1",
-      "versionDate": "2026-06-24T18:02:02-00:00",
-      "versionDescription": "Build 11 from @thescholarslounge",
-      "size": 232926912,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/9f/e1/889fe148-e8a2-72ba-508d-2d945b3c6537/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]XX_12.1_DL_XX.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DLTwitter, FixTwitterLogin, TWIGalaxy, _by_iosdecrypted_[sideloadKeychainFix]\n\nBuilds of Twitter and X 🕊️\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "version": "12.9",
+      "versionDate": "2026-07-17T14:46:14-00:00",
+      "versionDescription": "Build 10 from @thescholarslounge",
+      "size": 228958756,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]XX_12.9_DL_XX.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -49900,7 +49900,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "[TG@i_osd]XX_12.1_DL_XX.ipa"
+        "originalFile": "[TG@i_osd]XX_12.9_DL_XX.ipa"
       }
     },
     {
@@ -50375,13 +50375,13 @@
       "name": "YouTube Music",
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Google",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMusicUltimate, blatantsPatch\n\nYTMusicUltimate\n\n---\nConnecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs",
-      "version": "9.26.2",
-      "versionDate": "2026-07-01T10:23:55-00:00",
-      "versionDescription": "Build 9.26.2 from @binnichtaktivsipas",
-      "size": 100227409,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/77/a5/c777a50a-7115-02c7-5987-c932b877fbcb/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/YouTube Music Ultimate 9.26.2.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, ReturnYouTubeMusicDislikes, VolumeBoostYT, YTMABConfig, YTMusicUltimate\n\n---\nConnecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs",
+      "version": "9.28.4",
+      "versionDate": "2026-07-17T15:02:08-00:00",
+      "versionDescription": "Build 9.28.4 from @thescholarslounge",
+      "size": 101181154,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/c9/1e/ccc91ed3-00e0-f7e1-0819-9446130656ae/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]YM_9.28.4_UP.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -50391,10 +50391,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
+        "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "YouTube Music Ultimate 9.26.2.ipa"
+        "originalFile": "[TG@i_osd]YM_9.28.4_UP.ipa"
       }
     },
     {
