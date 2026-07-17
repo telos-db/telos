@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.ketchapp.stack",
+    "com.rubygames.assassin",
+    "com.cococloudteam.cocosign",
     "com.footballaddicts.livescoreaddicts",
-    "com.mwm.guitartuner",
-    "com.bing.lyrics",
-    "com.tr.paraphrasingtool.rewritertool.textrewriter",
-    "com.relentlessco.zesty"
+    "com.mwm.guitartuner"
   ],
   "apps": [
     {
@@ -13817,18 +13817,18 @@
       "category": "education"
     },
     {
-      "name": "CoCoSign",
+      "name": "CoCoSign - Sidelix.vip",
       "bundleIdentifier": "com.cococloudteam.cocosign",
-      "developerName": "Moonbug Entertainment Ltd",
-      "subtitle": "CoCoSign for iOS",
+      "developerName": "Newell Communications LLC",
+      "subtitle": "Tweaked with CydiaSubstrate, nz2zi9s6zr_NabzClan_ye2peo",
       "version": "beta 0.4",
-      "versionDate": "2026-07-16",
-      "versionDescription": "Source: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Cocosign-beta 0.4.ipa",
-      "localizedDescription": "New signer app I been using",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/70/1e/9a701efb-2d23-80c8-0906-6f07fefbf4b5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "versionDate": "2026-07-17",
+      "versionDescription": "Tweaks: CydiaSubstrate, nz2zi9s6zr_NabzClan_ye2peo, nzn944q5nh_NabzClan_zqp7gj, nznfolere6_NabzClan_syui2w, nzo1mu4kyl_NabzClan_3g4fx2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/cocosign_vbeta-04.ipa",
+      "localizedDescription": "CoCoSign - Sidelix.vip for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/cd/26/7acd2621-5cd1-3f36-3656-b25fc58115e1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 17506816,
+      "size": 19157891,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -13837,13 +13837,13 @@
       "versions": [
         {
           "version": "beta 0.4",
-          "date": "2026-07-16",
-          "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Cocosign-beta 0.4.ipa",
-          "size": 17506816
+          "date": "2026-07-17",
+          "localizedDescription": "Tweaks: CydiaSubstrate, nz2zi9s6zr_NabzClan_ye2peo, nzn944q5nh_NabzClan_zqp7gj, nznfolere6_NabzClan_syui2w, nzo1mu4kyl_NabzClan_3g4fx2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/cocosign_vbeta-04.ipa",
+          "size": 19157891
         }
       ],
-      "category": "education"
+      "category": "social-networking"
     },
     {
       "name": "COD Mobile",
@@ -30797,14 +30797,14 @@
       "bundleIdentifier": "com.rubygames.assassin",
       "developerName": "RUBY OYUN VE YAZILIM DANISMANLIK SANAYI TICARET ANONIM SIRKETI",
       "subtitle": "*Tweak:** Unlimited Gems, - Unlimited Coins, - No Ads | *Patched ✓**",
-      "version": "2.041",
-      "versionDate": "2026-06-12",
+      "version": "2.042",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, hunterassassin\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Hunter Assassin-v2.041-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Hunter Assassin-v2.042-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Unlimited Gems, - Unlimited Coins, - No Ads | *Patched ✓**\n\nHunter Assassin",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/a6/50/7fa650e4-b9b4-98cb-9846-41636d99febb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 118322238,
+      "size": 129724545,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/36/59/bc365948-f230-9daa-476f-de0c8d18d520/43844e4e-86ca-4a39-a70e-5b4a306d3ba9_HA_1242x2208_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/00/43/a8004303-b9e6-036b-3a64-b5257bbef754/c9bec5e5-886e-4406-afa5-d1ff6739449d_HA_1242x2208_2.png/392x696bb.png",
@@ -30826,11 +30826,11 @@
       },
       "versions": [
         {
-          "version": "2.041",
-          "date": "2026-05-21",
+          "version": "2.042",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, hunterassassin\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Hunter Assassin-v2.041-riftysipas.ipa",
-          "size": 118322238
+          "downloadURL": "https://telos.ftp.sh/ipas/Hunter Assassin-v2.042-riftysipas.ipa",
+          "size": 129724545
         }
       ],
       "category": "games"
@@ -64500,14 +64500,14 @@
       "bundleIdentifier": "com.ketchapp.stack",
       "developerName": "Ketchapp",
       "subtitle": "*Tweak:** No Ads | *Patched ✓**",
-      "version": "4.0.1",
-      "versionDate": "2026-07-15",
+      "version": "4.0.2",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Stack-v4.0.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stack-v4.0.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** No Ads | *Patched ✓**\n\nStack",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/8a/ab/338aab63-76d7-fcb2-e2d5-a615954ed96b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 83420665,
+      "size": 83426598,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/44/54/b0445444-53d0-1b2e-28d4-af18e2aa0351/mzl.jmnpdvov.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/e0/6e/f8e06e26-5ae7-68f5-e249-41be929866b9/mzl.lyhjsrys.png/392x696bb.png",
@@ -64530,11 +64530,11 @@
       },
       "versions": [
         {
-          "version": "4.0.1",
-          "date": "2026-07-15",
+          "version": "4.0.2",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Stack-v4.0.1-riftysipas.ipa",
-          "size": 83420665
+          "downloadURL": "https://telos.ftp.sh/ipas/Stack-v4.0.2-riftysipas.ipa",
+          "size": 83426598
         }
       ],
       "category": "games"
@@ -81763,7 +81763,7 @@
     {
       "title": "⚙️ Telos Update 7.17",
       "identifier": "telos-update-2026-07-17",
-      "caption": "26 Apps Updated:\n• 8 Music\n• 4 Sports\n• 2 Food & Drink\n• 2 Productivity\n• 2 Utilities\n• 2 Lifestyle\n• 2 Photo & Video\n• 2 Finance\n• 2 Social Networking",
+      "caption": "32 Apps Updated:\n• 8 Games\n• 6 Social Networking\n• 4 Music\n• 2 Food & Drink\n• 2 Productivity\n• 2 Utilities\n• 2 Lifestyle\n• 2 Photo & Video\n• 2 Finance\n• 2 Sports",
       "date": "2026-07-17",
       "tintColor": "#02433b",
       "notify": true,
