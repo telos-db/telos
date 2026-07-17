@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.tr.paraphrasingtool.rewritertool.textrewriter",
     "com.relentlessco.zesty",
     "com.genau.JournalCircle",
     "com.adobe.premiere.ios",
-    "com.unofficialcalculators.payplan",
-    "com.facebook.Facebook"
+    "com.unofficialcalculators.payplan"
   ],
   "apps": [
     {
@@ -49507,14 +49507,14 @@
       "bundleIdentifier": "com.tr.paraphrasingtool.rewritertool.textrewriter",
       "developerName": "talha rehman",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.7.0",
-      "versionDate": "2026-07-07",
+      "version": "1.7.1",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Paraphrasing Tool - Paraphrase-v1.7.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Paraphrasing Tool - Paraphrase-v1.7.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nParaphrasing Tool - Paraphrase\n\n---\nEnhance Your Writing with Unlimited AI Paraphrasing Modes!\nExperience the ultimate paraphrasing tool that redefines the way you write. Whether you're paraphrasing sentences, paragraphs, or entire articles, our app delivers impeccable results every time.\n\nWhy Choose Our AI Paraphrasing App?\nPowered by the latest artificial intelligence, our app ensures accurate and natural-sounding paraphrasing that goes beyond simple synonym replacement. It understands context and meaning, offering polished and",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/be/02/f2be02d7-1365-42f9-7ebb-c55b00b267ea/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 11009739,
+      "size": 11543153,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -49529,11 +49529,11 @@
       },
       "versions": [
         {
-          "version": "1.7.0",
-          "date": "2026-07-07",
+          "version": "1.7.1",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Paraphrasing Tool - Paraphrase-v1.7.0-riftysipas.ipa",
-          "size": 11009739
+          "downloadURL": "https://telos.ftp.sh/ipas/Paraphrasing Tool - Paraphrase-v1.7.1-riftysipas.ipa",
+          "size": 11543153
         }
       ],
       "category": "productivity"
