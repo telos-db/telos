@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.relentlessco.zesty",
     "com.genau.JournalCircle",
     "com.adobe.premiere.ios",
     "com.unofficialcalculators.payplan",
-    "com.facebook.Facebook",
-    "com.genau.MoneyCircle"
+    "com.facebook.Facebook"
   ],
   "apps": [
     {
@@ -77290,14 +77290,14 @@
       "bundleIdentifier": "com.relentlessco.zesty",
       "developerName": "Relentless",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "1.50",
-      "versionDate": "2026-06-19",
+      "version": "1.51",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyswechef, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/WeChef - Recipe Journal-v1.50-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/WeChef - Recipe Journal-v1.51-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nWeChef - Recipe Journal",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/25/10/1f2510d4-715b-8167-d567-7b7eff466661/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/e6/11/9ce61154-897d-a618-057e-e60e97aff5b8/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 271085522,
+      "size": 271115459,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -77318,11 +77318,11 @@
       },
       "versions": [
         {
-          "version": "1.50",
-          "date": "2026-06-19",
+          "version": "1.51",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyswechef, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/WeChef - Recipe Journal-v1.50-riftysipas.ipa",
-          "size": 271085522
+          "downloadURL": "https://telos.ftp.sh/ipas/WeChef - Recipe Journal-v1.51-riftysipas.ipa",
+          "size": 271115459
         }
       ],
       "category": "food-&-drink"
@@ -81763,11 +81763,11 @@
     {
       "title": "⚙️ Telos Update 7.17",
       "identifier": "telos-update-2026-07-17",
-      "caption": "14 Apps Updated:\n• 4 Lifestyle\n• 4 Photo & Video\n• 2 Utilities\n• 2 Finance\n• 2 Social Networking",
+      "caption": "14 Apps Updated:\n• 4 Food & Drink\n• 2 Utilities\n• 2 Lifestyle\n• 2 Photo & Video\n• 2 Finance\n• 2 Social Networking",
       "date": "2026-07-17",
       "tintColor": "#02433b",
       "notify": true,
-      "appID": "com.genau.MoneyCircle"
+      "appID": "com.relentlessco.zesty"
     },
     {
       "title": "⚙️ Telos Update 7.16",
