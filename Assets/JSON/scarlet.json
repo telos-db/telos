@@ -2694,12 +2694,12 @@
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Christian Selig",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\n---\nApollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accom",
-      "version": "3.4.1",
-      "versionDate": "2026-07-16T16:19:28-00:00",
-      "versionDescription": "Build 292 from @thescholarslounge",
-      "size": 90341077,
+      "version": "3.4.2",
+      "versionDate": "2026-07-17T18:29:34-00:00",
+      "versionDescription": "Build 293 from @thescholarslounge",
+      "size": 90365958,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.4.1.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.4.2.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -2712,7 +2712,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Apollo-Reborn-3.4.1.ipa"
+        "originalFile": "Apollo-Reborn-3.4.2.ipa"
       }
     },
     {
@@ -19408,12 +19408,12 @@
       "bundleIdentifier": "com.huckleberry-labs.app",
       "developerName": "Huckleberry Labs Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nHuckleberry: Baby & Child\n\n---\nHuckleberry is your all-in-one parenting partner, proudly trusted by 5+ million families worldwide.\n\nFrom baby tracker to personalized guidance, our award-winning app helps you navigate sleep, feeding, milestones, and everything in between. Backed by a team of pediatric experts and powered by smart tools, Huckleberry supports each family’s unique journey. We turn restless nights into restful routines, making more space for everyday magic.\n\nTRUSTED SLEEP GUIDANCE & TRACKING\n\nYour baby's sleep and",
-      "version": "0.9.300",
-      "versionDate": "2026-07-14T04:24:40-00:00",
+      "version": "0.9.301",
+      "versionDate": "2026-07-17T18:32:53-00:00",
       "versionDescription": "Build 0.0.2 from @riftysIPAlibrary",
-      "size": 68656472,
+      "size": 68659940,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/07/fd/a407fd18-3a79-c961-af10-87e93788d6d9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Huckleberry: Baby & Child-v0.9.300-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Huckleberry: Baby & Child-v0.9.301-riftysipas.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -19426,7 +19426,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Huckleberry: Baby & Child-v0.9.300-riftysipas.ipa"
+        "originalFile": "Huckleberry: Baby & Child-v0.9.301-riftysipas.ipa"
       }
     },
     {
