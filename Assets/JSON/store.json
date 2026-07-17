@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.unofficialcalculators.payplan",
+    "com.facebook.Facebook",
     "com.genau.MoneyCircle",
     "com.saltycrackers.daygram",
-    "com.fifteenjugglers.solarwatch",
-    "com.polywise.weekly",
-    "com.andyworks.vibes"
+    "com.fifteenjugglers.solarwatch"
   ],
   "apps": [
     {
@@ -7405,14 +7405,14 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "subtitle": "*Tweak:** Full Version Unlocked | *Patched ✓**",
-      "version": "4.2.5",
-      "versionDate": "2026-07-15",
+      "version": "4.2.6",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.5-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.6-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Full Version Unlocked | *Patched ✓** | *Developer:** Bill Tracker Pro, Inc.\n\nBill Tracker Pro",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/61/b5/8a61b500-b5a9-ea91-7776-d63a1d2d9a18/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 155508305,
+      "size": 155550152,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/df/72/1cdf72bb-1d54-7a27-d6e4-e54ef4151c21/pr_source.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/ab/2c/f4ab2cef-41bd-f2bf-2980-f7910d3d3dd8/pr_source.png/552x414bb.png",
@@ -7441,11 +7441,11 @@
       },
       "versions": [
         {
-          "version": "4.2.5",
-          "date": "2026-07-15",
+          "version": "4.2.6",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.5-riftysipas.ipa",
-          "size": 155508305
+          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.6-riftysipas.ipa",
+          "size": 155550152
         }
       ],
       "category": "finance"
@@ -21353,14 +21353,14 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Meta Platforms, Inc.",
       "subtitle": "Facebook for iOS",
-      "version": "569.0.0",
-      "versionDate": "2026-07-12",
+      "version": "570.0.0",
+      "versionDate": "2026-07-17",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.facebook.Facebook-569.0.0-eeveedecrypter.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.facebook.Facebook-570.0.0-eeveedecrypter.ipa",
       "localizedDescription": "Facebook for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/77/75/3d7775af-f82f-6eb2-3e03-49ec4c77dd2b/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 222242316,
+      "size": 222609705,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/c0/fa/e2c0faf7-2613-0ead-3c3a-193d992e3930/f254967c-6ef9-4cc6-b4bf-e89cf016337c_1-iOS-5.5-Home.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/d9/9b/6ad99bf8-e769-1fd2-0ac7-f9f0553978a2/c795c58d-ec37-463c-9ab9-ba0b8bc00ddd_2-iOS-5.5-Reels.png/392x696bb.png",
@@ -21407,11 +21407,11 @@
       },
       "versions": [
         {
-          "version": "569.0.0",
-          "date": "2026-07-07",
+          "version": "570.0.0",
+          "date": "2026-07-17",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.facebook.Facebook-569.0.0-eeveedecrypter.ipa",
-          "size": 222242316
+          "downloadURL": "https://telos.ftp.sh/ipas/com.facebook.Facebook-570.0.0-eeveedecrypter.ipa",
+          "size": 222609705
         }
       ],
       "category": "social-networking"
@@ -81763,7 +81763,7 @@
     {
       "title": "⚙️ Telos Update 7.17",
       "identifier": "telos-update-2026-07-17",
-      "caption": "4 Apps Updated:\n• 4 Utilities",
+      "caption": "10 Apps Updated:\n• 4 Finance\n• 4 Social Networking\n• 2 Utilities",
       "date": "2026-07-17",
       "tintColor": "#02433b",
       "notify": true,
