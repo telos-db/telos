@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.inakitajes.Calisthenial",
+    "com.soundcloud.TouchApp",
     "com.ketchapp.stack",
     "com.rubygames.assassin",
-    "com.cococloudteam.cocosign",
-    "com.footballaddicts.livescoreaddicts",
-    "com.mwm.guitartuner"
+    "com.cococloudteam.cocosign"
   ],
   "apps": [
     {
@@ -10313,14 +10313,14 @@
       "bundleIdentifier": "com.inakitajes.Calisthenial",
       "developerName": "Calisteniapp, Sociedad Limitada",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "26.5.1",
-      "versionDate": "2026-06-12",
+      "version": "26.7.0",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Calisteniapp - Calisthenics-v26.5.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Calisteniapp - Calisthenics-v26.7.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓** | *Developer:** Calisteniapp, Sociedad Limitada\n\nCalisteniapp - Calisthenics",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/41/81/554181ae-d61e-90da-49c5-211983ce6885/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/47/45/dd47451c-c98b-7dad-7b83-617b3fab84c0/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 40821429,
+      "size": 41832221,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -10343,11 +10343,11 @@
       },
       "versions": [
         {
-          "version": "26.5.1",
-          "date": "2026-06-12",
+          "version": "26.7.0",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Calisteniapp - Calisthenics-v26.5.1-riftysipas.ipa",
-          "size": 40821429
+          "downloadURL": "https://telos.ftp.sh/ipas/Calisteniapp - Calisthenics-v26.7.0-riftysipas.ipa",
+          "size": 41832221
         }
       ],
       "category": "health-&-fitness"
@@ -63060,14 +63060,14 @@
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "developerName": "SoundCloud Global Limited & Co KG",
       "subtitle": "Go+ Unlocked",
-      "version": "8.68.0",
-      "versionDate": "2026-07-06",
+      "version": "8.69.0",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: SoundCloudPlus, substrate, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.68.0 NoAds.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.69.0 NoAds.ipa",
       "localizedDescription": "Go+ Unlocked\n\nAppstore link : SoundCloud",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/c1/2b/cfc12be5-fd1e-58da-d9c9-cfe189b73d64/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 120853125,
+      "size": 121048901,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/0e/9a/790e9a39-985d-ec35-8d6b-135fc84523da/ccfb3f9a-137d-4905-827f-40c6d6726ab1_iPad_Pro_1A.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/f1/7b/58f17b47-e6f8-86a6-276c-f46dd2f735a0/57293b7c-1d2e-4ccd-a634-892d4af7f8a1_iPad_Pro_2A.png/576x768bb.png",
@@ -63122,11 +63122,11 @@
       },
       "versions": [
         {
-          "version": "8.68.0",
-          "date": "2026-07-06",
+          "version": "8.69.0",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: SoundCloudPlus, substrate, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.68.0 NoAds.ipa",
-          "size": 120853125
+          "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.69.0 NoAds.ipa",
+          "size": 121048901
         }
       ],
       "category": "music"
@@ -81763,7 +81763,7 @@
     {
       "title": "⚙️ Telos Update 7.17",
       "identifier": "telos-update-2026-07-17",
-      "caption": "32 Apps Updated:\n• 8 Games\n• 6 Social Networking\n• 4 Music\n• 2 Food & Drink\n• 2 Productivity\n• 2 Utilities\n• 2 Lifestyle\n• 2 Photo & Video\n• 2 Finance\n• 2 Sports",
+      "caption": "34 Apps Updated:\n• 8 Music\n• 4 Social Networking\n• 4 Games\n• 4 Health & Fitness\n• 2 Food & Drink\n• 2 Productivity\n• 2 Utilities\n• 2 Lifestyle\n• 2 Photo & Video\n• 2 Finance\n• 2 Sports",
       "date": "2026-07-17",
       "tintColor": "#02433b",
       "notify": true,
