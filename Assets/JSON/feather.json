@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "io.stampapp.Stamp",
     "com.jakemor.firness-ai",
     "com.google.ios.youtubemusic",
     "com.atebits.Tweetie2",
-    "phone.location.tracker",
-    "com.skylum.luminaripad"
+    "phone.location.tracker"
   ],
   "apps": [
     {
@@ -26099,14 +26099,14 @@
       "bundleIdentifier": "io.stampapp.Stamp",
       "developerName": "Hernas OÜ",
       "subtitle": "Tweaked with FreeYourMusic, blatantsPatch",
-      "version": "9.29.0",
-      "versionDate": "2026-06-19",
+      "version": "9.31.0",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: FreeYourMusic, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/FreeYourMusic_Move_Playlists_v9_29_0_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FreeYourMusic, blatantsPatch\n\nFreeYourMusic: Move Playlists\n\n---\nTransfer playlists. Move your music. Free your music library.\n\nFree Your Music is the fastest and easiest way to transfer playlists and perform music transfers across all major streaming platforms. Whether you’re switching from Spotify to Apple Music, Apple Music to Spotify, or syncing songs across TIDAL, Amazon Music, YouTube Music, and SoundCloud—we make your move seamless.\n\nBuilt your playlists over months or years? Don’t start over. With Free Your Music, you can transfer music, import playli",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/e5/57/3ee557be-c209-d92b-7b05-bb7eb7f55afc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/FreeYourMusic_Move_Playlists_v9_31_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FreeYourMusic, blatantsPatch\n\nFreeYourMusic: Move Playlists\n\n---\nSwitching music apps? Don't leave your playlists behind.\n\nFree Your Music transfers your playlists, albums, and liked songs between all major streaming services. Move from Spotify to Apple Music, Apple Music to Spotify, YouTube Music to TIDAL — any direction, in minutes.\n\n◉ How it works:\n1. Connect your current and new music service\n2. Pick the playlists and albums you want to move\n3. We match every song and start the transfer\n4. Review the results — see exactly what moved and fix anything that",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/41/de/6041de84-be2e-e716-0c81-badcf7b8d58f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 27821351,
+      "size": 27844496,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/6d/25/cc6d2554-9194-029d-04a4-80d5fc522eaa/ios-01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/12/7b/35127bd3-8bc8-b818-fc41-66f2d53253bb/ios-02.png/392x696bb.png",
@@ -26128,11 +26128,11 @@
       },
       "versions": [
         {
-          "version": "9.29.0",
-          "date": "2026-06-19",
+          "version": "9.31.0",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: FreeYourMusic, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/FreeYourMusic_Move_Playlists_v9_29_0_Subscription_Unlocked_blatant.ipa",
-          "size": 27821351
+          "downloadURL": "https://telos.ftp.sh/ipas/FreeYourMusic_Move_Playlists_v9_31_0_Subscription_Unlocked_blatant.ipa",
+          "size": 27844496
         }
       ],
       "category": "music"
