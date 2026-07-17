@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.jakemor.firness-ai",
     "com.google.ios.youtubemusic",
     "com.atebits.Tweetie2",
     "phone.location.tracker",
-    "com.skylum.luminaripad",
-    "com.inakitajes.Calisthenial"
+    "com.skylum.luminaripad"
   ],
   "apps": [
     {
@@ -23334,14 +23334,14 @@
       "bundleIdentifier": "com.jakemor.firness-ai",
       "developerName": "FitnessAI Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "21.1",
-      "versionDate": "2026-07-16",
+      "version": "21.2",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v21_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v21_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFitness AI Gym Workout Planner",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/73/da/d273dac3-c153-7587-45da-dbc5978240f4/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 71867765,
+      "size": 71963836,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -23369,11 +23369,11 @@
       },
       "versions": [
         {
-          "version": "21.1",
-          "date": "2026-07-16",
+          "version": "21.2",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v21_1_Subscription_Unlocked_blatant.ipa",
-          "size": 71867765
+          "downloadURL": "https://telos.ftp.sh/ipas/Fitness_AI_Gym_Workout_Planner_v21_2_Subscription_Unlocked_blatant.ipa",
+          "size": 71963836
         }
       ],
       "category": "health-&-fitness"
@@ -81742,7 +81742,7 @@
     {
       "title": "⚙️ Telos Update 7.17",
       "identifier": "telos-update-2026-07-17",
-      "caption": "46 Apps Updated:\n• 10 Music\n• 8 News\n• 4 Lifestyle\n• 4 Photo & Video\n• 4 Social Networking\n• 4 Games\n• 2 Food & Drink\n• 2 Productivity\n• 2 Utilities\n• 2 Finance\n• 2 Sports\n• 2 Health & Fitness",
+      "caption": "50 Apps Updated:\n• 10 Music\n• 8 News\n• 6 Health & Fitness\n• 4 Lifestyle\n• 4 Photo & Video\n• 4 Social Networking\n• 4 Games\n• 2 Food & Drink\n• 2 Productivity\n• 2 Utilities\n• 2 Finance\n• 2 Sports",
       "date": "2026-07-17",
       "tintColor": "#02433b",
       "notify": true,
