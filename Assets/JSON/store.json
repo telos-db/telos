@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.genau.MoneyCircle",
     "com.saltycrackers.daygram",
     "com.fifteenjugglers.solarwatch",
     "com.polywise.weekly",
-    "com.andyworks.vibes",
-    "com.risesci.nyx"
+    "com.andyworks.vibes"
   ],
   "apps": [
     {
@@ -42488,14 +42488,14 @@
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "Genau Factory",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "3.4.3",
-      "versionDate": "2026-07-10",
+      "version": "3.4.4",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.4-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nMoneyCircle: Spending,Expense",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/16/62/0d166286-c90c-055c-6fe7-a9828b8d86ac/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13990651,
+      "size": 13992052,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -42511,11 +42511,11 @@
       },
       "versions": [
         {
-          "version": "3.4.3",
-          "date": "2026-07-10",
+          "version": "3.4.4",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.3-riftysipas.ipa",
-          "size": 13990651
+          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.4-riftysipas.ipa",
+          "size": 13992052
         }
       ],
       "category": "utilities"
@@ -81761,11 +81761,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 7.17",
+      "identifier": "telos-update-2026-07-17",
+      "caption": "4 Apps Updated:\n• 4 Utilities",
+      "date": "2026-07-17",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "com.genau.MoneyCircle"
+    },
+    {
       "title": "⚙️ Telos Update 7.16",
       "identifier": "telos-update-2026-07-16",
       "caption": "116 Apps Updated:\n• 32 Photo & Video\n• 28 Health & Fitness\n• 8 Games\n• 8 Medical\n• 6 Utilities\n• 6 Education\n• 4 Lifestyle\n• 4 Reference\n• 4 News\n• 2 Productivity\n• 2 Finance\n• 2 Food & Drink\n• 2 Navigation\n• 2 Sports\n• 2 Graphics & Design\n• 2 Travel\n• 2 Weather",
       "date": "2026-07-16",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "org.reactjs.native.example.rootd"
     },
@@ -81774,7 +81783,7 @@
       "identifier": "telos-update-2026-07-15",
       "caption": "106 Apps Updated:\n• 18 Health & Fitness\n• 14 Photo & Video\n• 12 Education\n• 10 Productivity\n• 10 Lifestyle\n• 8 Games\n• 6 Reference\n• 6 Finance\n• 4 Entertainment\n• 4 Sports\n• 2 Graphics & Design\n• 2 Weather\n• 2 News\n• 2 Other\n• 2 Business\n• 2 Navigation\n• 2 Social Networking",
       "date": "2026-07-15",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.kingsoft.office.g.wpsoffice"
     },
@@ -81783,7 +81792,7 @@
       "identifier": "telos-update-2026-07-14",
       "caption": "98 Apps Updated:\n• 20 Health & Fitness\n• 16 Photo & Video\n• 16 Productivity\n• 12 Education\n• 6 Lifestyle\n• 4 Weather\n• 4 Navigation\n• 4 Music\n• 2 Games\n• 2 Developer Tools\n• 2 Medical\n• 2 Entertainment\n• 2 Sports\n• 2 Graphics & Design\n• 2 Utilities\n• 2 Food & Drink",
       "date": "2026-07-14",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.sporcle.party"
     },
@@ -81792,7 +81801,7 @@
       "identifier": "telos-update-2026-07-13",
       "caption": "104 Apps Updated:\n• 28 Photo & Video\n• 18 Education\n• 12 Health & Fitness\n• 10 Entertainment\n• 6 Utilities\n• 6 Music\n• 4 Productivity\n• 4 Business\n• 4 Lifestyle\n• 2 Games\n• 2 Weather\n• 2 Travel\n• 2 Sports\n• 2 Navigation\n• 2 News",
       "date": "2026-07-13",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "ai.polycam.polycam"
     },
@@ -81801,7 +81810,7 @@
       "identifier": "telos-update-2026-07-12",
       "caption": "30 Apps Updated:\n• 6 Photo & Video\n• 4 Travel\n• 2 Productivity\n• 2 Utilities\n• 2 Music\n• 2 Social Networking\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Sports\n• 2 Finance\n• 2 Health & Fitness\n• 2 News",
       "date": "2026-07-12",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.microsoft.PlannerMobile"
     },
@@ -81810,7 +81819,7 @@
       "identifier": "telos-update-2026-07-11",
       "caption": "46 Apps Updated:\n• 8 Entertainment\n• 8 Photo & Video\n• 6 Education\n• 4 Productivity\n• 4 Health & Fitness\n• 4 Games\n• 2 Finance\n• 2 Graphics & Design\n• 2 Utilities\n• 2 Business\n• 2 Music\n• 2 Lifestyle",
       "date": "2026-07-11",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "overlook.fing"
     },
@@ -81819,7 +81828,7 @@
       "identifier": "telos-update-2026-07-10",
       "caption": "88 Apps Updated:\n• 11 Health & Fitness\n• 10 Utilities\n• 10 Education\n• 8 Lifestyle\n• 8 Photo & Video\n• 6 Games\n• 6 Productivity\n• 4 Developer Tools\n• 4 Sports\n• 4 Reference\n• 4 Social Networking\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Business\n• 2 Music\n• 2 News\n• 2 Books\n• 1 Finance",
       "date": "2026-07-10",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.tuya.smartlife"
     },
@@ -81828,7 +81837,7 @@
       "identifier": "telos-update-2026-07-09",
       "caption": "76 Apps Updated:\n• 26 Photo & Video\n• 17 Health & Fitness\n• 10 Entertainment\n• 4 Medical\n• 4 Education\n• 4 Lifestyle\n• 4 Music\n• 2 Games\n• 2 Productivity\n• 2 Navigation\n• 1 Finance",
       "date": "2026-07-09",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.sublime.capture"
     },
@@ -81837,18 +81846,9 @@
       "identifier": "telos-update-2026-07-08",
       "caption": "84 Apps Updated:\n• 20 Photo & Video\n• 10 Games\n• 10 Health & Fitness\n• 6 Productivity\n• 6 Travel\n• 4 Education\n• 4 Utilities\n• 4 Lifestyle\n• 4 Navigation\n• 4 News\n• 2 Food & Drink\n• 2 Graphics & Design\n• 2 Weather\n• 2 Music\n• 2 Finance\n• 2 Business",
       "date": "2026-07-08",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "com.identification.plant"
-    },
-    {
-      "title": "⚙️ Telos Update 7.7",
-      "identifier": "telos-update-2026-07-07",
-      "caption": "108 Apps Updated:\n• 22 Health & Fitness\n• 16 Photo & Video\n• 14 Productivity\n• 10 Lifestyle\n• 6 Entertainment\n• 6 Music\n• 4 Developer Tools\n• 4 Business\n• 4 Utilities\n• 4 Games\n• 4 Food & Drink\n• 2 Weather\n• 2 Books\n• 2 Graphics & Design\n• 2 Finance\n• 2 Sports\n• 2 Navigation\n• 2 Education",
-      "date": "2026-07-07",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "nz.co.petesmith.moonphasefree"
+      "appID": "com.identification.plant"
     }
   ]
 }
