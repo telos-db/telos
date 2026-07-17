@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.genau.JournalCircle",
+    "com.adobe.premiere.ios",
     "com.unofficialcalculators.payplan",
     "com.facebook.Facebook",
-    "com.genau.MoneyCircle",
-    "com.saltycrackers.daygram",
-    "com.fifteenjugglers.solarwatch"
+    "com.genau.MoneyCircle"
   ],
   "apps": [
     {
@@ -53667,14 +53667,14 @@
       "bundleIdentifier": "com.adobe.premiere.ios",
       "developerName": "Adobe Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "26.15.0",
-      "versionDate": "2026-06-24",
+      "version": "26.15.1",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: AdobePremiere, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Premiere_AI_Video_Editor_v26_15_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Premiere_AI_Video_Editor_v26_15_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nAdobe Premiere AI Video Editor",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/02/2f/34022f22-aefd-ebb9-8b1a-1d045924eb92/AppIcon_Premiere-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/91/10/d49110b5-9361-3de9-782f-8c5271e6d126/AppIcon_Premiere-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 68309770,
+      "size": 75694242,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -53696,11 +53696,11 @@
       },
       "versions": [
         {
-          "version": "26.15.0",
-          "date": "2026-06-24",
+          "version": "26.15.1",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: AdobePremiere, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Premiere_AI_Video_Editor_v26_15_0_Subscription_Unlocked_blatant.ipa",
-          "size": 68309770
+          "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Premiere_AI_Video_Editor_v26_15_1_Subscription_Unlocked_blatant.ipa",
+          "size": 75694242
         }
       ],
       "category": "photo-&-video"
@@ -81763,7 +81763,7 @@
     {
       "title": "⚙️ Telos Update 7.17",
       "identifier": "telos-update-2026-07-17",
-      "caption": "6 Apps Updated:\n• 2 Utilities\n• 2 Finance\n• 2 Social Networking",
+      "caption": "14 Apps Updated:\n• 4 Lifestyle\n• 4 Photo & Video\n• 2 Utilities\n• 2 Finance\n• 2 Social Networking",
       "date": "2026-07-17",
       "tintColor": "#02433b",
       "notify": true,
