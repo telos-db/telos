@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.pungme.combyne",
-    "app.monelyze.ToDo",
-    "com.huckleberry-labs.app",
-    "com.christianselig.Apollo",
-    "io.stampapp.Stamp"
+    "com.media720.offlinegames",
+    "com.pixite.pigment",
+    "com.photoeditor.polish",
+    "com.spotify.client",
+    "com.pungme.combyne"
   ],
   "apps": [
     {
@@ -47468,14 +47468,14 @@
       "bundleIdentifier": "com.media720.offlinegames",
       "developerName": "720 Media LLC",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.60",
-      "versionDate": "2026-06-30",
+      "version": "1.61",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofflinegamesnowififun\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Offline Games No WiFi Fun 100+-v1.60-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Offline Games No WiFi Fun 100+-v1.61-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofflinegamesnowififun\n\nOffline Games No WiFi Fun 100+\n\n---\nOffline Games: Dive into Endless Fun without Wi-Fi!\n\nStep into a universe of gaming diversity, all available without an internet connection! With \"Offline Games,\" dive deep into an expansive collection, from brain-teasing puzzles and classic arcades to strategic board games and exciting card challenges. Whether you're merging objects, aiming for high scores in pinball, or chasing the iconic 2048, our suite ensures you're never short of options.\n\nAlways Offline: Play to your heart's content witho",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/1f/2c/eb1f2cbb-7ee9-0580-92bf-0129ba5850b7/OfflineGames-AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/85/f6/2285f619-ca47-4b2e-7cd3-0d109e4e6a78/OfflineGames-AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 209825135,
+      "size": 209111647,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/e8/00/3ee80013-9c36-a179-c946-33ab070a40cf/379e8963-40be-443a-962d-350f6c4f6f44_new_12.9_3.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/27/88/182788f2-9401-d73b-4dfd-774d0dc80b13/235ac8a4-ac7d-46aa-a8ed-b73cbb643e55_13_ipad.png/576x768bb.png",
@@ -47495,11 +47495,11 @@
       },
       "versions": [
         {
-          "version": "1.60",
-          "date": "2026-06-30",
+          "version": "1.61",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofflinegamesnowififun\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Offline Games No WiFi Fun 100+-v1.60-riftysipas.ipa",
-          "size": 209825135
+          "downloadURL": "https://telos.ftp.sh/ipas/Offline Games No WiFi Fun 100+-v1.61-riftysipas.ipa",
+          "size": 209111647
         }
       ],
       "category": "games"
@@ -51928,14 +51928,14 @@
       "bundleIdentifier": "com.pixite.pigment",
       "developerName": "Pixite Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.13.2",
-      "versionDate": "2026-07-14",
+      "version": "3.13.3",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13.3-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nAdult Coloring Book - Pigment\n\n---\n= = =\n\nColoring is a great way to relax and reduce stress and anxiety. Just 10 minutes of coloring can provide the same benefits as meditation. It helps you practice mindfulness, stay present, enhance concentration, build creativity, and is a great alternative to games!\n\nPigment, an award-winning coloring app, is a sanctuary for relaxation, nourishing your creative spirit, and providing daily inspiration. Within its vibrant community of artists, you'll discover a wealth of positivity and wholehe",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/06/13/9e061338-f5e3-8adf-4ccc-833586cd0bb8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 145005541,
+      "size": 144910821,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -51956,11 +51956,11 @@
       },
       "versions": [
         {
-          "version": "3.13.2",
-          "date": "2026-07-14",
+          "version": "3.13.3",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13.2-riftysipas.ipa",
-          "size": 145005541
+          "downloadURL": "https://telos.ftp.sh/ipas/Adult Coloring Book - Pigment-v3.13.3-riftysipas.ipa",
+          "size": 144910821
         }
       ],
       "category": "lifestyle"
@@ -53804,20 +53804,20 @@
       "bundleIdentifier": "com.photoeditor.polish",
       "developerName": "SHANTANU PTE. LTD.",
       "subtitle": "Tweaked with Polish, blatantsPatch",
-      "version": "2.5.0",
-      "versionDate": "2026-06-16",
+      "version": "2.6.0",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: Polish, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Polish_AI_Photo_Editor_v2_5_0_Premium_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Polish_AI_Photo_Editor_v2_6_0_Premium_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Polish, blatantsPatch\n\nPolish - AI Photo Editor\n\n---\nPolish is your go-to photo editor for anyone who wants natural, realistic results—fast and easy. With our user-friendly features and powerful tools, you can create eye-catching photos in just a few taps. Enjoy natural-looking edits without complicated tools or an overedited look!\n\nEveryday Photo Editing\n• Magic AI Remove: Seamlessly erase unwanted objects, people, or background clutter in seconds.\n• AI Photo Enhancer: Improve clarity, sharpen details, and save your photos in high quality.\n• Filt",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/1f/39/571f3975-c3ed-d2e7-2695-b6255daff2db/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/9c/a2/999ca217-545a-edb1-1c15-c5da9659e661/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 145664452,
+      "size": 146626452,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/99/a4/4399a421-16d6-be8a-9097-01610d52f168/1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/1b/ab/901babdd-3d10-16ac-e0ba-a9436f82b9f5/2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/90/be/0c90be92-9bbc-b0bd-6c3d-d53e482ed79b/3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/72/c1/5072c126-91ed-c0e5-99ac-e57008b4c078/4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/63/44/05634488-0c9f-de3f-195d-cb6c6ffb94bb/5.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/39/47/ea394740-3574-cef4-350c-6c0718fcfd56/698681b3-e57e-4090-8dba-6d2af18bf237__U7f8e_U56fdmakeup_U77ed.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/ce/ef/63ceef22-abae-30aa-b038-0e9a52c5b438/1cdf95ad-1294-4000-a30f-efe07240f9f9_Freestyle_Collage_U77ed__U7f8e_U56fd.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/db/59/5bdb59ca-e2d5-a301-9de5-d2bb98975313/db8bfdee-1199-4f1f-94fe-5f16aea8b875_Smart_AI_Cutout_U77ed__U7f8e_U56fd.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/f2/de/02f2de00-69f1-599c-cab3-61ce368e3a9f/0c43827b-8a37-41a6-98b0-3022b6b7d6cf_1_U5907_U4efd_3@2x.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/cc/ee/14ccee5f-aa48-c5e3-b794-bdc8880b14cf/e7371aad-ac9f-4231-8bb2-eb33bcae51d3_Slideshow_Maker_U77ed_U7f8e_U56fd.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
         "entitlements": [
@@ -53833,11 +53833,11 @@
       },
       "versions": [
         {
-          "version": "2.5.0",
-          "date": "2026-06-16",
+          "version": "2.6.0",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: Polish, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Polish_AI_Photo_Editor_v2_5_0_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 145664452
+          "downloadURL": "https://telos.ftp.sh/ipas/Polish_AI_Photo_Editor_v2_6_0_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 146626452
         }
       ],
       "category": "photo-&-video"
@@ -64754,15 +64754,15 @@
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify",
-      "subtitle": "Spotify for iOS",
-      "version": "9.1.36",
-      "versionDate": "2026-06-15",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.spotify.client-9.1.36-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nWith the Spotify app, you can explore an extensive library of music and podcasts for free. Curate the best playlists and stream millions of free songs, albums, and original podcasts on your phone or tablet. Subscribe to Spotify Premium to download and listen offline wherever you are, and unlock our catalog of audiobooks.\n\nWhy choose Spotify as your go-to music and podcast app? Here, you can:\n• Listen to over 100 million songs and 6 million podcast titles\n• Explore our selection of specially-craf",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/7b/26537b47-88c8-845a-fb1b-a65702602a10/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "subtitle": "Tweaked with CydiaSubstrate, GSpotify",
+      "version": "9.1.68",
+      "versionDate": "2026-07-17",
+      "versionDescription": "Tweaks: CydiaSubstrate, GSpotify, _ipa_by_iosdecrypted_[sideloadKeychainFix], zxPluginsInject\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]SP_9.1.68_GS.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, GSpotify, _ipa_by_iosdecrypted_[sideloadKeychainFix], zxPluginsInject\n\nBuilds of Spotify 😙\n\n---\nWith the Spotify app, you can explore an extensive library of music and podcasts for free. Curate the best playlists and stream millions of free songs, albums, and original podcasts on your phone or tablet. Subscribe to Spotify Premium to download and listen offline wherever you are, and unlock our catalog of audiobooks.\n\nWhy choose Spotify as your go-to music and podcast app? Here, you can:\n• Listen to over 100 million songs and 6 million podcast titles\n• Explore our selection of specially-craf",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/04/4e/40044e28-ff9b-e382-fc03-3425835acf16/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 103195076,
+      "size": 126287978,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ce/05/f3ce0547-690a-b355-b1dd-6b6e91808279/IOS_-_5.5_-_S01_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/81/ca/7881ca10-b441-1a6c-e030-92e08dd76144/IOS_-_5.5_-_S02_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
@@ -64775,9 +64775,9 @@
           "com.apple.developer.usernotifications.communication",
           "com.apple.developer.declared-age-range",
           "com.apple.developer.group-session",
+          "com.apple.developer.networking.wifi-info",
           "aps-environment",
           "com.apple.developer.associated-domains",
-          "com.apple.developer.networking.wifi-info",
           "com.apple.developer.siri",
           "com.apple.developer.healthkit",
           "com.apple.developer.applesignin",
@@ -64805,11 +64805,11 @@
       },
       "versions": [
         {
-          "version": "9.1.36",
-          "date": "2026-06-15",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.spotify.client-9.1.36-eeveedecrypter.ipa",
-          "size": 103195076
+          "version": "9.1.68",
+          "date": "2026-07-17",
+          "localizedDescription": "Tweaks: CydiaSubstrate, GSpotify, _ipa_by_iosdecrypted_[sideloadKeychainFix], zxPluginsInject\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]SP_9.1.68_GS.ipa",
+          "size": 126287978
         }
       ],
       "category": "music"
@@ -64819,14 +64819,14 @@
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify",
       "subtitle": "Tweaked with CydiaSubstrate, EeveeSpotify",
-      "version": "9.1.60",
-      "versionDate": "2026-06-28",
-      "versionDescription": "Tweaks: CydiaSubstrate, EeveeSpotify, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/EeveeSpotify-6.6.6-9.1.60_patched[tg@compiledipas].ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, EeveeSpotify, zxPluginsInject\n\n---\nWith the Spotify app, you can explore an extensive library of music and podcasts for free. Curate the best playlists and stream millions of free songs, albums, and original podcasts on your phone or tablet. Subscribe to Spotify Premium to download and listen offline wherever you are, and unlock our catalog of audiobooks.\n\nWhy choose Spotify as your go-to music and podcast app? Here, you can:\n• Listen to over 100 million songs and 6 million podcast titles\n• Explore our selection of specially-craf",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/53/7b/26537b47-88c8-845a-fb1b-a65702602a10/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "version": "9.1.62",
+      "versionDate": "2026-07-17",
+      "versionDescription": "Tweaks: CydiaSubstrate, EeveeSpotify, _ipa_by_iosdecrypted_[sideloadKeychainFix], zxPluginsInject\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]SP_9.1.62_ES.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, EeveeSpotify, _ipa_by_iosdecrypted_[sideloadKeychainFix], zxPluginsInject\n\nBuilds of Spotify 😙\n\n---\nWith the Spotify app, you can explore an extensive library of music and podcasts for free. Curate the best playlists and stream millions of free songs, albums, and original podcasts on your phone or tablet. Subscribe to Spotify Premium to download and listen offline wherever you are, and unlock our catalog of audiobooks.\n\nWhy choose Spotify as your go-to music and podcast app? Here, you can:\n• Listen to over 100 million songs and 6 million podcast titles\n• Explore our selection of specially-craf",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/04/4e/40044e28-ff9b-e382-fc03-3425835acf16/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 126932754,
+      "size": 129190308,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ce/05/f3ce0547-690a-b355-b1dd-6b6e91808279/IOS_-_5.5_-_S01_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/81/ca/7881ca10-b441-1a6c-e030-92e08dd76144/IOS_-_5.5_-_S02_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
@@ -64869,11 +64869,11 @@
       },
       "versions": [
         {
-          "version": "9.1.60",
-          "date": "2026-06-28",
-          "localizedDescription": "Tweaks: CydiaSubstrate, EeveeSpotify, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/EeveeSpotify-6.6.6-9.1.60_patched[tg@compiledipas].ipa",
-          "size": 126932754
+          "version": "9.1.62",
+          "date": "2026-07-17",
+          "localizedDescription": "Tweaks: CydiaSubstrate, EeveeSpotify, _ipa_by_iosdecrypted_[sideloadKeychainFix], zxPluginsInject\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]SP_9.1.62_ES.ipa",
+          "size": 129190308
         }
       ],
       "category": "music"
