@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.lens.ai.app",
+    "com.calm.calmapp",
     "com.glucobit.cravingBuster.CravingBuster",
     "com.frameoneapps.Crsel",
-    "com.offlinemusic",
-    "com.ulisesolave.Fitia",
-    "com.media720.offlinegames"
+    "com.offlinemusic"
   ],
   "apps": [
     {
@@ -10491,14 +10491,14 @@
       "bundleIdentifier": "com.calm.calmapp",
       "developerName": "Calm.com",
       "subtitle": "Lifetime Unlocked | Patched",
-      "version": "6.100",
-      "versionDate": "2026-07-15",
+      "version": "6.100.1",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: Calm, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Calm v6.100 Lifetime Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Calm v6.100.1 Lifetime Unlocked blatant Patched.ipa",
       "localizedDescription": "Lifetime Unlocked | Patched | Tweaked\n\nCalm",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/b9/da/dab9da4f-9e6c-c386-6273-cbad1df7a298/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 127935456,
+      "size": 127938280,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/87/9d/4e879dd8-bf44-69df-a4f5-092ef3688f76/748cb6a5-5588-4d86-af93-7add35562d37_iPhone_5.5_Inch_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/d7/a0/c4d7a09f-9670-503d-548b-dac1f19012a2/92a594c0-f5b1-4739-bffd-88930991b524_iPhone_5.5_Inch_02.png/392x696bb.png",
@@ -10528,11 +10528,11 @@
       },
       "versions": [
         {
-          "version": "6.100",
-          "date": "2026-07-15",
+          "version": "6.100.1",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: Calm, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Calm v6.100 Lifetime Unlocked blatant Patched.ipa",
-          "size": 127935456
+          "downloadURL": "https://telos.ftp.sh/ipas/Calm v6.100.1 Lifetime Unlocked blatant Patched.ipa",
+          "size": 127938280
         }
       ],
       "category": "health-&-fitness"
@@ -36802,14 +36802,14 @@
       "bundleIdentifier": "com.lens.ai.app",
       "developerName": "XLABS DIJITAL HIZMETLER ANONIM SIRKETI",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "1.0.49",
-      "versionDate": "2026-06-22",
+      "version": "1.0.50",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lens AI: Scanner & Identifier-v1.0.49-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lens AI: Scanner & Identifier-v1.0.50-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nLens AI: Scanner & Identifier",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/29/17/0329177d-34aa-2d36-3a30-076e0a5c5227/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/eb/70/87eb7080-b4a2-0719-8488-cd65b1cda0d2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 48779726,
+      "size": 114220948,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -36829,11 +36829,11 @@
       },
       "versions": [
         {
-          "version": "1.0.49",
-          "date": "2026-06-22",
+          "version": "1.0.50",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lens AI: Scanner & Identifier-v1.0.49-riftysipas.ipa",
-          "size": 48779726
+          "downloadURL": "https://telos.ftp.sh/ipas/Lens AI: Scanner & Identifier-v1.0.50-riftysipas.ipa",
+          "size": 114220948
         }
       ],
       "category": "reference"
@@ -81742,7 +81742,7 @@
     {
       "title": "⚙️ Telos Update 7.17",
       "identifier": "telos-update-2026-07-17",
-      "caption": "88 Apps Updated:\n• 20 Music\n• 12 News\n• 12 Health & Fitness\n• 10 Lifestyle\n• 10 Photo & Video\n• 6 Games\n• 4 Productivity\n• 4 Social Networking\n• 2 Food & Drink\n• 2 Utilities\n• 2 Finance\n• 2 Sports\n• 2 Medical",
+      "caption": "88 Apps Updated:\n• 18 Music\n• 12 News\n• 12 Health & Fitness\n• 10 Lifestyle\n• 8 Photo & Video\n• 6 Games\n• 4 Productivity\n• 4 Social Networking\n• 4 Reference\n• 2 Food & Drink\n• 2 Utilities\n• 2 Finance\n• 2 Sports\n• 2 Medical",
       "date": "2026-07-17",
       "tintColor": "#02433b",
       "notify": true,
