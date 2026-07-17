@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "phone.location.tracker",
+    "com.skylum.luminaripad",
     "com.inakitajes.Calisthenial",
     "com.soundcloud.TouchApp",
-    "com.ketchapp.stack",
-    "com.rubygames.assassin",
-    "com.cococloudteam.cocosign"
+    "com.ketchapp.stack"
   ],
   "apps": [
     {
@@ -39618,14 +39618,14 @@
       "bundleIdentifier": "com.skylum.luminaripad",
       "developerName": "Skylum",
       "subtitle": "Tweaked with FilePickerFix, Luminar",
-      "version": "4.2",
-      "versionDate": "2026-07-13",
+      "version": "4.2.1",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: FilePickerFix, Luminar, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_2_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FilePickerFix, Luminar, blatantsPatch\n\nLuminar: Image Editor&Enhancer\n\n---\nLuminar — Your all-in-one, on-the-go photo editor and creative companion for iPhone, iPad and Vision Pro. Explore powerful AI-driven tools and an interactive interface that responds to your touch, delivering a uniquely engaging photo editing experience.\n\nStreamlined design with unparalleled control\n\nLuminar's user-friendly design allows you to edit your photos with intuitive gestures, featuring smoothly gliding sliders and spinning dials that respond realistically to your touch with motion and s",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/13/33/791333d2-21bb-46f8-cbd1-3a78a9a2ef14/LuminarLogo-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 547533625,
+      "size": 547586822,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/5e/a0/065ea076-8f7b-26c0-adcc-df15d87c995f/12a21320-1dde-4f81-9957-774e26de1981_3.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/cd/6d/28cd6d0d-ddd3-c301-fb2c-2a1d596d64ac/6faabc21-360e-427f-a4c1-dcfa5e330231_4.png/392x696bb.png",
@@ -39650,11 +39650,11 @@
       },
       "versions": [
         {
-          "version": "4.2",
-          "date": "2026-07-13",
+          "version": "4.2.1",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: FilePickerFix, Luminar, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_2_Subscription_Unlocked_blatant.ipa",
-          "size": 547533625
+          "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_2_1_Subscription_Unlocked_blatant.ipa",
+          "size": 547586822
         }
       ],
       "category": "photo-&-video"
@@ -50716,14 +50716,14 @@
       "bundleIdentifier": "phone.location.tracker",
       "developerName": "Webpeak OU",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.5.0",
-      "versionDate": "2026-06-24",
+      "version": "2.5.1",
+      "versionDate": "2026-07-17",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, StopReviews, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Phone Tracker - Family Locator-v2.5.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Phone Tracker - Family Locator-v2.5.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, StopReviews, popuprifty\n\nPhone Tracker - Family Locator\n\n---\nKeep Your Loved Ones Safe with Phone Tracker\n\nPhone Tracker – Family Locator is your go-to app for staying connected with family and friends in real-time. Whether you’re ensuring your kids get home safely, checking in on loved ones, or locating a lost phone, Phone Tracker has you covered.What can you do with Phone Tracker?\n\n- See real-time locations of your family, friends, and loved ones anytime.\n- Check location history to keep track of past movements.\n- Get notified when circle members arrive",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/2d/8f/dc2d8fb6-ffc7-7811-7293-f84344265aa5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/e2/35/f6e235db-b034-b564-1cf0-f95d9a13725d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 60968233,
+      "size": 61461956,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -50747,11 +50747,11 @@
       },
       "versions": [
         {
-          "version": "2.5.0",
-          "date": "2026-06-24",
+          "version": "2.5.1",
+          "date": "2026-07-17",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, StopReviews, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Phone Tracker - Family Locator-v2.5.0-riftysipas.ipa",
-          "size": 60968233
+          "downloadURL": "https://telos.ftp.sh/ipas/Phone Tracker - Family Locator-v2.5.1-riftysipas.ipa",
+          "size": 61461956
         }
       ],
       "category": "lifestyle"
