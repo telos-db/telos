@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.nibbleapps.MealPrepPro",
     "com.ahmetserdarkaradeniz.Phocus",
     "com.lyftaios",
     "com.uqxuwtxbbu.parkingjam",
-    "com.mangacrush.ios",
-    "co.visualsupply.cam"
+    "com.mangacrush.ios"
   ],
   "apps": [
     {
@@ -41200,14 +41200,14 @@
       "bundleIdentifier": "com.nibbleapps.MealPrepPro",
       "developerName": "Nibble Apps Ltd",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.141",
-      "versionDate": "2026-07-06",
+      "version": "3.142",
+      "versionDate": "2026-07-18",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MealPrepPro Planner & Recipes-v3.141-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MealPrepPro Planner & Recipes-v3.142-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMealPrepPro Planner & Recipes\n\n---\nHave your meals and groceries planned for you with MealPrepPro.\n\nMealPrepPro is a smart meal planner that adapts to your schedule, food preferences and goals.\n\nReach your health goals\nNo more counting calories. Meal plans are automatically adapted to your calorie and macro needs.\n\n#1 for Meal Prep\nPrep easy meals in advance to save time and money. Get ahead and have a fridge full of healthy meals.\n\nPersonalized to your diet, allergies and dislikes\nHigh-protein, low-carb, vegan, Mediterranean and",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/8d/13/108d13a2-41d6-91e2-88e9-6d2702ba6a2f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/d9/71/26d97189-e4f2-a0f1-4cf3-c996f7a6bdad/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 131332238,
+      "size": 131317954,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -41222,16 +41222,17 @@
           "NSRemindersUsageDescription": "MealPrepPro saves shopping items to Reminders",
           "NSHealthShareUsageDescription": "MealPrepPro can display your nutrition info from Apple Health in Charts",
           "NSHealthUpdateUsageDescription": "MealPrepPro saves your meal nutrition and water to Apple Health",
+          "NSUserTrackingUsageDescription": "We use your data to measure ad performance and improve your experience.",
           "NSPhotoLibraryAddUsageDescription": "MealPrepPro can save images of your Meal Prep Streak to your photos"
         }
       },
       "versions": [
         {
-          "version": "3.141",
-          "date": "2026-07-06",
+          "version": "3.142",
+          "date": "2026-07-18",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MealPrepPro Planner & Recipes-v3.141-riftysipas.ipa",
-          "size": 131332238
+          "downloadURL": "https://telos.ftp.sh/ipas/MealPrepPro Planner & Recipes-v3.142-riftysipas.ipa",
+          "size": 131317954
         }
       ],
       "category": "food-&-drink"
