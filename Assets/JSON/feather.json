@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.supersethealth.superset",
     "com.grandgames.carmatch",
     "com.agent.super.extension.safari",
     "com.nibbleapps.MealPrepPro",
-    "com.ahmetserdarkaradeniz.Phocus",
-    "com.lyftaios"
+    "com.ahmetserdarkaradeniz.Phocus"
   ],
   "apps": [
     {
@@ -7338,6 +7338,54 @@
           "localizedDescription": "Tweaks: BetterSleep, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://telos.ftp.sh/ipas/BetterSleep Premium 24.10.ipa",
           "size": 247231004
+        }
+      ],
+      "category": "health-&-fitness"
+    },
+    {
+      "name": "Bevel",
+      "bundleIdentifier": "com.supersethealth.superset",
+      "developerName": "Finerpoint, Inc",
+      "subtitle": "Tweaked with BevelAIHealthCoachPatch, blatantsPatch",
+      "version": "3.1.1",
+      "versionDate": "2026-07-18",
+      "versionDescription": "Tweaks: BevelAIHealthCoachPatch, blatantsPatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bevel__AI_Health_Coach_3.1.1_1784047868.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: BevelAIHealthCoachPatch, blatantsPatch\n\nIf u have Paid Certificate, then u can try this\n\n---\nBevel is the #1 app for improving your health, performance, and longevity, trusted by hundreds of thousands and backed by science.\n\nFrom sleep and recovery to stress and strength training, Bevel transforms your health data into personalized guidance you can actually use. Whether you're training for something big or just trying to feel better day to day, Bevel helps you move smarter, recover faster, and live longer.\n\nFEATURES\n\nBevel Intelligence: Your smart health engine. Bevel Intelligence conne",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/92/3e/be923e82-a60b-c35c-3f08-2256b668d3f1/AppIconFlatAuto-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 527543293,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.weatherkit",
+          "com.apple.developer.healthkit.background-delivery",
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.healthkit.access",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Allow access to your photo library to select and save photos or videos.",
+          "NSCameraUsageDescription": "Allow access to your camera to take and save photos or videos.",
+          "NSMicrophoneUsageDescription": "Bevel uses the microphone for voice dictation.",
+          "NSLocationWhenInUseUsageDescription": "Bevel uses your location to provide personalized coaching based on location & weather conditions.",
+          "NSHealthShareUsageDescription": "Allow this app to access your Health data.",
+          "NSHealthUpdateUsageDescription": "Allow this app to write Health data based on your progress.",
+          "NSSpeechRecognitionUsageDescription": "Bevel uses speech recognition to convert your voice to text.",
+          "NSUserTrackingUsageDescription": "Share your technical and app usage data to help us improve our marketing. Your health data is never shared."
+        }
+      },
+      "versions": [
+        {
+          "version": "3.1.1",
+          "date": "2026-07-18",
+          "localizedDescription": "Tweaks: BevelAIHealthCoachPatch, blatantsPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Bevel__AI_Health_Coach_3.1.1_1784047868.ipa",
+          "size": 527543293
         }
       ],
       "category": "health-&-fitness"
