@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.atebits.Tweetie2",
     "com.supersethealth.superset",
     "com.grandgames.carmatch",
     "com.agent.super.extension.safari",
-    "com.nibbleapps.MealPrepPro",
-    "com.ahmetserdarkaradeniz.Phocus"
+    "com.nibbleapps.MealPrepPro"
   ],
   "apps": [
     {
@@ -74168,64 +74168,6 @@
       "category": "photo-&-video"
     },
     {
-      "name": "Twitter",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "X Corp.",
-      "subtitle": "Tweaked with CydiaSubstrate, DLTwitter",
-      "version": "12.9",
-      "versionDate": "2026-07-17",
-      "versionDescription": "Tweaks: CydiaSubstrate, DLTwitter, FixTwitterLogin, TWIGalaxy, _by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]XX_12.9_DL_NF.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DLTwitter, FixTwitterLogin, TWIGalaxy, _by_iosdecrypted_[sideloadKeychainFix]\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 234042787,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/77/660e779a-d449-ebd3-0bd3-78502084f7bf/770e6822-f28e-4e4b-be51-8bfbe36f4307_iPad_12.9_-_1.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/2e/90e62e67-ccd1-8221-8149-49f305b8778d/7e053a3e-190b-4585-9927-509871425aad_iPad_12.9_-_2.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/55/81/e1558195-ef27-c4d9-7967-ab92de356af6/af4a69eb-36c5-463c-9677-c2a72dfaa7dc_iPad_12.9_-_3.png/552x414bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.associated-appclip-app-identifiers",
-          "aps-environment",
-          "com.apple.developer.devicecheck.appattest-environment",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.siri",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.networking.carrier-constrained.app-optimized",
-          "com.apple.developer.networking.carrier-constrained.appcategory",
-          "com.apple.security.application-groups",
-          "com.apple.developer.usernotifications.communication"
-        ],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
-          "NSCameraUsageDescription": "Capture and post photos and videos from Twitter.",
-          "NSMicrophoneUsageDescription": "Capture and post videos with sound from Twitter.",
-          "NSLocationWhenInUseUsageDescription": "Enjoy Twitter experience tailored to your location.",
-          "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on Twitter.",
-          "NSCalendarsUsageDescription": "Add events to your calendar from Twitter.",
-          "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
-          "NSFaceIDUsageDescription": "Use FaceID to authenticate on Twitter.",
-          "NSBluetoothAlwaysUsageDescription": "Twitter uses Bluetooth to discover Cast-enabled devices near you.",
-          "NSLocalNetworkUsageDescription": "Twitter uses the local network to discover Cast-enabled devices on your WiFi network.",
-          "NSUserTrackingUsageDescription": "This helps Twitter show you more relevant ads.",
-          "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos."
-        }
-      },
-      "versions": [
-        {
-          "version": "12.9",
-          "date": "2026-07-17",
-          "localizedDescription": "Tweaks: CydiaSubstrate, DLTwitter, FixTwitterLogin, TWIGalaxy, _by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]XX_12.9_DL_NF.ipa",
-          "size": 234042787
-        }
-      ],
-      "category": "news"
-    },
-    {
       "name": "Twitter [BHTwitter]",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X Corp.",
@@ -80046,6 +79988,62 @@
         }
       ],
       "category": "productivity"
+    },
+    {
+      "name": "X",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "X Corp.",
+      "subtitle": "X for iOS",
+      "version": "12.9",
+      "versionDate": "2026-07-18",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.atebits.Tweetie2-12.9-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 226073169,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/77/660e779a-d449-ebd3-0bd3-78502084f7bf/770e6822-f28e-4e4b-be51-8bfbe36f4307_iPad_12.9_-_1.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/2e/90e62e67-ccd1-8221-8149-49f305b8778d/7e053a3e-190b-4585-9927-509871425aad_iPad_12.9_-_2.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/55/81/e1558195-ef27-c4d9-7967-ab92de356af6/af4a69eb-36c5-463c-9677-c2a72dfaa7dc_iPad_12.9_-_3.png/552x414bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "aps-environment",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.siri",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.networking.carrier-constrained.app-optimized",
+          "com.apple.developer.networking.carrier-constrained.appcategory",
+          "com.apple.security.application-groups",
+          "com.apple.developer.usernotifications.communication"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSCameraUsageDescription": "Capture and post photos and videos from X.",
+          "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
+          "NSLocationWhenInUseUsageDescription": "Enjoy the X experience tailored to your location.",
+          "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
+          "NSCalendarsUsageDescription": "Add events to your calendar from X.",
+          "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
+          "NSFaceIDUsageDescription": "Use FaceID to authenticate on X.",
+          "NSUserTrackingUsageDescription": "This helps X show you more relevant ads.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos."
+        }
+      },
+      "versions": [
+        {
+          "version": "12.9",
+          "date": "2026-07-18",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.atebits.Tweetie2-12.9-eeveedecrypter.ipa",
+          "size": 226073169
+        }
+      ],
+      "category": "news"
     },
     {
       "name": "X [NeoFreeBird]",
