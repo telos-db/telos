@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.nuvio.media",
     "com.atebits.Tweetie2",
     "com.supersethealth.superset",
     "com.grandgames.carmatch",
-    "com.agent.super.extension.safari",
-    "com.nibbleapps.MealPrepPro"
+    "com.agent.super.extension.safari"
   ],
   "apps": [
     {
@@ -46572,14 +46572,14 @@
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "RGN VENTURES LTD",
       "subtitle": "Nuvio for iOS",
-      "version": "0.2.25",
-      "versionDate": "2026-07-16",
+      "version": "0.3.0",
+      "versionDate": "2026-07-18",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.25-Full.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.3.0-Full.ipa",
       "localizedDescription": "Nuvio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 41564314,
+      "size": 41659415,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -46587,11 +46587,11 @@
       },
       "versions": [
         {
-          "version": "0.2.25",
-          "date": "2026-07-16",
+          "version": "0.3.0",
+          "date": "2026-07-18",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.2.25-Full.ipa",
-          "size": 41564314
+          "downloadURL": "https://telos.ftp.sh/ipas/Nuvio-v0.3.0-Full.ipa",
+          "size": 41659415
         }
       ],
       "category": "health-&-fitness"
@@ -81789,7 +81789,7 @@
     {
       "title": "⚙️ Telos Update 7.18",
       "identifier": "telos-update-2026-07-18",
-      "caption": "30 Apps Updated:\n• 6 Health & Fitness\n• 4 Utilities\n• 4 Games\n• 4 Photo & Video\n• 2 Social Networking\n• 2 Education\n• 2 Graphics & Design\n• 2 Entertainment\n• 2 Food & Drink\n• 2 News",
+      "caption": "38 Apps Updated:\n• 14 Health & Fitness\n• 4 Utilities\n• 4 Games\n• 4 Photo & Video\n• 2 Social Networking\n• 2 Education\n• 2 Graphics & Design\n• 2 Entertainment\n• 2 Food & Drink\n• 2 News",
       "date": "2026-07-18",
       "tintColor": "#02433b",
       "notify": true,
