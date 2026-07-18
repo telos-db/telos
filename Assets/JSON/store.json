@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "tech.miidii.MDBlank",
     "com.genau.MoneyCircle",
     "com.locket.Locket",
     "com.lens.ai.app",
-    "com.calm.calmapp",
-    "com.glucobit.cravingBuster.CravingBuster"
+    "com.calm.calmapp"
   ],
   "apps": [
     {
@@ -81742,7 +81742,7 @@
     {
       "title": "⚙️ Telos Update 7.18",
       "identifier": "telos-update-2026-07-18",
-      "caption": "8 Apps Updated:\n• 4 Social Networking\n• 4 Utilities",
+      "caption": "8 Apps Updated:\n• 4 Graphics & Design\n• 2 Social Networking\n• 2 Utilities",
       "date": "2026-07-18",
       "tintColor": "#02433b",
       "notify": true,
