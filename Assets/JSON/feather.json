@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.ahmetserdarkaradeniz.Phocus",
     "com.lyftaios",
     "com.uqxuwtxbbu.parkingjam",
     "com.mangacrush.ios",
-    "co.visualsupply.cam",
-    "com.wellocution.iosapp"
+    "co.visualsupply.cam"
   ],
   "apps": [
     {
@@ -50594,14 +50594,14 @@
       "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
       "developerName": "RAY INFORMATICS YAZILIM TEKNOLOJI MEDYA DANISMANLIK VE EGITIM TICARET LIMITED SIRKETI",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "3.4.5",
-      "versionDate": "2026-07-14",
+      "version": "3.4.6",
+      "versionDate": "2026-07-18",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Phocus_DSLR_Portrait_Camera_v3_4_5_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Phocus_DSLR_Portrait_Camera_v3_4_6_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nPhocus: DSLR Portrait Camera\n\n---\nPhocus is a portrait camera and depth editor for iPhone and iPad, built for realistic bokeh, lens character, focus control, and cinematic color. Capture DSLR-style portraits, preview lens and depth effects live, refine background blur with precision, and create polished images with more control over focus, tone, and mood.\n\nWith Phocus, you can go beyond simple portrait blur. Shoot with real-time lens and bokeh previews, import your own LUTs, shape aperture and focus depth, edit depth-aware masks",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/7d/82/a57d8257-9352-d828-e2ac-976f52cb4966/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 287149516,
+      "size": 287153928,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -50617,11 +50617,11 @@
       },
       "versions": [
         {
-          "version": "3.4.5",
-          "date": "2026-07-14",
+          "version": "3.4.6",
+          "date": "2026-07-18",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Phocus_DSLR_Portrait_Camera_v3_4_5_Subscription_Unlocked_blatant.ipa",
-          "size": 287149516
+          "downloadURL": "https://telos.ftp.sh/ipas/Phocus_DSLR_Portrait_Camera_v3_4_6_Subscription_Unlocked_blatant.ipa",
+          "size": 287153928
         }
       ],
       "category": "photo-&-video"
