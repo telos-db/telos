@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "co.timesquared.hourstimetracker.ios",
     "com.nuvio.media",
     "com.atebits.Tweetie2",
     "com.supersethealth.superset",
-    "com.grandgames.carmatch",
-    "com.agent.super.extension.safari"
+    "com.grandgames.carmatch"
   ],
   "apps": [
     {
@@ -71719,14 +71719,14 @@
       "bundleIdentifier": "co.timesquared.hourstimetracker.ios",
       "developerName": "TSQ Publishing Corp.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.4.1730",
-      "versionDate": "2026-07-10",
+      "version": "3.4.1733",
+      "versionDate": "2026-07-18",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Time Squared - Hours Tracker-v3.4.1730-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Time Squared - Hours Tracker-v3.4.1733-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nTime Squared - Hours Tracker\n\n---\nEffortlessly track work hours, manage projects, and handle data collection for payroll and invoices with Time Squared—the all-in-one solution that turns time management into a walk in the park. Designed for employees, freelancers, business owners, and managers, Time Squared is packed with features to keep your workday organized and efficient.\n\n[TRACK TIME ACCURATELY]\n• Clock in and out with a tap, track breaks, and log time on tasks with built-in GPS location tracking, and set up automatic break",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/27/05/a027054b-7f59-d921-6580-ce3d3446a994/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/16/74/11167405-5e88-6ea8-f0ac-b3225dc111d6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 42763350,
+      "size": 42828784,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/4f/cb/3d4fcbd5-3337-3bfc-8a76-39110795a87f/7f842bd6-9eb5-434e-9419-6422df176cbf_set_2_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/ea/82/deea8267-18e1-1924-b6b7-05789792382f/30c63543-bb61-405c-b10d-6b54dbb6b4b5_set_2_2.jpg/392x696bb.jpg",
@@ -71752,11 +71752,11 @@
       },
       "versions": [
         {
-          "version": "3.4.1730",
-          "date": "2026-07-10",
+          "version": "3.4.1733",
+          "date": "2026-07-18",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Time Squared - Hours Tracker-v3.4.1730-riftysipas.ipa",
-          "size": 42763350
+          "downloadURL": "https://telos.ftp.sh/ipas/Time Squared - Hours Tracker-v3.4.1733-riftysipas.ipa",
+          "size": 42828784
         }
       ],
       "category": "business"
