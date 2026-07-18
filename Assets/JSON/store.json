@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "co.timesquared.hourstimetracker.ios",
     "com.nuvio.media",
     "com.atebits.Tweetie2",
     "com.supersethealth.superset",
-    "com.grandgames.carmatch",
-    "com.agent.super.extension.safari"
+    "com.grandgames.carmatch"
   ],
   "apps": [
     {
@@ -70751,14 +70751,14 @@
       "bundleIdentifier": "co.timesquared.hourstimetracker.ios",
       "developerName": "TSQ Publishing Corp.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "3.4.1730",
-      "versionDate": "2026-07-10",
+      "version": "3.4.1733",
+      "versionDate": "2026-07-18",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Time Squared - Hours Tracker-v3.4.1730-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Time Squared - Hours Tracker-v3.4.1733-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nTime Squared - Hours Tracker",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/27/05/a027054b-7f59-d921-6580-ce3d3446a994/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/16/74/11167405-5e88-6ea8-f0ac-b3225dc111d6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 42763350,
+      "size": 42828784,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/4f/cb/3d4fcbd5-3337-3bfc-8a76-39110795a87f/7f842bd6-9eb5-434e-9419-6422df176cbf_set_2_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/ea/82/deea8267-18e1-1924-b6b7-05789792382f/30c63543-bb61-405c-b10d-6b54dbb6b4b5_set_2_2.jpg/392x696bb.jpg",
@@ -70784,11 +70784,11 @@
       },
       "versions": [
         {
-          "version": "3.4.1730",
-          "date": "2026-07-10",
+          "version": "3.4.1733",
+          "date": "2026-07-18",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Time Squared - Hours Tracker-v3.4.1730-riftysipas.ipa",
-          "size": 42763350
+          "downloadURL": "https://telos.ftp.sh/ipas/Time Squared - Hours Tracker-v3.4.1733-riftysipas.ipa",
+          "size": 42828784
         }
       ],
       "category": "business"
@@ -81789,7 +81789,7 @@
     {
       "title": "⚙️ Telos Update 7.18",
       "identifier": "telos-update-2026-07-18",
-      "caption": "34 Apps Updated:\n• 10 Health & Fitness\n• 4 Utilities\n• 4 Games\n• 4 Photo & Video\n• 2 Social Networking\n• 2 Education\n• 2 Graphics & Design\n• 2 Entertainment\n• 2 Food & Drink\n• 2 News",
+      "caption": "38 Apps Updated:\n• 10 Health & Fitness\n• 4 Utilities\n• 4 Games\n• 4 Photo & Video\n• 4 Business\n• 2 Social Networking\n• 2 Education\n• 2 Graphics & Design\n• 2 Entertainment\n• 2 Food & Drink\n• 2 News",
       "date": "2026-07-18",
       "tintColor": "#02433b",
       "notify": true,
