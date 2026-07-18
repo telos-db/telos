@@ -46260,32 +46260,6 @@
       }
     },
     {
-      "name": "Twitter",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "X Corp.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DLTwitter, FixTwitterLogin, TWIGalaxy, _by_iosdecrypted_[sideloadKeychainFix]\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
-      "version": "12.9",
-      "versionDate": "2026-07-17T14:50:49-00:00",
-      "versionDescription": "Build 10 from @thescholarslounge",
-      "size": 234042787,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@i_osd]XX_12.9_DL_NF.ipa",
-      "minOSVersion": "15.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@thescholarslounge",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "[TG@i_osd]XX_12.9_DL_NF.ipa"
-      }
-    },
-    {
       "name": "Twitter [BHTwitter]",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X Corp.",
@@ -49900,6 +49874,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "WPS_Office_AI_Doc,_PDF,_Sheet_v26_7_0_PRO+AI_Unlocked_blatant_Patched.ipa"
+      }
+    },
+    {
+      "name": "X",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "X Corp.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "version": "12.9",
+      "versionDate": "2026-07-18T14:25:40-00:00",
+      "versionDescription": "Build 10 from @thescholarslounge",
+      "size": 226073169,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.atebits.Tweetie2-12.9-eeveedecrypter.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.atebits.Tweetie2-12.9-eeveedecrypter.ipa"
       }
     },
     {
