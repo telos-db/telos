@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.ahmetserdarkaradeniz.Phocus",
     "com.lyftaios",
     "com.uqxuwtxbbu.parkingjam",
     "com.mangacrush.ios",
-    "co.visualsupply.cam",
-    "com.wellocution.iosapp"
+    "co.visualsupply.cam"
   ],
   "apps": [
     {
@@ -50117,14 +50117,14 @@
       "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
       "developerName": "RAY INFORMATICS YAZILIM TEKNOLOJI MEDYA DANISMANLIK VE EGITIM TICARET LIMITED SIRKETI",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "3.4.5",
-      "versionDate": "2026-07-14",
+      "version": "3.4.6",
+      "versionDate": "2026-07-18",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Phocus_DSLR_Portrait_Camera_v3_4_5_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Phocus_DSLR_Portrait_Camera_v3_4_6_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPhocus: DSLR Portrait Camera",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/7d/82/a57d8257-9352-d828-e2ac-976f52cb4966/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 287149516,
+      "size": 287153928,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -50140,11 +50140,11 @@
       },
       "versions": [
         {
-          "version": "3.4.5",
-          "date": "2026-07-14",
+          "version": "3.4.6",
+          "date": "2026-07-18",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Phocus_DSLR_Portrait_Camera_v3_4_5_Subscription_Unlocked_blatant.ipa",
-          "size": 287149516
+          "downloadURL": "https://telos.ftp.sh/ipas/Phocus_DSLR_Portrait_Camera_v3_4_6_Subscription_Unlocked_blatant.ipa",
+          "size": 287153928
         }
       ],
       "category": "photo-&-video"
@@ -81742,7 +81742,7 @@
     {
       "title": "⚙️ Telos Update 7.18",
       "identifier": "telos-update-2026-07-18",
-      "caption": "18 Apps Updated:\n• 4 Health & Fitness\n• 2 Social Networking\n• 2 Utilities\n• 2 Education\n• 2 Games\n• 2 Graphics & Design\n• 2 Photo & Video\n• 2 Entertainment",
+      "caption": "22 Apps Updated:\n• 6 Photo & Video\n• 4 Health & Fitness\n• 2 Social Networking\n• 2 Utilities\n• 2 Education\n• 2 Games\n• 2 Graphics & Design\n• 2 Entertainment",
       "date": "2026-07-18",
       "tintColor": "#02433b",
       "notify": true,
