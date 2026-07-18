@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.agent.super.extension.safari",
     "com.nibbleapps.MealPrepPro",
     "com.ahmetserdarkaradeniz.Phocus",
     "com.lyftaios",
-    "com.uqxuwtxbbu.parkingjam",
-    "com.mangacrush.ios"
+    "com.uqxuwtxbbu.parkingjam"
   ],
   "apps": [
     {
@@ -67555,14 +67555,14 @@
       "bundleIdentifier": "com.agent.super.extension.safari",
       "developerName": "Super Agent, Inc",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.4.1",
-      "versionDate": "2026-07-01",
+      "version": "4.5.0",
+      "versionDate": "2026-07-18",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_4_1_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_5_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSuper Agent for Safari",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/33/4b/a2334b04-5b7a-e06c-e6de-388ecc265c28/superagent-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 25835039,
+      "size": 27669367,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/08/54/730854bf-a830-da4f-b988-479c163d0558/af9c9ef5-aff8-4bfd-8d9c-289e3e771424_4.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/42/9b/47429b30-925b-13ee-d231-8bbedeba7581/e3ee2f2a-aaed-475c-bb6e-ef910d1f2ca5_5.jpg/392x696bb.jpg",
@@ -67580,11 +67580,11 @@
       },
       "versions": [
         {
-          "version": "4.4.1",
-          "date": "2026-06-30",
+          "version": "4.5.0",
+          "date": "2026-07-18",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_4_1_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 25835039
+          "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_5_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 27669367
         }
       ],
       "category": "utilities"
@@ -81743,7 +81743,7 @@
     {
       "title": "⚙️ Telos Update 7.18",
       "identifier": "telos-update-2026-07-18",
-      "caption": "24 Apps Updated:\n• 4 Photo & Video\n• 4 Health & Fitness\n• 4 Food & Drink\n• 2 Social Networking\n• 2 Utilities\n• 2 Education\n• 2 Games\n• 2 Graphics & Design\n• 2 Entertainment",
+      "caption": "26 Apps Updated:\n• 6 Utilities\n• 4 Photo & Video\n• 4 Health & Fitness\n• 2 Social Networking\n• 2 Education\n• 2 Games\n• 2 Graphics & Design\n• 2 Entertainment\n• 2 Food & Drink",
       "date": "2026-07-18",
       "tintColor": "#02433b",
       "notify": true,
