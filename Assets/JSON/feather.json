@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.genau.MoneyCircle",
+    "com.locket.Locket",
     "com.lens.ai.app",
     "com.calm.calmapp",
-    "com.glucobit.cravingBuster.CravingBuster",
-    "com.frameoneapps.Crsel",
-    "com.offlinemusic"
+    "com.glucobit.cravingBuster.CravingBuster"
   ],
   "apps": [
     {
@@ -39066,14 +39066,14 @@
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "Locket Labs, Inc.",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "2.55.0",
-      "versionDate": "2026-07-10",
+      "version": "2.56.0",
+      "versionDate": "2026-07-18",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.55.0 Locket Gold blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.56.0 Locket Gold blatant Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nLocket Widget\n\n---\nLocket is a widget that shows live photos from your best friends, right to your Home Screen. You and your best friends will see new pictures from each other every time you unlock your phone. It’s a little glimpse of what everyone’s up to throughout the day.\n\nHOW IT WORKS\n1. Add the Locket widget to your Home Screen\n2. When a friend sends you a photo, it instantly appears on your Locket widget!\n3. To share a pic back, tap into the widget, take a pic with the camera, and then hit send! It appears",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/2c/cb/772ccbb2-90e9-7902-3cfc-6792acbe4935/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 337368302,
+      "size": 337360146,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -39101,11 +39101,11 @@
       },
       "versions": [
         {
-          "version": "2.55.0",
-          "date": "2026-07-10",
+          "version": "2.56.0",
+          "date": "2026-07-18",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.55.0 Locket Gold blatant Patched.ipa",
-          "size": 337368302
+          "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.56.0 Locket Gold blatant Patched.ipa",
+          "size": 337360146
         }
       ],
       "category": "social-networking"
@@ -42938,14 +42938,14 @@
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "Genau Factory",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.4.4",
-      "versionDate": "2026-07-17",
+      "version": "3.4.5",
+      "versionDate": "2026-07-18",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.5-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMoneyCircle: Spending,Expense\n\n---\nTrack your spending with clarity and control — meet MoneyCircle.\n\nMoneyCircle makes it easy to understand where your money goes.\nWith clean design, smart categorization, and intuitive insights,\nyou’ll gain control of your finances and uncover new opportunities to save.\n\nIf you've tried other expense tracking apps but found them cluttered or overwhelming,\nMoneyCircle offers a refreshing alternative — simple, beautiful, and focused on what matters: your spending habits.\n\nKey Features\nSmart Categor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/16/62/0d166286-c90c-055c-6fe7-a9828b8d86ac/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13992052,
+      "size": 13968910,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -42961,11 +42961,11 @@
       },
       "versions": [
         {
-          "version": "3.4.4",
-          "date": "2026-07-17",
+          "version": "3.4.5",
+          "date": "2026-07-18",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.4-riftysipas.ipa",
-          "size": 13992052
+          "downloadURL": "https://telos.ftp.sh/ipas/MoneyCircle: Spending,Expense-v3.4.5-riftysipas.ipa",
+          "size": 13968910
         }
       ],
       "category": "utilities"
