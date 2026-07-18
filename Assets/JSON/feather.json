@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.wellocution.iosapp",
     "tech.miidii.MDBlank",
     "com.genau.MoneyCircle",
     "com.locket.Locket",
-    "com.lens.ai.app",
-    "com.calm.calmapp"
+    "com.lens.ai.app"
   ],
   "apps": [
     {
@@ -8479,14 +8479,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Tweaked with BoldVoice, blatantsPatch",
-      "version": "4.1.9",
-      "versionDate": "2026-07-16",
+      "version": "4.2.0",
+      "versionDate": "2026-07-18",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_9_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_2_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BoldVoice, blatantsPatch\n\nBoldVoice: Accent Training\n\n---\nBoldVoice is the top-rated English speaking and pronunciation app, with over 2 million global users. Our Hollywood accent coaches and AI-powered feedback will help you achieve clear, confident pronunciation, with only 10 minutes of daily practice.\n\nWHY CHOOSE BOLDVOICE:\nLearn from professional accent coaches who train Hollywood actors\nRecord your voice and receive instant, AI-powered pronunciation feedback\nPractice with daily-life scenarios and professional conversations\nMonitor progress through",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 143946555,
+      "size": 143921801,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8506,11 +8506,11 @@
       },
       "versions": [
         {
-          "version": "4.1.9",
-          "date": "2026-07-16",
+          "version": "4.2.0",
+          "date": "2026-07-18",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_9_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 143946555
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_2_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 143921801
         }
       ],
       "category": "education"
