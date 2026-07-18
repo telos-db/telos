@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.wellocution.iosapp",
     "tech.miidii.MDBlank",
     "com.genau.MoneyCircle",
     "com.locket.Locket",
-    "com.lens.ai.app",
-    "com.calm.calmapp"
+    "com.lens.ai.app"
   ],
   "apps": [
     {
@@ -8428,14 +8428,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.1.9",
-      "versionDate": "2026-07-16",
+      "version": "4.2.0",
+      "versionDate": "2026-07-18",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_9_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_2_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nBoldVoice: Accent Training",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 143946555,
+      "size": 143921801,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8455,11 +8455,11 @@
       },
       "versions": [
         {
-          "version": "4.1.9",
-          "date": "2026-07-16",
+          "version": "4.2.0",
+          "date": "2026-07-18",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_1_9_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 143946555
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_2_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 143921801
         }
       ],
       "category": "education"
@@ -81742,7 +81742,7 @@
     {
       "title": "⚙️ Telos Update 7.18",
       "identifier": "telos-update-2026-07-18",
-      "caption": "8 Apps Updated:\n• 4 Graphics & Design\n• 2 Social Networking\n• 2 Utilities",
+      "caption": "10 Apps Updated:\n• 4 Education\n• 2 Social Networking\n• 2 Utilities\n• 2 Graphics & Design",
       "date": "2026-07-18",
       "tintColor": "#02433b",
       "notify": true,
