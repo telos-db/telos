@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.miniclip.8ballpoolmult",
+    "co.visualsupply.cam",
     "com.AppChief.ArabicArt",
     "com.hevyapp.hevy",
-    "co.timesquared.hourstimetracker.ios",
-    "com.nuvio.media",
-    "com.atebits.Tweetie2"
+    "co.timesquared.hourstimetracker.ios"
   ],
   "apps": [
     {
@@ -845,14 +845,14 @@
       "bundleIdentifier": "com.miniclip.8ballpoolmult",
       "developerName": "Miniclip.com",
       "subtitle": "8 Ball Pool for iOS",
-      "version": "56.26.0",
-      "versionDate": "2026-06-25",
+      "version": "56.26.1",
+      "versionDate": "2026-07-19",
       "versionDescription": "Source: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/‎8 Ball Pool™_v56.26.0-AppAssassin.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\ncom.miniclip.8ballpoolmult\n\n---\nDo you want to play in the world of pool games? 8 Ball Pool is an addictive challenging game based on real 3D pool games, where you will challenge your friends online. Become a master of the pool!\n\nThe game 8 Ball Pool is easy to win. You just have to select the pool table and get ready. Join us and challenge your friends to this ball game in PvP mode. Use your pool strategy with the cue wisely in this online multiplayer ball game as every round will be more difficult after each level. You can p",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/30/76/e03076fc-10c6-fc3c-ad50-b0f65f019a4d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/8ball_i3rbypoolmodv56.26.1_patch_zarzel.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nsome 8ballpool cheat\n\n---\nDo you want to play in the world of pool games? 8 Ball Pool is an addictive challenging game based on real 3D pool games, where you will challenge your friends online. Become a master of the pool!\n\nThe game 8 Ball Pool is easy to win. You just have to select the pool table and get ready. Join us and challenge your friends to this ball game in PvP mode. Use your pool strategy with the cue wisely in this online multiplayer ball game as every round will be more difficult after each level. You can p",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/3d/52/243d5254-14b1-70ac-ff13-2643fcc50336/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 106747597,
+      "size": 108123521,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/46/cf/83/46cf8340-3229-5908-774d-26227f80d0e5/a1de1655-a15b-4fb8-927e-8543d9c52cec_8BP-SCR-Screenshots_iPhone6_U002b_001.jpg/406x228bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0b/8b/f9/0b8bf9cf-bbee-20ac-9160-b0e434ae49c2/5ba78eae-a0c6-4505-b52d-5af69e534617_8BP-SCR-Screenshots_iPhone6_U002b_002.jpg/406x228bb.jpg",
@@ -862,16 +862,16 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you."
+          "NSUserTrackingUsageDescription": "Used to bind your subscription key to this device and protect your activation."
         }
       },
       "versions": [
         {
-          "version": "56.26.0",
-          "date": "2026-06-25",
+          "version": "56.26.1",
+          "date": "2026-07-19",
           "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/‎8 Ball Pool™_v56.26.0-AppAssassin.ipa",
-          "size": 106747597
+          "downloadURL": "https://telos.ftp.sh/ipas/8ball_i3rbypoolmodv56.26.1_patch_zarzel.ipa",
+          "size": 108123521
         }
       ],
       "category": "games"
@@ -77289,14 +77289,14 @@
       "bundleIdentifier": "co.visualsupply.cam",
       "developerName": "Visual Supply Company",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "461.5.3",
-      "versionDate": "2026-07-18",
+      "version": "461.5.4",
+      "versionDate": "2026-07-19",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_3_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_4_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nVSCO: Photo & Video Editor\n\n---\nWelcome to VSCO — your complete photography platform solution for unmatched photo filters, AI photo editing, video editing, portfolio sites, client workflows, and community. VSCO is where photographers turn pro.\n\nGet access to a premium AI photo editor that provides precision and quality. From editing with our photo presets that match your style to delivering stunning client photo galleries, the VSCO photo and video editing app is a seamless way to run your photography business in one place. Dow",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/da/df/13dadff7-ba65-d78d-357f-44191bb36fbb/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 209504487,
+      "size": 209503141,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/b0/22/3cb0225e-03cb-363b-dd97-451f113b4481/mzl.iminvglq.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/50/ec/c550ec30-fffa-f371-b7bf-20386ef2fc7d/mzl.rwpqyyls.jpg/576x768bb.jpg",
@@ -77325,11 +77325,11 @@
       },
       "versions": [
         {
-          "version": "461.5.3",
-          "date": "2026-07-18",
+          "version": "461.5.4",
+          "date": "2026-07-19",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_3_Subscription_Unlocked_blatant.ipa",
-          "size": 209504487
+          "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_4_Subscription_Unlocked_blatant.ipa",
+          "size": 209503141
         }
       ],
       "category": "photo-&-video"
