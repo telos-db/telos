@@ -22820,12 +22820,12 @@
       "bundleIdentifier": "com.lampa.photo",
       "developerName": "Alexey Teplonogov",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Lampa, blatantsPatch\n\nLampa — Digital & Film Camera\n\n---\nLampa is a camera app for those who seek honest images and an analog look. It helps you get the most natural images without HDR or AI-driven effects and make soft, nostalgic photos and videos. The result feels balanced and film-like, ready straight from the camera without post-editing.\n\nNATURALLY PROCESSED PHOTO AND VIDEO\n— Minimal processing due to our own In-House Image Capture Engine. Lampa captures RAW data and processes it immediately with profiles. You get a result that can’t be achieved b",
-      "version": "2.1.0",
-      "versionDate": "2026-06-29T12:59:17-00:00",
-      "versionDescription": "Build 75 from @blatants",
-      "size": 108028207,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/21/f0/4721f0c9-444d-0384-a9ba-81fc87701219/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lampa_—_Digital_&_Film_Camera_v2_1_0_Unlimited_Photos_+_Filters.ipa",
+      "version": "2.1.1",
+      "versionDate": "2026-07-19T10:25:06-00:00",
+      "versionDescription": "Build 76 from @blatants",
+      "size": 86563622,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/67/93/9c679333-6f4b-58d0-11f7-7ecdd92bc944/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lampa_—_Digital_&_Film_Camera_v2_1_1_Unlimited_Photos_+_Filters.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -22837,7 +22837,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Lampa_—_Digital_&_Film_Camera_v2_1_0_Unlimited_Photos_+_Filters.ipa"
+        "originalFile": "Lampa_—_Digital_&_Film_Camera_v2_1_1_Unlimited_Photos_+_Filters.ipa"
       }
     },
     {
@@ -49848,6 +49848,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "WorldBox - God Sandbox-v0.51.4-riftysipas.ipa"
+      }
+    },
+    {
+      "name": "Wosti",
+      "bundleIdentifier": "com.futbolenlatv.deportesenlatv",
+      "developerName": "WOSTI 2020 SL",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nWOSTI is the official App of the reference website FutbolenvivoUSA.com, the largest guide of live soccer matches on TV. Quickly find out what channel and when all televised games are played.\n\nIn one click, you have the complete guide to televised games are broadcast live in free option, satellite, online, all channels in the USA.\n\nCharacteristics:\n- List of all soccer matches by day, time, games, teams, competition and TV channels.\n- Calendar.\n- Filters for teams, competitions and TV channels.\n-",
+      "version": "5.5.5",
+      "versionDate": "2026-07-19T10:22:32-00:00",
+      "versionDescription": "Build 1 from @thescholarslounge",
+      "size": 4640325,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/b5/75/52b575a5-c634-2822-c1cf-aa1b3a1f09a8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.futbolenlatv.deportesenlatv-5.5.5-eeveedecrypter.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.futbolenlatv.deportesenlatv-5.5.5-eeveedecrypter.ipa"
       }
     },
     {
