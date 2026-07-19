@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.facebook.Facebook",
+    "com.atebits.Tweetie2",
     "com.mta.mobileapp",
     "club.boxbox.widgets-ios",
-    "com.lampa.photo",
-    "com.futbolenlatv.deportesenlatv",
-    "com.readdle.Scanner"
+    "com.lampa.photo"
   ],
   "apps": [
     {
@@ -21400,15 +21400,15 @@
       "name": "Facebook",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Meta Platforms, Inc.",
-      "subtitle": "Tweaked with CydiaSubstrate, Glow",
+      "subtitle": "Facebook for iOS",
       "version": "570.0.0",
       "versionDate": "2026-07-19",
-      "versionDescription": "Tweaks: CydiaSubstrate, Glow\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/FB_v570.0._Glow_v1.3.1.ipa",
-      "localizedDescription": "Glow 1.3.1",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/‎Facebook_v570.0.0-AppAssassin.ipa",
+      "localizedDescription": "com.facebook.Facebook",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/77/75/3d7775af-f82f-6eb2-3e03-49ec4c77dd2b/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 204981478,
+      "size": 216193742,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/c0/fa/e2c0faf7-2613-0ead-3c3a-193d992e3930/f254967c-6ef9-4cc6-b4bf-e89cf016337c_1-iOS-5.5-Home.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/d9/9b/6ad99bf8-e769-1fd2-0ac7-f9f0553978a2/c795c58d-ec37-463c-9ab9-ba0b8bc00ddd_2-iOS-5.5-Reels.png/392x696bb.png",
@@ -21457,9 +21457,9 @@
         {
           "version": "570.0.0",
           "date": "2026-07-19",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Glow\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/FB_v570.0._Glow_v1.3.1.ipa",
-          "size": 204981478
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/‎Facebook_v570.0.0-AppAssassin.ipa",
+          "size": 216193742
         }
       ],
       "category": "social-networking"
@@ -81827,7 +81827,7 @@
     {
       "title": "⚙️ Telos Update 7.19",
       "identifier": "telos-update-2026-07-19",
-      "caption": "24 Apps Updated:\n• 6 Education\n• 4 Photo & Video\n• 4 Sports\n• 2 Games\n• 2 Health & Fitness\n• 2 Social Networking\n• 2 Navigation\n• 2 Business",
+      "caption": "32 Apps Updated:\n• 6 Education\n• 6 Social Networking\n• 4 Photo & Video\n• 4 Sports\n• 4 News\n• 2 Games\n• 2 Health & Fitness\n• 2 Navigation\n• 2 Business",
       "date": "2026-07-19",
       "tintColor": "#02433b",
       "notify": true,
