@@ -13590,13 +13590,13 @@
       "name": "Facebook",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Meta Platforms, Inc.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nWhere real people propel your curiosity. Whether you’re thrifting gear, showing reels to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.\n\nExplore and expand your interests:\n Shop Marketplace for hidden gems and take your hobbies to the next level\n Personalize your Feed to see more of what you like, less of what you don’t\n Ask Meta AI for information and get answers instantly\n Drive into reels that ref",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\ncom.facebook.Facebook\n\n---\nWhere real people propel your curiosity. Whether you’re thrifting gear, showing reels to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.\n\nExplore and expand your interests:\n Shop Marketplace for hidden gems and take your hobbies to the next level\n Personalize your Feed to see more of what you like, less of what you don’t\n Ask Meta AI for information and get answers instantly\n Drive into reels that ref",
       "version": "570.0.0",
-      "versionDate": "2026-07-17T01:31:48-00:00",
-      "versionDescription": "Build 1017898548 from @thescholarslounge",
-      "size": 222609705,
+      "versionDate": "2026-07-19T18:42:30-00:00",
+      "versionDescription": "Build 1017898548 from @binnichtaktivsipas",
+      "size": 216193742,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/77/75/3d7775af-f82f-6eb2-3e03-49ec4c77dd2b/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.facebook.Facebook-570.0.0-eeveedecrypter.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/‎Facebook_v570.0.0-AppAssassin.ipa",
       "minOSVersion": "15.1",
       "supportedPlatforms": [
         "iOS"
@@ -13606,10 +13606,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@thescholarslounge",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "com.facebook.Facebook-570.0.0-eeveedecrypter.ipa"
+        "originalFile": "‎Facebook_v570.0.0-AppAssassin.ipa"
       }
     },
     {
@@ -46286,32 +46286,6 @@
       }
     },
     {
-      "name": "Twitter [FreeBird]",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "X Corp.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nUninstall your Twitter first. Then install this IPA, and login\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
-      "version": "9.67",
-      "versionDate": "2026-06-15T18:06:03-00:00",
-      "versionDescription": "Build 12 from @thescholarslounge",
-      "size": 117520456,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/9f/e1/889fe148-e8a2-72ba-508d-2d945b3c6537/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/X9.67NeoFreeBirdWithMoeLoginFixPatched.ipa",
-      "minOSVersion": "15.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@thescholarslounge",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "X9.67NeoFreeBirdWithMoeLoginFixPatched.ipa"
-      }
-    },
-    {
       "name": "TypeAI",
       "bundleIdentifier": "com.codeway.AIKeyboard",
       "developerName": "DEEP FLOW SOFTWARE SERVICES",
@@ -49926,6 +49900,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "com.atebits.Tweetie2-12.9-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "X [FreeBird]",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "X Corp.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "version": "12.3",
+      "versionDate": "2026-07-19T18:36:37-00:00",
+      "versionDescription": "Build 10 from @thescholarslounge",
+      "size": 235716535,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/NeoFreeBird-sideloaded-X_6.0.3_12.3.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "NeoFreeBird-sideloaded-X_6.0.3_12.3.ipa"
       }
     },
     {
