@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.lampa.photo",
+    "com.futbolenlatv.deportesenlatv",
     "com.readdle.Scanner",
     "com.joytunes.asla",
-    "com.facebook.Facebook",
-    "com.joytunes.Draw",
-    "com.busuu.english.app"
+    "com.facebook.Facebook"
   ],
   "apps": [
     {
@@ -36076,14 +36076,14 @@
       "bundleIdentifier": "com.lampa.photo",
       "developerName": "Alexey Teplonogov",
       "subtitle": "Patched | Tweaked",
-      "version": "2.1.0",
-      "versionDate": "2026-06-29",
+      "version": "2.1.1",
+      "versionDate": "2026-07-19",
       "versionDescription": "Tweaks: Lampa, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lampa_—_Digital_&_Film_Camera_v2_1_0_Unlimited_Photos_+_Filters.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lampa_—_Digital_&_Film_Camera_v2_1_1_Unlimited_Photos_+_Filters.ipa",
       "localizedDescription": "Patched | Tweaked\n\nLampa — Digital & Film Camera",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/21/f0/4721f0c9-444d-0384-a9ba-81fc87701219/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/67/93/9c679333-6f4b-58d0-11f7-7ecdd92bc944/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 108028207,
+      "size": 86563622,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/f2/92/98f29201-294d-702a-2d32-418e95534cd9/168dd0e8-bcf5-4293-8038-098a304b57a4_5.5__01n.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/8b/79/098b79a3-73ff-22d9-0e56-78066bec848f/54945edd-ac58-41e7-8975-f0f2799b4ea5_5.5__05n.jpg/392x696bb.jpg",
@@ -36106,11 +36106,11 @@
       },
       "versions": [
         {
-          "version": "2.1.0",
-          "date": "2026-06-29",
+          "version": "2.1.1",
+          "date": "2026-07-19",
           "localizedDescription": "Tweaks: Lampa, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lampa_—_Digital_&_Film_Camera_v2_1_0_Unlimited_Photos_+_Filters.ipa",
-          "size": 108028207
+          "downloadURL": "https://telos.ftp.sh/ipas/Lampa_—_Digital_&_Film_Camera_v2_1_1_Unlimited_Photos_+_Filters.ipa",
+          "size": 86563622
         }
       ],
       "category": "photo-&-video"
@@ -78858,6 +78858,43 @@
       "category": "games"
     },
     {
+      "name": "Wosti",
+      "bundleIdentifier": "com.futbolenlatv.deportesenlatv",
+      "developerName": "WOSTI 2020 SL",
+      "subtitle": "Wosti for iOS",
+      "version": "5.5.5",
+      "versionDate": "2026-07-19",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.futbolenlatv.deportesenlatv-5.5.5-eeveedecrypter.ipa",
+      "localizedDescription": "Decrypted",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/b5/75/52b575a5-c634-2822-c1cf-aa1b3a1f09a8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 4640325,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/46/b5/0d46b58a-cced-4a65-24d3-0071bcefc0c7/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/03/96/9f03961e-d94f-535e-f562-059677c2aed6/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/7e/2c/c27e2c5e-080b-f7a4-dd85-3ceb9521c774/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/c6/5f/a0c65f24-fe31-2374-7e9a-5f7c6b44d26d/pr_source.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Used to create alerts and remind you of your favourite events",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you"
+        }
+      },
+      "versions": [
+        {
+          "version": "5.5.5",
+          "date": "2026-02-27",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.futbolenlatv.deportesenlatv-5.5.5-eeveedecrypter.ipa",
+          "size": 4640325
+        }
+      ],
+      "category": "sports"
+    },
+    {
       "name": "wpsoffice",
       "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
       "developerName": "KINGSOFT OFFICE SOFTWARE CORPORATION LIMITED",
@@ -81789,7 +81826,7 @@
     {
       "title": "⚙️ Telos Update 7.19",
       "identifier": "telos-update-2026-07-19",
-      "caption": "20 Apps Updated:\n• 8 Education\n• 4 Business\n• 2 Photo & Video\n• 2 Games\n• 2 Health & Fitness\n• 2 Social Networking",
+      "caption": "24 Apps Updated:\n• 6 Photo & Video\n• 6 Education\n• 4 Sports\n• 2 Games\n• 2 Health & Fitness\n• 2 Social Networking\n• 2 Business",
       "date": "2026-07-19",
       "tintColor": "#02433b",
       "notify": true,
