@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.miniclip.8ballpoolmult",
+    "co.visualsupply.cam",
     "com.AppChief.ArabicArt",
     "com.hevyapp.hevy",
-    "co.timesquared.hourstimetracker.ios",
-    "com.nuvio.media",
-    "com.atebits.Tweetie2"
+    "co.timesquared.hourstimetracker.ios"
   ],
   "apps": [
     {
@@ -845,14 +845,14 @@
       "bundleIdentifier": "com.miniclip.8ballpoolmult",
       "developerName": "Miniclip.com",
       "subtitle": "8 Ball Pool for iOS",
-      "version": "56.26.0",
-      "versionDate": "2026-06-25",
+      "version": "56.26.1",
+      "versionDate": "2026-07-19",
       "versionDescription": "Source: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/‎8 Ball Pool™_v56.26.0-AppAssassin.ipa",
-      "localizedDescription": "com.miniclip.8ballpoolmult",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/30/76/e03076fc-10c6-fc3c-ad50-b0f65f019a4d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/8ball_i3rbypoolmodv56.26.1_patch_zarzel.ipa",
+      "localizedDescription": "some 8ballpool cheat",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/3d/52/243d5254-14b1-70ac-ff13-2643fcc50336/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 106747597,
+      "size": 108123521,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/46/cf/83/46cf8340-3229-5908-774d-26227f80d0e5/a1de1655-a15b-4fb8-927e-8543d9c52cec_8BP-SCR-Screenshots_iPhone6_U002b_001.jpg/406x228bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0b/8b/f9/0b8bf9cf-bbee-20ac-9160-b0e434ae49c2/5ba78eae-a0c6-4505-b52d-5af69e534617_8BP-SCR-Screenshots_iPhone6_U002b_002.jpg/406x228bb.jpg",
@@ -862,16 +862,16 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you."
+          "NSUserTrackingUsageDescription": "Used to bind your subscription key to this device and protect your activation."
         }
       },
       "versions": [
         {
-          "version": "56.26.0",
-          "date": "2026-06-25",
+          "version": "56.26.1",
+          "date": "2026-07-19",
           "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/‎8 Ball Pool™_v56.26.0-AppAssassin.ipa",
-          "size": 106747597
+          "downloadURL": "https://telos.ftp.sh/ipas/8ball_i3rbypoolmodv56.26.1_patch_zarzel.ipa",
+          "size": 108123521
         }
       ],
       "category": "games"
@@ -76211,14 +76211,14 @@
       "bundleIdentifier": "co.visualsupply.cam",
       "developerName": "Visual Supply Company",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "461.5.3",
-      "versionDate": "2026-07-18",
+      "version": "461.5.4",
+      "versionDate": "2026-07-19",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_3_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_4_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nVSCO: Photo & Video Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/da/df/13dadff7-ba65-d78d-357f-44191bb36fbb/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 209504487,
+      "size": 209503141,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/b0/22/3cb0225e-03cb-363b-dd97-451f113b4481/mzl.iminvglq.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/50/ec/c550ec30-fffa-f371-b7bf-20386ef2fc7d/mzl.rwpqyyls.jpg/576x768bb.jpg",
@@ -76247,11 +76247,11 @@
       },
       "versions": [
         {
-          "version": "461.5.3",
-          "date": "2026-07-18",
+          "version": "461.5.4",
+          "date": "2026-07-19",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_3_Subscription_Unlocked_blatant.ipa",
-          "size": 209504487
+          "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_5_4_Subscription_Unlocked_blatant.ipa",
+          "size": 209503141
         }
       ],
       "category": "photo-&-video"
@@ -81787,11 +81787,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 7.19",
+      "identifier": "telos-update-2026-07-19",
+      "caption": "8 Apps Updated:\n• 4 Photo & Video\n• 4 Games",
+      "date": "2026-07-19",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "co.visualsupply.cam"
+    },
+    {
       "title": "⚙️ Telos Update 7.18",
       "identifier": "telos-update-2026-07-18",
-      "caption": "42 Apps Updated:\n• 12 Health & Fitness\n• 8 Photo & Video\n• 4 Utilities\n• 4 Games\n• 2 Social Networking\n• 2 Education\n• 2 Graphics & Design\n• 2 Entertainment\n• 2 Food & Drink\n• 2 News\n• 2 Business",
+      "caption": "40 Apps Updated:\n• 12 Health & Fitness\n• 6 Photo & Video\n• 4 Utilities\n• 4 Games\n• 2 Social Networking\n• 2 Education\n• 2 Graphics & Design\n• 2 Entertainment\n• 2 Food & Drink\n• 2 News\n• 2 Business",
       "date": "2026-07-18",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.locket.Locket"
     },
@@ -81800,7 +81809,7 @@
       "identifier": "telos-update-2026-07-17",
       "caption": "84 Apps Updated:\n• 18 Music\n• 12 News\n• 10 Lifestyle\n• 10 Health & Fitness\n• 8 Photo & Video\n• 6 Games\n• 4 Productivity\n• 4 Social Networking\n• 2 Food & Drink\n• 2 Utilities\n• 2 Finance\n• 2 Sports\n• 2 Medical\n• 2 Reference",
       "date": "2026-07-17",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.relentlessco.zesty"
     },
@@ -81809,7 +81818,7 @@
       "identifier": "telos-update-2026-07-16",
       "caption": "116 Apps Updated:\n• 32 Photo & Video\n• 28 Health & Fitness\n• 8 Games\n• 8 Medical\n• 6 Utilities\n• 6 Education\n• 4 Lifestyle\n• 4 Reference\n• 4 News\n• 2 Productivity\n• 2 Finance\n• 2 Food & Drink\n• 2 Navigation\n• 2 Sports\n• 2 Graphics & Design\n• 2 Travel\n• 2 Weather",
       "date": "2026-07-16",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "org.reactjs.native.example.rootd"
     },
@@ -81818,7 +81827,7 @@
       "identifier": "telos-update-2026-07-15",
       "caption": "106 Apps Updated:\n• 18 Health & Fitness\n• 14 Photo & Video\n• 12 Education\n• 10 Productivity\n• 10 Lifestyle\n• 8 Games\n• 6 Reference\n• 6 Finance\n• 4 Entertainment\n• 4 Sports\n• 2 Graphics & Design\n• 2 Weather\n• 2 News\n• 2 Other\n• 2 Business\n• 2 Navigation\n• 2 Social Networking",
       "date": "2026-07-15",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.kingsoft.office.g.wpsoffice"
     },
@@ -81827,7 +81836,7 @@
       "identifier": "telos-update-2026-07-14",
       "caption": "98 Apps Updated:\n• 20 Health & Fitness\n• 16 Photo & Video\n• 16 Productivity\n• 12 Education\n• 6 Lifestyle\n• 4 Weather\n• 4 Navigation\n• 4 Music\n• 2 Games\n• 2 Developer Tools\n• 2 Medical\n• 2 Entertainment\n• 2 Sports\n• 2 Graphics & Design\n• 2 Utilities\n• 2 Food & Drink",
       "date": "2026-07-14",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.sporcle.party"
     },
@@ -81836,7 +81845,7 @@
       "identifier": "telos-update-2026-07-13",
       "caption": "104 Apps Updated:\n• 28 Photo & Video\n• 18 Education\n• 12 Health & Fitness\n• 10 Entertainment\n• 6 Utilities\n• 6 Music\n• 4 Productivity\n• 4 Business\n• 4 Lifestyle\n• 2 Games\n• 2 Weather\n• 2 Travel\n• 2 Sports\n• 2 Navigation\n• 2 News",
       "date": "2026-07-13",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "ai.polycam.polycam"
     },
@@ -81845,7 +81854,7 @@
       "identifier": "telos-update-2026-07-12",
       "caption": "30 Apps Updated:\n• 6 Photo & Video\n• 4 Travel\n• 2 Productivity\n• 2 Utilities\n• 2 Music\n• 2 Social Networking\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Sports\n• 2 Finance\n• 2 Health & Fitness\n• 2 News",
       "date": "2026-07-12",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.microsoft.PlannerMobile"
     },
@@ -81854,7 +81863,7 @@
       "identifier": "telos-update-2026-07-11",
       "caption": "46 Apps Updated:\n• 8 Entertainment\n• 8 Photo & Video\n• 6 Education\n• 4 Productivity\n• 4 Health & Fitness\n• 4 Games\n• 2 Finance\n• 2 Graphics & Design\n• 2 Utilities\n• 2 Business\n• 2 Music\n• 2 Lifestyle",
       "date": "2026-07-11",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "overlook.fing"
     },
@@ -81863,18 +81872,9 @@
       "identifier": "telos-update-2026-07-10",
       "caption": "88 Apps Updated:\n• 11 Health & Fitness\n• 10 Utilities\n• 10 Education\n• 8 Lifestyle\n• 8 Photo & Video\n• 6 Games\n• 6 Productivity\n• 4 Developer Tools\n• 4 Sports\n• 4 Reference\n• 4 Social Networking\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Business\n• 2 Music\n• 2 News\n• 2 Books\n• 1 Finance",
       "date": "2026-07-10",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "com.tuya.smartlife"
-    },
-    {
-      "title": "⚙️ Telos Update 7.9",
-      "identifier": "telos-update-2026-07-09",
-      "caption": "76 Apps Updated:\n• 26 Photo & Video\n• 17 Health & Fitness\n• 10 Entertainment\n• 4 Medical\n• 4 Education\n• 4 Lifestyle\n• 4 Music\n• 2 Games\n• 2 Productivity\n• 2 Navigation\n• 1 Finance",
-      "date": "2026-07-09",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.sublime.capture"
+      "appID": "com.tuya.smartlife"
     }
   ]
 }
