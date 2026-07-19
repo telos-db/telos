@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "club.boxbox.widgets-ios",
     "com.lampa.photo",
     "com.futbolenlatv.deportesenlatv",
     "com.readdle.Scanner",
-    "com.joytunes.asla",
-    "com.facebook.Facebook"
+    "com.joytunes.asla"
   ],
   "apps": [
     {
@@ -8767,15 +8767,15 @@
       "name": "Box Box",
       "bundleIdentifier": "club.boxbox.widgets-ios",
       "developerName": "ARKADE CLUB PRIVATE LIMITED",
-      "subtitle": "*Tweak:** Ultra Unlocked | *Patched ✓**",
-      "version": "5.3.9",
-      "versionDate": "2026-06-08",
-      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Box Box Club: Formula Widgets-v5.3.9-riftysipas.ipa",
-      "localizedDescription": "*Tweak:** Ultra Unlocked | *Patched ✓**\n\nBox Box Club: Formula Widgets",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/cb/75/41cb75bf-000c-b3fe-4002-35f3110f78fb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "subtitle": "Patched | Tweaked",
+      "version": "5.4.0",
+      "versionDate": "2026-07-19",
+      "versionDescription": "Tweaks: BoxBox, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Box_Box_Club_Formula_Widgets_v5_4_0_SubscriptionULTRA_Unlocked_blatant.ipa",
+      "localizedDescription": "Patched | Tweaked\n\nBox Box Club: Formula Widgets",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/08/79/b20879c3-239f-c643-01d0-7b3e84b77b28/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 87196377,
+      "size": 111757966,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/4c/ef/234cef78-ef96-9929-8a89-4d8bad81b2d5/90648e3f-6f9d-47f0-b274-ab3eef15bdaa_01.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/7b/23/8f7b23fd-75e7-8df2-3602-b864abd6494a/f2a2f1d2-1830-42b1-b261-654893af6dbb_02.jpg/576x768bb.jpg",
@@ -8796,11 +8796,11 @@
       },
       "versions": [
         {
-          "version": "5.3.9",
-          "date": "2026-06-08",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Box Box Club: Formula Widgets-v5.3.9-riftysipas.ipa",
-          "size": 87196377
+          "version": "5.4.0",
+          "date": "2026-07-19",
+          "localizedDescription": "Tweaks: BoxBox, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Box_Box_Club_Formula_Widgets_v5_4_0_SubscriptionULTRA_Unlocked_blatant.ipa",
+          "size": 111757966
         }
       ],
       "category": "sports"
@@ -81826,7 +81826,7 @@
     {
       "title": "⚙️ Telos Update 7.19",
       "identifier": "telos-update-2026-07-19",
-      "caption": "24 Apps Updated:\n• 6 Photo & Video\n• 6 Education\n• 4 Sports\n• 2 Games\n• 2 Health & Fitness\n• 2 Social Networking\n• 2 Business",
+      "caption": "24 Apps Updated:\n• 6 Education\n• 6 Sports\n• 4 Photo & Video\n• 2 Games\n• 2 Health & Fitness\n• 2 Social Networking\n• 2 Business",
       "date": "2026-07-19",
       "tintColor": "#02433b",
       "notify": true,
