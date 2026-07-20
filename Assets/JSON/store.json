@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.facebook.Facebook",
-    "com.atebits.Tweetie2",
-    "com.mta.mobileapp",
-    "club.boxbox.widgets-ios",
-    "com.lampa.photo"
+    "com.gingerlabs.Notability",
+    "com.TickTick.task",
+    "com.intsig.CamScannerLite",
+    "tv.twitch",
+    "com.facebook.Facebook"
   ],
   "apps": [
     {
@@ -45933,14 +45933,14 @@
       "bundleIdentifier": "com.gingerlabs.Notability",
       "developerName": "Ginger Labs",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "16.6.1",
-      "versionDate": "2026-07-15",
+      "version": "16.7",
+      "versionDate": "2026-07-20",
       "versionDescription": "Tweaks: Notability, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_6_1_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_7_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nNotability: AI Notes & PDF app",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/a3/c6/9ca3c67c-cf0a-fece-dceb-6e8e17e70ba2/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 263096421,
+      "size": 263590118,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a8/6c/eea86cda-14d4-6a30-2c2c-c3e89532d4a3/1-iPhone55-EN.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/20/f5/f820f50c-2df3-745a-f955-1a70dfb4f1ff/2-iPhone55-EN.png/392x696bb.png",
@@ -45972,11 +45972,11 @@
       },
       "versions": [
         {
-          "version": "16.6.1",
-          "date": "2026-07-15",
+          "version": "16.7",
+          "date": "2026-07-20",
           "localizedDescription": "Tweaks: Notability, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_6_1_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 263096421
+          "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_7_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 263590118
         }
       ],
       "category": "productivity"
@@ -70361,14 +70361,14 @@
       "bundleIdentifier": "com.TickTick.task",
       "developerName": "Appest Limited",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "8.1.20",
-      "versionDate": "2026-07-06",
+      "version": "8.1.30",
+      "versionDate": "2026-07-20",
       "versionDescription": "Tweaks: Ticktick, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_20_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_30_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nTickTick:To-Do List & Calendar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/63/5b/3b635b46-2333-f453-ce84-df1c871cc217/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 107725141,
+      "size": 107859074,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/b2/70/eeb270e8-eddf-d428-e861-6d1fd22858d0/1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/f4/88/54f48874-fe96-1623-48f0-6a9061a1d34b/2-3.png/392x696bb.png",
@@ -70413,11 +70413,11 @@
       },
       "versions": [
         {
-          "version": "8.1.20",
-          "date": "2026-07-06",
+          "version": "8.1.30",
+          "date": "2026-07-20",
           "localizedDescription": "Tweaks: Ticktick, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_20_Subscription_Unlocked_blatant.ipa",
-          "size": 107725141
+          "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_30_Subscription_Unlocked_blatant.ipa",
+          "size": 107859074
         }
       ],
       "category": "productivity"
@@ -73154,15 +73154,15 @@
       "name": "Twitch",
       "bundleIdentifier": "tv.twitch",
       "developerName": "Twitch Interactive, Inc.",
-      "subtitle": "Tweaked with CydiaSubstrate, Tweach",
-      "version": "29.8",
-      "versionDate": "2026-06-14",
-      "versionDescription": "Tweaks: CydiaSubstrate, Tweach\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Twitch_29.8_Tweach_2.3.3_cracked.ipa",
+      "subtitle": "Twitch for iOS",
+      "version": "30.3",
+      "versionDate": "2026-07-20",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/tv.twitch-30.3-eeveedecrypter.ipa",
       "localizedDescription": "Twitch for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/ff/a3/13ffa38f-fd46-e714-6b78-8b011f398817/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/fe/fb/86fefbfe-29cb-5db8-372c-3b442a20eb50/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 139798204,
+      "size": 154880151,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/48/80/234880cc-db04-7d86-a3d5-70a0b46d6896/37b30cee-8c44-4162-944b-4def125308cf_01-1242x2208.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/aa/4e/60aa4eec-76de-e4dd-77b6-390b4bd323f7/121623e7-1287-49f0-9ea7-068ffc760e1f_02-1242x2208.jpg/392x696bb.jpg",
@@ -73192,11 +73192,11 @@
       },
       "versions": [
         {
-          "version": "29.8",
-          "date": "2026-06-09",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Tweach\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Twitch_29.8_Tweach_2.3.3_cracked.ipa",
-          "size": 139798204
+          "version": "30.3",
+          "date": "2026-07-13",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/tv.twitch-30.3-eeveedecrypter.ipa",
+          "size": 154880151
         }
       ],
       "category": "photo-&-video"
@@ -81467,14 +81467,14 @@
       "bundleIdentifier": "com.intsig.CamScannerLite",
       "developerName": "INTSIG Information Co., Ltd",
       "subtitle": "Vip Unlocked | Patched",
-      "version": "7.21.5",
-      "versionDate": "2026-07-13",
+      "version": "7.22.0",
+      "versionDate": "2026-07-20",
       "versionDescription": "Tweaks: CamScanner, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/CamScanner_PDF_Scanner_App_v7_21_5_VIP_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/CamScanner_PDF_Scanner_App_v7_22_0_VIP_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Vip Unlocked | Patched | Tweaked\n\nCamScanner - PDF Scanner App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/b7/a2/ffb7a20c-c12f-e4d5-38fc-2f476eb6c420/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 206821268,
+      "size": 211136840,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/00/6f/bd006f02-38ea-4084-6ed7-3920ef6d8e8a/f07b301d-3704-443a-8599-464c41bd25cb_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-1-1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e1/eb/4e/e1eb4e62-ad78-3f1f-9c1c-9e2b71d3928c/47f87bf1-8749-4190-87d3-f0d4080adbc4_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-2.jpg/392x696bb.jpg",
@@ -81509,11 +81509,11 @@
       },
       "versions": [
         {
-          "version": "7.21.5",
-          "date": "2026-07-13",
+          "version": "7.22.0",
+          "date": "2026-07-20",
           "localizedDescription": "Tweaks: CamScanner, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/CamScanner_PDF_Scanner_App_v7_21_5_VIP_Unlocked_blatant_Patched.ipa",
-          "size": 206821268
+          "downloadURL": "https://telos.ftp.sh/ipas/CamScanner_PDF_Scanner_App_v7_22_0_VIP_Unlocked_blatant_Patched.ipa",
+          "size": 211136840
         }
       ],
       "category": "productivity"
@@ -81825,11 +81825,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 7.20",
+      "identifier": "telos-update-2026-07-20",
+      "caption": "16 Apps Updated:\n• 12 Productivity\n• 4 Photo & Video",
+      "date": "2026-07-20",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "com.intsig.CamScannerLite"
+    },
+    {
       "title": "⚙️ Telos Update 7.19",
       "identifier": "telos-update-2026-07-19",
       "caption": "28 Apps Updated:\n• 6 Education\n• 4 Photo & Video\n• 4 Social Networking\n• 4 Sports\n• 2 Games\n• 2 Health & Fitness\n• 2 Navigation\n• 2 News\n• 2 Business",
       "date": "2026-07-19",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "co.visualsupply.cam"
     },
@@ -81838,7 +81847,7 @@
       "identifier": "telos-update-2026-07-18",
       "caption": "40 Apps Updated:\n• 12 Health & Fitness\n• 6 Photo & Video\n• 4 Utilities\n• 4 Games\n• 2 Social Networking\n• 2 Education\n• 2 Graphics & Design\n• 2 Entertainment\n• 2 Food & Drink\n• 2 News\n• 2 Business",
       "date": "2026-07-18",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.locket.Locket"
     },
@@ -81847,7 +81856,7 @@
       "identifier": "telos-update-2026-07-17",
       "caption": "84 Apps Updated:\n• 18 Music\n• 12 News\n• 10 Lifestyle\n• 10 Health & Fitness\n• 8 Photo & Video\n• 6 Games\n• 4 Productivity\n• 4 Social Networking\n• 2 Food & Drink\n• 2 Utilities\n• 2 Finance\n• 2 Sports\n• 2 Medical\n• 2 Reference",
       "date": "2026-07-17",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.relentlessco.zesty"
     },
@@ -81856,7 +81865,7 @@
       "identifier": "telos-update-2026-07-16",
       "caption": "116 Apps Updated:\n• 32 Photo & Video\n• 28 Health & Fitness\n• 8 Games\n• 8 Medical\n• 6 Utilities\n• 6 Education\n• 4 Lifestyle\n• 4 Reference\n• 4 News\n• 2 Productivity\n• 2 Finance\n• 2 Food & Drink\n• 2 Navigation\n• 2 Sports\n• 2 Graphics & Design\n• 2 Travel\n• 2 Weather",
       "date": "2026-07-16",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "org.reactjs.native.example.rootd"
     },
@@ -81865,7 +81874,7 @@
       "identifier": "telos-update-2026-07-15",
       "caption": "106 Apps Updated:\n• 18 Health & Fitness\n• 14 Photo & Video\n• 12 Education\n• 10 Productivity\n• 10 Lifestyle\n• 8 Games\n• 6 Reference\n• 6 Finance\n• 4 Entertainment\n• 4 Sports\n• 2 Graphics & Design\n• 2 Weather\n• 2 News\n• 2 Other\n• 2 Business\n• 2 Navigation\n• 2 Social Networking",
       "date": "2026-07-15",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.kingsoft.office.g.wpsoffice"
     },
@@ -81874,7 +81883,7 @@
       "identifier": "telos-update-2026-07-14",
       "caption": "98 Apps Updated:\n• 20 Health & Fitness\n• 16 Photo & Video\n• 16 Productivity\n• 12 Education\n• 6 Lifestyle\n• 4 Weather\n• 4 Navigation\n• 4 Music\n• 2 Games\n• 2 Developer Tools\n• 2 Medical\n• 2 Entertainment\n• 2 Sports\n• 2 Graphics & Design\n• 2 Utilities\n• 2 Food & Drink",
       "date": "2026-07-14",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.sporcle.party"
     },
@@ -81883,7 +81892,7 @@
       "identifier": "telos-update-2026-07-13",
       "caption": "104 Apps Updated:\n• 28 Photo & Video\n• 18 Education\n• 12 Health & Fitness\n• 10 Entertainment\n• 6 Utilities\n• 6 Music\n• 4 Productivity\n• 4 Business\n• 4 Lifestyle\n• 2 Games\n• 2 Weather\n• 2 Travel\n• 2 Sports\n• 2 Navigation\n• 2 News",
       "date": "2026-07-13",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "ai.polycam.polycam"
     },
@@ -81892,7 +81901,7 @@
       "identifier": "telos-update-2026-07-12",
       "caption": "30 Apps Updated:\n• 6 Photo & Video\n• 4 Travel\n• 2 Productivity\n• 2 Utilities\n• 2 Music\n• 2 Social Networking\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Sports\n• 2 Finance\n• 2 Health & Fitness\n• 2 News",
       "date": "2026-07-12",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.microsoft.PlannerMobile"
     },
@@ -81901,18 +81910,9 @@
       "identifier": "telos-update-2026-07-11",
       "caption": "46 Apps Updated:\n• 8 Entertainment\n• 8 Photo & Video\n• 6 Education\n• 4 Productivity\n• 4 Health & Fitness\n• 4 Games\n• 2 Finance\n• 2 Graphics & Design\n• 2 Utilities\n• 2 Business\n• 2 Music\n• 2 Lifestyle",
       "date": "2026-07-11",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "overlook.fing"
-    },
-    {
-      "title": "⚙️ Telos Update 7.10",
-      "identifier": "telos-update-2026-07-10",
-      "caption": "88 Apps Updated:\n• 11 Health & Fitness\n• 10 Utilities\n• 10 Education\n• 8 Lifestyle\n• 8 Photo & Video\n• 6 Games\n• 6 Productivity\n• 4 Developer Tools\n• 4 Sports\n• 4 Reference\n• 4 Social Networking\n• 2 Entertainment\n• 2 Graphics & Design\n• 2 Business\n• 2 Music\n• 2 News\n• 2 Books\n• 1 Finance",
-      "date": "2026-07-10",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.tuya.smartlife"
+      "appID": "overlook.fing"
     }
   ]
 }
