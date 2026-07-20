@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.risesci.nyx",
+    "com.caliberfitness.app",
     "com.burbn.instagram",
     "com.atebits.Tweetie2",
-    "com.thenovik.Presets",
-    "com.soundcloud.TouchApp",
-    "co.codeleap.bearable"
+    "com.thenovik.Presets"
   ],
   "apps": [
     {
@@ -10326,14 +10326,14 @@
       "bundleIdentifier": "com.caliberfitness.app",
       "developerName": "Caliber Fitness, Inc",
       "subtitle": "Tweaked with Caliber, blatantsPatch",
-      "version": "5.14.1",
-      "versionDate": "2026-07-13",
+      "version": "5.15.0",
+      "versionDate": "2026-07-20",
       "versionDescription": "Tweaks: Caliber, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Caliber_Strength_Training_v5_14_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Caliber_Strength_Training_v5_15_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Caliber, blatantsPatch\n\nCaliber: Strength Training\n\n---\nCaliber is a science-based strength training app that combines resistance training, cardio, nutrition, and habit formation to help you build muscle, lose fat, and improve your overall fitness—for good.\n\nTRAIN YOUR WAY\n\n• Free Version. Create and track unlimited workouts, access 600+ exercises, and train solo or with friends.\n\n• Caliber Plus. Maximize your results with coach-designed training plans, personalized progress tracking, nutrition targets and more.\n\n• Premium Coaching. Get 1-on-1 guidan",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/b9/89/fab989b3-614a-1717-7fab-a2839f4af964/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 51669890,
+      "size": 51672875,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -10357,11 +10357,11 @@
       },
       "versions": [
         {
-          "version": "5.14.1",
-          "date": "2026-07-13",
+          "version": "5.15.0",
+          "date": "2026-07-20",
           "localizedDescription": "Tweaks: Caliber, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Caliber_Strength_Training_v5_14_1_Subscription_Unlocked_blatant.ipa",
-          "size": 51669890
+          "downloadURL": "https://telos.ftp.sh/ipas/Caliber_Strength_Training_v5_15_0_Subscription_Unlocked_blatant.ipa",
+          "size": 51672875
         }
       ],
       "category": "health-&-fitness"
@@ -57882,14 +57882,14 @@
       "bundleIdentifier": "com.risesci.nyx",
       "developerName": "Rise Science Inc",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "0.1.611",
-      "versionDate": "2026-07-16",
+      "version": "0.1.612",
+      "versionDate": "2026-07-20",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_611_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_612_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nRISE: Sleep Tracker\n\n---\nJoin over 10 million users! Become a better sleeper and morning person thanks to 100 years of sleep science with RISE, the only sleep tracker that also measures your sleep debt and energy levels.\n\nRecommended by the Sleep Foundation and trusted by teams in the NFL, MLB, and NBA, and top Fortune 500 companies, RISE makes it easy to improve your sleep and energy.\n\nBut RISE is more than a sleep and energy tracker. Users can access widgets, calendar integration, sleeping sounds, meditation guides, s",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/78/be/d178be1e-bd03-e7c3-4023-e8fb723b6db2/App-Icon-Glass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 130594612,
+      "size": 130615827,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/fe/b7/f5feb7b6-0c2d-3758-7ecd-21e4553cd2c7/a457da92-9a8d-48e8-8150-8f355011e70e_5.5_SS1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/32/1f/ee321f6f-dd06-60b8-533c-19d00ca084f9/6c0d466d-dd53-4e7e-a3e7-fe3bdb1f5f29_5.5_SS2.png/392x696bb.png",
@@ -57923,11 +57923,11 @@
       },
       "versions": [
         {
-          "version": "0.1.611",
-          "date": "2026-07-16",
+          "version": "0.1.612",
+          "date": "2026-07-20",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_611_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 130594612
+          "downloadURL": "https://telos.ftp.sh/ipas/RISE_Sleep_Tracker_v1_612_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 130615827
         }
       ],
       "category": "health-&-fitness"
