@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "uni.cbum",
-    "com.dopedevelopment.Panels",
-    "com.edjing.edjingdjturntable",
-    "com.wikiloc.wikiloc",
-    "com.lightricks.Facetune2"
+    "com.soundcloud.TouchApp",
+    "co.codeleap.bearable",
+    "com.codeway.cleanerplus",
+    "com.djitlabs.pixelcolor",
+    "uni.cbum"
   ],
   "apps": [
     {
@@ -6744,14 +6744,14 @@
       "bundleIdentifier": "co.codeleap.bearable",
       "developerName": "Bearable Ltd",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "1.0.602",
-      "versionDate": "2026-07-06",
+      "version": "1.0.604",
+      "versionDate": "2026-07-20",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bearable_Symptom_Tracker_v1_0_602_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bearable_Symptom_Tracker_v1_0_604_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nBearable - Symptom Tracker\n\n---\nFeeling overwhelmed by your health? Bearable can help you feel more in control of your symptoms, flare-ups, and overall well-being.\n\nJoin over 900,000 people securely managing their Chronic Illnesses, Migraine, Pain, Headaches, Fatigue, IBS, PoTS, PCOS, EDS, Period, Mood, Mental Health and more - with Bearable.\n\nBearable helps you discover and manage triggers for changes in your health. Our simple, customizable tracking tools make it easy to understand the correlation between anything you do and",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/fd/d2/1bfdd28c-4947-6f9b-7fa8-5853e82fb048/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 60837889,
+      "size": 60860884,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -6782,11 +6782,11 @@
       },
       "versions": [
         {
-          "version": "1.0.602",
-          "date": "2026-07-06",
+          "version": "1.0.604",
+          "date": "2026-07-20",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bearable_Symptom_Tracker_v1_0_602_Subscription_Unlocked_blatant.ipa",
-          "size": 60837889
+          "downloadURL": "https://telos.ftp.sh/ipas/Bearable_Symptom_Tracker_v1_0_604_Subscription_Unlocked_blatant.ipa",
+          "size": 60860884
         }
       ],
       "category": "health-&-fitness"
@@ -13381,14 +13381,14 @@
       "bundleIdentifier": "com.codeway.cleanerplus",
       "developerName": "DEEP FLOW SOFTWARE SERVICES",
       "subtitle": "Tweaked with Cleanup, blatantsPatch",
-      "version": "6.18.0",
-      "versionDate": "2026-07-03",
+      "version": "6.19.0",
+      "versionDate": "2026-07-20",
       "versionDescription": "Tweaks: Cleanup, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Cleanup_Phone_Storage_Cleaner_v6_18_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Cleanup_Phone_Storage_Cleaner_v6_19_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Cleanup, blatantsPatch\n\nCleanup: Phone Storage Cleaner\n\n---\nClean up your iPhone and optimize storage in seconds.\n\nRemove duplicate photos, videos, and junk emails. Cleanup helps you clear your camera roll, merge duplicate contacts, compress videos, and organize storage — all in one app.\n\nOPTIMIZE STORAGE – FREE UP SPACE WITH ONE TAP\nRunning low on space? Cleanup gives you powerful tools to take control:\n- Delete duplicate photos and videos\n- Remove similar screenshots and lookalike videos\n- Compress large files without losing quality\n- Clean up spam and",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/f0/94/bff0942d-a7a8-49f4-0a75-6c977ac8fe0b/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 112957760,
+      "size": 112580872,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -13410,11 +13410,11 @@
       },
       "versions": [
         {
-          "version": "6.18.0",
-          "date": "2026-07-03",
+          "version": "6.19.0",
+          "date": "2026-07-20",
           "localizedDescription": "Tweaks: Cleanup, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Cleanup_Phone_Storage_Cleaner_v6_18_0_Subscription_Unlocked_blatant.ipa",
-          "size": 112957760
+          "downloadURL": "https://telos.ftp.sh/ipas/Cleanup_Phone_Storage_Cleaner_v6_19_0_Subscription_Unlocked_blatant.ipa",
+          "size": 112580872
         }
       ],
       "category": "utilities"
@@ -52569,14 +52569,14 @@
       "bundleIdentifier": "com.djitlabs.pixelcolor",
       "developerName": "MWM",
       "subtitle": "Tweaked with PixelColor, blatantsPatch",
-      "version": "5.54.01",
-      "versionDate": "2026-07-13",
+      "version": "5.54.02",
+      "versionDate": "2026-07-20",
       "versionDescription": "Tweaks: PixelColor, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Pixel_Color_Paint_by_Number_v5_54_01_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Pixel_Color_Paint_by_Number_v5_54_02_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: PixelColor, blatantsPatch\n\nPixel Color: Paint by Number\n\n---\nThe world's #1 AI-powered Paint by Number app!\n\n- Transform your screen into a canvas. Pick a picture, follow the numbers, and watch your masterpiece come to life — no artistic skills needed.\n\nWHAT MAKES PIXEL COLOR SPECIAL:\n\n- AI Art Generator\nCreate your OWN unique pixel art designs with our AI. Just describe what you want and watch it appear.\n\n- 700+ Stunning Artworks\nMandalas, animals, flowers, landscapes, food — new images added daily.\n\n- Relax & De-stress\nClinically inspired art therapy. U",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/38/c3/f838c300-59c3-a96b-3772-975726c745dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 94953247,
+      "size": 102328127,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/90/56/629056e7-1758-87e1-7cc6-1181b7012210/en-ipad-01.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/50/04/585004c6-fc53-3e85-4251-fff0895dc45d/en-ipad-02.jpg/576x768bb.jpg",
@@ -52601,11 +52601,11 @@
       },
       "versions": [
         {
-          "version": "5.54.01",
-          "date": "2026-07-13",
+          "version": "5.54.02",
+          "date": "2026-07-20",
           "localizedDescription": "Tweaks: PixelColor, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Pixel_Color_Paint_by_Number_v5_54_01_Subscription_Unlocked_blatant.ipa",
-          "size": 94953247
+          "downloadURL": "https://telos.ftp.sh/ipas/Pixel_Color_Paint_by_Number_v5_54_02_Subscription_Unlocked_blatant.ipa",
+          "size": 102328127
         }
       ],
       "category": "entertainment"
@@ -63585,14 +63585,14 @@
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "developerName": "SoundCloud Global Limited & Co KG",
       "subtitle": "Tweaked with SoundCloudPlus, substrate",
-      "version": "8.69.0",
-      "versionDate": "2026-07-17",
+      "version": "8.70.0",
+      "versionDate": "2026-07-20",
       "versionDescription": "Tweaks: SoundCloudPlus, substrate, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.69.0 NoAds.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.70.0 NoAds.ipa",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: SoundCloudPlus, substrate, zxPluginsInject\n\nAppstore link : SoundCloud\n\n---\nWhat’s next in music is first on SoundCloud.\n\nBe the first to discover, play and share your favorite tracks from emerging artists\n\nAccess the world’s largest music discovery platform\n- That’s 300M+ tracks from 30M+ artists in 193 countries\n\nDiscover new music, picked just for you\n- Play curated mixes and playlists based on the music you love\n\nListen to exclusive music on SoundCloud\n- Hear tracks you can’t find anywhere else\n\nFind and connect with your music community\n- Share tracks, reach a glob",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/c1/2b/cfc12be5-fd1e-58da-d9c9-cfe189b73d64/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 121048901,
+      "size": 121150398,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/0e/9a/790e9a39-985d-ec35-8d6b-135fc84523da/ccfb3f9a-137d-4905-827f-40c6d6726ab1_iPad_Pro_1A.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/f1/7b/58f17b47-e6f8-86a6-276c-f46dd2f735a0/57293b7c-1d2e-4ccd-a634-892d4af7f8a1_iPad_Pro_2A.png/576x768bb.png",
@@ -63647,11 +63647,11 @@
       },
       "versions": [
         {
-          "version": "8.69.0",
-          "date": "2026-07-17",
+          "version": "8.70.0",
+          "date": "2026-07-20",
           "localizedDescription": "Tweaks: SoundCloudPlus, substrate, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.69.0 NoAds.ipa",
-          "size": 121048901
+          "downloadURL": "https://telos.ftp.sh/ipas/SoundCloud 8.70.0 NoAds.ipa",
+          "size": 121150398
         }
       ],
       "category": "music"
