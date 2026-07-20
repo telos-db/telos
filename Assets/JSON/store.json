@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.yazio.ios.YAZIO",
     "com.andyworks.streaks",
     "PhotoEditor.PhotoCollage.inCollage",
     "com.windscribe",
-    "com.risesci.nyx",
-    "com.caliberfitness.app"
+    "com.risesci.nyx"
   ],
   "apps": [
     {
@@ -79328,14 +79328,14 @@
       "bundleIdentifier": "com.yazio.ios.YAZIO",
       "developerName": "YAZIO",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "26.26.5",
-      "versionDate": "2026-07-07",
+      "version": "26.28.0",
+      "versionDate": "2026-07-20",
       "versionDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v26_26_5_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v26_28_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nAI Calorie Tracker by Yazio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/4c/47/e84c47e3-ec69-521b-b747-f65909bb4403/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 153215395,
+      "size": 155269044,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/1b/ed/dd1bed03-d11e-5e69-88b3-10c1b502e14e/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a8/03/01a803c9-f793-71e8-02c8-b0a84d66334b/ea43d2d8-5944-4881-b46a-1cca3413f608_1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
@@ -79364,11 +79364,11 @@
       },
       "versions": [
         {
-          "version": "26.26.5",
-          "date": "2026-07-01",
+          "version": "26.28.0",
+          "date": "2026-07-20",
           "localizedDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v26_26_5_Subscription_Unlocked_blatant.ipa",
-          "size": 153215395
+          "downloadURL": "https://telos.ftp.sh/ipas/AI_Calorie_Tracker_by_Yazio_v26_28_0_Subscription_Unlocked_blatant.ipa",
+          "size": 155269044
         }
       ],
       "category": "health-&-fitness"
@@ -81864,7 +81864,7 @@
     {
       "title": "⚙️ Telos Update 7.20",
       "identifier": "telos-update-2026-07-20",
-      "caption": "58 Apps Updated:\n• 18 Photo & Video\n• 12 Health & Fitness\n• 10 Productivity\n• 4 Music\n• 2 Lifestyle\n• 2 Medical\n• 2 Navigation\n• 2 Weather\n• 2 Entertainment\n• 2 Utilities\n• 2 News",
+      "caption": "56 Apps Updated:\n• 16 Photo & Video\n• 14 Health & Fitness\n• 8 Productivity\n• 4 Music\n• 2 Lifestyle\n• 2 Medical\n• 2 Navigation\n• 2 Weather\n• 2 Entertainment\n• 2 Utilities\n• 2 News",
       "date": "2026-07-20",
       "tintColor": "#02433b",
       "notify": true,
