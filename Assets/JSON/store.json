@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.risesci.nyx",
+    "com.caliberfitness.app",
     "com.burbn.instagram",
     "com.atebits.Tweetie2",
-    "com.thenovik.Presets",
-    "com.soundcloud.TouchApp",
-    "co.codeleap.bearable"
+    "com.thenovik.Presets"
   ],
   "apps": [
     {
@@ -10269,14 +10269,14 @@
       "bundleIdentifier": "com.caliberfitness.app",
       "developerName": "Caliber Fitness, Inc",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "5.14.1",
-      "versionDate": "2026-07-13",
+      "version": "5.15.0",
+      "versionDate": "2026-07-20",
       "versionDescription": "Tweaks: Caliber, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Caliber_Strength_Training_v5_14_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Caliber_Strength_Training_v5_15_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nCaliber: Strength Training",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/b9/89/fab989b3-614a-1717-7fab-a2839f4af964/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 51669890,
+      "size": 51672875,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -10300,11 +10300,11 @@
       },
       "versions": [
         {
-          "version": "5.14.1",
-          "date": "2026-07-13",
+          "version": "5.15.0",
+          "date": "2026-07-20",
           "localizedDescription": "Tweaks: Caliber, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Caliber_Strength_Training_v5_14_1_Subscription_Unlocked_blatant.ipa",
-          "size": 51669890
+          "downloadURL": "https://telos.ftp.sh/ipas/Caliber_Strength_Training_v5_15_0_Subscription_Unlocked_blatant.ipa",
+          "size": 51672875
         }
       ],
       "category": "health-&-fitness"
@@ -81827,7 +81827,7 @@
     {
       "title": "⚙️ Telos Update 7.20",
       "identifier": "telos-update-2026-07-20",
-      "caption": "48 Apps Updated:\n• 18 Photo & Video\n• 6 Productivity\n• 4 Music\n• 4 Health & Fitness\n• 4 News\n• 2 Lifestyle\n• 2 Medical\n• 2 Navigation\n• 2 Weather\n• 2 Entertainment\n• 2 Utilities",
+      "caption": "50 Apps Updated:\n• 14 Photo & Video\n• 12 Health & Fitness\n• 6 Productivity\n• 4 Music\n• 2 Lifestyle\n• 2 Medical\n• 2 Navigation\n• 2 Weather\n• 2 Entertainment\n• 2 Utilities\n• 2 News",
       "date": "2026-07-20",
       "tintColor": "#02433b",
       "notify": true,
