@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.adobe.lrmobile",
+    "com.adobe.lrmobilephone",
     "com.moonly.Moonly",
     "com.gingerlabs.Notability",
-    "com.TickTick.task",
-    "com.intsig.CamScannerLite",
-    "tv.twitch"
+    "com.TickTick.task"
   ],
   "apps": [
     {
@@ -37384,15 +37384,15 @@
       "name": "Lightroom",
       "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "Adobe Inc.",
-      "subtitle": "Pro Features Unlocked",
-      "version": "11.4.10",
-      "versionDate": "2026-07-06",
-      "versionDescription": "Tweaks: FilePickerFix, LightroomPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lightroom Premium 11.4.10.ipa",
-      "localizedDescription": "Pro Features Unlocked\n\nLightroom Photo & Video Editor",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "11.4.20",
+      "versionDate": "2026-07-20",
+      "versionDescription": "Tweaks: FilePickerFix, LightroomMobile, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lightroom_AI_Photo_Editor_v11_4_20_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nLightroom: AI Photo Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/32/c1/b632c189-46f7-266f-576c-6f1e47c95d05/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 194139753,
+      "size": 209445200,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -37421,11 +37421,11 @@
       },
       "versions": [
         {
-          "version": "11.4.10",
-          "date": "2026-07-06",
-          "localizedDescription": "Tweaks: FilePickerFix, LightroomPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lightroom Premium 11.4.10.ipa",
-          "size": 194139753
+          "version": "11.4.20",
+          "date": "2026-07-20",
+          "localizedDescription": "Tweaks: FilePickerFix, LightroomMobile, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Lightroom_AI_Photo_Editor_v11_4_20_Subscription_Unlocked_blatant.ipa",
+          "size": 209445200
         }
       ],
       "category": "photo-&-video"
@@ -37434,15 +37434,15 @@
       "name": "Lightroom",
       "bundleIdentifier": "com.adobe.lrmobile",
       "developerName": "Adobe Inc.",
-      "subtitle": "Tweaked with SatellaJailed",
-      "version": "11.4.10",
-      "versionDate": "2026-07-06",
-      "versionDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Adobe Lightroom iPad Premium11.4.10.ipa",
-      "localizedDescription": "Adobe Lightroom for iPad",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "11.4.20",
+      "versionDate": "2026-07-20",
+      "versionDescription": "Tweaks: FilePickerFix, LightroomiPad, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Lightroom_for_iPad_v11_4_20_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nAdobe Lightroom for iPad",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/d0/d9/f1d0d924-0156-c0e1-4bfc-cd3ed25ff45b/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 192817853,
+      "size": 209502885,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/fc/ef/dafcefd8-5f88-dd72-aa5f-becb035c3abd/bdf85b35-761a-4e66-8033-f3ee173dc55a_01_LrCC_Apple_iPad_2732x2048_EN-US.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/6c/81/0e6c8183-599d-89d1-2f42-da7e02872e46/af69f593-27f6-47c1-8db7-b01e05e14b76_AIRemove_LrCC_Apple_iPad_2732x2048_EN-US.jpg/552x414bb.jpg",
@@ -37477,11 +37477,11 @@
       },
       "versions": [
         {
-          "version": "11.4.10",
-          "date": "2026-07-06",
-          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Adobe Lightroom iPad Premium11.4.10.ipa",
-          "size": 192817853
+          "version": "11.4.20",
+          "date": "2026-07-20",
+          "localizedDescription": "Tweaks: FilePickerFix, LightroomiPad, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Adobe_Lightroom_for_iPad_v11_4_20_Subscription_Unlocked_blatant.ipa",
+          "size": 209502885
         }
       ],
       "category": "photo-&-video"
@@ -81827,7 +81827,7 @@
     {
       "title": "⚙️ Telos Update 7.20",
       "identifier": "telos-update-2026-07-20",
-      "caption": "12 Apps Updated:\n• 6 Productivity\n• 4 Lifestyle\n• 2 Photo & Video",
+      "caption": "18 Apps Updated:\n• 10 Photo & Video\n• 6 Productivity\n• 2 Lifestyle",
       "date": "2026-07-20",
       "tintColor": "#02433b",
       "notify": true,
