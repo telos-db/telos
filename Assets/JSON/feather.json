@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.facebook.Facebook",
-    "com.atebits.Tweetie2",
-    "com.mta.mobileapp",
-    "club.boxbox.widgets-ios",
-    "com.lampa.photo"
+    "com.gingerlabs.Notability",
+    "com.TickTick.task",
+    "com.intsig.CamScannerLite",
+    "tv.twitch",
+    "com.facebook.Facebook"
   ],
   "apps": [
     {
@@ -46382,14 +46382,14 @@
       "bundleIdentifier": "com.gingerlabs.Notability",
       "developerName": "Ginger Labs",
       "subtitle": "Tweaked with Notability, blatantsPatch",
-      "version": "16.6.1",
-      "versionDate": "2026-07-15",
+      "version": "16.7",
+      "versionDate": "2026-07-20",
       "versionDescription": "Tweaks: Notability, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_6_1_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_7_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Notability, blatantsPatch\n\nNotability: AI Notes & PDF app\n\n---\nFrom your first lecture to your next big meeting, Notability helps you think, learn, and work better. Take handwritten notes, annotate documents, record audio, and stay organized in one place so your ideas are always clear, searchable, and ready when you need them.\n\nFREE DIGITAL NOTES FOR WORK & SCHOOL\n• Write, type, or sketch with digital ink, highlighters, and text tools.\n• Mark up anything: PDFs, textbooks, lecture slides, images, and more.\n• Combine handwriting, typed text, images, diagrams,",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/a3/c6/9ca3c67c-cf0a-fece-dceb-6e8e17e70ba2/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 263096421,
+      "size": 263590118,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a8/6c/eea86cda-14d4-6a30-2c2c-c3e89532d4a3/1-iPhone55-EN.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/20/f5/f820f50c-2df3-745a-f955-1a70dfb4f1ff/2-iPhone55-EN.png/392x696bb.png",
@@ -46421,11 +46421,11 @@
       },
       "versions": [
         {
-          "version": "16.6.1",
-          "date": "2026-07-15",
+          "version": "16.7",
+          "date": "2026-07-20",
           "localizedDescription": "Tweaks: Notability, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_6_1_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 263096421
+          "downloadURL": "https://telos.ftp.sh/ipas/Notability_AI_Notes_&_PDF_app_v16_7_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 263590118
         }
       ],
       "category": "productivity"
@@ -71059,14 +71059,14 @@
       "bundleIdentifier": "com.TickTick.task",
       "developerName": "Appest Limited",
       "subtitle": "Tweaked with Ticktick, blatantsPatch",
-      "version": "8.1.20",
-      "versionDate": "2026-07-06",
+      "version": "8.1.30",
+      "versionDate": "2026-07-20",
       "versionDescription": "Tweaks: Ticktick, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_20_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_30_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Ticktick, blatantsPatch\n\nTickTick:To-Do List & Calendar\n\n---\nTickTick is a powerful to-do & task management app with seamless cloud synchronization across all your devices. Whether you need to schedule an agenda, make memos, share shopping lists, collaborate in a team, or even develop a new habit, set countdown for birthdays, TickTick is always here to help you get stuff done and keep life on track.\n\nKey features of TickTick:\n• Sync tasks across all devices\n• Multiple reminders\n• Flexible calendar views\n• Integrate with calendar application\n• Set flexible",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/63/5b/3b635b46-2333-f453-ce84-df1c871cc217/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 107725141,
+      "size": 107859074,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/b2/70/eeb270e8-eddf-d428-e861-6d1fd22858d0/1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/f4/88/54f48874-fe96-1623-48f0-6a9061a1d34b/2-3.png/392x696bb.png",
@@ -71111,11 +71111,11 @@
       },
       "versions": [
         {
-          "version": "8.1.20",
-          "date": "2026-07-06",
+          "version": "8.1.30",
+          "date": "2026-07-20",
           "localizedDescription": "Tweaks: Ticktick, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_20_Subscription_Unlocked_blatant.ipa",
-          "size": 107725141
+          "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_30_Subscription_Unlocked_blatant.ipa",
+          "size": 107859074
         }
       ],
       "category": "productivity"
@@ -74121,15 +74121,15 @@
       "name": "Twitch",
       "bundleIdentifier": "tv.twitch",
       "developerName": "Twitch Interactive, Inc.",
-      "subtitle": "Tweaked with tweak",
-      "version": "29.7",
-      "versionDate": "2026-06-16",
-      "versionDescription": "Tweaks: tweak\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Twitch_29.7_TwitchControl_0.0.5.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: tweak\n\n---\nTwitch is where thousands of communities come together for our favorite streamers, for the games we love, for the lulz, for each other, for whatever. Download Twitch and join millions enjoying live games, music, sports, esports, podcasts, cooking shows, IRL streams, and whatever else crosses our community’s wonderfully absurd minds. We’ll see you in chat.\n\nHere’s a convenient list of other awesome things about Twitch:\n\nEveryone is “about” community. We actually are one: Whatever you nerd out abo",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/ff/a3/13ffa38f-fd46-e714-6b78-8b011f398817/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/512x512bb.jpg",
+      "subtitle": "Twitch for iOS",
+      "version": "30.3",
+      "versionDate": "2026-07-20",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/tv.twitch-30.3-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nTwitch is where thousands of communities come together for our favorite streamers, for the games we love, for the lulz, for each other, for whatever. Download Twitch and join millions enjoying live games, music, sports, esports, podcasts, cooking shows, IRL streams, and whatever else crosses our community’s wonderfully absurd minds. We’ll see you in chat.\n\nHere’s a convenient list of other awesome things about Twitch:\n\nEveryone is “about” community. We actually are one: Whatever you nerd out abo",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/fe/fb/86fefbfe-29cb-5db8-372c-3b442a20eb50/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 148762857,
+      "size": 154880151,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/48/80/234880cc-db04-7d86-a3d5-70a0b46d6896/37b30cee-8c44-4162-944b-4def125308cf_01-1242x2208.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/aa/4e/60aa4eec-76de-e4dd-77b6-390b4bd323f7/121623e7-1287-49f0-9ea7-068ffc760e1f_02-1242x2208.jpg/392x696bb.jpg",
@@ -74159,11 +74159,11 @@
       },
       "versions": [
         {
-          "version": "29.7",
-          "date": "2026-06-16",
-          "localizedDescription": "Tweaks: tweak\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Twitch_29.7_TwitchControl_0.0.5.ipa",
-          "size": 148762857
+          "version": "30.3",
+          "date": "2026-07-20",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/tv.twitch-30.3-eeveedecrypter.ipa",
+          "size": 154880151
         }
       ],
       "category": "photo-&-video"
@@ -82705,14 +82705,14 @@
       "bundleIdentifier": "com.intsig.CamScannerLite",
       "developerName": "INTSIG Information Co., Ltd",
       "subtitle": "Tweaked with CamScanner, blatantsPatch",
-      "version": "7.21.5",
-      "versionDate": "2026-07-13",
+      "version": "7.22.0",
+      "versionDate": "2026-07-20",
       "versionDescription": "Tweaks: CamScanner, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/CamScanner_PDF_Scanner_App_v7_21_5_VIP_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/CamScanner_PDF_Scanner_App_v7_22_0_VIP_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CamScanner, blatantsPatch\n\nCamScanner - PDF Scanner App\n\n---\nThe most intelligent scanner app\nTrusted by 300M+ users\n\nCamScanner is an all-in-one scanner app. It turns your mobile device into a powerful portable scanner that recognizes text automatically (OCR) and improves your productivity to save your time. Download this scanner app for free to instantly scan, save, and share any document in PDF, JPG, Word, or TXT formats.\nWould you like to keep your entire office in your pocket and increase your productivity at work? Use the CamScanner scanner app to h",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/b7/a2/ffb7a20c-c12f-e4d5-38fc-2f476eb6c420/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 206821268,
+      "size": 211136840,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/00/6f/bd006f02-38ea-4084-6ed7-3920ef6d8e8a/f07b301d-3704-443a-8599-464c41bd25cb_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-1-1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e1/eb/4e/e1eb4e62-ad78-3f1f-9c1c-9e2b71d3928c/47f87bf1-8749-4190-87d3-f0d4080adbc4_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-2.jpg/392x696bb.jpg",
@@ -82747,11 +82747,11 @@
       },
       "versions": [
         {
-          "version": "7.21.5",
-          "date": "2026-07-13",
+          "version": "7.22.0",
+          "date": "2026-07-20",
           "localizedDescription": "Tweaks: CamScanner, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/CamScanner_PDF_Scanner_App_v7_21_5_VIP_Unlocked_blatant_Patched.ipa",
-          "size": 206821268
+          "downloadURL": "https://telos.ftp.sh/ipas/CamScanner_PDF_Scanner_App_v7_22_0_VIP_Unlocked_blatant_Patched.ipa",
+          "size": 211136840
         }
       ],
       "category": "productivity"
