@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.revivasoftworks.Snore-Lab",
-    "NIV-BR",
-    "me.mumtaz.numan.televiseapp",
-    "uk.co.leeus.planefinderfree",
-    "com.facebook.Messenger"
+    "com.northstar.gratitude",
+    "com.app-livity",
+    "com.gunthermarktl.stepapp",
+    "com.easygames.race",
+    "ai.parrotpal"
   ],
   "apps": [
     {
@@ -2904,14 +2904,14 @@
       "bundleIdentifier": "com.alightcreative.motion",
       "developerName": "Bending Spoons Apps ApS",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "6.2.54",
-      "versionDate": "2026-07-11",
+      "version": "6.2.55",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: AlightMotion, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Alight Motion v6.2.54 Subscription Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Alight Motion v6.2.55 Subscription Unlocked blatant Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nAlight Motion",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/f4/fc/d2f4fcb8-d490-dc66-2ee9-4c7fa693f379/AppIcon-0-0-1x_U007emarketing-0-5-0-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 124279209,
+      "size": 124401329,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f1/08/5f/f1085f9f-dfc8-a9ba-11dd-01a682bc4f65/aeb6939a-7c22-410b-9404-f6793eded47f_iPhone_5.5_screenshot_keyframeanimation.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/27/3b/a4/273ba4e7-67e3-9418-4b9f-1bd1ae012754/2455f88c-336d-41b7-b978-515f7e879e9d_iPhone_5.5_screenshot_camera.png/392x696bb.png",
@@ -2937,11 +2937,11 @@
       },
       "versions": [
         {
-          "version": "6.2.54",
-          "date": "2026-07-11",
+          "version": "6.2.55",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: AlightMotion, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Alight Motion v6.2.54 Subscription Unlocked blatant Patched.ipa",
-          "size": 124279209
+          "downloadURL": "https://telos.ftp.sh/ipas/Alight Motion v6.2.55 Subscription Unlocked blatant Patched.ipa",
+          "size": 124401329
         }
       ],
       "category": "photo-&-video"
@@ -3246,14 +3246,14 @@
       "bundleIdentifier": "com.alohabrowser.alohabrowser",
       "developerName": "Aloha Mobile",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "8.8.1",
+      "version": "8.8.2",
       "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Aloha_Browser_–_Private_VPN_v8_8_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Aloha_Browser_–_Private_VPN_v8_8_2_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nAloha Browser – Private VPN",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/e7/90/f1e790f0-d289-74c5-d5d0-355c398724b6/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 124775086,
+      "size": 137489455,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/1f/59/471f59bf-dd16-36f6-59ea-950102528301/79bdf9d0-9f30-4d7c-a75d-4ef06d67cf5f_12.9-inch-7.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/38/0f/d9380fd7-7f51-32b4-288e-cd199d259738/e16029af-f4da-4fc3-83e1-6f2c4e522e56_12.9-inch-6.png/576x768bb.png",
@@ -3281,11 +3281,11 @@
       },
       "versions": [
         {
-          "version": "8.8.1",
+          "version": "8.8.2",
           "date": "2026-07-29",
           "localizedDescription": "Tweaks: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Aloha_Browser_–_Private_VPN_v8_8_1_Subscription_Unlocked_blatant.ipa",
-          "size": 124775086
+          "downloadURL": "https://telos.ftp.sh/ipas/Aloha_Browser_–_Private_VPN_v8_8_2_Subscription_Unlocked_blatant.ipa",
+          "size": 137489455
         }
       ],
       "category": "utilities"
@@ -6580,15 +6580,15 @@
       "name": "Bazaart",
       "bundleIdentifier": "co.bazaart.app",
       "developerName": "Bazaart Ltd.",
-      "subtitle": "Pro Features Unlocked",
-      "version": "26.3.8",
-      "versionDate": "2026-07-06",
-      "versionDescription": "Tweaks: BazaartAIPhotoEditorDesignPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bazaart Premium 26.3.8.ipa",
-      "localizedDescription": "Pro Features Unlocked\n\nBazaart: Design, Photo & Video",
+      "subtitle": "Premium Unlocked | Patched",
+      "version": "26.3.9",
+      "versionDate": "2026-07-29",
+      "versionDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bazaart_AI_Photo_Editor_Design_v26_3_9_Premium_Unlocked_blatant.ipa",
+      "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nBazaart AI Photo Editor Design",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/aa/ee/58aaee6f-bae7-5a3b-40fa-af0639a50cd7/Bazaart_Icon_v3-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 105107993,
+      "size": 103886210,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -6610,11 +6610,11 @@
       },
       "versions": [
         {
-          "version": "26.3.8",
-          "date": "2026-07-06",
-          "localizedDescription": "Tweaks: BazaartAIPhotoEditorDesignPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bazaart Premium 26.3.8.ipa",
-          "size": 105107993
+          "version": "26.3.9",
+          "date": "2026-07-29",
+          "localizedDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Bazaart_AI_Photo_Editor_Design_v26_3_9_Premium_Unlocked_blatant.ipa",
+          "size": 103886210
         }
       ],
       "category": "photo-&-video"
@@ -13897,14 +13897,14 @@
       "bundleIdentifier": "com.calculated.laurene",
       "developerName": "Calculated Industries",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "323",
-      "versionDate": "2026-06-26",
+      "version": "328",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: blatantsPatch, cmprocalc\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Construction_Master_Pro_Calc_v12_11_12_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Construction_Master_Pro_Calc_v12_11_16_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nConstruction Master Pro Calc",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/c8/2a/1bc82ad3-dfe6-83c0-9f33-d91ca1c395ed/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/33/a9/2533a9e8-3eee-7f00-1431-ebaaf97557f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 56953438,
+      "size": 57029747,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/d4/d4/08d4d46e-4ec0-f9f4-18cd-284ed7c50fd6/853e623c-97b1-4560-ae3f-7c84902e89fc_3880-4125-ASO_1242x2208_New_UI_01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/4b/a6/924ba67c-58da-843c-6ff9-6468548a4989/b45b0c22-c234-4f85-961b-1a2098499211_3880-4125-ASO_1242x2208_New_UI_02.jpg/392x696bb.jpg",
@@ -13928,11 +13928,11 @@
       },
       "versions": [
         {
-          "version": "323",
-          "date": "2026-06-26",
+          "version": "328",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: blatantsPatch, cmprocalc\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Construction_Master_Pro_Calc_v12_11_12_Subscription_Unlocked_blatant.ipa",
-          "size": 56953438
+          "downloadURL": "https://telos.ftp.sh/ipas/Construction_Master_Pro_Calc_v12_11_16_Subscription_Unlocked_blatant.ipa",
+          "size": 57029747
         }
       ],
       "category": "utilities"
@@ -22356,14 +22356,14 @@
       "bundleIdentifier": "com.guthookhikes.ATHiker",
       "developerName": "Atlas Guides DE, Inc.",
       "subtitle": "*Tweak:** Unlimited Unlocked | *Notes:** Sign In Then Restart App To Unlock Unlimited",
-      "version": "15.3",
-      "versionDate": "2026-07-07",
+      "version": "15.4",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/FarOut Guides-v15.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/FarOut Guides-v15.4-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Unlimited Unlocked | *Notes:** Sign In Then Restart App To Unlock Unlimited | *Patched ✓**\n\nFarOut Guides",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/be/c7/1fbec779-16a2-3433-7ce2-649a949446bb/FarOut_Icon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/2d/be/192dbed9-5617-4a58-89c8-524c419033aa/FarOut_Icon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 124865482,
+      "size": 123709241,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/ef/8b/c8ef8b96-5ac0-2bfb-20fc-80f758fb99e4/e66ff4c6-02e2-4ebb-853a-865b0d931d35_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/a6/cd/bba6cdd0-7937-7a7b-f997-f7edac952de8/9a4ca4ea-9837-4aa2-a0fe-2cfb01a09742_2.png/392x696bb.png",
@@ -22384,17 +22384,16 @@
           "NSLocationWhenInUseUsageDescription": "Location Services is required to display your location in the guide and measure distance to points of interest.",
           "NSLocationAlwaysUsageDescription": "Allow Location Services in background if you want to use the track recording feature.",
           "NSLocationAlwaysAndWhenInUseUsageDescription": "Allow Location Services in background if you want to use the track recording feature.",
-          "NSUserTrackingUsageDescription": "We collect anonymous data to understand how our customers find us.",
           "NSPhotoLibraryAddUsageDescription": "For saving images taken during location sharing."
         }
       },
       "versions": [
         {
-          "version": "15.3",
-          "date": "2026-07-07",
+          "version": "15.4",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/FarOut Guides-v15.3-riftysipas.ipa",
-          "size": 124865482
+          "downloadURL": "https://telos.ftp.sh/ipas/FarOut Guides-v15.4-riftysipas.ipa",
+          "size": 123709241
         }
       ],
       "category": "navigation"
@@ -23285,14 +23284,14 @@
       "bundleIdentifier": "com.fishbrain.app",
       "developerName": "FishBrain",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "9.58.0",
-      "versionDate": "2026-07-13",
+      "version": "9.59.0",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Fishbrain - Fishing App-v9.58.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Fishbrain - Fishing App-v9.59.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nFishbrain - Fishing App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/c5/f0/ccc5f019-6854-19ac-4343-22c6860e48b5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 105339709,
+      "size": 106365411,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/6c/fc/156cfc85-e87b-a662-437f-a4e99e0f23e8/587a1251-897c-4222-b374-174bfde201ec_Lake_dock_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/e6/ac/ade6acde-4b39-120c-cf97-c6c063bd7956/21e1c76d-0143-4bc2-b0c7-ee6863e2e22f_5.5_new_copy.png/392x696bb.png",
@@ -23322,11 +23321,11 @@
       },
       "versions": [
         {
-          "version": "9.58.0",
-          "date": "2026-07-13",
+          "version": "9.59.0",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Fishbrain - Fishing App-v9.58.0-riftysipas.ipa",
-          "size": 105339709
+          "downloadURL": "https://telos.ftp.sh/ipas/Fishbrain - Fishing App-v9.59.0-riftysipas.ipa",
+          "size": 106365411
         }
       ],
       "category": "sports"
@@ -28097,14 +28096,14 @@
       "bundleIdentifier": "com.northstar.gratitude",
       "developerName": "Hapjoy Technologies Private Limited",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "5.7.4",
-      "versionDate": "2026-07-15",
+      "version": "5.7.6",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.7.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.7.6-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nGratitude: Self-Care Journal",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/18/2f/60182f72-6053-a663-aa51-4d6bef1cf46a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 68341330,
+      "size": 68416338,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -28127,11 +28126,11 @@
       },
       "versions": [
         {
-          "version": "5.7.4",
-          "date": "2026-07-15",
+          "version": "5.7.6",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.7.4-riftysipas.ipa",
-          "size": 68341330
+          "downloadURL": "https://telos.ftp.sh/ipas/Gratitude: Self-Care Journal-v5.7.6-riftysipas.ipa",
+          "size": 68416338
         }
       ],
       "category": "health-&-fitness"
@@ -32201,14 +32200,14 @@
       "bundleIdentifier": "com.polywise.weekly",
       "developerName": "Polywise, Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "5.2.11",
-      "versionDate": "2026-07-16",
+      "version": "5.2.12",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Imprint: Learn Visually-v5.2.11-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Imprint: Learn Visually-v5.2.12-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nImprint: Learn Visually",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/e4/8e/36e48e39-b0d6-f877-b886-bc6e941a8fff/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 146898599,
+      "size": 146930009,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/c1/ad/8cc1ad46-9c72-5ecf-3d52-6b8e360bfb52/Microlearning_diagonal_414x736_16.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/6b/07/3d6b073d-701c-a383-d079-50f14ccbc008/Split_Device_Small_3.png/392x696bb.png",
@@ -32232,11 +32231,11 @@
       },
       "versions": [
         {
-          "version": "5.2.11",
-          "date": "2026-07-16",
+          "version": "5.2.12",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Imprint: Learn Visually-v5.2.11-riftysipas.ipa",
-          "size": 146898599
+          "downloadURL": "https://telos.ftp.sh/ipas/Imprint: Learn Visually-v5.2.12-riftysipas.ipa",
+          "size": 146930009
         }
       ],
       "category": "education"
@@ -38678,14 +38677,14 @@
       "bundleIdentifier": "com.app-livity",
       "developerName": "Martynas Narijauskas",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "5.0.0",
-      "versionDate": "2026-07-16",
+      "version": "5.0.1",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Livity: Sleep & Health Tracker-v5.0.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Livity: Sleep & Health Tracker-v5.0.1-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nLivity: Sleep & Health Tracker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/e1/ae/0fe1aeb8-196c-115b-7661-954d5383f8ec/LivityNewIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 112070599,
+      "size": 113426773,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -38708,11 +38707,11 @@
       },
       "versions": [
         {
-          "version": "5.0.0",
-          "date": "2026-07-16",
+          "version": "5.0.1",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Livity: Sleep & Health Tracker-v5.0.0-riftysipas.ipa",
-          "size": 112070599
+          "downloadURL": "https://telos.ftp.sh/ipas/Livity: Sleep & Health Tracker-v5.0.1-riftysipas.ipa",
+          "size": 113426773
         }
       ],
       "category": "health-&-fitness"
@@ -41514,14 +41513,14 @@
       "bundleIdentifier": "com.rockwellventures.mesmerize",
       "developerName": "Rockwell Ventures",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "2.43",
-      "versionDate": "2026-07-14",
+      "version": "2.44",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Mesmerize - Visual Meditation-v2.43-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Mesmerize - Visual Meditation-v2.44-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nMesmerize - Visual Meditation",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/80/6b/1e806bca-f8c0-acde-0118-d2825986d4d2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 234203508,
+      "size": 234281220,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/91/2a/b3912ac2-30e0-905e-7417-3e59f287a755/4c25d08d-b3e1-4ae7-945b-f92e18005ec2_11.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/2f/b6/3c2fb692-439b-9d32-af95-3361644a146e/eadd4afa-8cd4-4270-b159-adf56d99b405_12.jpg/392x696bb.jpg",
@@ -41547,11 +41546,11 @@
       },
       "versions": [
         {
-          "version": "2.43",
-          "date": "2026-07-14",
+          "version": "2.44",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Mesmerize - Visual Meditation-v2.43-riftysipas.ipa",
-          "size": 234203508
+          "downloadURL": "https://telos.ftp.sh/ipas/Mesmerize - Visual Meditation-v2.44-riftysipas.ipa",
+          "size": 234281220
         }
       ],
       "category": "health-&-fitness"
@@ -43390,14 +43389,14 @@
       "bundleIdentifier": "com.moonly.Moonly",
       "developerName": "Cosmic Vibrations, Inc.",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "2.8.7",
-      "versionDate": "2026-07-20",
+      "version": "2.8.8",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: Moonly, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Moonly_Moon_Phases_&_Calendar_v2_8_7_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Moonly_Moon_Phases_&_Calendar_v2_8_8_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nMoonly: Moon Phases & Calendar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/16/e9/a916e998-6032-15e6-3b09-e73807872be5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 128651140,
+      "size": 124762205,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/7b/41/2a7b410c-f754-e069-97ab-5d2bd88c720e/1763a805-2657-47a8-b660-4ca84c4f773e_1_cover_EN_8.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/c1/ff/a9c1ffe6-95aa-9777-d36a-995a91ad08cf/f0d5937d-5e51-490a-ae6c-c4a2ae3b5915_2_Personal_Tips_EN_8.jpg/392x696bb.jpg",
@@ -43424,11 +43423,11 @@
       },
       "versions": [
         {
-          "version": "2.8.7",
-          "date": "2026-07-20",
+          "version": "2.8.8",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: Moonly, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Moonly_Moon_Phases_&_Calendar_v2_8_7_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 128651140
+          "downloadURL": "https://telos.ftp.sh/ipas/Moonly_Moon_Phases_&_Calendar_v2_8_8_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 124762205
         }
       ],
       "category": "lifestyle"
@@ -43438,14 +43437,14 @@
       "bundleIdentifier": "com.tranzmate.tranzmate1",
       "developerName": "Moovit App Global LTD",
       "subtitle": "Patched | Tweaked",
-      "version": "5.196.1",
+      "version": "5.197.0",
       "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: Moovit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Moovit_Bus_&_Transit_Tracker_v5_196_1_Moovit+_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Moovit_Bus_&_Transit_Tracker_v5_197_0_Moovit+_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Patched | Tweaked\n\nMoovit: Bus & Transit Tracker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/14/14/5f141415-d777-f634-bc34-b3c8e9af4ba8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 105040227,
+      "size": 104366029,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/f9/4f/02f94f76-571c-93f5-6110-a0a3972b225e/mzl.upvezpae.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/16/ef/5316efcb-e0be-f62b-e188-4e55afd92bd2/mzl.mvtlndfz.jpg/392x696bb.jpg",
@@ -43481,11 +43480,11 @@
       },
       "versions": [
         {
-          "version": "5.196.1",
+          "version": "5.197.0",
           "date": "2026-07-29",
           "localizedDescription": "Tweaks: Moovit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Moovit_Bus_&_Transit_Tracker_v5_196_1_Moovit+_Unlocked_blatant_Patched.ipa",
-          "size": 105040227
+          "downloadURL": "https://telos.ftp.sh/ipas/Moovit_Bus_&_Transit_Tracker_v5_197_0_Moovit+_Unlocked_blatant_Patched.ipa",
+          "size": 104366029
         }
       ],
       "category": "navigation"
@@ -49615,14 +49614,14 @@
       "bundleIdentifier": "com.tr.paraphrasingtool.rewritertool.textrewriter",
       "developerName": "talha rehman",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "1.7.1",
-      "versionDate": "2026-07-17",
+      "version": "1.7.3",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Paraphrasing Tool - Paraphrase-v1.7.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Paraphrasing Tool - Paraphrase-v1.7.3-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nParaphrasing Tool - Paraphrase",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/be/02/f2be02d7-1365-42f9-7ebb-c55b00b267ea/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 11543153,
+      "size": 10798575,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -49637,11 +49636,11 @@
       },
       "versions": [
         {
-          "version": "1.7.1",
-          "date": "2026-07-17",
+          "version": "1.7.3",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Paraphrasing Tool - Paraphrase-v1.7.1-riftysipas.ipa",
-          "size": 11543153
+          "downloadURL": "https://telos.ftp.sh/ipas/Paraphrasing Tool - Paraphrase-v1.7.3-riftysipas.ipa",
+          "size": 10798575
         }
       ],
       "category": "productivity"
@@ -49774,14 +49773,14 @@
       "bundleIdentifier": "ai.parrotpal",
       "developerName": "Scott Flear",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "199",
-      "versionDate": "2026-07-08",
+      "version": "200",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/AI Calorie Counter: ParrotPal-v199-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/AI Calorie Counter: ParrotPal-v200-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nAI Calorie Counter: ParrotPal",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/37/61/0937612e-457e-451e-1f76-9a06966c68f5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 130382848,
+      "size": 137857597,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -49805,11 +49804,11 @@
       },
       "versions": [
         {
-          "version": "199",
-          "date": "2026-07-08",
+          "version": "200",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/AI Calorie Counter: ParrotPal-v199-riftysipas.ipa",
-          "size": 130382848
+          "downloadURL": "https://telos.ftp.sh/ipas/AI Calorie Counter: ParrotPal-v200-riftysipas.ipa",
+          "size": 137857597
         }
       ],
       "category": "health-&-fitness"
@@ -52485,14 +52484,14 @@
       "bundleIdentifier": "pinterest",
       "developerName": "Pinterest, Inc.",
       "subtitle": "*Tweak:** Download Videos, Sponsored Pins Removed | *Patched ✓**",
-      "version": "14.27",
-      "versionDate": "2026-07-15",
+      "version": "14.29",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: CydiaSubstrate, PinterestPlus2, Sideloadbypass1, Sideloadbypass2, pinterestplus\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Pinterest-v14.27-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Pinterest-v14.29-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Download Videos, Sponsored Pins Removed | *Patched ✓**\n\nPinterest",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/34/0c/b8340c4e-9208-ae6a-e18f-a5ebffce5094/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 141015473,
+      "size": 142886450,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/43/95/074395db-1ab5-4adf-ec05-037f91216984/iPhone-5.5_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/e4/76/1fe476f4-66aa-2936-79db-2768ec1a9903/iPhone-5.5_2.png/392x696bb.png",
@@ -52527,11 +52526,11 @@
       },
       "versions": [
         {
-          "version": "14.27",
-          "date": "2026-07-15",
+          "version": "14.29",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, PinterestPlus2, Sideloadbypass1, Sideloadbypass2, pinterestplus\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Pinterest-v14.27-riftysipas.ipa",
-          "size": 141015473
+          "downloadURL": "https://telos.ftp.sh/ipas/Pinterest-v14.29-riftysipas.ipa",
+          "size": 142886450
         }
       ],
       "category": "lifestyle"
@@ -56097,20 +56096,20 @@
       "bundleIdentifier": "com.easygames.race",
       "developerName": "BERESNEV s.r.o.",
       "subtitle": "*Tweak:** Unlimited Cash, - Unlimited Shields, - Unlimited Nitro, - Premium Unlocked | *Patched ✓**",
-      "version": "3.15.1",
-      "versionDate": "2026-06-24",
+      "version": "3.16.0",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, popuprifty, racemaster\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Race Master 3D: Car Racing-v3.15.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Race Master 3D: Car Racing-v3.16.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Unlimited Cash, - Unlimited Shields, - Unlimited Nitro, - Premium Unlocked | *Patched ✓**\n\nRace Master 3D: Car Racing",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/23/2d/a0232dfb-bf12-0fff-8605-a92fd797da07/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/6e/89/6a6e89f0-b4ad-fed1-cead-3f9439222d85/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 316457863,
+      "size": 321576102,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/61/47/f6614761-46f4-eb8a-d2ac-efc5418b9c54/84d7683b-7c23-4885-881e-832fa764ecbc_8plus_1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/a4/24/daa4249f-0a0a-58ec-5b5b-324058e58386/44023811-e8f9-469f-b735-40f0b46869e2_8plus_2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/82/e5/9482e502-ddc1-e2ce-0ac4-ebfd6e6a9bd4/b558ca26-648b-451f-91f4-ca72cdce32d8_8plus_3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/4f/14/e64f1464-4a7c-7f53-19b8-bc53476042c7/7b267fd7-ff69-4785-b9b1-19e0760c4b2d_8plus_4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/6a/f1/8d6af1e0-8946-02b1-06e6-00f3bfe19cd1/b1ef20dd-45a4-4064-807b-ce991acb8e30_8plus_5.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/1b/24/1a1b2457-7e89-d7a4-3ad1-47e3f50f33ff/84d7683b-7c23-4885-881e-832fa764ecbc_8plus_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/a0/ad/c4a0add6-847a-2f7d-7693-9bbee4c655fb/44023811-e8f9-469f-b735-40f0b46869e2_8plus_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/c1/75/59c17584-8645-d8d3-c508-e6c4894327e5/b558ca26-648b-451f-91f4-ca72cdce32d8_8plus_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/53/17/39531791-ab80-78d3-f88e-8d9ce97aa34d/7b267fd7-ff69-4785-b9b1-19e0760c4b2d_8plus_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/e6/51/56e65155-b0d9-75bb-3639-10397d699c01/b1ef20dd-45a4-4064-807b-ce991acb8e30_8plus_5.png/392x696bb.png"
       ],
       "appPermissions": {
         "entitlements": [],
@@ -56125,11 +56124,11 @@
       },
       "versions": [
         {
-          "version": "3.15.1",
-          "date": "2026-06-24",
+          "version": "3.16.0",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, popuprifty, racemaster\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Race Master 3D: Car Racing-v3.15.1-riftysipas.ipa",
-          "size": 316457863
+          "downloadURL": "https://telos.ftp.sh/ipas/Race Master 3D: Car Racing-v3.16.0-riftysipas.ipa",
+          "size": 321576102
         }
       ],
       "category": "games"
@@ -64029,14 +64028,14 @@
       "bundleIdentifier": "com.soundscape.music",
       "developerName": "Soundscape",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "10.1.51",
+      "version": "10.1.55",
       "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.51-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.55-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nSoundscape: Sleep Focus Relax",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/b9/8f/b6b98fc4-0eeb-b982-b116-554b20781314/SoundscapeIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 75019729,
+      "size": 78572268,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -64054,11 +64053,11 @@
       },
       "versions": [
         {
-          "version": "10.1.51",
+          "version": "10.1.55",
           "date": "2026-07-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.51-riftysipas.ipa",
-          "size": 75019729
+          "downloadURL": "https://telos.ftp.sh/ipas/Soundscape: Sleep Focus Relax-v10.1.55-riftysipas.ipa",
+          "size": 78572268
         }
       ],
       "category": "health-&-fitness"
@@ -65887,14 +65886,14 @@
       "bundleIdentifier": "com.gunthermarktl.stepapp",
       "developerName": "StepsApp GmbH",
       "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
-      "version": "8.12.1",
+      "version": "8.12.2",
       "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.12.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.12.2-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nStepsApp Pedometer",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/1f/13/1f1f13f5-8595-255c-db60-1f1e189b1d68/AppIconNew-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 230681278,
+      "size": 236356649,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/94/5e/63945ee0-33a0-de35-a71e-297dd4a183cc/2259ae29-c352-4f85-87ff-2599f6490dd1_0_APP_IPHONE_55_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/07/ff/6d07ff0c-db7e-bf4c-5a2f-489684ed88dc/3fb04dc2-bcb4-4a4d-8001-c7f8172fbdbd_2_APP_IPHONE_55_2.png/392x696bb.png",
@@ -65937,11 +65936,11 @@
       },
       "versions": [
         {
-          "version": "8.12.1",
+          "version": "8.12.2",
           "date": "2026-07-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.12.1-riftysipas.ipa",
-          "size": 230681278
+          "downloadURL": "https://telos.ftp.sh/ipas/StepsApp Pedometer-v8.12.2-riftysipas.ipa",
+          "size": 236356649
         }
       ],
       "category": "health-&-fitness"
@@ -70592,14 +70591,14 @@
       "bundleIdentifier": "com.impalastudios.pianofree",
       "developerName": "Impala Studios",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "2.20.6",
+      "version": "2.20.7",
       "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: ThePiano, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Piano ٞ v2.20.6 Subscription Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Piano ٞ v2.20.7 Subscription Unlocked blatant Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPiano ٞ",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/ca/7b/b6ca7b4d-e05b-bc08-c93c-731df0b19819/pian_appIcon_2025-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 95114698,
+      "size": 92232582,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -70619,11 +70618,11 @@
       },
       "versions": [
         {
-          "version": "2.20.6",
+          "version": "2.20.7",
           "date": "2026-07-29",
           "localizedDescription": "Tweaks: ThePiano, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Piano ٞ v2.20.6 Subscription Unlocked blatant Patched.ipa",
-          "size": 95114698
+          "downloadURL": "https://telos.ftp.sh/ipas/Piano ٞ v2.20.7 Subscription Unlocked blatant Patched.ipa",
+          "size": 92232582
         }
       ],
       "category": "music"
@@ -71179,14 +71178,14 @@
       "bundleIdentifier": "com.TickTick.task",
       "developerName": "Appest Limited",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "8.1.30",
-      "versionDate": "2026-07-20",
+      "version": "8.1.40",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: Ticktick, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_30_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_40_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nTickTick:To-Do List & Calendar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/63/5b/3b635b46-2333-f453-ce84-df1c871cc217/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 107859074,
+      "size": 107957986,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/b2/70/eeb270e8-eddf-d428-e861-6d1fd22858d0/1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/f4/88/54f48874-fe96-1623-48f0-6a9061a1d34b/2-3.png/392x696bb.png",
@@ -71231,11 +71230,11 @@
       },
       "versions": [
         {
-          "version": "8.1.30",
-          "date": "2026-07-20",
+          "version": "8.1.40",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: Ticktick, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_30_Subscription_Unlocked_blatant.ipa",
-          "size": 107859074
+          "downloadURL": "https://telos.ftp.sh/ipas/TickTick_To_Do_List_&_Calendar_v8_1_40_Subscription_Unlocked_blatant.ipa",
+          "size": 107957986
         }
       ],
       "category": "productivity"
@@ -82740,7 +82739,7 @@
     {
       "title": "⚙️ Telos Update 7.29",
       "identifier": "telos-update-2026-07-29",
-      "caption": "605 Apps Updated:\n• 121 Photo & Video\n• 103 Health & Fitness\n• 56 Productivity\n• 39 Education\n• 34 Utilities\n• 32 Lifestyle\n• 32 Entertainment\n• 29 Music\n• 24 Games\n• 18 Weather\n• 16 Sports\n• 16 Finance\n• 14 Graphics & Design\n• 13 Travel\n• 12 Developer Tools\n• 11 Social Networking\n• 10 Navigation\n• 8 Reference\n• 7 Business\n• 6 News\n• 2 Food & Drink\n• 2 Medical",
+      "caption": "403 Apps Updated:\n• 81 Health & Fitness\n• 72 Photo & Video\n• 38 Productivity\n• 27 Utilities\n• 25 Education\n• 24 Lifestyle\n• 19 Music\n• 17 Entertainment\n• 16 Games\n• 13 Navigation\n• 12 Sports\n• 9 Weather\n• 8 Graphics & Design\n• 8 Finance\n• 7 Developer Tools\n• 7 Travel\n• 6 Social Networking\n• 5 Reference\n• 4 Business\n• 3 News\n• 1 Food & Drink\n• 1 Medical",
       "date": "2026-07-29",
       "tintColor": "#02433b",
       "notify": true,
