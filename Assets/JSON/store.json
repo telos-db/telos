@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.northstar.gratitude",
-    "com.app-livity",
-    "com.gunthermarktl.stepapp",
-    "com.easygames.race",
-    "ai.parrotpal"
+    "com.atebits.Tweetie2",
+    "com.adobe.lrmobilephone",
+    "com.ydgn.dokacamera",
+    "com.thegenau.NoteCircle",
+    "com.reveri.reverihealth"
   ],
   "apps": [
     {
@@ -8585,14 +8585,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.2.2",
+      "version": "4.2.3",
       "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_2_2_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_2_3_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nBoldVoice: Accent Training",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 136526455,
+      "size": 136597647,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8612,11 +8612,11 @@
       },
       "versions": [
         {
-          "version": "4.2.2",
+          "version": "4.2.3",
           "date": "2026-07-29",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_2_2_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 136526455
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_2_3_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 136597647
         }
       ],
       "category": "education"
@@ -18074,6 +18074,40 @@
         }
       ],
       "category": "entertainment"
+    },
+    {
+      "name": "Doka相机",
+      "bundleIdentifier": "com.ydgn.dokacamera",
+      "developerName": "Beijing Yingdong Guangnian Technology Co., Ltd.",
+      "subtitle": "Tweaked with DokaCamVIP",
+      "version": "1.8.23",
+      "versionDate": "2026-07-29",
+      "versionDescription": "Tweaks: DokaCamVIP\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Doka相机_1.8.23_1784821063.ipa",
+      "localizedDescription": "Doka相机 for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/09/1a/67091a3c-c2e4-dba0-3040-c6a04b478b49/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 113159783,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Doka相机需要访问您的相册，用于读取、选择和保存照片。",
+          "NSCameraUsageDescription": "Doka相机需要访问您的相机，用于拍照与拍摄相关功能。",
+          "NSMicrophoneUsageDescription": "Doka相机需要访问麦克风，用于视频与Live Photo录制相关功能。",
+          "NSLocationWhenInUseUsageDescription": "Doka相机需要定位权限，用于记录照片位置信息并提升拍摄体验。"
+        }
+      },
+      "versions": [
+        {
+          "version": "1.8.23",
+          "date": "2026-07-23",
+          "localizedDescription": "Tweaks: DokaCamVIP\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Doka相机_1.8.23_1784821063.ipa",
+          "size": 113159783
+        }
+      ],
+      "category": "photo-&-video"
     },
     {
       "name": "Door Kickers",
@@ -37685,15 +37719,15 @@
       "name": "Lightroom",
       "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "Adobe Inc.",
-      "subtitle": "Subscription Unlocked | Patched",
-      "version": "11.4.20",
-      "versionDate": "2026-07-20",
-      "versionDescription": "Tweaks: FilePickerFix, LightroomMobile, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lightroom_AI_Photo_Editor_v11_4_20_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nLightroom: AI Photo Editor",
+      "subtitle": "Tweaked with FilePickerFix, LightroomMobile",
+      "version": "11.4.21",
+      "versionDate": "2026-07-29",
+      "versionDescription": "Tweaks: FilePickerFix, LightroomMobile, blatantsPatch, sideloadKeychainfix\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lightroom_AI_Photo_Editor_v11_4_21_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Try this one. It works for me",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/32/c1/b632c189-46f7-266f-576c-6f1e47c95d05/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 209445200,
+      "size": 209590781,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -37722,11 +37756,11 @@
       },
       "versions": [
         {
-          "version": "11.4.20",
-          "date": "2026-07-20",
-          "localizedDescription": "Tweaks: FilePickerFix, LightroomMobile, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lightroom_AI_Photo_Editor_v11_4_20_Subscription_Unlocked_blatant.ipa",
-          "size": 209445200
+          "version": "11.4.21",
+          "date": "2026-07-29",
+          "localizedDescription": "Tweaks: FilePickerFix, LightroomMobile, blatantsPatch, sideloadKeychainfix\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://telos.ftp.sh/ipas/Lightroom_AI_Photo_Editor_v11_4_21_Subscription_Unlocked_blatant.ipa",
+          "size": 209590781
         }
       ],
       "category": "photo-&-video"
@@ -39080,14 +39114,14 @@
       "bundleIdentifier": "in.muditbhargava.LookUp",
       "developerName": "Squircle Apps LLP",
       "subtitle": "Patched | Tweaked",
-      "version": "12.1.3",
+      "version": "12.1.4",
       "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: LookUp, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/LookUp_English_Dictionary_App_v12_1_3_LookUp+_Lifetime_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LookUp_English_Dictionary_App_v12_1_4_LookUp+_Lifetime_blatant_Patched.ipa",
       "localizedDescription": "Patched | Tweaked\n\nLookUp: English Dictionary App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/45/e0/7045e02a-a67d-4204-a578-48113a936757/LiquidLookUp-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 207289301,
+      "size": 207290315,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/4f/a2/c44fa277-f9bf-faff-c5d9-935edb2a0f36/362a8c77-8d5c-4df3-b2ef-b1ba69963348_Zones_1_Copy_11.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/bb/9f/68bb9f57-253e-2ce7-c9e0-f5661a16e74d/716d0024-9e26-4d8d-b6dd-3b4a85aac439_Zones_1_Copy_5.png/392x696bb.png",
@@ -39112,11 +39146,11 @@
       },
       "versions": [
         {
-          "version": "12.1.3",
+          "version": "12.1.4",
           "date": "2026-07-29",
           "localizedDescription": "Tweaks: LookUp, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/LookUp_English_Dictionary_App_v12_1_3_LookUp+_Lifetime_blatant_Patched.ipa",
-          "size": 207289301
+          "downloadURL": "https://telos.ftp.sh/ipas/LookUp_English_Dictionary_App_v12_1_4_LookUp+_Lifetime_blatant_Patched.ipa",
+          "size": 207290315
         }
       ],
       "category": "reference"
@@ -41936,14 +41970,14 @@
       "bundleIdentifier": "com.mojang.minecraftpreview",
       "developerName": "Mojang",
       "subtitle": "Minecraft Preview for iOS",
-      "version": "1.26.40",
-      "versionDate": "2026-06-15",
+      "version": "1.26.50",
+      "versionDate": "2026-07-29",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Minecraft Preview-1.26.40.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Minecraft Preview-1.26.50.ipa",
       "localizedDescription": "Minecraft Preview (Beta)",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/81/16/c981164e-410c-7a07-d76b-3a8e4238793b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/21/01/302101a4-590e-c718-f941-f4cb793b1ec6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 706013328,
+      "size": 695253168,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/47/6f/07476fcd-1ecf-18ca-e7f7-364d6c6cd5e1/pr_source.png/406x228bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/a6/ed/74a6ed67-e5e9-a1ae-3233-225b651d6bf0/pr_source.png/406x228bb.png",
@@ -41965,11 +41999,11 @@
       },
       "versions": [
         {
-          "version": "1.26.40",
-          "date": "2026-06-15",
+          "version": "1.26.50",
+          "date": "2026-07-29",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Minecraft Preview-1.26.40.ipa",
-          "size": 706013328
+          "downloadURL": "https://telos.ftp.sh/ipas/Minecraft Preview-1.26.50.ipa",
+          "size": 695253168
         }
       ],
       "category": "games"
@@ -46558,14 +46592,14 @@
       "bundleIdentifier": "com.thegenau.NoteCircle",
       "developerName": "Genau Factory",
       "subtitle": "*Tweak:** Plus Unlocked | *Patched ✓**",
-      "version": "4.75",
+      "version": "4.76",
       "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/NoteCircle: To Do, Checklist-v4.75-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/NoteCircle: To Do, Checklist-v4.76-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Plus Unlocked | *Patched ✓**\n\nNoteCircle: To Do, Checklist",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/ef/be/34efbeb6-8fef-0053-cba0-4e20f2abeac4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 16044529,
+      "size": 16046545,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/09/dc/e909dc2c-19c7-5b66-831f-b8f8826186ed/29264c3a-fedc-41ea-b7c1-768c18e08e52_NC-ipad-1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/a1/4e/afa14e91-bf92-69bc-4425-bdb02d17581d/39476541-e32d-4c58-8b33-6a12320f360f_NC-ipad-2.png/576x768bb.png",
@@ -46591,11 +46625,11 @@
       },
       "versions": [
         {
-          "version": "4.75",
+          "version": "4.76",
           "date": "2026-07-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/NoteCircle: To Do, Checklist-v4.75-riftysipas.ipa",
-          "size": 16044529
+          "downloadURL": "https://telos.ftp.sh/ipas/NoteCircle: To Do, Checklist-v4.76-riftysipas.ipa",
+          "size": 16046545
         }
       ],
       "category": "productivity"
@@ -47602,14 +47636,14 @@
       "bundleIdentifier": "com.offlinemusic",
       "developerName": "Md Zakir Hossain",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "3.8.9",
-      "versionDate": "2026-07-17",
+      "version": "3.9.0",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.9 Pro Unlocked blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.9.0 Pro Unlocked blatant Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nOffline Music Player",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/51/53/87515399-6a29-ec1c-2a5f-a63319e3d98f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 102741399,
+      "size": 102853016,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/74/3d/e0743d5f-5903-ff53-ac44-b4b859a53051/14112d4b-9e03-402e-b9d0-0f90e8c8cabb_iPhone_screenshot.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/f7/4f/37f74f82-c6bf-7eb7-7b76-1c48717e0d22/637cd3d6-5191-4d9f-be32-400fdd95d0d0_iPhone_screenshot1.png/392x696bb.png",
@@ -47627,22 +47661,21 @@
           "com.apple.developer.playable-content"
         ],
         "privacy": {
-          "NSPhotoLibraryUsageDescription": "Some ad content may require access to the photo library.",
-          "NSCameraUsageDescription": "This will let you take photos and scans in Documents, as well as connect to computer via a QR-code.",
-          "NSCalendarsUsageDescription": "This will let your track anatylics",
-          "NSMotionUsageDescription": "Some ad content may require access to accelerometer for interactive ad experience.",
-          "NSAppleMusicUsageDescription": "to import tracks from music",
-          "NSLocalNetworkUsageDescription": "Exchange Tracks with nearby devices running the Offline Music Player app.",
-          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
+          "NSPhotoLibraryUsageDescription": "Access to your photo library lets you choose a photo to set as the album artwork of a track when editing its details.",
+          "NSCameraUsageDescription": "The camera is used to scan the QR code shown by another device or computer when connecting for music transfer, and to take a photo to use as album artwork for your tracks.",
+          "NSCalendarsUsageDescription": "If you tap an option in an ad to save an event, such as a reminder for an offer, calendar access is used to add that event to your calendar. It is never accessed otherwise.",
+          "NSAppleMusicUsageDescription": "Access to your media library is used to list the songs on your device so you can select and import them into this app for offline playback.",
+          "NSLocalNetworkUsageDescription": "Local network access is used to discover nearby devices running Offline Music Player and to transfer music files between them over Wi-Fi.",
+          "NSUserTrackingUsageDescription": "Your device identifier will be used to show you more relevant ads and to measure advertising performance."
         }
       },
       "versions": [
         {
-          "version": "3.8.9",
-          "date": "2026-07-17",
+          "version": "3.9.0",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.8.9 Pro Unlocked blatant Patched.ipa",
-          "size": 102741399
+          "downloadURL": "https://telos.ftp.sh/ipas/Offline Music Player v3.9.0 Pro Unlocked blatant Patched.ipa",
+          "size": 102853016
         }
       ],
       "category": "music"
@@ -57860,14 +57893,14 @@
       "bundleIdentifier": "com.reveri.reverihealth",
       "developerName": "Reveri Health, Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "4.13.0",
-      "versionDate": "2026-07-16",
+      "version": "4.14.0",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Reveri: Brain Over Pain-v4.13.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Reveri: Brain Over Pain-v4.14.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nReveri: Brain Over Pain",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/0e/08/300e08b4-00b1-1922-63fb-a43e073c3f12/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 88116416,
+      "size": 89663488,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/c5/fb/09c5fb9c-deee-4afc-8b1e-4d71d173e23b/01_AppStore_5-5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/e1/65/a0e165af-194f-4649-fa55-6f3b501b0c9f/02_AppStore_5-5.png/392x696bb.png",
@@ -57895,11 +57928,11 @@
       },
       "versions": [
         {
-          "version": "4.13.0",
-          "date": "2026-07-16",
+          "version": "4.14.0",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Reveri: Brain Over Pain-v4.13.0-riftysipas.ipa",
-          "size": 88116416
+          "downloadURL": "https://telos.ftp.sh/ipas/Reveri: Brain Over Pain-v4.14.0-riftysipas.ipa",
+          "size": 89663488
         }
       ],
       "category": "health-&-fitness"
@@ -74905,14 +74938,14 @@
       "bundleIdentifier": "app.uplens",
       "developerName": "MPGames",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.2.0",
+      "version": "4.2.1",
       "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: Uplens, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Uplens_Photo_&_Video_Editor_v4_2_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Uplens_Photo_&_Video_Editor_v4_2_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nUplens: Photo & Video Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/49/d3/d449d315-e7fe-84d5-11a1-c43bbffc1398/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 178425066,
+      "size": 177950331,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/0d/af/920daf67-cc96-dd95-5589-037513b2e843/daf3b126-3496-4cd4-b672-86d05ce53882_1-5_U00275-en.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/47/40/6b474032-d7f4-2734-94b1-4add0520fe2f/24864328-dab1-450c-9a87-20009c67cce8_2-5_U00275-en.jpg/392x696bb.jpg",
@@ -74923,8 +74956,7 @@
       "appPermissions": {
         "entitlements": [
           "aps-environment",
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-domains"
+          "com.apple.security.application-groups"
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "To be able to edit photos with Uplens you'll need to allow this.",
@@ -74936,11 +74968,11 @@
       },
       "versions": [
         {
-          "version": "4.2.0",
+          "version": "4.2.1",
           "date": "2026-07-29",
           "localizedDescription": "Tweaks: Uplens, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Uplens_Photo_&_Video_Editor_v4_2_0_Subscription_Unlocked_blatant.ipa",
-          "size": 178425066
+          "downloadURL": "https://telos.ftp.sh/ipas/Uplens_Photo_&_Video_Editor_v4_2_1_Subscription_Unlocked_blatant.ipa",
+          "size": 177950331
         }
       ],
       "category": "photo-&-video"
@@ -79867,14 +79899,14 @@
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X Corp.",
       "subtitle": "Tweaked with BHTwitter, Cephei",
-      "version": "12.9",
-      "versionDate": "2026-07-20",
+      "version": "12.10",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/X_12.9_NFB_6.0.3_TWIGalaxy_[@ipavault].ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/X_12.10_NFB_6.0.3_TWIGalaxy_[@ipavault].ipa",
       "localizedDescription": "X for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 223136252,
+      "size": 224420818,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/77/660e779a-d449-ebd3-0bd3-78502084f7bf/770e6822-f28e-4e4b-be51-8bfbe36f4307_iPad_12.9_-_1.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/2e/90e62e67-ccd1-8221-8149-49f305b8778d/7e053a3e-190b-4585-9927-509871425aad_iPad_12.9_-_2.png/552x414bb.png",
@@ -79909,11 +79941,11 @@
       },
       "versions": [
         {
-          "version": "12.9",
-          "date": "2026-07-15",
+          "version": "12.10",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/X_12.9_NFB_6.0.3_TWIGalaxy_[@ipavault].ipa",
-          "size": 223136252
+          "downloadURL": "https://telos.ftp.sh/ipas/X_12.10_NFB_6.0.3_TWIGalaxy_[@ipavault].ipa",
+          "size": 224420818
         }
       ],
       "category": "news"
@@ -82739,7 +82771,7 @@
     {
       "title": "⚙️ Telos Update 7.29",
       "identifier": "telos-update-2026-07-29",
-      "caption": "403 Apps Updated:\n• 81 Health & Fitness\n• 72 Photo & Video\n• 38 Productivity\n• 27 Utilities\n• 25 Education\n• 24 Lifestyle\n• 19 Music\n• 17 Entertainment\n• 16 Games\n• 13 Navigation\n• 12 Sports\n• 9 Weather\n• 8 Graphics & Design\n• 8 Finance\n• 7 Developer Tools\n• 7 Travel\n• 6 Social Networking\n• 5 Reference\n• 4 Business\n• 3 News\n• 1 Food & Drink\n• 1 Medical",
+      "caption": "397 Apps Updated:\n• 76 Photo & Video\n• 73 Health & Fitness\n• 38 Productivity\n• 27 Education\n• 23 Utilities\n• 21 Music\n• 20 Lifestyle\n• 18 Games\n• 17 Entertainment\n• 10 Sports\n• 9 Reference\n• 9 Weather\n• 9 Navigation\n• 8 Graphics & Design\n• 8 Finance\n• 7 Developer Tools\n• 7 Travel\n• 6 Social Networking\n• 5 News\n• 4 Business\n• 1 Food & Drink\n• 1 Medical",
       "date": "2026-07-29",
       "tintColor": "#02433b",
       "notify": true,
