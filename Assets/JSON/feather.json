@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.christianselig.Apollo",
     "com.astrio.Sofa",
     "com.podfactor.pod",
     "com.wellocution.iosapp",
-    "com.lampa.photo",
-    "com.iteration-mobile.radarbot-free-ww"
+    "com.lampa.photo"
   ],
   "apps": [
     {
@@ -4177,14 +4177,14 @@
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Christian Selig",
       "subtitle": "Tweaked with ApolloOpenInFix, ApolloReborn",
-      "version": "3.4.2",
-      "versionDate": "2026-07-17",
+      "version": "3.5.0",
+      "versionDate": "2026-07-30",
       "versionDescription": "Tweaks: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.4.2.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.5.0.ipa",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\n---\nApollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accom",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 90365958,
+      "size": 93574665,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/392x696bb.png",
@@ -4211,11 +4211,11 @@
       },
       "versions": [
         {
-          "version": "3.4.2",
-          "date": "2026-07-17",
+          "version": "3.5.0",
+          "date": "2026-07-30",
           "localizedDescription": "Tweaks: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.4.2.ipa",
-          "size": 90365958
+          "downloadURL": "https://telos.ftp.sh/ipas/Apollo-Reborn-3.5.0.ipa",
+          "size": 93574665
         }
       ],
       "category": "news"
