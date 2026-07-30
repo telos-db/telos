@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "co.visualsupply.cam",
     "com.campmobile.snow",
     "com.skylum.luminaripad",
     "com.atebits.Tweetie2",
-    "com.adobe.lrmobilephone",
-    "com.ydgn.dokacamera"
+    "com.adobe.lrmobilephone"
   ],
   "apps": [
     {
@@ -77044,14 +77044,14 @@
       "bundleIdentifier": "co.visualsupply.cam",
       "developerName": "Visual Supply Company",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "461.6.0",
-      "versionDate": "2026-07-29",
+      "version": "461.6.1",
+      "versionDate": "2026-07-30",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_6_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_6_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nVSCO: Photo & Video Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/da/df/13dadff7-ba65-d78d-357f-44191bb36fbb/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 209659802,
+      "size": 209675201,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/b0/22/3cb0225e-03cb-363b-dd97-451f113b4481/mzl.iminvglq.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/50/ec/c550ec30-fffa-f371-b7bf-20386ef2fc7d/mzl.rwpqyyls.jpg/576x768bb.jpg",
@@ -77080,11 +77080,11 @@
       },
       "versions": [
         {
-          "version": "461.6.0",
-          "date": "2026-07-29",
+          "version": "461.6.1",
+          "date": "2026-07-30",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_6_0_Subscription_Unlocked_blatant.ipa",
-          "size": 209659802
+          "downloadURL": "https://telos.ftp.sh/ipas/VSCO_Photo_&_Video_Editor_v461_6_1_Subscription_Unlocked_blatant.ipa",
+          "size": 209675201
         }
       ],
       "category": "photo-&-video"
@@ -82769,11 +82769,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 7.30",
+      "identifier": "telos-update-2026-07-30",
+      "caption": "4 Apps Updated:\n• 4 Photo & Video",
+      "date": "2026-07-30",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "co.visualsupply.cam"
+    },
+    {
       "title": "⚙️ Telos Update 7.29",
       "identifier": "telos-update-2026-07-29",
       "caption": "390 Apps Updated:\n• 76 Photo & Video\n• 71 Health & Fitness\n• 36 Productivity\n• 25 Education\n• 23 Utilities\n• 20 Lifestyle\n• 19 Music\n• 17 Entertainment\n• 16 Games\n• 10 Sports\n• 10 News\n• 9 Weather\n• 9 Navigation\n• 8 Graphics & Design\n• 8 Finance\n• 7 Developer Tools\n• 7 Reference\n• 7 Travel\n• 6 Social Networking\n• 4 Business\n• 1 Food & Drink\n• 1 Medical",
       "date": "2026-07-29",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.shred.shredlabs"
     },
@@ -82782,7 +82791,7 @@
       "identifier": "telos-update-2026-07-20",
       "caption": "54 Apps Updated:\n• 16 Photo & Video\n• 12 Health & Fitness\n• 8 Productivity\n• 4 Music\n• 2 Lifestyle\n• 2 Medical\n• 2 Navigation\n• 2 Weather\n• 2 Entertainment\n• 2 Utilities\n• 2 News",
       "date": "2026-07-20",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.intsig.CamScannerLite"
     },
@@ -82791,7 +82800,7 @@
       "identifier": "telos-update-2026-07-19",
       "caption": "28 Apps Updated:\n• 6 Education\n• 4 Photo & Video\n• 4 Social Networking\n• 4 Sports\n• 2 Games\n• 2 Health & Fitness\n• 2 Navigation\n• 2 News\n• 2 Business",
       "date": "2026-07-19",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "co.visualsupply.cam"
     },
@@ -82800,7 +82809,7 @@
       "identifier": "telos-update-2026-07-18",
       "caption": "40 Apps Updated:\n• 12 Health & Fitness\n• 6 Photo & Video\n• 4 Utilities\n• 4 Games\n• 2 Social Networking\n• 2 Education\n• 2 Graphics & Design\n• 2 Entertainment\n• 2 Food & Drink\n• 2 News\n• 2 Business",
       "date": "2026-07-18",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.locket.Locket"
     },
@@ -82809,7 +82818,7 @@
       "identifier": "telos-update-2026-07-17",
       "caption": "84 Apps Updated:\n• 18 Music\n• 12 News\n• 10 Lifestyle\n• 10 Health & Fitness\n• 8 Photo & Video\n• 6 Games\n• 4 Productivity\n• 4 Social Networking\n• 2 Food & Drink\n• 2 Utilities\n• 2 Finance\n• 2 Sports\n• 2 Medical\n• 2 Reference",
       "date": "2026-07-17",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.relentlessco.zesty"
     },
@@ -82818,7 +82827,7 @@
       "identifier": "telos-update-2026-07-16",
       "caption": "116 Apps Updated:\n• 32 Photo & Video\n• 28 Health & Fitness\n• 8 Games\n• 8 Medical\n• 6 Utilities\n• 6 Education\n• 4 Lifestyle\n• 4 Reference\n• 4 News\n• 2 Productivity\n• 2 Finance\n• 2 Food & Drink\n• 2 Navigation\n• 2 Sports\n• 2 Graphics & Design\n• 2 Travel\n• 2 Weather",
       "date": "2026-07-16",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "org.reactjs.native.example.rootd"
     },
@@ -82827,7 +82836,7 @@
       "identifier": "telos-update-2026-07-15",
       "caption": "106 Apps Updated:\n• 18 Health & Fitness\n• 14 Photo & Video\n• 12 Education\n• 10 Productivity\n• 10 Lifestyle\n• 8 Games\n• 6 Reference\n• 6 Finance\n• 4 Entertainment\n• 4 Sports\n• 2 Graphics & Design\n• 2 Weather\n• 2 News\n• 2 Other\n• 2 Business\n• 2 Navigation\n• 2 Social Networking",
       "date": "2026-07-15",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.kingsoft.office.g.wpsoffice"
     },
@@ -82836,7 +82845,7 @@
       "identifier": "telos-update-2026-07-14",
       "caption": "98 Apps Updated:\n• 20 Health & Fitness\n• 16 Photo & Video\n• 16 Productivity\n• 12 Education\n• 6 Lifestyle\n• 4 Weather\n• 4 Navigation\n• 4 Music\n• 2 Games\n• 2 Developer Tools\n• 2 Medical\n• 2 Entertainment\n• 2 Sports\n• 2 Graphics & Design\n• 2 Utilities\n• 2 Food & Drink",
       "date": "2026-07-14",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.sporcle.party"
     },
@@ -82845,18 +82854,9 @@
       "identifier": "telos-update-2026-07-13",
       "caption": "104 Apps Updated:\n• 28 Photo & Video\n• 18 Education\n• 12 Health & Fitness\n• 10 Entertainment\n• 6 Utilities\n• 6 Music\n• 4 Productivity\n• 4 Business\n• 4 Lifestyle\n• 2 Games\n• 2 Weather\n• 2 Travel\n• 2 Sports\n• 2 Navigation\n• 2 News",
       "date": "2026-07-13",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "ai.polycam.polycam"
-    },
-    {
-      "title": "⚙️ Telos Update 7.12",
-      "identifier": "telos-update-2026-07-12",
-      "caption": "30 Apps Updated:\n• 6 Photo & Video\n• 4 Travel\n• 2 Productivity\n• 2 Utilities\n• 2 Music\n• 2 Social Networking\n• 2 Graphics & Design\n• 2 Lifestyle\n• 2 Sports\n• 2 Finance\n• 2 Health & Fitness\n• 2 News",
-      "date": "2026-07-12",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.microsoft.PlannerMobile"
+      "appID": "ai.polycam.polycam"
     }
   ]
 }
