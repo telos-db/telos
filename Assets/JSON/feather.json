@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.christianselig.Apollo",
-    "com.astrio.Sofa",
-    "com.podfactor.pod",
-    "com.wellocution.iosapp",
-    "com.lampa.photo"
+    "com.unofficialcalculators.payplan",
+    "com.fifteenjugglers.solarwatch",
+    "com.gymstreak.GymStreakAI",
+    "com.dr1ven.eraser",
+    "com.claushuang.FocusTomato"
   ],
   "apps": [
     {
@@ -7572,14 +7572,14 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.2.11",
-      "versionDate": "2026-07-29",
+      "version": "4.2.16",
+      "versionDate": "2026-07-30",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.11-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.16-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nBill Tracker Pro\n\n---\nBill Tracker Pro is the #1 app for tracking bills, income, and spending. Connect your bank, create a budget, track your cash flow, and take control of your finances.\n\nNew in Bill Tracker Pro:\n\nBank Sync with Plaid – Connect your accounts to sync transactions automatically.\n\nKnow What’s Safe to Spend – See your real-time spending power after upcoming bills.\n\nNever Miss a Bill – Set reminders, view your upcoming bills at a glance, and stay organized with widgets.\n\nFind Hidden Subscriptions – Uncov",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/61/b5/8a61b500-b5a9-ea91-7776-d63a1d2d9a18/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 156125071,
+      "size": 156666742,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/df/72/1cdf72bb-1d54-7a27-d6e4-e54ef4151c21/pr_source.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/ab/2c/f4ab2cef-41bd-f2bf-2980-f7910d3d3dd8/pr_source.png/552x414bb.png",
@@ -7608,11 +7608,11 @@
       },
       "versions": [
         {
-          "version": "4.2.11",
-          "date": "2026-07-29",
+          "version": "4.2.16",
+          "date": "2026-07-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.11-riftysipas.ipa",
-          "size": 156125071
+          "downloadURL": "https://telos.ftp.sh/ipas/Bill Tracker Pro-v4.2.16-riftysipas.ipa",
+          "size": 156666742
         }
       ],
       "category": "finance"
@@ -25448,14 +25448,14 @@
       "bundleIdentifier": "com.claushuang.FocusTomato",
       "developerName": "CHIH-SHAN LIU",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "6.1",
-      "versionDate": "2026-07-14",
+      "version": "6.1.1",
+      "versionDate": "2026-07-30",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, focustomato, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Focus Tomato - Let's focus now-v6.1-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Focus Tomato - Let's focus now-v6.1.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, focustomato, zxPluginsInject\n\nFocus Tomato - Let's focus now\n\n---\n## App Of The Day - Apple\n## New Apps We Love - Apple\n## Try These Out - Apple\n## Student App of the Month - The App Brewery (London)\n\nFocus Tomato is a serious tomato helping you stay focused.\nCheer you up when you succeed.\n\n—— Recommended consuming order ——\n\nStep 1: Goal setting\nIf the goal is too big, break it down.\n\nStep 2: only focus for 25 minutes\n Only focus on one thing\n Avoid distraction; make efforts to keep the Tomato running (ex. if someone hits you up, tell him/her getting back to y",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/8b/0e/468b0ef5-f5c5-15a4-a211-bcdf51da9261/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 117820392,
+      "size": 121445532,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/3f/ea/c63feab6-4231-ea8f-5e9e-1cefab3e35b0/e8d5a0f6-4e38-45ff-a003-92c980fcb26d_cut0.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/97/2c/78972c97-9ae8-4f7e-8b0d-2bf035cecf4b/c96774c1-7660-4595-a4f4-64b772640b87_cut1.jpg/576x768bb.jpg",
@@ -25474,11 +25474,11 @@
       },
       "versions": [
         {
-          "version": "6.1",
-          "date": "2026-07-14",
+          "version": "6.1.1",
+          "date": "2026-07-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, focustomato, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Focus Tomato - Let's focus now-v6.1-riftysipas.ipa",
-          "size": 117820392
+          "downloadURL": "https://telos.ftp.sh/ipas/Focus Tomato - Let's focus now-v6.1.1-riftysipas.ipa",
+          "size": 121445532
         }
       ],
       "category": "productivity"
@@ -28963,14 +28963,14 @@
       "bundleIdentifier": "com.gymstreak.GymStreakAI",
       "developerName": "GymStreak Ltd",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "6.3.11",
-      "versionDate": "2026-06-25",
+      "version": "6.4.0",
+      "versionDate": "2026-07-30",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/GymStreak: AI Personal Trainer-v6.3.11-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/GymStreak: AI Personal Trainer-v6.4.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nGymStreak: AI Personal Trainer\n\n---\nTransform your fitness journey with GymStreak, the ultimate AI Personal Trainer and Workout Tracker that delivers personalized training at a fraction of traditional personal trainer costs.\n\nHere's why GymStreak is the premier fitness tracker and workout creator:\n\n◆ AI-Powered Workout Creator: Generate dynamic, personalized workout plans that adapt to your progress, ensuring continuous growth as your ultimate gym tracker and strength training companion.\n\n◆ Smart Nutrition Tracking: Simply photogr",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/51/f5/e551f52c-89a5-4a73-9fbe-576779b32d60/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/e3/29/ebe329f6-4e48-20a2-de76-a5188e0a0a13/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 109586081,
+      "size": 109144230,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/bc/b9/89bcb948-b030-1303-7ac5-5963c1f8aadb/24b413ac-3a13-4402-94e3-e7d9fa0fde89_0_guided_workout_leg_press.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/7b/68/927b6827-64ae-98fc-4d5d-807fd675107a/c41ba4f1-d43c-4d86-9fb7-7c477859f1b0_1_workout.png/392x696bb.png",
@@ -28999,11 +28999,11 @@
       },
       "versions": [
         {
-          "version": "6.3.11",
-          "date": "2026-06-25",
+          "version": "6.4.0",
+          "date": "2026-07-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/GymStreak: AI Personal Trainer-v6.3.11-riftysipas.ipa",
-          "size": 109586081
+          "downloadURL": "https://telos.ftp.sh/ipas/GymStreak: AI Personal Trainer-v6.4.0-riftysipas.ipa",
+          "size": 109144230
         }
       ],
       "category": "health-&-fitness"
@@ -30213,14 +30213,14 @@
       "bundleIdentifier": "com.hevyapp.hevy",
       "developerName": "Hevy Studios S.L.",
       "subtitle": "Tweaked with Hevy, blatantsPatch",
-      "version": "3.1.6",
-      "versionDate": "2026-07-29",
+      "version": "3.1.7",
+      "versionDate": "2026-07-30",
       "versionDescription": "Tweaks: Hevy, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_6_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_7_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Hevy, blatantsPatch\n\nHevy - Workout Tracker Gym Log\n\n---\nFeatured by Apple Join +10 million users!\nHevy is the most intuitive workout tracker & planner in the world. No ads and free. Plan your weight lifting routines, log your workouts and track your exercise progress. Join a growing community and get started today - for free!\n\nWHAT USERS ARE SAYING\n• \"Seriously the best workout tracker I've ever used. Simple. Free. Tons of graphs. Amazing quality videos\" - Sam Ilelaboye\n• \"Seeing what my friends and other athletes are working out at the gym has total",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/5e/07/e55e071a-5e2f-fe3e-7867-302a87395225/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 119907452,
+      "size": 119959546,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/65/23/a565237a-1107-085e-1071-57c537ce452a/4f85acc6-9488-4d7b-bbc5-96ef1b35a303_screenshot0__U00281_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/20/11/9e2011c2-ef21-e716-c60a-5c2fe0b26297/a66b427f-5742-4ef6-9f1f-7fb2aeb5f927_screenshot1.png/392x696bb.png",
@@ -30243,6 +30243,7 @@
           "NSCameraUsageDescription": "We need to access your camera to take a profile picture",
           "NSLocationWhenInUseUsageDescription": "Hevy uses your location to find gyms near you",
           "NSLocationAlwaysUsageDescription": "We should never ask for this",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "We should never ask for this",
           "NSContactsUsageDescription": "We need to access your contacts to show you users that you might know",
           "NSCalendarsUsageDescription": "We should never ask for this",
           "NSMotionUsageDescription": "We should never ask for this",
@@ -30257,11 +30258,11 @@
       },
       "versions": [
         {
-          "version": "3.1.6",
-          "date": "2026-07-29",
+          "version": "3.1.7",
+          "date": "2026-07-30",
           "localizedDescription": "Tweaks: Hevy, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_6_Subscription_Unlocked_blatant.ipa",
-          "size": 119907452
+          "downloadURL": "https://telos.ftp.sh/ipas/Hevy_Workout_Tracker_Gym_Log_v3_1_7_Subscription_Unlocked_blatant.ipa",
+          "size": 119959546
         }
       ],
       "category": "health-&-fitness"
@@ -31270,14 +31271,14 @@
       "bundleIdentifier": "com.rubygames.assassin",
       "developerName": "RUBY OYUN VE YAZILIM DANISMANLIK SANAYI TICARET ANONIM SIRKETI",
       "subtitle": "Tweaked with CydiaSubstrate, NetworkBlocker(adblocker)",
-      "version": "2.042",
-      "versionDate": "2026-07-17",
+      "version": "2.043",
+      "versionDate": "2026-07-30",
       "versionDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, hunterassassin\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Hunter Assassin-v2.042-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Hunter Assassin-v2.043-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, hunterassassin\n\nHunter Assassin\n\n---\nStep into the thrilling world of Hunter Assassin – a fast-paced mobile game for stealthy and strategic players that takes you on a wild adventure as a hunter with a deadly knife. With multiple enemies to kill, challenging missions to complete, and rewards to collect, this game will test your skills and keep you on the edge of your seat. If you love a classic stealth challenge, this game is made for you!\n\nDiscover the Unique Characters of Hunter Assassin!\nYou'll have the chance to unlock several",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/a6/50/7fa650e4-b9b4-98cb-9846-41636d99febb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 129724545,
+      "size": 129590933,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/36/59/bc365948-f230-9daa-476f-de0c8d18d520/43844e4e-86ca-4a39-a70e-5b4a306d3ba9_HA_1242x2208_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/00/43/a8004303-b9e6-036b-3a64-b5257bbef754/c9bec5e5-886e-4406-afa5-d1ff6739449d_HA_1242x2208_2.png/392x696bb.png",
@@ -31299,11 +31300,11 @@
       },
       "versions": [
         {
-          "version": "2.042",
-          "date": "2026-07-17",
+          "version": "2.043",
+          "date": "2026-07-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, hunterassassin\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Hunter Assassin-v2.042-riftysipas.ipa",
-          "size": 129724545
+          "downloadURL": "https://telos.ftp.sh/ipas/Hunter Assassin-v2.043-riftysipas.ipa",
+          "size": 129590933
         }
       ],
       "category": "games"
@@ -51800,14 +51801,14 @@
       "bundleIdentifier": "com.dr1ven.eraser",
       "developerName": "Photoroom",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2026.29.01",
-      "versionDate": "2026-07-13",
+      "version": "2026.31.01",
+      "versionDate": "2026-07-30",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.29.01-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.31.01-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPhotoroom: AI Photo Editor\n\n---\nPhotoroom is the ultimate AI-powered photo editing app, trusted by over 300 million users.\n\nCreate studio-quality product photos in seconds with Photoroom’s advanced AI photo editing technology. No design skills required.\n\nWHY CHOOSE PHOTOROOM?\n\nENHANCE PRODUCT LISTINGS. Showcase clothing on virtual models, ghost mannequins, and flat lay. No studio required.\n\nREMOVE, REPLACE, AND RECOLOR. Remove backgrounds, swap for AI-generated edits, and recolor products in seconds.\n\nSAVE TIME WITH BATCH EDIT",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/0f/2c/be0f2cc8-d36b-e436-20ee-645f49685fb3/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 192860466,
+      "size": 235390838,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -51829,11 +51830,11 @@
       },
       "versions": [
         {
-          "version": "2026.29.01",
-          "date": "2026-07-13",
+          "version": "2026.31.01",
+          "date": "2026-07-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.29.01-riftysipas.ipa",
-          "size": 192860466
+          "downloadURL": "https://telos.ftp.sh/ipas/Photoroom: AI Photo Editor-v2026.31.01-riftysipas.ipa",
+          "size": 235390838
         }
       ],
       "category": "photo-&-video"
@@ -63952,14 +63953,14 @@
       "bundleIdentifier": "com.fifteenjugglers.solarwatch",
       "developerName": "Fifteen Jugglers Software UG",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2026.25",
-      "versionDate": "2026-07-29",
+      "version": "2026.26",
+      "versionDate": "2026-07-30",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sunrise Sunset Time SolarWatch-v2026.25-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sunrise Sunset Time SolarWatch-v2026.26-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSunrise Sunset Time SolarWatch\n\n---\nDiscover the power of the sun with SolarWatch - the ultimate companion for outdoor enthusiasts and photographers!\n\nPlan your day with confidence using accurate sunrise, sunset, and twilight times, and never miss a perfect moment again with customizable solar alarms. SolarWatch's AR mode and map overlays make it easy to find the best lighting for your photos, while the app's widgets keep you informed at a glance.\n\nWhether you're hiking, camping, or simply enjoying nature, SolarWatch helps you liv",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/15/80/001580fe-73b2-7181-083e-3908a5b1a605/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 60239546,
+      "size": 60446837,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -63982,11 +63983,11 @@
       },
       "versions": [
         {
-          "version": "2026.25",
-          "date": "2026-07-29",
+          "version": "2026.26",
+          "date": "2026-07-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Sunrise Sunset Time SolarWatch-v2026.25-riftysipas.ipa",
-          "size": 60239546
+          "downloadURL": "https://telos.ftp.sh/ipas/Sunrise Sunset Time SolarWatch-v2026.26-riftysipas.ipa",
+          "size": 60446837
         }
       ],
       "category": "photo-&-video"
