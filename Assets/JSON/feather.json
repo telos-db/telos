@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "co.detail.duo",
+    "com.agent.super.extension.safari",
+    "com.google.ios.youtube",
     "com.readdle.PDFExpert5",
-    "com.bloomberg.Bloomberg",
-    "com.lightricks.Facetune2",
-    "com.madarsoft.fitness",
-    "com.AppChief.ArabicArt"
+    "com.bloomberg.Bloomberg"
   ],
   "apps": [
     {
@@ -17416,15 +17416,15 @@
       "name": "Detail",
       "bundleIdentifier": "co.detail.duo",
       "developerName": "Detail Technologies B.V.",
-      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "5.6.0",
-      "versionDate": "2026-07-13",
-      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Detail: Camera & Video Editor-v5.6.0-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nDetail: Camera & Video Editor\n\n---\nDetail combines the simplicity of a camera app with the power of a professional AI video editor. Whether you're creating a 60-second reaction video, a polished YouTube vlog, a 30-minute interview or podcast, or going live to thousands of viewers, you can do it all in one place with Detail.\n\nINSTANT VIDEO WITH AI AUTO-EDIT\n\nRecord or import a video and let AI Auto-Edit do the rest. Detail's AI finds the best moments, removes silences, and creates ready-to-share shorts and reels automatically. Ins",
+      "subtitle": "Tweaked with Detail, blatantsPatch",
+      "version": "5.7.0",
+      "versionDate": "2026-07-30",
+      "versionDescription": "Tweaks: Detail, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://telos.ftp.sh/ipas/Detail_AI_Video_Editor_v5_7_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Detail, blatantsPatch\n\nDetail: AI Video Editor\n\n---\nDetail combines the simplicity of a camera app with the power of a professional AI video editor. Whether you're creating a 60-second reaction video, a polished YouTube vlog, a 30-minute interview or podcast, or going live to thousands of viewers, you can do it all in one place with Detail.\n\nINSTANT VIDEO WITH AI AUTO-EDIT\n\nRecord or import a video and let AI Auto-Edit do the rest. Detail's AI finds the best moments, removes silences, and creates ready-to-share shorts and reels automatically. Ins",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/da/61/a6da61b8-507a-7c27-04c1-608fe7aac5f5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 228010859,
+      "size": 240663281,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -17446,11 +17446,11 @@
       },
       "versions": [
         {
-          "version": "5.6.0",
-          "date": "2026-07-13",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Detail: Camera & Video Editor-v5.6.0-riftysipas.ipa",
-          "size": 228010859
+          "version": "5.7.0",
+          "date": "2026-07-30",
+          "localizedDescription": "Tweaks: Detail, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://telos.ftp.sh/ipas/Detail_AI_Video_Editor_v5_7_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 240663281
         }
       ],
       "category": "photo-&-video"
@@ -69027,14 +69027,14 @@
       "bundleIdentifier": "com.agent.super.extension.safari",
       "developerName": "Super Agent, Inc",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "4.5.1",
-      "versionDate": "2026-07-29",
+      "version": "4.5.3",
+      "versionDate": "2026-07-30",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_5_1_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_5_3_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nSuper Agent for Safari\n\n---\nTired of cookie pop-ups on every website?\n\nSuper Agent automates cookie consent based on your preferences. Set once, applies everywhere.\n\nHow it works:\nChoose your preferences for Advertising, Functional, and Performance cookies. Super Agent fills out consent forms automatically on supported sites.\nSite not working? Tap Report. AI analyzes patterns to add coverage faster—without accessing your data.\n\nFeatures:\n- Automatic consent for Safari on iOS/iPad\n- One-time setup, works across thousands of",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/33/4b/a2334b04-5b7a-e06c-e6de-388ecc265c28/superagent-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 27672148,
+      "size": 27721371,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/08/54/730854bf-a830-da4f-b988-479c163d0558/af9c9ef5-aff8-4bfd-8d9c-289e3e771424_4.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/42/9b/47429b30-925b-13ee-d231-8bbedeba7581/e3ee2f2a-aaed-475c-bb6e-ef910d1f2ca5_5.jpg/392x696bb.jpg",
@@ -69052,11 +69052,11 @@
       },
       "versions": [
         {
-          "version": "4.5.1",
-          "date": "2026-07-29",
+          "version": "4.5.3",
+          "date": "2026-07-30",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_5_1_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 27672148
+          "downloadURL": "https://telos.ftp.sh/ipas/Super_Agent_for_Safari_v4_5_3_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 27721371
         }
       ],
       "category": "utilities"
@@ -81700,11 +81700,11 @@
       "version": "21.30.5",
       "versionDate": "2026-07-30",
       "versionDescription": "Tweaks: CydiaSubstrate, YTKPlus\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/YouTube_21.30_lowiqentity_5.23.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/YouTube_21.30.5_YTKillerPlus_5.23_Cracked[lowiqentity].ipa",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, YTKPlus\n\nYTKillerPlus 5.23.0 Cracked by lowiqentity\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/27/c3/d927c357-3219-36a7-9821-316c15cc6b40/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 135203658,
+      "size": 136064626,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -81743,8 +81743,8 @@
           "version": "21.30.5",
           "date": "2026-07-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, YTKPlus\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/YouTube_21.30_lowiqentity_5.23.ipa",
-          "size": 135203658
+          "downloadURL": "https://telos.ftp.sh/ipas/YouTube_21.30.5_YTKillerPlus_5.23_Cracked[lowiqentity].ipa",
+          "size": 136064626
         }
       ],
       "category": "photo-&-video"
