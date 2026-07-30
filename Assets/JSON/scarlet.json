@@ -5261,27 +5261,26 @@
       "name": "Bloomberg",
       "bundleIdentifier": "com.bloomberg.Bloomberg",
       "developerName": "Bloomberg Finance LP",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Bloomberg, Fux, substrate\n\nBloomberg: Business News Daily 6.56.0\n\n---\nBreaking news on world finance, business, stock market and investments. Access award-winning journalism to help you understand the economics and financial news that’s shaping tomorrow, today.\n\nBefore you change the world. Bloomberg.\nCustomize the app to monitor the stock market and your investment portfolio. Stay up-to-date on trending topics like the US economy, oil prices, Dow Jones, NASDAQ and more.\n\nBloomberg delivers critical business news for modern business leaders and financial professio",
-      "version": "6.56.0",
-      "versionDate": "2026-06-11T05:26:13-00:00",
-      "versionDescription": "Build 5409930 from @binnichtaktivsipas",
-      "size": 41285853,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/4c/d9/164cd933-4e88-50c0-ab7b-cc51b800ba02/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.bloomberg.Bloomberg-6.56.0.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: Bloomberg, Fux, blatantsPatch, substrate\n\nBloomberg: Business News Daily v6.62.1\n\n---\nBreaking news on world finance, business, stock market and investments. Access award-winning journalism to help you understand the economics and financial news that’s shaping tomorrow, today.\n\nBefore you change the world. Bloomberg.\nCustomize the app to monitor the stock market and your investment portfolio. Stay up-to-date on trending topics like the US economy, oil prices, Dow Jones, NASDAQ and more.\n\nBloomberg delivers critical business news for modern business leaders and financial professio",
+      "version": "6.62.1",
+      "versionDate": "2026-07-30T13:23:57-00:00",
+      "versionDescription": "Build 5549601 from @thescholarslounge",
+      "size": 43008250,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/48/21/08482185-5d58-7357-d956-206691e1fb8e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.bloomberg.Bloomberg-6.62.1.ipa",
       "minOSVersion": "10.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
       "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
+        "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "com.bloomberg.Bloomberg-6.56.0.ipa"
+        "originalFile": "com.bloomberg.Bloomberg-6.62.1.ipa"
       }
     },
     {
@@ -31609,12 +31608,12 @@
       "bundleIdentifier": "com.readdle.PDFExpert5",
       "developerName": "Readdle Technologies Limited",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FilePickerFix, PDFExpert, blatantsPatch\n\nPDF Expert: Editor & Converter\n\n---\nUnlock your potential with a fast and easy PDF Expert app with all the features you need in a well-designed and intuitive user interface.\n\nBEST FOR iPHONE, iPAD, MAC & VISION PRO\nRead PDF files easily, highlight and annotate PDFs, fill out forms, convert any file to PDF, merge several files into one, add notes, summarize and navigate PDF documents in seconds with AI-powered tools. Unlock unlimited possibilities with PDF Expert Premium features and work across all your Apple devices, effortlessly",
-      "version": "7.25.8",
-      "versionDate": "2026-07-07T11:32:41-00:00",
-      "versionDescription": "Build 7.25.8.1308 from @blatants",
-      "size": 165151508,
+      "version": "7.25.9",
+      "versionDate": "2026-07-30T13:26:21-00:00",
+      "versionDescription": "Build 7.25.9.1315 from @blatants",
+      "size": 146062344,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/3b/ab/303bab67-db31-edde-aa87-1e004818af80/AppIcon-Production-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/PDF_Expert_Editor_&_Converter_v7_25_8_Premium_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/PDF_Expert_Editor_&_Converter_v7_25_9_Premium_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -31627,7 +31626,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "PDF_Expert_Editor_&_Converter_v7_25_8_Premium_Unlocked_blatant_Patched.ipa"
+        "originalFile": "PDF_Expert_Editor_&_Converter_v7_25_9_Premium_Unlocked_blatant_Patched.ipa"
       }
     },
     {
