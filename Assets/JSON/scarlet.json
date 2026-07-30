@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-07-29",
+  "versionDate": "2026-07-30",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -24882,12 +24882,12 @@
       "bundleIdentifier": "com.skylum.luminaripad",
       "developerName": "Skylum",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FilePickerFix, Luminar, blatantsPatch\n\nLuminar: Image Editor&Enhancer\n\n---\nLuminar — Your all-in-one, on-the-go photo editor and creative companion for iPhone, iPad and Vision Pro. Explore powerful AI-driven tools and an interactive interface that responds to your touch, delivering a uniquely engaging photo editing experience.\n\nStreamlined design with unparalleled control\n\nLuminar's user-friendly design allows you to edit your photos with intuitive gestures, featuring smoothly gliding sliders and spinning dials that respond realistically to your touch with motion and s",
-      "version": "4.2.1",
-      "versionDate": "2026-07-17T12:50:03-00:00",
-      "versionDescription": "Build 3307 from @blatants",
-      "size": 547586822,
+      "version": "4.3",
+      "versionDate": "2026-07-29T23:53:49-00:00",
+      "versionDescription": "Build 3344 from @blatants",
+      "size": 552819204,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/13/33/791333d2-21bb-46f8-cbd1-3a78a9a2ef14/LuminarLogo-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_2_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_3_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -24900,7 +24900,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Luminar_Image_Editor&Enhancer_v4_2_1_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Luminar_Image_Editor&Enhancer_v4_3_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -39783,12 +39783,12 @@
       "bundleIdentifier": "com.campmobile.snow",
       "developerName": "SNOW Corporation",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SNOW, blatantsPatch\n\nSNOW - AI Profile\n\n---\nSNOW is a camera app used by over 200 million people around the world.\n\n- Find your favorite version of yourself by creating and saving custom beauty effects.\n- Take profile-worthy selfies with stylish AR makeup features.\n- Explore thousands of stickers with updates every day.\n- Don't miss exclusive seasonal filters that add color to your daily life.\n- Professional photo edits with just a few taps.\n\n[SNOW VIP]\nYour App Store account will be charged when subscribing to SNOW VIP. The subscription",
-      "version": "15.3.0",
-      "versionDate": "2026-07-29T14:19:25-00:00",
-      "versionDescription": "Build 15.3.0.2 from @blatants",
-      "size": 151920143,
+      "version": "15.3.1",
+      "versionDate": "2026-07-29T23:56:28-00:00",
+      "versionDescription": "Build 15.3.1.1 from @blatants",
+      "size": 151940366,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/a1/2d/8ba12d11-3f3b-d84b-c74d-99545928437a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/SNOW_AI_Profile_v15_3_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SNOW_AI_Profile_v15_3_1_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -39800,7 +39800,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "SNOW_AI_Profile_v15_3_0_Subscription_Unlocked_blatant_Patched.ipa"
+        "originalFile": "SNOW_AI_Profile_v15_3_1_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -46796,6 +46796,32 @@
       }
     },
     {
+      "name": "Twitter [BHTwitter]",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "X Corp.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nClassic BHTwitter+ 11.89\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "version": "12.13",
+      "versionDate": "2026-07-29T23:40:46-00:00",
+      "versionDescription": "Build 10 from @thescholarslounge",
+      "size": 224190699,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Classic_BHTwitter_12.13_Jacks_Apps.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Classic_BHTwitter_12.13_Jacks_Apps.ipa"
+      }
+    },
+    {
       "name": "TypeAI",
       "bundleIdentifier": "com.codeway.AIKeyboard",
       "developerName": "DEEP FLOW SOFTWARE SERVICES",
@@ -50465,13 +50491,13 @@
       "name": "X",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X Corp.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
-      "version": "12.9",
-      "versionDate": "2026-07-18T14:25:40-00:00",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: XEnhancer\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "version": "12.13",
+      "versionDate": "2026-07-29T23:44:20-00:00",
       "versionDescription": "Build 10 from @thescholarslounge",
-      "size": 226073169,
+      "size": 223534712,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.atebits.Tweetie2-12.9-eeveedecrypter.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/X-12.13_XE-1.0.0.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -50484,33 +50510,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "com.atebits.Tweetie2-12.9-eeveedecrypter.ipa"
-      }
-    },
-    {
-      "name": "X [BHTwitter]",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "X Corp.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
-      "version": "12.10",
-      "versionDate": "2026-07-29T22:26:04-00:00",
-      "versionDescription": "Build 12 from @binnichtaktivsipas",
-      "size": 224420818,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/X_12.10_NFB_6.0.3_TWIGalaxy_[@ipavault].ipa",
-      "minOSVersion": "15.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "X_12.10_NFB_6.0.3_TWIGalaxy_[@ipavault].ipa"
+        "originalFile": "X-12.13_XE-1.0.0.ipa"
       }
     },
     {
