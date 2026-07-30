@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.campmobile.snow",
+    "com.skylum.luminaripad",
     "com.atebits.Tweetie2",
     "com.adobe.lrmobilephone",
-    "com.ydgn.dokacamera",
-    "com.thegenau.NoteCircle",
-    "com.reveri.reverihealth"
+    "com.ydgn.dokacamera"
   ],
   "apps": [
     {
@@ -39993,14 +39993,14 @@
       "bundleIdentifier": "com.skylum.luminaripad",
       "developerName": "Skylum",
       "subtitle": "Tweaked with FilePickerFix, Luminar",
-      "version": "4.2.1",
-      "versionDate": "2026-07-17",
+      "version": "4.3",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: FilePickerFix, Luminar, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_2_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_3_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FilePickerFix, Luminar, blatantsPatch\n\nLuminar: Image Editor&Enhancer\n\n---\nLuminar — Your all-in-one, on-the-go photo editor and creative companion for iPhone, iPad and Vision Pro. Explore powerful AI-driven tools and an interactive interface that responds to your touch, delivering a uniquely engaging photo editing experience.\n\nStreamlined design with unparalleled control\n\nLuminar's user-friendly design allows you to edit your photos with intuitive gestures, featuring smoothly gliding sliders and spinning dials that respond realistically to your touch with motion and s",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/13/33/791333d2-21bb-46f8-cbd1-3a78a9a2ef14/LuminarLogo-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 547586822,
+      "size": 552819204,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/5e/a0/065ea076-8f7b-26c0-adcc-df15d87c995f/12a21320-1dde-4f81-9957-774e26de1981_3.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/cd/6d/28cd6d0d-ddd3-c301-fb2c-2a1d596d64ac/6faabc21-360e-427f-a4c1-dcfa5e330231_4.png/392x696bb.png",
@@ -40025,11 +40025,11 @@
       },
       "versions": [
         {
-          "version": "4.2.1",
-          "date": "2026-07-17",
+          "version": "4.3",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: FilePickerFix, Luminar, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_2_1_Subscription_Unlocked_blatant.ipa",
-          "size": 547586822
+          "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_3_Subscription_Unlocked_blatant.ipa",
+          "size": 552819204
         }
       ],
       "category": "photo-&-video"
@@ -63642,14 +63642,14 @@
       "bundleIdentifier": "com.campmobile.snow",
       "developerName": "SNOW Corporation",
       "subtitle": "Tweaked with SNOW, blatantsPatch",
-      "version": "15.3.0",
+      "version": "15.3.1",
       "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: SNOW, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SNOW_AI_Profile_v15_3_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SNOW_AI_Profile_v15_3_1_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SNOW, blatantsPatch\n\nSNOW - AI Profile\n\n---\nSNOW is a camera app used by over 200 million people around the world.\n\n- Find your favorite version of yourself by creating and saving custom beauty effects.\n- Take profile-worthy selfies with stylish AR makeup features.\n- Explore thousands of stickers with updates every day.\n- Don't miss exclusive seasonal filters that add color to your daily life.\n- Professional photo edits with just a few taps.\n\n[SNOW VIP]\nYour App Store account will be charged when subscribing to SNOW VIP. The subscription",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/a1/2d/8ba12d11-3f3b-d84b-c74d-99545928437a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 151920143,
+      "size": 151940366,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/37/ca/d237cad8-e57f-cefa-8a66-b576cbe65834/haircolor_en__U00282_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/2d/b8/362db83a-6f35-e6fe-c79d-48e68191ffe7/_U110b_U1161_U110b_U1175_U1111_U1169_U11ab_EN.png/392x696bb.png",
@@ -63681,11 +63681,11 @@
       },
       "versions": [
         {
-          "version": "15.3.0",
+          "version": "15.3.1",
           "date": "2026-07-29",
           "localizedDescription": "Tweaks: SNOW, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SNOW_AI_Profile_v15_3_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 151920143
+          "downloadURL": "https://telos.ftp.sh/ipas/SNOW_AI_Profile_v15_3_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 151940366
         }
       ],
       "category": "photo-&-video"
@@ -75000,6 +75000,62 @@
       "category": "photo-&-video"
     },
     {
+      "name": "Twitter [BHTwitter]",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "X Corp.",
+      "subtitle": "Tweaked with BHTwitter, Cephei",
+      "version": "12.13",
+      "versionDate": "2026-07-29",
+      "versionDescription": "Tweaks: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/Classic_BHTwitter_12.13_Jacks_Apps.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nClassic BHTwitter+ 11.89\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 224190699,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/77/660e779a-d449-ebd3-0bd3-78502084f7bf/770e6822-f28e-4e4b-be51-8bfbe36f4307_iPad_12.9_-_1.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/2e/90e62e67-ccd1-8221-8149-49f305b8778d/7e053a3e-190b-4585-9927-509871425aad_iPad_12.9_-_2.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/55/81/e1558195-ef27-c4d9-7967-ab92de356af6/af4a69eb-36c5-463c-9677-c2a72dfaa7dc_iPad_12.9_-_3.png/552x414bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "aps-environment",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.siri",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.networking.carrier-constrained.app-optimized",
+          "com.apple.developer.networking.carrier-constrained.appcategory",
+          "com.apple.security.application-groups",
+          "com.apple.developer.usernotifications.communication"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSCameraUsageDescription": "Capture and post photos and videos from X.",
+          "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
+          "NSLocationWhenInUseUsageDescription": "Enjoy the X experience tailored to your location.",
+          "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
+          "NSCalendarsUsageDescription": "Add events to your calendar from X.",
+          "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
+          "NSFaceIDUsageDescription": "Use FaceID to authenticate on X.",
+          "NSUserTrackingUsageDescription": "This helps X show you more relevant ads.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos."
+        }
+      },
+      "versions": [
+        {
+          "version": "12.13",
+          "date": "2026-07-29",
+          "localizedDescription": "Tweaks: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/Classic_BHTwitter_12.13_Jacks_Apps.ipa",
+          "size": 224190699
+        }
+      ],
+      "category": "news"
+    },
+    {
       "name": "TypeAI",
       "bundleIdentifier": "com.codeway.AIKeyboard",
       "developerName": "DEEP FLOW SOFTWARE SERVICES",
@@ -80862,71 +80918,15 @@
       "name": "X",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X Corp.",
-      "subtitle": "X for iOS",
-      "version": "12.9",
-      "versionDate": "2026-07-18",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.atebits.Tweetie2-12.9-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 226073169,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/77/660e779a-d449-ebd3-0bd3-78502084f7bf/770e6822-f28e-4e4b-be51-8bfbe36f4307_iPad_12.9_-_1.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/2e/90e62e67-ccd1-8221-8149-49f305b8778d/7e053a3e-190b-4585-9927-509871425aad_iPad_12.9_-_2.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/55/81/e1558195-ef27-c4d9-7967-ab92de356af6/af4a69eb-36c5-463c-9677-c2a72dfaa7dc_iPad_12.9_-_3.png/552x414bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.associated-appclip-app-identifiers",
-          "aps-environment",
-          "com.apple.developer.devicecheck.appattest-environment",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.siri",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.networking.carrier-constrained.app-optimized",
-          "com.apple.developer.networking.carrier-constrained.appcategory",
-          "com.apple.security.application-groups",
-          "com.apple.developer.usernotifications.communication"
-        ],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
-          "NSCameraUsageDescription": "Capture and post photos and videos from X.",
-          "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
-          "NSLocationWhenInUseUsageDescription": "Enjoy the X experience tailored to your location.",
-          "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
-          "NSCalendarsUsageDescription": "Add events to your calendar from X.",
-          "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
-          "NSFaceIDUsageDescription": "Use FaceID to authenticate on X.",
-          "NSUserTrackingUsageDescription": "This helps X show you more relevant ads.",
-          "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos."
-        }
-      },
-      "versions": [
-        {
-          "version": "12.9",
-          "date": "2026-07-18",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.atebits.Tweetie2-12.9-eeveedecrypter.ipa",
-          "size": 226073169
-        }
-      ],
-      "category": "news"
-    },
-    {
-      "name": "X [BHTwitter]",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "X Corp.",
-      "subtitle": "Tweaked with BHTwitter, Cephei",
-      "version": "12.10",
+      "subtitle": "Tweaked with XEnhancer",
+      "version": "12.13",
       "versionDate": "2026-07-29",
-      "versionDescription": "Tweaks: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/X_12.10_NFB_6.0.3_TWIGalaxy_[@ipavault].ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "versionDescription": "Tweaks: XEnhancer\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/X-12.13_XE-1.0.0.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: XEnhancer\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 224420818,
+      "size": 223534712,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/77/660e779a-d449-ebd3-0bd3-78502084f7bf/770e6822-f28e-4e4b-be51-8bfbe36f4307_iPad_12.9_-_1.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/2e/90e62e67-ccd1-8221-8149-49f305b8778d/7e053a3e-190b-4585-9927-509871425aad_iPad_12.9_-_2.png/552x414bb.png",
@@ -80961,11 +80961,11 @@
       },
       "versions": [
         {
-          "version": "12.10",
+          "version": "12.13",
           "date": "2026-07-29",
-          "localizedDescription": "Tweaks: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/X_12.10_NFB_6.0.3_TWIGalaxy_[@ipavault].ipa",
-          "size": 224420818
+          "localizedDescription": "Tweaks: XEnhancer\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/X-12.13_XE-1.0.0.ipa",
+          "size": 223534712
         }
       ],
       "category": "news"
