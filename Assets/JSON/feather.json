@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.google.ios.youtube",
     "co.visualsupply.cam",
     "com.campmobile.snow",
     "com.skylum.luminaripad",
-    "com.atebits.Tweetie2",
-    "com.adobe.lrmobilephone"
+    "com.atebits.Tweetie2"
   ],
   "apps": [
     {
@@ -81696,15 +81696,15 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "subtitle": "YouTube for iOS",
-      "version": "21.29.3",
-      "versionDate": "2026-07-29",
-      "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.google.ios.youtube-21.29.03-eeveedecrypter.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
+      "subtitle": "Tweaked with CydiaSubstrate, YTKPlus",
+      "version": "21.30.5",
+      "versionDate": "2026-07-30",
+      "versionDescription": "Tweaks: CydiaSubstrate, YTKPlus\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/YouTube_21.30_lowiqentity_5.23.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, YTKPlus\n\nYTKillerPlus 5.23.0 Cracked by lowiqentity\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/27/c3/d927c357-3219-36a7-9821-316c15cc6b40/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 138566873,
+      "size": 135203658,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -81740,11 +81740,11 @@
       },
       "versions": [
         {
-          "version": "21.29.3",
-          "date": "2026-07-29",
-          "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.google.ios.youtube-21.29.03-eeveedecrypter.ipa",
-          "size": 138566873
+          "version": "21.30.5",
+          "date": "2026-07-30",
+          "localizedDescription": "Tweaks: CydiaSubstrate, YTKPlus\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/YouTube_21.30_lowiqentity_5.23.ipa",
+          "size": 135203658
         }
       ],
       "category": "photo-&-video"
