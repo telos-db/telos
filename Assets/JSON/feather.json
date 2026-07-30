@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.astrio.Sofa",
+    "com.podfactor.pod",
+    "com.wellocution.iosapp",
     "com.lampa.photo",
-    "com.iteration-mobile.radarbot-free-ww",
-    "com.kairos.duet",
-    "com.firecore.infuse",
-    "com.google.ios.youtubemusic"
+    "com.iteration-mobile.radarbot-free-ww"
   ],
   "apps": [
     {
@@ -8636,14 +8636,14 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "subtitle": "Tweaked with BoldVoice, blatantsPatch",
-      "version": "4.2.3",
-      "versionDate": "2026-07-29",
+      "version": "4.2.4",
+      "versionDate": "2026-07-30",
       "versionDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_2_3_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_2_4_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BoldVoice, blatantsPatch\n\nBoldVoice: Accent Training\n\n---\nBoldVoice is the top-rated English speaking and pronunciation app, with over 2 million global users. Our Hollywood accent coaches and AI-powered feedback will help you achieve clear, confident pronunciation, with only 10 minutes of daily practice.\n\nWHY CHOOSE BOLDVOICE:\nLearn from professional accent coaches who train Hollywood actors\nRecord your voice and receive instant, AI-powered pronunciation feedback\nPractice with daily-life scenarios and professional conversations\nMonitor progress through",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 136597647,
+      "size": 136613856,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8663,11 +8663,11 @@
       },
       "versions": [
         {
-          "version": "4.2.3",
-          "date": "2026-07-29",
+          "version": "4.2.4",
+          "date": "2026-07-30",
           "localizedDescription": "Tweaks: BoldVoice, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_2_3_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 136597647
+          "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_2_4_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 136613856
         }
       ],
       "category": "education"
@@ -44890,14 +44890,14 @@
       "bundleIdentifier": "com.podfactor.pod",
       "developerName": "BUCKET LIST LABS S.L.",
       "subtitle": "Tweaked with MyCalendar, blatantsPatch",
-      "version": "2.106.6",
-      "versionDate": "2026-07-29",
+      "version": "2.106.7",
+      "versionDate": "2026-07-30",
       "versionDescription": "Tweaks: MyCalendar, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Calendar_·_Planner_&_Reminders_v2_106_6_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Calendar_·_Planner_&_Reminders_v2_106_7_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MyCalendar, blatantsPatch\n\nCalendar · Planner & Reminders\n\n---\nDiscover the simple, thoughtful app that is pushing the boundaries of what you expect from your calendar. Designed to organize your daily life with style, it combines an elegant design with incredibly powerful tools:\n\nIntuitive, beautiful views: Seamlessly switch between daily, weekly, and monthly views, all perfectly designed to give you maximum clarity at a glance.\n\nA single, unified view of events and reminders: Stay on top of your schedule with a centralized view where your meetings and to-d",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/ec/a6/72eca614-6ba6-e039-ae43-413d1c701e91/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 27603691,
+      "size": 67853955,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -44910,17 +44910,17 @@
           "NSLocationWhenInUseUsageDescription": "This helps Pod complete the location as you type.",
           "NSContactsUsageDescription": "Contacts are used to show more accurate names and faces. This data is not uploaded to our servers.",
           "NSCalendarsUsageDescription": "Calendars are used to show events and contacts. This data is not uploaded to our servers.",
-          "NSRemindersUsageDescription": "Pod needs this permission to display your reminders.",
+          "NSRemindersUsageDescription": "Calendar needs access to Reminders to show them alongside your events.",
           "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
         }
       },
       "versions": [
         {
-          "version": "2.106.6",
-          "date": "2026-07-29",
+          "version": "2.106.7",
+          "date": "2026-07-30",
           "localizedDescription": "Tweaks: MyCalendar, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Calendar_·_Planner_&_Reminders_v2_106_6_Subscription_Unlocked_blatant.ipa",
-          "size": 27603691
+          "downloadURL": "https://telos.ftp.sh/ipas/Calendar_·_Planner_&_Reminders_v2_106_7_Subscription_Unlocked_blatant.ipa",
+          "size": 67853955
         }
       ],
       "category": "productivity"
@@ -63774,14 +63774,14 @@
       "bundleIdentifier": "com.astrio.Sofa",
       "developerName": "Astrio, LLC",
       "subtitle": "Tweaked with Sofa, blatantsPatch",
-      "version": "5.2.1",
-      "versionDate": "2026-07-10",
+      "version": "5.2.2",
+      "versionDate": "2026-07-30",
       "versionDescription": "Tweaks: Sofa, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sofa_Downtime_Organizer_v5_2_1_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sofa_Downtime_Organizer_v5_2_2_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Sofa, blatantsPatch\n\nSofa: Downtime Organizer\n\n---\nFeatured by Apple as “App of the Day”\n\n9to5Mac: “I've found Sofa to be a delight to use.”\nMacStories: “My favorite app to manage my media watchlist.”\niMore: “A great way to organize everything from your games to your books.”\n\n————————\n\nSofa helps you enjoy your downtime by tracking your shows episode by episode, playing your podcasts, planning your trips, and a bunch of other stuff. All in one app.\n\nORGANIZE WITH LISTS AND GROUPS\nAdd unlimited lists and groups for categorizing all your stuff: bo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/e6/a6/1ce6a688-89c1-7194-02da-b33bab9f47a2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 204160708,
+      "size": 204344668,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/75/84/007584d9-3401-09f3-9b2b-bcf42b1413b3/4fd69e4b-4744-47cb-974e-256873ca153d_Sofa_App_Store_Screenshot_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/9b/5c/6f9b5c1d-7a68-8d24-acb8-d92707386879/5c613fbc-51ec-4e21-b001-6aa678805ba8_Sofa_App_Store_Screenshot_2.png/392x696bb.png",
@@ -63807,11 +63807,11 @@
       },
       "versions": [
         {
-          "version": "5.2.1",
-          "date": "2026-07-10",
+          "version": "5.2.2",
+          "date": "2026-07-30",
           "localizedDescription": "Tweaks: Sofa, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Sofa_Downtime_Organizer_v5_2_1_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 204160708
+          "downloadURL": "https://telos.ftp.sh/ipas/Sofa_Downtime_Organizer_v5_2_2_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 204344668
         }
       ],
       "category": "productivity"
