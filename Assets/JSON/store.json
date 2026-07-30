@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.lightricks.Facetune2",
     "com.madarsoft.fitness",
     "com.AppChief.ArabicArt",
     "com.google.ios.youtube",
-    "co.visualsupply.cam",
-    "com.campmobile.snow"
+    "co.visualsupply.cam"
   ],
   "apps": [
     {
@@ -21886,14 +21886,14 @@
       "bundleIdentifier": "com.lightricks.Facetune2",
       "developerName": "Lightricks Ltd.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "26.21",
-      "versionDate": "2026-07-20",
+      "version": "26.22",
+      "versionDate": "2026-07-30",
       "versionDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_21_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_22_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFacetune: Photo & Video Editor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/bb/f0/1cbbf08f-9b1d-5ad4-933c-8d8a1b0b5737/AppIconLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 433354604,
+      "size": 434498080,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/e1/25/81e125c3-0cff-38ab-c643-3cc8ebd60281/FT-250819-ASO-Baseline-5.5-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/52/66/e1526682-7c10-2655-d24a-0f0047c6fe71/FT-250819-ASO-Baseline-5.5-02.jpg/392x696bb.jpg",
@@ -21919,11 +21919,11 @@
       },
       "versions": [
         {
-          "version": "26.21",
-          "date": "2026-07-20",
+          "version": "26.22",
+          "date": "2026-07-30",
           "localizedDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_21_Subscription_Unlocked_blatant.ipa",
-          "size": 433354604
+          "downloadURL": "https://telos.ftp.sh/ipas/Facetune_Photo_&_Video_Editor_v26_22_Subscription_Unlocked_blatant.ipa",
+          "size": 434498080
         }
       ],
       "category": "photo-&-video"
@@ -82769,7 +82769,7 @@
     {
       "title": "⚙️ Telos Update 7.30",
       "identifier": "telos-update-2026-07-30",
-      "caption": "10 Apps Updated:\n• 6 Photo & Video\n• 4 Health & Fitness",
+      "caption": "12 Apps Updated:\n• 10 Photo & Video\n• 2 Health & Fitness",
       "date": "2026-07-30",
       "tintColor": "#02433b",
       "notify": true,
