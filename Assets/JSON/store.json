@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.campmobile.snow",
+    "com.skylum.luminaripad",
     "com.atebits.Tweetie2",
     "com.adobe.lrmobilephone",
-    "com.ydgn.dokacamera",
-    "com.thegenau.NoteCircle",
-    "com.reveri.reverihealth"
+    "com.ydgn.dokacamera"
   ],
   "apps": [
     {
@@ -39502,14 +39502,14 @@
       "bundleIdentifier": "com.skylum.luminaripad",
       "developerName": "Skylum",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.2.1",
-      "versionDate": "2026-07-17",
+      "version": "4.3",
+      "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: FilePickerFix, Luminar, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_2_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_3_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nLuminar: Image Editor&Enhancer",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/13/33/791333d2-21bb-46f8-cbd1-3a78a9a2ef14/LuminarLogo-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 547586822,
+      "size": 552819204,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/5e/a0/065ea076-8f7b-26c0-adcc-df15d87c995f/12a21320-1dde-4f81-9957-774e26de1981_3.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/cd/6d/28cd6d0d-ddd3-c301-fb2c-2a1d596d64ac/6faabc21-360e-427f-a4c1-dcfa5e330231_4.png/392x696bb.png",
@@ -39534,11 +39534,11 @@
       },
       "versions": [
         {
-          "version": "4.2.1",
-          "date": "2026-07-17",
+          "version": "4.3",
+          "date": "2026-07-29",
           "localizedDescription": "Tweaks: FilePickerFix, Luminar, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_2_1_Subscription_Unlocked_blatant.ipa",
-          "size": 547586822
+          "downloadURL": "https://telos.ftp.sh/ipas/Luminar_Image_Editor&Enhancer_v4_3_Subscription_Unlocked_blatant.ipa",
+          "size": 552819204
         }
       ],
       "category": "photo-&-video"
@@ -63166,14 +63166,14 @@
       "bundleIdentifier": "com.campmobile.snow",
       "developerName": "SNOW Corporation",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "15.3.0",
+      "version": "15.3.1",
       "versionDate": "2026-07-29",
       "versionDescription": "Tweaks: SNOW, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SNOW_AI_Profile_v15_3_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/SNOW_AI_Profile_v15_3_1_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSNOW - AI Profile",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/a1/2d/8ba12d11-3f3b-d84b-c74d-99545928437a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 151920143,
+      "size": 151940366,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/37/ca/d237cad8-e57f-cefa-8a66-b576cbe65834/haircolor_en__U00282_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/2d/b8/362db83a-6f35-e6fe-c79d-48e68191ffe7/_U110b_U1161_U110b_U1175_U1111_U1169_U11ab_EN.png/392x696bb.png",
@@ -63205,11 +63205,11 @@
       },
       "versions": [
         {
-          "version": "15.3.0",
+          "version": "15.3.1",
           "date": "2026-07-29",
           "localizedDescription": "Tweaks: SNOW, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SNOW_AI_Profile_v15_3_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 151920143
+          "downloadURL": "https://telos.ftp.sh/ipas/SNOW_AI_Profile_v15_3_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 151940366
         }
       ],
       "category": "photo-&-video"
@@ -79898,15 +79898,15 @@
       "name": "X",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X Corp.",
-      "subtitle": "Tweaked with BHTwitter, Cephei",
-      "version": "12.10",
+      "subtitle": "Tweaked with XEnhancer",
+      "version": "12.13",
       "versionDate": "2026-07-29",
-      "versionDescription": "Tweaks: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://telos.ftp.sh/ipas/X_12.10_NFB_6.0.3_TWIGalaxy_[@ipavault].ipa",
+      "versionDescription": "Tweaks: XEnhancer\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/X-12.13_XE-1.0.0.ipa",
       "localizedDescription": "X for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 224420818,
+      "size": 223534712,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/77/660e779a-d449-ebd3-0bd3-78502084f7bf/770e6822-f28e-4e4b-be51-8bfbe36f4307_iPad_12.9_-_1.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/2e/90e62e67-ccd1-8221-8149-49f305b8778d/7e053a3e-190b-4585-9927-509871425aad_iPad_12.9_-_2.png/552x414bb.png",
@@ -79941,11 +79941,11 @@
       },
       "versions": [
         {
-          "version": "12.10",
+          "version": "12.13",
           "date": "2026-07-29",
-          "localizedDescription": "Tweaks: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://telos.ftp.sh/ipas/X_12.10_NFB_6.0.3_TWIGalaxy_[@ipavault].ipa",
-          "size": 224420818
+          "localizedDescription": "Tweaks: XEnhancer\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/X-12.13_XE-1.0.0.ipa",
+          "size": 223534712
         }
       ],
       "category": "news"
@@ -82771,7 +82771,7 @@
     {
       "title": "⚙️ Telos Update 7.29",
       "identifier": "telos-update-2026-07-29",
-      "caption": "397 Apps Updated:\n• 76 Photo & Video\n• 73 Health & Fitness\n• 38 Productivity\n• 27 Education\n• 23 Utilities\n• 21 Music\n• 20 Lifestyle\n• 18 Games\n• 17 Entertainment\n• 10 Sports\n• 9 Reference\n• 9 Weather\n• 9 Navigation\n• 8 Graphics & Design\n• 8 Finance\n• 7 Developer Tools\n• 7 Travel\n• 6 Social Networking\n• 5 News\n• 4 Business\n• 1 Food & Drink\n• 1 Medical",
+      "caption": "400 Apps Updated:\n• 80 Photo & Video\n• 71 Health & Fitness\n• 36 Productivity\n• 25 Education\n• 23 Utilities\n• 20 Lifestyle\n• 19 Music\n• 17 Entertainment\n• 16 Games\n• 16 News\n• 10 Sports\n• 9 Weather\n• 9 Navigation\n• 8 Graphics & Design\n• 8 Finance\n• 7 Developer Tools\n• 7 Reference\n• 7 Travel\n• 6 Social Networking\n• 4 Business\n• 1 Food & Drink\n• 1 Medical",
       "date": "2026-07-29",
       "tintColor": "#02433b",
       "notify": true,
