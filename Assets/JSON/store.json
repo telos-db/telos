@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.lampa.photo",
     "com.iteration-mobile.radarbot-free-ww",
     "com.kairos.duet",
     "com.firecore.infuse",
-    "com.google.ios.youtubemusic",
-    "co.detail.duo"
+    "com.google.ios.youtubemusic"
   ],
   "apps": [
     {
@@ -36411,14 +36411,14 @@
       "bundleIdentifier": "com.lampa.photo",
       "developerName": "Alexey Teplonogov",
       "subtitle": "Patched | Tweaked",
-      "version": "2.1.1",
-      "versionDate": "2026-07-19",
+      "version": "2.1.2",
+      "versionDate": "2026-07-30",
       "versionDescription": "Tweaks: Lampa, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lampa_—_Digital_&_Film_Camera_v2_1_1_Unlimited_Photos_+_Filters.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lampa_—_Digital_&_Film_Camera_v2_1_2_Unlimited_Photos_+_Filters.ipa",
       "localizedDescription": "Patched | Tweaked\n\nLampa — Digital & Film Camera",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/67/93/9c679333-6f4b-58d0-11f7-7ecdd92bc944/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 86563622,
+      "size": 88183139,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/f2/92/98f29201-294d-702a-2d32-418e95534cd9/168dd0e8-bcf5-4293-8038-098a304b57a4_5.5__01n.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/8b/79/098b79a3-73ff-22d9-0e56-78066bec848f/54945edd-ac58-41e7-8975-f0f2799b4ea5_5.5__05n.jpg/392x696bb.jpg",
@@ -36441,11 +36441,11 @@
       },
       "versions": [
         {
-          "version": "2.1.1",
-          "date": "2026-07-19",
+          "version": "2.1.2",
+          "date": "2026-07-30",
           "localizedDescription": "Tweaks: Lampa, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lampa_—_Digital_&_Film_Camera_v2_1_1_Unlimited_Photos_+_Filters.ipa",
-          "size": 86563622
+          "downloadURL": "https://telos.ftp.sh/ipas/Lampa_—_Digital_&_Film_Camera_v2_1_2_Unlimited_Photos_+_Filters.ipa",
+          "size": 88183139
         }
       ],
       "category": "photo-&-video"
@@ -82769,7 +82769,7 @@
     {
       "title": "⚙️ Telos Update 7.30",
       "identifier": "telos-update-2026-07-30",
-      "caption": "40 Apps Updated:\n• 12 Photo & Video\n• 8 Music\n• 6 Productivity\n• 4 Navigation\n• 4 Entertainment\n• 2 Health & Fitness\n• 2 News\n• 2 Utilities",
+      "caption": "34 Apps Updated:\n• 16 Photo & Video\n• 4 Productivity\n• 4 Music\n• 2 Health & Fitness\n• 2 News\n• 2 Utilities\n• 2 Navigation\n• 2 Entertainment",
       "date": "2026-07-30",
       "tintColor": "#02433b",
       "notify": true,
