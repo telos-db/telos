@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.AppChief.ArabicArt",
     "com.google.ios.youtube",
     "co.visualsupply.cam",
     "com.campmobile.snow",
-    "com.skylum.luminaripad",
-    "com.atebits.Tweetie2"
+    "com.skylum.luminaripad"
   ],
   "apps": [
     {
@@ -81537,14 +81537,14 @@
       "bundleIdentifier": "com.AppChief.ArabicArt",
       "developerName": "AppChief Ltd",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "10.0.2",
-      "versionDate": "2026-07-29",
+      "version": "10.0.3",
+      "versionDate": "2026-07-30",
       "versionDescription": "Tweaks: Andalusi, CachefixPatch, CydiaSubstrate, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Andalusi_AI_Design_Photo_Video_v10_0_2_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Andalusi_AI_Design_Photo_Video_v10_0_3_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nAndalusi AI Design Photo Video",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/62/ce/c562ce52-f88d-d0b3-8ea9-9abd89b40e1a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 71459617,
+      "size": 71521371,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/b2/60/0eb26066-aa57-c831-69ea-5ef765f27619/b560e5e4-5aaa-4782-b7b8-1edaa0f9b312_1242x2208_EN_Cover.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/97/24/48972463-18be-9dc4-d95f-93448d820666/b61e0a9a-9920-4bcc-8aaa-8c5b26b78d78_1242x2208_EN_F3.png/392x696bb.png",
@@ -81572,11 +81572,11 @@
       },
       "versions": [
         {
-          "version": "10.0.2",
-          "date": "2026-07-29",
+          "version": "10.0.3",
+          "date": "2026-07-30",
           "localizedDescription": "Tweaks: Andalusi, CachefixPatch, CydiaSubstrate, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Andalusi_AI_Design_Photo_Video_v10_0_2_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 71459617
+          "downloadURL": "https://telos.ftp.sh/ipas/Andalusi_AI_Design_Photo_Video_v10_0_3_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 71521371
         }
       ],
       "category": "photo-&-video"
@@ -82771,7 +82771,7 @@
     {
       "title": "⚙️ Telos Update 7.30",
       "identifier": "telos-update-2026-07-30",
-      "caption": "4 Apps Updated:\n• 4 Photo & Video",
+      "caption": "8 Apps Updated:\n• 8 Photo & Video",
       "date": "2026-07-30",
       "tintColor": "#02433b",
       "notify": true,
