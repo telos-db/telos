@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.vertventures.stella",
     "com.thegenau.NoteCircle",
     "com.tylerhillsman.Stickies",
     "com.tickettothemoon.video.persona",
-    "com.evolve.helm",
-    "eu.sun.litt"
+    "com.evolve.helm"
   ],
   "apps": [
     {
@@ -5244,14 +5244,14 @@
       "bundleIdentifier": "com.vertventures.stella",
       "developerName": "Vert Ventures",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.12.42",
+      "version": "3.12.43",
       "versionDate": "2026-07-31",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.42-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.43-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nAstra - Life Advice\n\n---\nWork through life challenges. Talk about compatibility with friends and romantic interests. Discuss personal growth. Learn about your dreams. All of this and more is at your fingertips with Astra!\n\nIf you have any questions comments or feedback, please email us astracontact111@gmail.com\n\nTerms:\n\nAccess to Astra requires a paid subscription",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/c4/8f/78c48fc1-5326-a437-dc9a-4dd70dc0611f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 79268328,
+      "size": 83108059,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/d5/e2/6bd5e202-c048-b4cb-712b-af6417ff5b55/2fe2b2a5-46d8-4e8f-bc0b-77a923776e42_Frame_832.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/70/54/6a705462-1826-1556-7c33-714f49e9f94a/b86cb528-6044-44eb-9a6a-d61ab51ec09a_Frame_822.jpg/392x696bb.jpg",
@@ -5270,6 +5270,7 @@
           "NSPhotoLibraryUsageDescription": "Astra needs access to your photo library to save and share your readings and insights.",
           "NSCameraUsageDescription": "Allow Astra to access your camera",
           "NSMicrophoneUsageDescription": "Allow Astra to access your microphone",
+          "NSLocationWhenInUseUsageDescription": "Astra uses your location to map the real sky above you. Your reading works without it.",
           "NSMotionUsageDescription": "Allow Astra to access your device motion",
           "NSSpeechRecognitionUsageDescription": "Astra uses speech recognition to transcribe your spoken messages, allowing you to communicate with Astra using your voice.",
           "NSFaceIDUsageDescription": "Allow Astra to access your Face ID biometric data."
@@ -5277,11 +5278,11 @@
       },
       "versions": [
         {
-          "version": "3.12.42",
+          "version": "3.12.43",
           "date": "2026-07-31",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.42-riftysipas.ipa",
-          "size": 79268328
+          "downloadURL": "https://telos.ftp.sh/ipas/Astra - Life Advice-v3.12.43-riftysipas.ipa",
+          "size": 83108059
         }
       ],
       "category": "lifestyle"
