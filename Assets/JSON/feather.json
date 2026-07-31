@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.jkcoxson.LocalDevVPN",
     "com.huckleberry-labs.app",
     "com.napper",
     "com.atebits.Tweetie2",
-    "com.uqxuwtxbbu.parkingjam",
-    "com.pronetis.ironballride2"
+    "com.uqxuwtxbbu.parkingjam"
   ],
   "apps": [
     {
@@ -39364,6 +39364,35 @@
         }
       ],
       "category": "utilities"
+    },
+    {
+      "name": "LocalDevVPN",
+      "bundleIdentifier": "com.jkcoxson.LocalDevVPN",
+      "developerName": "Coxson Engineering LLC",
+      "subtitle": "LocalDevVPN for iOS",
+      "version": "1.1.5",
+      "versionDate": "2026-07-31",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.jkcoxson.LocalDevVPN-1.1.5-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nLocalDevVPN is a developer tool for creating and managing local network tunnels directly on iOS. It gives you a secure, isolated virtual interface for testing and debugging without\n sending traffic to external servers.\n\n Key Features:\n\n - Local network tunneling: spin up a dedicated virtual interface for development and testing\n - Custom network configuration: set device IP, tunnel IP, and subnet mask\n - One-touch connection: quick connect/disconnect with clear status\n - Auto-connect: optionally",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/0e/8d/0f0e8d93-7493-ef0a-50e1-98191ab9432f/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 3107289,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.1.5",
+          "date": "2026-07-31",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.jkcoxson.LocalDevVPN-1.1.5-eeveedecrypter.ipa",
+          "size": 3107289
+        }
+      ],
+      "category": "developer-tools"
     },
     {
       "name": "Locally AI",
