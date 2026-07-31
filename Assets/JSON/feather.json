@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.gymbros.app",
     "com.evolve.podcast",
     "com.locket.Locket",
     "br.com.marcosatanaka.musicwhiz",
-    "net.mattdavenport.daysuntil",
-    "com.napper"
+    "net.mattdavenport.daysuntil"
   ],
   "apps": [
     {
@@ -38081,14 +38081,14 @@
       "bundleIdentifier": "com.gymbros.app",
       "developerName": "GymBros Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, chocorc",
-      "version": "2.14.2",
-      "versionDate": "2026-07-16",
+      "version": "2.15.0",
+      "versionDate": "2026-07-31",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.14.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.15.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nLiftoff - Ranked Gym Workouts\n\n---\nLiftoff is the best workout tracker app that ranks your gym performance. Get feedback on 400+ exercises, track progress, and compete with friends. Download the #1 gym rank app & join over 1 million lifters today!\n\nGamified Workout Tracker | Ranks | Streaks | Accountability | Logger\n\nBoost Your Fitness Journey with Liftoff app\n\nConnect and Compete\nJoin a vibrant community of fitness enthusiasts who make every workout count. Liftoff is a social platform where you can connect, compete, and share yo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/61/f6/b061f65b-200f-549b-bf8b-1f5736f4f991/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 152953792,
+      "size": 143892954,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/14/3f/79143f4e-99e1-80c9-9a3f-cd2c7a6bd39c/68ebee91-ba86-4f6c-a564-a276c908ac0f_img1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/a9/6e/a3a96e46-3eb0-27a1-d78b-ddaa2fda43b3/ff0986a5-c1b8-4b14-8d14-70377d1d970a_img2.jpg/576x768bb.jpg",
@@ -38118,11 +38118,11 @@
       },
       "versions": [
         {
-          "version": "2.14.2",
-          "date": "2026-07-16",
+          "version": "2.15.0",
+          "date": "2026-07-31",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.14.2-riftysipas.ipa",
-          "size": 152953792
+          "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.15.0-riftysipas.ipa",
+          "size": 143892954
         }
       ],
       "category": "health-&-fitness"
