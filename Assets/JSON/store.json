@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.evolve.podcast",
+    "com.locket.Locket",
     "br.com.marcosatanaka.musicwhiz",
     "net.mattdavenport.daysuntil",
-    "com.napper",
-    "com.vertventures.stella",
-    "com.thegenau.NoteCircle"
+    "com.napper"
   ],
   "apps": [
     {
@@ -38981,14 +38981,14 @@
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "Locket Labs, Inc.",
       "subtitle": "Patched | Tweaked",
-      "version": "2.57.0",
-      "versionDate": "2026-07-29",
+      "version": "2.58.0",
+      "versionDate": "2026-07-31",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.57.0 Locket Gold blatant Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.58.0 Locket Gold blatant Patched.ipa",
       "localizedDescription": "Patched | Tweaked\n\nLocket Widget",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/2c/cb/772ccbb2-90e9-7902-3cfc-6792acbe4935/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 341042063,
+      "size": 264297291,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -39016,11 +39016,11 @@
       },
       "versions": [
         {
-          "version": "2.57.0",
-          "date": "2026-07-29",
+          "version": "2.58.0",
+          "date": "2026-07-31",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.57.0 Locket Gold blatant Patched.ipa",
-          "size": 341042063
+          "downloadURL": "https://telos.ftp.sh/ipas/Locket Widget v2.58.0 Locket Gold blatant Patched.ipa",
+          "size": 264297291
         }
       ],
       "category": "social-networking"
@@ -53749,14 +53749,14 @@
       "bundleIdentifier": "com.evolve.podcast",
       "developerName": "Evolve Global, Inc.",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "7.11.0",
-      "versionDate": "2026-07-13",
+      "version": "7.13.0",
+      "versionDate": "2026-07-31",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.11.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.13.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nPodcast App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/8a/e7/588ae7cf-ee36-29b9-e94e-8e7c9740fde4/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 52610450,
+      "size": 52611617,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/d3/03/b3d30346-9743-a201-b3cc-a20c1ef3ae19/dab702f7-c5a1-41ec-8f24-22240e56c809_EN_-_5.5_-_Screenshot_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/7a/a4/c47aa4ac-6667-d771-d1fe-76dd5369744f/6404e4fd-5396-4389-b62f-292adf70d49a_EN_-_5.5_-_Screenshot_02.png/392x696bb.png",
@@ -53773,23 +53773,19 @@
           "com.apple.security.application-groups"
         ],
         "privacy": {
-          "NSPhotoLibraryUsageDescription": "Advertisement would like to store a photo.",
-          "NSLocationWhenInUseUsageDescription": "This app requires access to your location.",
-          "NSLocationAlwaysUsageDescription": "This app requires access to your location.",
-          "NSCalendarsUsageDescription": "Advertisement would like to create a calendar event.",
-          "NSAppleMusicUsageDescription": "This will allow us to personalize your experience",
+          "NSPhotoLibraryUsageDescription": "Lets you attach photos from your library when sending us a message.",
+          "NSAppleMusicUsageDescription": "We access your Apple Podcasts library to find shows you already listen to and import them into your favorites.",
           "NSSiriUsageDescription": "This app uses Siri so that you can control it through your voice.",
-          "NSBluetoothPeripheralUsageDescription": "Advertisement would like to use bluetooth.",
           "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
         }
       },
       "versions": [
         {
-          "version": "7.11.0",
-          "date": "2026-07-13",
+          "version": "7.13.0",
+          "date": "2026-07-31",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.11.0-riftysipas.ipa",
-          "size": 52610450
+          "downloadURL": "https://telos.ftp.sh/ipas/Podcast App-v7.13.0-riftysipas.ipa",
+          "size": 52611617
         }
       ],
       "category": "news"
@@ -82839,7 +82835,7 @@
     {
       "title": "⚙️ Telos Update 7.31",
       "identifier": "telos-update-2026-07-31",
-      "caption": "73 Apps Updated:\n• 18 Health & Fitness\n• 8 Games\n• 8 Lifestyle\n• 6 Education\n• 6 Utilities\n• 5 Photo & Video\n• 4 Productivity\n• 4 Music\n• 2 Finance\n• 2 News\n• 2 Medical\n• 2 Developer Tools\n• 2 Food & Drink\n• 2 Weather\n• 1 Sports\n• 1 Travel",
+      "caption": "77 Apps Updated:\n• 18 Health & Fitness\n• 8 Games\n• 6 Education\n• 6 Lifestyle\n• 6 News\n• 6 Utilities\n• 5 Photo & Video\n• 4 Productivity\n• 4 Social Networking\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools\n• 2 Food & Drink\n• 2 Weather\n• 2 Music\n• 1 Sports\n• 1 Travel",
       "date": "2026-07-31",
       "tintColor": "#02433b",
       "notify": true,
