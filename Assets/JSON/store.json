@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.robnorback.LiveTranscribe",
+    "com.evolve.helm",
     "com.AJNSNewMedia.KitchenStories",
     "com.khanov.BlockerX",
-    "com.snowcorp.epik",
-    "com.ADPTVLTD.push",
-    "com.starplay.spider.fighter.openworld"
+    "com.snowcorp.epik"
   ],
   "apps": [
     {
@@ -38518,14 +38518,14 @@
       "bundleIdentifier": "com.robnorback.LiveTranscribe",
       "developerName": "Mighty Fine Apps LLC",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "2.65",
-      "versionDate": "2026-07-03",
+      "version": "2.69",
+      "versionDate": "2026-07-31",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.65-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.69-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nLive Transcribe",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/7e/ae/1e7eaeee-70f4-cc0a-61d4-fc0615410d1e/AppIconProduction-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/bf/79/42bf79b7-0c13-f334-50f8-80c169e5b1a0/AppIconProduction-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 52287717,
+      "size": 52324205,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/52/87/33528769-24aa-edc0-1501-8fce8721fb5e/fa04c1ee-2a3a-47a7-8efe-5d3ed1ecd22e_Frame_56.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/20/00/3e20003b-6ee8-d721-c524-2d3fcd6bdc01/f1e95d0e-fa96-41bd-8f26-4116ff2069e2_Frame_63.jpg/392x696bb.jpg",
@@ -38548,11 +38548,11 @@
       },
       "versions": [
         {
-          "version": "2.65",
-          "date": "2026-07-03",
+          "version": "2.69",
+          "date": "2026-07-31",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.65-riftysipas.ipa",
-          "size": 52287717
+          "downloadURL": "https://telos.ftp.sh/ipas/Live Transcribe-v2.69-riftysipas.ipa",
+          "size": 52324205
         }
       ],
       "category": "utilities"
@@ -57796,14 +57796,14 @@
       "bundleIdentifier": "com.evolve.helm",
       "developerName": "Evolve Global, Inc.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "3.196.0",
-      "versionDate": "2026-07-29",
+      "version": "3.197.0",
+      "versionDate": "2026-07-31",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Rest_Fix_Your_Sleep_For_Good_v3_196_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Rest_Fix_Your_Sleep_For_Good_v3_197_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nRest: Fix Your Sleep For Good",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/35/1b/a9351b4a-19ae-008d-11ed-af0b0a950fbf/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 132310592,
+      "size": 132145248,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c6/dd/74c6dd2c-8270-353b-e06c-51365da28c06/5.5_-_Slide_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/77/d9/8177d9cf-9598-cc3c-b752-2d2b19bd1041/5.5_-_Slide_2.png/392x696bb.png",
@@ -57835,11 +57835,11 @@
       },
       "versions": [
         {
-          "version": "3.196.0",
-          "date": "2026-07-29",
+          "version": "3.197.0",
+          "date": "2026-07-31",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Rest_Fix_Your_Sleep_For_Good_v3_196_0_Subscription_Unlocked_blatant.ipa",
-          "size": 132310592
+          "downloadURL": "https://telos.ftp.sh/ipas/Rest_Fix_Your_Sleep_For_Good_v3_197_0_Subscription_Unlocked_blatant.ipa",
+          "size": 132145248
         }
       ],
       "category": "health-&-fitness"
@@ -82832,7 +82832,7 @@
     {
       "title": "⚙️ Telos Update 7.31",
       "identifier": "telos-update-2026-07-31",
-      "caption": "57 Apps Updated:\n• 14 Health & Fitness\n• 10 Games\n• 6 Education\n• 5 Photo & Video\n• 4 Food & Drink\n• 4 Utilities\n• 2 Finance\n• 2 Lifestyle\n• 2 News\n• 2 Productivity\n• 2 Medical\n• 2 Developer Tools\n• 1 Sports\n• 1 Travel",
+      "caption": "55 Apps Updated:\n• 16 Health & Fitness\n• 8 Games\n• 6 Education\n• 6 Utilities\n• 3 Photo & Video\n• 2 Finance\n• 2 Lifestyle\n• 2 News\n• 2 Productivity\n• 2 Medical\n• 2 Developer Tools\n• 2 Food & Drink\n• 1 Sports\n• 1 Travel",
       "date": "2026-07-31",
       "tintColor": "#02433b",
       "notify": true,
