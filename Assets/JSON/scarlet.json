@@ -19557,12 +19557,12 @@
       "bundleIdentifier": "com.huckleberry-labs.app",
       "developerName": "Huckleberry Labs Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nHuckleberry: Baby & Child\n\n---\nHuckleberry is your all-in-one parenting partner, proudly trusted by 5+ million families worldwide.\n\nFrom baby tracker to personalized guidance, our award-winning app helps you navigate sleep, feeding, milestones, and everything in between. Backed by a team of pediatric experts and powered by smart tools, Huckleberry supports each family’s unique journey. We turn restless nights into restful routines, making more space for everyday magic.\n\nTRUSTED SLEEP GUIDANCE & TRACKING\n\nYour baby's sleep and",
-      "version": "0.9.301",
-      "versionDate": "2026-07-17T18:32:53-00:00",
-      "versionDescription": "Build 0.0.2 from @riftysIPAlibrary",
-      "size": 68659940,
+      "version": "0.9.302",
+      "versionDate": "2026-07-31T02:32:16-00:00",
+      "versionDescription": "Build 0.0.3 from @riftysIPAlibrary",
+      "size": 67088407,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/07/fd/a407fd18-3a79-c961-af10-87e93788d6d9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Huckleberry: Baby & Child-v0.9.301-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Huckleberry: Baby & Child-v0.9.302-riftysipas.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -19575,7 +19575,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Huckleberry: Baby & Child-v0.9.301-riftysipas.ipa"
+        "originalFile": "Huckleberry: Baby & Child-v0.9.302-riftysipas.ipa"
       }
     },
     {
@@ -28441,12 +28441,12 @@
       "bundleIdentifier": "com.napper",
       "developerName": "Napper AB",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nNapper: Baby Sleep Tracker\n\n---\nNapper is the game-changing, award-winning app that uses data, science, and a little bit of algorithmic magic to predict your baby’s naps and bedtime - with almost uncanny accuracy.\n\nOriginally built by a dad on parental leave (still with us btw!) for him and his not-so-sleepy baby girl, Napper has now grown to help more than 100,000 families sleep better. So whatever issue you might be facing - short naps, frequent night-wakings, never-ending bedtime routines - there’s a good chance we can help",
-      "version": "6.61.0",
-      "versionDate": "2026-07-14T09:04:47-00:00",
-      "versionDescription": "Build 260713.065746 from @riftysIPAlibrary",
-      "size": 50787246,
+      "version": "6.63.0",
+      "versionDate": "2026-07-31T02:29:28-00:00",
+      "versionDescription": "Build 260729.155646 from @riftysIPAlibrary",
+      "size": 52053206,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/3b/4d/5e3b4dc0-d453-c541-eace-646959534a48/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Napper: Baby Sleep Tracker-v6.61.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Napper: Baby Sleep Tracker-v6.63.0-riftysipas.ipa",
       "minOSVersion": "16.4",
       "supportedPlatforms": [
         "iOS"
@@ -28458,7 +28458,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Napper: Baby Sleep Tracker-v6.61.0-riftysipas.ipa"
+        "originalFile": "Napper: Baby Sleep Tracker-v6.63.0-riftysipas.ipa"
       }
     },
     {
@@ -46795,32 +46795,6 @@
       }
     },
     {
-      "name": "Twitter [BHTwitter]",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "X Corp.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nClassic BHTwitter+ 11.89\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
-      "version": "12.13",
-      "versionDate": "2026-07-29T23:40:46-00:00",
-      "versionDescription": "Build 10 from @thescholarslounge",
-      "size": 224190699,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Classic_BHTwitter_12.13_Jacks_Apps.ipa",
-      "minOSVersion": "15.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@thescholarslounge",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Classic_BHTwitter_12.13_Jacks_Apps.ipa"
-      }
-    },
-    {
       "name": "TypeAI",
       "bundleIdentifier": "com.codeway.AIKeyboard",
       "developerName": "DEEP FLOW SOFTWARE SERVICES",
@@ -50510,6 +50484,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "X-12.13_XE-1.0.0.ipa"
+      }
+    },
+    {
+      "name": "X [BHTwitter]",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "X Corp.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BHTwitterNFB, CydiaSubstrate, bhFLEX, substrate, zxPluginsInject\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "version": "12.10",
+      "versionDate": "2026-07-31T02:27:23-00:00",
+      "versionDescription": "Build 12 from @thescholarslounge",
+      "size": 210501104,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/X12.10Moe-NFBRevivedLiquidGlassAndrewMoeV6.3.2 (2)Patched.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "X12.10Moe-NFBRevivedLiquidGlassAndrewMoeV6.3.2 (2)Patched.ipa"
       }
     },
     {
