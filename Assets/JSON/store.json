@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.jkcoxson.LocalDevVPN",
     "com.huckleberry-labs.app",
     "com.napper",
     "com.atebits.Tweetie2",
-    "com.uqxuwtxbbu.parkingjam",
-    "com.pronetis.ironballride2"
+    "com.uqxuwtxbbu.parkingjam"
   ],
   "apps": [
     {
@@ -38873,6 +38873,35 @@
         }
       ],
       "category": "utilities"
+    },
+    {
+      "name": "LocalDevVPN",
+      "bundleIdentifier": "com.jkcoxson.LocalDevVPN",
+      "developerName": "Coxson Engineering LLC",
+      "subtitle": "LocalDevVPN for iOS",
+      "version": "1.1.5",
+      "versionDate": "2026-07-31",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.jkcoxson.LocalDevVPN-1.1.5-eeveedecrypter.ipa",
+      "localizedDescription": "LocalDevVPN for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/0e/8d/0f0e8d93-7493-ef0a-50e1-98191ab9432f/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 3107289,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.1.5",
+          "date": "2025-12-18",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/com.jkcoxson.LocalDevVPN-1.1.5-eeveedecrypter.ipa",
+          "size": 3107289
+        }
+      ],
+      "category": "developer-tools"
     },
     {
       "name": "Locally AI",
@@ -82770,7 +82799,7 @@
     {
       "title": "⚙️ Telos Update 7.31",
       "identifier": "telos-update-2026-07-31",
-      "caption": "33 Apps Updated:\n• 8 Health & Fitness\n• 6 Education\n• 4 Games\n• 4 News\n• 4 Medical\n• 2 Finance\n• 2 Lifestyle\n• 1 Sports\n• 1 Photo & Video\n• 1 Travel",
+      "caption": "31 Apps Updated:\n• 6 Health & Fitness\n• 6 Education\n• 4 Games\n• 4 Developer Tools\n• 2 Finance\n• 2 Lifestyle\n• 2 News\n• 2 Medical\n• 1 Sports\n• 1 Photo & Video\n• 1 Travel",
       "date": "2026-07-31",
       "tintColor": "#02433b",
       "notify": true,
