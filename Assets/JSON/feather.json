@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.lensdistortions.Lens-Distortions",
+    "bethere.ai.com",
     "com.gymbros.app",
     "com.evolve.podcast",
-    "com.locket.Locket",
-    "br.com.marcosatanaka.musicwhiz",
-    "net.mattdavenport.daysuntil"
+    "com.locket.Locket"
   ],
   "apps": [
     {
@@ -37266,14 +37266,14 @@
       "bundleIdentifier": "com.lensdistortions.Lens-Distortions",
       "developerName": "Lens Distortions, LLC",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "6.10.0",
-      "versionDate": "2026-03-07",
+      "version": "6.10.1",
+      "versionDate": "2026-07-31",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, lensdistortions, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/LD.-.Photo.Video.Finishing-v6.10.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/LD - Photo & Video Finishing-v6.10.1-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, lensdistortions, zxPluginsInject\n\nLD - Photo & Video Finishing\n\n---\nA layer-based editor for creating cinematic content.\n\nAdd cinematic color grades and typography to your photos and videos. Harness the power of beautiful light, natural elements, and elegant overlays to create truly vivid images. Fine-tune the details of every element… our layer-based approach to editing unlocks a whole new world of possibilities.\n\nKEY FEATURES\n• Color Layers - add multiple layers of color, each with their own powerful adjustments\n\n• Typography Presets - add text to achieve a cl",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/d4/30/a0d43099-c547-f8ca-3557-6a556591354c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/7e/8c/ef7e8ce0-c85a-db7a-73ec-b69e6932184f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 119021645,
+      "size": 118909581,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/86/45/eb/8645eb1f-5eee-2657-d58a-43dbab0f3a23/5d1b8f9c-3b03-496d-9950-35b7d56e1cdd_Screenshot_1_5-5.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/09/86/55/0986556e-7d1e-48a5-e20a-b3101b23d443/54712055-f483-4666-ab5e-23b77593b906_Screenshot_2_5-5.jpg/392x696bb.jpg",
@@ -37282,7 +37282,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/53/3d/20/533d20ef-6141-b436-966d-4992c9fe486d/235e0377-5f77-474b-bffd-b7d5e2dd7525_Screenshot_5_5-5.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Used to import photos for editing and export to your photo library.",
           "NSCameraUsageDescription": "Used by the support request attachment chooser.",
@@ -37291,11 +37296,11 @@
       },
       "versions": [
         {
-          "version": "6.10.0",
-          "date": "2026-03-07",
+          "version": "6.10.1",
+          "date": "2026-07-31",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, lensdistortions, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/LD.-.Photo.Video.Finishing-v6.10.0-riftysipas.ipa",
-          "size": 119021645
+          "downloadURL": "https://telos.ftp.sh/ipas/LD - Photo & Video Finishing-v6.10.1-riftysipas.ipa",
+          "size": 118909581
         }
       ],
       "category": "photo-&-video"
@@ -53422,6 +53427,39 @@
         }
       ],
       "category": "photo-&-video"
+    },
+    {
+      "name": "PixMove",
+      "bundleIdentifier": "bethere.ai.com",
+      "developerName": "100 YEARS LATER TECHNOLOGY CO., LTD",
+      "subtitle": "PixMove for iOS",
+      "version": "2.8",
+      "versionDate": "2026-07-31",
+      "versionDescription": "Source: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/bethere.ai.com-2.8-eeveedecrypter.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nPixMove is a cutting-edge AI video generation app that unlocks boundless creative possibilities for video creation. It features core functions like text-to-video and image-to-video, turning your creative prompts or static images into dynamic, high-quality videos in seconds. The app also offers a rich library of AI-powered video effects, adding cinematic flair and vivid motion to your works with simple operations. With an intuitive interface, PixMove requires no professional editing skills—ideal",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/78/3a/a2783a4b-d322-63e6-5eb1-8920daeea5af/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 72468738,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Allow permissions to upload images to generate and save images to the Photos.",
+          "NSCameraUsageDescription": "Allow access to your camera to take and process photos.",
+          "NSLocationWhenInUseUsageDescription": "This app needs to access your location information while you're using it to provide relevant location services and features. We promise to only obtain your location information when you're using the app and to use it solely for providing services and features."
+        }
+      },
+      "versions": [
+        {
+          "version": "2.8",
+          "date": "2026-07-31",
+          "localizedDescription": "Source: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/bethere.ai.com-2.8-eeveedecrypter.ipa",
+          "size": 72468738
+        }
+      ],
+      "category": "graphics-&-design"
     },
     {
       "name": "Pixomatic",
