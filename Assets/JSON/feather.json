@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "br.com.marcosatanaka.musicwhiz",
+    "net.mattdavenport.daysuntil",
     "com.napper",
     "com.vertventures.stella",
-    "com.thegenau.NoteCircle",
-    "com.tylerhillsman.Stickies",
-    "com.tickettothemoon.video.persona"
+    "com.thegenau.NoteCircle"
   ],
   "apps": [
     {
@@ -16400,14 +16400,14 @@
       "bundleIdentifier": "net.mattdavenport.daysuntil",
       "developerName": "MD Apps LTD",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "3.30",
-      "versionDate": "2026-03-10",
+      "version": "3.36",
+      "versionDate": "2026-07-31",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Days.Event.Countdown-v3.30-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPremium Unlocked\n\n---\nCountdown to the special moments that matter to you.\n\nIt’s the small things in life that matter most. Birthdays, anniversaries, weddings and moments shared with the closest people in your life. Days helps you countdown and remember those special moments.\n\nCountdown to your events (and count up!)\nAll of your events are remembered forever, whether you want a countdown to a vacation or you're looking back on your wedding anniversary.\n\nCountdown Calendar\nSee all of your life events on one screen, ea",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/f1/2b/46f12b68-546e-188c-96cf-712376ab223e/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Days • Event Countdown-v3.36-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nDays • Event Countdown\n\n---\nCountdown to the special moments that matter to you.\n\nIt’s the small things in life that matter most. Birthdays, anniversaries, weddings and moments shared with the closest people in your life. Days helps you countdown and remember those special moments.\n\nCountdown to your events (and count up!)\nAll of your events are remembered forever, whether you want a countdown to a vacation or you're looking back on your wedding anniversary.\n\nCountdown Calendar\nSee all of your life events on one screen, ea",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/d1/a1/21d1a1f8-fb74-fd0c-039c-ab7a6cdb4c26/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 97172806,
+      "size": 96928204,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/5a/08/055a089e-2441-d0b4-e43f-0cb54b63c2d6/4ac62329-11ee-4c99-8749-502547054c2f_5.5_Screen_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/32/64/4b32640e-1316-da57-6d20-e63d3116b515/1f8b3222-b9b9-4cd1-8a33-7a92594928bd_5.5_Screen_2.png/392x696bb.png",
@@ -16417,6 +16417,7 @@
       ],
       "appPermissions": {
         "entitlements": [
+          "com.apple.developer.associated-appclip-app-identifiers",
           "aps-environment",
           "com.apple.developer.icloud-container-environment",
           "com.apple.developer.associated-domains",
@@ -16435,11 +16436,11 @@
       },
       "versions": [
         {
-          "version": "3.30",
-          "date": "2026-03-10",
+          "version": "3.36",
+          "date": "2026-07-31",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Days.Event.Countdown-v3.30-riftysipas.ipa",
-          "size": 97172806
+          "downloadURL": "https://telos.ftp.sh/ipas/Days • Event Countdown-v3.36-riftysipas.ipa",
+          "size": 96928204
         }
       ],
       "category": "lifestyle"
@@ -44711,20 +44712,20 @@
       "bundleIdentifier": "br.com.marcosatanaka.musicwhiz",
       "developerName": "Loop Apps LTDA",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.3.3",
-      "versionDate": "2026-07-09",
+      "version": "2.3.4",
+      "versionDate": "2026-07-31",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/MusicSmart - Liner Notes-v2.3.3-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/MusicSmart - Liner Notes-v2.3.4-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMusicSmart - Liner Notes\n\n---\nEver wonder who wrote that song? MusicSmart reveals every credit instantly. It’s like IMDb for music. Critically acclaimed by MacStories, 9to5Mac, MacMagazine, and more.\n\nMusicSmart aggregates music knowledge from various sources into a powerful and easy-to-use app. With features such as Smart Sections and Roles/Instruments Insights, you can gain a deeper understanding of the music creation process and the responsibilities of each role.\n\nNavigate the catalog from within the main app or share mus",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/99/07/799907e1-785c-f5cd-e37f-0dde94480911/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/39/f6/ce39f60a-8590-f63a-7770-e3a5f8ea6b56/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 25815274,
+      "size": 23285806,
       "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/17/bd/d317bdf0-831a-7332-60d2-202a6ebbaada/edad6f69-1716-416b-b02d-4fa66594a9f5_slice1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/7b/cb/2d7bcb0a-50a5-3564-782e-a9752c063ede/6ec8c920-8646-4108-ad8e-570a7e046854_slice2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/92/d8/3592d8f3-4186-79a2-03a9-8d7c9f7c8bd6/cb73b463-07a5-4995-a0a6-19560d3495f4_slice3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/65/ee/d365eebb-0dec-4ce9-1be9-c7d7fc3dc40f/19841343-4bb9-4e56-8f6f-4a91bdb87df9_slice4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/7c/61/ac7c61c3-2c17-2f4a-16c1-54d631b2bf0e/5c008d64-0ff9-411d-9443-bba624beec1e_slice5.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/96/19/8e961984-c3bb-d45d-a22b-5b842f20ff3b/edad6f69-1716-416b-b02d-4fa66594a9f5_slice1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/66/9a/c4669a13-78f8-832a-82fe-83cadc0fd9bb/6ec8c920-8646-4108-ad8e-570a7e046854_slice2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/97/0b/58970b14-5342-ca9c-3af4-79f4a410f8fa/cb73b463-07a5-4995-a0a6-19560d3495f4_slice3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/0f/0f/930f0f78-2444-f544-1da6-de1b4e5f716b/19841343-4bb9-4e56-8f6f-4a91bdb87df9_slice4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/03/ee/bf03eeba-9c1b-5cd8-5ede-c584a75e5ced/5c008d64-0ff9-411d-9443-bba624beec1e_slice5.png/392x696bb.png"
       ],
       "appPermissions": {
         "entitlements": [
@@ -44737,11 +44738,11 @@
       },
       "versions": [
         {
-          "version": "2.3.3",
-          "date": "2026-07-09",
+          "version": "2.3.4",
+          "date": "2026-07-31",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/MusicSmart - Liner Notes-v2.3.3-riftysipas.ipa",
-          "size": 25815274
+          "downloadURL": "https://telos.ftp.sh/ipas/MusicSmart - Liner Notes-v2.3.4-riftysipas.ipa",
+          "size": 23285806
         }
       ],
       "category": "music"
