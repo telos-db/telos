@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.gymbros.app",
     "com.evolve.podcast",
     "com.locket.Locket",
     "br.com.marcosatanaka.musicwhiz",
-    "net.mattdavenport.daysuntil",
-    "com.napper"
+    "net.mattdavenport.daysuntil"
   ],
   "apps": [
     {
@@ -37588,14 +37588,14 @@
       "bundleIdentifier": "com.gymbros.app",
       "developerName": "GymBros Inc.",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "2.14.2",
-      "versionDate": "2026-07-16",
+      "version": "2.15.0",
+      "versionDate": "2026-07-31",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.14.2-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.15.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nLiftoff - Ranked Gym Workouts",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/61/f6/b061f65b-200f-549b-bf8b-1f5736f4f991/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 152953792,
+      "size": 143892954,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/14/3f/79143f4e-99e1-80c9-9a3f-cd2c7a6bd39c/68ebee91-ba86-4f6c-a564-a276c908ac0f_img1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/a9/6e/a3a96e46-3eb0-27a1-d78b-ddaa2fda43b3/ff0986a5-c1b8-4b14-8d14-70377d1d970a_img2.jpg/576x768bb.jpg",
@@ -37625,11 +37625,11 @@
       },
       "versions": [
         {
-          "version": "2.14.2",
-          "date": "2026-07-16",
+          "version": "2.15.0",
+          "date": "2026-07-31",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.14.2-riftysipas.ipa",
-          "size": 152953792
+          "downloadURL": "https://telos.ftp.sh/ipas/Liftoff - Ranked Gym Workouts-v2.15.0-riftysipas.ipa",
+          "size": 143892954
         }
       ],
       "category": "health-&-fitness"
@@ -82835,7 +82835,7 @@
     {
       "title": "⚙️ Telos Update 7.31",
       "identifier": "telos-update-2026-07-31",
-      "caption": "77 Apps Updated:\n• 18 Health & Fitness\n• 8 Games\n• 6 Education\n• 6 Lifestyle\n• 6 News\n• 6 Utilities\n• 5 Photo & Video\n• 4 Productivity\n• 4 Social Networking\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools\n• 2 Food & Drink\n• 2 Weather\n• 2 Music\n• 1 Sports\n• 1 Travel",
+      "caption": "77 Apps Updated:\n• 22 Health & Fitness\n• 8 Games\n• 6 Education\n• 6 Lifestyle\n• 6 Utilities\n• 5 Photo & Video\n• 4 News\n• 4 Productivity\n• 2 Finance\n• 2 Medical\n• 2 Developer Tools\n• 2 Food & Drink\n• 2 Weather\n• 2 Music\n• 2 Social Networking\n• 1 Sports\n• 1 Travel",
       "date": "2026-07-31",
       "tintColor": "#02433b",
       "notify": true,
