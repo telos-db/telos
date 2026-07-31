@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.robnorback.LiveTranscribe",
+    "com.thegenau.NoteCircle",
+    "com.tylerhillsman.Stickies",
+    "com.tickettothemoon.video.persona",
     "com.evolve.helm",
-    "com.AJNSNewMedia.KitchenStories",
-    "com.khanov.BlockerX",
-    "com.snowcorp.epik"
+    "eu.sun.litt"
   ],
   "apps": [
     {
@@ -47069,14 +47069,14 @@
       "bundleIdentifier": "com.thegenau.NoteCircle",
       "developerName": "Genau Factory",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.76",
-      "versionDate": "2026-07-29",
+      "version": "4.77",
+      "versionDate": "2026-07-31",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/NoteCircle: To Do, Checklist-v4.76-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/NoteCircle: To Do, Checklist-v4.77-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nNoteCircle: To Do, Checklist\n\n---\nYou organize your tasks. Then everything falls apart. NoteCircle is built for when nothing sticks—and trusted by over 1 million users worldwide, with App Store features across the US, Europe, and Asia.\n\nWhy most to-do apps don’t stick\nYou start motivated, but after a few days everything falls apart again. Tasks get buried, routines break, and important things slip through the cracks. NoteCircle solves this by giving you structure without clutter.\n\nOne clear system for your day and week\nNoteCircl",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/ef/be/34efbeb6-8fef-0053-cba0-4e20f2abeac4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 16046545,
+      "size": 15991690,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/09/dc/e909dc2c-19c7-5b66-831f-b8f8826186ed/29264c3a-fedc-41ea-b7c1-768c18e08e52_NC-ipad-1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/a1/4e/afa14e91-bf92-69bc-4425-bdb02d17581d/39476541-e32d-4c58-8b33-6a12320f360f_NC-ipad-2.png/576x768bb.png",
@@ -47089,6 +47089,7 @@
           "com.apple.developer.siri",
           "com.apple.developer.applesignin",
           "aps-environment",
+          "com.apple.developer.devicecheck.appattest-environment",
           "com.apple.developer.associated-domains",
           "com.apple.security.application-groups"
         ],
@@ -47102,11 +47103,11 @@
       },
       "versions": [
         {
-          "version": "4.76",
-          "date": "2026-07-29",
+          "version": "4.77",
+          "date": "2026-07-31",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/NoteCircle: To Do, Checklist-v4.76-riftysipas.ipa",
-          "size": 16046545
+          "downloadURL": "https://telos.ftp.sh/ipas/NoteCircle: To Do, Checklist-v4.77-riftysipas.ipa",
+          "size": 15991690
         }
       ],
       "category": "productivity"
@@ -51153,14 +51154,14 @@
       "bundleIdentifier": "com.tickettothemoon.video.persona",
       "developerName": "Ticket To The Moon, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "1.16.0",
-      "versionDate": "2026-07-15",
+      "version": "1.16.2",
+      "versionDate": "2026-07-31",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.16.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.16.2-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPersona: Beauty Camera\n\n---\nMaster your look with Persona - a professional beauty camera and editor crafted for perfection. Smart AI and powerful tools deliver flawless photos and videos effortlessly, live or in edits.\n\nMAIN FEATURES:\n\n • Face Beauty Filters: Choose from dozens of filters to smooth skin, add a bright glow, or perfect your look naturally - instant with one click, for photos and videos.\n • Hair Upgrades: Boost volume or switch to new hairstyles fast, works on any shot.\n • Body Tuning: Shape your figure a bit",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/e7/e9/7fe7e912-061d-6b77-48f2-931d0b4dcda8/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 197121726,
+      "size": 198752580,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/e8/3f/86e83fd9-a8a2-d374-093c-5cf9db87038f/1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/96/ea/5896ea61-9d97-835e-e869-654385f1af2e/5.jpg/392x696bb.jpg",
@@ -51184,11 +51185,11 @@
       },
       "versions": [
         {
-          "version": "1.16.0",
-          "date": "2026-07-15",
+          "version": "1.16.2",
+          "date": "2026-07-31",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.16.0-riftysipas.ipa",
-          "size": 197121726
+          "downloadURL": "https://telos.ftp.sh/ipas/Persona: Beauty Camera-v1.16.2-riftysipas.ipa",
+          "size": 198752580
         }
       ],
       "category": "photo-&-video"
@@ -58267,15 +58268,15 @@
       "name": "Rest",
       "bundleIdentifier": "com.evolve.helm",
       "developerName": "Evolve Global, Inc.",
-      "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
       "version": "3.197.0",
       "versionDate": "2026-07-31",
-      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Rest_Fix_Your_Sleep_For_Good_v3_197_0_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nRest: Fix Your Sleep For Good\n\n---\nSleeping well is really hard. Maybe it’s time to get help.\nFiguring out how to improve your sleep on your own can take months of frustrating trial and error, spending countless hours on Google trying to discern good advice from bad.\n\nWorking with a sleep expert may get you results faster, but top experts can be expensive or have lengthy waiting lists, and you need results now.\n\nIdeally, you could take the expertise of a professional and apply it to your sleep tonight. While having 24/7 availabil",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/Rest: Fix Your Sleep For Good-v3.197.0-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nRest: Fix Your Sleep For Good\n\n---\nSleeping well is really hard. Maybe it’s time to get help.\nFiguring out how to improve your sleep on your own can take months of frustrating trial and error, spending countless hours on Google trying to discern good advice from bad.\n\nWorking with a sleep expert may get you results faster, but top experts can be expensive or have lengthy waiting lists, and you need results now.\n\nIdeally, you could take the expertise of a professional and apply it to your sleep tonight. While having 24/7 availabil",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/35/1b/a9351b4a-19ae-008d-11ed-af0b0a950fbf/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 132145248,
+      "size": 128434212,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c6/dd/74c6dd2c-8270-353b-e06c-51365da28c06/5.5_-_Slide_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/77/d9/8177d9cf-9598-cc3c-b752-2d2b19bd1041/5.5_-_Slide_2.png/392x696bb.png",
@@ -58309,9 +58310,9 @@
         {
           "version": "3.197.0",
           "date": "2026-07-31",
-          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Rest_Fix_Your_Sleep_For_Good_v3_197_0_Subscription_Unlocked_blatant.ipa",
-          "size": 132145248
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/Rest: Fix Your Sleep For Good-v3.197.0-riftysipas.ipa",
+          "size": 128434212
         }
       ],
       "category": "health-&-fitness"
@@ -66952,14 +66953,14 @@
       "bundleIdentifier": "com.tylerhillsman.Stickies",
       "developerName": "1881 Digital, LLC",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.5.2",
-      "versionDate": "2026-03-10",
+      "version": "5.1.0",
+      "versionDate": "2026-07-31",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sticky.Widgets-v4.5.2-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSubscription Unlocked\n\n---\n\"It's perfect, honestly.\" - Myke Hurley, Connected\n\n\"What makes Sticky Widgets great is the simplicity of the experience.\" - Ryan Christoffel, MacStories\n\n\"This is a great concept.\" - Dave Mark, The Loop\n\nWelcome to Sticky Widgets, the absolute easiest way to put a sticky note on your home screen and edit it quickly. Add as many Sticky Widgets as you'd like, in every widget size. It's simple! It works on iPad! You can even pin notes to your Lock Screen with a premium subscription so they're visi",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/b8/78/1eb878a7-0955-eb1a-f55a-09b630362b71/sw-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sticky Widgets-v5.1.0-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSticky Widgets\n\n---\n\"It's perfect, honestly.\" - Myke Hurley, Connected\n\n\"What makes Sticky Widgets great is the simplicity of the experience.\" - Ryan Christoffel, MacStories\n\n\"This is a great concept.\" - Dave Mark, The Loop\n\nWelcome to Sticky Widgets, the absolute easiest way to put a sticky note on your home screen and edit it quickly. Add as many Sticky Widgets as you'd like, in every widget size. It's simple! It works on iPad! You can even pin notes to your Lock Screen with a premium subscription so they're visi",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/d3/15/c6d31583-dc70-b4d9-a5ea-9b4220c1c8ff/sw-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 26862048,
+      "size": 48712390,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -66976,11 +66977,11 @@
       },
       "versions": [
         {
-          "version": "4.5.2",
-          "date": "2026-03-10",
+          "version": "5.1.0",
+          "date": "2026-07-31",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Sticky.Widgets-v4.5.2-riftysipas.ipa",
-          "size": 26862048
+          "downloadURL": "https://telos.ftp.sh/ipas/Sticky Widgets-v5.1.0-riftysipas.ipa",
+          "size": 48712390
         }
       ],
       "category": "utilities"
@@ -68975,14 +68976,14 @@
       "bundleIdentifier": "eu.sun.litt",
       "developerName": "Flipping Hues Srls",
       "subtitle": "Tweaked with Sideloadbypass1, Sideloadbypass2",
-      "version": "4.10.5",
-      "versionDate": "2026-06-30",
+      "version": "4.10.6",
+      "versionDate": "2026-07-31",
       "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Sun Position and Path Sunlitt-v4.10.5-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Sun Position and Path Sunlitt-v4.10.6-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSun Position and Path Sunlitt\n\n---\n# Apple Design Awards Finalist\n# Featured on the App Store\n# Great on iOS 26\n# App of the Day\n# \"Apps We Love\" by Apple\n\nHarness the Power of the Sun with Sunlitt:\nyour all-in-one tool for tracking the sun’s position, movements, and shadows, anywhere and anytime.\n\n→ Follow the Sun’s Path and Position\nAccess precise, up-to-the-minute sun tracking data tailored to your location, anytime—even without an internet connection.\n\n→ Analyze Sunlight and Shadows\nDiscover how sunlight interacts with shadow",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/7d/7b/0b7d7b5a-5540-1a9b-58f4-ee7c1b5039fc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/9f/6f/d19f6f2a-c4ec-ee85-c08c-8e600aa2a536/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 118052607,
+      "size": 118393238,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -68996,11 +68997,11 @@
       },
       "versions": [
         {
-          "version": "4.10.5",
-          "date": "2026-06-30",
+          "version": "4.10.6",
+          "date": "2026-07-31",
           "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Sun Position and Path Sunlitt-v4.10.5-riftysipas.ipa",
-          "size": 118052607
+          "downloadURL": "https://telos.ftp.sh/ipas/Sun Position and Path Sunlitt-v4.10.6-riftysipas.ipa",
+          "size": 118393238
         }
       ],
       "category": "weather"
