@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.intsig.CamScannerLite",
     "com.jkcoxson.LocalDevVPN",
     "com.huckleberry-labs.app",
     "com.napper",
-    "com.atebits.Tweetie2",
-    "com.uqxuwtxbbu.parkingjam"
+    "com.atebits.Tweetie2"
   ],
   "apps": [
     {
@@ -82439,14 +82439,14 @@
       "bundleIdentifier": "com.intsig.CamScannerLite",
       "developerName": "INTSIG Information Co., Ltd",
       "subtitle": "Vip Unlocked | Patched",
-      "version": "7.22.0",
-      "versionDate": "2026-07-20",
+      "version": "7.22.5",
+      "versionDate": "2026-07-31",
       "versionDescription": "Tweaks: CamScanner, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/CamScanner_PDF_Scanner_App_v7_22_0_VIP_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/CamScanner_PDF_Scanner_App_v7_22_5_VIP_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Vip Unlocked | Patched | Tweaked\n\nCamScanner - PDF Scanner App",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/b7/a2/ffb7a20c-c12f-e4d5-38fc-2f476eb6c420/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 211136840,
+      "size": 211068304,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/00/6f/bd006f02-38ea-4084-6ed7-3920ef6d8e8a/f07b301d-3704-443a-8599-464c41bd25cb_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-1-1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e1/eb/4e/e1eb4e62-ad78-3f1f-9c1c-9e2b71d3928c/47f87bf1-8749-4190-87d3-f0d4080adbc4_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-2.jpg/392x696bb.jpg",
@@ -82481,11 +82481,11 @@
       },
       "versions": [
         {
-          "version": "7.22.0",
-          "date": "2026-07-20",
+          "version": "7.22.5",
+          "date": "2026-07-31",
           "localizedDescription": "Tweaks: CamScanner, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/CamScanner_PDF_Scanner_App_v7_22_0_VIP_Unlocked_blatant_Patched.ipa",
-          "size": 211136840
+          "downloadURL": "https://telos.ftp.sh/ipas/CamScanner_PDF_Scanner_App_v7_22_5_VIP_Unlocked_blatant_Patched.ipa",
+          "size": 211068304
         }
       ],
       "category": "productivity"
@@ -82799,7 +82799,7 @@
     {
       "title": "⚙️ Telos Update 7.31",
       "identifier": "telos-update-2026-07-31",
-      "caption": "31 Apps Updated:\n• 6 Health & Fitness\n• 6 Education\n• 4 Games\n• 4 Developer Tools\n• 2 Finance\n• 2 Lifestyle\n• 2 News\n• 2 Medical\n• 1 Sports\n• 1 Photo & Video\n• 1 Travel",
+      "caption": "33 Apps Updated:\n• 6 Health & Fitness\n• 6 Education\n• 4 Games\n• 4 Productivity\n• 2 Finance\n• 2 Lifestyle\n• 2 News\n• 2 Medical\n• 2 Developer Tools\n• 1 Sports\n• 1 Photo & Video\n• 1 Travel",
       "date": "2026-07-31",
       "tintColor": "#02433b",
       "notify": true,
