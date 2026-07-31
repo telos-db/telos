@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.bowery-digital.bend",
+    "com.HoYoverse.Nap",
     "com.gunthermarktl.stepapp",
     "com.intsig.CamScannerLite",
-    "com.jkcoxson.LocalDevVPN",
-    "com.huckleberry-labs.app",
-    "com.napper"
+    "com.jkcoxson.LocalDevVPN"
   ],
   "apps": [
     {
@@ -7052,14 +7052,14 @@
       "bundleIdentifier": "com.bowery-digital.bend",
       "developerName": "Bowery Digital",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "7.6.4",
-      "versionDate": "2026-07-15",
+      "version": "7.6.5",
+      "versionDate": "2026-07-31",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Stretching & Flexibility: Bend-v7.6.4-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stretching & Flexibility: Bend-v7.6.5-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nStretching & Flexibility: Bend",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/0e/36/3c0e3686-e95b-2d71-9b6f-fa32436f6361/App-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 188779500,
+      "size": 192114434,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/b6/87/bcb687d0-0ca7-e2f3-256f-1e1aaff0c521/0_APP_IPHONE_55_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/08/b5/a308b50b-67d1-1373-8f33-227a58990c5a/1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
@@ -7084,11 +7084,11 @@
       },
       "versions": [
         {
-          "version": "7.6.4",
-          "date": "2026-07-15",
+          "version": "7.6.5",
+          "date": "2026-07-31",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Stretching & Flexibility: Bend-v7.6.4-riftysipas.ipa",
-          "size": 188779500
+          "downloadURL": "https://telos.ftp.sh/ipas/Stretching & Flexibility: Bend-v7.6.5-riftysipas.ipa",
+          "size": 192114434
         }
       ],
       "category": "health-&-fitness"
@@ -80911,14 +80911,14 @@
       "bundleIdentifier": "com.HoYoverse.Nap",
       "developerName": "COGNOSPHERE PTE. LTD.",
       "subtitle": "Zenless Zone Zero for iOS",
-      "version": "2.8.0",
-      "versionDate": "2026-06-15",
+      "version": "3.1.0",
+      "versionDate": "2026-07-31",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.HoYoverse.Nap-2.8.0-Decrypted.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Zenless Zone Zero - Anniv._3.1.0_decrypted.ipa",
       "localizedDescription": "Game: Zenless Zone Zero 😝",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/1e/9d/911e9df7-8a8e-66e3-14d8-83867c5b219e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/b1/fe/d9b1fe54-032f-a20c-4d67-06c40325c554/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 2891034895,
+      "size": 3202938122,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -80933,11 +80933,11 @@
       },
       "versions": [
         {
-          "version": "2.8.0",
-          "date": "2026-05-05",
+          "version": "3.1.0",
+          "date": "2026-07-28",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.HoYoverse.Nap-2.8.0-Decrypted.ipa",
-          "size": 2891034895
+          "downloadURL": "https://telos.ftp.sh/ipas/Zenless Zone Zero - Anniv._3.1.0_decrypted.ipa",
+          "size": 3202938122
         }
       ],
       "category": "games"
@@ -82799,7 +82799,7 @@
     {
       "title": "⚙️ Telos Update 7.31",
       "identifier": "telos-update-2026-07-31",
-      "caption": "33 Apps Updated:\n• 8 Health & Fitness\n• 6 Education\n• 4 Games\n• 2 Finance\n• 2 Lifestyle\n• 2 News\n• 2 Productivity\n• 2 Medical\n• 2 Developer Tools\n• 1 Sports\n• 1 Photo & Video\n• 1 Travel",
+      "caption": "41 Apps Updated:\n• 12 Health & Fitness\n• 8 Games\n• 6 Education\n• 2 Finance\n• 2 Lifestyle\n• 2 News\n• 2 Productivity\n• 2 Medical\n• 2 Developer Tools\n• 1 Sports\n• 1 Photo & Video\n• 1 Travel",
       "date": "2026-07-31",
       "tintColor": "#02433b",
       "notify": true,
