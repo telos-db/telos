@@ -23229,25 +23229,24 @@
       "bundleIdentifier": "com.lensdistortions.Lens-Distortions",
       "developerName": "Lens Distortions, LLC",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, lensdistortions, zxPluginsInject\n\nLD - Photo & Video Finishing\n\n---\nA layer-based editor for creating cinematic content.\n\nAdd cinematic color grades and typography to your photos and videos. Harness the power of beautiful light, natural elements, and elegant overlays to create truly vivid images. Fine-tune the details of every element… our layer-based approach to editing unlocks a whole new world of possibilities.\n\nKEY FEATURES\n• Color Layers - add multiple layers of color, each with their own powerful adjustments\n\n• Typography Presets - add text to achieve a cl",
-      "version": "6.10.0",
-      "versionDate": "2026-03-07T00:24:27-00:00",
-      "versionDescription": "Build 2 from @riftysIPAlibrary",
-      "size": 119021645,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/d4/30/a0d43099-c547-f8ca-3557-6a556591354c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/LD.-.Photo.Video.Finishing-v6.10.0-riftysipas.ipa",
-      "minOSVersion": "16.0",
+      "version": "6.10.1",
+      "versionDate": "2026-07-31T22:25:41-00:00",
+      "versionDescription": "Build 1 from @riftysIPAlibrary",
+      "size": 118909581,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/7e/8c/ef7e8ce0-c85a-db7a-73ec-b69e6932184f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/LD - Photo & Video Finishing-v6.10.1-riftysipas.ipa",
+      "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "LD - Photo & Video Finishing-v6.10.0-riftysipas.ipa"
+        "originalFile": "LD - Photo & Video Finishing-v6.10.1-riftysipas.ipa"
       }
     },
     {
@@ -33449,6 +33448,31 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Pixly [tg@IAppsBest].ipa"
+      }
+    },
+    {
+      "name": "PixMove",
+      "bundleIdentifier": "bethere.ai.com",
+      "developerName": "100 YEARS LATER TECHNOLOGY CO., LTD",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nPixMove is a cutting-edge AI video generation app that unlocks boundless creative possibilities for video creation. It features core functions like text-to-video and image-to-video, turning your creative prompts or static images into dynamic, high-quality videos in seconds. The app also offers a rich library of AI-powered video effects, adding cinematic flair and vivid motion to your works with simple operations. With an intuitive interface, PixMove requires no professional editing skills—ideal",
+      "version": "2.8",
+      "versionDate": "2026-07-31T22:23:21-00:00",
+      "versionDescription": "Build 7 from @thescholarslounge",
+      "size": 72468738,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/78/3a/a2783a4b-d322-63e6-5eb1-8920daeea5af/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/bethere.ai.com-2.8-eeveedecrypter.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "bethere.ai.com-2.8-eeveedecrypter.ipa"
       }
     },
     {
