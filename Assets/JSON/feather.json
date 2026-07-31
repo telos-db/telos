@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.huckleberry-labs.app",
+    "com.napper",
+    "com.atebits.Tweetie2",
     "com.uqxuwtxbbu.parkingjam",
-    "com.pronetis.ironballride2",
-    "co.detail.duo",
-    "com.footballaddicts.livescoreaddicts",
-    "com.stippl.stippl"
+    "com.pronetis.ironballride2"
   ],
   "apps": [
     {
@@ -31218,14 +31218,14 @@
       "bundleIdentifier": "com.huckleberry-labs.app",
       "developerName": "Huckleberry Labs Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "0.9.301",
-      "versionDate": "2026-07-17",
+      "version": "0.9.302",
+      "versionDate": "2026-07-31",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Huckleberry: Baby & Child-v0.9.301-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Huckleberry: Baby & Child-v0.9.302-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nHuckleberry: Baby & Child\n\n---\nHuckleberry is your all-in-one parenting partner, proudly trusted by 5+ million families worldwide.\n\nFrom baby tracker to personalized guidance, our award-winning app helps you navigate sleep, feeding, milestones, and everything in between. Backed by a team of pediatric experts and powered by smart tools, Huckleberry supports each family’s unique journey. We turn restless nights into restful routines, making more space for everyday magic.\n\nTRUSTED SLEEP GUIDANCE & TRACKING\n\nYour baby's sleep and",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/07/fd/a407fd18-3a79-c961-af10-87e93788d6d9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 68659940,
+      "size": 67088407,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/b8/f1/edb8f1b5-b763-9a0c-d1d4-972ca4cc589f/1_iPhone_5.5_Intro_Best_Parents_Badge.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/f7/f8/42f7f8bd-047d-03ac-b831-1f58af098512/2_iPhone_5.5_Summary_Report.jpg/392x696bb.jpg",
@@ -31257,11 +31257,11 @@
       },
       "versions": [
         {
-          "version": "0.9.301",
-          "date": "2026-07-17",
+          "version": "0.9.302",
+          "date": "2026-07-31",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Huckleberry: Baby & Child-v0.9.301-riftysipas.ipa",
-          "size": 68659940
+          "downloadURL": "https://telos.ftp.sh/ipas/Huckleberry: Baby & Child-v0.9.302-riftysipas.ipa",
+          "size": 67088407
         }
       ],
       "category": "medical"
@@ -45541,14 +45541,14 @@
       "bundleIdentifier": "com.napper",
       "developerName": "Napper AB",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "6.61.0",
-      "versionDate": "2026-07-14",
+      "version": "6.63.0",
+      "versionDate": "2026-07-31",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Napper: Baby Sleep Tracker-v6.61.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Napper: Baby Sleep Tracker-v6.63.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nNapper: Baby Sleep Tracker\n\n---\nNapper is the game-changing, award-winning app that uses data, science, and a little bit of algorithmic magic to predict your baby’s naps and bedtime - with almost uncanny accuracy.\n\nOriginally built by a dad on parental leave (still with us btw!) for him and his not-so-sleepy baby girl, Napper has now grown to help more than 100,000 families sleep better. So whatever issue you might be facing - short naps, frequent night-wakings, never-ending bedtime routines - there’s a good chance we can help",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/3b/4d/5e3b4dc0-d453-c541-eace-646959534a48/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 50787246,
+      "size": 52053206,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/ce/c4/14cec484-2e2f-e37e-1d54-bb1852643d77/e89fc735-9443-4475-ac9d-dd40dbc28b19_en-2-1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/a2/f2/7ea2f2ef-fcb7-9653-fdbc-9fb518c8baa7/b6fcb7bd-6cf3-43a1-a759-7021c6656ebb_en-4-1.png/392x696bb.png",
@@ -45574,11 +45574,11 @@
       },
       "versions": [
         {
-          "version": "6.61.0",
-          "date": "2026-07-14",
+          "version": "6.63.0",
+          "date": "2026-07-31",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Napper: Baby Sleep Tracker-v6.61.0-riftysipas.ipa",
-          "size": 50787246
+          "downloadURL": "https://telos.ftp.sh/ipas/Napper: Baby Sleep Tracker-v6.63.0-riftysipas.ipa",
+          "size": 52053206
         }
       ],
       "category": "health-&-fitness"
@@ -75001,62 +75001,6 @@
       "category": "photo-&-video"
     },
     {
-      "name": "Twitter [BHTwitter]",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "X Corp.",
-      "subtitle": "Tweaked with BHTwitter, Cephei",
-      "version": "12.13",
-      "versionDate": "2026-07-29",
-      "versionDescription": "Tweaks: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nSource: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/Classic_BHTwitter_12.13_Jacks_Apps.ipa",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nClassic BHTwitter+ 11.89\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 224190699,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/77/660e779a-d449-ebd3-0bd3-78502084f7bf/770e6822-f28e-4e4b-be51-8bfbe36f4307_iPad_12.9_-_1.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/2e/90e62e67-ccd1-8221-8149-49f305b8778d/7e053a3e-190b-4585-9927-509871425aad_iPad_12.9_-_2.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/55/81/e1558195-ef27-c4d9-7967-ab92de356af6/af4a69eb-36c5-463c-9677-c2a72dfaa7dc_iPad_12.9_-_3.png/552x414bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.associated-appclip-app-identifiers",
-          "aps-environment",
-          "com.apple.developer.devicecheck.appattest-environment",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.siri",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.networking.carrier-constrained.app-optimized",
-          "com.apple.developer.networking.carrier-constrained.appcategory",
-          "com.apple.security.application-groups",
-          "com.apple.developer.usernotifications.communication"
-        ],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
-          "NSCameraUsageDescription": "Capture and post photos and videos from X.",
-          "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
-          "NSLocationWhenInUseUsageDescription": "Enjoy the X experience tailored to your location.",
-          "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
-          "NSCalendarsUsageDescription": "Add events to your calendar from X.",
-          "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
-          "NSFaceIDUsageDescription": "Use FaceID to authenticate on X.",
-          "NSUserTrackingUsageDescription": "This helps X show you more relevant ads.",
-          "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos."
-        }
-      },
-      "versions": [
-        {
-          "version": "12.13",
-          "date": "2026-07-29",
-          "localizedDescription": "Tweaks: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nSource: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/Classic_BHTwitter_12.13_Jacks_Apps.ipa",
-          "size": 224190699
-        }
-      ],
-      "category": "news"
-    },
-    {
       "name": "TypeAI",
       "bundleIdentifier": "com.codeway.AIKeyboard",
       "developerName": "DEEP FLOW SOFTWARE SERVICES",
@@ -80967,6 +80911,62 @@
           "localizedDescription": "Tweaks: XEnhancer\n\nSource: @thescholarslounge",
           "downloadURL": "https://telos.ftp.sh/ipas/X-12.13_XE-1.0.0.ipa",
           "size": 223534712
+        }
+      ],
+      "category": "news"
+    },
+    {
+      "name": "X [BHTwitter]",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "X Corp.",
+      "subtitle": "Tweaked with BHTwitterNFB, CydiaSubstrate",
+      "version": "12.10",
+      "versionDate": "2026-07-31",
+      "versionDescription": "Tweaks: BHTwitterNFB, CydiaSubstrate, bhFLEX, substrate, zxPluginsInject\n\nSource: @thescholarslounge",
+      "downloadURL": "https://telos.ftp.sh/ipas/X12.10Moe-NFBRevivedLiquidGlassAndrewMoeV6.3.2 (2)Patched.ipa",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BHTwitterNFB, CydiaSubstrate, bhFLEX, substrate, zxPluginsInject\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 210501104,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/77/660e779a-d449-ebd3-0bd3-78502084f7bf/770e6822-f28e-4e4b-be51-8bfbe36f4307_iPad_12.9_-_1.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e6/2e/90e62e67-ccd1-8221-8149-49f305b8778d/7e053a3e-190b-4585-9927-509871425aad_iPad_12.9_-_2.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/55/81/e1558195-ef27-c4d9-7967-ab92de356af6/af4a69eb-36c5-463c-9677-c2a72dfaa7dc_iPad_12.9_-_3.png/552x414bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "aps-environment",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.siri",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.networking.carrier-constrained.app-optimized",
+          "com.apple.developer.networking.carrier-constrained.appcategory",
+          "com.apple.security.application-groups",
+          "com.apple.developer.usernotifications.communication"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSCameraUsageDescription": "Capture and post photos and videos from X.",
+          "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
+          "NSLocationWhenInUseUsageDescription": "Enjoy the X experience tailored to your location.",
+          "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
+          "NSCalendarsUsageDescription": "Add events to your calendar from X.",
+          "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
+          "NSFaceIDUsageDescription": "Use FaceID to authenticate on X.",
+          "NSUserTrackingUsageDescription": "This helps X show you more relevant ads.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos."
+        }
+      },
+      "versions": [
+        {
+          "version": "12.10",
+          "date": "2026-07-31",
+          "localizedDescription": "Tweaks: BHTwitterNFB, CydiaSubstrate, bhFLEX, substrate, zxPluginsInject\n\nSource: @thescholarslounge",
+          "downloadURL": "https://telos.ftp.sh/ipas/X12.10Moe-NFBRevivedLiquidGlassAndrewMoeV6.3.2 (2)Patched.ipa",
+          "size": 210501104
         }
       ],
       "category": "news"
