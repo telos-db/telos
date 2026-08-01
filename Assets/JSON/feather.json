@@ -7,11 +7,11 @@
   "website": "https://telos-db.github.io/telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.paradyme.solarsmasher",
     "com.lake.coloring",
+    "com.resonantcavity.Voloco",
     "com.lappir.keto",
-    "com.waveline.nabd",
-    "in.muditbhargava.LookUp",
-    "com.blockpuzzle.us.ios"
+    "com.waveline.nabd"
   ],
   "apps": [
     {
@@ -64080,14 +64080,14 @@
       "bundleIdentifier": "com.paradyme.solarsmasher",
       "developerName": "PARADYME LIMITED",
       "subtitle": "Tweaked with NetworkBlocker(adblocker), fixipa1",
-      "version": "2.6.7",
-      "versionDate": "2026-06-13",
+      "version": "2.7.3",
+      "versionDate": "2026-08-01",
       "versionDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Solar Smash-v2.6.7-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Solar Smash-v2.7.3-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSolar Smash\n\n---\nHarness the power of space and embark on an epic journey of creative destruction with Solar Smash, the ultimate physics-based sandbox simulation game!\n\nSimulate the Universe: Control the forces of nature and become a cosmic architect as you explore the boundless expanse of space. Craft and customize your own planetary systems, from the tiniest asteroids to massive gas giants.\n\nTwo Thrilling Game Modes:\n\nPlanet Smash: Annihilate planets and moons with over 50 different weapons! Choose from lasers",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/61/ee/2561ee13-8c3c-44af-ca0a-d788bb503d20/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 313737590,
+      "size": 309651777,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/f5/9f/d2f59f9b-a68d-0e29-7859-c87455e4a3dd/198ff7ec-e20f-4e37-a657-6bf826c62547_SS3_5.5_iOS.jpg/406x228bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cf/59/78/cf59789f-0c2a-18a4-4986-ca0ee46a6c59/afa8aa9e-3fe9-4d7f-b9e7-d92869b2bc23_SS5_5.5_iOS.jpg/406x228bb.jpg",
@@ -64107,11 +64107,11 @@
       },
       "versions": [
         {
-          "version": "2.6.7",
-          "date": "2026-06-13",
+          "version": "2.7.3",
+          "date": "2026-08-01",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Solar Smash-v2.6.7-riftysipas.ipa",
-          "size": 313737590
+          "downloadURL": "https://telos.ftp.sh/ipas/Solar Smash-v2.7.3-riftysipas.ipa",
+          "size": 309651777
         }
       ],
       "category": "games"
@@ -78085,14 +78085,14 @@
       "bundleIdentifier": "com.resonantcavity.Voloco",
       "developerName": "Resonant Cavity, Inc",
       "subtitle": "Tweaked with CydiaSubstrate, chocorc",
-      "version": "9.16.5",
-      "versionDate": "2026-07-14",
+      "version": "9.17.0",
+      "versionDate": "2026-08-01",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.5-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.17.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nVoloco: Vocal Recording Studio\n\n---\nVoloco is a mobile recording studio and audio editor that helps you sound your best.\n\n70+ MILLION DOWNLOADS\nSingers, rappers, musicians, and content creators have downloaded Voloco 70+ million times because we elevate your sound and let you record like a professional with intuitive tools. Make music and content with Voloco––the top-rated singing and recording app. Record better tracks, demos, voice-overs, and video performances with this audio editor and voice recorder today.\n\nSTUDIO SOUND WITHO",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/64/c7/0664c77e-22c4-134a-9755-381df2eb5617/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 117487051,
+      "size": 121015150,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -78113,11 +78113,11 @@
       },
       "versions": [
         {
-          "version": "9.16.5",
-          "date": "2026-07-14",
+          "version": "9.17.0",
+          "date": "2026-08-01",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.5-riftysipas.ipa",
-          "size": 117487051
+          "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.17.0-riftysipas.ipa",
+          "size": 121015150
         }
       ],
       "category": "music"
