@@ -20,32 +20,6 @@
   },
   "apps": [
     {
-      "name": " ",
-      "bundleIdentifier": "tech.miidii.MDBlank",
-      "developerName": "MD Studio",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MDWidgets, blatantsPatch\n\nMD Widgets: Live Wallpaper\n\n---\nCreate live wallpapers and custom widgets with MD Widgets! Design a unique home screen and lock screen experience that blends seamlessly with your wallpaper.\n\nKey Features:\n\n- Live Wallpaper\n- Control Widget\n- Transparent Widget\n- Text Widget\n- Photo Widget\n- Date & Time Widget\n- Countdown Widget\n- Weather Widget\n- Zen Widget\n- Greetings Widget\n- Music Widget\n- iBoard Widget: Your all-in-one dashboard for system info, weather, and calendar, keeping everything you need within reach\n\nAnd that's ju",
-      "version": "4.2.4",
-      "versionDate": "2026-07-29T06:56:04-00:00",
-      "versionDescription": "Build 466 from @blatants",
-      "size": 194040069,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/a5/66/a8a56686-9edf-bd92-5e41-7f9652e23f94/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/MD_Widgets_Live_Wallpaper_v4_2_4_Pro_Unlocked_blatant_Patched.ipa",
-      "minOSVersion": "16.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@blatants",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "MD_Widgets_Live_Wallpaper_v4_2_4_Pro_Unlocked_blatant_Patched.ipa"
-      }
-    },
-    {
       "name": "!Camera",
       "bundleIdentifier": "com.andyworks.camera",
       "developerName": "Not Boring Software LLC",
@@ -5025,32 +4999,6 @@
     },
     {
       "name": "BlackHole",
-      "bundleIdentifier": "com.shadow.blackhole.ios.15.10",
-      "developerName": "PROGMORE FOR WEB DESIGN AND MANAGEMENT",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nSplit long videos to smaller videos for social media apps",
-      "version": "1.15.10",
-      "versionDate": "2026-02-01T19:30:10-00:00",
-      "versionDescription": "Build 41 from @binnichtaktivsipas",
-      "size": 17380366,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/9f/0d/c69f0d95-2014-abdc-7534-b3cb7a61ad50/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/BlackHole-v1.15.10-ios.ipa",
-      "minOSVersion": "12.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "BlackHole-v1.15.10-ios.ipa"
-      }
-    },
-    {
-      "name": "BlackHole",
       "bundleIdentifier": "com.shadow.blackhole.ios.15.11.2",
       "developerName": "PROGMORE FOR WEB DESIGN AND MANAGEMENT",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nAn Open-Source Music Player App for all your needs!\n\n---\nSplit long videos to smaller videos for social media apps",
@@ -5099,6 +5047,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "BlackHole_15_1766722385.ipa"
+      }
+    },
+    {
+      "name": "BlackHole",
+      "bundleIdentifier": "com.shadow.blackhole.ios.15.10",
+      "developerName": "PROGMORE FOR WEB DESIGN AND MANAGEMENT",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nSplit long videos to smaller videos for social media apps",
+      "version": "1.15.10",
+      "versionDate": "2026-02-01T19:30:10-00:00",
+      "versionDescription": "Build 41 from @binnichtaktivsipas",
+      "size": 17380366,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/9f/0d/c69f0d95-2014-abdc-7534-b3cb7a61ad50/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/BlackHole-v1.15.10-ios.ipa",
+      "minOSVersion": "12.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "BlackHole-v1.15.10-ios.ipa"
       }
     },
     {
@@ -25912,6 +25886,32 @@
       }
     },
     {
+      "name": "MDBlank",
+      "bundleIdentifier": "tech.miidii.MDBlank",
+      "developerName": "MD Studio",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MDWidgets, blatantsPatch\n\nMD Widgets: Live Wallpaper\n\n---\nCreate live wallpapers and custom widgets with MD Widgets! Design a unique home screen and lock screen experience that blends seamlessly with your wallpaper.\n\nKey Features:\n\n- Live Wallpaper\n- Control Widget\n- Transparent Widget\n- Text Widget\n- Photo Widget\n- Date & Time Widget\n- Countdown Widget\n- Weather Widget\n- Zen Widget\n- Greetings Widget\n- Music Widget\n- iBoard Widget: Your all-in-one dashboard for system info, weather, and calendar, keeping everything you need within reach\n\nAnd that's ju",
+      "version": "4.2.4",
+      "versionDate": "2026-07-29T06:56:04-00:00",
+      "versionDescription": "Build 466 from @blatants",
+      "size": 194040069,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/a5/66/a8a56686-9edf-bd92-5e41-7f9652e23f94/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/MD_Widgets_Live_Wallpaper_v4_2_4_Pro_Unlocked_blatant_Patched.ipa",
+      "minOSVersion": "16.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@blatants",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "MD_Widgets_Live_Wallpaper_v4_2_4_Pro_Unlocked_blatant_Patched.ipa"
+      }
+    },
+    {
       "name": "MealPrepPro",
       "bundleIdentifier": "com.nibbleapps.MealPrepPro",
       "developerName": "Nibble Apps Ltd",
@@ -30850,32 +30850,6 @@
     },
     {
       "name": "Osmosis",
-      "bundleIdentifier": "com.osmose-it.osmosis",
-      "developerName": "Knowledge Diffusion",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, OsmosisMedical, blatantsPatch\n\nOsmosis - Med School Study App\n\n---\nStruggling to understand medical concepts or prepare for the USMLE? Osmosis is the medical exam study app designed to help med students learn medicine faster, improve information retention and pass medical board exams with flying colours.\n\nTrusted by 8,000,000+ medical, nursing, PA, pharmacy and dental students, this medical learning app turns downtime into productive study time with an expansive library of medical videos, flashcards, quizzes, exam-style questions and more.\n\nInstead of memorizin",
-      "version": "6.0.8",
-      "versionDate": "2026-07-16T19:53:00-00:00",
-      "versionDescription": "Build 193 from @blatants",
-      "size": 27807455,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/1a/9f/711a9f8e-2434-4ecf-2d61-34f515734147/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Med_School_Study_App_v6_0_8_Subscription_Unlocked_blatant.ipa",
-      "minOSVersion": "15.1",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@blatants",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Osmosis_Med_School_Study_App_v6_0_8_Subscription_Unlocked_blatant.ipa"
-      }
-    },
-    {
-      "name": "Osmosis",
       "bundleIdentifier": "com.osmose-it.nursing",
       "developerName": "Knowledge Diffusion",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, OsmosisNursing, blatantsPatch\n\nOsmosis - Nursing Exam Prep\n\n---\nStruggling to understand nursing concepts or prepare for your NCLEX exam? The reading never ends, the exams keep coming and some days it feels like too much. Nursing Exam Prep by Osmosis creates hundreds of short, illustrated nursing and essential sciences videos so you can focus on what matters most without drowning in the rest.\n\nWith Nursing Exam Prep, you can study smarter, retain more and apply what you have learned in an exam environment. The app offers videos, NCLEX-style questions, med ta",
@@ -30898,6 +30872,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Osmosis_Nursing_Exam_Prep_v6_0_8_Subscription_Unlocked_blatant_Patched.ipa"
+      }
+    },
+    {
+      "name": "Osmosis",
+      "bundleIdentifier": "com.osmose-it.osmosis",
+      "developerName": "Knowledge Diffusion",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, OsmosisMedical, blatantsPatch\n\nOsmosis - Med School Study App\n\n---\nStruggling to understand medical concepts or prepare for the USMLE? Osmosis is the medical exam study app designed to help med students learn medicine faster, improve information retention and pass medical board exams with flying colours.\n\nTrusted by 8,000,000+ medical, nursing, PA, pharmacy and dental students, this medical learning app turns downtime into productive study time with an expansive library of medical videos, flashcards, quizzes, exam-style questions and more.\n\nInstead of memorizin",
+      "version": "6.0.8",
+      "versionDate": "2026-07-16T19:53:00-00:00",
+      "versionDescription": "Build 193 from @blatants",
+      "size": 27807455,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/1a/9f/711a9f8e-2434-4ecf-2d61-34f515734147/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Med_School_Study_App_v6_0_8_Subscription_Unlocked_blatant.ipa",
+      "minOSVersion": "15.1",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@blatants",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Osmosis_Med_School_Study_App_v6_0_8_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -37335,6 +37335,32 @@
       }
     },
     {
+      "name": "SANFL Now",
+      "bundleIdentifier": "ott.sanfldigitalpass",
+      "developerName": "South Australian National Football League Inc.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nWelcome to SANFL Now - the home for streaming all things footy in SA.\n\nJump straight into the action and watch every SANFL Match both live and on-demand, including:\n\n• Hostplus SANFL League\n• Hostplus SANFL Women's League\n• SANFL Reserves\n• U18 Torrens University Cup\n• U16 Torrens University Cup\n\nAlso featuring exclusive content including historic matches and behind the scenes features that keep you coming back.\n\nRevenue generated from subscriptions to SANFL Now is shared between the 8 SANFL Mem",
+      "version": "10.200.1",
+      "versionDate": "2026-08-01T05:05:35-00:00",
+      "versionDescription": "Build 36 from @thescholarslounge",
+      "size": 55841892,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/a1/fc/7ea1fce3-18d6-67ab-5cd6-a9ecc3a8bae7/AppIcon-Branded-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/ott.sanfldigitalpass-10.200.1-eeveedecrypter.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "ott.sanfldigitalpass-10.200.1-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "Santander",
       "bundleIdentifier": "com.serena.santander",
       "developerName": "Santander Bank",
@@ -41519,31 +41545,6 @@
     },
     {
       "name": "Steps",
-      "bundleIdentifier": "com.yoc.Steps",
-      "developerName": "Year of Code, LLC",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, iOSGodsiAPCracker\n\nSubscription Unlocked - Press upgrade now > cancel\n\n---\nTrack how far you walk and how many steps you take. Always on, works on all iPhones.\n\nSteps is a pedometer and activity tracker. It shows you just how much you're moving in a simple, elegant way. Set a goal. As you walk, the colors change to show your progress like a sunrise. No noise, no extra gadget to wear and nothing to distract you.\n\nEveryone should walk 10,000 steps every day for their health, but many of us don't go that far. With Steps, you can easily track how far you go every day, set",
-      "version": "1.7.58",
-      "versionDate": "2025-12-29T14:11:52-00:00",
-      "versionDescription": "Build 1664 from @riftysIPAlibrary",
-      "size": 18775327,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/17/af/2117afac-f59b-1437-e012-9ba5208e4cdb/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Steps_v1.7.58-RiftysIPAs.ipa",
-      "minOSVersion": "15.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1
-      ],
-      "metadata": {
-        "sourceChannel": "@riftysIPAlibrary",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Steps_v1.7.58-RiftysIPAs.ipa"
-      }
-    },
-    {
-      "name": "Steps",
       "bundleIdentifier": "com.adambinsz.Steps",
       "developerName": "Pumpkin Computer Co., LLC",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nᵕ̈  Steps: Step Counter, Pedometer  ᵕ̈\n\n---\nSee your daily, weekly, and monthly walking totals automatically, and set goals to stay active.\n\nSteps keeps track of your steps, distance, flights of stairs, and calories — all in the background, without you needing to open the app or worry about battery life.\n\nNow with goals: Set daily targets for steps, calories burned, miles walked, and flights of stairs climbed. Track your progress toward each one and stay motivated every day.\n\nCheck your progress over time with clear daily, weekly, and mon",
@@ -41565,6 +41566,31 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Steps_6.1_tg@Sa1y0miii.ipa"
+      }
+    },
+    {
+      "name": "Steps",
+      "bundleIdentifier": "com.yoc.Steps",
+      "developerName": "Year of Code, LLC",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, iOSGodsiAPCracker\n\nSubscription Unlocked - Press upgrade now > cancel\n\n---\nTrack how far you walk and how many steps you take. Always on, works on all iPhones.\n\nSteps is a pedometer and activity tracker. It shows you just how much you're moving in a simple, elegant way. Set a goal. As you walk, the colors change to show your progress like a sunrise. No noise, no extra gadget to wear and nothing to distract you.\n\nEveryone should walk 10,000 steps every day for their health, but many of us don't go that far. With Steps, you can easily track how far you go every day, set",
+      "version": "1.7.58",
+      "versionDate": "2025-12-29T14:11:52-00:00",
+      "versionDescription": "Build 1664 from @riftysIPAlibrary",
+      "size": 18775327,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/17/af/2117afac-f59b-1437-e012-9ba5208e4cdb/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Steps_v1.7.58-RiftysIPAs.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@riftysIPAlibrary",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Steps_v1.7.58-RiftysIPAs.ipa"
       }
     },
     {
@@ -51889,32 +51915,6 @@
     },
     {
       "name": "‎WhatsApp",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "developerName": "WhatsApp Inc.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BlockWAUpdates, ContactSync, CydiaSubstrate, OnlineNotify, Stalky\n\n---\nWhatsApp from Meta is a free messaging and calling app used by over 2 billion people across 180+ countries. It's super simple, reliable and private, making it perfect for staying in touch with your friends and family worldwide. WhatsApp works across mobile, tablet, and desktop even on slow connections, with no subscription fees.\n\nPrivate messaging and calls across the world\n\nYour privacy is our priority. With end-to-end encryption, you can be sure that your personal messages and calls stay betwe",
-      "version": "26.26.10",
-      "versionDate": "2026-07-04T21:57:31-00:00",
-      "versionDescription": "Build 1009827063 from @thescholarslounge",
-      "size": 148592598,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/fc/69/5dfc6928-acee-faaa-5c06-9b3b13197ebd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@wabeta_ipa]_26.26.10_WC.ipa",
-      "minOSVersion": "15.1",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@thescholarslounge",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "[TG@wabeta_ipa]_26.26.10_WC.ipa"
-      }
-    },
-    {
-      "name": "‎WhatsApp",
       "bundleIdentifier": "com.fouadraheb.watusi",
       "developerName": "WhatsApp Inc.",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: ContactSync, OnlineNotify, Stalky, Watusi, WatusiToolsSL\n\nWatusi for WhatsApp Duplicate\n\n---\nWhatsApp from Meta is a free messaging and calling app used by over 2 billion people across 180+ countries. It's super simple, reliable and private, making it perfect for staying in touch with your friends and family worldwide. WhatsApp works across mobile, tablet, and desktop even on slow connections, with no subscription fees.\n\nPrivate messaging and calls across the world\n\nYour privacy is our priority. With end-to-end encryption, you can be sure that your personal messages and calls stay betwe",
@@ -51937,6 +51937,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "com.fouadraheb.watusi_26.14.73_watusi3_1.3.9_sl.ipa"
+      }
+    },
+    {
+      "name": "‎WhatsApp",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "WhatsApp Inc.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BlockWAUpdates, ContactSync, CydiaSubstrate, OnlineNotify, Stalky\n\n---\nWhatsApp from Meta is a free messaging and calling app used by over 2 billion people across 180+ countries. It's super simple, reliable and private, making it perfect for staying in touch with your friends and family worldwide. WhatsApp works across mobile, tablet, and desktop even on slow connections, with no subscription fees.\n\nPrivate messaging and calls across the world\n\nYour privacy is our priority. With end-to-end encryption, you can be sure that your personal messages and calls stay betwe",
+      "version": "26.26.10",
+      "versionDate": "2026-07-04T21:57:31-00:00",
+      "versionDescription": "Build 1009827063 from @thescholarslounge",
+      "size": 148592598,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/fc/69/5dfc6928-acee-faaa-5c06-9b3b13197ebd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/[TG@wabeta_ipa]_26.26.10_WC.ipa",
+      "minOSVersion": "15.1",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "[TG@wabeta_ipa]_26.26.10_WC.ipa"
       }
     },
     {
