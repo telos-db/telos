@@ -7,11 +7,11 @@
   "website": "https://telos-db.github.io/telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.revivasoftworks.Snore-Lab",
+    "com.camerasideas.InstaShot",
     "com.paradyme.solarsmasher",
     "com.lake.coloring",
-    "com.resonantcavity.Voloco",
-    "com.lappir.keto",
-    "com.waveline.nabd"
+    "com.resonantcavity.Voloco"
   ],
   "apps": [
     {
@@ -32963,14 +32963,14 @@
       "bundleIdentifier": "com.camerasideas.InstaShot",
       "developerName": "SHANTANU PTE. LTD.",
       "subtitle": "Tweaked with InShot, blatantsPatch",
-      "version": "1.98.0",
-      "versionDate": "2026-07-29",
+      "version": "1.98.1",
+      "versionDate": "2026-08-01",
       "versionDescription": "Tweaks: InShot, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/InShot_Video_Editor_v1_98_0_Premium_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/InShot_Video_Editor_v1_98_1_Premium_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: InShot, blatantsPatch\n\nInShot - Video Editor\n\n---\nInShot: Empowering Creators with Advanced Video and Photo Editing. Unlock effortless editing with easy-to-use features and powerful AI tools, elevating your video and photo editing experience to new heights.\n\n[AI Tool]\n- AI Effects. Experience the magic of AI with instant presets that elevate your images and videos in just one tap.\n- Auto Captions. AI-powered speech-to-text tool helps you say goodbye to manual text typing and makes video editing effortless.\n- Auto Remove Background. Remove backg",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/c3/fa/f5c3fa04-914c-15e8-dcea-2bf1d65938c0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 161439920,
+      "size": 161438760,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/95/f6/ba95f6b0-573a-8d67-6eeb-fb392c736102/a6c1eed2-18ab-47b2-a1b7-52439148b2e6_01-1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/75/d2/6375d2eb-b384-b4f4-03da-adf4cb001f20/9ea3f0f4-2068-46b4-b288-9553d1974583_02.jpg/392x696bb.jpg",
@@ -32989,19 +32989,18 @@
           "NSCameraUsageDescription": "InShot requires the usage of Camera to capture photos and videos",
           "NSMicrophoneUsageDescription": "InShot requries the usage of Microphone to capture video audio",
           "NSLocationWhenInUseUsageDescription": "InShot uses location information to geotag photos and videos",
-          "NSCalendarsUsageDescription": "InShot requires to set calendar events ",
           "NSAppleMusicUsageDescription": "InShot requires access to the media library for adding music tracks to videos",
-          "NSUserTrackingUsageDescription": "Your data will only be used to deliver personalized ads to you.",
+          "NSUserTrackingUsageDescription": "InShot uses app tracking transparency to provide personalized ads.",
           "NSPhotoLibraryAddUsageDescription": "InShot requires access to the photo library for saving photos and videos"
         }
       },
       "versions": [
         {
-          "version": "1.98.0",
-          "date": "2026-07-29",
+          "version": "1.98.1",
+          "date": "2026-08-01",
           "localizedDescription": "Tweaks: InShot, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/InShot_Video_Editor_v1_98_0_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 161439920
+          "downloadURL": "https://telos.ftp.sh/ipas/InShot_Video_Editor_v1_98_1_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 161438760
         }
       ],
       "category": "photo-&-video"
@@ -63768,15 +63767,15 @@
       "name": "SnoreLab",
       "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
       "developerName": "Reviva Softworks Ltd",
-      "subtitle": "Tweaked with SnoreLab, blatantsPatch",
-      "version": "6.4.4",
-      "versionDate": "2026-07-29",
-      "versionDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab_Record_Your_Snoring_v6_4_4_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSnoreLab : Record Your Snoring\n\n---\nThe most popular and innovative app of its kind, SnoreLab records, measures and tracks your snoring and helps you to discover effective ways to reduce it.\n\nSnoreLab has monitored more than 50 million nights of sleep and has helped millions of people to better understand or even eliminate their snoring problem.\n\nThe app is very easy to use: simply set SnoreLab running next to your bed whilst you sleep. In the morning you will discover your Snore Score, exactly when and how loudly you snored, and",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/71/42/497142b4-e607-e91f-bfc4-beed630d564e/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "subtitle": "Tweaked with SatellaJailed, Sideloadbypass1",
+      "version": "6.4.5",
+      "versionDate": "2026-08-01",
+      "versionDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab : Record Your Snoring-v6.4.5-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSnoreLab : Record Your Snoring\n\n---\nThe most popular and innovative app of its kind, SnoreLab records, measures and tracks your snoring and helps you to discover effective ways to reduce it.\n\nSnoreLab has monitored more than 50 million nights of sleep and has helped millions of people to better understand or even eliminate their snoring problem.\n\nThe app is very easy to use: simply set SnoreLab running next to your bed whilst you sleep. In the morning you will discover your Snore Score, exactly when and how loudly you snored, and",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/bf/c5/01bfc52b-5ef5-5923-8b2e-078409153ac6/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 162966298,
+      "size": 159646523,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -63797,11 +63796,11 @@
       },
       "versions": [
         {
-          "version": "6.4.4",
-          "date": "2026-07-29",
-          "localizedDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab_Record_Your_Snoring_v6_4_4_Subscription_Unlocked_blatant.ipa",
-          "size": 162966298
+          "version": "6.4.5",
+          "date": "2026-08-01",
+          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://telos.ftp.sh/ipas/SnoreLab : Record Your Snoring-v6.4.5-riftysipas.ipa",
+          "size": 159646523
         }
       ],
       "category": "medical"
