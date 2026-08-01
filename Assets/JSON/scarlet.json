@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-07-31",
+  "versionDate": "2026-08-01",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -2664,32 +2664,6 @@
     },
     {
       "name": "Apollo",
-      "bundleIdentifier": "com.food.Apollo",
-      "developerName": "Christian Selig",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: ApolloImprovedCustomApi, CydiaSubstrate, RedditSideloadFix, substrate\n\n---\nApollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accom",
-      "version": "1.15.11",
-      "versionDate": "2025-12-31T04:31:09-00:00",
-      "versionDescription": "Build 285 from @binnichtaktivsipas",
-      "size": 88294649,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Apollo_1.15.11_1721981181.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Apollo_1.15.11_1721981181.ipa"
-      }
-    },
-    {
-      "name": "Apollo",
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Christian Selig",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: ApolloOpenInFix, ApolloReborn, CydiaSubstrate, FLEX\n\n---\nApollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accom",
@@ -2712,6 +2686,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Apollo-Reborn-3.5.0.ipa"
+      }
+    },
+    {
+      "name": "Apollo",
+      "bundleIdentifier": "com.food.Apollo",
+      "developerName": "Christian Selig",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: ApolloImprovedCustomApi, CydiaSubstrate, RedditSideloadFix, substrate\n\n---\nApollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accom",
+      "version": "1.15.11",
+      "versionDate": "2025-12-31T04:31:09-00:00",
+      "versionDescription": "Build 285 from @binnichtaktivsipas",
+      "size": 88294649,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Apollo_1.15.11_1721981181.ipa",
+      "minOSVersion": "10.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Apollo_1.15.11_1721981181.ipa"
       }
     },
     {
@@ -5472,12 +5472,12 @@
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "Wellocution Inc.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: BoldVoice, blatantsPatch\n\nBoldVoice: Accent Training\n\n---\nBoldVoice is the top-rated English speaking and pronunciation app, with over 2 million global users. Our Hollywood accent coaches and AI-powered feedback will help you achieve clear, confident pronunciation, with only 10 minutes of daily practice.\n\nWHY CHOOSE BOLDVOICE:\nLearn from professional accent coaches who train Hollywood actors\nRecord your voice and receive instant, AI-powered pronunciation feedback\nPractice with daily-life scenarios and professional conversations\nMonitor progress through",
-      "version": "4.2.4",
-      "versionDate": "2026-07-30T19:29:36-00:00",
-      "versionDescription": "Build 1 from @blatants",
-      "size": 136613856,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/66/48/636648f7-f980-0f15-46c6-418f53a9717c/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_2_4_Subscription_Unlocked_blatant_Patched.ipa",
+      "version": "4.2.5",
+      "versionDate": "2026-08-01T00:28:26-00:00",
+      "versionDescription": "Build 3 from @blatants",
+      "size": 136632992,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/4b/ff/074bff53-1dbe-9c0b-e646-6eb873ef0014/BoldVoice-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/BoldVoice_Accent_Training_v4_2_5_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "15.5",
       "supportedPlatforms": [
         "iOS"
@@ -5490,7 +5490,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "BoldVoice_Accent_Training_v4_2_4_Subscription_Unlocked_blatant_Patched.ipa"
+        "originalFile": "BoldVoice_Accent_Training_v4_2_5_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -6795,6 +6795,32 @@
     },
     {
       "name": "Canary",
+      "bundleIdentifier": "Mailroom.Canary-iOS.5AF666",
+      "developerName": "Canary Connect",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CanaryUnlocked, CydiaSubstrate\n\n---\nCanary is home security made simple. The Canary app works with our security devices to connect your home to your phone, allowing you to view and protect those that matter most.\n\nMonitor your home: Watch live or recorded HD videos day or night. Access Canary’s timeline for a living history of your home. Save and bookmark your favorite clips.\n\nIntelligent notifications: When Canary identifies something out of the ordinary, you’ll get a notification with recorded HD video of the event, as well as t",
+      "version": "4.96.0",
+      "versionDate": "2026-01-12T03:04:36-00:00",
+      "versionDescription": "Build 2051 from @binnichtaktivsipas",
+      "size": 88342141,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/47/b6/6a47b6a6-7b61-a9fc-52c0-a152a71e7bc0/AppIcon_Prod-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Canary_4.96.0_1754333728.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Canary_4.96.0_1754333728.ipa"
+      }
+    },
+    {
+      "name": "Canary",
       "bundleIdentifier": "Mailroom.Canary-iOS",
       "developerName": "Cartasec Pte. Ltd.",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26, blatantsPatch\n\nCanary Mail\n\n---\nOne inbox for Gmail, Outlook & iCloud.\nAI Copilot drafts, replies, and summarizes.\nRead receipts + email tracking built in.\n\n▶ WRITE EMAILS WITH AI ◀\n\n[ INTELLIGENT AI EMAIL WRITING ]\n• Let Canary’s AI Copilot write and proofread your emails for clarity and professionalism.\n\n[ AI COPILOT ]\n• Get AI-generated email suggestions, automated replies, AI summaries, and priority inbox insights.\n\n[ EMAIL TEMPLATES ]\n• Save and reuse your favorite email drafts with one tap.\n\n▶ STREAMLINED INBOX CONTROL ◀",
@@ -6821,17 +6847,17 @@
       }
     },
     {
-      "name": "Canary",
-      "bundleIdentifier": "Mailroom.Canary-iOS.5AF666",
-      "developerName": "Canary Connect",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CanaryUnlocked, CydiaSubstrate\n\n---\nCanary is home security made simple. The Canary app works with our security devices to connect your home to your phone, allowing you to view and protect those that matter most.\n\nMonitor your home: Watch live or recorded HD videos day or night. Access Canary’s timeline for a living history of your home. Save and bookmark your favorite clips.\n\nIntelligent notifications: When Canary identifies something out of the ordinary, you’ll get a notification with recorded HD video of the event, as well as t",
-      "version": "4.96.0",
-      "versionDate": "2026-01-12T03:04:36-00:00",
-      "versionDescription": "Build 2051 from @binnichtaktivsipas",
-      "size": 88342141,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/47/b6/6a47b6a6-7b61-a9fc-52c0-a152a71e7bc0/AppIcon_Prod-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Canary_4.96.0_1754333728.ipa",
-      "minOSVersion": "13.0",
+      "name": "CapCut",
+      "bundleIdentifier": "com.lemon.lvoverseas2",
+      "developerName": "Bytedance Pte. Ltd",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: IPAOMTK-Hack\n\nHere's your file!\n\n---\nCapCut offers easy-to-use video editing functions, in-APP fonts and effects, advanced features such as keyframe animation, smooth slow-motion, chroma key, and stabilization, to help you capture and snip moments.\n\nCreate fancy videos with other unique features: auto captions, text-to-speech, motion tracking, and background removal. Show your personality and go viral on TikTok, YouTube, Instagram, WhatsApp, and Facebook!\n\nFEATURES\nBasic video editing\n• Trim and shorten clips and split or merge vid",
+      "version": "13.9.2",
+      "versionDate": "2026-06-11T19:03:20-00:00",
+      "versionDescription": "Build 9.0.0.20 from @binnichtaktivsipas",
+      "size": 145132385,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/6a/09/f46a0998-37f4-91fc-4db8-74f1e7485960/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/CapCut-2-IPAOMTK.COM.ipa",
+      "minOSVersion": "10.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -6843,7 +6869,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Canary_4.96.0_1754333728.ipa"
+        "originalFile": "CapCut-2-IPAOMTK.COM.ipa"
       }
     },
     {
@@ -6870,32 +6896,6 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "CapCut-11.3.0.ipa"
-      }
-    },
-    {
-      "name": "CapCut",
-      "bundleIdentifier": "com.lemon.lvoverseas2",
-      "developerName": "Bytedance Pte. Ltd",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: IPAOMTK-Hack\n\nHere's your file!\n\n---\nCapCut offers easy-to-use video editing functions, in-APP fonts and effects, advanced features such as keyframe animation, smooth slow-motion, chroma key, and stabilization, to help you capture and snip moments.\n\nCreate fancy videos with other unique features: auto captions, text-to-speech, motion tracking, and background removal. Show your personality and go viral on TikTok, YouTube, Instagram, WhatsApp, and Facebook!\n\nFEATURES\nBasic video editing\n• Trim and shorten clips and split or merge vid",
-      "version": "13.9.2",
-      "versionDate": "2026-06-11T19:03:20-00:00",
-      "versionDescription": "Build 9.0.0.20 from @binnichtaktivsipas",
-      "size": 145132385,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/6a/09/f46a0998-37f4-91fc-4db8-74f1e7485960/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/CapCut-2-IPAOMTK.COM.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "CapCut-2-IPAOMTK.COM.ipa"
       }
     },
     {
@@ -9334,6 +9334,32 @@
     },
     {
       "name": "Compress",
+      "bundleIdentifier": "com.newmarketinglab.ImageCompressor",
+      "developerName": "New Marketing Lab, Inc",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Compress, blatantsPatch\n\nCompress Photos & Pictures\n\n---\nSave storage space on your iPhone or iPad by compressing your photos and reducing their size without reducing their quality.\n\n6 REASONS TO USE COMPRESS PHOTOS\n\n- Save space on your iPhone or iPad by reducing photos file size\n- Optimized for best image quality possible\n- Shrink photos to share them faster with friends and family\n- Quickly compress photos before posting them to social media\n- Very easy to use\n- Highly rated with an average of 4.5 stars\n\nREVIEWS FROM USERS\n\n\"Thank God for this app.",
+      "version": "3.3",
+      "versionDate": "2026-03-07T23:24:43-00:00",
+      "versionDescription": "Build 1 from @blatants",
+      "size": 4518272,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/32/7e/cf327e2e-2b6b-c711-94e6-3feb1b45fecc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Compress_Photos_._Pictures_v3_3_Premium_Unlocked_blatant_Patched.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@blatants",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Compress_Photos_&_Pictures_v3_3_Premium_Unlocked_blatant_Patched.ipa"
+      }
+    },
+    {
+      "name": "Compress",
       "bundleIdentifier": "com.newmarketinglab.CompressVideos",
       "developerName": "New Marketing Lab, Inc",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Compress, blatantsPatch\n\nCompress Videos & Resize Video\n\n---\nSave storage space on your iPhone or iPad by compressing your videos and reducing their size without reducing their quality.\n\n9 REASONS TO USE COMPRESS VIDEOS\n\n- Highly rated with an average of 4.7 stars\n- Save space on your iPhone or iPad by reducing videos file size\n- Optimized for best video quality possible\n- Very easy to use\n- Shrink videos to share them faster with friends and family\n- Quickly and easily compress videos before posting them to social media\n- No watermarks on your compressed",
@@ -9357,32 +9383,6 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Compress_Videos_&_Resize_Video_v2_16_Subscription_Unlocked_blatant.ipa"
-      }
-    },
-    {
-      "name": "Compress",
-      "bundleIdentifier": "com.newmarketinglab.ImageCompressor",
-      "developerName": "New Marketing Lab, Inc",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Compress, blatantsPatch\n\nCompress Photos & Pictures\n\n---\nSave storage space on your iPhone or iPad by compressing your photos and reducing their size without reducing their quality.\n\n6 REASONS TO USE COMPRESS PHOTOS\n\n- Save space on your iPhone or iPad by reducing photos file size\n- Optimized for best image quality possible\n- Shrink photos to share them faster with friends and family\n- Quickly compress photos before posting them to social media\n- Very easy to use\n- Highly rated with an average of 4.5 stars\n\nREVIEWS FROM USERS\n\n\"Thank God for this app.",
-      "version": "3.3",
-      "versionDate": "2026-03-07T23:24:43-00:00",
-      "versionDescription": "Build 1 from @blatants",
-      "size": 4518272,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/32/7e/cf327e2e-2b6b-c711-94e6-3feb1b45fecc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Compress_Photos_._Pictures_v3_3_Premium_Unlocked_blatant_Patched.ipa",
-      "minOSVersion": "13.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@blatants",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Compress_Photos_&_Pictures_v3_3_Premium_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -12004,32 +12004,6 @@
       }
     },
     {
-      "name": "DROPS",
-      "bundleIdentifier": "com.solesavy.mobile",
-      "developerName": "SoleSavy",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nDROPS by SoleSavy - Sneakers is your one stop shop for buying sneakers on the go! Whether you are a casual sneaker enthusiast or a dedicated collector, this app is your go-to tool for staying ahead of all sneaker releases. The DROPS by SoleSavy - Sneakers app will keep you up to date on the latest Sneaker News, Releases, Raffles, Restocks and Drops to help you build your collection. Download the DROPS by SoleSavy - Sneakers app now to secure sneakers for retail and avoid resale prices.\n\nKEY FEAT",
-      "version": "2.2.3",
-      "versionDate": "2026-03-03T17:35:45-00:00",
-      "versionDescription": "Build 2 from @thescholarslounge",
-      "size": 25056906,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/45/01/b64501c4-ac7c-7cbc-deae-321fde08512e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.solesavy.mobile-2.2.3-eeveedecrypter.ipa",
-      "minOSVersion": "13.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@thescholarslounge",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "com.solesavy.mobile-2.2.3-eeveedecrypter.ipa"
-      }
-    },
-    {
       "name": "Drops",
       "bundleIdentifier": "com.planblabs.drops.italian",
       "developerName": "PLANB LABS OU",
@@ -12054,6 +12028,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Drops__Language_Learning_Games_39.8_1776861176.ipa"
+      }
+    },
+    {
+      "name": "DROPS",
+      "bundleIdentifier": "com.solesavy.mobile",
+      "developerName": "SoleSavy",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nDROPS by SoleSavy - Sneakers is your one stop shop for buying sneakers on the go! Whether you are a casual sneaker enthusiast or a dedicated collector, this app is your go-to tool for staying ahead of all sneaker releases. The DROPS by SoleSavy - Sneakers app will keep you up to date on the latest Sneaker News, Releases, Raffles, Restocks and Drops to help you build your collection. Download the DROPS by SoleSavy - Sneakers app now to secure sneakers for retail and avoid resale prices.\n\nKEY FEAT",
+      "version": "2.2.3",
+      "versionDate": "2026-03-03T17:35:45-00:00",
+      "versionDescription": "Build 2 from @thescholarslounge",
+      "size": 25056906,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/45/01/b64501c4-ac7c-7cbc-deae-321fde08512e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.solesavy.mobile-2.2.3-eeveedecrypter.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.solesavy.mobile-2.2.3-eeveedecrypter.ipa"
       }
     },
     {
@@ -13148,16 +13148,16 @@
     },
     {
       "name": "ESign",
-      "bundleIdentifier": "KZ8MJR464R.k.xyz.yyyue.esign",
+      "bundleIdentifier": "nologs.xyz.yyyue.esign",
       "developerName": "Beijing Xiaoxiong Bowang Technology Co., Ltd.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nES File Explorer is a local and network file management tool that can help you manage files easily.\n\n【The main function】\n-File management\nYou can create new directories, rename, move, delete files, etc.\nSupport file sorting by name, date, size\nThe iPad version supports features such as split screen, picture-in-picture, and drag-and-drop operations between apps\n\n- file transfer\nWiFi transmission function: support the transfer of files between the mobile terminal and the computer terminal\nFace-to-",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nES File Explorer is a local and network file management tool that can help you manage files easily.\n\n【The main function】\n-File management\nYou can create new directories, rename, move, delete files, etc.\nSupport file sorting by name, date, size\nThe iPad version supports features such as split screen, picture-in-picture, and drag-and-drop operations between apps\n\n- file transfer\nWiFi transmission function: support the transfer of files between the mobile terminal and the computer terminal\nFace-to-",
       "version": "5.0.0",
-      "versionDate": "2025-12-31T04:11:24-00:00",
-      "versionDescription": "Build 1 from @binnichtaktivsipas",
-      "size": 15024026,
+      "versionDate": "2026-03-01T23:26:15-00:00",
+      "versionDescription": "Build 1 from @thescholarslounge",
+      "size": 14003752,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/be/54/dfbe5444-5035-8ec3-c243-97ce0554bb60/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/ESign_5.0.0_1725982229.ipa",
-      "minOSVersion": "10.0",
+      "downloadURL": "https://telos.ftp.sh/ipas/Esign-5.0NoLogs-1.1-zx.ipa",
+      "minOSVersion": "11.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -13166,10 +13166,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
+        "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "ESign_5.0.0_1725982229.ipa"
+        "originalFile": "Esign-5.0NoLogs-1.1-zx.ipa"
       }
     },
     {
@@ -13200,16 +13200,16 @@
     },
     {
       "name": "ESign",
-      "bundleIdentifier": "nologs.xyz.yyyue.esign",
+      "bundleIdentifier": "KZ8MJR464R.k.xyz.yyyue.esign",
       "developerName": "Beijing Xiaoxiong Bowang Technology Co., Ltd.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nES File Explorer is a local and network file management tool that can help you manage files easily.\n\n【The main function】\n-File management\nYou can create new directories, rename, move, delete files, etc.\nSupport file sorting by name, date, size\nThe iPad version supports features such as split screen, picture-in-picture, and drag-and-drop operations between apps\n\n- file transfer\nWiFi transmission function: support the transfer of files between the mobile terminal and the computer terminal\nFace-to-",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nES File Explorer is a local and network file management tool that can help you manage files easily.\n\n【The main function】\n-File management\nYou can create new directories, rename, move, delete files, etc.\nSupport file sorting by name, date, size\nThe iPad version supports features such as split screen, picture-in-picture, and drag-and-drop operations between apps\n\n- file transfer\nWiFi transmission function: support the transfer of files between the mobile terminal and the computer terminal\nFace-to-",
       "version": "5.0.0",
-      "versionDate": "2026-03-01T23:26:15-00:00",
-      "versionDescription": "Build 1 from @thescholarslounge",
-      "size": 14003752,
+      "versionDate": "2025-12-31T04:11:24-00:00",
+      "versionDescription": "Build 1 from @binnichtaktivsipas",
+      "size": 15024026,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/be/54/dfbe5444-5035-8ec3-c243-97ce0554bb60/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Esign-5.0NoLogs-1.1-zx.ipa",
-      "minOSVersion": "11.0",
+      "downloadURL": "https://telos.ftp.sh/ipas/ESign_5.0.0_1725982229.ipa",
+      "minOSVersion": "10.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -13218,10 +13218,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@thescholarslounge",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Esign-5.0NoLogs-1.1-zx.ipa"
+        "originalFile": "ESign_5.0.0_1725982229.ipa"
       }
     },
     {
@@ -13765,32 +13765,6 @@
       }
     },
     {
-      "name": "Facelab",
-      "bundleIdentifier": "com.photo.beautytuneapp",
-      "developerName": "IRONTECH LIMITED",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Facelab, blatantsPatch\n\nFacelab: Face & Body Editor\n\n---\nEASY-TO-USE & SMART WITH EVERY SELFIE! Stands out among the popular apps for refining photos and features hundreds of intuitive tools.\nFacelab knows how to hide your flaws and play up your beauty. It’s your go-to set of powerful tools for any edits! Authenticity is key. Make your features stand out and enhance selfies with ai auto-beautification. Edit selfies for professional-looking portraits with a versatile Facelab editor.\n\nTouch up photos with single-touch retouch feature effortlessly while",
-      "version": "2.93",
-      "versionDate": "2026-06-23T13:35:29-00:00",
-      "versionDescription": "Build 390 from @blatants",
-      "size": 390035544,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/b4/de/b7b4deeb-d5a2-d442-b83b-02631aa414bb/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Facelab_Face_&_Body_Editor_v2_93_Subscription_Unlocked_blatant_Patched.ipa",
-      "minOSVersion": "18",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@blatants",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Facelab_Face_&_Body_Editor_v2_93_Subscription_Unlocked_blatant_Patched.ipa"
-      }
-    },
-    {
       "name": "FaceLab",
       "bundleIdentifier": "com.lyrebirdstudio.facelab",
       "developerName": "Lyrebird Studio",
@@ -13815,6 +13789,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "FaceLab Hair Editor Premium 4.46.0.ipa"
+      }
+    },
+    {
+      "name": "Facelab",
+      "bundleIdentifier": "com.photo.beautytuneapp",
+      "developerName": "IRONTECH LIMITED",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Facelab, blatantsPatch\n\nFacelab: Face & Body Editor\n\n---\nEASY-TO-USE & SMART WITH EVERY SELFIE! Stands out among the popular apps for refining photos and features hundreds of intuitive tools.\nFacelab knows how to hide your flaws and play up your beauty. It’s your go-to set of powerful tools for any edits! Authenticity is key. Make your features stand out and enhance selfies with ai auto-beautification. Edit selfies for professional-looking portraits with a versatile Facelab editor.\n\nTouch up photos with single-touch retouch feature effortlessly while",
+      "version": "2.93",
+      "versionDate": "2026-06-23T13:35:29-00:00",
+      "versionDescription": "Build 390 from @blatants",
+      "size": 390035544,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/b4/de/b7b4deeb-d5a2-d442-b83b-02631aa414bb/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Facelab_Face_&_Body_Editor_v2_93_Subscription_Unlocked_blatant_Patched.ipa",
+      "minOSVersion": "18",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@blatants",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Facelab_Face_&_Body_Editor_v2_93_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -18125,32 +18125,6 @@
     },
     {
       "name": "GTA: SA",
-      "bundleIdentifier": "com.rockstargames.gta3sa",
-      "developerName": "Rockstar Games",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nGTA: SA\n\n---\nPLEASE NOTE: This game is officially supported on the following devices only: iPhone 4s, 5, 5s, 5c, 6, 6s, 6 Plus, SE, 7, 7 Plus, iPod Touch 6th Gen, iPad Mini 1, 2, 3 & 4, iPad 2, 3rd Gen, 4th Gen, iPad Air 1 & 2, and iPad Pro.\n\nFive years ago, Carl Johnson escaped from the pressures of life in Los Santos, San Andreas, a city tearing itself apart with gang trouble, drugs and corruption. Where filmstars and millionaires do their best to avoid the dealers and gangbangers.\n\nNow, it’s the early 90’",
-      "version": "2.2.21",
-      "versionDate": "2026-02-28T19:49:12-00:00",
-      "versionDescription": "Build 2025.0311.1526 from @thescholarslounge",
-      "size": 1900750413,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/02/f2/c002f295-cf73-0278-8e73-d8d1f9e7a9af/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Grand.Theft.Auto.San.Andreas-2.2.21.ipa",
-      "minOSVersion": "13.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@thescholarslounge",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Grand Theft Auto San Andreas-2.2.21.ipa"
-      }
-    },
-    {
-      "name": "GTA: SA",
       "bundleIdentifier": "com.rockstargames.gtasa.de",
       "developerName": "Rockstar Games",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nGTA: San Andreas - Definitive ( KamoHacks Special ) 🆕\n\n---\nFive years ago, Carl ‘CJ’ Johnson escaped the haze of Los Santos, San Andreas...a city tearing itself apart with gang trouble, drugs, and corruption. Now, it's the early 90s. CJ’s got to go home - his mother has been murdered, his family has fallen apart, and his childhood friends are all heading towards disaster. On his return to the neighborhood, a couple of cops frame him for homicide, forcing CJ on a journey that takes him across the entire state of San Andreas, to save his family and to tak",
@@ -18173,6 +18147,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "GTA: SA - KamoHacks [1.72.4].ipa"
+      }
+    },
+    {
+      "name": "GTA: SA",
+      "bundleIdentifier": "com.rockstargames.gta3sa",
+      "developerName": "Rockstar Games",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nGTA: SA\n\n---\nPLEASE NOTE: This game is officially supported on the following devices only: iPhone 4s, 5, 5s, 5c, 6, 6s, 6 Plus, SE, 7, 7 Plus, iPod Touch 6th Gen, iPad Mini 1, 2, 3 & 4, iPad 2, 3rd Gen, 4th Gen, iPad Air 1 & 2, and iPad Pro.\n\nFive years ago, Carl Johnson escaped from the pressures of life in Los Santos, San Andreas, a city tearing itself apart with gang trouble, drugs and corruption. Where filmstars and millionaires do their best to avoid the dealers and gangbangers.\n\nNow, it’s the early 90’",
+      "version": "2.2.21",
+      "versionDate": "2026-02-28T19:49:12-00:00",
+      "versionDescription": "Build 2025.0311.1526 from @thescholarslounge",
+      "size": 1900750413,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/02/f2/c002f295-cf73-0278-8e73-d8d1f9e7a9af/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Grand.Theft.Auto.San.Andreas-2.2.21.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Grand Theft Auto San Andreas-2.2.21.ipa"
       }
     },
     {
@@ -20741,31 +20741,6 @@
     },
     {
       "name": "Instagram",
-      "bundleIdentifier": "com.burbn.instagram.5AF666",
-      "developerName": "Instagram, Inc.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, IGFormat, IGHDMedia, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
-      "version": "391.0.0",
-      "versionDate": "2026-01-02T17:54:42-00:00",
-      "versionDescription": "Build 768658801 from @binnichtaktivsipas",
-      "size": 258235889,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/bb/32/d0bb325d-2d18-6be0-5d72-3f55b571ce50/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Instagram_391.0.0_1754241431.ipa",
-      "minOSVersion": "15.1",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Instagram_391.0.0_1754241431.ipa"
-      }
-    },
-    {
-      "name": "Instagram",
       "bundleIdentifier": "com.fouadraheb.regram",
       "developerName": "Instagram, Inc.",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: Regram, RegramExtension\n\nRegram for Instagram Duplicate\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
@@ -20788,6 +20763,31 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "com.fouadraheb.regram_434.0.0_regram_5.0_sl.ipa"
+      }
+    },
+    {
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram.5AF666",
+      "developerName": "Instagram, Inc.",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, IGFormat, IGHDMedia, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
+      "version": "391.0.0",
+      "versionDate": "2026-01-02T17:54:42-00:00",
+      "versionDescription": "Build 768658801 from @binnichtaktivsipas",
+      "size": 258235889,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/bb/32/d0bb325d-2d18-6be0-5d72-3f55b571ce50/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Instagram_391.0.0_1754241431.ipa",
+      "minOSVersion": "15.1",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Instagram_391.0.0_1754241431.ipa"
       }
     },
     {
@@ -29710,32 +29710,6 @@
     },
     {
       "name": "Nuvio",
-      "bundleIdentifier": "com.nuvio.app",
-      "developerName": "RGN VENTURES LTD",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nNuvio\n\n---\nNuvio – Master Your Cold Plunge Routine\nTake control of your recovery like never before. The Nuvio app seamlessly connects to your Recovery Chiller, giving you full command over your cold plunge experience—anytime, anywhere. No ice. No hassle. Just cold, clean performance on your schedule.\nPERSONALIZED CONTROL. PEAK PERFORMANCE.\nDial in your perfect temperature, schedule sessions in advance, activate purification, and monitor your plunge history—all from your phone. Nuvio is designed to fit your",
-      "version": "1.2.9",
-      "versionDate": "2026-03-01T15:03:30-00:00",
-      "versionDescription": "Build 24 from @thescholarslounge",
-      "size": 54170603,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Stable_1-2-9.ipa",
-      "minOSVersion": "15.1",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@thescholarslounge",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Stable_1-2-9.ipa"
-      }
-    },
-    {
-      "name": "Nuvio",
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "RGN VENTURES LTD",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nNuvio\n\n---\nNuvio – Master Your Cold Plunge Routine\nTake control of your recovery like never before. The Nuvio app seamlessly connects to your Recovery Chiller, giving you full command over your cold plunge experience—anytime, anywhere. No ice. No hassle. Just cold, clean performance on your schedule.\nPERSONALIZED CONTROL. PEAK PERFORMANCE.\nDial in your perfect temperature, schedule sessions in advance, activate purification, and monitor your plunge history—all from your phone. Nuvio is designed to fit your",
@@ -29784,6 +29758,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Stable_1-4-2.ipa"
+      }
+    },
+    {
+      "name": "Nuvio",
+      "bundleIdentifier": "com.nuvio.app",
+      "developerName": "RGN VENTURES LTD",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nNuvio\n\n---\nNuvio – Master Your Cold Plunge Routine\nTake control of your recovery like never before. The Nuvio app seamlessly connects to your Recovery Chiller, giving you full command over your cold plunge experience—anytime, anywhere. No ice. No hassle. Just cold, clean performance on your schedule.\nPERSONALIZED CONTROL. PEAK PERFORMANCE.\nDial in your perfect temperature, schedule sessions in advance, activate purification, and monitor your plunge history—all from your phone. Nuvio is designed to fit your",
+      "version": "1.2.9",
+      "versionDate": "2026-03-01T15:03:30-00:00",
+      "versionDescription": "Build 24 from @thescholarslounge",
+      "size": 54170603,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/11/b5/0b11b50a-7f7b-64c1-e8b4-7cc864a30a54/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Stable_1-2-9.ipa",
+      "minOSVersion": "15.1",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Stable_1-2-9.ipa"
       }
     },
     {
@@ -30513,32 +30513,6 @@
     },
     {
       "name": "Opener",
-      "bundleIdentifier": "com.tijo.opener.Opener",
-      "developerName": "tijo, inc.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nOpener is an app that allows you to open links from the web in apps instead! Copy a link and launch Opener to see the apps that it can be opened in, or use Opener's action extension right from other apps! Opener currently supports over 280 apps with more being added all the time.\n\nIn addition to opening links in apps, Opener also supports:\n- Opening links in any browser of your choice.\n- Creating QR codes and shortened links using the long press menu.\n- Previewing links from a variety of popular",
-      "version": "1.14.5",
-      "versionDate": "2026-03-19T04:34:27-00:00",
-      "versionDescription": "Build 4 from @binnichtaktivsipas",
-      "size": 795118,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/20/46/f42046f2-474a-c50a-7213-472e51be26ff/AppIcon-0-0-1x_U007epad-0-5-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Opener.1.14.5.Crash.ipa",
-      "minOSVersion": "15.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Opener 1.14.5 (Crash).ipa"
-      }
-    },
-    {
-      "name": "Opener",
       "bundleIdentifier": "pineapplelabs.Opener",
       "developerName": "Big Pineapple LLC",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nOPENER. An ultra-efficient Safari Extension that opens sites in app. Choose between over 200+ apps to open from Safari.\n\nPRIVATE\nOpener does not collect or store any of your data - nothing leaves your device.\n\nBUY ONCE\nOpen any one app for free and unlock unlimited apps with a one-time purchase. No subscriptions, no ads, no nonsense.\n\nFAST\nOpener performs a quick redirect from Safari to the selected apps.\n\nSIMPLE\nIt's as easy as downloading Opener and enabling it in Safari settings. No maintenan",
@@ -30561,6 +30535,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "pineapplelabs.Opener-1.14-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "Opener",
+      "bundleIdentifier": "com.tijo.opener.Opener",
+      "developerName": "tijo, inc.",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nOpener is an app that allows you to open links from the web in apps instead! Copy a link and launch Opener to see the apps that it can be opened in, or use Opener's action extension right from other apps! Opener currently supports over 280 apps with more being added all the time.\n\nIn addition to opening links in apps, Opener also supports:\n- Opening links in any browser of your choice.\n- Creating QR codes and shortened links using the long press menu.\n- Previewing links from a variety of popular",
+      "version": "1.14.5",
+      "versionDate": "2026-03-19T04:34:27-00:00",
+      "versionDescription": "Build 4 from @binnichtaktivsipas",
+      "size": 795118,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/20/46/f42046f2-474a-c50a-7213-472e51be26ff/AppIcon-0-0-1x_U007epad-0-5-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Opener.1.14.5.Crash.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Opener 1.14.5 (Crash).ipa"
       }
     },
     {
@@ -30850,32 +30850,6 @@
     },
     {
       "name": "Osmosis",
-      "bundleIdentifier": "com.osmose-it.osmosis",
-      "developerName": "Knowledge Diffusion",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, OsmosisMedical, blatantsPatch\n\nOsmosis - Med School Study App\n\n---\nStruggling to understand medical concepts or prepare for the USMLE? Osmosis is the medical exam study app designed to help med students learn medicine faster, improve information retention and pass medical board exams with flying colours.\n\nTrusted by 8,000,000+ medical, nursing, PA, pharmacy and dental students, this medical learning app turns downtime into productive study time with an expansive library of medical videos, flashcards, quizzes, exam-style questions and more.\n\nInstead of memorizin",
-      "version": "6.0.8",
-      "versionDate": "2026-07-16T19:53:00-00:00",
-      "versionDescription": "Build 193 from @blatants",
-      "size": 27807455,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/1a/9f/711a9f8e-2434-4ecf-2d61-34f515734147/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Med_School_Study_App_v6_0_8_Subscription_Unlocked_blatant.ipa",
-      "minOSVersion": "15.1",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@blatants",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Osmosis_Med_School_Study_App_v6_0_8_Subscription_Unlocked_blatant.ipa"
-      }
-    },
-    {
-      "name": "Osmosis",
       "bundleIdentifier": "com.osmose-it.nursing",
       "developerName": "Knowledge Diffusion",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, OsmosisNursing, blatantsPatch\n\nOsmosis - Nursing Exam Prep\n\n---\nStruggling to understand nursing concepts or prepare for your NCLEX exam? The reading never ends, the exams keep coming and some days it feels like too much. Nursing Exam Prep by Osmosis creates hundreds of short, illustrated nursing and essential sciences videos so you can focus on what matters most without drowning in the rest.\n\nWith Nursing Exam Prep, you can study smarter, retain more and apply what you have learned in an exam environment. The app offers videos, NCLEX-style questions, med ta",
@@ -30898,6 +30872,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Osmosis_Nursing_Exam_Prep_v6_0_8_Subscription_Unlocked_blatant_Patched.ipa"
+      }
+    },
+    {
+      "name": "Osmosis",
+      "bundleIdentifier": "com.osmose-it.osmosis",
+      "developerName": "Knowledge Diffusion",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, OsmosisMedical, blatantsPatch\n\nOsmosis - Med School Study App\n\n---\nStruggling to understand medical concepts or prepare for the USMLE? Osmosis is the medical exam study app designed to help med students learn medicine faster, improve information retention and pass medical board exams with flying colours.\n\nTrusted by 8,000,000+ medical, nursing, PA, pharmacy and dental students, this medical learning app turns downtime into productive study time with an expansive library of medical videos, flashcards, quizzes, exam-style questions and more.\n\nInstead of memorizin",
+      "version": "6.0.8",
+      "versionDate": "2026-07-16T19:53:00-00:00",
+      "versionDescription": "Build 193 from @blatants",
+      "size": 27807455,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/1a/9f/711a9f8e-2434-4ecf-2d61-34f515734147/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Osmosis_Med_School_Study_App_v6_0_8_Subscription_Unlocked_blatant.ipa",
+      "minOSVersion": "15.1",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@blatants",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Osmosis_Med_School_Study_App_v6_0_8_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -34979,31 +34979,6 @@
       }
     },
     {
-      "name": "pure",
-      "bundleIdentifier": "com.example.purecamera",
-      "developerName": "Trevor Welsh",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nUnleash your full potential with @AppleTesters\n\n---\nCapture the moment, enjoy the surprise. With pure, there's no camera preview – just point, shoot, and discover the beauty later. Each photo will receive a vibrant and vintage filter, bringing a nostalgic charm to your memories.\n\n- No Screen Preview: Focus on the moment, not the viewfinder.\n- Effortless Shooting: Simply aim your device and tap anywhere on screen to capture.\n- Vintage Effects: Relive memories with an automatically applied nostalgic touch.\n- Shot Limit: 12 shots every 12 hours, cap",
-      "version": "1.0.7",
-      "versionDate": "2026-01-02T17:36:54-00:00",
-      "versionDescription": "Build 1 from @binnichtaktivsipas",
-      "size": 1252418,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4e/9e/cd4e9e41-6f2a-b9c0-2954-fc539834245d/AppIcon-0-0-1x_U007ephone-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/pure-v1.0.7-AppTesters.ipa",
-      "minOSVersion": "16.4",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "pure-v1.0.7-AppTesters.ipa"
-      }
-    },
-    {
       "name": "Pure",
       "bundleIdentifier": "org.getpure.pure-iphone",
       "developerName": "Online Classifieds AG",
@@ -35026,6 +35001,31 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "org.getpure.pure-iphone-3.25.1-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "pure",
+      "bundleIdentifier": "com.example.purecamera",
+      "developerName": "Trevor Welsh",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nUnleash your full potential with @AppleTesters\n\n---\nCapture the moment, enjoy the surprise. With pure, there's no camera preview – just point, shoot, and discover the beauty later. Each photo will receive a vibrant and vintage filter, bringing a nostalgic charm to your memories.\n\n- No Screen Preview: Focus on the moment, not the viewfinder.\n- Effortless Shooting: Simply aim your device and tap anywhere on screen to capture.\n- Vintage Effects: Relive memories with an automatically applied nostalgic touch.\n- Shot Limit: 12 shots every 12 hours, cap",
+      "version": "1.0.7",
+      "versionDate": "2026-01-02T17:36:54-00:00",
+      "versionDescription": "Build 1 from @binnichtaktivsipas",
+      "size": 1252418,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4e/9e/cd4e9e41-6f2a-b9c0-2954-fc539834245d/AppIcon-0-0-1x_U007ephone-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/pure-v1.0.7-AppTesters.ipa",
+      "minOSVersion": "16.4",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "pure-v1.0.7-AppTesters.ipa"
       }
     },
     {
@@ -36201,12 +36201,12 @@
       "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
       "developerName": "Glucobit Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nReframe: Drink Less & Thrive\n\n---\nReframe is the #1 alcohol reduction app, built to help you drink less and live more. Whether your goal is to cut back or quit drinking entirely, Reframe’s neuroscience approach can help you change the way alcohol shows up in your life.\n\nWith a core 160-day, evidence-based, education program, progress tracking, a private community, and a multitude of tools (think meditations, games, and more!), you’ve got everything you need to change your relationship with booze at the click of a button.\n\nNeed e",
-      "version": "3.9.80",
-      "versionDate": "2026-07-29T10:39:46-00:00",
-      "versionDescription": "Build 2632 from @riftysIPAlibrary",
-      "size": 251353657,
+      "version": "3.9.81",
+      "versionDate": "2026-08-01T00:34:11-00:00",
+      "versionDescription": "Build 2749 from @riftysIPAlibrary",
+      "size": 256022359,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/3c/db/653cdb99-f52b-5d20-2233-b839cb06a175/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.80-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Reframe: Drink Less & Thrive-v3.9.81-riftysipas.ipa",
       "minOSVersion": "16.4",
       "supportedPlatforms": [
         "iOS"
@@ -36218,7 +36218,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Reframe: Drink Less & Thrive-v3.9.80-riftysipas.ipa"
+        "originalFile": "Reframe: Drink Less & Thrive-v3.9.81-riftysipas.ipa"
       }
     },
     {
@@ -42345,31 +42345,6 @@
     },
     {
       "name": "Stremio",
-      "bundleIdentifier": "com.stremio.ios",
-      "developerName": "Toan Nguyen",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nBest Soap2Day MovieBox and TV Shows you a fantastic way to discover any movies\n\nSoap2Days with more than 10.000+ attractive movies, provides the fastest and effortless method to find and discover any movies just in yourmobile device\n\nFeatures App:\n Do not need to register an account\n Biggest movies database with more than 100.000 movies & TV show always update frequently\n Show details, series, seasons, episode TV show\n Play latest official movie trailer\n Time saving with great searching UI\n Save",
-      "version": "1.3.6",
-      "versionDate": "2026-03-01T00:02:18-00:00",
-      "versionDescription": "Build 7 from @thescholarslounge",
-      "size": 77258023,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f3/71/9d/f3719df1-d7f4-8d47-7636-a167430b2615/AppIcon3-1x_U007epad-0-10-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/stremio_tvOS.ipa",
-      "minOSVersion": "26.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        3
-      ],
-      "metadata": {
-        "sourceChannel": "@thescholarslounge",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "stremio_tvOS.ipa"
-      }
-    },
-    {
-      "name": "Stremio",
       "bundleIdentifier": "com.stremio.pal",
       "developerName": "Jamie Harper",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nStermio is a modern video local that makes it easy to watch your content in one place. Import videos from the Files app or Photos, watch from links, and enjoy smooth playback in a clean, premium interface.\n\nBuilt for everyday viewing, Stermio helps you organize your library, quickly reopen recent videos, and keep watching with intuitive controls.",
@@ -42392,6 +42367,31 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "stremio_iOS 2.0.2.ipa"
+      }
+    },
+    {
+      "name": "Stremio",
+      "bundleIdentifier": "com.stremio.ios",
+      "developerName": "Toan Nguyen",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nBest Soap2Day MovieBox and TV Shows you a fantastic way to discover any movies\n\nSoap2Days with more than 10.000+ attractive movies, provides the fastest and effortless method to find and discover any movies just in yourmobile device\n\nFeatures App:\n Do not need to register an account\n Biggest movies database with more than 100.000 movies & TV show always update frequently\n Show details, series, seasons, episode TV show\n Play latest official movie trailer\n Time saving with great searching UI\n Save",
+      "version": "1.3.6",
+      "versionDate": "2026-03-01T00:02:18-00:00",
+      "versionDescription": "Build 7 from @thescholarslounge",
+      "size": 77258023,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f3/71/9d/f3719df1-d7f4-8d47-7636-a167430b2615/AppIcon3-1x_U007epad-0-10-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/stremio_tvOS.ipa",
+      "minOSVersion": "26.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        3
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "stremio_tvOS.ipa"
       }
     },
     {
@@ -45135,6 +45135,32 @@
     },
     {
       "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically702",
+      "developerName": "TikTok Ltd.",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: BHTikTokPlus, CydiaSubstrate, GoogleServices, HelpshiftX, substrate\n\n---\nTikTok is THE destination for mobile videos. On TikTok, short-form videos are exciting, spontaneous, and genuine. Whether you’re a sports fanatic, a pet enthusiast, or just looking for a laugh, there’s something for everyone on TikTok. All you have to do is watch, engage with what you like, skip what you don’t, and you’ll find an endless stream of short videos that feel personalized just for you. From your morning coffee to your afternoon errands, TikTok has the videos that are guaranteed to mak",
+      "version": "34.1.0",
+      "versionDate": "2026-01-24T16:51:42-00:00",
+      "versionDescription": "Build 341018 from @binnichtaktivsipas",
+      "size": 249216248,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/03/5f/2d035f23-8442-8e5e-ad4a-939c62dc483b/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/TikTok_34.1.0_1727366640.ipa",
+      "minOSVersion": "10.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "TikTok_34.1.0_1727366640.ipa"
+      }
+    },
+    {
+      "name": "TikTok",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok Ltd.",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: FLEX, FLEXing, ___RXTikTok, substrate\n\nRXTikTok has been cracked\n\n---\nTikTok is the global discovery platform for videos, streaming on LIVE, shopping, and more. Our mission is to inspire creativity and bring joy. Over a billion people come to TikTok to share what they love, learn new things, and find ideas that make everyday life more interesting.\n\nYour experience on TikTok is built around what you're into, not who you know. Just watch, like, and scroll to discover videos, creators, and communities you are delighted to discover. From quick recipes to game highligh",
@@ -45183,32 +45209,6 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "TikTok - [v41.9.0].ipa"
-      }
-    },
-    {
-      "name": "TikTok",
-      "bundleIdentifier": "com.zhiliaoapp.musically702",
-      "developerName": "TikTok Ltd.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: BHTikTokPlus, CydiaSubstrate, GoogleServices, HelpshiftX, substrate\n\n---\nTikTok is THE destination for mobile videos. On TikTok, short-form videos are exciting, spontaneous, and genuine. Whether you’re a sports fanatic, a pet enthusiast, or just looking for a laugh, there’s something for everyone on TikTok. All you have to do is watch, engage with what you like, skip what you don’t, and you’ll find an endless stream of short videos that feel personalized just for you. From your morning coffee to your afternoon errands, TikTok has the videos that are guaranteed to mak",
-      "version": "34.1.0",
-      "versionDate": "2026-01-24T16:51:42-00:00",
-      "versionDescription": "Build 341018 from @binnichtaktivsipas",
-      "size": 249216248,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/03/5f/2d035f23-8442-8e5e-ad4a-939c62dc483b/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/TikTok_34.1.0_1727366640.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "TikTok_34.1.0_1727366640.ipa"
       }
     },
     {
@@ -45394,32 +45394,6 @@
     },
     {
       "name": "Timetable",
-      "bundleIdentifier": "izzyumkim.Timetable",
-      "developerName": "RAISIN APPS LTD",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nᵕ̈ Class schedule - Timetable ᵕ̈\n\n---\nTibly — the smart way to keep your schedule, events, and tasks under control. It brings everything into one place, helps you plan ahead with timely reminders, and adapts to any routine — from simple weekly repeats to complex rotating shifts.\n\nBuilt for flexibility and clarity, it’s easy to add events, set precise alerts, track progress, and stay focused with live countdowns and clean stats. With iCloud and Apple Calendar, your plans stay synced and ready wherever you are, and sharing a schedule",
-      "version": "1.6.4",
-      "versionDate": "2026-01-11T23:45:20-00:00",
-      "versionDescription": "Build 1 from @binnichtaktivsipas",
-      "size": 40423142,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/96/cd/c496cda4-93b9-3cd8-06bd-2cc16f058bf5/AppIconGrid1-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/Timetable_1.6.4_tg@Sa1y0miii.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Timetable_1.6.4_tg@Sa1y0miii.ipa"
-      }
-    },
-    {
-      "name": "Timetable",
       "bundleIdentifier": "fr.adriencarvalot.Timetable",
       "developerName": "Kodeon, Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMy Timetable - Quick & Simple\n\n---\nThe fastest way to build your class schedule — set up your whole week in under 5 minutes and see every lesson, assignment and event at a glance.\n\nPerfect for high school, college and university students (and anyone planning a busy week at work), My Timetable turns a blank week into a color-coded, reminder-driven plan you'll actually use.\n\n- FEATURES -\n\n• Build your full week in under 5 minutes\n• Home-screen widgets — see your next class at a glance\n• Smart notifications so you never miss a class",
@@ -45442,6 +45416,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "My Timetable - Quick & Simple-v3.1.0-riftysipas.ipa"
+      }
+    },
+    {
+      "name": "Timetable",
+      "bundleIdentifier": "izzyumkim.Timetable",
+      "developerName": "RAISIN APPS LTD",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nᵕ̈ Class schedule - Timetable ᵕ̈\n\n---\nTibly — the smart way to keep your schedule, events, and tasks under control. It brings everything into one place, helps you plan ahead with timely reminders, and adapts to any routine — from simple weekly repeats to complex rotating shifts.\n\nBuilt for flexibility and clarity, it’s easy to add events, set precise alerts, track progress, and stay focused with live countdowns and clean stats. With iCloud and Apple Calendar, your plans stay synced and ready wherever you are, and sharing a schedule",
+      "version": "1.6.4",
+      "versionDate": "2026-01-11T23:45:20-00:00",
+      "versionDescription": "Build 1 from @binnichtaktivsipas",
+      "size": 40423142,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/96/cd/c496cda4-93b9-3cd8-06bd-2cc16f058bf5/AppIconGrid1-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/Timetable_1.6.4_tg@Sa1y0miii.ipa",
+      "minOSVersion": "10.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Timetable_1.6.4_tg@Sa1y0miii.ipa"
       }
     },
     {
@@ -46794,32 +46794,6 @@
     },
     {
       "name": "TV Remote",
-      "bundleIdentifier": "com.companjenapps.UniMote",
-      "developerName": "Zap Software Studio BV",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: Fixipa1, Fixipa2, TvRemoteSy, substrate\n\nApplication Tv Remote\n\n---\nWith Universal Remote, you can control your Smart TV with just your phone!\nThis versatile app supports a wide range of TV brands and models, eliminating the need for multiple remote controls.\n\nDownload Universal Remote today and simplify your TV-watching experience!\n\nIt works with the most popular brands:\n- LG\n- Roku\n- Samsung\n- Sony\n- Philips\n\nThis application is an independent development, compatible with the mentioned brands or companies, but it is not officially related to or associated with",
-      "version": "1.18",
-      "versionDate": "2026-03-01T07:03:14-00:00",
-      "versionDescription": "Build 229 from @thescholarslounge",
-      "size": 17819069,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/c1/75/bdc1752f-9e69-3c2c-b058-f88fa5c96039/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/TV.Remote_1.18_3BodSy.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@thescholarslounge",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "TV Remote_1.18_3BodSy.ipa"
-      }
-    },
-    {
-      "name": "TV Remote",
       "bundleIdentifier": "evolly.app.rokuremote",
       "developerName": "EVOLLY.APP",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nTV Remote is the ultimate solution for controlling your Smart TV from the comfort of your phone. With its easy-to-use interface and compatibility with various TV brands such as Samsung, Roku, LG, Sony, FireTV, AndroidTV, Vizio, and Hisense, this app lets you take charge of your TV viewing experience. You can connect your device to your TV via WIFI, and enjoy full control of your TV functions, including volume, channels, input sources, and more, right from your mobile device. Whether you're watch",
@@ -46842,6 +46816,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "evolly.app.rokuremote-2.1.0-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "TV Remote",
+      "bundleIdentifier": "com.companjenapps.UniMote",
+      "developerName": "Zap Software Studio BV",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: Fixipa1, Fixipa2, TvRemoteSy, substrate\n\nApplication Tv Remote\n\n---\nWith Universal Remote, you can control your Smart TV with just your phone!\nThis versatile app supports a wide range of TV brands and models, eliminating the need for multiple remote controls.\n\nDownload Universal Remote today and simplify your TV-watching experience!\n\nIt works with the most popular brands:\n- LG\n- Roku\n- Samsung\n- Sony\n- Philips\n\nThis application is an independent development, compatible with the mentioned brands or companies, but it is not officially related to or associated with",
+      "version": "1.18",
+      "versionDate": "2026-03-01T07:03:14-00:00",
+      "versionDescription": "Build 229 from @thescholarslounge",
+      "size": 17819069,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/c1/75/bdc1752f-9e69-3c2c-b058-f88fa5c96039/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/TV.Remote_1.18_3BodSy.ipa",
+      "minOSVersion": "10.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "TV Remote_1.18_3BodSy.ipa"
       }
     },
     {
@@ -51785,6 +51785,33 @@
     },
     {
       "name": "‎WA Business",
+      "bundleIdentifier": "net.whatsapp.WhatsAppSMB.2TL3L98KKA",
+      "developerName": "WhatsApp Inc.",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Cycript, CydiaSubstrate, WhatsAppRevael\n\nWhatsApp Business 26.8.76 injected with Raveal\n\n---\nAbout this app\n\nEverything you love about WhatsApp plus built-in tools for business\nWhatsApp Business is a free-to-download app with built-in tools to help you work smarter, build trust, and grow your business.\n\nYou get free calls and free international messaging plus business features to help you do more with conversations.\n\nDownload the app to get business benefits like these:\n\n• Work smarter. Save time by letting the app do the work for you! Send customers automated quick replies and away mes",
+      "version": "26.8.76",
+      "versionDate": "2026-03-08T19:47:32-00:00",
+      "versionDescription": "Build 899056762 from @binnichtaktivsipas",
+      "size": 123459549,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/d4/b2/a1d4b276-cb04-c596-fd73-41cb908b1fb8/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/WABusinessRaveal.ipa",
+      "minOSVersion": "15.1",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        0,
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "WABusinessRaveal.ipa"
+      }
+    },
+    {
+      "name": "‎WA Business",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
       "developerName": "WhatsApp Inc.",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nAbout this app\n\nEverything you love about WhatsApp plus built-in tools for business\nWhatsApp Business is a free-to-download app with built-in tools to help you work smarter, build trust, and grow your business.\n\nYou get free calls and free international messaging plus business features to help you do more with conversations.\n\nDownload the app to get business benefits like these:\n\n• Work smarter. Save time by letting the app do the work for you! Send customers automated quick replies and away mes",
@@ -51835,33 +51862,6 @@
     },
     {
       "name": "‎WA Business",
-      "bundleIdentifier": "net.whatsapp.WhatsAppSMB.2TL3L98KKA",
-      "developerName": "WhatsApp Inc.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Cycript, CydiaSubstrate, WhatsAppRevael\n\nWhatsApp Business 26.8.76 injected with Raveal\n\n---\nAbout this app\n\nEverything you love about WhatsApp plus built-in tools for business\nWhatsApp Business is a free-to-download app with built-in tools to help you work smarter, build trust, and grow your business.\n\nYou get free calls and free international messaging plus business features to help you do more with conversations.\n\nDownload the app to get business benefits like these:\n\n• Work smarter. Save time by letting the app do the work for you! Send customers automated quick replies and away mes",
-      "version": "26.8.76",
-      "versionDate": "2026-03-08T19:47:32-00:00",
-      "versionDescription": "Build 899056762 from @binnichtaktivsipas",
-      "size": 123459549,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/d4/b2/a1d4b276-cb04-c596-fd73-41cb908b1fb8/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/WABusinessRaveal.ipa",
-      "minOSVersion": "15.1",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        0,
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "WABusinessRaveal.ipa"
-      }
-    },
-    {
-      "name": "‎WA Business",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB.C3S4S6NFFS",
       "developerName": "WhatsApp Inc.",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Cycript, CydiaSubstrate, WhatsAppRevael\n\nWhatsApp Business injected with Revael, Will crash on first lauch, downloading stories won't work\n\n---\nAbout this app\n\nEverything you love about WhatsApp plus built-in tools for business\nWhatsApp Business is a free-to-download app with built-in tools to help you work smarter, build trust, and grow your business.\n\nYou get free calls and free international messaging plus business features to help you do more with conversations.\n\nDownload the app to get business benefits like these:\n\n• Work smarter. Save time by letting the app do the work for you! Send customers automated quick replies and away mes",
@@ -51889,32 +51889,6 @@
     },
     {
       "name": "‎WhatsApp",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "developerName": "WhatsApp Inc.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BlockWAUpdates, ContactSync, CydiaSubstrate, OnlineNotify, Stalky\n\n---\nWhatsApp from Meta is a free messaging and calling app used by over 2 billion people across 180+ countries. It's super simple, reliable and private, making it perfect for staying in touch with your friends and family worldwide. WhatsApp works across mobile, tablet, and desktop even on slow connections, with no subscription fees.\n\nPrivate messaging and calls across the world\n\nYour privacy is our priority. With end-to-end encryption, you can be sure that your personal messages and calls stay betwe",
-      "version": "26.26.10",
-      "versionDate": "2026-07-04T21:57:31-00:00",
-      "versionDescription": "Build 1009827063 from @thescholarslounge",
-      "size": 148592598,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/fc/69/5dfc6928-acee-faaa-5c06-9b3b13197ebd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://telos.ftp.sh/ipas/[TG@wabeta_ipa]_26.26.10_WC.ipa",
-      "minOSVersion": "15.1",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@thescholarslounge",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "[TG@wabeta_ipa]_26.26.10_WC.ipa"
-      }
-    },
-    {
-      "name": "‎WhatsApp",
       "bundleIdentifier": "com.fouadraheb.watusi",
       "developerName": "WhatsApp Inc.",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: ContactSync, OnlineNotify, Stalky, Watusi, WatusiToolsSL\n\nWatusi for WhatsApp Duplicate\n\n---\nWhatsApp from Meta is a free messaging and calling app used by over 2 billion people across 180+ countries. It's super simple, reliable and private, making it perfect for staying in touch with your friends and family worldwide. WhatsApp works across mobile, tablet, and desktop even on slow connections, with no subscription fees.\n\nPrivate messaging and calls across the world\n\nYour privacy is our priority. With end-to-end encryption, you can be sure that your personal messages and calls stay betwe",
@@ -51937,6 +51911,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "com.fouadraheb.watusi_26.14.73_watusi3_1.3.9_sl.ipa"
+      }
+    },
+    {
+      "name": "‎WhatsApp",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "WhatsApp Inc.",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: BlockWAUpdates, ContactSync, CydiaSubstrate, OnlineNotify, Stalky\n\n---\nWhatsApp from Meta is a free messaging and calling app used by over 2 billion people across 180+ countries. It's super simple, reliable and private, making it perfect for staying in touch with your friends and family worldwide. WhatsApp works across mobile, tablet, and desktop even on slow connections, with no subscription fees.\n\nPrivate messaging and calls across the world\n\nYour privacy is our priority. With end-to-end encryption, you can be sure that your personal messages and calls stay betwe",
+      "version": "26.26.10",
+      "versionDate": "2026-07-04T21:57:31-00:00",
+      "versionDescription": "Build 1009827063 from @thescholarslounge",
+      "size": 148592598,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/fc/69/5dfc6928-acee-faaa-5c06-9b3b13197ebd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://telos.ftp.sh/ipas/[TG@wabeta_ipa]_26.26.10_WC.ipa",
+      "minOSVersion": "15.1",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "[TG@wabeta_ipa]_26.26.10_WC.ipa"
       }
     },
     {
