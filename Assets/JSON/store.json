@@ -7,11 +7,11 @@
   "website": "https://telos-db.github.io/telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.paradyme.solarsmasher",
     "com.lake.coloring",
+    "com.resonantcavity.Voloco",
     "com.lappir.keto",
-    "com.waveline.nabd",
-    "in.muditbhargava.LookUp",
-    "com.blockpuzzle.us.ios"
+    "com.waveline.nabd"
   ],
   "apps": [
     {
@@ -63603,14 +63603,14 @@
       "bundleIdentifier": "com.paradyme.solarsmasher",
       "developerName": "PARADYME LIMITED",
       "subtitle": "*Tweak:** No Ads | *Patched ✓**",
-      "version": "2.7.0",
-      "versionDate": "2026-06-11",
+      "version": "2.7.3",
+      "versionDate": "2026-08-01",
       "versionDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Solar Smash-v2.7.0-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Solar Smash-v2.7.3-riftysipas.ipa",
       "localizedDescription": "*Tweak:** No Ads | *Patched ✓**\n\nSolar Smash",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/61/ee/2561ee13-8c3c-44af-ca0a-d788bb503d20/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 306958488,
+      "size": 309651777,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/f5/9f/d2f59f9b-a68d-0e29-7859-c87455e4a3dd/198ff7ec-e20f-4e37-a657-6bf826c62547_SS3_5.5_iOS.jpg/406x228bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cf/59/78/cf59789f-0c2a-18a4-4986-ca0ee46a6c59/afa8aa9e-3fe9-4d7f-b9e7-d92869b2bc23_SS5_5.5_iOS.jpg/406x228bb.jpg",
@@ -63630,11 +63630,11 @@
       },
       "versions": [
         {
-          "version": "2.7.0",
-          "date": "2026-06-10",
+          "version": "2.7.3",
+          "date": "2026-08-01",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Solar Smash-v2.7.0-riftysipas.ipa",
-          "size": 306958488
+          "downloadURL": "https://telos.ftp.sh/ipas/Solar Smash-v2.7.3-riftysipas.ipa",
+          "size": 309651777
         }
       ],
       "category": "games"
@@ -77125,14 +77125,14 @@
       "bundleIdentifier": "com.resonantcavity.Voloco",
       "developerName": "Resonant Cavity, Inc",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "9.16.5",
-      "versionDate": "2026-07-14",
+      "version": "9.17.0",
+      "versionDate": "2026-08-01",
       "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.5-riftysipas.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.17.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nVoloco: Vocal Recording Studio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/64/c7/0664c77e-22c4-134a-9755-381df2eb5617/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 117487051,
+      "size": 121015150,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -77153,11 +77153,11 @@
       },
       "versions": [
         {
-          "version": "9.16.5",
-          "date": "2026-07-14",
+          "version": "9.17.0",
+          "date": "2026-08-01",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.16.5-riftysipas.ipa",
-          "size": 117487051
+          "downloadURL": "https://telos.ftp.sh/ipas/Voloco: Vocal Recording Studio-v9.17.0-riftysipas.ipa",
+          "size": 121015150
         }
       ],
       "category": "music"
@@ -82974,7 +82974,7 @@
     {
       "title": "⚙️ Telos Update 8.1",
       "identifier": "telos-update-2026-08-01",
-      "caption": "32 Apps Updated:\n• 8 Health & Fitness\n• 8 Photo & Video\n• 4 Education\n• 4 Games\n• 2 Sports\n• 2 Reference\n• 2 Lifestyle\n• 2 News",
+      "caption": "39 Apps Updated:\n• 8 Health & Fitness\n• 8 Photo & Video\n• 8 Games\n• 4 Education\n• 3 Lifestyle\n• 2 Sports\n• 2 Reference\n• 2 News\n• 2 Music",
       "date": "2026-08-01",
       "tintColor": "#02433b",
       "notify": true,
