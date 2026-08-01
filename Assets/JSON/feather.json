@@ -7,11 +7,11 @@
   "website": "https://telos-db.github.io/telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.lappir.keto",
+    "com.waveline.nabd",
     "in.muditbhargava.LookUp",
     "com.blockpuzzle.us.ios",
-    "com.ketchapp.spacefrontier",
-    "com.book.summaries.reading",
-    "myndarc.newFitnessApp"
+    "com.ketchapp.spacefrontier"
   ],
   "apps": [
     {
@@ -35490,14 +35490,14 @@
       "bundleIdentifier": "com.lappir.keto",
       "developerName": "Zinaida Davydova",
       "subtitle": "Tweaked with KetoDiet, blatantsPatch",
-      "version": "9.1",
-      "versionDate": "2026-07-29",
+      "version": "9.1.1",
+      "versionDate": "2026-08-01",
       "versionDescription": "Tweaks: KetoDiet, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Keto_diet_app－Low_carb_manager_v9_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Keto_diet_app－Low_carb_manager_v9_1_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: KetoDiet, blatantsPatch\n\nKeto diet app－Low carb manager\n\n---\nJoin over 1,000,000 users achieving their keto and low-carb goals!\n\nThis app is like having your own personal keto and low-carb nutritionist in the palm of your hand. Whether you are strictly keto or just cutting back on carbs, losing weight has never been so simple! Keto.app is designed to be the fastest, easiest-to-use macro tracker on the market, helping you hit your goals without the hassle.\n\nTry it for free to get your custom macro plan! Upgrading to PRO is only required if you want to log",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/5a/88/8e5a883e-a8ff-6ae9-edd1-a14e5f98047f/KetoIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 83861418,
+      "size": 83891741,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -35521,11 +35521,11 @@
       },
       "versions": [
         {
-          "version": "9.1",
-          "date": "2026-07-29",
+          "version": "9.1.1",
+          "date": "2026-08-01",
           "localizedDescription": "Tweaks: KetoDiet, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Keto_diet_app－Low_carb_manager_v9_1_Subscription_Unlocked_blatant.ipa",
-          "size": 83861418
+          "downloadURL": "https://telos.ftp.sh/ipas/Keto_diet_app－Low_carb_manager_v9_1_1_Subscription_Unlocked_blatant.ipa",
+          "size": 83891741
         }
       ],
       "category": "health-&-fitness"
@@ -83153,14 +83153,14 @@
       "bundleIdentifier": "com.waveline.nabd",
       "developerName": "Nabd Ltd.",
       "subtitle": "نبض for iOS",
-      "version": "12.4",
-      "versionDate": "2026-03-03",
+      "version": "12.8",
+      "versionDate": "2026-08-01",
       "versionDescription": "Source: @thescholarslounge",
-      "downloadURL": "https://telos.ftp.sh/ipas/com.waveline.nabd-12.4-eeveedecrypter.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/com.waveline.nabd-12.8-eeveedecrypter.ipa",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nDecrypted\n\n---\nالتطبيق الإخباري الأول في الوطن العربي والحاصل على 40 مليون مستخدم\n\nكن أول من يعلم مع تطبيق \"نبض\" - أول تطبيق مجاني يقدم لك آخر الأخبار من مصادرك المختارة، كالأخبار المحلية والعالمية والسياسية والرياضية والتقنية والنسائية، مع خاصية التنبيهات للأخبار العاجلة\n\nتابع أكثر من 2,000 مصدر إخباري من الشرق الأوسط و العالم!\n\nتابع مصادرك المفضلة من السعودية، مصر، الكويت، قطر، الإمارات، البحرين، ،فلسطين، الأردن، المغرب، تونس، ليبيا، اليمن، لبنان، عمان، العراق و مصادر عربية وعالمية أخرى\n\nأخبار من مختلف المجا",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/75/64/ee7564b7-38a3-e60a-4780-a87e5fc8b26a/AppIconNew-0-0-1x_U007emarketing-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/46/48/d9464879-a43f-d769-6b48-47d57c059792/AppIconNew-0-0-1x_U007emarketing-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 46642939,
+      "size": 49464509,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e7/e3/74/e7e3740d-2bae-672b-379d-af71fc9e18d2/6a5e026d-7447-4f8e-975c-eb8a3e3c536f_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d2/af/ee/d2afeedf-1024-fccb-d026-a99afc5342b3/43504da8-ca4e-40e9-9ce2-051273801432_2.png/392x696bb.png",
@@ -83180,11 +83180,11 @@
       },
       "versions": [
         {
-          "version": "12.4",
-          "date": "2026-03-03",
+          "version": "12.8",
+          "date": "2026-08-01",
           "localizedDescription": "Source: @thescholarslounge",
-          "downloadURL": "https://telos.ftp.sh/ipas/com.waveline.nabd-12.4-eeveedecrypter.ipa",
-          "size": 46642939
+          "downloadURL": "https://telos.ftp.sh/ipas/com.waveline.nabd-12.8-eeveedecrypter.ipa",
+          "size": 49464509
         }
       ],
       "category": "news"
