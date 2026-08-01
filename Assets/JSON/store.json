@@ -7,11 +7,11 @@
   "website": "https://telos-db.github.io/telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.lake.coloring",
     "com.lappir.keto",
     "com.waveline.nabd",
     "in.muditbhargava.LookUp",
-    "com.blockpuzzle.us.ios",
-    "com.ketchapp.spacefrontier"
+    "com.blockpuzzle.us.ios"
   ],
   "apps": [
     {
@@ -36366,14 +36366,14 @@
       "bundleIdentifier": "com.lake.coloring",
       "developerName": "Lake Coloring",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.29.0",
-      "versionDate": "2026-07-29",
+      "version": "4.30.0",
+      "versionDate": "2026-08-01",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://telos.ftp.sh/ipas/Lake_Coloring_Book_for_Adults_v4_29_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://telos.ftp.sh/ipas/Lake_Coloring_Book_for_Adults_v4_30_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nLake: Coloring Book for Adults",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/bd/e7/f2bde74e-2560-6121-6559-c298698e8a89/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 210053891,
+      "size": 210296859,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/44/fc/4444fc20-f001-a7b6-208f-b2d509cbcb9a/iPhone_8_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/69/c6/7f69c69b-ba52-817c-b4f8-4906f5334710/iPhone_8_02.png/392x696bb.png",
@@ -36399,11 +36399,11 @@
       },
       "versions": [
         {
-          "version": "4.29.0",
-          "date": "2026-07-29",
+          "version": "4.30.0",
+          "date": "2026-08-01",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://telos.ftp.sh/ipas/Lake_Coloring_Book_for_Adults_v4_29_0_Subscription_Unlocked_blatant.ipa",
-          "size": 210053891
+          "downloadURL": "https://telos.ftp.sh/ipas/Lake_Coloring_Book_for_Adults_v4_30_0_Subscription_Unlocked_blatant.ipa",
+          "size": 210296859
         }
       ],
       "category": "lifestyle"
@@ -82974,7 +82974,7 @@
     {
       "title": "⚙️ Telos Update 8.1",
       "identifier": "telos-update-2026-08-01",
-      "caption": "34 Apps Updated:\n• 10 Health & Fitness\n• 8 Photo & Video\n• 4 Education\n• 4 Games\n• 4 News\n• 2 Sports\n• 2 Reference",
+      "caption": "32 Apps Updated:\n• 8 Health & Fitness\n• 8 Photo & Video\n• 4 Education\n• 4 Games\n• 2 Sports\n• 2 Reference\n• 2 Lifestyle\n• 2 News",
       "date": "2026-08-01",
       "tintColor": "#02433b",
       "notify": true,
